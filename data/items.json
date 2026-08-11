@@ -1,12 +1,48 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-11T05:29:55Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1346,
+    "updated_at": "2026-08-11T05:28:55Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
     "stars": 2,
-    "updated_at": "2026-08-11T05:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-08-11T05:25:55Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-11T05:25:13Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 4,
+    "updated_at": "2026-08-11T05:24:32Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
   },
   {
     "description": "A small, honest RAG assistant for application security: heading-aware chunking, local ONNX embeddings, a ChromaDB vector",
@@ -14,8 +50,80 @@
     "language": "Python",
     "name": "Th3Circle-app/appsec-rag",
     "stars": 0,
-    "updated_at": "2026-08-11T05:12:33Z",
+    "updated_at": "2026-08-11T05:20:16Z",
     "url": "https://github.com/Th3Circle-app/appsec-rag"
+  },
+  {
+    "description": "Production engineering patterns for spatial LLMs and geospatial AI agents \u2014 validation-first architecture, geospatial RA",
+    "id": "spatialllm/spatialllm",
+    "language": "CSS",
+    "name": "spatialllm/spatialllm",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:18:00Z",
+    "url": "https://github.com/spatialllm/spatialllm"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:17:22Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-11T05:17:11Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-08-11T05:16:35Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1072,
+    "updated_at": "2026-08-11T05:21:36Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T05:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T05:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1434,
+    "updated_at": "2026-08-11T05:30:19Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
@@ -43,15 +151,6 @@
     "stars": 7,
     "updated_at": "2026-08-11T05:11:56Z",
     "url": "https://github.com/thameema/memnos"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-11T05:10:50Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
@@ -90,24 +189,6 @@
     "url": "https://github.com/arsanantha1890-prog/code-change-impact-analyzer"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T05:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1433,
-    "updated_at": "2026-08-11T05:11:54Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
     "description": "The documentation for SurrealDB, powered by Astro",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
@@ -124,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T04:35:27Z",
     "url": "https://github.com/jeganxthan/Anvil"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-11T04:30:32Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1072,
-    "updated_at": "2026-08-11T04:20:11Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -214,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-08-11T03:37:49Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1345,
-    "updated_at": "2026-08-11T03:33:43Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -338,7 +392,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8074,
-    "updated_at": "2026-08-11T03:46:56Z",
+    "updated_at": "2026-08-11T05:20:04Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -391,62 +445,8 @@
     "id": "neuml/txtai",
     "language": "Python",
     "name": "neuml/txtai",
-    "stars": 12854,
+    "stars": 12855,
     "updated_at": "2026-08-11T02:09:25Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Semantic gravity database in Rust: related records live together on disk, so graph traversal is a range scan and vector ",
-    "id": "Tunolabs/xyzdb",
-    "language": "Rust",
-    "name": "Tunolabs/xyzdb",
-    "stars": 7,
-    "updated_at": "2026-08-11T02:02:43Z",
-    "url": "https://github.com/Tunolabs/xyzdb"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "Python",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-08-11T01:54:37Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
-  },
-  {
-    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-08-11T01:53:10Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 335,
-    "updated_at": "2026-08-11T01:50:44Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 5,
-    "updated_at": "2026-08-11T01:35:18Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 5,
-    "updated_at": "2026-08-11T01:25:19Z",
-    "url": "https://github.com/Yasou13/MESA"
   }
 ]
