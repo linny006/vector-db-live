@@ -1,12 +1,75 @@
 [
   {
+    "description": "Multilingual RAG agent for document Q&A. Chat with PDFs, Word docs and spreadsheets: hybrid BM25 + FAISS retrieval, RRF ",
+    "id": "JoshPola96/ai-data-agent",
+    "language": "Python",
+    "name": "JoshPola96/ai-data-agent",
+    "stars": 0,
+    "updated_at": "2026-08-11T12:24:46Z",
+    "url": "https://github.com/JoshPola96/ai-data-agent"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-11T12:15:19Z",
+    "updated_at": "2026-08-11T12:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7046,
+    "updated_at": "2026-08-11T12:21:24Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6207,
+    "updated_at": "2026-08-11T12:27:54Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-11T12:19:55Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29949,
+    "updated_at": "2026-08-11T12:19:35Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-11T12:17:19Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T12:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "What a vector index actually costs, month 1 to month 36. Vendor rate cards are JSON \u2014 corrections welcome, especially fr",
@@ -36,15 +99,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6207,
-    "updated_at": "2026-08-11T12:11:45Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -63,6 +117,15 @@
     "url": "https://github.com/gmatheusd/MagicFridgeAI"
   },
   {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35133,
+    "updated_at": "2026-08-11T12:05:53Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
@@ -70,15 +133,6 @@
     "stars": 4417,
     "updated_at": "2026-08-11T12:13:47Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T12:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -94,18 +148,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1357,
-    "updated_at": "2026-08-11T11:48:27Z",
+    "stars": 1348,
+    "updated_at": "2026-08-11T12:30:21Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-11T11:45:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -124,24 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T11:43:36Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29950,
-    "updated_at": "2026-08-11T12:14:49Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Multilingual RAG agent for document Q&A. Chat with PDFs, Word docs and spreadsheets: hybrid BM25 + FAISS retrieval, RRF ",
-    "id": "JoshPola96/ai-data-agent",
-    "language": "Python",
-    "name": "JoshPola96/ai-data-agent",
-    "stars": 0,
-    "updated_at": "2026-08-11T11:38:06Z",
-    "url": "https://github.com/JoshPola96/ai-data-agent"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -220,7 +247,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45605,
+    "stars": 45603,
     "updated_at": "2026-08-11T11:14:22Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -241,24 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T11:10:52Z",
     "url": "https://github.com/Sourav-Chakraborty/PMO-Palse"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-11T11:49:23Z",
-    "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7046,
-    "updated_at": "2026-08-11T12:06:36Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -293,7 +302,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 66,
-    "updated_at": "2026-08-11T10:28:43Z",
+    "updated_at": "2026-08-11T12:15:29Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -311,7 +320,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8077,
-    "updated_at": "2026-08-11T12:11:22Z",
+    "updated_at": "2026-08-11T12:26:18Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -356,7 +365,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5723,
-    "updated_at": "2026-08-11T11:12:14Z",
+    "updated_at": "2026-08-11T12:22:10Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16720,
-    "updated_at": "2026-08-11T12:15:12Z",
+    "updated_at": "2026-08-11T12:25:18Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -400,7 +409,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15420,
+    "stars": 15421,
     "updated_at": "2026-08-11T09:18:32Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -419,7 +428,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58933,
-    "updated_at": "2026-08-11T09:14:03Z",
+    "updated_at": "2026-08-11T12:21:11Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 15,
     "updated_at": "2026-08-11T09:11:27Z",
     "url": "https://github.com/ToucanDB/ToucanDB"
-  },
-  {
-    "description": "Local-first AI knowledge platform that continuously builds, indexes, and queries your personal knowledge base from Obsid",
-    "id": "harisrana-dev/ai-knowledge-platform",
-    "language": "Python",
-    "name": "harisrana-dev/ai-knowledge-platform",
-    "stars": 0,
-    "updated_at": "2026-08-11T10:22:39Z",
-    "url": "https://github.com/harisrana-dev/ai-knowledge-platform"
   }
 ]
