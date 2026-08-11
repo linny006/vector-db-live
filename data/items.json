@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T19:00:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-11T18:59:35Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Streamlit app for natural-language Q&A search over your own documents, powered by Pinecone's integrated inference API - ",
+    "id": "Chowdri-Furkhan07/pinecone-semantic-search",
+    "language": "Python",
+    "name": "Chowdri-Furkhan07/pinecone-semantic-search",
+    "stars": 1,
+    "updated_at": "2026-08-11T18:54:15Z",
+    "url": "https://github.com/Chowdri-Furkhan07/pinecone-semantic-search"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 85,
+    "updated_at": "2026-08-11T18:53:52Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:53:35Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16722,
+    "updated_at": "2026-08-11T18:54:37Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:48:07Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-08-11T18:47:26Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33922,
+    "updated_at": "2026-08-11T18:47:26Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -7,6 +97,15 @@
     "stars": 1074,
     "updated_at": "2026-08-11T18:44:28Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29955,
+    "updated_at": "2026-08-11T19:00:30Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -45,40 +144,13 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-11T18:36:42Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T18:36:16Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin.",
     "id": "firelock-ai/kin-vector",
     "language": "Rust",
     "name": "firelock-ai/kin-vector",
     "stars": 0,
-    "updated_at": "2026-08-11T18:30:39Z",
+    "updated_at": "2026-08-11T18:59:27Z",
     "url": "https://github.com/firelock-ai/kin-vector"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T18:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production .NET SDK for Alibaba ZVec \u2014 DI, typed ODM, async, SafeHandles, full indexes/FTS, and mobile RIDs. Not a thin ",
@@ -97,24 +169,6 @@
     "stars": 422,
     "updated_at": "2026-08-11T18:21:51Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-11T18:18:30Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 85,
-    "updated_at": "2026-08-11T18:14:02Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "FastAPI service that exposes a ChromaDB knowledge base (1,500+ docs) for retrieval \u2014 query, add, health, and stats endpo",
@@ -221,7 +275,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-11T18:08:53Z",
+    "updated_at": "2026-08-11T18:47:33Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -252,15 +306,6 @@
     "url": "https://github.com/TusKANNy/kannolo"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29955,
-    "updated_at": "2026-08-11T18:44:19Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -277,24 +322,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T17:24:41Z",
     "url": "https://github.com/taraksh01/memoryhub"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33921,
-    "updated_at": "2026-08-11T18:45:25Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-11T17:06:28Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -328,7 +355,7 @@
     "id": "messkan/prompt-cache",
     "language": "Go",
     "name": "messkan/prompt-cache",
-    "stars": 275,
+    "stars": 277,
     "updated_at": "2026-08-11T16:47:43Z",
     "url": "https://github.com/messkan/prompt-cache"
   },
@@ -421,32 +448,5 @@
     "stars": 742,
     "updated_at": "2026-08-11T16:24:05Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 51563,
-    "updated_at": "2026-08-11T16:13:44Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "AI-powered RAG document assistant for querying PDFs with Streamlit, FAISS, SentenceTransformers, and Groq.",
-    "id": "PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant",
-    "language": "Python",
-    "name": "PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant",
-    "stars": 1,
-    "updated_at": "2026-08-11T16:09:20Z",
-    "url": "https://github.com/PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant"
-  },
-  {
-    "description": "TypeScript example: build a content-based article recommender using Pinecone similarity search.",
-    "id": "pinecone-io/recommender-example-typescript",
-    "language": "TypeScript",
-    "name": "pinecone-io/recommender-example-typescript",
-    "stars": 57,
-    "updated_at": "2026-08-11T15:57:01Z",
-    "url": "https://github.com/pinecone-io/recommender-example-typescript"
   }
 ]
