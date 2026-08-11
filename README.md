@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-11 22:15 UTC
+> ⏰ Last updated: 2026-08-11 22:20 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-11 |  |
-| 3 | [schwichtgit/ai-resume](https://github.com/schwichtgit/ai-resume) | 5 | Python | 2026-08-11 | AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv |
-| 4 | [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) | 67 | Python | 2026-08-11 | The official Pinecone marketplace for Claude Code Plugins |
-| 5 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1074 | Java | 2026-08-11 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 6 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 840 | Go | 2026-08-11 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 8 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6591 | Python | 2026-08-11 |  Memory library for building stateful agents |
-| 9 | [awslabs/genai-bedrock-agent-chatbot](https://github.com/awslabs/genai-bedrock-agent-chatbot) | 130 | Python | 2026-08-11 | A demo ChatBot application developed using Amazon Bedrock service's KnowledgeBase, Agent and other AWS's serveless GenAI |
-| 10 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-11 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 11 | [eniglio-ctrl/enterprise-rag-platform](https://github.com/eniglio-ctrl/enterprise-rag-platform) | 0 | Java | 2026-08-11 | Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first  |
-| 12 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1875 | Go | 2026-08-11 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 13 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 1 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-11 |  |
+| 5 | [schwichtgit/ai-resume](https://github.com/schwichtgit/ai-resume) | 5 | Python | 2026-08-11 | AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv |
+| 6 | [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) | 67 | Python | 2026-08-11 | The official Pinecone marketplace for Claude Code Plugins |
+| 7 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1074 | Java | 2026-08-11 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 8 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 840 | Go | 2026-08-11 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
+| 9 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6591 | Python | 2026-08-11 |  Memory library for building stateful agents |
+| 10 | [awslabs/genai-bedrock-agent-chatbot](https://github.com/awslabs/genai-bedrock-agent-chatbot) | 130 | Python | 2026-08-11 | A demo ChatBot application developed using Amazon Bedrock service's KnowledgeBase, Agent and other AWS's serveless GenAI |
+| 11 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-11 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 12 | [eniglio-ctrl/enterprise-rag-platform](https://github.com/eniglio-ctrl/enterprise-rag-platform) | 0 | Java | 2026-08-11 | Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first  |
+| 13 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1875 | Go | 2026-08-11 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 14 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-11 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
 | 15 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1355 | Rust | 2026-08-11 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
 | 16 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-11 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
