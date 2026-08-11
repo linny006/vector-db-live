@@ -1,5 +1,95 @@
 [
   {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 85,
+    "updated_at": "2026-08-11T18:14:02Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "FastAPI service that exposes a ChromaDB knowledge base (1,500+ docs) for retrieval \u2014 query, add, health, and stats endpo",
+    "id": "SaiRam-Peruri/RAG-API",
+    "language": "Python",
+    "name": "SaiRam-Peruri/RAG-API",
+    "stars": 0,
+    "updated_at": "2026-08-11T18:10:35Z",
+    "url": "https://github.com/SaiRam-Peruri/RAG-API"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:09:19Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 266,
+    "updated_at": "2026-08-11T18:08:21Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1466,
+    "updated_at": "2026-08-11T18:05:29Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1352,
+    "updated_at": "2026-08-11T18:04:16Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Centrality-aware GraphRAG retrieval planner \u2014 drop-in layer over any vector DB. Zero LLM in the query path; MCP server i",
+    "id": "DemigodDSK/hubmesh",
+    "language": "Python",
+    "name": "DemigodDSK/hubmesh",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:02:08Z",
+    "url": "https://github.com/DemigodDSK/hubmesh"
+  },
+  {
+    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
+    "id": "LnYo-Cly/ai4j",
+    "language": "Java",
+    "name": "LnYo-Cly/ai4j",
+    "stars": 422,
+    "updated_at": "2026-08-11T18:01:26Z",
+    "url": "https://github.com/LnYo-Cly/ai4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 7,
+    "updated_at": "2026-08-11T18:03:28Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -63,21 +153,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T17:45:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-11T17:51:04Z",
+    "updated_at": "2026-08-11T18:08:53Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -90,13 +171,13 @@
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-11T17:41:55Z",
-    "url": "https://github.com/agent-ix/ecaz"
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35141,
+    "updated_at": "2026-08-11T17:44:08Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -113,7 +194,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11127,
-    "updated_at": "2026-08-11T17:44:47Z",
+    "updated_at": "2026-08-11T18:07:45Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -131,8 +212,17 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29955,
-    "updated_at": "2026-08-11T17:57:44Z",
+    "updated_at": "2026-08-11T18:09:49Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8081,
+    "updated_at": "2026-08-11T17:29:56Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "MCP server for persistent memory using Qdrant vector store",
@@ -160,24 +250,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T17:18:22Z",
     "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1466,
-    "updated_at": "2026-08-11T17:10:15Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1352,
-    "updated_at": "2026-08-11T17:09:34Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -247,7 +319,7 @@
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1435,
+    "stars": 1436,
     "updated_at": "2026-08-11T16:33:13Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
@@ -286,15 +358,6 @@
     "stars": 90,
     "updated_at": "2026-08-11T16:30:39Z",
     "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35140,
-    "updated_at": "2026-08-11T17:44:08Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Measured agentic RAG: LangGraph routing agent over a 2,296-article Tolkien corpus (Fandom + Wikipedia + Tolkien Gateway)",
@@ -351,15 +414,6 @@
     "url": "https://github.com/PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 85,
-    "updated_at": "2026-08-11T16:51:45Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "TypeScript example: build a content-based article recommender using Pinecone similarity search.",
     "id": "pinecone-io/recommender-example-typescript",
     "language": "TypeScript",
@@ -374,7 +428,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16721,
-    "updated_at": "2026-08-11T17:53:59Z",
+    "updated_at": "2026-08-11T18:13:03Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 703,
     "updated_at": "2026-08-11T15:49:24Z",
     "url": "https://github.com/elastic/mcp-server-elasticsearch"
-  },
-  {
-    "description": "Local-first hybrid RAG for scientific PDFs: bilingual (EL/EN) Q&A with page-level citations, an anti-hallucination relev",
-    "id": "kostas221/local-rag-assistant",
-    "language": "Python",
-    "name": "kostas221/local-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-11T15:47:23Z",
-    "url": "https://github.com/kostas221/local-rag-assistant"
-  },
-  {
-    "description": "Anvil is a Rust + Python AI desktop app with a FastAPI backend, supporting RAG, MCP, multi-provider LLMs (OpenAI, Ollama",
-    "id": "jeganxthan/Anvil",
-    "language": "Python",
-    "name": "jeganxthan/Anvil",
-    "stars": 0,
-    "updated_at": "2026-08-11T15:44:16Z",
-    "url": "https://github.com/jeganxthan/Anvil"
-  },
-  {
-    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
-    "id": "vicquick/nobrainr",
-    "language": "Python",
-    "name": "vicquick/nobrainr",
-    "stars": 0,
-    "updated_at": "2026-08-11T15:41:27Z",
-    "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "RAG system built from scratch over arXiv papers. Tokenizer-aware chunking, BGE embeddings, ChromaDB, and grounded Claude",
-    "id": "DBlassio/rag-arxiv-fds",
-    "language": "Python",
-    "name": "DBlassio/rag-arxiv-fds",
-    "stars": 0,
-    "updated_at": "2026-08-11T15:25:39Z",
-    "url": "https://github.com/DBlassio/rag-arxiv-fds"
-  },
-  {
-    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
-    "id": "oracle/langchain-oracle",
-    "language": "Python",
-    "name": "oracle/langchain-oracle",
-    "stars": 59,
-    "updated_at": "2026-08-11T17:29:53Z",
-    "url": "https://github.com/oracle/langchain-oracle"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 205,
-    "updated_at": "2026-08-11T15:25:26Z",
-    "url": "https://github.com/codecoradev/uteke"
   }
 ]
