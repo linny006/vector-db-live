@@ -1,11 +1,65 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1353,
+    "updated_at": "2026-08-11T08:26:22Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-11T08:24:52Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
+    "id": "iksnerd/code-nexus",
+    "language": "Elixir",
+    "name": "iksnerd/code-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-11T08:24:39Z",
+    "url": "https://github.com/iksnerd/code-nexus"
+  },
+  {
+    "description": "Benchmark for vector databases.",
+    "id": "zilliztech/VectorDBBench",
+    "language": "Python",
+    "name": "zilliztech/VectorDBBench",
+    "stars": 1159,
+    "updated_at": "2026-08-11T08:22:48Z",
+    "url": "https://github.com/zilliztech/VectorDBBench"
+  },
+  {
+    "description": "Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust \ud83e\udd80",
+    "id": "StarlightSearch/EmbedAnything",
+    "language": "Rust",
+    "name": "StarlightSearch/EmbedAnything",
+    "stars": 1294,
+    "updated_at": "2026-08-11T08:20:14Z",
+    "url": "https://github.com/StarlightSearch/EmbedAnything"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T08:15:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-11T08:15:21Z",
+    "updated_at": "2026-08-11T08:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "Hermida95/rag-multidoc-system",
     "stars": 0,
-    "updated_at": "2026-08-11T08:14:12Z",
+    "updated_at": "2026-08-11T08:16:41Z",
     "url": "https://github.com/Hermida95/rag-multidoc-system"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9411,
-    "updated_at": "2026-08-11T08:12:42Z",
+    "updated_at": "2026-08-11T08:26:58Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -45,15 +99,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
-    "id": "iksnerd/code-nexus",
-    "language": "Elixir",
-    "name": "iksnerd/code-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-11T08:00:44Z",
-    "url": "https://github.com/iksnerd/code-nexus"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -63,21 +108,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T08:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-11T08:06:52Z",
+    "updated_at": "2026-08-11T08:16:42Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -117,6 +153,15 @@
     "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
   },
   {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35129,
+    "updated_at": "2026-08-11T07:59:37Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
     "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
     "id": "GoodbyePlanet/semcode",
     "language": "Python",
@@ -124,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-08-11T08:02:47Z",
     "url": "https://github.com/GoodbyePlanet/semcode"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-11T07:56:52Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -149,7 +185,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6205,
-    "updated_at": "2026-08-11T08:14:47Z",
+    "updated_at": "2026-08-11T08:17:44Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16719,
-    "updated_at": "2026-08-11T08:12:53Z",
+    "updated_at": "2026-08-11T08:22:05Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -180,20 +216,11 @@
     "url": "https://github.com/qdrant/n8n-nodes-qdrant"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1352,
-    "updated_at": "2026-08-11T08:10:23Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12840,
+    "stars": 12841,
     "updated_at": "2026-08-11T07:43:23Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -284,7 +311,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33910,
-    "updated_at": "2026-08-11T07:55:27Z",
+    "updated_at": "2026-08-11T08:29:30Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -342,15 +369,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Benchmark for vector databases.",
-    "id": "zilliztech/VectorDBBench",
-    "language": "Python",
-    "name": "zilliztech/VectorDBBench",
-    "stars": 1159,
-    "updated_at": "2026-08-11T07:02:06Z",
-    "url": "https://github.com/zilliztech/VectorDBBench"
-  },
-  {
     "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
     "id": "lyonzin/knowledge-rag",
     "language": "Python",
@@ -358,15 +376,6 @@
     "stars": 247,
     "updated_at": "2026-08-11T07:01:53Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35128,
-    "updated_at": "2026-08-11T07:59:37Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -391,7 +400,7 @@
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
-    "stars": 739,
+    "stars": 740,
     "updated_at": "2026-08-11T06:54:27Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
@@ -401,7 +410,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45602,
-    "updated_at": "2026-08-11T07:26:16Z",
+    "updated_at": "2026-08-11T08:27:34Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T06:38:10Z",
     "url": "https://github.com/yihui504/TestVDB"
-  },
-  {
-    "description": "From-scratch vector search engine: HNSW indexing, crash-safe persistence, gRPC/REST API, and scatter-gather sharding \u2014 b",
-    "id": "ArnabKarmakar1108/VectorVault",
-    "language": "Python",
-    "name": "ArnabKarmakar1108/VectorVault",
-    "stars": 1,
-    "updated_at": "2026-08-11T06:31:13Z",
-    "url": "https://github.com/ArnabKarmakar1108/VectorVault"
   }
 ]
