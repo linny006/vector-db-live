@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-11 09:58 UTC
+> ⏰ Last updated: 2026-08-11 10:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-11 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 2 | [crate/crate](https://github.com/crate/crate) | 4417 | Java | 2026-08-11 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
-| 3 | [vishwa3/pdf-rag-typescript](https://github.com/vishwa3/pdf-rag-typescript) | 0 | TypeScript | 2026-08-11 | Uses the Google Gemini 2.5 Flash vision model to extract PDF content into clean Markdown, embeds chunks with Gemini embe |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-11 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 6 | [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench) | 1159 | Python | 2026-08-11 | Benchmark for vector databases. |
-| 7 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16720 | Go | 2026-08-11 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-11 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 4 | [crate/crate](https://github.com/crate/crate) | 4417 | Java | 2026-08-11 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
+| 5 | [vishwa3/pdf-rag-typescript](https://github.com/vishwa3/pdf-rag-typescript) | 0 | TypeScript | 2026-08-11 | Uses the Google Gemini 2.5 Flash vision model to extract PDF content into clean Markdown, embeds chunks with Gemini embe |
+| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 7 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-11 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 8 | [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench) | 1159 | Python | 2026-08-11 | Benchmark for vector databases. |
+| 9 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16720 | Go | 2026-08-11 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
 | 10 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1875 | Go | 2026-08-11 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 11 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6207 | Rust | 2026-08-11 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
 | 12 | [sergiunicoara/Generative-AI](https://github.com/sergiunicoara/Generative-AI) | 3 | Python | 2026-08-11 | Production GraphRAG portfolio — knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG  |
