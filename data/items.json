@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-11T19:00:27Z",
+    "updated_at": "2026-08-11T19:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-11T19:10:12Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-11T19:09:43Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 2,
+    "updated_at": "2026-08-11T19:09:01Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-11T19:08:39Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
+    "id": "oracle/langchain-oracle",
+    "language": "Python",
+    "name": "oracle/langchain-oracle",
+    "stars": 59,
+    "updated_at": "2026-08-11T19:04:48Z",
+    "url": "https://github.com/oracle/langchain-oracle"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T19:00:40Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29954,
+    "updated_at": "2026-08-11T19:14:20Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -32,17 +95,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 85,
-    "updated_at": "2026-08-11T18:53:52Z",
+    "updated_at": "2026-08-11T19:00:42Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-11T18:53:35Z",
-    "url": "https://github.com/agent-ix/ecaz"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -77,17 +131,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33922,
-    "updated_at": "2026-08-11T18:47:26Z",
+    "updated_at": "2026-08-11T19:13:57Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T18:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -97,15 +142,6 @@
     "stars": 1074,
     "updated_at": "2026-08-11T18:44:28Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29955,
-    "updated_at": "2026-08-11T19:00:30Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -158,7 +194,7 @@
     "language": "C#",
     "name": "ahmedSamir50/AdamSystems.ZVec.NET",
     "stars": 2,
-    "updated_at": "2026-08-11T18:31:23Z",
+    "updated_at": "2026-08-11T19:06:51Z",
     "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET"
   },
   {
@@ -234,15 +270,6 @@
     "url": "https://github.com/thameema/memnos"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-11T17:57:06Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
     "id": "TanNguyen234/VietLex-Tech-Spec",
     "language": "Python",
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35141,
-    "updated_at": "2026-08-11T18:31:15Z",
+    "updated_at": "2026-08-11T19:03:10Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -355,7 +382,7 @@
     "id": "messkan/prompt-cache",
     "language": "Go",
     "name": "messkan/prompt-cache",
-    "stars": 277,
+    "stars": 278,
     "updated_at": "2026-08-11T16:47:43Z",
     "url": "https://github.com/messkan/prompt-cache"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T16:28:48Z",
     "url": "https://github.com/nvojvodic-white/agent-platform"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-08-11T16:28:39Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6207,
-    "updated_at": "2026-08-11T18:22:01Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 742,
-    "updated_at": "2026-08-11T16:24:05Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
   }
 ]
