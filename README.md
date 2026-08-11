@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-11 04:45 UTC
+> ⏰ Last updated: 2026-08-11 05:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,13 +43,13 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1433 | Python | 2026-08-11 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
-| 3 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 7 | Rust | 2026-08-11 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
-| 4 | [devalexanderdaza/PocketRAG](https://github.com/devalexanderdaza/PocketRAG) | 0 | PHP | 2026-08-11 | 🐘 A zero-dependency, drop-in hybrid RAG engine for PHP. Bring vector search and conversational AI to any traditional PHP |
-| 5 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 119 | MDX | 2026-08-11 | The documentation for SurrealDB, powered by Astro |
-| 6 | [jeganxthan/Anvil](https://github.com/jeganxthan/Anvil) | 0 | Python | 2026-08-11 | Anvil is a Rust + Python AI desktop app with a FastAPI backend, supporting RAG, MCP, multi-provider LLMs (OpenAI, Ollama |
-| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [Th3Circle-app/appsec-rag](https://github.com/Th3Circle-app/appsec-rag) | 0 | Python | 2026-08-11 | A small, honest RAG assistant for application security: heading-aware chunking, local ONNX embeddings, a ChromaDB vector |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1433 | Python | 2026-08-11 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
+| 5 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 7 | Rust | 2026-08-11 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
+| 6 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 119 | MDX | 2026-08-11 | The documentation for SurrealDB, powered by Astro |
+| 7 | [jeganxthan/Anvil](https://github.com/jeganxthan/Anvil) | 0 | Python | 2026-08-11 | Anvil is a Rust + Python AI desktop app with a FastAPI backend, supporting RAG, MCP, multi-provider LLMs (OpenAI, Ollama |
+| 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 9 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1072 | Java | 2026-08-11 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
 | 10 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-11 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
 | 11 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1612 | Python | 2026-08-11 | Unified multimodal backend for AI data apps |
@@ -62,7 +62,7 @@ expired items removed — so you can rely on what you see being current.
 | 18 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-11 | Object storage for the AI age |
 | 19 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-11 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
 | 20 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 3 | Python | 2026-08-11 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
-| 21 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1344 | Rust | 2026-08-11 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 21 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1345 | Rust | 2026-08-11 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
 | 22 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16717 | Go | 2026-08-11 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
 | 23 | [vul-os/basin](https://github.com/vul-os/basin) | 4 | Rust | 2026-08-11 |  Multi-tenant Postgres-compatible database on object storage. 12× cheaper disk than Postgres, native vector search, per- |
 | 24 | [stateletlab/statelet-sdk](https://github.com/stateletlab/statelet-sdk) | 0 | Python | 2026-08-11 | Official client SDKs for Statelet — Python, Node.js, Go, Rust, Java, and C++ |
@@ -70,7 +70,7 @@ expired items removed — so you can rely on what you see being current.
 | 26 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45598 | Go | 2026-08-11 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
 | 27 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-08-11 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
 | 28 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6328 | TypeScript | 2026-08-11 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
-| 29 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 58930 | Rust | 2026-08-11 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
+| 29 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 58932 | Rust | 2026-08-11 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
 | 30 | [thameema/memnos](https://github.com/thameema/memnos) | 7 | Python | 2026-08-11 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
 | 31 | [alibaba/zvec](https://github.com/alibaba/zvec) | 15417 | C++ | 2026-08-11 | A lightweight, lightning-fast, in-process vector database |
 | 32 | [zilliztech/VectorDBBench](https://github.com/zilliztech/VectorDBBench) | 1158 | Python | 2026-08-11 | Benchmark for vector databases. |
