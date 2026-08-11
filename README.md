@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-11 22:45 UTC
+> ⏰ Last updated: 2026-08-11 23:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-11 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 2 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-11 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 3 | [gmatheusd/MagicFridgeAI](https://github.com/gmatheusd/MagicFridgeAI) | 0 | Java | 2026-08-11 | Sistema de geladeira inteligente: cadastro de itens via Spring Boot + JPA, geração de receitas com integração à API do G |
-| 4 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1355 | Rust | 2026-08-11 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 5 | [NaCode-Studios/Kdrant](https://github.com/NaCode-Studios/Kdrant) | 6 | Kotlin | 2026-08-11 | Coroutine-first Kotlin client for the Qdrant vector database: suspend APIs and type-safe DSLs, REST or opt-in gRPC behin |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 8 | [nvojvodic-white/agent-platform](https://github.com/nvojvodic-white/agent-platform) | 0 | Python | 2026-08-11 | Measured agentic RAG: LangGraph routing agent over a 2,296-article Tolkien corpus (Fandom + Wikipedia + Tolkien Gateway) |
-| 9 | [MariaDB/server](https://github.com/MariaDB/server) | 8082 | C++ | 2026-08-11 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 10 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6328 | TypeScript | 2026-08-11 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
-| 11 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-11 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 12 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-11 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 13 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 1 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-11 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 5 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-11 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 6 | [gmatheusd/MagicFridgeAI](https://github.com/gmatheusd/MagicFridgeAI) | 0 | Java | 2026-08-11 | Sistema de geladeira inteligente: cadastro de itens via Spring Boot + JPA, geração de receitas com integração à API do G |
+| 7 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1355 | Rust | 2026-08-11 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 8 | [NaCode-Studios/Kdrant](https://github.com/NaCode-Studios/Kdrant) | 6 | Kotlin | 2026-08-11 | Coroutine-first Kotlin client for the Qdrant vector database: suspend APIs and type-safe DSLs, REST or opt-in gRPC behin |
+| 9 | [nvojvodic-white/agent-platform](https://github.com/nvojvodic-white/agent-platform) | 0 | Python | 2026-08-11 | Measured agentic RAG: LangGraph routing agent over a 2,296-article Tolkien corpus (Fandom + Wikipedia + Tolkien Gateway) |
+| 10 | [MariaDB/server](https://github.com/MariaDB/server) | 8082 | C++ | 2026-08-11 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 11 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6328 | TypeScript | 2026-08-11 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
+| 12 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-11 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 13 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-11 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
 | 14 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-11 |  |
 | 15 | [schwichtgit/ai-resume](https://github.com/schwichtgit/ai-resume) | 5 | Python | 2026-08-11 | AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv |
 | 16 | [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) | 67 | Python | 2026-08-11 | The official Pinecone marketplace for Claude Code Plugins |
@@ -73,7 +73,7 @@ expired items removed — so you can rely on what you see being current.
 | 29 | [defai-digital/akidb](https://github.com/defai-digital/akidb) | 1 | Rust | 2026-08-11 | Agent Retrieval Memory Engine for Mac, PC (AMD64 and ARM64) |
 | 30 | [Raynerhalfandhalf451/writeback](https://github.com/Raynerhalfandhalf451/writeback) | 0 | JavaScript | 2026-08-11 | Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with |
 | 31 | [Accessible-sloughing768/docustra](https://github.com/Accessible-sloughing768/docustra) | 0 | Python | 2026-08-11 | Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen |
-| 32 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29958 | Python | 2026-08-11 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 32 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29960 | Python | 2026-08-11 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 33 | [Surging-scotandlot818/product-dev-blueprint](https://github.com/Surging-scotandlot818/product-dev-blueprint) | 0 | TypeScript | 2026-08-11 | Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea |
 | 34 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-08-11 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
 | 35 | [Tobiaszn8972/turboquant-gpu](https://github.com/Tobiaszn8972/turboquant-gpu) | 2 | Python | 2026-08-11 | Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels. |
