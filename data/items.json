@@ -1,12 +1,30 @@
 [
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-08-11T07:44:53Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "Generic, provider-agnostic RAG backend with verified citations. FastAPI + SSE; switchable LLMs (Ollama/Anthropic/OpenAI)",
+    "id": "mohitacharya4/personal-twin",
+    "language": "Python",
+    "name": "mohitacharya4/personal-twin",
+    "stars": 0,
+    "updated_at": "2026-08-11T07:44:46Z",
+    "url": "https://github.com/mohitacharya4/personal-twin"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
     "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 205,
-    "updated_at": "2026-08-11T07:28:00Z",
-    "url": "https://github.com/codecoradev/uteke"
+    "name": "xerj-org/xerj",
+    "stars": 1352,
+    "updated_at": "2026-08-11T07:45:02Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -14,8 +32,80 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12839,
-    "updated_at": "2026-08-11T07:27:56Z",
+    "updated_at": "2026-08-11T07:43:23Z",
     "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16719,
+    "updated_at": "2026-08-11T07:44:10Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
+    "id": "hoffresearch/nest",
+    "language": "Rust",
+    "name": "hoffresearch/nest",
+    "stars": 9,
+    "updated_at": "2026-08-11T07:41:16Z",
+    "url": "https://github.com/hoffresearch/nest"
+  },
+  {
+    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
+    "id": "iksnerd/code-nexus",
+    "language": "Elixir",
+    "name": "iksnerd/code-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-11T07:41:06Z",
+    "url": "https://github.com/iksnerd/code-nexus"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 205,
+    "updated_at": "2026-08-11T07:40:59Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
+    "id": "GoodbyePlanet/semcode",
+    "language": "Python",
+    "name": "GoodbyePlanet/semcode",
+    "stars": 4,
+    "updated_at": "2026-08-11T07:44:33Z",
+    "url": "https://github.com/GoodbyePlanet/semcode"
+  },
+  {
+    "description": "Python package that makes it easy to spin up a custom Retrieval-Augmented Generation (RAG) pipeline.",
+    "id": "Omkar-Wagholikar/adora",
+    "language": "Python",
+    "name": "Omkar-Wagholikar/adora",
+    "stars": 5,
+    "updated_at": "2026-08-11T07:38:43Z",
+    "url": "https://github.com/Omkar-Wagholikar/adora"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T07:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T07:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -27,13 +117,22 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
-    "id": "iksnerd/code-nexus",
-    "language": "Elixir",
-    "name": "iksnerd/code-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-11T07:25:57Z",
-    "url": "https://github.com/iksnerd/code-nexus"
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58931,
+    "updated_at": "2026-08-11T07:25:32Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6327,
+    "updated_at": "2026-08-11T07:23:15Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "The AI search platform",
@@ -50,7 +149,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8075,
-    "updated_at": "2026-08-11T07:21:24Z",
+    "updated_at": "2026-08-11T07:30:30Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -77,7 +176,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9411,
-    "updated_at": "2026-08-11T07:24:39Z",
+    "updated_at": "2026-08-11T07:38:31Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -99,40 +198,22 @@
     "url": "https://github.com/alibaba/zvec"
   },
   {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/nest",
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
     "language": "Rust",
-    "name": "hoffresearch/nest",
-    "stars": 9,
-    "updated_at": "2026-08-11T07:17:26Z",
-    "url": "https://github.com/hoffresearch/nest"
+    "name": "qdrant/qdrant",
+    "stars": 33910,
+    "updated_at": "2026-08-11T07:18:57Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
     "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1352,
-    "updated_at": "2026-08-11T07:29:14Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T07:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T07:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 265,
+    "updated_at": "2026-08-11T07:12:48Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "RAG system for asking natural-language questions about a codebase, using AST-based chunking via tree-sitter instead of n",
@@ -180,15 +261,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Python package that makes it easy to spin up a custom Retrieval-Augmented Generation (RAG) pipeline.",
-    "id": "Omkar-Wagholikar/adora",
-    "language": "Python",
-    "name": "Omkar-Wagholikar/adora",
-    "stars": 5,
-    "updated_at": "2026-08-11T07:02:23Z",
-    "url": "https://github.com/Omkar-Wagholikar/adora"
-  },
-  {
     "description": "Benchmark for vector databases.",
     "id": "zilliztech/VectorDBBench",
     "language": "Python",
@@ -214,15 +286,6 @@
     "stars": 35128,
     "updated_at": "2026-08-11T07:05:32Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Generic, provider-agnostic RAG backend with verified citations. FastAPI + SSE; switchable LLMs (Ollama/Anthropic/OpenAI)",
-    "id": "mohitacharya4/personal-twin",
-    "language": "Python",
-    "name": "mohitacharya4/personal-twin",
-    "stars": 0,
-    "updated_at": "2026-08-11T06:59:04Z",
-    "url": "https://github.com/mohitacharya4/personal-twin"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -275,7 +338,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-11T07:12:31Z",
+    "updated_at": "2026-08-11T07:42:42Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -322,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T06:36:19Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16718,
-    "updated_at": "2026-08-11T07:25:15Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "From-scratch vector search engine: HNSW indexing, crash-safe persistence, gRPC/REST API, and scatter-gather sharding \u2014 b",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-11T06:07:25Z",
     "url": "https://github.com/sharma-open-source/browservec"
-  },
-  {
-    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
-    "id": "boulif781/enterprise-knowledge-assistant",
-    "language": "\u2014",
-    "name": "boulif781/enterprise-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-11T06:02:48Z",
-    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-11T06:00:43Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-08-11T06:00:15Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:57:45Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 66,
-    "updated_at": "2026-08-11T05:56:10Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
-    "stars": 0,
-    "updated_at": "2026-08-11T05:55:50Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
   }
 ]
