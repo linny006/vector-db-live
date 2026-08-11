@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T11:30:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 336,
+    "updated_at": "2026-08-11T11:28:37Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12843,
+    "updated_at": "2026-08-11T11:27:51Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "High-performance database management system",
+    "id": "ZeusDB/zeusdb",
+    "language": "Python",
+    "name": "ZeusDB/zeusdb",
+    "stars": 10,
+    "updated_at": "2026-08-11T11:23:10Z",
+    "url": "https://github.com/ZeusDB/zeusdb"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9411,
+    "updated_at": "2026-08-11T11:21:57Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-11T11:17:49Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
+    "id": "hoffresearch/nest",
+    "language": "Rust",
+    "name": "hoffresearch/nest",
+    "stars": 9,
+    "updated_at": "2026-08-11T11:17:33Z",
+    "url": "https://github.com/hoffresearch/nest"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-11T11:16:54Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T11:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 85,
+    "updated_at": "2026-08-11T11:14:26Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45605,
+    "updated_at": "2026-08-11T11:14:22Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "AI developer assistant for the Kalisio ecosystem",
     "id": "kalisio/knowledge",
     "language": "Python",
@@ -32,8 +131,17 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6207,
-    "updated_at": "2026-08-11T11:15:03Z",
+    "updated_at": "2026-08-11T11:26:16Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29950,
+    "updated_at": "2026-08-11T11:08:15Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "The AI search platform",
@@ -72,30 +180,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T11:00:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T11:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33917,
-    "updated_at": "2026-08-11T10:58:30Z",
+    "updated_at": "2026-08-11T11:21:37Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -117,15 +207,6 @@
     "url": "https://github.com/ArnabKarmakar1108/VectorVault"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-11T10:47:12Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Build a Production RAG System with Python, LangChain, and ChromaDB  Build ShopBot from scratch \u2014 a production RAG assist",
     "id": "zudyog/the-ai-engineer",
     "language": "TypeScript",
@@ -144,15 +225,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "High-performance database management system",
-    "id": "ZeusDB/zeusdb",
-    "language": "Python",
-    "name": "ZeusDB/zeusdb",
-    "stars": 10,
-    "updated_at": "2026-08-11T11:10:32Z",
-    "url": "https://github.com/ZeusDB/zeusdb"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -160,15 +232,6 @@
     "stars": 66,
     "updated_at": "2026-08-11T10:28:43Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29949,
-    "updated_at": "2026-08-11T11:08:15Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Hands-on workshop materials on transformer architecture and LangChain RAG pipelines, delivered for astronomy researchers",
@@ -180,21 +243,12 @@
     "url": "https://github.com/parinyad123/LLM-and-RAG-Workshop-SUT"
   },
   {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/nest",
-    "language": "Rust",
-    "name": "hoffresearch/nest",
-    "stars": 9,
-    "updated_at": "2026-08-11T10:16:48Z",
-    "url": "https://github.com/hoffresearch/nest"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8077,
-    "updated_at": "2026-08-11T11:11:16Z",
+    "updated_at": "2026-08-11T11:22:20Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -257,17 +311,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-11T09:59:06Z",
+    "updated_at": "2026-08-11T11:29:06Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45604,
-    "updated_at": "2026-08-11T11:14:22Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Uses the Google Gemini 2.5 Flash vision model to extract PDF content into clean Markdown, embeds chunks with Gemini embe",
@@ -293,7 +338,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16720,
-    "updated_at": "2026-08-11T11:09:46Z",
+    "updated_at": "2026-08-11T11:28:10Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -310,7 +355,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15420,
+    "stars": 15421,
     "updated_at": "2026-08-11T09:18:32Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -322,6 +367,15 @@
     "stars": 2,
     "updated_at": "2026-08-11T09:17:17Z",
     "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58933,
+    "updated_at": "2026-08-11T09:14:03Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
@@ -360,15 +414,6 @@
     "url": "https://github.com/Hermida95/rag-multidoc-system"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12843,
-    "updated_at": "2026-08-11T09:07:08Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
     "id": "Artemon-line/ai-memory-hub",
     "language": "Python",
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35132,
-    "updated_at": "2026-08-11T11:05:03Z",
+    "updated_at": "2026-08-11T11:29:02Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 6328,
     "updated_at": "2026-08-11T10:22:29Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1355,
-    "updated_at": "2026-08-11T08:36:22Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
-    "id": "iksnerd/code-nexus",
-    "language": "Elixir",
-    "name": "iksnerd/code-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-11T08:34:05Z",
-    "url": "https://github.com/iksnerd/code-nexus"
-  },
-  {
-    "description": "An emotional RAG system that combines semantic memory retrieval, persona tracking, and proactive memory management for L",
-    "id": "ZERO-70/Emotional-RAG-2.0",
-    "language": "Python",
-    "name": "ZERO-70/Emotional-RAG-2.0",
-    "stars": 0,
-    "updated_at": "2026-08-11T08:32:23Z",
-    "url": "https://github.com/ZERO-70/Emotional-RAG-2.0"
-  },
-  {
-    "description": "Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust \ud83e\udd80",
-    "id": "StarlightSearch/EmbedAnything",
-    "language": "Rust",
-    "name": "StarlightSearch/EmbedAnything",
-    "stars": 1294,
-    "updated_at": "2026-08-11T08:20:14Z",
-    "url": "https://github.com/StarlightSearch/EmbedAnything"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "Python",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-08-11T08:09:08Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
   }
 ]
