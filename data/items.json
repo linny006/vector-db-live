@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-11T16:45:24Z",
+    "updated_at": "2026-08-11T17:00:27Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable.",
+    "id": "zepdb/zeppelin",
+    "language": "Rust",
+    "name": "zepdb/zeppelin",
+    "stars": 43,
+    "updated_at": "2026-08-11T16:56:39Z",
+    "url": "https://github.com/zepdb/zeppelin"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1350,
+    "updated_at": "2026-08-11T16:55:05Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1074,
+    "updated_at": "2026-08-11T16:56:22Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-11T16:47:59Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Cut LLM costs by up to 80% and unlock sub-millisecond responses with intelligent semantic caching.A drop-in, provider-ag",
+    "id": "messkan/prompt-cache",
+    "language": "Go",
+    "name": "messkan/prompt-cache",
+    "stars": 269,
+    "updated_at": "2026-08-11T16:47:43Z",
+    "url": "https://github.com/messkan/prompt-cache"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T16:45:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -40,8 +94,8 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45605,
-    "updated_at": "2026-08-11T16:40:52Z",
+    "stars": 45606,
+    "updated_at": "2026-08-11T17:00:22Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -54,13 +108,13 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T16:35:14Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1435,
+    "updated_at": "2026-08-11T16:33:13Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
@@ -99,6 +153,15 @@
     "url": "https://github.com/topk-io/topk"
   },
   {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35140,
+    "updated_at": "2026-08-11T16:29:51Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
     "description": "Measured agentic RAG: LangGraph routing agent over a 2,296-article Tolkien corpus (Fandom + Wikipedia + Tolkien Gateway)",
     "id": "nvojvodic-white/agent-platform",
     "language": "Python",
@@ -135,15 +198,6 @@
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-11T16:19:02Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "AI-powered RAG document assistant for querying PDFs with Streamlit, FAISS, SentenceTransformers, and Groq.",
     "id": "PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant",
     "language": "Python",
@@ -158,17 +212,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29955,
-    "updated_at": "2026-08-11T16:32:40Z",
+    "updated_at": "2026-08-11T16:45:56Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Cut LLM costs by up to 80% and unlock sub-millisecond responses with intelligent semantic caching.A drop-in, provider-ag",
-    "id": "messkan/prompt-cache",
-    "language": "Go",
-    "name": "messkan/prompt-cache",
-    "stars": 268,
-    "updated_at": "2026-08-11T16:08:03Z",
-    "url": "https://github.com/messkan/prompt-cache"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 85,
-    "updated_at": "2026-08-11T16:03:50Z",
+    "updated_at": "2026-08-11T16:51:45Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -306,15 +351,6 @@
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35139,
-    "updated_at": "2026-08-11T16:29:51Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -365,7 +401,7 @@
     "language": "Java",
     "name": "LnYo-Cly/ai4j",
     "stars": 422,
-    "updated_at": "2026-08-11T14:54:41Z",
+    "updated_at": "2026-08-11T16:48:02Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-11T14:35:46Z",
     "url": "https://github.com/DotNetAge/govector"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 840,
-    "updated_at": "2026-08-11T14:30:33Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Demo / learning platform for conversational AI built with Spring AI and Angular: Chat, RAG, tool calling, and quality ev",
-    "id": "felixzhu97/explore-ai",
-    "language": "Java",
-    "name": "felixzhu97/explore-ai",
-    "stars": 1,
-    "updated_at": "2026-08-11T14:21:40Z",
-    "url": "https://github.com/felixzhu97/explore-ai"
-  },
-  {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 98,
-    "updated_at": "2026-08-11T14:45:32Z",
-    "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6585,
-    "updated_at": "2026-08-11T14:12:16Z",
-    "url": "https://github.com/plastic-labs/honcho"
   }
 ]
