@@ -1,12 +1,57 @@
 [
   {
-    "description": "Enterprise-grade AI Policy Assistant built with Python, FastAPI, GraphQL, RAG, LangGraph, Multi-LLM orchestration, and m",
-    "id": "vishwajitvm/PolicyBot",
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
     "language": "Python",
-    "name": "vishwajitvm/PolicyBot",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 5,
+    "updated_at": "2026-08-11T01:29:10Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "Official client SDKs for Statelet \u2014 Python, Node.js, Go, Rust, Java, and C++",
+    "id": "stateletlab/statelet-sdk",
+    "language": "Python",
+    "name": "stateletlab/statelet-sdk",
     "stars": 0,
-    "updated_at": "2026-08-11T01:14:40Z",
-    "url": "https://github.com/vishwajitvm/PolicyBot"
+    "updated_at": "2026-08-11T01:26:24Z",
+    "url": "https://github.com/stateletlab/statelet-sdk"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 5,
+    "updated_at": "2026-08-11T01:25:19Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Local-first RAG with an incremental ontology over your Markdown, exposed to any AI agent via MCP.",
+    "id": "rafaelnicolett/kern",
+    "language": "Rust",
+    "name": "rafaelnicolett/kern",
+    "stars": 2,
+    "updated_at": "2026-08-11T01:24:28Z",
+    "url": "https://github.com/rafaelnicolett/kern"
+  },
+  {
+    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
+    "id": "vul-os/basin",
+    "language": "Rust",
+    "name": "vul-os/basin",
+    "stars": 4,
+    "updated_at": "2026-08-11T01:22:16Z",
+    "url": "https://github.com/vul-os/basin"
+  },
+  {
+    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-08-11T01:25:29Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
     "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
@@ -14,8 +59,35 @@
     "language": "Java",
     "name": "eniglio-ctrl/enterprise-rag-platform",
     "stars": 0,
-    "updated_at": "2026-08-11T01:05:26Z",
+    "updated_at": "2026-08-11T01:16:55Z",
     "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T01:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T01:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Enterprise-grade AI Policy Assistant built with Python, FastAPI, GraphQL, RAG, LangGraph, Multi-LLM orchestration, and m",
+    "id": "vishwajitvm/PolicyBot",
+    "language": "Python",
+    "name": "vishwajitvm/PolicyBot",
+    "stars": 0,
+    "updated_at": "2026-08-11T01:14:40Z",
+    "url": "https://github.com/vishwajitvm/PolicyBot"
   },
   {
     "description": "Semantic gravity database in Rust: related records live together on disk, so graph traversal is a range scan and vector ",
@@ -36,22 +108,13 @@
     "url": "https://github.com/oceanbase/oceanbase"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T01:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T01:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "pixeltable/pixeltable",
+    "stars": 1612,
+    "updated_at": "2026-08-11T00:58:18Z",
+    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -79,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T00:47:58Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 5,
-    "updated_at": "2026-08-11T00:46:16Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
   },
   {
     "description": "I'm building a graph database server in Rust as a leaning project.",
@@ -139,7 +193,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8071,
+    "stars": 8072,
     "updated_at": "2026-08-11T00:01:48Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -265,7 +319,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1340,
+    "stars": 1341,
     "updated_at": "2026-08-10T23:05:25Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -369,15 +423,6 @@
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   },
   {
-    "description": "Official client SDKs for Statelet \u2014 Python, Node.js, Go, Rust, Java, and C++",
-    "id": "stateletlab/statelet-sdk",
-    "language": "Python",
-    "name": "stateletlab/statelet-sdk",
-    "stars": 0,
-    "updated_at": "2026-08-10T23:42:16Z",
-    "url": "https://github.com/stateletlab/statelet-sdk"
-  },
-  {
     "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
     "id": "FIRE-hub911/citation-assistant",
     "language": "Shell",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-10T22:49:11Z",
     "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 2,
-    "updated_at": "2026-08-10T22:49:07Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-08-10T22:48:35Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-10T22:46:12Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-08-10T22:44:12Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-08-10T22:42:58Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
   }
 ]
