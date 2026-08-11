@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-11 21:28 UTC
+> ⏰ Last updated: 2026-08-11 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6328 | TypeScript | 2026-08-11 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
-| 2 | [Rachit47/Arcademia-AI](https://github.com/Rachit47/Arcademia-AI) | 0 | Python | 2026-08-11 | Agentic AI-powered game intelligence platform using RAG, LangGraph, NLP, semantic search, and LLM workflows to analyze S |
-| 3 | [nvojvodic-white/agent-platform](https://github.com/nvojvodic-white/agent-platform) | 0 | Python | 2026-08-11 | Measured agentic RAG: LangGraph routing agent over a 2,296-article Tolkien corpus (Fandom + Wikipedia + Tolkien Gateway) |
-| 4 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-11 | Self-hosted permission-aware context layer for agents. MCP + API. |
-| 5 | [schwichtgit/ai-resume](https://github.com/schwichtgit/ai-resume) | 5 | Python | 2026-08-11 | AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv |
-| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 7 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-11 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 10 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6590 | Python | 2026-08-11 |  Memory library for building stateful agents |
-| 11 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-11 |  |
-| 12 | [Mxnrxjj/talk-to-my-repo](https://github.com/Mxnrxjj/talk-to-my-repo) | 0 | TypeScript | 2026-08-11 | Semantic codebase assistant for GitHub repositories powered by RAG, pgvector, and Gemini. |
-| 13 | [vicquick/nobrainr](https://github.com/vicquick/nobrainr) | 0 | Python | 2026-08-11 | Persistent memory and knowledge graph for AI agents via MCP — PostgreSQL + pgvector + Ollama |
-| 14 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1875 | Go | 2026-08-11 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 15 | [equationalapplications/sqlite-s3-agent-tutorial](https://github.com/equationalapplications/sqlite-s3-agent-tutorial) | 0 | TypeScript | 2026-08-11 | Tutorial: AWS Bedrock and SQLite-backed RAG agent running in Lambda whose snapshot is a single S3 object. |
-| 16 | [defai-digital/akidb](https://github.com/defai-digital/akidb) | 1 | Rust | 2026-08-11 | Agent Retrieval Memory Engine for Mac, PC (AMD64 and ARM64) |
-| 17 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-11 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 18 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-11 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 1 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-11 | Self-hosted permission-aware context layer for agents. MCP + API. |
+| 2 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-11 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6328 | TypeScript | 2026-08-11 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
+| 5 | [Rachit47/Arcademia-AI](https://github.com/Rachit47/Arcademia-AI) | 0 | Python | 2026-08-11 | Agentic AI-powered game intelligence platform using RAG, LangGraph, NLP, semantic search, and LLM workflows to analyze S |
+| 6 | [nvojvodic-white/agent-platform](https://github.com/nvojvodic-white/agent-platform) | 0 | Python | 2026-08-11 | Measured agentic RAG: LangGraph routing agent over a 2,296-article Tolkien corpus (Fandom + Wikipedia + Tolkien Gateway) |
+| 7 | [schwichtgit/ai-resume](https://github.com/schwichtgit/ai-resume) | 5 | Python | 2026-08-11 | AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv |
+| 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 9 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-11 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
+| 10 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 11 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6590 | Python | 2026-08-11 |  Memory library for building stateful agents |
+| 12 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-11 |  |
+| 13 | [Mxnrxjj/talk-to-my-repo](https://github.com/Mxnrxjj/talk-to-my-repo) | 0 | TypeScript | 2026-08-11 | Semantic codebase assistant for GitHub repositories powered by RAG, pgvector, and Gemini. |
+| 14 | [vicquick/nobrainr](https://github.com/vicquick/nobrainr) | 0 | Python | 2026-08-11 | Persistent memory and knowledge graph for AI agents via MCP — PostgreSQL + pgvector + Ollama |
+| 15 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1875 | Go | 2026-08-11 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 16 | [equationalapplications/sqlite-s3-agent-tutorial](https://github.com/equationalapplications/sqlite-s3-agent-tutorial) | 0 | TypeScript | 2026-08-11 | Tutorial: AWS Bedrock and SQLite-backed RAG agent running in Lambda whose snapshot is a single S3 object. |
+| 17 | [defai-digital/akidb](https://github.com/defai-digital/akidb) | 1 | Rust | 2026-08-11 | Agent Retrieval Memory Engine for Mac, PC (AMD64 and ARM64) |
+| 18 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-11 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 19 | [Raynerhalfandhalf451/writeback](https://github.com/Raynerhalfandhalf451/writeback) | 0 | JavaScript | 2026-08-11 | Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with |
 | 20 | [Accessible-sloughing768/docustra](https://github.com/Accessible-sloughing768/docustra) | 0 | Python | 2026-08-11 | Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen |
 | 21 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29957 | Python | 2026-08-11 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
