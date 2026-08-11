@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-11T16:15:21Z",
+    "updated_at": "2026-08-11T16:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5723,
+    "updated_at": "2026-08-11T16:29:57Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Measured agentic RAG: LangGraph routing agent over a 2,296-article Tolkien corpus (Fandom + Wikipedia + Tolkien Gateway)",
+    "id": "nvojvodic-white/agent-platform",
+    "language": "Python",
+    "name": "nvojvodic-white/agent-platform",
+    "stars": 0,
+    "updated_at": "2026-08-11T16:28:48Z",
+    "url": "https://github.com/nvojvodic-white/agent-platform"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-11T16:28:39Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6207,
+    "updated_at": "2026-08-11T16:24:24Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 741,
+    "updated_at": "2026-08-11T16:24:05Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-11T16:19:02Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T16:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered RAG document assistant for querying PDFs with Streamlit, FAISS, SentenceTransformers, and Groq.",
@@ -18,11 +81,20 @@
     "url": "https://github.com/PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29955,
+    "updated_at": "2026-08-11T16:30:30Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Cut LLM costs by up to 80% and unlock sub-millisecond responses with intelligent semantic caching.A drop-in, provider-ag",
     "id": "messkan/prompt-cache",
     "language": "Go",
     "name": "messkan/prompt-cache",
-    "stars": 266,
+    "stars": 267,
     "updated_at": "2026-08-11T16:08:03Z",
     "url": "https://github.com/messkan/prompt-cache"
   },
@@ -45,15 +117,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T16:00:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T15:59:56Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29954,
-    "updated_at": "2026-08-11T16:08:33Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "TypeScript example: build a content-based article recommender using Pinecone similarity search.",
@@ -108,15 +162,6 @@
     "url": "https://github.com/elastic/mcp-server-elasticsearch"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-11T15:48:34Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Local-first hybrid RAG for scientific PDFs: bilingual (EL/EN) Q&A with page-level citations, an anti-hallucination relev",
     "id": "kostas221/local-rag-assistant",
     "language": "Python",
@@ -151,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T15:41:27Z",
     "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5723,
-    "updated_at": "2026-08-11T15:57:55Z",
-    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -216,15 +252,6 @@
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6207,
-    "updated_at": "2026-08-11T16:02:19Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Website for the Weaviate vector database",
     "id": "weaviate/weaviate-io",
     "language": "MDX",
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35139,
-    "updated_at": "2026-08-11T15:41:31Z",
+    "updated_at": "2026-08-11T16:29:51Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -297,21 +324,12 @@
     "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
   },
   {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 741,
-    "updated_at": "2026-08-11T14:56:05Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6328,
-    "updated_at": "2026-08-11T15:50:09Z",
+    "updated_at": "2026-08-11T16:16:44Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1875,
-    "updated_at": "2026-08-11T16:03:25Z",
+    "updated_at": "2026-08-11T16:25:15Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -428,25 +446,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33922,
-    "updated_at": "2026-08-11T15:47:21Z",
+    "updated_at": "2026-08-11T16:23:58Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
-    "id": "meriamsamy/Sterling-Vance-Bank-B",
-    "language": "Python",
-    "name": "meriamsamy/Sterling-Vance-Bank-B",
-    "stars": 0,
-    "updated_at": "2026-08-11T13:53:18Z",
-    "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-08-11T13:47:10Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
   }
 ]
