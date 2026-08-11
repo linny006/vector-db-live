@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T09:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
+    "id": "iharshkaran/HyperAI",
+    "language": "TypeScript",
+    "name": "iharshkaran/HyperAI",
+    "stars": 2,
+    "updated_at": "2026-08-11T09:12:12Z",
+    "url": "https://github.com/iharshkaran/HyperAI"
+  },
+  {
+    "description": "ToucanDB is a brand-new micro ML-first database engine \ud83e\udd9c",
+    "id": "ToucanDB/ToucanDB",
+    "language": "Python",
+    "name": "ToucanDB/ToucanDB",
+    "stars": 15,
+    "updated_at": "2026-08-11T09:11:27Z",
+    "url": "https://github.com/ToucanDB/ToucanDB"
+  },
+  {
+    "description": "Local-first AI knowledge platform that continuously builds, indexes, and queries your personal knowledge base from Obsid",
+    "id": "harisrana-dev/ai-knowledge-platform",
+    "language": "Python",
+    "name": "harisrana-dev/ai-knowledge-platform",
+    "stars": 0,
+    "updated_at": "2026-08-11T09:11:04Z",
+    "url": "https://github.com/harisrana-dev/ai-knowledge-platform"
+  },
+  {
+    "description": "Production-ready multi-document RAG system: FastAPI, PostgreSQL+pgvector, Celery, Docker",
+    "id": "Hermida95/rag-multidoc-system",
+    "language": "Python",
+    "name": "Hermida95/rag-multidoc-system",
+    "stars": 0,
+    "updated_at": "2026-08-11T09:10:05Z",
+    "url": "https://github.com/Hermida95/rag-multidoc-system"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12842,
+    "updated_at": "2026-08-11T09:07:08Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15420,
+    "updated_at": "2026-08-11T09:04:37Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6207,
+    "updated_at": "2026-08-11T09:13:46Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T09:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45603,
+    "updated_at": "2026-08-11T09:00:24Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -7,6 +97,15 @@
     "stars": 1,
     "updated_at": "2026-08-11T08:58:27Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33912,
+    "updated_at": "2026-08-11T08:57:51Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -32,17 +131,8 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-08-11T08:53:56Z",
+    "updated_at": "2026-08-11T09:07:22Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T08:53:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -63,6 +153,15 @@
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35131,
+    "updated_at": "2026-08-11T08:51:02Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -70,33 +169,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T08:47:43Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T08:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33911,
-    "updated_at": "2026-08-11T08:57:51Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Production-ready multi-document RAG system: FastAPI, PostgreSQL+pgvector, Celery, Docker",
-    "id": "Hermida95/rag-multidoc-system",
-    "language": "Python",
-    "name": "Hermida95/rag-multidoc-system",
-    "stars": 0,
-    "updated_at": "2026-08-11T08:38:19Z",
-    "url": "https://github.com/Hermida95/rag-multidoc-system"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -124,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T08:32:23Z",
     "url": "https://github.com/ZERO-70/Emotional-RAG-2.0"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6206,
-    "updated_at": "2026-08-11T08:57:34Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45603,
-    "updated_at": "2026-08-11T09:00:24Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Benchmark for vector databases.",
@@ -176,7 +230,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9411,
-    "updated_at": "2026-08-11T08:51:54Z",
+    "updated_at": "2026-08-11T09:04:20Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -212,7 +266,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58931,
-    "updated_at": "2026-08-11T08:53:41Z",
+    "updated_at": "2026-08-11T09:14:03Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -241,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T07:59:56Z",
     "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35130,
-    "updated_at": "2026-08-11T08:51:02Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
@@ -286,15 +331,6 @@
     "stars": 78,
     "updated_at": "2026-08-11T07:47:50Z",
     "url": "https://github.com/qdrant/n8n-nodes-qdrant"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12842,
-    "updated_at": "2026-08-11T07:43:23Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
@@ -369,15 +405,6 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15419,
-    "updated_at": "2026-08-11T07:19:14Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
     "id": "varun29ankuS/shodh-memory",
     "language": "Rust",
@@ -421,32 +448,5 @@
     "stars": 247,
     "updated_at": "2026-08-11T07:01:53Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "A multi-user RAG assistant (\"AIbrarian\") for querying private documents (PDFs and Notion), with a local (Ollama) or clou",
-    "id": "mrodespin/aibrarian",
-    "language": "Python",
-    "name": "mrodespin/aibrarian",
-    "stars": 0,
-    "updated_at": "2026-08-11T07:07:16Z",
-    "url": "https://github.com/mrodespin/aibrarian"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 741,
-    "updated_at": "2026-08-11T06:54:27Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Build your own offline domain-specific AI from your knowledge.",
-    "id": "VivekDahariya/PriAI",
-    "language": "Python",
-    "name": "VivekDahariya/PriAI",
-    "stars": 0,
-    "updated_at": "2026-08-11T06:47:02Z",
-    "url": "https://github.com/VivekDahariya/PriAI"
   }
 ]
