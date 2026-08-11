@@ -1,5 +1,41 @@
 [
   {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:35:47Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin.",
+    "id": "firelock-ai/kin-vector",
+    "language": "Rust",
+    "name": "firelock-ai/kin-vector",
+    "stars": 0,
+    "updated_at": "2026-08-11T18:30:39Z",
+    "url": "https://github.com/firelock-ai/kin-vector"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:30:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T18:30:31Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Local-first RAG with an incremental ontology over your Markdown, exposed to any AI agent via MCP.",
     "id": "rafaelnicolett/kern",
     "language": "Rust",
@@ -9,21 +45,12 @@
     "url": "https://github.com/rafaelnicolett/kern"
   },
   {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-11T18:27:42Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
     "description": "Production .NET SDK for Alibaba ZVec \u2014 DI, typed ODM, async, SafeHandles, full indexes/FTS, and mobile RIDs. Not a thin ",
     "id": "ahmedSamir50/AdamSystems.ZVec.NET",
     "language": "C#",
     "name": "ahmedSamir50/AdamSystems.ZVec.NET",
     "stars": 2,
-    "updated_at": "2026-08-11T18:23:22Z",
+    "updated_at": "2026-08-11T18:31:23Z",
     "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET"
   },
   {
@@ -52,24 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T18:18:30Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T18:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T18:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35141,
-    "updated_at": "2026-08-11T17:44:08Z",
+    "updated_at": "2026-08-11T18:31:15Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -310,7 +319,7 @@
     "id": "messkan/prompt-cache",
     "language": "Go",
     "name": "messkan/prompt-cache",
-    "stars": 274,
+    "stars": 275,
     "updated_at": "2026-08-11T16:47:43Z",
     "url": "https://github.com/messkan/prompt-cache"
   },
@@ -439,14 +448,5 @@
     "stars": 16721,
     "updated_at": "2026-08-11T18:27:11Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 337,
-    "updated_at": "2026-08-11T15:49:37Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
