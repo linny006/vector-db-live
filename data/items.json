@@ -1,12 +1,48 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T03:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1875,
+    "updated_at": "2026-08-11T03:20:37Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
+    "id": "vul-os/basin",
+    "language": "Rust",
+    "name": "vul-os/basin",
+    "stars": 4,
+    "updated_at": "2026-08-11T03:18:23Z",
+    "url": "https://github.com/vul-os/basin"
+  },
+  {
     "description": "Official client SDKs for Statelet \u2014 Python, Node.js, Go, Rust, Java, and C++",
     "id": "stateletlab/statelet-sdk",
     "language": "Python",
     "name": "stateletlab/statelet-sdk",
     "stars": 0,
-    "updated_at": "2026-08-11T03:15:00Z",
+    "updated_at": "2026-08-11T03:17:08Z",
     "url": "https://github.com/stateletlab/statelet-sdk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T03:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
@@ -54,24 +90,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T03:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T03:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 7,
-    "updated_at": "2026-08-11T02:57:54Z",
+    "updated_at": "2026-08-11T03:27:24Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -144,13 +162,13 @@
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
-    "description": " Multi-tenant Postgres-compatible database on object storage. 12\u00d7 cheaper disk than Postgres, native vector search, per-",
-    "id": "vul-os/basin",
-    "language": "Rust",
-    "name": "vul-os/basin",
-    "stars": 4,
-    "updated_at": "2026-08-11T02:46:31Z",
-    "url": "https://github.com/vul-os/basin"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8074,
+    "updated_at": "2026-08-11T02:47:11Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Enterprise-grade Agentic AI Financial Intelligence System built with FastAPI, React, ChromaDB, Ollama, and Retrieval-Aug",
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-11T02:40:36Z",
     "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1875,
-    "updated_at": "2026-08-11T02:31:49Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -223,15 +232,6 @@
     "stars": 12851,
     "updated_at": "2026-08-11T02:09:25Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8073,
-    "updated_at": "2026-08-11T02:47:11Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Semantic gravity database in Rust: related records live together on disk, so graph traversal is a range scan and vector ",
@@ -356,7 +356,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1612,
-    "updated_at": "2026-08-11T00:58:18Z",
+    "updated_at": "2026-08-11T03:29:15Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -410,7 +410,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 85,
-    "updated_at": "2026-08-10T23:35:25Z",
+    "updated_at": "2026-08-11T03:24:40Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
