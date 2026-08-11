@@ -1,11 +1,74 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T08:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-ready multi-document RAG system: FastAPI, PostgreSQL+pgvector, Celery, Docker",
+    "id": "Hermida95/rag-multidoc-system",
+    "language": "Python",
+    "name": "Hermida95/rag-multidoc-system",
+    "stars": 0,
+    "updated_at": "2026-08-11T08:38:19Z",
+    "url": "https://github.com/Hermida95/rag-multidoc-system"
+  },
+  {
+    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
+    "id": "iksnerd/code-nexus",
+    "language": "Elixir",
+    "name": "iksnerd/code-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-11T08:34:05Z",
+    "url": "https://github.com/iksnerd/code-nexus"
+  },
+  {
+    "description": "An emotional RAG system that combines semantic memory retrieval, persona tracking, and proactive memory management for L",
+    "id": "ZERO-70/Emotional-RAG-2.0",
+    "language": "Python",
+    "name": "ZERO-70/Emotional-RAG-2.0",
+    "stars": 0,
+    "updated_at": "2026-08-11T08:32:23Z",
+    "url": "https://github.com/ZERO-70/Emotional-RAG-2.0"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6206,
+    "updated_at": "2026-08-11T08:45:07Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T08:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45603,
+    "updated_at": "2026-08-11T08:27:34Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1353,
-    "updated_at": "2026-08-11T08:26:22Z",
+    "updated_at": "2026-08-11T08:36:22Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -16,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T08:24:52Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
-    "id": "iksnerd/code-nexus",
-    "language": "Elixir",
-    "name": "iksnerd/code-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-11T08:24:39Z",
-    "url": "https://github.com/iksnerd/code-nexus"
   },
   {
     "description": "Benchmark for vector databases.",
@@ -43,33 +97,6 @@
     "stars": 1294,
     "updated_at": "2026-08-11T08:20:14Z",
     "url": "https://github.com/StarlightSearch/EmbedAnything"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T08:15:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T08:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Production-ready multi-document RAG system: FastAPI, PostgreSQL+pgvector, Celery, Docker",
-    "id": "Hermida95/rag-multidoc-system",
-    "language": "Python",
-    "name": "Hermida95/rag-multidoc-system",
-    "stars": 0,
-    "updated_at": "2026-08-11T08:16:41Z",
-    "url": "https://github.com/Hermida95/rag-multidoc-system"
   },
   {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
@@ -122,7 +149,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58931,
-    "updated_at": "2026-08-11T08:00:03Z",
+    "updated_at": "2026-08-11T08:35:21Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -180,21 +207,12 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6205,
-    "updated_at": "2026-08-11T08:17:44Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16719,
-    "updated_at": "2026-08-11T08:22:05Z",
+    "updated_at": "2026-08-11T08:32:12Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -220,7 +238,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12841,
+    "stars": 12842,
     "updated_at": "2026-08-11T07:43:23Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "hoffresearch/nest",
     "stars": 9,
-    "updated_at": "2026-08-11T08:12:18Z",
+    "updated_at": "2026-08-11T08:41:56Z",
     "url": "https://github.com/hoffresearch/nest"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7046,
-    "updated_at": "2026-08-11T07:21:52Z",
+    "updated_at": "2026-08-11T08:40:02Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33910,
-    "updated_at": "2026-08-11T08:29:30Z",
+    "updated_at": "2026-08-11T08:44:31Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -400,18 +418,9 @@
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
-    "stars": 740,
+    "stars": 741,
     "updated_at": "2026-08-11T06:54:27Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45602,
-    "updated_at": "2026-08-11T08:27:34Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Build your own offline domain-specific AI from your knowledge.",
@@ -439,14 +448,5 @@
     "stars": 422,
     "updated_at": "2026-08-11T06:38:47Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
-    "id": "yihui504/TestVDB",
-    "language": "Python",
-    "name": "yihui504/TestVDB",
-    "stars": 0,
-    "updated_at": "2026-08-11T06:38:10Z",
-    "url": "https://github.com/yihui504/TestVDB"
   }
 ]
