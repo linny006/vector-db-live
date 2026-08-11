@@ -5,17 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-11T11:30:29Z",
+    "updated_at": "2026-08-11T11:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1356,
+    "updated_at": "2026-08-11T11:44:27Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-11T11:43:36Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1875,
+    "updated_at": "2026-08-11T11:39:12Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Multilingual RAG agent for document Q&A. Chat with PDFs, Word docs and spreadsheets: hybrid BM25 + FAISS retrieval, RRF ",
+    "id": "JoshPola96/ai-data-agent",
     "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 336,
-    "updated_at": "2026-08-11T11:28:37Z",
-    "url": "https://github.com/schmitech/orbit"
+    "name": "JoshPola96/ai-data-agent",
+    "stars": 0,
+    "updated_at": "2026-08-11T11:38:06Z",
+    "url": "https://github.com/JoshPola96/ai-data-agent"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -23,8 +50,44 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12843,
-    "updated_at": "2026-08-11T11:27:51Z",
+    "updated_at": "2026-08-11T11:36:40Z",
     "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-11T11:35:18Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
+    "id": "LnYo-Cly/ai4j",
+    "language": "Java",
+    "name": "LnYo-Cly/ai4j",
+    "stars": 422,
+    "updated_at": "2026-08-11T11:34:58Z",
+    "url": "https://github.com/LnYo-Cly/ai4j"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 337,
+    "updated_at": "2026-08-11T11:32:54Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T11:30:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "High-performance database management system",
@@ -41,7 +104,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9411,
-    "updated_at": "2026-08-11T11:21:57Z",
+    "updated_at": "2026-08-11T11:32:02Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -70,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-11T11:16:54Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T11:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -131,7 +185,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6207,
-    "updated_at": "2026-08-11T11:26:16Z",
+    "updated_at": "2026-08-11T11:45:09Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29950,
-    "updated_at": "2026-08-11T11:08:15Z",
+    "updated_at": "2026-08-11T11:41:57Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -153,15 +207,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Multilingual RAG agent for document Q&A. Chat with PDFs, Word docs and spreadsheets: hybrid BM25 + FAISS retrieval, RRF ",
-    "id": "JoshPola96/ai-data-agent",
-    "language": "Python",
-    "name": "JoshPola96/ai-data-agent",
-    "stars": 0,
-    "updated_at": "2026-08-11T11:05:53Z",
-    "url": "https://github.com/JoshPola96/ai-data-agent"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -169,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T11:05:01Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1875,
-    "updated_at": "2026-08-11T11:03:52Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -194,7 +230,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-11T10:56:33Z",
+    "updated_at": "2026-08-11T11:45:28Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 3,
     "updated_at": "2026-08-11T10:43:05Z",
     "url": "https://github.com/zudyog/the-ai-engineer"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-11T10:39:55Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -270,15 +297,6 @@
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-11T10:05:28Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
     "id": "oracle/langchain-oracle",
     "language": "Python",
@@ -311,7 +329,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-11T11:29:06Z",
+    "updated_at": "2026-08-11T11:37:51Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16720,
-    "updated_at": "2026-08-11T11:28:10Z",
+    "updated_at": "2026-08-11T11:39:49Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T08:51:03Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35132,
-    "updated_at": "2026-08-11T11:29:02Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6328,
-    "updated_at": "2026-08-11T10:22:29Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
