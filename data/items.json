@@ -1,12 +1,57 @@
 [
   {
+    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
+    "id": "iksnerd/code-nexus",
+    "language": "Elixir",
+    "name": "iksnerd/code-nexus",
+    "stars": 1,
+    "updated_at": "2026-08-11T07:53:36Z",
+    "url": "https://github.com/iksnerd/code-nexus"
+  },
+  {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
     "id": "qtuanph/chatbot-rag",
     "language": "Python",
     "name": "qtuanph/chatbot-rag",
     "stars": 1,
-    "updated_at": "2026-08-11T07:44:53Z",
+    "updated_at": "2026-08-11T07:53:14Z",
     "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6205,
+    "updated_at": "2026-08-11T07:50:30Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16719,
+    "updated_at": "2026-08-11T07:52:44Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 5,
+    "updated_at": "2026-08-11T07:47:55Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "Official n8n node for interfacing with Qdrant",
+    "id": "qdrant/n8n-nodes-qdrant",
+    "language": "TypeScript",
+    "name": "qdrant/n8n-nodes-qdrant",
+    "stars": 78,
+    "updated_at": "2026-08-11T07:47:50Z",
+    "url": "https://github.com/qdrant/n8n-nodes-qdrant"
   },
   {
     "description": "Generic, provider-agnostic RAG backend with verified citations. FastAPI + SSE; switchable LLMs (Ollama/Anthropic/OpenAI)",
@@ -14,8 +59,26 @@
     "language": "Python",
     "name": "mohitacharya4/personal-twin",
     "stars": 0,
-    "updated_at": "2026-08-11T07:44:46Z",
+    "updated_at": "2026-08-11T07:46:28Z",
     "url": "https://github.com/mohitacharya4/personal-twin"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T07:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T07:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -31,18 +94,9 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12839,
+    "stars": 12840,
     "updated_at": "2026-08-11T07:43:23Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16719,
-    "updated_at": "2026-08-11T07:44:10Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
@@ -54,21 +108,12 @@
     "url": "https://github.com/hoffresearch/nest"
   },
   {
-    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
-    "id": "iksnerd/code-nexus",
-    "language": "Elixir",
-    "name": "iksnerd/code-nexus",
-    "stars": 1,
-    "updated_at": "2026-08-11T07:41:06Z",
-    "url": "https://github.com/iksnerd/code-nexus"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 205,
-    "updated_at": "2026-08-11T07:40:59Z",
+    "updated_at": "2026-08-11T07:46:53Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -90,22 +135,13 @@
     "url": "https://github.com/Omkar-Wagholikar/adora"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T07:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T07:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8076,
+    "updated_at": "2026-08-11T07:30:30Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -144,15 +180,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8075,
-    "updated_at": "2026-08-11T07:30:30Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "High-quality search for AI-native applications.",
     "id": "topk-io/topk",
     "language": "Rust",
@@ -176,24 +203,15 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9411,
-    "updated_at": "2026-08-11T07:38:31Z",
+    "updated_at": "2026-08-11T07:53:49Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 5,
-    "updated_at": "2026-08-11T07:20:34Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15418,
+    "stars": 15419,
     "updated_at": "2026-08-11T07:19:14Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -212,7 +230,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 265,
-    "updated_at": "2026-08-11T07:12:48Z",
+    "updated_at": "2026-08-11T07:51:11Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-11T07:42:42Z",
+    "updated_at": "2026-08-11T07:52:24Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1466,
     "updated_at": "2026-08-11T06:20:54Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Local-first AI knowledge platform that continuously builds, indexes, and queries your personal knowledge base from Obsid",
-    "id": "harisrana-dev/ai-knowledge-platform",
-    "language": "Python",
-    "name": "harisrana-dev/ai-knowledge-platform",
-    "stars": 0,
-    "updated_at": "2026-08-11T06:16:15Z",
-    "url": "https://github.com/harisrana-dev/ai-knowledge-platform"
-  },
-  {
-    "description": "BrowserVec - GPU-accelerated vector search engine for browser AI. Build private, offline RAG, semantic search, and recom",
-    "id": "sharma-open-source/browservec",
-    "language": "TypeScript",
-    "name": "sharma-open-source/browservec",
-    "stars": 1,
-    "updated_at": "2026-08-11T06:07:25Z",
-    "url": "https://github.com/sharma-open-source/browservec"
   }
 ]
