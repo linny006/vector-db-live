@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-11T17:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MCP server for persistent memory using Qdrant vector store",
+    "id": "taraksh01/memoryhub",
+    "language": "TypeScript",
+    "name": "taraksh01/memoryhub",
+    "stars": 1,
+    "updated_at": "2026-08-11T17:24:41Z",
+    "url": "https://github.com/taraksh01/memoryhub"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-11T17:21:51Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-11T17:20:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33921,
+    "updated_at": "2026-08-11T17:27:00Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Production .NET SDK for Alibaba ZVec \u2014 DI, typed ODM, async, SafeHandles, full indexes/FTS, and mobile RIDs. Not a thin ",
+    "id": "ahmedSamir50/AdamSystems.ZVec.NET",
+    "language": "C#",
+    "name": "ahmedSamir50/AdamSystems.ZVec.NET",
+    "stars": 2,
+    "updated_at": "2026-08-11T17:18:22Z",
+    "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-11T17:15:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A simple, fast and versatile Datalog database",
     "id": "datalevin/datalevin",
     "language": "Clojure",
@@ -36,11 +99,20 @@
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29954,
+    "updated_at": "2026-08-11T17:04:28Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45606,
+    "stars": 45605,
     "updated_at": "2026-08-11T17:02:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -52,24 +124,6 @@
     "stars": 75,
     "updated_at": "2026-08-11T17:02:25Z",
     "url": "https://github.com/TusKANNy/kannolo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-11T17:00:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-11T17:15:30Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable.",
@@ -86,24 +140,15 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1074,
-    "updated_at": "2026-08-11T17:10:04Z",
+    "updated_at": "2026-08-11T17:24:09Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-11T16:47:59Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Cut LLM costs by up to 80% and unlock sub-millisecond responses with intelligent semantic caching.A drop-in, provider-ag",
     "id": "messkan/prompt-cache",
     "language": "Go",
     "name": "messkan/prompt-cache",
-    "stars": 270,
+    "stars": 272,
     "updated_at": "2026-08-11T16:47:43Z",
     "url": "https://github.com/messkan/prompt-cache"
   },
@@ -234,6 +279,15 @@
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 51560,
+    "updated_at": "2026-08-11T16:13:44Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
     "description": "AI-powered RAG document assistant for querying PDFs with Streamlit, FAISS, SentenceTransformers, and Groq.",
     "id": "PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant",
     "language": "Python",
@@ -241,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-11T16:09:20Z",
     "url": "https://github.com/PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29955,
-    "updated_at": "2026-08-11T17:04:28Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "oracle/langchain-oracle",
     "stars": 59,
-    "updated_at": "2026-08-11T15:23:05Z",
+    "updated_at": "2026-08-11T17:29:53Z",
     "url": "https://github.com/oracle/langchain-oracle"
   },
   {
@@ -358,15 +403,6 @@
     "stars": 205,
     "updated_at": "2026-08-11T15:25:26Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-11T15:13:14Z",
-    "url": "https://github.com/agent-ix/ecaz"
   },
   {
     "description": "Website for the Weaviate vector database",
@@ -405,15 +441,6 @@
     "url": "https://github.com/gmr/dotilla"
   },
   {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 51561,
-    "updated_at": "2026-08-11T16:13:44Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 6328,
     "updated_at": "2026-08-11T16:44:56Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
-    "id": "LnYo-Cly/ai4j",
-    "language": "Java",
-    "name": "LnYo-Cly/ai4j",
-    "stars": 422,
-    "updated_at": "2026-08-11T16:48:02Z",
-    "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1875,
-    "updated_at": "2026-08-11T16:25:15Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-08-11T14:46:18Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   }
 ]
