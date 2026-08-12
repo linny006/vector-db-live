@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-12 17:30 UTC
+> ⏰ Last updated: 2026-08-12 17:42 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,28 +42,28 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 86 | Rust | 2026-08-12 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 3 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-12 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
-| 4 | [infino-ai/infino](https://github.com/infino-ai/infino) | 66 | Rust | 2026-08-12 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
-| 5 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6610 | Python | 2026-08-12 |  Memory library for building stateful agents |
-| 6 | [Dinesh-Sharma2004/Medical_chatbot](https://github.com/Dinesh-Sharma2004/Medical_chatbot) | 0 | JavaScript | 2026-08-12 | This project implements a Retrieval-Augmented Generation (RAG) chatbot that can answer medical questions—especially focu |
-| 7 | [CodeAbra/iai-personal-memory-engine](https://github.com/CodeAbra/iai-personal-memory-engine) | 493 | Python | 2026-08-12 | A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time |
-| 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-12 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 9 | [rmednitzer/core-graph](https://github.com/rmednitzer/core-graph) | 1 | Python | 2026-08-12 | Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1310 | Rust | 2026-08-12 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 12 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-12 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 13 | [zepdb/zeppelin](https://github.com/zepdb/zeppelin) | 43 | Rust | 2026-08-12 | Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable. |
-| 14 | [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | 1906 | Rust | 2026-08-12 | SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust. |
-| 15 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-12 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 16 | [pinecone-io/recommender-example-typescript](https://github.com/pinecone-io/recommender-example-typescript) | 57 | TypeScript | 2026-08-12 | TypeScript example: build a content-based article recommender using Pinecone similarity search. |
-| 17 | [libraz/nvecd](https://github.com/libraz/nvecd) | 0 | C++ | 2026-08-12 | In-memory vector search engine with event-based co-occurrence tracking |
-| 18 | [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) | 783 | Rust | 2026-08-12 | build vector database extensions over Apache Datafusion and CMU-DB's BusTub system |
-| 19 | [sergiunicoara/Generative-AI](https://github.com/sergiunicoara/Generative-AI) | 3 | Python | 2026-08-12 | Production GraphRAG portfolio — knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG  |
-| 20 | [hippmem/hippmem](https://github.com/hippmem/hippmem) | 2 | Rust | 2026-08-12 | A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio |
-| 21 | [MasihMoafi/Elpis](https://github.com/MasihMoafi/Elpis) | 41 | Rust | 2026-08-12 | You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend. |
-| 22 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-12 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 1 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-12 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-12 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 86 | Rust | 2026-08-12 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 6 | [infino-ai/infino](https://github.com/infino-ai/infino) | 66 | Rust | 2026-08-12 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
+| 7 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6610 | Python | 2026-08-12 |  Memory library for building stateful agents |
+| 8 | [Dinesh-Sharma2004/Medical_chatbot](https://github.com/Dinesh-Sharma2004/Medical_chatbot) | 0 | JavaScript | 2026-08-12 | This project implements a Retrieval-Augmented Generation (RAG) chatbot that can answer medical questions—especially focu |
+| 9 | [CodeAbra/iai-personal-memory-engine](https://github.com/CodeAbra/iai-personal-memory-engine) | 494 | Python | 2026-08-12 | A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time |
+| 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-12 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 11 | [rmednitzer/core-graph](https://github.com/rmednitzer/core-graph) | 1 | Python | 2026-08-12 | Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem |
+| 12 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1310 | Rust | 2026-08-12 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 13 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-12 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 14 | [zepdb/zeppelin](https://github.com/zepdb/zeppelin) | 43 | Rust | 2026-08-12 | Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable. |
+| 15 | [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | 1906 | Rust | 2026-08-12 | SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust. |
+| 16 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-12 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 17 | [pinecone-io/recommender-example-typescript](https://github.com/pinecone-io/recommender-example-typescript) | 57 | TypeScript | 2026-08-12 | TypeScript example: build a content-based article recommender using Pinecone similarity search. |
+| 18 | [libraz/nvecd](https://github.com/libraz/nvecd) | 0 | C++ | 2026-08-12 | In-memory vector search engine with event-based co-occurrence tracking |
+| 19 | [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) | 783 | Rust | 2026-08-12 | build vector database extensions over Apache Datafusion and CMU-DB's BusTub system |
+| 20 | [sergiunicoara/Generative-AI](https://github.com/sergiunicoara/Generative-AI) | 3 | Python | 2026-08-12 | Production GraphRAG portfolio — knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG  |
+| 21 | [hippmem/hippmem](https://github.com/hippmem/hippmem) | 2 | Rust | 2026-08-12 | A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio |
+| 22 | [MasihMoafi/Elpis](https://github.com/MasihMoafi/Elpis) | 41 | Rust | 2026-08-12 | You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend. |
 | 23 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-12 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 24 | [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) | 67 | Python | 2026-08-12 | The official Pinecone marketplace for Claude Code Plugins |
 | 25 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-12 |  |
