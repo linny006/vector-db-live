@@ -1,11 +1,83 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T17:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1309,
+    "updated_at": "2026-08-12T17:08:37Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-12T17:06:02Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6610,
+    "updated_at": "2026-08-12T17:05:44Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable.",
+    "id": "zepdb/zeppelin",
+    "language": "Rust",
+    "name": "zepdb/zeppelin",
+    "stars": 43,
+    "updated_at": "2026-08-12T17:02:43Z",
+    "url": "https://github.com/zepdb/zeppelin"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1906,
+    "updated_at": "2026-08-12T17:01:36Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-12T17:01:19Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T17:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "TypeScript example: build a content-based article recommender using Pinecone similarity search.",
     "id": "pinecone-io/recommender-example-typescript",
     "language": "TypeScript",
     "name": "pinecone-io/recommender-example-typescript",
     "stars": 57,
-    "updated_at": "2026-08-12T17:00:00Z",
+    "updated_at": "2026-08-12T17:00:26Z",
     "url": "https://github.com/pinecone-io/recommender-example-typescript"
   },
   {
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "rmednitzer/core-graph",
     "stars": 1,
-    "updated_at": "2026-08-12T16:58:57Z",
+    "updated_at": "2026-08-12T17:02:16Z",
     "url": "https://github.com/rmednitzer/core-graph"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Rust",
     "name": "skyzh/write-you-a-vector-db",
     "stars": 783,
-    "updated_at": "2026-08-12T16:56:12Z",
+    "updated_at": "2026-08-12T17:13:49Z",
     "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
@@ -77,26 +149,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-12T16:46:29Z",
+    "updated_at": "2026-08-12T17:14:15Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T16:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T16:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -106,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T16:43:29Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable.",
-    "id": "zepdb/zeppelin",
-    "language": "Rust",
-    "name": "zepdb/zeppelin",
-    "stars": 43,
-    "updated_at": "2026-08-12T16:42:52Z",
-    "url": "https://github.com/zepdb/zeppelin"
   },
   {
     "description": "The official Pinecone marketplace for Claude Code Plugins",
@@ -153,21 +198,12 @@
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6610,
-    "updated_at": "2026-08-12T16:25:48Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7046,
-    "updated_at": "2026-08-12T16:20:38Z",
+    "updated_at": "2026-08-12T17:04:38Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -216,24 +252,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-12T16:00:01Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-12T15:57:41Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "Official repository of the kANNolo library.",
     "id": "TusKANNy/kannolo",
     "language": "Rust",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29975,
-    "updated_at": "2026-08-12T16:51:58Z",
+    "updated_at": "2026-08-12T17:03:07Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -292,7 +310,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64659,
+    "stars": 64660,
     "updated_at": "2026-08-12T15:29:58Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -313,15 +331,6 @@
     "stars": 16,
     "updated_at": "2026-08-12T15:28:04Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1309,
-    "updated_at": "2026-08-12T15:24:19Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin.",
@@ -392,7 +401,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6331,
-    "updated_at": "2026-08-12T16:57:13Z",
+    "updated_at": "2026-08-12T17:11:06Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T14:38:06Z",
     "url": "https://github.com/JoshPola96/agentic-rag-chatbot-mcp"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12852,
-    "updated_at": "2026-08-12T14:29:30Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   }
 ]
