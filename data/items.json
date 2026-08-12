@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T11:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-12T10:59:52Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 86,
+    "updated_at": "2026-08-12T10:57:44Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-12T10:49:10Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-12T10:48:35Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1876,
+    "updated_at": "2026-08-12T10:51:51Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T10:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Object storage for the AI age",
     "id": "worka-ai/anvil",
     "language": "Rust",
@@ -16,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-08-12T10:44:51Z",
     "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8086,
+    "updated_at": "2026-08-12T10:44:18Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Turn any website into clean, LLM-ready data. Open-source web crawler with stealth mode, distributed crawling, real-time ",
@@ -54,42 +126,6 @@
     "url": "https://github.com/kifayat-irfan/local-first-rag-platform"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-12T10:41:34Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T10:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T10:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1876,
-    "updated_at": "2026-08-12T10:44:52Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -97,15 +133,6 @@
     "stars": 76,
     "updated_at": "2026-08-12T10:26:58Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-12T10:23:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The AI search platform",
@@ -140,7 +167,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5723,
-    "updated_at": "2026-08-12T10:21:38Z",
+    "updated_at": "2026-08-12T10:55:46Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -162,21 +189,12 @@
     "url": "https://github.com/Omkar-Wagholikar/adora"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 86,
-    "updated_at": "2026-08-12T10:45:21Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6209,
-    "updated_at": "2026-08-12T10:34:05Z",
+    "updated_at": "2026-08-12T10:56:01Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -225,15 +243,6 @@
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-12T09:59:38Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Provides Islamic prayer postural adjustment advice using a source-based RAG architecture grounded in biomechanics and ve",
     "id": "alifim/sujudsense",
     "language": "Python",
@@ -248,7 +257,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-12T10:10:33Z",
+    "updated_at": "2026-08-12T10:45:46Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35149,
-    "updated_at": "2026-08-12T09:40:02Z",
+    "updated_at": "2026-08-12T10:59:58Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9411,
-    "updated_at": "2026-08-12T10:26:41Z",
+    "updated_at": "2026-08-12T10:53:19Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -322,15 +331,6 @@
     "stars": 89,
     "updated_at": "2026-08-12T10:23:05Z",
     "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8085,
-    "updated_at": "2026-08-12T10:44:18Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -356,7 +356,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45611,
-    "updated_at": "2026-08-12T09:22:22Z",
+    "updated_at": "2026-08-12T10:46:22Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -383,7 +383,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16724,
-    "updated_at": "2026-08-12T10:28:52Z",
+    "updated_at": "2026-08-12T10:52:26Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
