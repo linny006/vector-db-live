@@ -1,5 +1,86 @@
 [
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9412,
+    "updated_at": "2026-08-12T08:42:45Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "\ud83d\udc15 Sniffs out the lease clauses that shouldn't be there \u2014 WA tenant-law RAG: clause-by-clause scan reports with statute c",
+    "id": "tywangq/leasehound",
+    "language": "Python",
+    "name": "tywangq/leasehound",
+    "stars": 2,
+    "updated_at": "2026-08-12T08:40:09Z",
+    "url": "https://github.com/tywangq/leasehound"
+  },
+  {
+    "description": "Semantic codebase assistant for GitHub repositories powered by RAG, pgvector, and Gemini.",
+    "id": "Mxnrxjj/talk-to-my-repo",
+    "language": "TypeScript",
+    "name": "Mxnrxjj/talk-to-my-repo",
+    "stars": 0,
+    "updated_at": "2026-08-12T08:36:01Z",
+    "url": "https://github.com/Mxnrxjj/talk-to-my-repo"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1876,
+    "updated_at": "2026-08-12T08:35:59Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7046,
+    "updated_at": "2026-08-12T08:34:42Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-12T08:32:18Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35147,
+    "updated_at": "2026-08-12T08:36:33Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T08:30:38Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T08:45:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\u6237\u7eba\u667a\u82af OutdoorTextile-LLM V3.0 \u2014 \u670d\u9970\u6237\u5916\u884c\u4e1a\u5782\u76f4 AI RAG \u95ee\u7b54\u7cfb\u7edf\uff1aTika \u89e3\u6790\u2192Ollama \u5411\u91cf\u5316\u2192Milvus/MySQL \u68c0\u7d22\uff0c\u652f\u6301\u9762\u6599/\u5de5\u827a/\u4f9b\u5e94\u94fe\u5206\u6790",
     "id": "wch887292/CyanVistaOutdoorApparelAI",
     "language": "Java",
@@ -7,6 +88,15 @@
     "stars": 1,
     "updated_at": "2026-08-12T08:30:03Z",
     "url": "https://github.com/wch887292/CyanVistaOutdoorApparelAI"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-12T08:29:55Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -32,7 +122,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-12T08:24:45Z",
+    "updated_at": "2026-08-12T08:45:27Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -45,13 +135,13 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35146,
-    "updated_at": "2026-08-12T08:20:17Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33933,
+    "updated_at": "2026-08-12T08:20:59Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -63,15 +153,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-12T08:16:09Z",
-    "url": "https://github.com/worka-ai/anvil"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -79,24 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T08:15:28Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T08:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T08:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
@@ -126,21 +189,12 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1876,
-    "updated_at": "2026-08-12T08:01:27Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58943,
-    "updated_at": "2026-08-12T07:59:11Z",
+    "updated_at": "2026-08-12T08:31:27Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -149,17 +203,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6209,
-    "updated_at": "2026-08-12T08:29:56Z",
+    "updated_at": "2026-08-12T08:44:23Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33932,
-    "updated_at": "2026-08-12T08:20:59Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
@@ -176,7 +221,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16724,
-    "updated_at": "2026-08-12T07:56:46Z",
+    "updated_at": "2026-08-12T08:45:02Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1074,
-    "updated_at": "2026-08-12T08:25:43Z",
+    "updated_at": "2026-08-12T08:34:35Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -243,15 +288,6 @@
     "url": "https://github.com/lightonai/next-plaid"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-12T08:29:55Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Provides Islamic prayer postural adjustment advice using a source-based RAG architecture grounded in biomechanics and ve",
     "id": "alifim/sujudsense",
     "language": "Python",
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6331,
-    "updated_at": "2026-08-12T08:14:02Z",
+    "updated_at": "2026-08-12T08:37:13Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -304,15 +340,6 @@
     "stars": 5,
     "updated_at": "2026-08-12T07:24:25Z",
     "url": "https://github.com/Omkar-Wagholikar/adora"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9412,
-    "updated_at": "2026-08-12T08:19:17Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-12T06:15:01Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "",
-    "id": "moyunzero/personal-gpt",
-    "language": "TypeScript",
-    "name": "moyunzero/personal-gpt",
-    "stars": 2,
-    "updated_at": "2026-08-12T06:09:20Z",
-    "url": "https://github.com/moyunzero/personal-gpt"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "RonsenbergVI/fraise",
-    "language": "Go",
-    "name": "RonsenbergVI/fraise",
-    "stars": 2,
-    "updated_at": "2026-08-12T06:05:08Z",
-    "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8084,
-    "updated_at": "2026-08-12T08:27:33Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
