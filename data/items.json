@@ -1,12 +1,129 @@
 [
   {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 93,
+    "updated_at": "2026-08-12T21:44:55Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-08-12T21:44:28Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 21,
+    "updated_at": "2026-08-12T21:44:44Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 494,
+    "updated_at": "2026-08-12T21:42:59Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-12T21:42:31Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 338,
+    "updated_at": "2026-08-12T21:41:47Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1074,
+    "updated_at": "2026-08-12T21:44:43Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1613,
+    "updated_at": "2026-08-12T21:37:49Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
     "description": "Vector DB implementation in Mojo",
     "id": "bewaffnete/MojoVec",
     "language": "Mojo",
     "name": "bewaffnete/MojoVec",
     "stars": 7,
-    "updated_at": "2026-08-12T21:29:34Z",
+    "updated_at": "2026-08-12T21:36:53Z",
     "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the Node.js & TypeScri",
+    "id": "MontyGovernance/montycat_node",
+    "language": "TypeScript",
+    "name": "MontyGovernance/montycat_node",
+    "stars": 2,
+    "updated_at": "2026-08-12T21:35:55Z",
+    "url": "https://github.com/MontyGovernance/montycat_node"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6612,
+    "updated_at": "2026-08-12T21:36:01Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Python clien",
+    "id": "MontyGovernance/montycat_python",
+    "language": "Python",
+    "name": "MontyGovernance/montycat_python",
+    "stars": 10,
+    "updated_at": "2026-08-12T21:35:46Z",
+    "url": "https://github.com/MontyGovernance/montycat_python"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-12T21:32:49Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T21:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +131,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-12T21:28:12Z",
+    "updated_at": "2026-08-12T21:30:23Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -34,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T21:28:01Z",
     "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T21:27:02Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -104,7 +212,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 47,
-    "updated_at": "2026-08-12T21:13:38Z",
+    "updated_at": "2026-08-12T21:36:33Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -124,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-08-12T21:11:42Z",
     "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6612,
-    "updated_at": "2026-08-12T21:29:21Z",
-    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "",
@@ -162,15 +261,6 @@
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1074,
-    "updated_at": "2026-08-12T21:25:34Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -194,7 +284,7 @@
     "language": "Python",
     "name": "Yasou13/MESA",
     "stars": 5,
-    "updated_at": "2026-08-12T20:40:54Z",
+    "updated_at": "2026-08-12T21:41:54Z",
     "url": "https://github.com/Yasou13/MESA"
   },
   {
@@ -234,15 +324,6 @@
     "url": "https://github.com/vidhyawalke/RAG-PDF-Assistant"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-12T20:29:49Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable.",
     "id": "zepdb/zeppelin",
     "language": "Rust",
@@ -265,7 +346,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64662,
+    "stars": 64661,
     "updated_at": "2026-08-12T20:24:55Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -277,15 +358,6 @@
     "stars": 17,
     "updated_at": "2026-08-12T20:23:06Z",
     "url": "https://github.com/dkylewillis/vera"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-12T20:02:23Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
@@ -333,20 +405,11 @@
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
-    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Python clien",
-    "id": "MontyGovernance/montycat_python",
-    "language": "Python",
-    "name": "MontyGovernance/montycat_python",
-    "stars": 10,
-    "updated_at": "2026-08-12T19:39:41Z",
-    "url": "https://github.com/MontyGovernance/montycat_python"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 1876,
+    "stars": 1877,
     "updated_at": "2026-08-12T19:25:21Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -385,68 +448,5 @@
     "stars": 86,
     "updated_at": "2026-08-12T21:27:54Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 2,
-    "updated_at": "2026-08-12T19:08:30Z",
-    "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
-    "id": "rehan243/RAG-Enterprise-Search",
-    "language": "Python",
-    "name": "rehan243/RAG-Enterprise-Search",
-    "stars": 1,
-    "updated_at": "2026-08-12T19:07:24Z",
-    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
-    "id": "meriamsamy/Sterling-Vance-Bank-B",
-    "language": "Python",
-    "name": "meriamsamy/Sterling-Vance-Bank-B",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:03:48Z",
-    "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
-  },
-  {
-    "description": "Local-first RAG with an incremental ontology over your Markdown, exposed to any AI agent via MCP.",
-    "id": "rafaelnicolett/kern",
-    "language": "Rust",
-    "name": "rafaelnicolett/kern",
-    "stars": 2,
-    "updated_at": "2026-08-12T18:54:49Z",
-    "url": "https://github.com/rafaelnicolett/kern"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7047,
-    "updated_at": "2026-08-12T21:21:15Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin.",
-    "id": "firelock-ai/kin-vector",
-    "language": "Rust",
-    "name": "firelock-ai/kin-vector",
-    "stars": 0,
-    "updated_at": "2026-08-12T19:17:40Z",
-    "url": "https://github.com/firelock-ai/kin-vector"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 98,
-    "updated_at": "2026-08-12T18:46:46Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
   }
 ]
