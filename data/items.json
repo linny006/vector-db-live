@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T16:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-12T16:29:58Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 840,
+    "updated_at": "2026-08-12T16:25:15Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6610,
+    "updated_at": "2026-08-12T16:25:48Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "In-memory vector search engine with event-based co-occurrence tracking",
+    "id": "libraz/nvecd",
+    "language": "C++",
+    "name": "libraz/nvecd",
+    "stars": 0,
+    "updated_at": "2026-08-12T16:21:53Z",
+    "url": "https://github.com/libraz/nvecd"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-12T16:26:24Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7046,
+    "updated_at": "2026-08-12T16:20:38Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-12T16:19:08Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T16:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -27,15 +108,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-12T16:07:47Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
     "id": "Daaboulex/openviking-nix",
     "language": "Shell",
@@ -52,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T16:02:59Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T16:00:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T16:15:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -97,15 +151,6 @@
     "stars": 75,
     "updated_at": "2026-08-12T15:57:23Z",
     "url": "https://github.com/TusKANNy/kannolo"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-12T15:48:30Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29975,
-    "updated_at": "2026-08-12T16:10:21Z",
+    "updated_at": "2026-08-12T16:24:16Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -175,7 +220,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64658,
+    "stars": 64659,
     "updated_at": "2026-08-12T15:29:58Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "skyzh/write-you-a-vector-db",
     "stars": 783,
-    "updated_at": "2026-08-12T15:47:37Z",
+    "updated_at": "2026-08-12T16:23:00Z",
     "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6209,
-    "updated_at": "2026-08-12T15:58:34Z",
+    "updated_at": "2026-08-12T16:26:50Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11138,
-    "updated_at": "2026-08-12T15:52:20Z",
+    "updated_at": "2026-08-12T16:19:27Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -265,7 +310,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33938,
+    "stars": 33939,
     "updated_at": "2026-08-12T15:10:26Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -293,7 +338,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6331,
-    "updated_at": "2026-08-12T14:57:07Z",
+    "updated_at": "2026-08-12T16:25:10Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 9411,
     "updated_at": "2026-08-12T16:11:35Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Serverless Postgres on your own bucket. Multi-tenant, bucket-native, self-hosted: a project is an S3 prefix, not a provi",
-    "id": "vul-os/basin",
-    "language": "Rust",
-    "name": "vul-os/basin",
-    "stars": 7,
-    "updated_at": "2026-08-12T16:13:08Z",
-    "url": "https://github.com/vul-os/basin"
-  },
-  {
-    "description": "Turn any website into clean, LLM-ready data. Open-source web crawler with stealth mode, distributed crawling, real-time ",
-    "id": "GramosoftAI/GcrawlAI",
-    "language": "Python",
-    "name": "GramosoftAI/GcrawlAI",
-    "stars": 33,
-    "updated_at": "2026-08-12T14:06:17Z",
-    "url": "https://github.com/GramosoftAI/GcrawlAI"
-  },
-  {
-    "description": "Multimodal extractors for video, image, audio, text & PDF \u2014 turn any file into searchable vector embeddings (SigLIP, Gem",
-    "id": "mixpeek/mixpeek-extractors",
-    "language": "Python",
-    "name": "mixpeek/mixpeek-extractors",
-    "stars": 1,
-    "updated_at": "2026-08-12T14:04:25Z",
-    "url": "https://github.com/mixpeek/mixpeek-extractors"
-  },
-  {
-    "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
-    "id": "elchemista/vettore",
-    "language": "Elixir",
-    "name": "elchemista/vettore",
-    "stars": 22,
-    "updated_at": "2026-08-12T14:04:22Z",
-    "url": "https://github.com/elchemista/vettore"
-  },
-  {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
-    "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-12T14:02:20Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
   }
 ]
