@@ -1,5 +1,77 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-12T07:13:14Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "A privacy-first enterprise Retrieval-Augmented Generation (RAG) architecture for secure organizational knowledge managem",
+    "id": "Abishang21/enterprise-rag-knowledge-assistant",
+    "language": "Python",
+    "name": "Abishang21/enterprise-rag-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-12T07:12:32Z",
+    "url": "https://github.com/Abishang21/enterprise-rag-knowledge-assistant"
+  },
+  {
+    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
+    "id": "GoodbyePlanet/semcode",
+    "language": "Python",
+    "name": "GoodbyePlanet/semcode",
+    "stars": 4,
+    "updated_at": "2026-08-12T07:11:47Z",
+    "url": "https://github.com/GoodbyePlanet/semcode"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45611,
+    "updated_at": "2026-08-12T07:10:23Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-12T07:13:44Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-12T07:04:06Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-12T07:01:54Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T07:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T06:56:49Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-12T06:54:35Z",
-    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -63,24 +126,6 @@
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T06:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45609,
-    "updated_at": "2026-08-12T06:44:23Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -90,30 +135,12 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-12T06:42:31Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
-    "id": "GoodbyePlanet/semcode",
-    "language": "Python",
-    "name": "GoodbyePlanet/semcode",
-    "stars": 4,
-    "updated_at": "2026-08-12T06:43:25Z",
-    "url": "https://github.com/GoodbyePlanet/semcode"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1074,
-    "updated_at": "2026-08-12T06:43:27Z",
+    "updated_at": "2026-08-12T07:04:05Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16724,
-    "updated_at": "2026-08-12T07:00:15Z",
+    "updated_at": "2026-08-12T07:06:55Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -187,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T06:12:19Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-12T06:16:55Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "",
@@ -266,7 +284,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6330,
-    "updated_at": "2026-08-12T06:41:20Z",
+    "updated_at": "2026-08-12T07:08:24Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -279,21 +297,12 @@
     "url": "https://github.com/siaarzh/scrybe"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-12T05:22:06Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9412,
-    "updated_at": "2026-08-12T06:59:12Z",
+    "updated_at": "2026-08-12T07:04:05Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -331,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T04:29:23Z",
     "url": "https://github.com/Shreya-bristi/telecom-customer-care-assistant"
-  },
-  {
-    "description": "A privacy-first enterprise Retrieval-Augmented Generation (RAG) architecture for secure organizational knowledge managem",
-    "id": "Abishang21/enterprise-rag-knowledge-assistant",
-    "language": "Python",
-    "name": "Abishang21/enterprise-rag-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-12T04:25:06Z",
-    "url": "https://github.com/Abishang21/enterprise-rag-knowledge-assistant"
   },
   {
     "description": "C++ vector search engine (HNSW/KD-Tree/BruteForce) with local RAG via Ollama",
