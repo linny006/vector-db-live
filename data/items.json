@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T14:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-08-12T13:59:15Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
+    "id": "NirDiamant/RAG_Techniques",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/RAG_Techniques",
+    "stars": 29034,
+    "updated_at": "2026-08-12T13:58:34Z",
+    "url": "https://github.com/NirDiamant/RAG_Techniques"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12851,
+    "updated_at": "2026-08-12T13:54:08Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7046,
+    "updated_at": "2026-08-12T13:48:21Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-12T13:46:52Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T13:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29973,
+    "updated_at": "2026-08-12T14:00:19Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Local-first cross-corpus retrieval MCP server \u2014 model2vec embeddings + LanceDB (Tantivy BM25) + SQLite. One binary; hybr",
     "id": "os-tack/ostk-recall",
     "language": "Rust",
@@ -7,6 +79,33 @@
     "stars": 6,
     "updated_at": "2026-08-12T13:44:51Z",
     "url": "https://github.com/os-tack/ostk-recall"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11136,
+    "updated_at": "2026-08-12T13:44:29Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 16,
+    "updated_at": "2026-08-12T13:41:39Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5724,
+    "updated_at": "2026-08-12T13:39:25Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
@@ -23,7 +122,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16725,
-    "updated_at": "2026-08-12T13:35:42Z",
+    "updated_at": "2026-08-12T13:51:50Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -41,7 +140,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1876,
-    "updated_at": "2026-08-12T13:34:46Z",
+    "updated_at": "2026-08-12T13:51:13Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -50,7 +149,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33937,
-    "updated_at": "2026-08-12T13:33:59Z",
+    "updated_at": "2026-08-12T13:59:33Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -68,35 +167,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6209,
-    "updated_at": "2026-08-12T13:32:45Z",
+    "updated_at": "2026-08-12T13:53:34Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T13:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T13:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7046,
-    "updated_at": "2026-08-12T13:34:01Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -104,7 +176,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-12T13:36:10Z",
+    "updated_at": "2026-08-12T13:49:45Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -162,15 +234,6 @@
     "url": "https://github.com/jeganxthan/Anvil"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29972,
-    "updated_at": "2026-08-12T13:44:53Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
     "id": "MasihMoafi/Elpis",
     "language": "Rust",
@@ -185,7 +248,7 @@
     "language": "Java",
     "name": "eniglio-ctrl/enterprise-rag-platform",
     "stars": 0,
-    "updated_at": "2026-08-12T13:12:02Z",
+    "updated_at": "2026-08-12T13:49:21Z",
     "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9411,
-    "updated_at": "2026-08-12T13:08:01Z",
+    "updated_at": "2026-08-12T13:50:20Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -241,15 +304,6 @@
     "stars": 8,
     "updated_at": "2026-08-12T12:51:31Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11135,
-    "updated_at": "2026-08-12T13:44:29Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -292,18 +346,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1302,
+    "stars": 1303,
     "updated_at": "2026-08-12T12:19:12Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-12T12:09:45Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -374,7 +419,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8087,
-    "updated_at": "2026-08-12T13:43:44Z",
+    "updated_at": "2026-08-12T13:57:55Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -387,6 +432,15 @@
     "url": "https://github.com/Omkar-Wagholikar/adora"
   },
   {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 267,
+    "updated_at": "2026-08-12T11:27:13Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
     "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
     "id": "geckse/markdown-vdb",
     "language": "Rust",
@@ -394,59 +448,5 @@
     "stars": 23,
     "updated_at": "2026-08-12T11:27:00Z",
     "url": "https://github.com/geckse/markdown-vdb"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-12T13:05:39Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12851,
-    "updated_at": "2026-08-12T11:50:04Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Sistema de geladeira inteligente: cadastro de itens via Spring Boot + JPA, gera\u00e7\u00e3o de receitas com integra\u00e7\u00e3o \u00e0 API do G",
-    "id": "gmatheusd/MagicFridgeAI",
-    "language": "Java",
-    "name": "gmatheusd/MagicFridgeAI",
-    "stars": 0,
-    "updated_at": "2026-08-12T11:20:32Z",
-    "url": "https://github.com/gmatheusd/MagicFridgeAI"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15430,
-    "updated_at": "2026-08-12T11:17:16Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Production memory infrastructure for AI agents: distilled records, source-preserving RAG, hybrid retrieval, SDKs, API, d",
-    "id": "fishmem-labs/fishmem",
-    "language": "TypeScript",
-    "name": "fishmem-labs/fishmem",
-    "stars": 2,
-    "updated_at": "2026-08-12T11:46:35Z",
-    "url": "https://github.com/fishmem-labs/fishmem"
-  },
-  {
-    "description": "Self-RAG: a self-reflective RAG system built from scratch in LangGraph. Grades its own retrieved documents and generated",
-    "id": "Nitesh-lng/Self_RAG",
-    "language": "Python",
-    "name": "Nitesh-lng/Self_RAG",
-    "stars": 1,
-    "updated_at": "2026-08-12T11:12:04Z",
-    "url": "https://github.com/Nitesh-lng/Self_RAG"
   }
 ]
