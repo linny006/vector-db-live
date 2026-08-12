@@ -1,21 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T11:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-12T11:43:39Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12873,
-    "updated_at": "2026-08-12T11:29:43Z",
-    "url": "https://github.com/neuml/txtai"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8087,
+    "updated_at": "2026-08-12T11:32:09Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -23,8 +23,44 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-12T11:27:13Z",
+    "updated_at": "2026-08-12T11:38:20Z",
     "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Python package that makes it easy to spin up a custom Retrieval-Augmented Generation (RAG) pipeline.",
+    "id": "Omkar-Wagholikar/adora",
+    "language": "Python",
+    "name": "Omkar-Wagholikar/adora",
+    "stars": 5,
+    "updated_at": "2026-08-12T11:31:51Z",
+    "url": "https://github.com/Omkar-Wagholikar/adora"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12873,
+    "updated_at": "2026-08-12T11:37:22Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T11:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T11:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
@@ -108,21 +144,12 @@
     "url": "https://github.com/alibaba/zvec"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T11:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Production memory infrastructure for AI agents: distilled records, source-preserving RAG, hybrid retrieval, SDKs, API, d",
     "id": "fishmem-labs/fishmem",
     "language": "TypeScript",
     "name": "fishmem-labs/fishmem",
     "stars": 2,
-    "updated_at": "2026-08-12T11:14:08Z",
+    "updated_at": "2026-08-12T11:44:49Z",
     "url": "https://github.com/fishmem-labs/fishmem"
   },
   {
@@ -133,6 +160,15 @@
     "stars": 1,
     "updated_at": "2026-08-12T11:12:04Z",
     "url": "https://github.com/Nitesh-lng/Self_RAG"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33934,
+    "updated_at": "2026-08-12T11:40:35Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Turn any website into clean, LLM-ready data. Open-source web crawler with stealth mode, distributed crawling, real-time ",
@@ -157,7 +193,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35151,
+    "stars": 35152,
     "updated_at": "2026-08-12T10:59:58Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -185,7 +221,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 86,
-    "updated_at": "2026-08-12T11:17:17Z",
+    "updated_at": "2026-08-12T11:40:00Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T10:44:51Z",
     "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8086,
-    "updated_at": "2026-08-12T11:28:01Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Declarative, versioned schema & config migrations for Qdrant \u2014 Alembic for vector collections.",
@@ -257,7 +284,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7046,
-    "updated_at": "2026-08-12T10:21:06Z",
+    "updated_at": "2026-08-12T11:41:44Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -288,21 +315,12 @@
     "url": "https://github.com/qdrant/skills"
   },
   {
-    "description": "Python package that makes it easy to spin up a custom Retrieval-Augmented Generation (RAG) pipeline.",
-    "id": "Omkar-Wagholikar/adora",
-    "language": "Python",
-    "name": "Omkar-Wagholikar/adora",
-    "stars": 5,
-    "updated_at": "2026-08-12T10:14:27Z",
-    "url": "https://github.com/Omkar-Wagholikar/adora"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6209,
-    "updated_at": "2026-08-12T11:26:16Z",
+    "updated_at": "2026-08-12T11:42:35Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T10:05:27Z",
     "url": "https://github.com/vidhyawalke/RAG-PDF-Assistant"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-12T10:02:04Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
@@ -419,7 +428,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6330,
-    "updated_at": "2026-08-12T10:04:46Z",
+    "updated_at": "2026-08-12T11:32:52Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-12T09:11:49Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Production-grade, low-latency RAG pipeline powered by Gemini 2.5 Flash. Features an automated 3-hour dynamic vector sync",
-    "id": "Abolfazl-Afkhami/Production-RAG-Dynamic-Inventory-Pipeline",
-    "language": "\u2014",
-    "name": "Abolfazl-Afkhami/Production-RAG-Dynamic-Inventory-Pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-12T09:07:36Z",
-    "url": "https://github.com/Abolfazl-Afkhami/Production-RAG-Dynamic-Inventory-Pipeline"
   }
 ]
