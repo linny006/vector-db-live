@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-12 07:43 UTC
+> ⏰ Last updated: 2026-08-12 07:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-12 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
-| 2 | [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) | 2050 | PHP | 2026-08-12 | The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T |
-| 3 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45611 | Go | 2026-08-12 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 4 | [lightonai/next-plaid](https://github.com/lightonai/next-plaid) | 528 | Rust | 2026-08-12 | NextPlaid, ColGREP: Multi-vector search, from database to coding agents. |
-| 5 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-12 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-12 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 7 | [alifim/sujudsense](https://github.com/alifim/sujudsense) | 0 | Python | 2026-08-12 | Provides Islamic prayer postural adjustment advice using a source-based RAG architecture grounded in biomechanics and ve |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-12 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
+| 4 | [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) | 2050 | PHP | 2026-08-12 | The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T |
+| 5 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45611 | Go | 2026-08-12 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 6 | [lightonai/next-plaid](https://github.com/lightonai/next-plaid) | 528 | Rust | 2026-08-12 | NextPlaid, ColGREP: Multi-vector search, from database to coding agents. |
+| 7 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-12 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-12 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 9 | [alifim/sujudsense](https://github.com/alifim/sujudsense) | 0 | Python | 2026-08-12 | Provides Islamic prayer postural adjustment advice using a source-based RAG architecture grounded in biomechanics and ve |
 | 10 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29968 | Python | 2026-08-12 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 11 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-12 | Object storage for the AI age |
 | 12 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-12 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
