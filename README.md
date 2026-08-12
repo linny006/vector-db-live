@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-12 08:45 UTC
+> ⏰ Last updated: 2026-08-12 08:52 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9412 | Rust | 2026-08-12 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
-| 2 | [tywangq/leasehound](https://github.com/tywangq/leasehound) | 2 | Python | 2026-08-12 | 🐕 Sniffs out the lease clauses that shouldn't be there — WA tenant-law RAG: clause-by-clause scan reports with statute c |
-| 3 | [Mxnrxjj/talk-to-my-repo](https://github.com/Mxnrxjj/talk-to-my-repo) | 0 | TypeScript | 2026-08-12 | Semantic codebase assistant for GitHub repositories powered by RAG, pgvector, and Gemini. |
-| 4 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1876 | Go | 2026-08-12 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 5 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7046 | Java | 2026-08-12 | The AI search platform |
-| 6 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-12 | Object storage for the AI age |
-| 7 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35147 | Python | 2026-08-12 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 10 | [wch887292/CyanVistaOutdoorApparelAI](https://github.com/wch887292/CyanVistaOutdoorApparelAI) | 1 | Java | 2026-08-12 | 户纺智芯 OutdoorTextile-LLM V3.0 — 服饰户外行业垂直 AI RAG 问答系统：Tika 解析→Ollama 向量化→Milvus/MySQL 检索，支持面料/工艺/供应链分析 |
-| 11 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-12 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 12 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45611 | Go | 2026-08-12 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 13 | [Artemon-line/ai-memory-hub](https://github.com/Artemon-line/ai-memory-hub) | 2 | Python | 2026-08-12 | Local-first shared memory for AI agents, with MCP and HTTP APIs. |
-| 14 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-12 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 15 | [infino-ai/infino](https://github.com/infino-ai/infino) | 66 | Rust | 2026-08-12 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
-| 16 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33933 | Rust | 2026-08-12 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
-| 17 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-12 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 18 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-12 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 19 | [rmednitzer/core-graph](https://github.com/rmednitzer/core-graph) | 1 | Python | 2026-08-12 | Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem |
-| 20 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11130 | Rust | 2026-08-12 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 21 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29967 | Python | 2026-08-12 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 22 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 58943 | Rust | 2026-08-12 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
-| 23 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6209 | Rust | 2026-08-12 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 1 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6209 | Rust | 2026-08-12 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 2 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-12 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9412 | Rust | 2026-08-12 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
+| 6 | [tywangq/leasehound](https://github.com/tywangq/leasehound) | 2 | Python | 2026-08-12 | 🐕 Sniffs out the lease clauses that shouldn't be there — WA tenant-law RAG: clause-by-clause scan reports with statute c |
+| 7 | [Mxnrxjj/talk-to-my-repo](https://github.com/Mxnrxjj/talk-to-my-repo) | 0 | TypeScript | 2026-08-12 | Semantic codebase assistant for GitHub repositories powered by RAG, pgvector, and Gemini. |
+| 8 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1876 | Go | 2026-08-12 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 9 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7046 | Java | 2026-08-12 | The AI search platform |
+| 10 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-12 | Object storage for the AI age |
+| 11 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 58944 | Rust | 2026-08-12 | A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications. |
+| 12 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35147 | Python | 2026-08-12 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 13 | [wch887292/CyanVistaOutdoorApparelAI](https://github.com/wch887292/CyanVistaOutdoorApparelAI) | 1 | Java | 2026-08-12 | 户纺智芯 OutdoorTextile-LLM V3.0 — 服饰户外行业垂直 AI RAG 问答系统：Tika 解析→Ollama 向量化→Milvus/MySQL 检索，支持面料/工艺/供应链分析 |
+| 14 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-12 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 15 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45611 | Go | 2026-08-12 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 16 | [Artemon-line/ai-memory-hub](https://github.com/Artemon-line/ai-memory-hub) | 2 | Python | 2026-08-12 | Local-first shared memory for AI agents, with MCP and HTTP APIs. |
+| 17 | [infino-ai/infino](https://github.com/infino-ai/infino) | 66 | Rust | 2026-08-12 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
+| 18 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33933 | Rust | 2026-08-12 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 19 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-12 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 20 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-12 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 21 | [rmednitzer/core-graph](https://github.com/rmednitzer/core-graph) | 1 | Python | 2026-08-12 | Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem |
+| 22 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11130 | Rust | 2026-08-12 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 23 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 29967 | Python | 2026-08-12 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 24 | [meriamsamy/Sterling-Vance-Bank-B](https://github.com/meriamsamy/Sterling-Vance-Bank-B) | 0 | Python | 2026-08-12 | A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment. |
 | 25 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16724 | Go | 2026-08-12 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
 | 26 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1362 | Rust | 2026-08-12 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
