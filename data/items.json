@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1074,
+    "updated_at": "2026-08-12T12:26:13Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Vector Database Qdrant for semantic search,  including data loading similarity matching, natural language search. Build ",
+    "id": "fvreys/AI_VectorDatabasewithQdrant",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T12:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "fvreys/AI_VectorDatabasewithQdrant",
+    "stars": 1,
+    "updated_at": "2026-08-12T12:22:04Z",
+    "url": "https://github.com/fvreys/AI_VectorDatabasewithQdrant"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -14,8 +23,35 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-12T12:15:19Z",
+    "updated_at": "2026-08-12T12:20:38Z",
     "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-12T12:17:44Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T12:15:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T12:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -32,17 +68,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29971,
-    "updated_at": "2026-08-12T12:08:46Z",
+    "updated_at": "2026-08-12T12:26:07Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Vector Database Qdrant for semantic search,  including data loading similarity matching, natural language search. Build ",
-    "id": "fvreys/AI_VectorDatabasewithQdrant",
-    "language": "\u2014",
-    "name": "fvreys/AI_VectorDatabasewithQdrant",
-    "stars": 1,
-    "updated_at": "2026-08-12T12:07:42Z",
-    "url": "https://github.com/fvreys/AI_VectorDatabasewithQdrant"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -63,21 +90,12 @@
     "url": "https://github.com/zmwzmo11130/neuraldocs"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T12:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6209,
-    "updated_at": "2026-08-12T12:12:30Z",
+    "updated_at": "2026-08-12T12:27:00Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -104,7 +122,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33935,
-    "updated_at": "2026-08-12T11:51:08Z",
+    "updated_at": "2026-08-12T12:29:18Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -153,15 +171,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-12T11:46:03Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -175,7 +184,7 @@
     "id": "neuml/txtai",
     "language": "Python",
     "name": "neuml/txtai",
-    "stars": 12874,
+    "stars": 12876,
     "updated_at": "2026-08-12T11:37:22Z",
     "url": "https://github.com/neuml/txtai"
   },
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-12T11:25:05Z",
+    "updated_at": "2026-08-12T12:23:49Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -356,17 +365,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7046,
-    "updated_at": "2026-08-12T11:41:44Z",
+    "updated_at": "2026-08-12T12:23:45Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1074,
-    "updated_at": "2026-08-12T10:30:55Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
