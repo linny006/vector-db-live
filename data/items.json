@@ -1,5 +1,59 @@
 [
   {
+    "description": "A production-ready RAG system built with FastAPI, Streamlit, FAISS, and Google Gemini API for fast, grounded PDF documen",
+    "id": "vidhyawalke/RAG-PDF-Assistant",
+    "language": "Python",
+    "name": "vidhyawalke/RAG-PDF-Assistant",
+    "stars": 0,
+    "updated_at": "2026-08-12T10:01:08Z",
+    "url": "https://github.com/vidhyawalke/RAG-PDF-Assistant"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1074,
+    "updated_at": "2026-08-12T10:00:43Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T10:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T10:00:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5723,
+    "updated_at": "2026-08-12T09:59:54Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 267,
+    "updated_at": "2026-08-12T09:59:39Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
     "description": "Provides Islamic prayer postural adjustment advice using a source-based RAG architecture grounded in biomechanics and ve",
     "id": "alifim/sujudsense",
     "language": "Python",
@@ -16,15 +70,6 @@
     "stars": 12850,
     "updated_at": "2026-08-12T09:59:16Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T09:58:46Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -54,15 +99,6 @@
     "url": "https://github.com/rmednitzer/core-graph"
   },
   {
-    "description": "A production-ready RAG system built with FastAPI, Streamlit, FAISS, and Google Gemini API for fast, grounded PDF documen",
-    "id": "vidhyawalke/RAG-PDF-Assistant",
-    "language": "Python",
-    "name": "vidhyawalke/RAG-PDF-Assistant",
-    "stars": 0,
-    "updated_at": "2026-08-12T09:50:59Z",
-    "url": "https://github.com/vidhyawalke/RAG-PDF-Assistant"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -88,15 +124,6 @@
     "stars": 7046,
     "updated_at": "2026-08-12T09:49:00Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T09:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -158,17 +185,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8085,
-    "updated_at": "2026-08-12T09:46:37Z",
+    "updated_at": "2026-08-12T10:00:58Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 267,
-    "updated_at": "2026-08-12T09:59:39Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -203,7 +221,7 @@
     "language": "Rust",
     "name": "worka-ai/anvil",
     "stars": 77,
-    "updated_at": "2026-08-12T09:12:30Z",
+    "updated_at": "2026-08-12T10:01:43Z",
     "url": "https://github.com/worka-ai/anvil"
   },
   {
@@ -374,7 +392,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-12T08:15:28Z",
+    "updated_at": "2026-08-12T10:02:04Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -405,15 +423,6 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1074,
-    "updated_at": "2026-08-12T08:34:35Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -439,14 +448,5 @@
     "stars": 2050,
     "updated_at": "2026-08-12T09:05:51Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
-    "id": "lightonai/next-plaid",
-    "language": "Rust",
-    "name": "lightonai/next-plaid",
-    "stars": 528,
-    "updated_at": "2026-08-12T07:38:55Z",
-    "url": "https://github.com/lightonai/next-plaid"
   }
 ]
