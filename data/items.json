@@ -1,5 +1,23 @@
 [
   {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 338,
+    "updated_at": "2026-08-12T15:43:14Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T15:38:17Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -34,15 +52,6 @@
     "stars": 8,
     "updated_at": "2026-08-12T15:33:01Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T15:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -81,6 +90,15 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1305,
+    "updated_at": "2026-08-12T15:24:19Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin.",
     "id": "firelock-ai/kin-vector",
     "language": "Rust",
@@ -104,7 +122,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6209,
-    "updated_at": "2026-08-12T15:29:05Z",
+    "updated_at": "2026-08-12T15:42:48Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -162,15 +180,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1304,
-    "updated_at": "2026-08-12T15:24:19Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
     "id": "kovartravis/neuron",
     "language": "TypeScript",
@@ -178,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T15:06:51Z",
     "url": "https://github.com/kovartravis/neuron"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 338,
-    "updated_at": "2026-08-12T15:05:11Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -230,7 +230,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8087,
-    "updated_at": "2026-08-12T15:00:09Z",
+    "updated_at": "2026-08-12T15:39:34Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -356,7 +356,7 @@
     "language": "Rust",
     "name": "vul-os/basin",
     "stars": 7,
-    "updated_at": "2026-08-12T15:32:27Z",
+    "updated_at": "2026-08-12T15:44:42Z",
     "url": "https://github.com/vul-os/basin"
   },
   {
@@ -427,7 +427,7 @@
     "id": "neuml/txtai",
     "language": "Python",
     "name": "neuml/txtai",
-    "stars": 12878,
+    "stars": 12879,
     "updated_at": "2026-08-12T13:42:39Z",
     "url": "https://github.com/neuml/txtai"
   },
