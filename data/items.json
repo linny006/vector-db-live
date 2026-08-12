@@ -1,5 +1,122 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T11:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12873,
+    "updated_at": "2026-08-12T11:29:43Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-12T11:27:13Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
+    "id": "geckse/markdown-vdb",
+    "language": "Rust",
+    "name": "geckse/markdown-vdb",
+    "stars": 23,
+    "updated_at": "2026-08-12T11:27:00Z",
+    "url": "https://github.com/geckse/markdown-vdb"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-12T11:25:05Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-12T11:21:52Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12851,
+    "updated_at": "2026-08-12T11:21:49Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "RAG system built from scratch over arXiv papers. Tokenizer-aware chunking, BGE embeddings, ChromaDB, and grounded Claude",
+    "id": "DBlassio/rag-arxiv-fds",
+    "language": "Python",
+    "name": "DBlassio/rag-arxiv-fds",
+    "stars": 0,
+    "updated_at": "2026-08-12T11:20:41Z",
+    "url": "https://github.com/DBlassio/rag-arxiv-fds"
+  },
+  {
+    "description": "Sistema de geladeira inteligente: cadastro de itens via Spring Boot + JPA, gera\u00e7\u00e3o de receitas com integra\u00e7\u00e3o \u00e0 API do G",
+    "id": "gmatheusd/MagicFridgeAI",
+    "language": "Java",
+    "name": "gmatheusd/MagicFridgeAI",
+    "stars": 0,
+    "updated_at": "2026-08-12T11:20:32Z",
+    "url": "https://github.com/gmatheusd/MagicFridgeAI"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-12T11:19:27Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-12T11:17:37Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15430,
+    "updated_at": "2026-08-12T11:17:16Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T11:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Production memory infrastructure for AI agents: distilled records, source-preserving RAG, hybrid retrieval, SDKs, API, d",
     "id": "fishmem-labs/fishmem",
     "language": "TypeScript",
@@ -7,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T11:14:08Z",
     "url": "https://github.com/fishmem-labs/fishmem"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12850,
-    "updated_at": "2026-08-12T11:13:15Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Self-RAG: a self-reflective RAG system built from scratch in LangGraph. Grades its own retrieved documents and generated",
@@ -27,33 +135,6 @@
     "url": "https://github.com/Nitesh-lng/Self_RAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T11:10:09Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15430,
-    "updated_at": "2026-08-12T11:06:58Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-12T11:07:13Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Turn any website into clean, LLM-ready data. Open-source web crawler with stealth mode, distributed crawling, real-time ",
     "id": "GramosoftAI/GcrawlAI",
     "language": "Python",
@@ -61,15 +142,6 @@
     "stars": 33,
     "updated_at": "2026-08-12T11:04:11Z",
     "url": "https://github.com/GramosoftAI/GcrawlAI"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T11:03:12Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -85,7 +157,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35150,
+    "stars": 35151,
     "updated_at": "2026-08-12T10:59:58Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -113,35 +185,17 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 86,
-    "updated_at": "2026-08-12T10:57:44Z",
+    "updated_at": "2026-08-12T11:17:17Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-12T10:49:10Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-12T10:48:35Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-12T10:44:53Z",
-    "url": "https://github.com/worka-ai/anvil"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45612,
+    "updated_at": "2026-08-12T10:46:22Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
@@ -158,7 +212,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8086,
-    "updated_at": "2026-08-12T10:44:18Z",
+    "updated_at": "2026-08-12T11:28:01Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -207,15 +261,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-12T10:20:07Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6209,
-    "updated_at": "2026-08-12T11:08:40Z",
+    "updated_at": "2026-08-12T11:26:16Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -293,7 +338,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 267,
-    "updated_at": "2026-08-12T09:59:39Z",
+    "updated_at": "2026-08-12T11:27:13Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11133,
-    "updated_at": "2026-08-12T09:50:42Z",
+    "updated_at": "2026-08-12T11:17:09Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -387,15 +432,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45611,
-    "updated_at": "2026-08-12T10:46:22Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T09:07:36Z",
     "url": "https://github.com/Abolfazl-Afkhami/Production-RAG-Dynamic-Inventory-Pipeline"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16724,
-    "updated_at": "2026-08-12T11:14:59Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "AI-powered RAG platform for semantic document search using FastAPI, LangChain, ChromaDB and Ollama with real-time stream",
-    "id": "alonasingh/Enterprise_Assistant",
-    "language": "Python",
-    "name": "alonasingh/Enterprise_Assistant",
-    "stars": 0,
-    "updated_at": "2026-08-12T09:00:24Z",
-    "url": "https://github.com/alonasingh/Enterprise_Assistant"
-  },
-  {
-    "description": "VTS is a tool designed for the transformation and transportation of vectors and unstructured data.",
-    "id": "zilliztech/vts",
-    "language": "Java",
-    "name": "zilliztech/vts",
-    "stars": 133,
-    "updated_at": "2026-08-12T08:58:49Z",
-    "url": "https://github.com/zilliztech/vts"
-  },
-  {
-    "description": "Highly Performant, Modular, Memory Safe and Production-ready Inference, Ingestion and Indexing built in Rust \ud83e\udd80",
-    "id": "StarlightSearch/EmbedAnything",
-    "language": "Rust",
-    "name": "StarlightSearch/EmbedAnything",
-    "stars": 1294,
-    "updated_at": "2026-08-12T08:56:59Z",
-    "url": "https://github.com/StarlightSearch/EmbedAnything"
   }
 ]
