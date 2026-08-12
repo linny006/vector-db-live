@@ -1,11 +1,101 @@
 [
   {
+    "description": "A production-ready RAG system built with FastAPI, Streamlit, FAISS, and Google Gemini API for fast, grounded PDF documen",
+    "id": "vidhyawalke/RAG-PDF-Assistant",
+    "language": "Python",
+    "name": "vidhyawalke/RAG-PDF-Assistant",
+    "stars": 0,
+    "updated_at": "2026-08-12T20:14:50Z",
+    "url": "https://github.com/vidhyawalke/RAG-PDF-Assistant"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-12T20:14:12Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 7,
+    "updated_at": "2026-08-12T20:12:45Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 47,
+    "updated_at": "2026-08-12T20:13:54Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-12T20:09:18Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-12T20:02:23Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
+    "id": "fewshot-works/academy",
+    "language": "TypeScript",
+    "name": "fewshot-works/academy",
+    "stars": 4,
+    "updated_at": "2026-08-12T20:01:41Z",
+    "url": "https://github.com/fewshot-works/academy"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-12T20:01:17Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T20:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T20:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "In-memory knowledge store for AI agents",
     "id": "RonsenbergVI/fraise",
     "language": "Go",
     "name": "RonsenbergVI/fraise",
     "stars": 2,
-    "updated_at": "2026-08-12T19:56:50Z",
+    "updated_at": "2026-08-12T20:01:18Z",
     "url": "https://github.com/RonsenbergVI/fraise"
   },
   {
@@ -25,42 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T19:54:18Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 7,
-    "updated_at": "2026-08-12T19:51:48Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-12T19:51:24Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T19:47:42Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T20:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -90,15 +144,6 @@
     "url": "https://github.com/MontyGovernance/montycat_python"
   },
   {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 47,
-    "updated_at": "2026-08-12T19:45:21Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
     "description": "",
     "id": "dkylewillis/vera",
     "language": "Python",
@@ -124,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T19:43:52Z",
     "url": "https://github.com/rmednitzer/core-graph"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-12T19:23:40Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 86,
-    "updated_at": "2026-08-12T19:14:56Z",
+    "updated_at": "2026-08-12T20:12:30Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T19:03:48Z",
     "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-12T18:59:12Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29977,
-    "updated_at": "2026-08-12T19:57:51Z",
+    "updated_at": "2026-08-12T20:13:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 783,
     "updated_at": "2026-08-12T17:54:39Z",
     "url": "https://github.com/skyzh/write-you-a-vector-db"
-  },
-  {
-    "description": "Official repository of the kANNolo library.",
-    "id": "TusKANNy/kannolo",
-    "language": "Rust",
-    "name": "TusKANNy/kannolo",
-    "stars": 75,
-    "updated_at": "2026-08-12T17:44:20Z",
-    "url": "https://github.com/TusKANNy/kannolo"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 66,
-    "updated_at": "2026-08-12T17:26:39Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "This project implements a Retrieval-Augmented Generation (RAG) chatbot that can answer medical questions\u2014especially focu",
-    "id": "Dinesh-Sharma2004/Medical_chatbot",
-    "language": "JavaScript",
-    "name": "Dinesh-Sharma2004/Medical_chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-12T17:24:22Z",
-    "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot"
   }
 ]
