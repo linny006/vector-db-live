@@ -1,30 +1,48 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T11:57:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-12T11:57:06Z",
+    "updated_at": "2026-08-12T12:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6209,
-    "updated_at": "2026-08-12T11:58:18Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-12T12:15:19Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-12T12:09:45Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29971,
+    "updated_at": "2026-08-12T12:08:46Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Vector Database Qdrant for semantic search,  including data loading similarity matching, natural language search. Build ",
+    "id": "fvreys/AI_VectorDatabasewithQdrant",
+    "language": "\u2014",
+    "name": "fvreys/AI_VectorDatabasewithQdrant",
+    "stars": 1,
+    "updated_at": "2026-08-12T12:07:42Z",
+    "url": "https://github.com/fvreys/AI_VectorDatabasewithQdrant"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -32,8 +50,35 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1876,
-    "updated_at": "2026-08-12T11:55:08Z",
+    "updated_at": "2026-08-12T12:06:18Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-08-12T12:01:18Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T12:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6209,
+    "updated_at": "2026-08-12T12:12:30Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Object storage for the AI age",
@@ -54,13 +99,13 @@
     "url": "https://github.com/harisrana-dev/ai-knowledge-platform"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-12T11:50:00Z",
-    "url": "https://github.com/makr-code/ThemisDB"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33935,
+    "updated_at": "2026-08-12T11:51:08Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Production-grade, low-latency RAG pipeline powered by Gemini 2.5 Flash. Features an automated 3-hour dynamic vector sync",
@@ -126,12 +171,21 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12874,
+    "updated_at": "2026-08-12T11:37:22Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8087,
-    "updated_at": "2026-08-12T11:32:09Z",
+    "updated_at": "2026-08-12T12:07:42Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -142,15 +196,6 @@
     "stars": 5,
     "updated_at": "2026-08-12T11:31:51Z",
     "url": "https://github.com/Omkar-Wagholikar/adora"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12873,
-    "updated_at": "2026-08-12T11:37:22Z",
-    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
@@ -169,15 +214,6 @@
     "stars": 3,
     "updated_at": "2026-08-12T11:25:05Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-12T11:21:52Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -234,15 +270,6 @@
     "url": "https://github.com/Nitesh-lng/Self_RAG"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33934,
-    "updated_at": "2026-08-12T11:51:08Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
@@ -275,7 +302,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45612,
-    "updated_at": "2026-08-12T11:56:23Z",
+    "updated_at": "2026-08-12T12:05:33Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-12T09:44:32Z",
     "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 776,
-    "updated_at": "2026-08-12T09:40:12Z",
-    "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9411,
-    "updated_at": "2026-08-12T11:11:11Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 89,
-    "updated_at": "2026-08-12T10:23:05Z",
-    "url": "https://github.com/weaviate/weaviate-io"
   }
 ]
