@@ -1,5 +1,149 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T03:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-12T03:00:09Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 3,
+    "updated_at": "2026-08-12T02:59:37Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-12T02:59:23Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-08-12T02:58:25Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-08-12T02:54:23Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "",
+    "id": "moyunzero/personal-gpt",
+    "language": "TypeScript",
+    "name": "moyunzero/personal-gpt",
+    "stars": 2,
+    "updated_at": "2026-08-12T02:53:46Z",
+    "url": "https://github.com/moyunzero/personal-gpt"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-12T02:53:30Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-08-12T02:52:38Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-08-12T02:52:25Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-08-12T02:51:49Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 2,
+    "updated_at": "2026-08-12T02:50:32Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-08-12T02:50:18Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "Roadmap 30 hari + catatan konsep untuk belajar MLOps & Data Engineering dari nol, dalam Bahasa Indonesia. Mencakup data ",
+    "id": "LindungiLw/mechine-learning-and-data-pipeline",
+    "language": "\u2014",
+    "name": "LindungiLw/mechine-learning-and-data-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-12T02:50:16Z",
+    "url": "https://github.com/LindungiLw/mechine-learning-and-data-pipeline"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
+    "id": "SAHIXXX12/AI-Search-Engine",
+    "language": "TypeScript",
+    "name": "SAHIXXX12/AI-Search-Engine",
+    "stars": 0,
+    "updated_at": "2026-08-12T02:47:46Z",
+    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T02:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
     "id": "techdomegh/ai-news-scraper",
     "language": "Python",
@@ -25,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T02:43:42Z",
     "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T02:43:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
@@ -99,15 +234,6 @@
     "url": "https://github.com/caoergou/dify-installer"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T02:30:29Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -162,15 +288,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-08-12T01:52:27Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
     "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
     "id": "ldclabs/anda-db",
     "language": "Rust",
@@ -205,15 +322,6 @@
     "stars": 1358,
     "updated_at": "2026-08-12T01:35:13Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-12T01:33:02Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -265,7 +373,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29960,
+    "stars": 29961,
     "updated_at": "2026-08-12T01:13:09Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T00:50:02Z",
     "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds ",
-    "id": "api-evangelist/vectorize-io",
-    "language": "\u2014",
-    "name": "api-evangelist/vectorize-io",
-    "stars": 0,
-    "updated_at": "2026-08-12T00:49:23Z",
-    "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "Upstash provides serverless data platforms including managed Redis, Kafka, QStash messaging, and Vector databases optimi",
-    "id": "api-evangelist/upstash",
-    "language": "\u2014",
-    "name": "api-evangelist/upstash",
-    "stars": 0,
-    "updated_at": "2026-08-12T00:48:15Z",
-    "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 85,
-    "updated_at": "2026-08-12T00:42:45Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-08-12T00:40:14Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
-    "id": "meriamsamy/Sterling-Vance-Bank-B",
-    "language": "Python",
-    "name": "meriamsamy/Sterling-Vance-Bank-B",
-    "stars": 0,
-    "updated_at": "2026-08-12T00:52:12Z",
-    "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
-  },
-  {
-    "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
-    "id": "api-evangelist/sequoiadb",
-    "language": "\u2014",
-    "name": "api-evangelist/sequoiadb",
-    "stars": 0,
-    "updated_at": "2026-08-12T00:33:57Z",
-    "url": "https://github.com/api-evangelist/sequoiadb"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6329,
-    "updated_at": "2026-08-12T00:30:59Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
-    "id": "api-evangelist/objectbox",
-    "language": "\u2014",
-    "name": "api-evangelist/objectbox",
-    "stars": 0,
-    "updated_at": "2026-08-12T00:17:04Z",
-    "url": "https://github.com/api-evangelist/objectbox"
-  },
-  {
-    "description": "Nomic AI builds open and accessible AI infrastructure. The company is known for the open-source Nomic Embed family (nomi",
-    "id": "api-evangelist/nomic-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/nomic-ai",
-    "stars": 0,
-    "updated_at": "2026-08-12T00:16:00Z",
-    "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "MyScale is a SQL vector database built on a ClickHouse fork (MyScaleDB), combining high-performance vector search, full-",
-    "id": "api-evangelist/myscale",
-    "language": "\u2014",
-    "name": "api-evangelist/myscale",
-    "stars": 0,
-    "updated_at": "2026-08-12T00:13:42Z",
-    "url": "https://github.com/api-evangelist/myscale"
-  },
-  {
-    "description": "Mixedbread is a Berlin-based AI search and retrieval platform. It provides embeddings (mxbai-embed, Wholembed v3), reran",
-    "id": "api-evangelist/mixedbread-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/mixedbread-ai",
-    "stars": 1,
-    "updated_at": "2026-08-12T00:11:46Z",
-    "url": "https://github.com/api-evangelist/mixedbread-ai"
-  },
-  {
-    "description": "Milvus is an Apache 2.0 open-source vector database. It exposes a versioned REST API alongside gRPC and language SDKs (P",
-    "id": "api-evangelist/milvus",
-    "language": "\u2014",
-    "name": "api-evangelist/milvus",
-    "stars": 0,
-    "updated_at": "2026-08-12T00:11:20Z",
-    "url": "https://github.com/api-evangelist/milvus"
   }
 ]
