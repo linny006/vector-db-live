@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T14:32:16Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "thameema/memnos",
+    "stars": 7,
+    "updated_at": "2026-08-12T14:39:03Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Agentic RAG chatbot over PDF, DOCX, PPTX, CSV and Markdown. Multi-agent architecture, MCP-style message passing, source ",
+    "id": "JoshPola96/agentic-rag-chatbot-mcp",
+    "language": "Python",
+    "name": "JoshPola96/agentic-rag-chatbot-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-12T14:38:06Z",
+    "url": "https://github.com/JoshPola96/agentic-rag-chatbot-mcp"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +23,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-12T14:30:29Z",
+    "updated_at": "2026-08-12T14:35:27Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T14:32:16Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -67,7 +85,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35154,
+    "stars": 35155,
     "updated_at": "2026-08-12T14:19:44Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -88,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T14:16:27Z",
     "url": "https://github.com/JoshPola96/ai-data-agent"
-  },
-  {
-    "description": "Agentic RAG chatbot over PDF, DOCX, PPTX, CSV and Markdown. Multi-agent architecture, MCP-style message passing, source ",
-    "id": "JoshPola96/agentic-rag-chatbot-mcp",
-    "language": "Python",
-    "name": "JoshPola96/agentic-rag-chatbot-mcp",
-    "stars": 0,
-    "updated_at": "2026-08-12T14:15:09Z",
-    "url": "https://github.com/JoshPola96/agentic-rag-chatbot-mcp"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -131,7 +140,7 @@
     "language": "Rust",
     "name": "vul-os/basin",
     "stars": 7,
-    "updated_at": "2026-08-12T14:30:00Z",
+    "updated_at": "2026-08-12T14:40:36Z",
     "url": "https://github.com/vul-os/basin"
   },
   {
@@ -239,8 +248,17 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11136,
-    "updated_at": "2026-08-12T14:23:51Z",
+    "updated_at": "2026-08-12T14:41:41Z",
     "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12877,
+    "updated_at": "2026-08-12T13:42:39Z",
+    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
@@ -266,17 +284,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16725,
-    "updated_at": "2026-08-12T14:28:57Z",
+    "updated_at": "2026-08-12T14:39:15Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12876,
-    "updated_at": "2026-08-12T13:42:39Z",
-    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T12:22:04Z",
     "url": "https://github.com/fvreys/AI_VectorDatabasewithQdrant"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1304,
-    "updated_at": "2026-08-12T12:19:12Z",
-    "url": "https://github.com/xerj-org/xerj"
   }
 ]
