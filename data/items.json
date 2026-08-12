@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T15:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-12T15:15:09Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1304,
+    "updated_at": "2026-08-12T15:07:07Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
@@ -14,17 +23,44 @@
     "language": "TypeScript",
     "name": "kovartravis/neuron",
     "stars": 2,
-    "updated_at": "2026-08-12T15:00:12Z",
+    "updated_at": "2026-08-12T15:06:51Z",
     "url": "https://github.com/kovartravis/neuron"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-12T14:57:57Z",
-    "url": "https://github.com/makr-code/ThemisDB"
+    "description": "Legal AI Assistant for Indian Law \u2013 A Hybrid RAG platform (FastAPI + React) built with Google Gemini 3.5 Flash, Dense Em",
+    "id": "mahak-maheshwari-26/Legal-AI-Assistant",
+    "language": "Python",
+    "name": "mahak-maheshwari-26/Legal-AI-Assistant",
+    "stars": 0,
+    "updated_at": "2026-08-12T15:12:45Z",
+    "url": "https://github.com/mahak-maheshwari-26/Legal-AI-Assistant"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 338,
+    "updated_at": "2026-08-12T15:05:11Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T15:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T15:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -99,6 +135,15 @@
     "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29975,
+    "updated_at": "2026-08-12T14:50:55Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -126,13 +171,13 @@
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T14:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11137,
+    "updated_at": "2026-08-12T14:41:41Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
@@ -158,7 +203,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6209,
-    "updated_at": "2026-08-12T14:59:24Z",
+    "updated_at": "2026-08-12T15:05:48Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35155,
-    "updated_at": "2026-08-12T14:19:44Z",
+    "updated_at": "2026-08-12T15:07:26Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Rust",
     "name": "vul-os/basin",
     "stars": 7,
-    "updated_at": "2026-08-12T14:49:31Z",
+    "updated_at": "2026-08-12T15:08:53Z",
     "url": "https://github.com/vul-os/basin"
   },
   {
@@ -288,15 +333,6 @@
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29974,
-    "updated_at": "2026-08-12T14:50:55Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "AI developer assistant for the Kalisio ecosystem",
     "id": "kalisio/knowledge",
     "language": "Python",
@@ -320,17 +356,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7046,
-    "updated_at": "2026-08-12T14:28:01Z",
+    "updated_at": "2026-08-12T15:14:38Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11136,
-    "updated_at": "2026-08-12T14:41:41Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -347,7 +374,7 @@
     "language": "Java",
     "name": "opencrawling/opencrawling",
     "stars": 16,
-    "updated_at": "2026-08-12T14:06:37Z",
+    "updated_at": "2026-08-12T15:04:48Z",
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33937,
-    "updated_at": "2026-08-12T13:59:33Z",
+    "updated_at": "2026-08-12T15:10:26Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 4417,
     "updated_at": "2026-08-12T14:53:47Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Anvil is a Rust + Python AI desktop app with a FastAPI backend, supporting RAG, MCP, multi-provider LLMs (OpenAI, Ollama",
-    "id": "jeganxthan/Anvil",
-    "language": "Python",
-    "name": "jeganxthan/Anvil",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:17:15Z",
-    "url": "https://github.com/jeganxthan/Anvil"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 41,
-    "updated_at": "2026-08-12T13:13:14Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-08-12T14:34:41Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   }
 ]
