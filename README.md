@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-12 19:45 UTC
+> ⏰ Last updated: 2026-08-12 19:47 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [zepdb/zeppelin](https://github.com/zepdb/zeppelin) | 43 | Rust | 2026-08-12 | Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable. |
-| 2 | [MasihMoafi/Elpis](https://github.com/MasihMoafi/Elpis) | 41 | Rust | 2026-08-12 | You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend. |
-| 3 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-12 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
-| 4 | [MontyGovernance/montycat_python](https://github.com/MontyGovernance/montycat_python) | 10 | Python | 2026-08-12 | AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory — the async Python clien |
-| 5 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 47 | Rust | 2026-08-12 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
-| 6 | [dkylewillis/vera](https://github.com/dkylewillis/vera) | 17 | Python | 2026-08-12 |  |
-| 7 | [bewaffnete/MojoVec](https://github.com/bewaffnete/MojoVec) | 7 | Mojo | 2026-08-12 | Vector DB implementation in Mojo |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [zepdb/zeppelin](https://github.com/zepdb/zeppelin) | 43 | Rust | 2026-08-12 | Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable. |
+| 4 | [MasihMoafi/Elpis](https://github.com/MasihMoafi/Elpis) | 41 | Rust | 2026-08-12 | You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend. |
+| 5 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-12 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
+| 6 | [MontyGovernance/montycat_python](https://github.com/MontyGovernance/montycat_python) | 10 | Python | 2026-08-12 | AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory — the async Python clien |
+| 7 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 47 | Rust | 2026-08-12 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
+| 8 | [dkylewillis/vera](https://github.com/dkylewillis/vera) | 17 | Python | 2026-08-12 |  |
+| 9 | [bewaffnete/MojoVec](https://github.com/bewaffnete/MojoVec) | 7 | Mojo | 2026-08-12 | Vector DB implementation in Mojo |
 | 10 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1876 | Go | 2026-08-12 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 11 | [rmednitzer/core-graph](https://github.com/rmednitzer/core-graph) | 1 | Python | 2026-08-12 | Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem |
 | 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-12 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
