@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-12T15:30:21Z",
+    "updated_at": "2026-08-12T15:36:58Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
+    "id": "kichikubeihei/CodeMemoryPrime",
+    "language": "Rust",
+    "name": "kichikubeihei/CodeMemoryPrime",
+    "stars": 0,
+    "updated_at": "2026-08-12T15:35:06Z",
+    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-12T15:33:42Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-12T15:33:01Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T15:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64658,
+    "updated_at": "2026-08-12T15:29:58Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
+    "id": "eugen-goebel/smart-doc-qa",
+    "language": "Python",
+    "name": "eugen-goebel/smart-doc-qa",
+    "stars": 0,
+    "updated_at": "2026-08-12T15:29:25Z",
+    "url": "https://github.com/eugen-goebel/smart-doc-qa"
   },
   {
     "description": "build vector database extensions over Apache Datafusion and CMU-DB's BusTub system",
@@ -25,15 +79,6 @@
     "stars": 16,
     "updated_at": "2026-08-12T15:28:04Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
-    "id": "eugen-goebel/smart-doc-qa",
-    "language": "Python",
-    "name": "eugen-goebel/smart-doc-qa",
-    "stars": 0,
-    "updated_at": "2026-08-12T15:29:25Z",
-    "url": "https://github.com/eugen-goebel/smart-doc-qa"
   },
   {
     "description": "Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin.",
@@ -104,17 +149,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29976,
-    "updated_at": "2026-08-12T15:17:17Z",
+    "updated_at": "2026-08-12T15:35:30Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T15:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -189,15 +225,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-08-12T14:54:04Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -214,15 +241,6 @@
     "stars": 1876,
     "updated_at": "2026-08-12T14:52:00Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
-    "id": "kichikubeihei/CodeMemoryPrime",
-    "language": "Rust",
-    "name": "kichikubeihei/CodeMemoryPrime",
-    "stars": 0,
-    "updated_at": "2026-08-12T14:51:43Z",
-    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
   },
   {
     "description": "Local-first cross-corpus retrieval MCP server \u2014 model2vec embeddings + LanceDB (Tantivy BM25) + SQLite. One binary; hybr",
@@ -338,7 +356,7 @@
     "language": "Rust",
     "name": "vul-os/basin",
     "stars": 7,
-    "updated_at": "2026-08-12T15:30:02Z",
+    "updated_at": "2026-08-12T15:32:27Z",
     "url": "https://github.com/vul-os/basin"
   },
   {
@@ -391,7 +409,7 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 29035,
+    "stars": 29036,
     "updated_at": "2026-08-12T13:58:34Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -409,7 +427,7 @@
     "id": "neuml/txtai",
     "language": "Python",
     "name": "neuml/txtai",
-    "stars": 12877,
+    "stars": 12878,
     "updated_at": "2026-08-12T13:42:39Z",
     "url": "https://github.com/neuml/txtai"
   },
@@ -428,25 +446,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16725,
-    "updated_at": "2026-08-12T15:22:17Z",
+    "updated_at": "2026-08-12T15:34:39Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "An end-to-end RAG pipeline built with LangChain, ChromaDB, and IBM watsonx.ai Granite LLMs featuring a Gradio UI for con",
-    "id": "Anshu1-ux/RAG-Based-Document-Q-A-Chatbot",
-    "language": "Python",
-    "name": "Anshu1-ux/RAG-Based-Document-Q-A-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-12T13:27:42Z",
-    "url": "https://github.com/Anshu1-ux/RAG-Based-Document-Q-A-Chatbot"
-  },
-  {
-    "description": "Vector Storage is a vector database that enables semantic similarity searches on text documents in the browser's local s",
-    "id": "nitaiaharoni1/vector-storage",
-    "language": "TypeScript",
-    "name": "nitaiaharoni1/vector-storage",
-    "stars": 246,
-    "updated_at": "2026-08-12T13:23:49Z",
-    "url": "https://github.com/nitaiaharoni1/vector-storage"
   }
 ]
