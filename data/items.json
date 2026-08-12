@@ -1,12 +1,66 @@
 [
   {
-    "description": "\u4f01\u4e1a\u7ea7\u591a Agent \u7cfb\u7edf\uff1a\u81ea\u7136\u8bed\u8a00\u5b8c\u6210\u77e5\u8bc6\u95ee\u7b54\uff08RAG \u4e24\u9636\u6bb5\u68c0\u7d22\uff09\u3001\u6570\u636e\u5206\u6790\u3001\u4e1a\u52a1\u6267\u884c\uff0c\u5e26 RBAC \u6743\u9650\u3001\u5ba1\u6279\u95ed\u73af\u4e0e Saga \u8865\u507f | Enterprise multi-agent workflow system with RAG,",
+    "description": "\u667a\u591a\u661f \u00b7 \u4f01\u4e1a\u7ea7\u591a Agent \u5e73\u53f0 \u2014 \u81ea\u7136\u8bed\u8a00\u9a71\u52a8\u77e5\u8bc6\u95ee\u7b54\u3001\u6570\u636e\u5206\u6790\u4e0e\u4e1a\u52a1\u6267\u884c\uff0cRBAC + \u5ba1\u6279 + Saga \u62a4\u680f | Enterprise multi-agent platform: RAG, data analysis & b",
     "id": "zhenkun26/BusinessAgent",
     "language": "CSS",
     "name": "zhenkun26/BusinessAgent",
     "stars": 2,
-    "updated_at": "2026-08-12T00:14:54Z",
+    "updated_at": "2026-08-12T00:23:40Z",
     "url": "https://github.com/zhenkun26/BusinessAgent"
+  },
+  {
+    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
+    "id": "eniglio-ctrl/enterprise-rag-platform",
+    "language": "Java",
+    "name": "eniglio-ctrl/enterprise-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-12T00:22:54Z",
+    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-12T00:21:16Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
+    "id": "api-evangelist/objectbox",
+    "language": "\u2014",
+    "name": "api-evangelist/objectbox",
+    "stars": 0,
+    "updated_at": "2026-08-12T00:17:04Z",
+    "url": "https://github.com/api-evangelist/objectbox"
+  },
+  {
+    "description": "Nomic AI builds open and accessible AI infrastructure. The company is known for the open-source Nomic Embed family (nomi",
+    "id": "api-evangelist/nomic-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/nomic-ai",
+    "stars": 0,
+    "updated_at": "2026-08-12T00:16:00Z",
+    "url": "https://github.com/api-evangelist/nomic-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T00:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T00:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "MyScale is a SQL vector database built on a ClickHouse fork (MyScaleDB), combining high-performance vector search, full-",
@@ -77,7 +131,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1074,
-    "updated_at": "2026-08-12T00:04:15Z",
+    "updated_at": "2026-08-12T00:16:18Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -97,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T00:00:32Z",
     "url": "https://github.com/api-evangelist/ironcore-labs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T00:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T00:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production RAG reference \u2014 governed retrieval, access control, evals, guardrails, observability",
@@ -151,15 +187,6 @@
     "stars": 8082,
     "updated_at": "2026-08-11T23:45:54Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-11T23:45:20Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -243,11 +270,20 @@
     "url": "https://github.com/api-evangelist/azure-cosmos-db"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33923,
+    "updated_at": "2026-08-11T23:23:21Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64619,
+    "stars": 64620,
     "updated_at": "2026-08-11T23:21:58Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -302,7 +338,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6328,
-    "updated_at": "2026-08-11T22:58:29Z",
+    "updated_at": "2026-08-12T00:16:58Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/awslabs/genai-bedrock-agent-chatbot"
   },
   {
-    "description": "Enterprise-grade Retrieval-Augmented Generation platform: Spring Boot microservices, PostgreSQL + pgvector, local-first ",
-    "id": "eniglio-ctrl/enterprise-rag-platform",
-    "language": "Java",
-    "name": "eniglio-ctrl/enterprise-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-08-11T21:48:23Z",
-    "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-11T20:59:20Z",
     "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "Tutorial: AWS Bedrock and SQLite-backed RAG agent running in Lambda whose snapshot is a single S3 object.",
-    "id": "equationalapplications/sqlite-s3-agent-tutorial",
-    "language": "TypeScript",
-    "name": "equationalapplications/sqlite-s3-agent-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-11T20:51:01Z",
-    "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
-  },
-  {
-    "description": "Agent Retrieval Memory Engine for Mac, PC (AMD64 and ARM64)",
-    "id": "defai-digital/akidb",
-    "language": "Rust",
-    "name": "defai-digital/akidb",
-    "stars": 1,
-    "updated_at": "2026-08-11T20:49:21Z",
-    "url": "https://github.com/defai-digital/akidb"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-08-11T20:38:36Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
   }
 ]
