@@ -1,12 +1,75 @@
 [
   {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5723,
+    "updated_at": "2026-08-12T10:14:45Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6209,
+    "updated_at": "2026-08-12T10:11:52Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-12T10:05:55Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
     "description": "A production-ready RAG system built with FastAPI, Streamlit, FAISS, and Google Gemini API for fast, grounded PDF documen",
     "id": "vidhyawalke/RAG-PDF-Assistant",
     "language": "Python",
     "name": "vidhyawalke/RAG-PDF-Assistant",
     "stars": 0,
-    "updated_at": "2026-08-12T10:01:08Z",
+    "updated_at": "2026-08-12T10:05:27Z",
     "url": "https://github.com/vidhyawalke/RAG-PDF-Assistant"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12850,
+    "updated_at": "2026-08-12T10:04:31Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T10:02:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-12T10:02:04Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-12T10:01:43Z",
+    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -18,31 +81,13 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T10:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-12T10:00:29Z",
+    "updated_at": "2026-08-12T10:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5723,
-    "updated_at": "2026-08-12T09:59:54Z",
-    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
@@ -54,6 +99,15 @@
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-12T09:59:38Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "Provides Islamic prayer postural adjustment advice using a source-based RAG architecture grounded in biomechanics and ve",
     "id": "alifim/sujudsense",
     "language": "Python",
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T09:59:32Z",
     "url": "https://github.com/alifim/sujudsense"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12850,
-    "updated_at": "2026-08-12T09:59:16Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -86,7 +131,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-12T09:57:51Z",
+    "updated_at": "2026-08-12T10:10:33Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -144,12 +189,21 @@
     "url": "https://github.com/christopherkarani/Wax"
   },
   {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35149,
+    "updated_at": "2026-08-12T09:40:02Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9411,
-    "updated_at": "2026-08-12T09:39:31Z",
+    "updated_at": "2026-08-12T10:10:27Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -171,21 +225,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6209,
-    "updated_at": "2026-08-12T09:59:55Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8085,
-    "updated_at": "2026-08-12T10:00:58Z",
+    "updated_at": "2026-08-12T10:09:55Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -194,7 +239,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6330,
-    "updated_at": "2026-08-12T09:23:58Z",
+    "updated_at": "2026-08-12T10:04:46Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -202,7 +247,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29969,
+    "stars": 29970,
     "updated_at": "2026-08-12T09:23:05Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -214,15 +259,6 @@
     "stars": 45611,
     "updated_at": "2026-08-12T09:22:22Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-12T10:01:43Z",
-    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -257,7 +293,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16724,
-    "updated_at": "2026-08-12T09:57:58Z",
+    "updated_at": "2026-08-12T10:14:22Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -279,21 +315,12 @@
     "url": "https://github.com/zilliztech/vts"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-12T09:59:38Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-12T08:57:59Z",
+    "updated_at": "2026-08-12T10:14:05Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -313,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T08:45:33Z",
     "url": "https://github.com/tywangq/leasehound"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35148,
-    "updated_at": "2026-08-12T09:40:02Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Semantic codebase assistant for GitHub repositories powered by RAG, pgvector, and Gemini.",
@@ -374,26 +392,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33933,
-    "updated_at": "2026-08-12T09:38:58Z",
+    "updated_at": "2026-08-12T10:14:37Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-12T08:17:48Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-12T10:02:04Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -418,7 +418,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1362,
+    "stars": 1353,
     "updated_at": "2026-08-12T07:49:39Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -446,7 +446,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2050,
-    "updated_at": "2026-08-12T09:05:51Z",
+    "updated_at": "2026-08-12T10:12:45Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   }
 ]
