@@ -1,11 +1,92 @@
 [
   {
+    "description": "Local-first cross-corpus retrieval MCP server \u2014 model2vec embeddings + LanceDB (Tantivy BM25) + SQLite. One binary; hybr",
+    "id": "os-tack/ostk-recall",
+    "language": "Rust",
+    "name": "os-tack/ostk-recall",
+    "stars": 6,
+    "updated_at": "2026-08-12T13:44:51Z",
+    "url": "https://github.com/os-tack/ostk-recall"
+  },
+  {
+    "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
+    "id": "elchemista/vettore",
+    "language": "Elixir",
+    "name": "elchemista/vettore",
+    "stars": 22,
+    "updated_at": "2026-08-12T13:37:09Z",
+    "url": "https://github.com/elchemista/vettore"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16725,
+    "updated_at": "2026-08-12T13:35:42Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12876,
+    "updated_at": "2026-08-12T13:42:39Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1876,
+    "updated_at": "2026-08-12T13:34:46Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33937,
+    "updated_at": "2026-08-12T13:33:59Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-12T13:33:42Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6209,
+    "updated_at": "2026-08-12T13:32:45Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T13:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-12T13:30:21Z",
+    "updated_at": "2026-08-12T13:45:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,17 +95,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7046,
-    "updated_at": "2026-08-12T13:28:28Z",
+    "updated_at": "2026-08-12T13:34:01Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Local-first cross-corpus retrieval MCP server \u2014 model2vec embeddings + LanceDB (Tantivy BM25) + SQLite. One binary; hybr",
-    "id": "os-tack/ostk-recall",
-    "language": "Rust",
-    "name": "os-tack/ostk-recall",
-    "stars": 6,
-    "updated_at": "2026-08-12T13:28:25Z",
-    "url": "https://github.com/os-tack/ostk-recall"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -32,7 +104,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-12T13:27:57Z",
+    "updated_at": "2026-08-12T13:36:10Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -43,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T13:27:42Z",
     "url": "https://github.com/Anshu1-ux/RAG-Based-Document-Q-A-Chatbot"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1876,
-    "updated_at": "2026-08-12T13:27:11Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
-    "id": "elchemista/vettore",
-    "language": "Elixir",
-    "name": "elchemista/vettore",
-    "stars": 22,
-    "updated_at": "2026-08-12T13:24:38Z",
-    "url": "https://github.com/elchemista/vettore"
   },
   {
     "description": "Vector Storage is a vector database that enables semantic similarity searches on text documents in the browser's local s",
@@ -77,7 +131,7 @@
     "language": "Python",
     "name": "Parth-2004/Historical-AI-Assistant",
     "stars": 1,
-    "updated_at": "2026-08-12T13:25:03Z",
+    "updated_at": "2026-08-12T13:31:37Z",
     "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
   },
   {
@@ -90,21 +144,12 @@
     "url": "https://github.com/DBlassio/rag-arxiv-fds"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T13:21:12Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-12T13:20:07Z",
+    "updated_at": "2026-08-12T13:43:20Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29972,
-    "updated_at": "2026-08-12T13:27:10Z",
+    "updated_at": "2026-08-12T13:44:53Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -176,17 +221,8 @@
     "language": "Python",
     "name": "dkylewillis/vera",
     "stars": 17,
-    "updated_at": "2026-08-12T13:04:23Z",
+    "updated_at": "2026-08-12T13:43:05Z",
     "url": "https://github.com/dkylewillis/vera"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16725,
-    "updated_at": "2026-08-12T13:21:01Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -207,21 +243,12 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-12T12:47:56Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11135,
-    "updated_at": "2026-08-12T12:40:14Z",
+    "updated_at": "2026-08-12T13:44:29Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T12:37:41Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33936,
-    "updated_at": "2026-08-12T13:26:42Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -274,7 +292,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1301,
+    "stars": 1302,
     "updated_at": "2026-08-12T12:19:12Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -304,15 +322,6 @@
     "stars": 2,
     "updated_at": "2026-08-12T12:01:18Z",
     "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6209,
-    "updated_at": "2026-08-12T13:15:51Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Object storage for the AI age",
@@ -360,21 +369,12 @@
     "url": "https://github.com/GramosoftAI/GcrawlAI"
   },
   {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12876,
-    "updated_at": "2026-08-12T11:37:22Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8087,
-    "updated_at": "2026-08-12T13:04:27Z",
+    "updated_at": "2026-08-12T13:43:44Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
