@@ -1,12 +1,84 @@
 [
   {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-12T10:44:53Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
+    "id": "vicquick/nobrainr",
+    "language": "Python",
+    "name": "vicquick/nobrainr",
+    "stars": 0,
+    "updated_at": "2026-08-12T10:44:51Z",
+    "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
+    "description": "Turn any website into clean, LLM-ready data. Open-source web crawler with stealth mode, distributed crawling, real-time ",
+    "id": "GramosoftAI/GcrawlAI",
+    "language": "Python",
+    "name": "GramosoftAI/GcrawlAI",
+    "stars": 33,
+    "updated_at": "2026-08-12T10:42:49Z",
+    "url": "https://github.com/GramosoftAI/GcrawlAI"
+  },
+  {
     "description": "Declarative, versioned schema & config migrations for Qdrant \u2014 Alembic for vector collections.",
     "id": "diegoglozano/revector",
     "language": "Rust",
     "name": "diegoglozano/revector",
     "stars": 3,
-    "updated_at": "2026-08-12T10:30:02Z",
+    "updated_at": "2026-08-12T10:39:52Z",
     "url": "https://github.com/diegoglozano/revector"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-12T10:38:33Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Local-first, multi-tenant RAG platform for PDF documentation search. Hybrid retrieval (BM25 + dense embeddings + RRF), c",
+    "id": "kifayat-irfan/local-first-rag-platform",
+    "language": "Python",
+    "name": "kifayat-irfan/local-first-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-08-12T10:38:30Z",
+    "url": "https://github.com/kifayat-irfan/local-first-rag-platform"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-12T10:41:34Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T10:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-12T10:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -14,7 +86,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1876,
-    "updated_at": "2026-08-12T10:29:53Z",
+    "updated_at": "2026-08-12T10:44:52Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -59,17 +131,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1074,
-    "updated_at": "2026-08-12T10:19:40Z",
+    "updated_at": "2026-08-12T10:30:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-12T10:27:48Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
@@ -90,24 +153,6 @@
     "url": "https://github.com/qdrant/skills"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T10:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-12T10:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Python package that makes it easy to spin up a custom Retrieval-Augmented Generation (RAG) pipeline.",
     "id": "Omkar-Wagholikar/adora",
     "language": "Python",
@@ -117,12 +162,21 @@
     "url": "https://github.com/Omkar-Wagholikar/adora"
   },
   {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 86,
+    "updated_at": "2026-08-12T10:45:21Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6209,
-    "updated_at": "2026-08-12T10:24:45Z",
+    "updated_at": "2026-08-12T10:34:05Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-12T10:02:04Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-12T10:01:43Z",
-    "url": "https://github.com/worka-ai/anvil"
   },
   {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
@@ -284,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8085,
-    "updated_at": "2026-08-12T10:29:15Z",
+    "updated_at": "2026-08-12T10:44:18Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-12T08:30:03Z",
     "url": "https://github.com/wch887292/CyanVistaOutdoorApparelAI"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-08-12T09:06:53Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 66,
-    "updated_at": "2026-08-12T08:21:56Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33933,
-    "updated_at": "2026-08-12T10:14:37Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
-    "id": "meriamsamy/Sterling-Vance-Bank-B",
-    "language": "Python",
-    "name": "meriamsamy/Sterling-Vance-Bank-B",
-    "stars": 0,
-    "updated_at": "2026-08-12T07:53:10Z",
-    "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1353,
-    "updated_at": "2026-08-12T07:49:39Z",
-    "url": "https://github.com/xerj-org/xerj"
   }
 ]
