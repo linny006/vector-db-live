@@ -5,15 +5,33 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-12T14:30:22Z",
+    "updated_at": "2026-08-12T14:32:16Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-12T14:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6209,
+    "updated_at": "2026-08-12T14:30:02Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12851,
+    "stars": 12852,
     "updated_at": "2026-08-12T14:29:30Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -54,15 +72,6 @@
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6209,
-    "updated_at": "2026-08-12T14:30:02Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
     "id": "rahulboby/ChatVeritas",
     "language": "Python",
@@ -79,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T14:16:27Z",
     "url": "https://github.com/JoshPola96/ai-data-agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-12T14:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Agentic RAG chatbot over PDF, DOCX, PPTX, CSV and Markdown. Multi-agent architecture, MCP-style message passing, source ",
@@ -185,7 +185,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29974,
-    "updated_at": "2026-08-12T14:21:08Z",
+    "updated_at": "2026-08-12T14:30:32Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -338,7 +338,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-12T13:43:20Z",
+    "updated_at": "2026-08-12T14:33:46Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -365,7 +365,7 @@
     "language": "Java",
     "name": "eniglio-ctrl/enterprise-rag-platform",
     "stars": 0,
-    "updated_at": "2026-08-12T13:49:21Z",
+    "updated_at": "2026-08-12T14:34:41Z",
     "url": "https://github.com/eniglio-ctrl/enterprise-rag-platform"
   },
   {
