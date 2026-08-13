@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T18:15:24Z",
+    "updated_at": "2026-08-13T18:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-13T18:27:34Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
+    "id": "oracle/langchain-oracle",
+    "language": "Python",
+    "name": "oracle/langchain-oracle",
+    "stars": 59,
+    "updated_at": "2026-08-13T18:27:28Z",
+    "url": "https://github.com/oracle/langchain-oracle"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11142,
+    "updated_at": "2026-08-13T18:26:59Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-13T18:25:34Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Production RAG platform: OCR \u2192 semantic chunking \u2192 TEI embeddings \u2192 Qdrant \u2192 cross-encoder reranking \u2192 Llama 3, with gro",
+    "id": "Abhishekvoid/RagBag-backend",
+    "language": "Python",
+    "name": "Abhishekvoid/RagBag-backend",
+    "stars": 0,
+    "updated_at": "2026-08-13T18:22:43Z",
+    "url": "https://github.com/Abhishekvoid/RagBag-backend"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-13T18:19:11Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech",
+    "id": "Vijay190899/disclosure-rag",
+    "language": "Python",
+    "name": "Vijay190899/disclosure-rag",
+    "stars": 0,
+    "updated_at": "2026-08-13T18:16:38Z",
+    "url": "https://github.com/Vijay190899/disclosure-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T18:15:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "kovartravis/neuron",
     "stars": 2,
-    "updated_at": "2026-08-13T18:13:20Z",
+    "updated_at": "2026-08-13T18:17:35Z",
     "url": "https://github.com/kovartravis/neuron"
   },
   {
@@ -31,18 +103,9 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51621,
+    "stars": 51622,
     "updated_at": "2026-08-13T18:07:47Z",
     "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech",
-    "id": "Vijay190899/disclosure-rag",
-    "language": "Python",
-    "name": "Vijay190899/disclosure-rag",
-    "stars": 0,
-    "updated_at": "2026-08-13T18:07:23Z",
-    "url": "https://github.com/Vijay190899/disclosure-rag"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -50,26 +113,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-08-13T18:07:03Z",
+    "updated_at": "2026-08-13T18:25:34Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-13T18:14:43Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T18:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The AI search platform",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29998,
-    "updated_at": "2026-08-13T18:14:48Z",
+    "updated_at": "2026-08-13T18:27:02Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 223,
     "updated_at": "2026-08-13T17:52:11Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-13T17:48:07Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -193,7 +229,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64692,
+    "stars": 64693,
     "updated_at": "2026-08-13T17:43:46Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -216,15 +252,6 @@
     "url": "https://github.com/topk-io/topk"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11142,
-    "updated_at": "2026-08-13T17:42:31Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -232,15 +259,6 @@
     "stars": 67,
     "updated_at": "2026-08-13T17:22:10Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-13T17:21:06Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
@@ -320,7 +338,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6334,
-    "updated_at": "2026-08-13T17:25:02Z",
+    "updated_at": "2026-08-13T18:21:50Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-13T17:55:57Z",
+    "updated_at": "2026-08-13T18:26:57Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -409,7 +427,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1324,
+    "stars": 1285,
     "updated_at": "2026-08-13T16:09:31Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -430,23 +448,5 @@
     "stars": 377,
     "updated_at": "2026-08-13T16:06:18Z",
     "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-13T16:05:32Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "RAG platform for academic literature \u2014 deep document summarization, contextual Q&A across paper collections and citation",
-    "id": "Asik-Ifthaker-Hamim/Smart-Academic-Research-Assistant",
-    "language": "Python",
-    "name": "Asik-Ifthaker-Hamim/Smart-Academic-Research-Assistant",
-    "stars": 0,
-    "updated_at": "2026-08-13T16:04:41Z",
-    "url": "https://github.com/Asik-Ifthaker-Hamim/Smart-Academic-Research-Assistant"
   }
 ]
