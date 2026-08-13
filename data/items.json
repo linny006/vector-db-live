@@ -1,5 +1,68 @@
 [
   {
+    "description": "HNSW vector index from scratch in C++17: SIMD distance kernels, Python bindings, HTTP service, benchmarked against FAISS",
+    "id": "asp53826/annlite",
+    "language": "Python",
+    "name": "asp53826/annlite",
+    "stars": 0,
+    "updated_at": "2026-08-13T13:27:00Z",
+    "url": "https://github.com/asp53826/annlite"
+  },
+  {
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
+    "language": "Python",
+    "name": "vishalChoudhary-git/ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-13T13:24:51Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
+  },
+  {
+    "description": "Enterprise-grade AI Policy Assistant built with Python, FastAPI, GraphQL, RAG, LangGraph, Multi-LLM orchestration, and m",
+    "id": "vishwajitvm/PolicyBot",
+    "language": "TypeScript",
+    "name": "vishwajitvm/PolicyBot",
+    "stars": 0,
+    "updated_at": "2026-08-13T13:23:36Z",
+    "url": "https://github.com/vishwajitvm/PolicyBot"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11142,
+    "updated_at": "2026-08-13T13:22:44Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T13:21:55Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58958,
+    "updated_at": "2026-08-13T13:17:02Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T13:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -7,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T13:12:46Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "HNSW vector index from scratch in C++17: SIMD distance kernels, Python bindings, HTTP service, benchmarked against FAISS",
-    "id": "asp53826/annlite",
-    "language": "Python",
-    "name": "asp53826/annlite",
-    "stars": 0,
-    "updated_at": "2026-08-13T13:12:55Z",
-    "url": "https://github.com/asp53826/annlite"
   },
   {
     "description": "Provides Islamic prayer postural adjustment advice using a source-based RAG architecture grounded in biomechanics and ve",
@@ -70,24 +124,6 @@
     "stars": 1076,
     "updated_at": "2026-08-13T13:07:35Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T13:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T13:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Sample of how vector embeddings works using OpenAI API, OpenRouter and Supabase pgvector. ",
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T12:39:12Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11142,
-    "updated_at": "2026-08-13T12:37:21Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "dkylewillis/vera",
     "stars": 17,
-    "updated_at": "2026-08-13T13:13:24Z",
+    "updated_at": "2026-08-13T13:16:36Z",
     "url": "https://github.com/dkylewillis/vera"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T12:14:33Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Enterprise-grade RAG platform enabling 100% private, offline chat with your documents. Built with FastAPI, React, Chroma",
-    "id": "AmulaManojSagar-18/Retriva-AI",
-    "language": "Python",
-    "name": "AmulaManojSagar-18/Retriva-AI",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:12:24Z",
-    "url": "https://github.com/AmulaManojSagar-18/Retriva-AI"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-08-13T12:09:46Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-13T12:09:19Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   }
 ]
