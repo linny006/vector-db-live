@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T23:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Turns Truth Social posts into searchable market-narrative events: Python ETL, LLM-assisted classification, ChromaDB sema",
+    "id": "feifeifeifeifeifeifei/Market-Narrative-Intelligence-System",
+    "language": "Python",
+    "name": "feifeifeifeifeifeifei/Market-Narrative-Intelligence-System",
+    "stars": 0,
+    "updated_at": "2026-08-13T22:57:22Z",
+    "url": "https://github.com/feifeifeifeifeifeifei/Market-Narrative-Intelligence-System"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-13T22:49:12Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-13T22:46:16Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-13T22:45:40Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T22:45:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Provider-agnostic semantic memory service with multimodal ingestion, hybrid retrieval, knowledge graphs, and RAG-powered",
     "id": "Sarishc/Engram-A-Universal-Memory-Layer-for-LLMs",
     "language": "Python",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-13T22:45:02Z",
+    "updated_at": "2026-08-13T22:56:22Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -67,27 +121,9 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64698,
+    "stars": 64699,
     "updated_at": "2026-08-13T22:31:08Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T22:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T22:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
@@ -108,15 +144,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-13T22:27:32Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -133,15 +160,6 @@
     "stars": 338,
     "updated_at": "2026-08-13T22:16:24Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-13T22:15:48Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
@@ -198,15 +216,6 @@
     "url": "https://github.com/Vikas9892/product_intelligence"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-13T21:56:53Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Object storage for the AI age",
     "id": "worka-ai/anvil",
     "language": "Rust",
@@ -221,7 +230,7 @@
     "language": "TypeScript",
     "name": "RaptorAssassin/smart-file-search",
     "stars": 0,
-    "updated_at": "2026-08-13T21:46:04Z",
+    "updated_at": "2026-08-13T22:52:48Z",
     "url": "https://github.com/RaptorAssassin/smart-file-search"
   },
   {
@@ -248,8 +257,17 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30003,
-    "updated_at": "2026-08-13T22:25:04Z",
+    "updated_at": "2026-08-13T22:51:29Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6632,
+    "updated_at": "2026-08-13T21:28:06Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "lyonzin/knowledge-rag",
     "stars": 250,
-    "updated_at": "2026-08-13T22:35:30Z",
+    "updated_at": "2026-08-13T22:48:31Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
@@ -288,15 +306,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6631,
-    "updated_at": "2026-08-13T21:28:06Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
     "description": "Vector DB implementation in Mojo",
     "id": "bewaffnete/MojoVec",
     "language": "Mojo",
@@ -311,7 +320,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8093,
-    "updated_at": "2026-08-13T20:38:14Z",
+    "updated_at": "2026-08-13T22:56:47Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T19:22:07Z",
     "url": "https://github.com/alxxtexxr/arxiv_agent"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-08-13T19:20:46Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
