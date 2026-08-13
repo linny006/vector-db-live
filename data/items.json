@@ -1,12 +1,39 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "A multi-stage LLM pipeline for aptitude-driven job search, career targeting, and search strategy generation.",
+    "id": "mattburnett-repo/aptitude-search",
     "language": "Python",
-    "name": "linny006/rag-radar",
+    "name": "mattburnett-repo/aptitude-search",
+    "stars": 0,
+    "updated_at": "2026-08-13T17:44:58Z",
+    "url": "https://github.com/mattburnett-repo/aptitude-search"
+  },
+  {
+    "description": "Privacy-first local LLM chat with RAG, agents, memory, web search & voice. Ollama/LM Studio + FastAPI + React. Hybrid re",
+    "id": "ROHITCRAFTSYT/Loco-RAG",
+    "language": "Python",
+    "name": "ROHITCRAFTSYT/Loco-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-13T17:44:23Z",
+    "url": "https://github.com/ROHITCRAFTSYT/Loco-RAG"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-08-13T17:41:26Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-08-13T17:44:04Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64687,
+    "updated_at": "2026-08-13T17:43:46Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Zapier integration app for Pinecone.",
@@ -14,8 +41,26 @@
     "language": "TypeScript",
     "name": "pinecone-io/zapier-integration",
     "stars": 0,
-    "updated_at": "2026-08-13T17:42:15Z",
+    "updated_at": "2026-08-13T17:43:06Z",
     "url": "https://github.com/pinecone-io/zapier-integration"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T17:42:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T17:41:26Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local-first RAG with an incremental ontology over your Markdown, exposed to any AI agent via MCP.",
@@ -27,15 +72,6 @@
     "url": "https://github.com/rafaelnicolett/kern"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64687,
-    "updated_at": "2026-08-13T17:38:22Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -43,24 +79,6 @@
     "stars": 7047,
     "updated_at": "2026-08-13T17:37:54Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T17:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-13T17:30:18Z",
-    "url": "https://github.com/agent-ix/ecaz"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -77,7 +95,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11142,
-    "updated_at": "2026-08-13T17:42:27Z",
+    "updated_at": "2026-08-13T17:42:31Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6211,
     "updated_at": "2026-08-13T17:12:19Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16728,
-    "updated_at": "2026-08-13T17:14:11Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 338,
-    "updated_at": "2026-08-13T15:08:51Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
