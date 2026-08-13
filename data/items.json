@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T16:30:22Z",
+    "updated_at": "2026-08-13T16:34:04Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 8,
+    "updated_at": "2026-08-13T16:33:40Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 223,
+    "updated_at": "2026-08-13T16:30:31Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T16:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -16,15 +43,6 @@
     "stars": 2,
     "updated_at": "2026-08-13T16:29:05Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 8,
-    "updated_at": "2026-08-13T16:28:27Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -50,7 +68,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-13T16:25:21Z",
+    "updated_at": "2026-08-13T16:32:09Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -76,7 +94,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29996,
+    "stars": 29995,
     "updated_at": "2026-08-13T16:22:01Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -106,15 +124,6 @@
     "stars": 12863,
     "updated_at": "2026-08-13T16:16:04Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T16:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -176,7 +185,7 @@
     "language": "Python",
     "name": "vishalChoudhary-git/ai-platform",
     "stars": 0,
-    "updated_at": "2026-08-13T16:18:14Z",
+    "updated_at": "2026-08-13T16:30:56Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6211,
-    "updated_at": "2026-08-13T16:16:25Z",
+    "updated_at": "2026-08-13T16:33:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16728,
-    "updated_at": "2026-08-13T15:58:26Z",
+    "updated_at": "2026-08-13T16:30:31Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -391,7 +400,7 @@
     "id": "redis/redis-vl-python",
     "language": "Python",
     "name": "redis/redis-vl-python",
-    "stars": 422,
+    "stars": 423,
     "updated_at": "2026-08-13T14:32:55Z",
     "url": "https://github.com/redis/redis-vl-python"
   },
@@ -439,14 +448,5 @@
     "stars": 8091,
     "updated_at": "2026-08-13T15:29:10Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "A semantic search application on a corpus of North American Bird data from Wikipedia. Learn about different search metho",
-    "id": "pinecone-io/bird-semantic-search",
-    "language": "Python",
-    "name": "pinecone-io/bird-semantic-search",
-    "stars": 2,
-    "updated_at": "2026-08-13T14:56:35Z",
-    "url": "https://github.com/pinecone-io/bird-semantic-search"
   }
 ]
