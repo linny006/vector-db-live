@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T23:15:21Z",
+    "updated_at": "2026-08-13T23:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-13T23:28:56Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1614,
+    "updated_at": "2026-08-13T23:30:14Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Chat with multiple PDFs: a finance-aware RAG analyst for annual reports, built with Streamlit, LangChain, Google Gemini ",
+    "id": "tirth1263/Multi-PDF-RAG-Analyzer",
+    "language": "Python",
+    "name": "tirth1263/Multi-PDF-RAG-Analyzer",
+    "stars": 0,
+    "updated_at": "2026-08-13T23:27:24Z",
+    "url": "https://github.com/tirth1263/Multi-PDF-RAG-Analyzer"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -14,8 +41,44 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-13T23:12:49Z",
+    "updated_at": "2026-08-13T23:25:16Z",
     "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 250,
+    "updated_at": "2026-08-13T23:29:53Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
+    "id": "litegraphdb/litegraph",
+    "language": "C#",
+    "name": "litegraphdb/litegraph",
+    "stars": 129,
+    "updated_at": "2026-08-13T23:18:00Z",
+    "url": "https://github.com/litegraphdb/litegraph"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-13T23:15:56Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T23:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
@@ -36,15 +99,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T23:01:48Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Turns Truth Social posts into searchable market-narrative events: Python ETL, LLM-assisted classification, ChromaDB sema",
     "id": "feifeifeifeifeifeifei/Market-Narrative-Intelligence-System",
     "language": "Python",
@@ -58,7 +112,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8092,
+    "stars": 8093,
     "updated_at": "2026-08-13T22:56:47Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -79,15 +133,6 @@
     "stars": 1877,
     "updated_at": "2026-08-13T22:46:16Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-13T22:45:40Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Provider-agnostic semantic memory service with multimodal ingestion, hybrid retrieval, knowledge graphs, and RAG-powered",
@@ -162,21 +207,12 @@
     "url": "https://github.com/DopamineDriven/slipstream"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-13T22:28:44Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11145,
-    "updated_at": "2026-08-13T22:18:58Z",
+    "updated_at": "2026-08-13T23:16:16Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -184,7 +220,7 @@
     "id": "schmitech/orbit",
     "language": "Python",
     "name": "schmitech/orbit",
-    "stars": 338,
+    "stars": 339,
     "updated_at": "2026-08-13T22:16:24Z",
     "url": "https://github.com/schmitech/orbit"
   },
@@ -196,15 +232,6 @@
     "stars": 5,
     "updated_at": "2026-08-13T22:09:37Z",
     "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
-    "id": "litegraphdb/litegraph",
-    "language": "C#",
-    "name": "litegraphdb/litegraph",
-    "stars": 129,
-    "updated_at": "2026-08-13T22:06:29Z",
-    "url": "https://github.com/litegraphdb/litegraph"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30003,
-    "updated_at": "2026-08-13T23:04:03Z",
+    "updated_at": "2026-08-13T23:23:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -283,18 +310,9 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6632,
+    "stars": 6633,
     "updated_at": "2026-08-13T21:28:06Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 250,
-    "updated_at": "2026-08-13T23:13:47Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -347,7 +365,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6334,
-    "updated_at": "2026-08-13T22:35:52Z",
+    "updated_at": "2026-08-13T23:29:39Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T19:26:25Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-08-13T19:25:25Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-08-13T19:23:51Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   }
 ]
