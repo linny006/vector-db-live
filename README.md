@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 00:15 UTC
+> ⏰ Last updated: 2026-08-13 00:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-13 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [api-evangelist/zilliz](https://github.com/api-evangelist/zilliz) | 0 | — | 2026-08-13 | Zilliz Cloud is the managed vector database service built by the Milvus maintainers. It exposes a Control Plane API for  |
-| 3 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-08-13 | Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap |
-| 4 | [api-evangelist/vespa-ai](https://github.com/api-evangelist/vespa-ai) | 0 | — | 2026-08-13 | Vespa is an open-source AI search engine, big-data serving engine, and vector database originally developed inside Yahoo |
-| 5 | [api-evangelist/vectorize-io](https://github.com/api-evangelist/vectorize-io) | 0 | — | 2026-08-13 | Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds  |
-| 6 | [api-evangelist/upstash](https://github.com/api-evangelist/upstash) | 0 | — | 2026-08-13 | Upstash provides serverless data platforms including managed Redis, Kafka, QStash messaging, and Vector databases optimi |
-| 7 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 86 | Rust | 2026-08-13 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 8 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-13 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-13 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 10 | [api-evangelist/surrealdb](https://github.com/api-evangelist/surrealdb) | 0 | — | 2026-08-13 | SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation |
-| 11 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-12 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 12 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6615 | Python | 2026-08-12 |  Memory library for building stateful agents |
-| 13 | [api-evangelist/sequoiadb](https://github.com/api-evangelist/sequoiadb) | 0 | — | 2026-08-12 | SequoiaDB (巨杉数据库) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl |
-| 14 | [Egoist-Machines/LodeDB](https://github.com/Egoist-Machines/LodeDB) | 92 | Python | 2026-08-12 | World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate |
-| 15 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-12 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 16 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-12 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 17 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-12 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 18 | [api-evangelist/objectbox](https://github.com/api-evangelist/objectbox) | 0 | — | 2026-08-12 | ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and  |
-| 19 | [oracle/vecdb-python-sdk](https://github.com/oracle/vecdb-python-sdk) | 0 | Python | 2026-08-12 | Python SDK for vector search, RAG, and AI agents on Oracle AI Database, including Autonomous AI Vector Database deployme |
-| 20 | [api-evangelist/nomic-ai](https://github.com/api-evangelist/nomic-ai) | 0 | — | 2026-08-12 | Nomic AI builds open and accessible AI infrastructure. The company is known for the open-source Nomic Embed family (nomi |
-| 21 | [api-evangelist/myscale](https://github.com/api-evangelist/myscale) | 0 | — | 2026-08-12 | MyScale is a SQL vector database built on a ClickHouse fork (MyScaleDB), combining high-performance vector search, full- |
-| 22 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1315 | Rust | 2026-08-13 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 23 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35156 | Python | 2026-08-12 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 24 | [api-evangelist/mixedbread-ai](https://github.com/api-evangelist/mixedbread-ai) | 1 | — | 2026-08-12 | Mixedbread is a Berlin-based AI search and retrieval platform. It provides embeddings (mxbai-embed, Wholembed v3), reran |
-| 25 | [api-evangelist/milvus](https://github.com/api-evangelist/milvus) | 0 | — | 2026-08-12 | Milvus is an Apache 2.0 open-source vector database. It exposes a versioned REST API alongside gRPC and language SDKs (P |
-| 26 | [Abraheem13/langchain-complete-course](https://github.com/Abraheem13/langchain-complete-course) | 0 | Python | 2026-08-12 | Complete LangChain course — lecture-by-lecture notes, runnable code, and cheatsheets. Covers models, prompts, LCEL, RAG, |
-| 27 | [api-evangelist/marqo](https://github.com/api-evangelist/marqo) | 0 | — | 2026-08-12 | Marqo is an open-source, multimodal vector search engine that lets developers index text and images, generate embeddings |
-| 28 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-12 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 29 | [api-evangelist/lf-ai-and-data](https://github.com/api-evangelist/lf-ai-and-data) | 0 | — | 2026-08-12 | The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le |
-| 30 | [api-evangelist/lancedb](https://github.com/api-evangelist/lancedb) | 0 | — | 2026-08-12 | LanceDB is the AI-Native multimodal lakehouse built on the open-source Lance columnar storage format. It pairs an Apache |
-| 31 | [api-evangelist/ironcore-labs](https://github.com/api-evangelist/ironcore-labs) | 0 | — | 2026-08-12 | IronCore Labs builds application-layer encryption tools that keep sensitive data private while it stays usable. Its prod |
-| 32 | [MariaDB/server](https://github.com/MariaDB/server) | 8088 | C++ | 2026-08-12 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 33 | [api-evangelist/gel-data](https://github.com/api-evangelist/gel-data) | 0 | — | 2026-08-12 | Gel Data (formerly EdgeDB Inc.) builds Gel, an open-source graph-relational database that supercharges PostgreSQL with a |
-| 34 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 215 | Rust | 2026-08-12 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 35 | [Daaboulex/openviking-nix](https://github.com/Daaboulex/openviking-nix) | 3 | Shell | 2026-08-12 | OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module |
-| 36 | [api-evangelist/datastax](https://github.com/api-evangelist/datastax) | 0 | — | 2026-08-12 | DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C |
-| 37 | [api-evangelist/crate-io](https://github.com/api-evangelist/crate-io) | 0 | — | 2026-08-12 | Crate.io is the company behind CrateDB, a distributed SQL database engineered for real-time analytics on large volumes o |
-| 38 | [api-evangelist/contentstack](https://github.com/api-evangelist/contentstack) | 0 | — | 2026-08-12 | This document is a detailed reference to Contentstack’s Content Delivery API. Retrieve content from your account and del |
-| 39 | [api-evangelist/chroma-db](https://github.com/api-evangelist/chroma-db) | 0 | — | 2026-08-12 | Chroma (Chroma DB) is an open-source, AI-native vector database (embedding database) for building LLM, RAG, and semantic |
-| 40 | [api-evangelist/chroma](https://github.com/api-evangelist/chroma) | 0 | — | 2026-08-12 | Chroma (Chroma DB) is an open-source AI-native embedding database designed to make it easy to build LLM applications by  |
-| 41 | [sekacorn/AgentForge](https://github.com/sekacorn/AgentForge) | 0 | Python | 2026-08-12 | Open-source multi-agent orchestration with cost-awareness, security, and compliance built in. Anthropic, OpenAI, and off |
-| 42 | [zilliztech/knowhere](https://github.com/zilliztech/knowhere) | 377 | C++ | 2026-08-12 | Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN. |
-| 43 | [api-evangelist/azure-cosmos-db](https://github.com/api-evangelist/azure-cosmos-db) | 0 | — | 2026-08-12 | Azure Cosmos DB is a fully managed, globally distributed, multi-model NoSQL and relational database service from Microso |
-| 44 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1074 | Java | 2026-08-12 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 45 | [rajvamshi21/Vision-Model-Image-Analysis-Pipeline](https://github.com/rajvamshi21/Vision-Model-Image-Analysis-Pipeline) | 0 | Python | 2026-08-12 | Vision + multimodal pipeline that scores product photos for listing readiness — explainable defect detection (blur, expo |
-| 46 | [api-evangelist/aerospike](https://github.com/api-evangelist/aerospike) | 0 | — | 2026-08-12 | Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha |
-| 47 | [ahmedSamir50/AdamSystems.ZVec.NET-RAG](https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG) | 0 | C# | 2026-08-12 |  |
-| 48 | [alegameplays14-del/leica-infinity-2026](https://github.com/alegameplays14-del/leica-infinity-2026) | 0 | — | 2026-08-12 | Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools. |
-| 49 | [Divine-vision-visiondivine21/less-tokens](https://github.com/Divine-vision-visiondivine21/less-tokens) | 0 | — | 2026-08-12 | Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini. |
-| 50 | [Wry-letters233/notes-quiz-agent](https://github.com/Wry-letters233/notes-quiz-agent) | 0 | JavaScript | 2026-08-12 | Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study. |
+| 1 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-13 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 2 | [Tunolabs/xyzdb](https://github.com/Tunolabs/xyzdb) | 7 | Rust | 2026-08-13 | Semantic gravity database in Rust: related records live together on disk, so graph traversal is a range scan and vector  |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-13 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-13 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [api-evangelist/zilliz](https://github.com/api-evangelist/zilliz) | 0 | — | 2026-08-13 | Zilliz Cloud is the managed vector database service built by the Milvus maintainers. It exposes a Control Plane API for  |
+| 6 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-08-13 | Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap |
+| 7 | [api-evangelist/vespa-ai](https://github.com/api-evangelist/vespa-ai) | 0 | — | 2026-08-13 | Vespa is an open-source AI search engine, big-data serving engine, and vector database originally developed inside Yahoo |
+| 8 | [api-evangelist/vectorize-io](https://github.com/api-evangelist/vectorize-io) | 0 | — | 2026-08-13 | Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds  |
+| 9 | [api-evangelist/upstash](https://github.com/api-evangelist/upstash) | 0 | — | 2026-08-13 | Upstash provides serverless data platforms including managed Redis, Kafka, QStash messaging, and Vector databases optimi |
+| 10 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 86 | Rust | 2026-08-13 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 11 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-13 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 12 | [api-evangelist/surrealdb](https://github.com/api-evangelist/surrealdb) | 0 | — | 2026-08-13 | SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation |
+| 13 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-12 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 14 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6615 | Python | 2026-08-12 |  Memory library for building stateful agents |
+| 15 | [api-evangelist/sequoiadb](https://github.com/api-evangelist/sequoiadb) | 0 | — | 2026-08-12 | SequoiaDB (巨杉数据库) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl |
+| 16 | [Egoist-Machines/LodeDB](https://github.com/Egoist-Machines/LodeDB) | 92 | Python | 2026-08-12 | World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate |
+| 17 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-12 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 18 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-12 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 19 | [api-evangelist/objectbox](https://github.com/api-evangelist/objectbox) | 0 | — | 2026-08-12 | ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and  |
+| 20 | [oracle/vecdb-python-sdk](https://github.com/oracle/vecdb-python-sdk) | 0 | Python | 2026-08-12 | Python SDK for vector search, RAG, and AI agents on Oracle AI Database, including Autonomous AI Vector Database deployme |
+| 21 | [api-evangelist/nomic-ai](https://github.com/api-evangelist/nomic-ai) | 0 | — | 2026-08-12 | Nomic AI builds open and accessible AI infrastructure. The company is known for the open-source Nomic Embed family (nomi |
+| 22 | [api-evangelist/myscale](https://github.com/api-evangelist/myscale) | 0 | — | 2026-08-12 | MyScale is a SQL vector database built on a ClickHouse fork (MyScaleDB), combining high-performance vector search, full- |
+| 23 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1315 | Rust | 2026-08-13 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 24 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35156 | Python | 2026-08-12 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 25 | [api-evangelist/mixedbread-ai](https://github.com/api-evangelist/mixedbread-ai) | 1 | — | 2026-08-12 | Mixedbread is a Berlin-based AI search and retrieval platform. It provides embeddings (mxbai-embed, Wholembed v3), reran |
+| 26 | [api-evangelist/milvus](https://github.com/api-evangelist/milvus) | 0 | — | 2026-08-12 | Milvus is an Apache 2.0 open-source vector database. It exposes a versioned REST API alongside gRPC and language SDKs (P |
+| 27 | [Abraheem13/langchain-complete-course](https://github.com/Abraheem13/langchain-complete-course) | 0 | Python | 2026-08-12 | Complete LangChain course — lecture-by-lecture notes, runnable code, and cheatsheets. Covers models, prompts, LCEL, RAG, |
+| 28 | [api-evangelist/marqo](https://github.com/api-evangelist/marqo) | 0 | — | 2026-08-12 | Marqo is an open-source, multimodal vector search engine that lets developers index text and images, generate embeddings |
+| 29 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-12 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 30 | [api-evangelist/lf-ai-and-data](https://github.com/api-evangelist/lf-ai-and-data) | 0 | — | 2026-08-12 | The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le |
+| 31 | [api-evangelist/lancedb](https://github.com/api-evangelist/lancedb) | 0 | — | 2026-08-12 | LanceDB is the AI-Native multimodal lakehouse built on the open-source Lance columnar storage format. It pairs an Apache |
+| 32 | [api-evangelist/ironcore-labs](https://github.com/api-evangelist/ironcore-labs) | 0 | — | 2026-08-12 | IronCore Labs builds application-layer encryption tools that keep sensitive data private while it stays usable. Its prod |
+| 33 | [MariaDB/server](https://github.com/MariaDB/server) | 8088 | C++ | 2026-08-12 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 34 | [api-evangelist/gel-data](https://github.com/api-evangelist/gel-data) | 0 | — | 2026-08-12 | Gel Data (formerly EdgeDB Inc.) builds Gel, an open-source graph-relational database that supercharges PostgreSQL with a |
+| 35 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 215 | Rust | 2026-08-13 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 36 | [Daaboulex/openviking-nix](https://github.com/Daaboulex/openviking-nix) | 3 | Shell | 2026-08-12 | OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module |
+| 37 | [api-evangelist/datastax](https://github.com/api-evangelist/datastax) | 0 | — | 2026-08-12 | DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C |
+| 38 | [api-evangelist/crate-io](https://github.com/api-evangelist/crate-io) | 0 | — | 2026-08-12 | Crate.io is the company behind CrateDB, a distributed SQL database engineered for real-time analytics on large volumes o |
+| 39 | [api-evangelist/contentstack](https://github.com/api-evangelist/contentstack) | 0 | — | 2026-08-12 | This document is a detailed reference to Contentstack’s Content Delivery API. Retrieve content from your account and del |
+| 40 | [api-evangelist/chroma-db](https://github.com/api-evangelist/chroma-db) | 0 | — | 2026-08-12 | Chroma (Chroma DB) is an open-source, AI-native vector database (embedding database) for building LLM, RAG, and semantic |
+| 41 | [api-evangelist/chroma](https://github.com/api-evangelist/chroma) | 0 | — | 2026-08-12 | Chroma (Chroma DB) is an open-source AI-native embedding database designed to make it easy to build LLM applications by  |
+| 42 | [sekacorn/AgentForge](https://github.com/sekacorn/AgentForge) | 0 | Python | 2026-08-12 | Open-source multi-agent orchestration with cost-awareness, security, and compliance built in. Anthropic, OpenAI, and off |
+| 43 | [zilliztech/knowhere](https://github.com/zilliztech/knowhere) | 377 | C++ | 2026-08-12 | Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN. |
+| 44 | [api-evangelist/azure-cosmos-db](https://github.com/api-evangelist/azure-cosmos-db) | 0 | — | 2026-08-12 | Azure Cosmos DB is a fully managed, globally distributed, multi-model NoSQL and relational database service from Microso |
+| 45 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1074 | Java | 2026-08-13 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 46 | [rajvamshi21/Vision-Model-Image-Analysis-Pipeline](https://github.com/rajvamshi21/Vision-Model-Image-Analysis-Pipeline) | 0 | Python | 2026-08-12 | Vision + multimodal pipeline that scores product photos for listing readiness — explainable defect detection (blur, expo |
+| 47 | [api-evangelist/aerospike](https://github.com/api-evangelist/aerospike) | 0 | — | 2026-08-12 | Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha |
+| 48 | [ahmedSamir50/AdamSystems.ZVec.NET-RAG](https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG) | 0 | C# | 2026-08-12 |  |
+| 49 | [alegameplays14-del/leica-infinity-2026](https://github.com/alegameplays14-del/leica-infinity-2026) | 0 | — | 2026-08-12 | Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools. |
+| 50 | [Divine-vision-visiondivine21/less-tokens](https://github.com/Divine-vision-visiondivine21/less-tokens) | 0 | — | 2026-08-12 | Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini. |
 <!-- TRACKER_TABLE_END -->
 
 ---

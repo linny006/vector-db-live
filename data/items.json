@@ -1,11 +1,38 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-13T00:21:34Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Semantic gravity database in Rust: related records live together on disk, so graph traversal is a range scan and vector ",
+    "id": "Tunolabs/xyzdb",
+    "language": "Rust",
+    "name": "Tunolabs/xyzdb",
+    "stars": 7,
+    "updated_at": "2026-08-13T00:20:42Z",
+    "url": "https://github.com/Tunolabs/xyzdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T00:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T00:15:17Z",
+    "updated_at": "2026-08-13T00:30:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -59,7 +86,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 86,
-    "updated_at": "2026-08-13T00:07:09Z",
+    "updated_at": "2026-08-13T00:29:55Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 76,
     "updated_at": "2026-08-13T00:02:54Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T00:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
@@ -124,15 +142,6 @@
     "stars": 92,
     "updated_at": "2026-08-12T23:53:29Z",
     "url": "https://github.com/Egoist-Machines/LodeDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-12T23:45:43Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -302,7 +311,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 215,
-    "updated_at": "2026-08-12T23:06:59Z",
+    "updated_at": "2026-08-13T00:20:26Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1074,
-    "updated_at": "2026-08-12T22:39:32Z",
+    "updated_at": "2026-08-13T00:27:10Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T22:30:53Z",
     "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
-    "id": "Wry-letters233/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Wry-letters233/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:30:24Z",
-    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
   }
 ]
