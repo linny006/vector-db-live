@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T13:45:20Z",
+    "updated_at": "2026-08-13T14:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 119,
+    "updated_at": "2026-08-13T13:53:53Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-13T13:53:41Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Demo integrating Pinecone with Neo4j to analyze and explore Supreme Court cases.",
+    "id": "pinecone-io/pinecone-neo4j-explorer",
+    "language": "TypeScript",
+    "name": "pinecone-io/pinecone-neo4j-explorer",
+    "stars": 10,
+    "updated_at": "2026-08-13T14:00:16Z",
+    "url": "https://github.com/pinecone-io/pinecone-neo4j-explorer"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4416,
+    "updated_at": "2026-08-13T13:50:52Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8090,
+    "updated_at": "2026-08-13T13:49:02Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-13T13:47:38Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T13:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6211,
+    "updated_at": "2026-08-13T13:48:17Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -16,6 +88,15 @@
     "stars": 1076,
     "updated_at": "2026-08-13T13:43:51Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "TypeScript example: build a content-based article recommender using Pinecone similarity search.",
+    "id": "pinecone-io/recommender-example-typescript",
+    "language": "TypeScript",
+    "name": "pinecone-io/recommender-example-typescript",
+    "stars": 57,
+    "updated_at": "2026-08-13T13:43:44Z",
+    "url": "https://github.com/pinecone-io/recommender-example-typescript"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -32,17 +113,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7047,
-    "updated_at": "2026-08-13T13:42:05Z",
+    "updated_at": "2026-08-13T13:45:33Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T13:35:38Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
@@ -52,15 +124,6 @@
     "stars": 4431,
     "updated_at": "2026-08-13T13:34:11Z",
     "url": "https://github.com/CaviraOSS/OpenMemory"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6211,
-    "updated_at": "2026-08-13T13:44:53Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -81,12 +144,21 @@
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2401,
+    "updated_at": "2026-08-13T13:32:50Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33960,
-    "updated_at": "2026-08-13T13:32:11Z",
+    "updated_at": "2026-08-13T13:51:09Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T13:31:06Z",
     "url": "https://github.com/asp53826/annlite"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2399,
-    "updated_at": "2026-08-13T13:32:50Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "AI developer assistant for the Kalisio ecosystem",
@@ -122,7 +185,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16727,
-    "updated_at": "2026-08-13T13:26:43Z",
+    "updated_at": "2026-08-13T13:53:46Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "vishalChoudhary-git/ai-platform",
     "stars": 0,
-    "updated_at": "2026-08-13T13:41:36Z",
+    "updated_at": "2026-08-13T13:54:25Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
@@ -232,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T12:54:33Z",
     "url": "https://github.com/izynegallardo/vector-embeddings"
-  },
-  {
-    "description": "TypeScript example: build a content-based article recommender using Pinecone similarity search.",
-    "id": "pinecone-io/recommender-example-typescript",
-    "language": "TypeScript",
-    "name": "pinecone-io/recommender-example-typescript",
-    "stars": 57,
-    "updated_at": "2026-08-13T13:43:44Z",
-    "url": "https://github.com/pinecone-io/recommender-example-typescript"
   },
   {
     "description": "Local-first RAG with an incremental ontology over your Markdown, exposed to any AI agent via MCP.",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T12:30:51Z",
     "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:30:35Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-08-13T12:30:19Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-08-13T12:27:20Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:26:32Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-13T13:35:22Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
-    "id": "sshisto/mnemo-mcp",
-    "language": "Python",
-    "name": "sshisto/mnemo-mcp",
-    "stars": 2,
-    "updated_at": "2026-08-13T12:25:04Z",
-    "url": "https://github.com/sshisto/mnemo-mcp"
   }
 ]
