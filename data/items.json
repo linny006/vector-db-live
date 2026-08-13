@@ -1,12 +1,75 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T01:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
     "id": "agent-ix/ecaz",
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 2,
-    "updated_at": "2026-08-13T01:13:52Z",
+    "updated_at": "2026-08-13T01:30:11Z",
     "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "\ud83d\udc8a MedRAG \u2014 Medical RAG (Retrieval-Augmented Generation) Service",
+    "id": "furkankayam/spring-boot-med-rag",
+    "language": "Java",
+    "name": "furkankayam/spring-boot-med-rag",
+    "stars": 0,
+    "updated_at": "2026-08-13T01:27:24Z",
+    "url": "https://github.com/furkankayam/spring-boot-med-rag"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1317,
+    "updated_at": "2026-08-13T01:27:10Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
+    "id": "Senthilsivam41/kinegraph-v",
+    "language": "JavaScript",
+    "name": "Senthilsivam41/kinegraph-v",
+    "stars": 0,
+    "updated_at": "2026-08-13T01:25:38Z",
+    "url": "https://github.com/Senthilsivam41/kinegraph-v"
+  },
+  {
+    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG & AI agents \u2014 the Dart & Flutter client. Self-ho",
+    "id": "MontyGovernance/montycat_dart",
+    "language": "Dart",
+    "name": "MontyGovernance/montycat_dart",
+    "stars": 3,
+    "updated_at": "2026-08-13T01:26:37Z",
+    "url": "https://github.com/MontyGovernance/montycat_dart"
+  },
+  {
+    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
+    "id": "0xLazAI/alith",
+    "language": "Rust",
+    "name": "0xLazAI/alith",
+    "stars": 44,
+    "updated_at": "2026-08-13T01:17:26Z",
+    "url": "https://github.com/0xLazAI/alith"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T01:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Python package that makes it easy to spin up a custom Retrieval-Augmented Generation (RAG) pipeline.",
@@ -25,33 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T01:09:42Z",
     "url": "https://github.com/gabaoun/Project-Aether"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1317,
-    "updated_at": "2026-08-13T01:05:12Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T01:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T01:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -139,7 +175,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64662,
+    "stars": 64665,
     "updated_at": "2026-08-13T00:34:53Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 86,
-    "updated_at": "2026-08-13T00:29:55Z",
+    "updated_at": "2026-08-13T01:24:57Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "Egoist-Machines/LodeDB",
     "stars": 92,
-    "updated_at": "2026-08-12T23:53:29Z",
+    "updated_at": "2026-08-13T01:18:28Z",
     "url": "https://github.com/Egoist-Machines/LodeDB"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-12T23:04:05Z",
     "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
-    "id": "api-evangelist/datastax",
-    "language": "\u2014",
-    "name": "api-evangelist/datastax",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:59:52Z",
-    "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "Crate.io is the company behind CrateDB, a distributed SQL database engineered for real-time analytics on large volumes o",
-    "id": "api-evangelist/crate-io",
-    "language": "\u2014",
-    "name": "api-evangelist/crate-io",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:57:39Z",
-    "url": "https://github.com/api-evangelist/crate-io"
-  },
-  {
-    "description": "This document is a detailed reference to Contentstack\u2019s Content Delivery API. Retrieve content from your account and del",
-    "id": "api-evangelist/contentstack",
-    "language": "\u2014",
-    "name": "api-evangelist/contentstack",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:56:38Z",
-    "url": "https://github.com/api-evangelist/contentstack"
-  },
-  {
-    "description": "Chroma (Chroma DB) is an open-source, AI-native vector database (embedding database) for building LLM, RAG, and semantic",
-    "id": "api-evangelist/chroma-db",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma-db",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:53:18Z",
-    "url": "https://github.com/api-evangelist/chroma-db"
   }
 ]
