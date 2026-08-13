@@ -1,12 +1,39 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T20:21:49Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Local-first RAG with an incremental ontology over your Markdown, exposed to any AI agent via MCP.",
     "id": "rafaelnicolett/kern",
     "language": "Rust",
     "name": "rafaelnicolett/kern",
     "stars": 2,
-    "updated_at": "2026-08-13T20:15:02Z",
+    "updated_at": "2026-08-13T20:20:28Z",
     "url": "https://github.com/rafaelnicolett/kern"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-13T20:16:09Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T20:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -54,24 +81,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T20:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T20:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-13T19:55:33Z",
+    "updated_at": "2026-08-13T20:18:17Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29998,
-    "updated_at": "2026-08-13T20:09:29Z",
+    "updated_at": "2026-08-13T20:16:18Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -232,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T19:25:25Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-13T19:24:42Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
