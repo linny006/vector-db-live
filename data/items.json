@@ -1,5 +1,86 @@
 [
   {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-13T17:30:18Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 90,
+    "updated_at": "2026-08-13T17:23:50Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11142,
+    "updated_at": "2026-08-13T17:23:39Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-13T17:21:06Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 4,
+    "updated_at": "2026-08-13T17:20:50Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-13T17:20:33Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 4,
+    "updated_at": "2026-08-13T17:16:47Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 223,
+    "updated_at": "2026-08-13T17:16:38Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T17:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +90,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 4,
-    "updated_at": "2026-08-13T17:14:16Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 8,
+    "updated_at": "2026-08-13T17:14:49Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -25,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T17:12:17Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Vector DB implementation in Mojo",
-    "id": "bewaffnete/MojoVec",
-    "language": "Mojo",
-    "name": "bewaffnete/MojoVec",
-    "stars": 8,
-    "updated_at": "2026-08-13T17:14:49Z",
-    "url": "https://github.com/bewaffnete/MojoVec"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -54,15 +126,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-13T17:06:05Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -70,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T17:01:53Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T17:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -99,6 +153,15 @@
     "url": "https://github.com/yadavkrish18/Legal-Assistant"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29996,
+    "updated_at": "2026-08-13T16:52:31Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "PaveDB \u2014 Lightweight Vector Search Microservice",
     "id": "rodrigopitanga/pavedb",
     "language": "Python",
@@ -113,7 +176,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6334,
-    "updated_at": "2026-08-13T16:51:28Z",
+    "updated_at": "2026-08-13T17:25:02Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -140,17 +203,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-13T17:15:12Z",
+    "updated_at": "2026-08-13T17:25:10Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-13T16:47:37Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -162,15 +216,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-13T16:40:54Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
@@ -178,15 +223,6 @@
     "stars": 64687,
     "updated_at": "2026-08-13T16:40:32Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 223,
-    "updated_at": "2026-08-13T16:51:50Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "",
@@ -223,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-08-13T16:23:04Z",
     "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29995,
-    "updated_at": "2026-08-13T16:52:31Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin.",
@@ -315,15 +342,6 @@
     "url": "https://github.com/SitanshuA091/VectorBench"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11142,
-    "updated_at": "2026-08-13T17:09:57Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
     "id": "Daaboulex/openviking-nix",
     "language": "Shell",
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6629,
-    "updated_at": "2026-08-13T16:59:23Z",
+    "updated_at": "2026-08-13T17:24:56Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1077,
-    "updated_at": "2026-08-13T17:11:55Z",
+    "updated_at": "2026-08-13T17:27:12Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T14:46:45Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15438,
-    "updated_at": "2026-08-13T14:45:22Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "MCP server for persistent memory using Qdrant vector store",
-    "id": "taraksh01/memoryhub",
-    "language": "TypeScript",
-    "name": "taraksh01/memoryhub",
-    "stars": 1,
-    "updated_at": "2026-08-13T14:45:28Z",
-    "url": "https://github.com/taraksh01/memoryhub"
   }
 ]
