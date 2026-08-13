@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T23:01:26Z",
+    "updated_at": "2026-08-13T23:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-13T23:12:49Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 4,
+    "updated_at": "2026-08-13T23:04:26Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-13T23:02:33Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-13T23:00:27Z",
+    "updated_at": "2026-08-13T23:01:48Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -25,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-08-13T22:57:22Z",
     "url": "https://github.com/feifeifeifeifeifeifei/Market-Narrative-Intelligence-System"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8092,
+    "updated_at": "2026-08-13T22:56:47Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -90,15 +126,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-13T22:56:22Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
     "id": "ankush-poonia007/STARTUP-AI-AGENT",
     "language": "Python",
@@ -121,7 +148,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64699,
+    "stars": 64698,
     "updated_at": "2026-08-13T22:31:08Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -148,7 +175,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11144,
+    "stars": 11145,
     "updated_at": "2026-08-13T22:18:58Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -196,15 +223,6 @@
     "stars": 7,
     "updated_at": "2026-08-13T22:05:43Z",
     "url": "https://github.com/Tunolabs/xyzdb"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-13T22:02:30Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Multi-modal product catalog platform \u2014 CLIP + BGE embeddings in Qdrant, hybrid retrieval with cross-encoder reranking, a",
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30003,
-    "updated_at": "2026-08-13T22:51:29Z",
+    "updated_at": "2026-08-13T23:04:03Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "lyonzin/knowledge-rag",
     "stars": 250,
-    "updated_at": "2026-08-13T22:48:31Z",
+    "updated_at": "2026-08-13T23:13:47Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
@@ -313,15 +331,6 @@
     "stars": 8,
     "updated_at": "2026-08-13T22:39:17Z",
     "url": "https://github.com/bewaffnete/MojoVec"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8093,
-    "updated_at": "2026-08-13T22:56:47Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Local-first RAG with an incremental ontology over your Markdown, exposed to any AI agent via MCP.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T19:23:51Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "LangGraph AI agent that recommends arXiv papers based on bookmarks or topics.",
-    "id": "alxxtexxr/arxiv_agent",
-    "language": "Python",
-    "name": "alxxtexxr/arxiv_agent",
-    "stars": 0,
-    "updated_at": "2026-08-13T19:22:07Z",
-    "url": "https://github.com/alxxtexxr/arxiv_agent"
   }
 ]
