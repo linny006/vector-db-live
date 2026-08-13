@@ -5,8 +5,17 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1324,
-    "updated_at": "2026-08-13T15:40:40Z",
+    "updated_at": "2026-08-13T15:42:40Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T15:41:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T15:37:46Z",
+    "updated_at": "2026-08-13T15:45:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -34,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T15:35:01Z",
     "url": "https://github.com/Vijay190899/disclosure-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T15:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -95,7 +95,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16728,
-    "updated_at": "2026-08-13T15:09:17Z",
+    "updated_at": "2026-08-13T15:45:20Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -410,7 +410,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58958,
-    "updated_at": "2026-08-13T15:24:49Z",
+    "updated_at": "2026-08-13T15:43:39Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {

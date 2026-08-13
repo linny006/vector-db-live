@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 15:41 UTC
+> ⏰ Last updated: 2026-08-13 15:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,10 +43,10 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1324 | Rust | 2026-08-13 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-13 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 3 | [SitanshuA091/VectorBench](https://github.com/SitanshuA091/VectorBench) | 0 | Python | 2026-08-13 | A benchmarking playground for FAISS vector indexes comparing indexes on recall, latency, and memory, with vector retriev |
-| 4 | [Vijay190899/disclosure-rag](https://github.com/Vijay190899/disclosure-rag) | 0 | Python | 2026-08-13 | RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-13 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-13 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-13 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [SitanshuA091/VectorBench](https://github.com/SitanshuA091/VectorBench) | 0 | Python | 2026-08-13 | A benchmarking playground for FAISS vector indexes comparing indexes on recall, latency, and memory, with vector retriev |
+| 5 | [Vijay190899/disclosure-rag](https://github.com/Vijay190899/disclosure-rag) | 0 | Python | 2026-08-13 | RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech |
 | 6 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1877 | Go | 2026-08-13 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 7 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7047 | Java | 2026-08-13 | The AI search platform |
 | 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-13 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
