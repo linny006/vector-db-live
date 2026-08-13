@@ -1,5 +1,68 @@
 [
   {
+    "description": "Local-first RAG with an incremental ontology over your Markdown, exposed to any AI agent via MCP.",
+    "id": "rafaelnicolett/kern",
+    "language": "Rust",
+    "name": "rafaelnicolett/kern",
+    "stars": 2,
+    "updated_at": "2026-08-13T20:15:02Z",
+    "url": "https://github.com/rafaelnicolett/kern"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-13T20:12:23Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-13T20:06:20Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
+    "id": "ankush-poonia007/STARTUP-AI-AGENT",
+    "language": "Python",
+    "name": "ankush-poonia007/STARTUP-AI-AGENT",
+    "stars": 4,
+    "updated_at": "2026-08-13T20:07:49Z",
+    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-13T20:04:14Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6334,
+    "updated_at": "2026-08-13T20:05:07Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T20:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -45,21 +108,12 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6334,
-    "updated_at": "2026-08-13T19:54:08Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1078,
-    "updated_at": "2026-08-13T19:54:14Z",
+    "updated_at": "2026-08-13T20:12:44Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -72,15 +126,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-13T19:48:51Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -88,15 +133,6 @@
     "stars": 7047,
     "updated_at": "2026-08-13T19:57:17Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T19:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11143,
-    "updated_at": "2026-08-13T19:38:14Z",
+    "updated_at": "2026-08-13T20:10:45Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29998,
-    "updated_at": "2026-08-13T19:31:03Z",
+    "updated_at": "2026-08-13T20:09:29Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -261,15 +297,6 @@
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-13T19:20:03Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "Vector Search Benchmarking suite",
     "id": "pinecone-io/VSB",
     "language": "Python",
@@ -365,7 +392,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-13T19:27:45Z",
+    "updated_at": "2026-08-13T20:14:28Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T19:06:01Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-08-13T19:04:28Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Cross-industry RAG benchmarking platform, 10 chunking strategies, 3 retrieval modes (BM25/Vector/Hybrid RRF), 5-node Lan",
-    "id": "AasthaPJoshi/RetrievalLab",
-    "language": "Python",
-    "name": "AasthaPJoshi/RetrievalLab",
-    "stars": 1,
-    "updated_at": "2026-08-13T19:02:43Z",
-    "url": "https://github.com/AasthaPJoshi/RetrievalLab"
-  },
-  {
-    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
-    "id": "oracle/langchain-oracle",
-    "language": "Python",
-    "name": "oracle/langchain-oracle",
-    "stars": 59,
-    "updated_at": "2026-08-13T19:01:45Z",
-    "url": "https://github.com/oracle/langchain-oracle"
   }
 ]
