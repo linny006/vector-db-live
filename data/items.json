@@ -5,17 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T11:00:22Z",
+    "updated_at": "2026-08-13T11:09:50Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
+    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
+    "id": "Yigtwxx/OracleX",
     "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-13T10:55:37Z",
-    "url": "https://github.com/GiulioDER/RE-call"
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-08-13T11:07:32Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 1,
+    "updated_at": "2026-08-13T11:04:00Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-13T11:03:43Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T11:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Pure-Rust vector database for the Nubster Data Plane: ANN similarity search, single binary, edge-ready.",
@@ -25,6 +52,15 @@
     "stars": 0,
     "updated_at": "2026-08-13T10:59:57Z",
     "url": "https://github.com/nubster-opensources/eidosdb"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-13T11:01:14Z",
+    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -41,17 +77,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29993,
-    "updated_at": "2026-08-13T10:46:26Z",
+    "updated_at": "2026-08-13T11:08:48Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T10:45:41Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -61,15 +88,6 @@
     "stars": 12863,
     "updated_at": "2026-08-13T10:43:46Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-08-13T10:41:12Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
     "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
@@ -149,7 +167,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7047,
-    "updated_at": "2026-08-13T10:52:10Z",
+    "updated_at": "2026-08-13T11:10:14Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -167,7 +185,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 2398,
-    "updated_at": "2026-08-13T10:14:04Z",
+    "updated_at": "2026-08-13T11:09:27Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6211,
-    "updated_at": "2026-08-13T10:54:43Z",
+    "updated_at": "2026-08-13T11:07:07Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -365,7 +383,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8090,
-    "updated_at": "2026-08-13T10:47:07Z",
+    "updated_at": "2026-08-13T11:10:23Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 377,
     "updated_at": "2026-08-13T07:44:19Z",
     "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Elixir client for PaveDB",
-    "id": "rodrigopitanga/pavedb-client-elixir",
-    "language": "Elixir",
-    "name": "rodrigopitanga/pavedb-client-elixir",
-    "stars": 0,
-    "updated_at": "2026-08-13T07:41:25Z",
-    "url": "https://github.com/rodrigopitanga/pavedb-client-elixir"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6333,
-    "updated_at": "2026-08-13T07:32:04Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
