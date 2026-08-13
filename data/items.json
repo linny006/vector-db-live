@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T16:15:22Z",
+    "updated_at": "2026-08-13T16:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-13T16:29:05Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "Vector DB implementation in Mojo",
@@ -14,8 +23,26 @@
     "language": "Mojo",
     "name": "bewaffnete/MojoVec",
     "stars": 8,
-    "updated_at": "2026-08-13T16:11:40Z",
+    "updated_at": "2026-08-13T16:28:27Z",
     "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-13T16:27:40Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 16,
+    "updated_at": "2026-08-13T16:26:32Z",
+    "url": "https://github.com/opencrawling/opencrawling"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -23,8 +50,71 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-13T16:12:39Z",
+    "updated_at": "2026-08-13T16:25:21Z",
     "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "RAG search engine using LlamaIndex, Redis, and PII masking.",
+    "id": "gabaoun/Project-Aether",
+    "language": "Python",
+    "name": "gabaoun/Project-Aether",
+    "stars": 2,
+    "updated_at": "2026-08-13T16:27:59Z",
+    "url": "https://github.com/gabaoun/Project-Aether"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-08-13T16:23:04Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 29996,
+    "updated_at": "2026-08-13T16:22:01Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin.",
+    "id": "firelock-ai/kin-vector",
+    "language": "Rust",
+    "name": "firelock-ai/kin-vector",
+    "stars": 0,
+    "updated_at": "2026-08-13T16:21:56Z",
+    "url": "https://github.com/firelock-ai/kin-vector"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-13T16:18:32Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12863,
+    "updated_at": "2026-08-13T16:16:04Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T16:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -32,7 +122,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6334,
-    "updated_at": "2026-08-13T16:09:02Z",
+    "updated_at": "2026-08-13T16:16:37Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -41,7 +131,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-13T16:08:19Z",
+    "updated_at": "2026-08-13T16:24:45Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -72,24 +162,6 @@
     "url": "https://github.com/Asik-Ifthaker-Hamim/Smart-Academic-Research-Assistant"
   },
   {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 16,
-    "updated_at": "2026-08-13T16:04:24Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-13T16:03:22Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -104,7 +176,7 @@
     "language": "Python",
     "name": "vishalChoudhary-git/ai-platform",
     "stars": 0,
-    "updated_at": "2026-08-13T16:05:12Z",
+    "updated_at": "2026-08-13T16:18:14Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
@@ -126,31 +198,13 @@
     "url": "https://github.com/SitanshuA091/VectorBench"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T16:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11142,
-    "updated_at": "2026-08-13T16:00:20Z",
+    "updated_at": "2026-08-13T16:26:57Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "RAG search engine using LlamaIndex, Redis, and PII masking.",
-    "id": "gabaoun/Project-Aether",
-    "language": "Python",
-    "name": "gabaoun/Project-Aether",
-    "stars": 2,
-    "updated_at": "2026-08-13T15:58:18Z",
-    "url": "https://github.com/gabaoun/Project-Aether"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -216,15 +270,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-13T15:48:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -234,11 +279,20 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58959,
+    "updated_at": "2026-08-13T16:24:36Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
     "description": " Memory library for building stateful agents",
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6628,
+    "stars": 6629,
     "updated_at": "2026-08-13T15:40:48Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -257,7 +311,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6211,
-    "updated_at": "2026-08-13T15:45:32Z",
+    "updated_at": "2026-08-13T16:16:25Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -284,7 +338,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1077,
-    "updated_at": "2026-08-13T16:15:15Z",
+    "updated_at": "2026-08-13T16:29:40Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -293,7 +347,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33963,
-    "updated_at": "2026-08-13T16:07:08Z",
+    "updated_at": "2026-08-13T16:28:16Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -329,8 +383,17 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9412,
-    "updated_at": "2026-08-13T15:47:17Z",
+    "updated_at": "2026-08-13T16:21:13Z",
     "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 422,
+    "updated_at": "2026-08-13T14:32:55Z",
+    "url": "https://github.com/redis/redis-vl-python"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -340,15 +403,6 @@
     "stars": 4416,
     "updated_at": "2026-08-13T14:32:32Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 29995,
-    "updated_at": "2026-08-13T14:58:39Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-13T14:56:35Z",
     "url": "https://github.com/pinecone-io/bird-semantic-search"
-  },
-  {
-    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
-    "id": "yantrikos/yantrikdb-mcp",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-mcp",
-    "stars": 24,
-    "updated_at": "2026-08-13T14:03:48Z",
-    "url": "https://github.com/yantrikos/yantrikdb-mcp"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 119,
-    "updated_at": "2026-08-13T13:53:53Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Demo integrating Pinecone with Neo4j to analyze and explore Supreme Court cases.",
-    "id": "pinecone-io/pinecone-neo4j-explorer",
-    "language": "TypeScript",
-    "name": "pinecone-io/pinecone-neo4j-explorer",
-    "stars": 10,
-    "updated_at": "2026-08-13T14:00:16Z",
-    "url": "https://github.com/pinecone-io/pinecone-neo4j-explorer"
-  },
-  {
-    "description": "TypeScript example: build a content-based article recommender using Pinecone similarity search.",
-    "id": "pinecone-io/recommender-example-typescript",
-    "language": "TypeScript",
-    "name": "pinecone-io/recommender-example-typescript",
-    "stars": 57,
-    "updated_at": "2026-08-13T13:43:44Z",
-    "url": "https://github.com/pinecone-io/recommender-example-typescript"
-  },
-  {
-    "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
-    "id": "CaviraOSS/OpenMemory",
-    "language": "TypeScript",
-    "name": "CaviraOSS/OpenMemory",
-    "stars": 4431,
-    "updated_at": "2026-08-13T13:34:11Z",
-    "url": "https://github.com/CaviraOSS/OpenMemory"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 47,
-    "updated_at": "2026-08-13T14:06:46Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
   }
 ]
