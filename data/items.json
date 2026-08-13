@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T16:34:04Z",
+    "updated_at": "2026-08-13T16:45:27Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-13T16:44:49Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-13T16:42:17Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-13T16:40:54Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
+    "language": "Python",
+    "name": "vishalChoudhary-git/ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-13T16:40:47Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64685,
+    "updated_at": "2026-08-13T16:40:32Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Vector DB implementation in Mojo",
@@ -14,8 +59,17 @@
     "language": "Mojo",
     "name": "bewaffnete/MojoVec",
     "stars": 8,
-    "updated_at": "2026-08-13T16:33:40Z",
+    "updated_at": "2026-08-13T16:39:44Z",
     "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T16:35:38Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -27,15 +81,6 @@
     "url": "https://github.com/codecoradev/uteke"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T16:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
@@ -45,13 +90,13 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
+    "description": "RAG search engine using LlamaIndex, Redis, and PII masking.",
+    "id": "gabaoun/Project-Aether",
+    "language": "Python",
+    "name": "gabaoun/Project-Aether",
     "stars": 2,
-    "updated_at": "2026-08-13T16:27:40Z",
-    "url": "https://github.com/agent-ix/ecaz"
+    "updated_at": "2026-08-13T16:27:59Z",
+    "url": "https://github.com/gabaoun/Project-Aether"
   },
   {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
@@ -68,17 +113,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-13T16:32:09Z",
+    "updated_at": "2026-08-13T16:37:34Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "RAG search engine using LlamaIndex, Redis, and PII masking.",
-    "id": "gabaoun/Project-Aether",
-    "language": "Python",
-    "name": "gabaoun/Project-Aether",
-    "stars": 2,
-    "updated_at": "2026-08-13T16:27:59Z",
-    "url": "https://github.com/gabaoun/Project-Aether"
   },
   {
     "description": "AI developer assistant for the Kalisio ecosystem",
@@ -131,7 +167,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6334,
-    "updated_at": "2026-08-13T16:16:37Z",
+    "updated_at": "2026-08-13T16:39:58Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T16:03:21Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
-    "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-13T16:30:56Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -252,15 +279,6 @@
     "url": "https://github.com/stateletlab/statelet-sdk"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-13T16:00:36Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Rust driver for KoutenDB",
     "id": "puffball1567/koutendb-rust",
     "language": "Rust",
@@ -277,15 +295,6 @@
     "stars": 7047,
     "updated_at": "2026-08-13T15:51:53Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-13T15:46:25Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -320,7 +329,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6211,
-    "updated_at": "2026-08-13T16:33:41Z",
+    "updated_at": "2026-08-13T16:40:49Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -347,7 +356,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1077,
-    "updated_at": "2026-08-13T16:29:40Z",
+    "updated_at": "2026-08-13T16:39:38Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-08-13T14:32:32Z",
+    "updated_at": "2026-08-13T16:40:35Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T14:23:33Z",
     "url": "https://github.com/DopamineDriven/slipstream"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8091,
-    "updated_at": "2026-08-13T15:29:10Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
