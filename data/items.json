@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T18:30:19Z",
+    "updated_at": "2026-08-13T18:36:56Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T18:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -72,15 +81,6 @@
     "url": "https://github.com/Vijay190899/disclosure-rag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T18:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
     "id": "kovartravis/neuron",
     "language": "TypeScript",
@@ -88,6 +88,15 @@
     "stars": 2,
     "updated_at": "2026-08-13T18:17:35Z",
     "url": "https://github.com/kovartravis/neuron"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8092,
+    "updated_at": "2026-08-13T18:13:20Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -194,7 +203,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 86,
-    "updated_at": "2026-08-13T17:47:00Z",
+    "updated_at": "2026-08-13T18:34:18Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-13T18:26:57Z",
+    "updated_at": "2026-08-13T18:32:31Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-13T16:24:45Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 377,
-    "updated_at": "2026-08-13T16:06:18Z",
-    "url": "https://github.com/zilliztech/knowhere"
   }
 ]
