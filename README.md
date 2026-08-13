@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 07:30 UTC
+> ⏰ Last updated: 2026-08-13 07:36 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) | 2392 | Python | 2026-08-13 | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. |
-| 2 | [MatthewRyanWeber/data-governance-pipeline](https://github.com/MatthewRyanWeber/data-governance-pipeline) | 0 | Python | 2026-08-13 | Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea |
-| 3 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1076 | Java | 2026-08-13 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 4 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1877 | Go | 2026-08-13 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 5 | [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag) | 250 | Python | 2026-08-13 | Local RAG MCP server for Claude Code — hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format |
-| 6 | [Faraz6180/Insightpilot-ai](https://github.com/Faraz6180/Insightpilot-ai) | 0 | Python | 2026-08-13 | AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-13 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-13 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [rodrigopitanga/pavedb-client-elixir](https://github.com/rodrigopitanga/pavedb-client-elixir) | 0 | Elixir | 2026-08-13 | Elixir client for PaveDB |
-| 10 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45621 | Go | 2026-08-13 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 11 | [zudyog/the-applied-ai-engineer](https://github.com/zudyog/the-applied-ai-engineer) | 0 | Python | 2026-08-13 | Production RAG chatbot in Python — hybrid search (Qdrant + BM25), cross-encoder reranking, Redis session memory, and RAG |
-| 12 | [zudyog/the-ai-engineer](https://github.com/zudyog/the-ai-engineer) | 3 | TypeScript | 2026-08-13 | Build a Production RAG System with Python, LangChain, and ChromaDB  Build ShopBot from scratch — a production RAG assist |
-| 13 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-13 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 14 | [zudyog/the-senior-ai-engineer](https://github.com/zudyog/the-senior-ai-engineer) | 0 | Python | 2026-08-13 |  ShopBot v3 — advanced RAG chatbot with LangGraph orchestration, HyDE, Corrective RAG (CRAG), hybrid search, and a fine- |
-| 15 | [zilliztech/knowhere](https://github.com/zilliztech/knowhere) | 377 | C++ | 2026-08-13 | Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN. |
-| 16 | [AliZahiri/ai-rag-platform-blueprint](https://github.com/AliZahiri/ai-rag-platform-blueprint) | 0 | Python | 2026-08-13 | AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes. |
-| 17 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35160 | Python | 2026-08-13 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 18 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16727 | Go | 2026-08-13 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
-| 19 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6211 | Rust | 2026-08-13 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 20 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-13 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 1 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-13 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-13 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-13 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) | 2392 | Python | 2026-08-13 | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. |
+| 5 | [MatthewRyanWeber/data-governance-pipeline](https://github.com/MatthewRyanWeber/data-governance-pipeline) | 0 | Python | 2026-08-13 | Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea |
+| 6 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1076 | Java | 2026-08-13 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 7 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1877 | Go | 2026-08-13 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 8 | [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag) | 250 | Python | 2026-08-13 | Local RAG MCP server for Claude Code — hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format |
+| 9 | [Faraz6180/Insightpilot-ai](https://github.com/Faraz6180/Insightpilot-ai) | 0 | Python | 2026-08-13 | AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins |
+| 10 | [rodrigopitanga/pavedb-client-elixir](https://github.com/rodrigopitanga/pavedb-client-elixir) | 0 | Elixir | 2026-08-13 | Elixir client for PaveDB |
+| 11 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45621 | Go | 2026-08-13 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 12 | [zudyog/the-applied-ai-engineer](https://github.com/zudyog/the-applied-ai-engineer) | 0 | Python | 2026-08-13 | Production RAG chatbot in Python — hybrid search (Qdrant + BM25), cross-encoder reranking, Redis session memory, and RAG |
+| 13 | [zudyog/the-ai-engineer](https://github.com/zudyog/the-ai-engineer) | 3 | TypeScript | 2026-08-13 | Build a Production RAG System with Python, LangChain, and ChromaDB  Build ShopBot from scratch — a production RAG assist |
+| 14 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-13 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 15 | [zudyog/the-senior-ai-engineer](https://github.com/zudyog/the-senior-ai-engineer) | 0 | Python | 2026-08-13 |  ShopBot v3 — advanced RAG chatbot with LangGraph orchestration, HyDE, Corrective RAG (CRAG), hybrid search, and a fine- |
+| 16 | [zilliztech/knowhere](https://github.com/zilliztech/knowhere) | 377 | C++ | 2026-08-13 | Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN. |
+| 17 | [AliZahiri/ai-rag-platform-blueprint](https://github.com/AliZahiri/ai-rag-platform-blueprint) | 0 | Python | 2026-08-13 | AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes. |
+| 18 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35160 | Python | 2026-08-13 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 19 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16727 | Go | 2026-08-13 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
+| 20 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6211 | Rust | 2026-08-13 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
 | 21 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1331 | Rust | 2026-08-13 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
 | 22 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 6 | Python | 2026-08-13 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
 | 23 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-13 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
