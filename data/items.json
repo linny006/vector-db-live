@@ -1,5 +1,59 @@
 [
   {
+    "description": "Sample of how vector embeddings works using OpenAI API, OpenRouter and Supabase pgvector. ",
+    "id": "izynegallardo/vector-embeddings",
+    "language": "JavaScript",
+    "name": "izynegallardo/vector-embeddings",
+    "stars": 0,
+    "updated_at": "2026-08-13T09:57:09Z",
+    "url": "https://github.com/izynegallardo/vector-embeddings"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 58955,
+    "updated_at": "2026-08-13T09:56:27Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-13T09:52:04Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-13T09:50:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T09:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T09:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -13,27 +67,9 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2395,
+    "stars": 2396,
     "updated_at": "2026-08-13T09:39:05Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T09:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T09:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
@@ -45,22 +81,22 @@
     "url": "https://github.com/vicquick/nobrainr"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33958,
+    "updated_at": "2026-08-13T09:28:52Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a",
     "id": "sindrehaugen/NCE",
     "language": "Python",
     "name": "sindrehaugen/NCE",
     "stars": 0,
-    "updated_at": "2026-08-13T09:27:45Z",
+    "updated_at": "2026-08-13T09:58:40Z",
     "url": "https://github.com/sindrehaugen/NCE"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-13T09:26:21Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Curated, graph-aware retrieval substrate for human-AI teams \u2014 RAG + reranker + curation surface. The casebook to kos's p",
@@ -94,18 +130,9 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15436,
+    "stars": 15437,
     "updated_at": "2026-08-13T09:01:08Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-13T09:00:23Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -130,18 +157,9 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12860,
+    "stars": 12861,
     "updated_at": "2026-08-13T08:57:22Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33956,
-    "updated_at": "2026-08-13T09:28:52Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -158,7 +176,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6211,
-    "updated_at": "2026-08-13T09:42:38Z",
+    "updated_at": "2026-08-13T09:46:09Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 1076,
     "updated_at": "2026-08-13T08:46:05Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 58955,
-    "updated_at": "2026-08-13T09:36:41Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29992,
-    "updated_at": "2026-08-13T09:35:34Z",
+    "updated_at": "2026-08-13T09:46:38Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -286,15 +295,6 @@
     "stars": 220,
     "updated_at": "2026-08-13T08:01:03Z",
     "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "Sample of how vector embeddings works using OpenAI API, OpenRouter and Supabase pgvector. ",
-    "id": "izynegallardo/vector-embeddings",
-    "language": "\u2014",
-    "name": "izynegallardo/vector-embeddings",
-    "stars": 0,
-    "updated_at": "2026-08-13T07:54:38Z",
-    "url": "https://github.com/izynegallardo/vector-embeddings"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -437,7 +437,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16727,
-    "updated_at": "2026-08-13T09:38:53Z",
+    "updated_at": "2026-08-13T09:50:46Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
