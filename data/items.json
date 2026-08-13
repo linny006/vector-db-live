@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T00:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-13T00:43:14Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-13T00:42:26Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64662,
+    "updated_at": "2026-08-13T00:34:53Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Local-first RAG with an incremental ontology over your Markdown, exposed to any AI agent via MCP.",
+    "id": "rafaelnicolett/kern",
+    "language": "Rust",
+    "name": "rafaelnicolett/kern",
+    "stars": 2,
+    "updated_at": "2026-08-13T00:31:40Z",
+    "url": "https://github.com/rafaelnicolett/kern"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T00:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -14,26 +68,8 @@
     "language": "Rust",
     "name": "Tunolabs/xyzdb",
     "stars": 7,
-    "updated_at": "2026-08-13T00:20:42Z",
+    "updated_at": "2026-08-13T00:44:39Z",
     "url": "https://github.com/Tunolabs/xyzdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T00:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T00:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Zilliz Cloud is the managed vector database service built by the Milvus maintainers. It exposes a Control Plane API for ",
@@ -90,13 +126,13 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-13T00:02:54Z",
-    "url": "https://github.com/hanyeol/model-compose"
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1315,
+    "updated_at": "2026-08-13T00:02:10Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-12T23:33:38Z",
     "url": "https://github.com/api-evangelist/myscale"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1315,
-    "updated_at": "2026-08-13T00:02:10Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -311,7 +338,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 215,
-    "updated_at": "2026-08-13T00:20:26Z",
+    "updated_at": "2026-08-13T00:35:09Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -401,7 +428,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1074,
-    "updated_at": "2026-08-13T00:27:10Z",
+    "updated_at": "2026-08-13T00:42:59Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T22:36:26Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "",
-    "id": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
-    "language": "C#",
-    "name": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:35:51Z",
-    "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG"
-  },
-  {
-    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
-    "id": "alegameplays14-del/leica-infinity-2026",
-    "language": "\u2014",
-    "name": "alegameplays14-del/leica-infinity-2026",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:31:59Z",
-    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-08-12T22:30:53Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
   }
 ]
