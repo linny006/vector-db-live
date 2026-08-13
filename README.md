@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 23:00 UTC
+> ⏰ Last updated: 2026-08-13 23:01 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,11 +43,11 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-13 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [feifeifeifeifeifeifei/Market-Narrative-Intelligence-System](https://github.com/feifeifeifeifeifeifei/Market-Narrative-Intelligence-System) | 0 | Python | 2026-08-13 | Turns Truth Social posts into searchable market-narrative events: Python ETL, LLM-assisted classification, ChromaDB sema |
-| 3 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-13 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
-| 4 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1877 | Go | 2026-08-13 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-13 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-13 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-13 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [feifeifeifeifeifeifei/Market-Narrative-Intelligence-System](https://github.com/feifeifeifeifeifeifei/Market-Narrative-Intelligence-System) | 0 | Python | 2026-08-13 | Turns Truth Social posts into searchable market-narrative events: Python ETL, LLM-assisted classification, ChromaDB sema |
+| 4 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-13 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
+| 5 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1877 | Go | 2026-08-13 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-13 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 7 | [Sarishc/Engram-A-Universal-Memory-Layer-for-LLMs](https://github.com/Sarishc/Engram-A-Universal-Memory-Layer-for-LLMs) | 1 | Python | 2026-08-13 | Provider-agnostic semantic memory service with multimodal ingestion, hybrid retrieval, knowledge graphs, and RAG-powered |
 | 8 | [HamzaAli2002/rag-chatbot](https://github.com/HamzaAli2002/rag-chatbot) | 0 | Python | 2026-08-13 | RAG-based chatbot that answers questions strictly from uploaded PDF/DOCX/TXT documents using FastAPI, LangChain, Gemini, |
 | 9 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-13 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |

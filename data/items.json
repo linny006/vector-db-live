@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T23:00:21Z",
+    "updated_at": "2026-08-13T23:01:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T23:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Turns Truth Social posts into searchable market-narrative events: Python ETL, LLM-assisted classification, ChromaDB sema",
@@ -43,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-08-13T22:45:40Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T22:45:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Provider-agnostic semantic memory service with multimodal ingestion, hybrid retrieval, knowledge graphs, and RAG-powered",
