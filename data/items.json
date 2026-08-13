@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T11:45:21Z",
+    "updated_at": "2026-08-13T11:58:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83c\udfc6 SIH 2023 Winning Project | AI-powered Mining Document Intelligence Platform with RAG, semantic search, and intelligent",
+    "id": "Iammilansoni/MiningNiti",
+    "language": "TypeScript",
+    "name": "Iammilansoni/MiningNiti",
+    "stars": 0,
+    "updated_at": "2026-08-13T11:55:18Z",
+    "url": "https://github.com/Iammilansoni/MiningNiti"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15437,
+    "updated_at": "2026-08-13T11:54:42Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
+    "id": "kldhsh123/Afterglow",
+    "language": "Python",
+    "name": "kldhsh123/Afterglow",
+    "stars": 269,
+    "updated_at": "2026-08-13T11:54:20Z",
+    "url": "https://github.com/kldhsh123/Afterglow"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-13T11:48:18Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-13T11:48:05Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-13T11:46:17Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T11:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -68,7 +131,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45624,
-    "updated_at": "2026-08-13T11:34:23Z",
+    "updated_at": "2026-08-13T11:51:11Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -90,21 +153,12 @@
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T11:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29994,
-    "updated_at": "2026-08-13T11:40:22Z",
+    "updated_at": "2026-08-13T11:50:50Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -140,17 +194,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7047,
-    "updated_at": "2026-08-13T11:43:34Z",
+    "updated_at": "2026-08-13T11:54:56Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-13T11:17:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
@@ -194,7 +239,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16728,
-    "updated_at": "2026-08-13T11:44:22Z",
+    "updated_at": "2026-08-13T11:58:36Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9412,
-    "updated_at": "2026-08-13T11:40:44Z",
+    "updated_at": "2026-08-13T11:56:31Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -268,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T10:21:09Z",
     "url": "https://github.com/fjarmula/about-me"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-13T11:26:37Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
@@ -304,15 +340,6 @@
     "stars": 58957,
     "updated_at": "2026-08-13T10:12:34Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-13T10:07:07Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a",
@@ -387,15 +414,6 @@
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15437,
-    "updated_at": "2026-08-13T09:01:08Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6211,
-    "updated_at": "2026-08-13T11:38:10Z",
+    "updated_at": "2026-08-13T11:59:12Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T08:42:53Z",
     "url": "https://github.com/skibusts-ops/zcube-sdk"
-  },
-  {
-    "description": "LLM chatbot trained for analysis the Financial Record which PDF will be processed",
-    "id": "vivekkhillar/RAG-APPLICATION",
-    "language": "Python",
-    "name": "vivekkhillar/RAG-APPLICATION",
-    "stars": 1,
-    "updated_at": "2026-08-13T08:41:37Z",
-    "url": "https://github.com/vivekkhillar/RAG-APPLICATION"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2050,
-    "updated_at": "2026-08-13T08:43:20Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
   }
 ]
