@@ -1,12 +1,39 @@
 [
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
+    "description": "Streamlit app for natural-language Q&A search over your own documents, powered by Pinecone's integrated inference API - ",
+    "id": "Chowdri-Furkhan07/pinecone-semantic-search",
+    "language": "Python",
+    "name": "Chowdri-Furkhan07/pinecone-semantic-search",
     "stars": 1,
-    "updated_at": "2026-08-13T02:32:15Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+    "updated_at": "2026-08-13T02:57:14Z",
+    "url": "https://github.com/Chowdri-Furkhan07/pinecone-semantic-search"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-13T02:55:02Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Tutorial: AWS Bedrock and SQLite-backed RAG agent running in Lambda whose snapshot is a single S3 object.",
+    "id": "equationalapplications/sqlite-s3-agent-tutorial",
+    "language": "TypeScript",
+    "name": "equationalapplications/sqlite-s3-agent-tutorial",
+    "stars": 0,
+    "updated_at": "2026-08-13T02:52:16Z",
+    "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1075,
+    "updated_at": "2026-08-13T02:56:02Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-13T02:30:28Z",
+    "updated_at": "2026-08-13T02:45:22Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -25,6 +52,24 @@
     "stars": 2,
     "updated_at": "2026-08-13T02:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8089,
+    "updated_at": "2026-08-13T02:44:45Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-13T02:32:15Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
@@ -72,15 +117,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1075,
-    "updated_at": "2026-08-13T02:43:13Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -88,15 +124,6 @@
     "stars": 9412,
     "updated_at": "2026-08-13T02:09:14Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8088,
-    "updated_at": "2026-08-13T02:44:45Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -121,7 +148,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33944,
+    "stars": 33945,
     "updated_at": "2026-08-13T01:46:11Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -162,15 +189,6 @@
     "url": "https://github.com/hippmem/hippmem"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-13T01:33:09Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
     "id": "Egoist-Machines/LodeDB",
     "language": "Python",
@@ -202,7 +220,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1320,
+    "stars": 1321,
     "updated_at": "2026-08-13T01:27:10Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -293,7 +311,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-08-13T00:49:26Z",
+    "updated_at": "2026-08-13T02:49:10Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-12T23:35:57Z",
     "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "MyScale is a SQL vector database built on a ClickHouse fork (MyScaleDB), combining high-performance vector search, full-",
-    "id": "api-evangelist/myscale",
-    "language": "\u2014",
-    "name": "api-evangelist/myscale",
-    "stars": 0,
-    "updated_at": "2026-08-12T23:33:38Z",
-    "url": "https://github.com/api-evangelist/myscale"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35156,
-    "updated_at": "2026-08-12T23:33:33Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   }
 ]
