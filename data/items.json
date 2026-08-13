@@ -5,15 +5,114 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T10:15:26Z",
+    "updated_at": "2026-08-13T10:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-13T10:28:31Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35162,
+    "updated_at": "2026-08-13T10:28:12Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-13T10:24:42Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An enterprise-grade blueprint for building Document-Q&A chatbots using RAG (Retrieval-Augmented Generation) and Gemini A",
+    "id": "Chama2001/rag-document-chat-blueprint",
+    "language": "Python",
+    "name": "Chama2001/rag-document-chat-blueprint",
+    "stars": 1,
+    "updated_at": "2026-08-13T10:24:37Z",
+    "url": "https://github.com/Chama2001/rag-document-chat-blueprint"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9412,
+    "updated_at": "2026-08-13T10:23:19Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-08-13T10:22:03Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "Personal AI portfolio assistant powered by RAG and MCP",
+    "id": "fjarmula/about-me",
+    "language": "Python",
+    "name": "fjarmula/about-me",
+    "stars": 1,
+    "updated_at": "2026-08-13T10:21:09Z",
+    "url": "https://github.com/fjarmula/about-me"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-13T10:20:53Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7047,
+    "updated_at": "2026-08-13T10:20:14Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
+    "id": "coolloic/Notebook",
+    "language": "HTML",
+    "name": "coolloic/Notebook",
+    "stars": 0,
+    "updated_at": "2026-08-13T10:18:54Z",
+    "url": "https://github.com/coolloic/Notebook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T10:15:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2397,
+    "stars": 2398,
     "updated_at": "2026-08-13T10:14:04Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -31,18 +130,9 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58955,
+    "stars": 58957,
     "updated_at": "2026-08-13T10:12:34Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Personal AI portfolio assistant powered by RAG and MCP",
-    "id": "fjarmula/about-me",
-    "language": "Python",
-    "name": "fjarmula/about-me",
-    "stars": 1,
-    "updated_at": "2026-08-13T10:09:09Z",
-    "url": "https://github.com/fjarmula/about-me"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -63,6 +153,15 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12863,
+    "updated_at": "2026-08-13T10:06:03Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
     "description": "More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a",
     "id": "sindrehaugen/NCE",
     "language": "Python",
@@ -72,15 +171,6 @@
     "url": "https://github.com/sindrehaugen/NCE"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T10:03:42Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -88,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T10:03:27Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7047,
-    "updated_at": "2026-08-13T10:11:44Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -124,24 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T09:57:09Z",
     "url": "https://github.com/izynegallardo/vector-embeddings"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-13T09:52:04Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-13T09:50:38Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
@@ -180,15 +243,6 @@
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-13T09:11:35Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -207,15 +261,6 @@
     "url": "https://github.com/alibaba/zvec"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12861,
-    "updated_at": "2026-08-13T10:06:03Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -230,7 +275,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6211,
-    "updated_at": "2026-08-13T09:46:09Z",
+    "updated_at": "2026-08-13T10:23:59Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -241,15 +286,6 @@
     "stars": 1076,
     "updated_at": "2026-08-13T08:46:05Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "Python",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-08-13T08:43:28Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
     "description": "ZCube client SDKs \u2014 TypeScript, Go, Python, Rust, plus framework adapters",
@@ -284,7 +320,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29992,
-    "updated_at": "2026-08-13T10:08:53Z",
+    "updated_at": "2026-08-13T10:23:42Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -293,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8090,
-    "updated_at": "2026-08-13T10:10:57Z",
+    "updated_at": "2026-08-13T10:18:19Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -331,15 +367,6 @@
     "stars": 220,
     "updated_at": "2026-08-13T10:06:16Z",
     "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35161,
-    "updated_at": "2026-08-13T10:13:06Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T07:21:35Z",
     "url": "https://github.com/Faraz6180/Insightpilot-ai"
-  },
-  {
-    "description": "Production RAG chatbot in Python \u2014 hybrid search (Qdrant + BM25), cross-encoder reranking, Redis session memory, and RAG",
-    "id": "zudyog/the-applied-ai-engineer",
-    "language": "Python",
-    "name": "zudyog/the-applied-ai-engineer",
-    "stars": 0,
-    "updated_at": "2026-08-13T07:12:41Z",
-    "url": "https://github.com/zudyog/the-applied-ai-engineer"
-  },
-  {
-    "description": "Build a Production RAG System with Python, LangChain, and ChromaDB  Build ShopBot from scratch \u2014 a production RAG assist",
-    "id": "zudyog/the-ai-engineer",
-    "language": "TypeScript",
-    "name": "zudyog/the-ai-engineer",
-    "stars": 3,
-    "updated_at": "2026-08-13T07:10:11Z",
-    "url": "https://github.com/zudyog/the-ai-engineer"
-  },
-  {
-    "description": " ShopBot v3 \u2014 advanced RAG chatbot with LangGraph orchestration, HyDE, Corrective RAG (CRAG), hybrid search, and a fine-",
-    "id": "zudyog/the-senior-ai-engineer",
-    "language": "Python",
-    "name": "zudyog/the-senior-ai-engineer",
-    "stars": 0,
-    "updated_at": "2026-08-13T07:07:07Z",
-    "url": "https://github.com/zudyog/the-senior-ai-engineer"
   }
 ]
