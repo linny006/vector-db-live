@@ -1,11 +1,38 @@
 [
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7047,
+    "updated_at": "2026-08-13T09:39:41Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2395,
+    "updated_at": "2026-08-13T09:39:05Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T09:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T09:30:21Z",
+    "updated_at": "2026-08-13T09:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,15 +63,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7047,
-    "updated_at": "2026-08-13T09:26:20Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Curated, graph-aware retrieval substrate for human-AI teams \u2014 RAG + reranker + curation surface. The casebook to kos's p",
     "id": "ArcavenAE/flyloft",
     "language": "Rust",
@@ -52,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T09:27:45Z",
     "url": "https://github.com/ArcavenAE/flyloft"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T09:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2395,
-    "updated_at": "2026-08-13T09:30:04Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
@@ -130,7 +130,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12859,
+    "stars": 12860,
     "updated_at": "2026-08-13T08:57:22Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -149,7 +149,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11142,
-    "updated_at": "2026-08-13T09:17:21Z",
+    "updated_at": "2026-08-13T09:31:13Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -158,7 +158,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6211,
-    "updated_at": "2026-08-13T08:59:29Z",
+    "updated_at": "2026-08-13T09:42:38Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -176,7 +176,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 58955,
-    "updated_at": "2026-08-13T09:22:04Z",
+    "updated_at": "2026-08-13T09:36:41Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -221,7 +221,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29992,
-    "updated_at": "2026-08-13T09:26:41Z",
+    "updated_at": "2026-08-13T09:35:34Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -239,7 +239,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8090,
-    "updated_at": "2026-08-13T09:29:28Z",
+    "updated_at": "2026-08-13T09:32:55Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -302,7 +302,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35161,
-    "updated_at": "2026-08-13T07:52:17Z",
+    "updated_at": "2026-08-13T09:39:23Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -437,7 +437,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16727,
-    "updated_at": "2026-08-13T09:22:32Z",
+    "updated_at": "2026-08-13T09:38:53Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {

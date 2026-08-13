@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 09:30 UTC
+> ⏰ Last updated: 2026-08-13 09:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-13 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [vicquick/nobrainr](https://github.com/vicquick/nobrainr) | 0 | Python | 2026-08-13 | Persistent memory and knowledge graph for AI agents via MCP — PostgreSQL + pgvector + Ollama |
-| 3 | [sindrehaugen/NCE](https://github.com/sindrehaugen/NCE) | 0 | Python | 2026-08-13 | More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-13 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7047 | Java | 2026-08-13 | The AI search platform |
-| 6 | [ArcavenAE/flyloft](https://github.com/ArcavenAE/flyloft) | 0 | Rust | 2026-08-13 | Curated, graph-aware retrieval substrate for human-AI teams — RAG + reranker + curation surface. The casebook to kos's p |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-13 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 8 | [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) | 2395 | Python | 2026-08-13 | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. |
+| 1 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7047 | Java | 2026-08-13 | The AI search platform |
+| 2 | [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) | 2395 | Python | 2026-08-13 | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-13 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-13 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [vicquick/nobrainr](https://github.com/vicquick/nobrainr) | 0 | Python | 2026-08-13 | Persistent memory and knowledge graph for AI agents via MCP — PostgreSQL + pgvector + Ollama |
+| 6 | [sindrehaugen/NCE](https://github.com/sindrehaugen/NCE) | 0 | Python | 2026-08-13 | More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a |
+| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-13 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 8 | [ArcavenAE/flyloft](https://github.com/ArcavenAE/flyloft) | 0 | Rust | 2026-08-13 | Curated, graph-aware retrieval substrate for human-AI teams — RAG + reranker + curation surface. The casebook to kos's p |
 | 9 | [TheAmitChandra/NeuralCleave](https://github.com/TheAmitChandra/NeuralCleave) | 4 | Python | 2026-08-13 | Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu |
 | 10 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-13 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
 | 11 | [alibaba/zvec](https://github.com/alibaba/zvec) | 15436 | C++ | 2026-08-13 | A lightweight, lightning-fast, in-process vector database |
 | 12 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1877 | Go | 2026-08-13 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 13 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-13 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 14 | [fjarmula/about-me](https://github.com/fjarmula/about-me) | 1 | Python | 2026-08-13 | Personal AI portfolio assistant powered by RAG and MCP |
-| 15 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12859 | Java | 2026-08-13 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
+| 15 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12860 | Java | 2026-08-13 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
 | 16 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33956 | Rust | 2026-08-13 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
 | 17 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11142 | Rust | 2026-08-13 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 18 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6211 | Rust | 2026-08-13 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
