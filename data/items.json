@@ -1,11 +1,47 @@
 [
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16727,
+    "updated_at": "2026-08-13T06:44:08Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6211,
+    "updated_at": "2026-08-13T06:34:40Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-13T06:31:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T06:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T06:30:23Z",
+    "updated_at": "2026-08-13T06:45:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -13,7 +49,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1329,
+    "stars": 1330,
     "updated_at": "2026-08-13T06:19:06Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -34,15 +70,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T06:16:51Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T06:15:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -77,7 +104,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35159,
-    "updated_at": "2026-08-13T06:21:51Z",
+    "updated_at": "2026-08-13T06:34:48Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -130,7 +157,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15435,
+    "stars": 15436,
     "updated_at": "2026-08-13T06:01:22Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1614,
-    "updated_at": "2026-08-13T05:55:34Z",
+    "updated_at": "2026-08-13T06:44:27Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -160,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T05:54:57Z",
     "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16726,
-    "updated_at": "2026-08-13T06:01:09Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
@@ -409,18 +427,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 29990,
+    "stars": 29991,
     "updated_at": "2026-08-13T05:32:48Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-13T05:32:45Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-13T05:29:00Z",
     "url": "https://github.com/BiggerCap/agentops-hub"
-  },
-  {
-    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
-    "id": "hankamarvanova/unified-db",
-    "language": "Swift",
-    "name": "hankamarvanova/unified-db",
-    "stars": 2,
-    "updated_at": "2026-08-13T05:28:54Z",
-    "url": "https://github.com/hankamarvanova/unified-db"
   }
 ]
