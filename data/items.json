@@ -1,21 +1,66 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T14:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-13T14:58:04Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "MCP server for persistent memory using Qdrant vector store",
-    "id": "taraksh01/memoryhub",
-    "language": "TypeScript",
-    "name": "taraksh01/memoryhub",
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
     "stars": 1,
-    "updated_at": "2026-08-13T14:44:28Z",
-    "url": "https://github.com/taraksh01/memoryhub"
+    "updated_at": "2026-08-13T14:56:43Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-13T14:55:25Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-13T14:52:42Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-13T14:51:14Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7047,
+    "updated_at": "2026-08-13T14:46:59Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-08-13T14:46:45Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,8 +68,35 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-13T14:43:49Z",
+    "updated_at": "2026-08-13T14:45:27Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T15:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15437,
+    "updated_at": "2026-08-13T14:45:22Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "MCP server for persistent memory using Qdrant vector store",
+    "id": "taraksh01/memoryhub",
+    "language": "TypeScript",
+    "name": "taraksh01/memoryhub",
+    "stars": 1,
+    "updated_at": "2026-08-13T14:45:28Z",
+    "url": "https://github.com/taraksh01/memoryhub"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -59,7 +131,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1877,
-    "updated_at": "2026-08-13T14:42:33Z",
+    "updated_at": "2026-08-13T14:47:26Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -68,7 +140,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-13T14:36:23Z",
+    "updated_at": "2026-08-13T14:59:01Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -86,17 +158,17 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29995,
-    "updated_at": "2026-08-13T14:32:31Z",
+    "updated_at": "2026-08-13T14:58:39Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-13T14:27:52Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45626,
+    "updated_at": "2026-08-13T14:30:26Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Website for the Weaviate vector database",
@@ -108,15 +180,6 @@
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7047,
-    "updated_at": "2026-08-13T14:23:43Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
     "id": "DopamineDriven/slipstream",
     "language": "TypeScript",
@@ -126,12 +189,21 @@
     "url": "https://github.com/DopamineDriven/slipstream"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8091,
+    "updated_at": "2026-08-13T14:16:31Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "A semantic search application on a corpus of North American Bird data from Wikipedia. Learn about different search metho",
     "id": "pinecone-io/bird-semantic-search",
     "language": "Python",
     "name": "pinecone-io/bird-semantic-search",
     "stars": 2,
-    "updated_at": "2026-08-13T14:14:13Z",
+    "updated_at": "2026-08-13T14:56:35Z",
     "url": "https://github.com/pinecone-io/bird-semantic-search"
   },
   {
@@ -189,30 +261,12 @@
     "url": "https://github.com/pinecone-io/pinecone-neo4j-explorer"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8090,
-    "updated_at": "2026-08-13T14:16:31Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-13T13:47:38Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1076,
-    "updated_at": "2026-08-13T14:43:35Z",
+    "updated_at": "2026-08-13T15:00:17Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -223,15 +277,6 @@
     "stars": 57,
     "updated_at": "2026-08-13T13:43:44Z",
     "url": "https://github.com/pinecone-io/recommender-example-typescript"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45625,
-    "updated_at": "2026-08-13T14:30:26Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
@@ -284,7 +329,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16727,
-    "updated_at": "2026-08-13T14:22:15Z",
+    "updated_at": "2026-08-13T14:53:47Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -329,17 +374,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6334,
-    "updated_at": "2026-08-13T14:43:11Z",
+    "updated_at": "2026-08-13T14:50:32Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-13T13:12:46Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Provides Islamic prayer postural adjustment advice using a source-based RAG architecture grounded in biomechanics and ve",
@@ -378,15 +414,6 @@
     "url": "https://github.com/rmednitzer/core-graph"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-13T13:05:50Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "Sample of how vector embeddings works using OpenAI API, OpenRouter and Supabase pgvector. ",
     "id": "izynegallardo/vector-embeddings",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T12:45:57Z",
     "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:43:57Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-08-13T12:43:33Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
-    "id": "varun29ankuS/shodh-redb",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-redb",
-    "stars": 5,
-    "updated_at": "2026-08-13T12:42:53Z",
-    "url": "https://github.com/varun29ankuS/shodh-redb"
   }
 ]
