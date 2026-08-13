@@ -1,11 +1,29 @@
 [
   {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-13T02:32:15Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T02:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T02:30:22Z",
+    "updated_at": "2026-08-13T02:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,15 +34,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T02:26:40Z",
     "url": "https://github.com/hseshadr/edgeproc-core"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T02:21:46Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -68,7 +77,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1075,
-    "updated_at": "2026-08-13T01:59:00Z",
+    "updated_at": "2026-08-13T02:43:13Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -86,7 +95,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8088,
-    "updated_at": "2026-08-13T01:54:46Z",
+    "updated_at": "2026-08-13T02:44:45Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -112,7 +121,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33943,
+    "stars": 33944,
     "updated_at": "2026-08-13T01:46:11Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -124,6 +133,15 @@
     "stars": 1,
     "updated_at": "2026-08-13T01:44:32Z",
     "url": "https://github.com/AasthaPJoshi/RetrievalLab"
+  },
+  {
+    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 250,
+    "updated_at": "2026-08-13T01:42:53Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -238,7 +256,7 @@
     "id": "oceanbase/oceanbase",
     "language": "C++",
     "name": "oceanbase/oceanbase",
-    "stars": 10236,
+    "stars": 10237,
     "updated_at": "2026-08-13T01:01:23Z",
     "url": "https://github.com/oceanbase/oceanbase"
   },
@@ -301,7 +319,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64663,
+    "stars": 64666,
     "updated_at": "2026-08-13T00:34:53Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -378,15 +396,6 @@
     "url": "https://github.com/api-evangelist/surrealdb"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-12T23:58:05Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
     "id": "api-evangelist/sequoiadb",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 35156,
     "updated_at": "2026-08-12T23:33:33Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Mixedbread is a Berlin-based AI search and retrieval platform. It provides embeddings (mxbai-embed, Wholembed v3), reran",
-    "id": "api-evangelist/mixedbread-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/mixedbread-ai",
-    "stars": 1,
-    "updated_at": "2026-08-12T23:31:59Z",
-    "url": "https://github.com/api-evangelist/mixedbread-ai"
   }
 ]
