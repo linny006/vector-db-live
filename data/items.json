@@ -1,11 +1,83 @@
 [
   {
+    "description": "Enterprise-grade RAG platform enabling 100% private, offline chat with your documents. Built with FastAPI, React, Chroma",
+    "id": "AmulaManojSagar-18/Retriva-AI",
+    "language": "Python",
+    "name": "AmulaManojSagar-18/Retriva-AI",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:12:24Z",
+    "url": "https://github.com/AmulaManojSagar-18/Retriva-AI"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-08-13T12:09:46Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-13T12:09:19Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 4,
+    "updated_at": "2026-08-13T12:08:30Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5730,
+    "updated_at": "2026-08-13T12:07:54Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:02:24Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-13T12:02:18Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-08-13T12:01:44Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-13T11:59:28Z",
+    "updated_at": "2026-08-13T12:00:24Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-13T11:58:20Z",
+    "updated_at": "2026-08-13T12:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +95,7 @@
     "language": "TypeScript",
     "name": "Iammilansoni/MiningNiti",
     "stars": 0,
-    "updated_at": "2026-08-13T11:55:18Z",
+    "updated_at": "2026-08-13T12:07:48Z",
     "url": "https://github.com/Iammilansoni/MiningNiti"
   },
   {
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 29994,
-    "updated_at": "2026-08-13T11:50:50Z",
+    "updated_at": "2026-08-13T12:07:52Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -180,22 +252,22 @@
     "url": "https://github.com/ishitaacharya2005/Multi-PDF-AI-System"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-13T11:23:20Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7047,
-    "updated_at": "2026-08-13T11:54:56Z",
+    "updated_at": "2026-08-13T12:12:31Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2399,
+    "updated_at": "2026-08-13T11:15:23Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
@@ -205,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T11:12:36Z",
     "url": "https://github.com/Yigtwxx/OracleX"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2398,
-    "updated_at": "2026-08-13T11:15:23Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
@@ -239,7 +302,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16728,
-    "updated_at": "2026-08-13T11:59:41Z",
+    "updated_at": "2026-08-13T12:13:20Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-13T09:29:51Z",
     "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33959,
-    "updated_at": "2026-08-13T11:40:41Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Curated, graph-aware retrieval substrate for human-AI teams \u2014 RAG + reranker + curation surface. The casebook to kos's p",
-    "id": "ArcavenAE/flyloft",
-    "language": "Rust",
-    "name": "ArcavenAE/flyloft",
-    "stars": 0,
-    "updated_at": "2026-08-13T09:27:45Z",
-    "url": "https://github.com/ArcavenAE/flyloft"
-  },
-  {
-    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 4,
-    "updated_at": "2026-08-13T09:13:31Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11142,
-    "updated_at": "2026-08-13T11:16:48Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6211,
-    "updated_at": "2026-08-13T11:59:12Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1076,
-    "updated_at": "2026-08-13T08:46:05Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "ZCube client SDKs \u2014 TypeScript, Go, Python, Rust, plus framework adapters",
-    "id": "skibusts-ops/zcube-sdk",
-    "language": "TypeScript",
-    "name": "skibusts-ops/zcube-sdk",
-    "stars": 0,
-    "updated_at": "2026-08-13T08:42:53Z",
-    "url": "https://github.com/skibusts-ops/zcube-sdk"
   }
 ]
