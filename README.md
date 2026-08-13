@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-13 02:15 UTC
+> ⏰ Last updated: 2026-08-13 02:21 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-13 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 86 | Rust | 2026-08-13 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 3 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-13 | Object storage for the AI age |
-| 4 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-13 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 5 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45616 | Go | 2026-08-13 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-13 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-13 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-13 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 86 | Rust | 2026-08-13 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 4 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-13 | Object storage for the AI age |
+| 5 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-13 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 6 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45616 | Go | 2026-08-13 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
 | 7 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9412 | Rust | 2026-08-13 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
 | 8 | [MariaDB/server](https://github.com/MariaDB/server) | 8088 | C++ | 2026-08-13 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 9 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-13 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
 | 10 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 216 | Rust | 2026-08-13 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 11 | [AasthaPJoshi/RetrievalLab](https://github.com/AasthaPJoshi/RetrievalLab) | 1 | Python | 2026-08-13 | Cross-industry RAG benchmarking platform, 10 chunking strategies, 3 retrieval modes (BM25/Vector/Hybrid RRF), 5-node Lan |
-| 12 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6616 | Python | 2026-08-13 |  Memory library for building stateful agents |
-| 13 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1074 | Java | 2026-08-13 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 14 | [hippmem/hippmem](https://github.com/hippmem/hippmem) | 2 | Rust | 2026-08-13 | A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio |
-| 15 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-13 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 16 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33942 | Rust | 2026-08-13 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 11 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 33943 | Rust | 2026-08-13 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 12 | [AasthaPJoshi/RetrievalLab](https://github.com/AasthaPJoshi/RetrievalLab) | 1 | Python | 2026-08-13 | Cross-industry RAG benchmarking platform, 10 chunking strategies, 3 retrieval modes (BM25/Vector/Hybrid RRF), 5-node Lan |
+| 13 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6616 | Python | 2026-08-13 |  Memory library for building stateful agents |
+| 14 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1074 | Java | 2026-08-13 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 15 | [hippmem/hippmem](https://github.com/hippmem/hippmem) | 2 | Rust | 2026-08-13 | A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio |
+| 16 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-13 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 17 | [Egoist-Machines/LodeDB](https://github.com/Egoist-Machines/LodeDB) | 92 | Python | 2026-08-13 | World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate |
 | 18 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-13 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
 | 19 | [furkankayam/spring-boot-med-rag](https://github.com/furkankayam/spring-boot-med-rag) | 0 | Java | 2026-08-13 | 💊 MedRAG — Medical RAG (Retrieval-Augmented Generation) Service |
