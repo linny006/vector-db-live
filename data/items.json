@@ -1,12 +1,57 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1324,
+    "updated_at": "2026-08-13T15:40:40Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T15:37:46Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A benchmarking playground for FAISS vector indexes comparing indexes on recall, latency, and memory, with vector retriev",
+    "id": "SitanshuA091/VectorBench",
+    "language": "Python",
+    "name": "SitanshuA091/VectorBench",
+    "stars": 0,
+    "updated_at": "2026-08-13T15:36:29Z",
+    "url": "https://github.com/SitanshuA091/VectorBench"
+  },
+  {
     "description": "RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech",
     "id": "Vijay190899/disclosure-rag",
     "language": "Python",
     "name": "Vijay190899/disclosure-rag",
     "stars": 0,
-    "updated_at": "2026-08-13T15:28:23Z",
+    "updated_at": "2026-08-13T15:35:01Z",
     "url": "https://github.com/Vijay190899/disclosure-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T15:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-13T15:28:33Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "The AI search platform",
@@ -34,42 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-13T15:21:16Z",
     "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1324,
-    "updated_at": "2026-08-13T15:29:20Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T15:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T15:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-13T15:28:33Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -104,7 +113,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1077,
-    "updated_at": "2026-08-13T15:20:00Z",
+    "updated_at": "2026-08-13T15:32:15Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -122,7 +131,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6334,
-    "updated_at": "2026-08-13T15:25:32Z",
+    "updated_at": "2026-08-13T15:38:54Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -175,7 +184,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15437,
+    "stars": 15438,
     "updated_at": "2026-08-13T14:45:22Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -203,7 +212,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6629,
-    "updated_at": "2026-08-13T14:39:19Z",
+    "updated_at": "2026-08-13T15:40:48Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -374,7 +383,7 @@
     "language": "Python",
     "name": "vishalChoudhary-git/ai-platform",
     "stars": 0,
-    "updated_at": "2026-08-13T14:20:35Z",
+    "updated_at": "2026-08-13T15:34:40Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-13T13:06:11Z",
     "url": "https://github.com/rmednitzer/core-graph"
-  },
-  {
-    "description": "Sample of how vector embeddings works using OpenAI API, OpenRouter and Supabase pgvector. ",
-    "id": "izynegallardo/vector-embeddings",
-    "language": "JavaScript",
-    "name": "izynegallardo/vector-embeddings",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:54:33Z",
-    "url": "https://github.com/izynegallardo/vector-embeddings"
   }
 ]
