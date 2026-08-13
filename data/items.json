@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-13T14:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-13T14:29:23Z",
+    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -14,8 +14,71 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1877,
-    "updated_at": "2026-08-13T14:15:11Z",
+    "updated_at": "2026-08-13T14:25:43Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-08-13T14:24:47Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7047,
+    "updated_at": "2026-08-13T14:23:43Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
+    "id": "DopamineDriven/slipstream",
+    "language": "TypeScript",
+    "name": "DopamineDriven/slipstream",
+    "stars": 0,
+    "updated_at": "2026-08-13T14:23:33Z",
+    "url": "https://github.com/DopamineDriven/slipstream"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-13T14:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-13T14:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A semantic search application on a corpus of North American Bird data from Wikipedia. Learn about different search metho",
+    "id": "pinecone-io/bird-semantic-search",
+    "language": "Python",
+    "name": "pinecone-io/bird-semantic-search",
+    "stars": 2,
+    "updated_at": "2026-08-13T14:14:13Z",
+    "url": "https://github.com/pinecone-io/bird-semantic-search"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-13T14:12:50Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6211,
-    "updated_at": "2026-08-13T14:14:46Z",
+    "updated_at": "2026-08-13T14:23:52Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -54,24 +117,6 @@
     "url": "https://github.com/yantrikos/yantrikdb-mcp"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7047,
-    "updated_at": "2026-08-13T14:11:13Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T14:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The documentation for SurrealDB, powered by Astro",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
@@ -79,15 +124,6 @@
     "stars": 119,
     "updated_at": "2026-08-13T13:53:53Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-13T14:09:03Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "Demo integrating Pinecone with Neo4j to analyze and explore Supreme Court cases.",
@@ -104,7 +140,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4416,
-    "updated_at": "2026-08-13T14:06:33Z",
+    "updated_at": "2026-08-13T14:17:00Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -113,7 +149,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8090,
-    "updated_at": "2026-08-13T13:49:02Z",
+    "updated_at": "2026-08-13T14:16:31Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1076,
-    "updated_at": "2026-08-13T14:08:26Z",
+    "updated_at": "2026-08-13T14:24:49Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -167,7 +203,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-13T13:33:21Z",
+    "updated_at": "2026-08-13T14:27:52Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33960,
-    "updated_at": "2026-08-13T14:09:02Z",
+    "updated_at": "2026-08-13T14:18:18Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16727,
-    "updated_at": "2026-08-13T13:53:46Z",
+    "updated_at": "2026-08-13T14:22:15Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "vishalChoudhary-git/ai-platform",
     "stars": 0,
-    "updated_at": "2026-08-13T13:54:25Z",
+    "updated_at": "2026-08-13T14:20:35Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-13T14:12:50Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
     "id": "jourdaninorder609/mind-query",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 15437,
     "updated_at": "2026-08-13T12:37:16Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-08-13T12:36:50Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-08-13T12:35:55Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 467,
-    "updated_at": "2026-08-13T12:34:44Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   }
 ]
