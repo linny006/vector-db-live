@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-14 17:45 UTC
+> ⏰ Last updated: 2026-08-14 17:51 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,31 +42,31 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-14 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 2 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35181 | Python | 2026-08-14 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 3 | [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) | 3251 | TypeScript | 2026-08-14 | Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem |
-| 4 | [felixzhu97/explore-ai](https://github.com/felixzhu97/explore-ai) | 1 | Java | 2026-08-14 | A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring |
-| 5 | [schmitech/orbit](https://github.com/schmitech/orbit) | 339 | Python | 2026-08-14 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 6 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-14 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 7 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30021 | Python | 2026-08-14 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 8 | [verygoodplugins/automem](https://github.com/verygoodplugins/automem) | 799 | Python | 2026-08-14 | Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessi |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-14 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 10 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1614 | Python | 2026-08-14 | Unified multimodal backend for AI data apps |
-| 11 | [thameema/memnos](https://github.com/thameema/memnos) | 7 | Python | 2026-08-14 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
-| 12 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 3 | Python | 2026-08-14 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
-| 13 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-14 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 14 | [Nayjest/ai-microcore](https://github.com/Nayjest/ai-microcore) | 107 | Python | 2026-08-14 | A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps. |
-| 15 | [vicquick/nobrainr](https://github.com/vicquick/nobrainr) | 1 | Python | 2026-08-14 | Persistent memory and knowledge graph for AI agents via MCP — PostgreSQL + pgvector + Ollama |
-| 16 | [pinecone-io/pinecone-neo4j-explorer](https://github.com/pinecone-io/pinecone-neo4j-explorer) | 10 | TypeScript | 2026-08-14 | Demo integrating Pinecone with Neo4j to analyze and explore Supreme Court cases. |
-| 17 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6338 | TypeScript | 2026-08-14 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
-| 18 | [cricsion/LinkMind](https://github.com/cricsion/LinkMind) | 1 | Python | 2026-08-14 | LinkMind is an intelligent conversational ReAct agent built with LangChain and Streamlit. It leverages a chain-of-though |
-| 19 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1877 | Go | 2026-08-14 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 20 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-14 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 21 | [Bitwarelabscom/bwmem](https://github.com/Bitwarelabscom/bwmem) | 1 | TypeScript | 2026-08-14 | Memory SDK for AI agents — bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid |
-| 22 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1321 | Rust | 2026-08-14 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 23 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-08-14 | Identity and Authorization Service with Vector and AI Integration |
-| 24 | [sindrehaugen/NCE](https://github.com/sindrehaugen/NCE) | 0 | Python | 2026-08-14 | More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a |
-| 25 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-14 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
+| 1 | [Bitwarelabscom/bwmem](https://github.com/Bitwarelabscom/bwmem) | 1 | TypeScript | 2026-08-14 | Memory SDK for AI agents — bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid |
+| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-14 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 3 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-14 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-14 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-14 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 6 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-14 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 7 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35181 | Python | 2026-08-14 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 8 | [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) | 3251 | TypeScript | 2026-08-14 | Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem |
+| 9 | [felixzhu97/explore-ai](https://github.com/felixzhu97/explore-ai) | 1 | Java | 2026-08-14 | A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring |
+| 10 | [schmitech/orbit](https://github.com/schmitech/orbit) | 339 | Python | 2026-08-14 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 11 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-14 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 12 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30021 | Python | 2026-08-14 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 13 | [verygoodplugins/automem](https://github.com/verygoodplugins/automem) | 799 | Python | 2026-08-14 | Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessi |
+| 14 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1614 | Python | 2026-08-14 | Unified multimodal backend for AI data apps |
+| 15 | [thameema/memnos](https://github.com/thameema/memnos) | 7 | Python | 2026-08-14 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
+| 16 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 3 | Python | 2026-08-14 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
+| 17 | [Nayjest/ai-microcore](https://github.com/Nayjest/ai-microcore) | 107 | Python | 2026-08-14 | A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps. |
+| 18 | [vicquick/nobrainr](https://github.com/vicquick/nobrainr) | 1 | Python | 2026-08-14 | Persistent memory and knowledge graph for AI agents via MCP — PostgreSQL + pgvector + Ollama |
+| 19 | [pinecone-io/pinecone-neo4j-explorer](https://github.com/pinecone-io/pinecone-neo4j-explorer) | 10 | TypeScript | 2026-08-14 | Demo integrating Pinecone with Neo4j to analyze and explore Supreme Court cases. |
+| 20 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6338 | TypeScript | 2026-08-14 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
+| 21 | [cricsion/LinkMind](https://github.com/cricsion/LinkMind) | 1 | Python | 2026-08-14 | LinkMind is an intelligent conversational ReAct agent built with LangChain and Streamlit. It leverages a chain-of-though |
+| 22 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1877 | Go | 2026-08-14 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 23 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1321 | Rust | 2026-08-14 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 24 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-08-14 | Identity and Authorization Service with Vector and AI Integration |
+| 25 | [sindrehaugen/NCE](https://github.com/sindrehaugen/NCE) | 0 | Python | 2026-08-14 | More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a |
 | 26 | [MariaDB/server](https://github.com/MariaDB/server) | 8098 | C++ | 2026-08-14 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 27 | [JohnnyHyytiainen/glossary_db](https://github.com/JohnnyHyytiainen/glossary_db) | 3 | Python | 2026-08-14 | Personal Glossary Database to help keep track on terms and theory for school and future work |
 | 28 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 7 | Rust | 2026-08-14 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |

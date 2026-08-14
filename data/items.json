@@ -1,5 +1,50 @@
 [
   {
+    "description": "Memory SDK for AI agents \u2014 bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid",
+    "id": "Bitwarelabscom/bwmem",
+    "language": "TypeScript",
+    "name": "Bitwarelabscom/bwmem",
+    "stars": 1,
+    "updated_at": "2026-08-14T17:51:05Z",
+    "url": "https://github.com/Bitwarelabscom/bwmem"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-14T17:47:11Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-08-14T17:48:09Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T17:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T17:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30021,
-    "updated_at": "2026-08-14T17:38:46Z",
+    "updated_at": "2026-08-14T17:47:32Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 799,
     "updated_at": "2026-08-14T17:37:47Z",
     "url": "https://github.com/verygoodplugins/automem"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T17:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -106,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-08-14T17:43:31Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T17:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
@@ -171,24 +198,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-14T17:18:56Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Memory SDK for AI agents \u2014 bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid",
-    "id": "Bitwarelabscom/bwmem",
-    "language": "TypeScript",
-    "name": "Bitwarelabscom/bwmem",
-    "stars": 1,
-    "updated_at": "2026-08-14T17:14:09Z",
-    "url": "https://github.com/Bitwarelabscom/bwmem"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T17:09:34Z",
     "url": "https://github.com/sindrehaugen/NCE"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 16,
-    "updated_at": "2026-08-14T17:03:00Z",
-    "url": "https://github.com/mmnto-ai/totem"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -266,7 +266,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-14T16:50:07Z",
+    "updated_at": "2026-08-14T17:51:01Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -392,7 +392,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-14T17:24:07Z",
+    "updated_at": "2026-08-14T17:48:24Z",
     "url": "https://github.com/crate/crate"
   },
   {
