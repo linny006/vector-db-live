@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T04:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "TypeScript example: build a content-based article recommender using Pinecone similarity search.",
+    "id": "pinecone-io/recommender-example-typescript",
+    "language": "TypeScript",
+    "name": "pinecone-io/recommender-example-typescript",
+    "stars": 57,
+    "updated_at": "2026-08-14T03:50:40Z",
+    "url": "https://github.com/pinecone-io/recommender-example-typescript"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-08-14T03:47:38Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T03:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "pinecone-io/bird-semantic-search",
     "stars": 2,
-    "updated_at": "2026-08-14T03:44:54Z",
+    "updated_at": "2026-08-14T03:46:41Z",
     "url": "https://github.com/pinecone-io/bird-semantic-search"
   },
   {
@@ -32,7 +68,7 @@
     "language": "TypeScript",
     "name": "pinecone-io/vercel-chatbot-template",
     "stars": 16,
-    "updated_at": "2026-08-14T03:45:12Z",
+    "updated_at": "2026-08-14T03:47:01Z",
     "url": "https://github.com/pinecone-io/vercel-chatbot-template"
   },
   {
@@ -70,24 +106,6 @@
     "stars": 8093,
     "updated_at": "2026-08-14T03:32:35Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T03:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T03:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native NoSQL + vector database with built-in semantic search for RAG & AI agents \u2014 the Dart & Flutter client. Self-ho",
@@ -430,23 +448,5 @@
     "stars": 77,
     "updated_at": "2026-08-14T01:57:58Z",
     "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30007,
-    "updated_at": "2026-08-14T01:57:55Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-08-14T01:56:38Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   }
 ]
