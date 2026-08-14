@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-14T08:30:23Z",
+    "updated_at": "2026-08-14T08:42:53Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Ultrafast native C++ JNI in-memory vector database for the FastJava AI ecosystem",
+    "id": "andrestubbe/FastAIVectorDB",
+    "language": "Java",
+    "name": "andrestubbe/FastAIVectorDB",
+    "stars": 0,
+    "updated_at": "2026-08-14T08:42:43Z",
+    "url": "https://github.com/andrestubbe/FastAIVectorDB"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-14T08:38:58Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12868,
+    "updated_at": "2026-08-14T08:33:38Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T08:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -18,13 +54,22 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "\ud83d\uddc4\ufe0f Ultrafast native C++ JNI in-memory vector database for the FastJava AI ecosystem",
-    "id": "andrestubbe/FastAIVectorDB",
-    "language": "Java",
-    "name": "andrestubbe/FastAIVectorDB",
-    "stars": 0,
-    "updated_at": "2026-08-14T08:27:52Z",
-    "url": "https://github.com/andrestubbe/FastAIVectorDB"
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30011,
+    "updated_at": "2026-08-14T08:34:36Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16729,
+    "updated_at": "2026-08-14T08:43:13Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -50,7 +95,7 @@
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-08-14T08:16:17Z",
+    "updated_at": "2026-08-14T08:34:11Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -59,17 +104,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-14T08:16:33Z",
+    "updated_at": "2026-08-14T08:36:07Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T08:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -86,7 +122,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 272,
-    "updated_at": "2026-08-14T08:27:52Z",
+    "updated_at": "2026-08-14T08:35:30Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -97,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-08-14T08:08:13Z",
     "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12868,
-    "updated_at": "2026-08-14T08:04:28Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "The AI search platform",
@@ -162,6 +189,15 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45634,
+    "updated_at": "2026-08-14T07:48:07Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -198,15 +234,6 @@
     "url": "https://github.com/vainiovesa/vector-bible-api"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-14T08:10:05Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
     "id": "varun29ankuS/shodh-redb",
     "language": "Rust",
@@ -214,15 +241,6 @@
     "stars": 5,
     "updated_at": "2026-08-14T07:48:43Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30010,
-    "updated_at": "2026-08-14T08:25:23Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Official Weaviate TypeScript Client",
@@ -266,7 +284,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9413,
-    "updated_at": "2026-08-14T08:15:50Z",
+    "updated_at": "2026-08-14T08:39:47Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11146,
-    "updated_at": "2026-08-14T08:25:05Z",
+    "updated_at": "2026-08-14T08:37:19Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -403,24 +421,6 @@
     "stars": 6,
     "updated_at": "2026-08-14T06:14:18Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45633,
-    "updated_at": "2026-08-14T07:48:07Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16728,
-    "updated_at": "2026-08-14T08:20:13Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "ZCube \u2014 embedded engine: columnar SQL + vector search + in-process embedding generation. Own HNSW, time-travel queries, ",
