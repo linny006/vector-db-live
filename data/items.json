@@ -1,5 +1,50 @@
 [
   {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 7,
+    "updated_at": "2026-08-14T20:24:36Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
+    "id": "geckse/markdown-vdb",
+    "language": "Rust",
+    "name": "geckse/markdown-vdb",
+    "stars": 23,
+    "updated_at": "2026-08-14T20:23:45Z",
+    "url": "https://github.com/geckse/markdown-vdb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-14T20:19:32Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-14T20:18:13Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T20:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -41,17 +86,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1080,
-    "updated_at": "2026-08-14T20:10:08Z",
+    "updated_at": "2026-08-14T20:20:30Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "\ud83e\udd16 Hands-on learning and projects covering LLMs, LangChain, RAG, AI Agents, tool calling, vector databases, multimodal AI",
-    "id": "saichilukuri96/Basics-of-AI-Agents",
-    "language": "\u2014",
-    "name": "saichilukuri96/Basics-of-AI-Agents",
-    "stars": 0,
-    "updated_at": "2026-08-14T20:08:11Z",
-    "url": "https://github.com/saichilukuri96/Basics-of-AI-Agents"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -94,18 +130,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1324,
+    "stars": 1325,
     "updated_at": "2026-08-14T20:01:16Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T20:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Lifelong AI companion with four personas, semantic memory across conversations, and voice in English, Hindi and Kannada.",
@@ -167,7 +194,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-14T19:46:32Z",
+    "updated_at": "2026-08-14T20:28:45Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -178,15 +205,6 @@
     "stars": 7050,
     "updated_at": "2026-08-14T19:46:08Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-14T19:40:26Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
@@ -211,7 +229,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6648,
+    "stars": 6649,
     "updated_at": "2026-08-14T19:38:08Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -270,15 +288,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-14T19:04:02Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
     "description": "Profile README",
     "id": "rehan243/rehan243",
     "language": "\u2014",
@@ -297,6 +306,15 @@
     "url": "https://github.com/skibusts-ops/zcube"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45638,
+    "updated_at": "2026-08-14T18:56:26Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
@@ -313,15 +331,6 @@
     "stars": 87,
     "updated_at": "2026-08-14T19:51:39Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 7,
-    "updated_at": "2026-08-14T18:50:38Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -349,15 +358,6 @@
     "stars": 5,
     "updated_at": "2026-08-14T18:30:03Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45637,
-    "updated_at": "2026-08-14T18:56:26Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
@@ -401,7 +401,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 33975,
-    "updated_at": "2026-08-14T18:06:03Z",
+    "updated_at": "2026-08-14T20:25:27Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
