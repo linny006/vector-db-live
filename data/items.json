@@ -1,11 +1,56 @@
 [
   {
+    "description": "DocMind AI backend \u2014 .NET 8 Clean Architecture + CQRS RAG API (Semantic Kernel, Qdrant, PostgreSQL)",
+    "id": "ChamathDilshanC/backend-DocMind-AI",
+    "language": "C#",
+    "name": "ChamathDilshanC/backend-DocMind-AI",
+    "stars": 0,
+    "updated_at": "2026-08-14T10:58:46Z",
+    "url": "https://github.com/ChamathDilshanC/backend-DocMind-AI"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-14T10:52:02Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-14T10:48:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11148,
+    "updated_at": "2026-08-14T10:46:48Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-14T10:45:53Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-14T10:41:53Z",
+    "updated_at": "2026-08-14T10:45:25Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -14,17 +59,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-14T10:45:22Z",
+    "updated_at": "2026-08-14T11:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-14T10:34:41Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30014,
-    "updated_at": "2026-08-14T10:43:43Z",
+    "updated_at": "2026-08-14T10:59:35Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 67,
     "updated_at": "2026-08-14T10:23:24Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-14T10:22:23Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Postgres MCP Server",
@@ -194,7 +221,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-14T10:25:13Z",
+    "updated_at": "2026-08-14T10:49:36Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 272,
     "updated_at": "2026-08-14T09:53:35Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-14T09:50:09Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Samples showcasing Spanner multi model capabilities - across relational, key/value, vector, full-text search and graph",
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "vicquick/nobrainr",
     "stars": 0,
-    "updated_at": "2026-08-14T09:08:53Z",
+    "updated_at": "2026-08-14T10:58:41Z",
     "url": "https://github.com/vicquick/nobrainr"
   },
   {
@@ -328,18 +346,9 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2415,
+    "stars": 2416,
     "updated_at": "2026-08-14T09:06:49Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11148,
-    "updated_at": "2026-08-14T09:03:10Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -356,7 +365,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9413,
-    "updated_at": "2026-08-14T10:44:53Z",
+    "updated_at": "2026-08-14T10:59:55Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T07:53:40Z",
     "url": "https://github.com/vsiddina409-AI/Enterprise-RAG-LangChain"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1312,
-    "updated_at": "2026-08-14T07:47:54Z",
-    "url": "https://github.com/xerj-org/xerj"
   }
 ]
