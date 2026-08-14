@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-14 17:00 UTC
+> ⏰ Last updated: 2026-08-14 17:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1877 | Go | 2026-08-14 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-14 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 2 | [Bitwarelabscom/bwmem](https://github.com/Bitwarelabscom/bwmem) | 1 | TypeScript | 2026-08-14 | Memory SDK for AI agents — bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid |
-| 3 | [JohnnyHyytiainen/glossary_db](https://github.com/JohnnyHyytiainen/glossary_db) | 3 | Python | 2026-08-14 | Personal Glossary Database to help keep track on terms and theory for school and future work |
-| 4 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 7 | Rust | 2026-08-14 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
-| 5 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6337 | TypeScript | 2026-08-14 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
-| 6 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-14 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 7 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 3 | Python | 2026-08-14 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-14 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-14 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-14 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 11 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-14 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 12 | [pinecone-io/pulumi-pinecone-byoc](https://github.com/pinecone-io/pulumi-pinecone-byoc) | 13 | Python | 2026-08-14 | Pinecone BYOC |
-| 13 | [pinecone-io/pinecone-agents-ref](https://github.com/pinecone-io/pinecone-agents-ref) | 5 | Python | 2026-08-14 | Specialized agent instructions for the Pinecone vector database, designed to be integrated into `AGENTS.md` file for use |
-| 14 | [piyalidas10/AI](https://github.com/piyalidas10/AI) | 0 | Python | 2026-08-14 | AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker |
-| 15 | [jazz-max/ruflo-hub](https://github.com/jazz-max/ruflo-hub) | 4 | JavaScript | 2026-08-14 | Docker container for centralized Ruflo MCP server with PostgreSQL (RuVector). Architecture: Ruflo (stdio) → Express prox |
-| 16 | [topk-io/topk](https://github.com/topk-io/topk) | 90 | Rust | 2026-08-14 | High-quality search for AI-native applications. |
-| 17 | [thameema/memnos](https://github.com/thameema/memnos) | 7 | Python | 2026-08-14 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
-| 18 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-14 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 19 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-14 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 20 | [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) | 67 | Python | 2026-08-14 | The official Pinecone marketplace for Claude Code Plugins |
-| 21 | [taraksh01/memoryhub](https://github.com/taraksh01/memoryhub) | 1 | TypeScript | 2026-08-14 | MCP server for persistent memory using Qdrant vector store |
-| 22 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-14 | Self-hosted permission-aware context layer for agents. MCP + API. |
-| 23 | [pinecone-io/vercel-chatbot-template](https://github.com/pinecone-io/vercel-chatbot-template) | 16 | TypeScript | 2026-08-14 | Next.js chatbot example backed by Pinecone and the OpenAI API, deployable to Vercel. |
-| 24 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-14 |  |
-| 25 | [pinecone-io/n8n-templates](https://github.com/pinecone-io/n8n-templates) | 12 | — | 2026-08-14 | A collection of ready-to-use n8n workflow templates for building intelligent automations using Pinecone. |
-| 26 | [TanNguyen234/VietLex-Tech-Spec](https://github.com/TanNguyen234/VietLex-Tech-Spec) | 0 | Python | 2026-08-14 | Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation. |
-| 27 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-14 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 28 | [crate/crate](https://github.com/crate/crate) | 4417 | Java | 2026-08-14 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
-| 29 | [sindrehaugen/NCE](https://github.com/sindrehaugen/NCE) | 0 | Python | 2026-08-14 | More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a |
-| 30 | [pinecone-io/getting-started-with-pinecone-webinar](https://github.com/pinecone-io/getting-started-with-pinecone-webinar) | 3 | Python | 2026-08-14 | Repository with example code and data used in the monthly Getting Started with Pinecone Webinar. |
-| 31 | [pinecone-io/bird-semantic-search](https://github.com/pinecone-io/bird-semantic-search) | 2 | Python | 2026-08-14 | A semantic search application on a corpus of North American Bird data from Wikipedia. Learn about different search metho |
-| 32 | [pinecone-io/better-rag-retrieval-marimo](https://github.com/pinecone-io/better-rag-retrieval-marimo) | 3 | Python | 2026-08-14 | Learn how to diagnose and apply different retrieval methods for different purposes with Pinecone. |
-| 33 | [pinecone-io/examples](https://github.com/pinecone-io/examples) | 3035 | Jupyter Notebook | 2026-08-14 | Jupyter Notebooks to help you get hands-on with Pinecone vector databases |
-| 34 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 51639 | Python | 2026-08-14 | LlamaIndex is the leading document agent and OCR platform |
-| 35 | [KashifMaqbool/Generative_AI_Engineering_Specialization](https://github.com/KashifMaqbool/Generative_AI_Engineering_Specialization) | 1 | Jupyter Notebook | 2026-08-14 | This repository has Fundamentals and Advanced concepts in Generative Artificial Intelligence. It has hands-on Generative |
-| 36 | [pinecone-io/zapier-integration](https://github.com/pinecone-io/zapier-integration) | 0 | TypeScript | 2026-08-14 | Zapier integration app for Pinecone. |
-| 37 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-14 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 38 | [pinecone-io/pinecone-vscode](https://github.com/pinecone-io/pinecone-vscode) | 2 | TypeScript | 2026-08-14 | VS Code extension for Pinecone (Database and Assistant) |
-| 39 | [pinecone-io/pinecone-api](https://github.com/pinecone-io/pinecone-api) | 9 | — | 2026-08-14 | Public OpenAPI specs for Pinecone RESTful APIs and Protobuf definitions |
-| 40 | [pinecone-io/pinecone-rust-client](https://github.com/pinecone-io/pinecone-rust-client) | 23 | Rust | 2026-08-14 | The official Rust client for the Pinecone vector database |
-| 41 | [pinecone-io/pinecone-java-client](https://github.com/pinecone-io/pinecone-java-client) | 50 | Java | 2026-08-14 | The official Java client for the Pinecone vector database |
-| 42 | [pinecone-io/pinecone-ts-client](https://github.com/pinecone-io/pinecone-ts-client) | 278 | TypeScript | 2026-08-14 | The official TypeScript/Node client for the Pinecone vector database |
-| 43 | [tryAGI/Weaviate](https://github.com/tryAGI/Weaviate) | 2 | C# | 2026-08-14 | C# SDK for the Weaviate API -- open-source vector database |
-| 44 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 223 | Rust | 2026-08-14 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 45 | [tryAGI/Milvus](https://github.com/tryAGI/Milvus) | 0 | C# | 2026-08-14 | C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management |
-| 46 | [tryAGI/Pinecone](https://github.com/tryAGI/Pinecone) | 8 | C# | 2026-08-14 | C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference |
-| 47 | [MariaDB/server](https://github.com/MariaDB/server) | 8098 | C++ | 2026-08-14 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 48 | [tryAGI/Chroma](https://github.com/tryAGI/Chroma) | 0 | C# | 2026-08-14 | C# SDK for the Chroma API -- open-source vector database |
-| 49 | [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) | 3251 | TypeScript | 2026-08-14 | Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem |
-| 50 | [tryAGI/Qdrant](https://github.com/tryAGI/Qdrant) | 0 | C# | 2026-08-14 | C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management |
+| 3 | [thameema/memnos](https://github.com/thameema/memnos) | 7 | Python | 2026-08-14 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
+| 4 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-08-14 | Identity and Authorization Service with Vector and AI Integration |
+| 5 | [felixzhu97/explore-ai](https://github.com/felixzhu97/explore-ai) | 1 | Java | 2026-08-14 | A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring |
+| 6 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 3 | Python | 2026-08-14 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
+| 7 | [sindrehaugen/NCE](https://github.com/sindrehaugen/NCE) | 0 | Python | 2026-08-14 | More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a |
+| 8 | [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) | 3251 | TypeScript | 2026-08-14 | Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem |
+| 9 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-14 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
+| 10 | [MariaDB/server](https://github.com/MariaDB/server) | 8098 | C++ | 2026-08-14 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 11 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-14 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 12 | [JohnnyHyytiainen/glossary_db](https://github.com/JohnnyHyytiainen/glossary_db) | 3 | Python | 2026-08-14 | Personal Glossary Database to help keep track on terms and theory for school and future work |
+| 13 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1877 | Go | 2026-08-14 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 14 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 7 | Rust | 2026-08-14 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
+| 15 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6337 | TypeScript | 2026-08-14 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
+| 16 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-14 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 17 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-14 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 18 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-14 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 19 | [pinecone-io/pulumi-pinecone-byoc](https://github.com/pinecone-io/pulumi-pinecone-byoc) | 13 | Python | 2026-08-14 | Pinecone BYOC |
+| 20 | [pinecone-io/pinecone-agents-ref](https://github.com/pinecone-io/pinecone-agents-ref) | 5 | Python | 2026-08-14 | Specialized agent instructions for the Pinecone vector database, designed to be integrated into `AGENTS.md` file for use |
+| 21 | [piyalidas10/AI](https://github.com/piyalidas10/AI) | 0 | Python | 2026-08-14 | AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker |
+| 22 | [jazz-max/ruflo-hub](https://github.com/jazz-max/ruflo-hub) | 4 | JavaScript | 2026-08-14 | Docker container for centralized Ruflo MCP server with PostgreSQL (RuVector). Architecture: Ruflo (stdio) → Express prox |
+| 23 | [topk-io/topk](https://github.com/topk-io/topk) | 90 | Rust | 2026-08-14 | High-quality search for AI-native applications. |
+| 24 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-14 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 25 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-14 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 26 | [pinecone-io/pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin) | 67 | Python | 2026-08-14 | The official Pinecone marketplace for Claude Code Plugins |
+| 27 | [taraksh01/memoryhub](https://github.com/taraksh01/memoryhub) | 1 | TypeScript | 2026-08-14 | MCP server for persistent memory using Qdrant vector store |
+| 28 | [nacre-work/nacre](https://github.com/nacre-work/nacre) | 0 | TypeScript | 2026-08-14 | Self-hosted permission-aware context layer for agents. MCP + API. |
+| 29 | [pinecone-io/vercel-chatbot-template](https://github.com/pinecone-io/vercel-chatbot-template) | 16 | TypeScript | 2026-08-14 | Next.js chatbot example backed by Pinecone and the OpenAI API, deployable to Vercel. |
+| 30 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-14 |  |
+| 31 | [pinecone-io/n8n-templates](https://github.com/pinecone-io/n8n-templates) | 12 | — | 2026-08-14 | A collection of ready-to-use n8n workflow templates for building intelligent automations using Pinecone. |
+| 32 | [TanNguyen234/VietLex-Tech-Spec](https://github.com/TanNguyen234/VietLex-Tech-Spec) | 0 | Python | 2026-08-14 | Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation. |
+| 33 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-14 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 34 | [crate/crate](https://github.com/crate/crate) | 4417 | Java | 2026-08-14 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
+| 35 | [pinecone-io/getting-started-with-pinecone-webinar](https://github.com/pinecone-io/getting-started-with-pinecone-webinar) | 3 | Python | 2026-08-14 | Repository with example code and data used in the monthly Getting Started with Pinecone Webinar. |
+| 36 | [pinecone-io/bird-semantic-search](https://github.com/pinecone-io/bird-semantic-search) | 2 | Python | 2026-08-14 | A semantic search application on a corpus of North American Bird data from Wikipedia. Learn about different search metho |
+| 37 | [pinecone-io/better-rag-retrieval-marimo](https://github.com/pinecone-io/better-rag-retrieval-marimo) | 3 | Python | 2026-08-14 | Learn how to diagnose and apply different retrieval methods for different purposes with Pinecone. |
+| 38 | [pinecone-io/examples](https://github.com/pinecone-io/examples) | 3035 | Jupyter Notebook | 2026-08-14 | Jupyter Notebooks to help you get hands-on with Pinecone vector databases |
+| 39 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 51640 | Python | 2026-08-14 | LlamaIndex is the leading document agent and OCR platform |
+| 40 | [KashifMaqbool/Generative_AI_Engineering_Specialization](https://github.com/KashifMaqbool/Generative_AI_Engineering_Specialization) | 1 | Jupyter Notebook | 2026-08-14 | This repository has Fundamentals and Advanced concepts in Generative Artificial Intelligence. It has hands-on Generative |
+| 41 | [pinecone-io/zapier-integration](https://github.com/pinecone-io/zapier-integration) | 0 | TypeScript | 2026-08-14 | Zapier integration app for Pinecone. |
+| 42 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-14 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 43 | [pinecone-io/pinecone-vscode](https://github.com/pinecone-io/pinecone-vscode) | 2 | TypeScript | 2026-08-14 | VS Code extension for Pinecone (Database and Assistant) |
+| 44 | [pinecone-io/pinecone-api](https://github.com/pinecone-io/pinecone-api) | 9 | — | 2026-08-14 | Public OpenAPI specs for Pinecone RESTful APIs and Protobuf definitions |
+| 45 | [pinecone-io/pinecone-rust-client](https://github.com/pinecone-io/pinecone-rust-client) | 23 | Rust | 2026-08-14 | The official Rust client for the Pinecone vector database |
+| 46 | [pinecone-io/pinecone-java-client](https://github.com/pinecone-io/pinecone-java-client) | 50 | Java | 2026-08-14 | The official Java client for the Pinecone vector database |
+| 47 | [pinecone-io/pinecone-ts-client](https://github.com/pinecone-io/pinecone-ts-client) | 278 | TypeScript | 2026-08-14 | The official TypeScript/Node client for the Pinecone vector database |
+| 48 | [tryAGI/Weaviate](https://github.com/tryAGI/Weaviate) | 2 | C# | 2026-08-14 | C# SDK for the Weaviate API -- open-source vector database |
+| 49 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 223 | Rust | 2026-08-14 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 50 | [tryAGI/Milvus](https://github.com/tryAGI/Milvus) | 0 | C# | 2026-08-14 | C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management |
 <!-- TRACKER_TABLE_END -->
 
 ---
