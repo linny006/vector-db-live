@@ -1,11 +1,65 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-14T09:58:36Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4417,
+    "updated_at": "2026-08-14T09:57:09Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 272,
+    "updated_at": "2026-08-14T09:53:35Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-14T09:50:09Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-14T09:48:28Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Samples showcasing Spanner multi model capabilities - across relational, key/value, vector, full-text search and graph",
+    "id": "GoogleCloudPlatform/spanner-bb-samples",
+    "language": "Java",
+    "name": "GoogleCloudPlatform/spanner-bb-samples",
+    "stars": 6,
+    "updated_at": "2026-08-14T09:47:06Z",
+    "url": "https://github.com/GoogleCloudPlatform/spanner-bb-samples"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-14T09:44:29Z",
+    "updated_at": "2026-08-14T09:45:26Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -23,11 +77,11 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-14T09:43:22Z",
+    "updated_at": "2026-08-14T09:50:24Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Kannada Book AI Agent \u2014 RAG chatbot with OCR, multilingual Q&A, and audio output for scanned Kannada literature",
+    "description": "A production-grade RAG system and neural voice assistant for low-resource Kannada literature ('Heli Hogu Kaarana'). It f",
     "id": "Amruth011/kannada-rag-agent",
     "language": "Python",
     "name": "Amruth011/kannada-rag-agent",
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-14T09:41:06Z",
+    "updated_at": "2026-08-14T09:51:59Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -72,21 +126,12 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-14T09:24:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30014,
-    "updated_at": "2026-08-14T09:44:14Z",
+    "updated_at": "2026-08-14T09:52:16Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45635,
-    "updated_at": "2026-08-14T09:00:29Z",
+    "updated_at": "2026-08-14T09:59:05Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 11147,
     "updated_at": "2026-08-14T09:03:10Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-14T08:55:22Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -203,7 +239,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8096,
-    "updated_at": "2026-08-14T09:38:03Z",
+    "updated_at": "2026-08-14T09:47:02Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -252,6 +288,15 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
+    "description": "Hackathon project for students finding a place to stay on or near NTU campus",
+    "id": "holmns/ntu-hall-for-me",
+    "language": "TypeScript",
+    "name": "holmns/ntu-hall-for-me",
+    "stars": 0,
+    "updated_at": "2026-08-14T08:37:17Z",
+    "url": "https://github.com/holmns/ntu-hall-for-me"
+  },
+  {
     "description": "The documentation for SurrealDB, powered by Astro",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
@@ -279,15 +324,6 @@
     "url": "https://github.com/weaviate/docs"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4417,
-    "updated_at": "2026-08-14T09:44:47Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Importable n8n workflows, tutorials and verified demos for BrocosWork Apify Actors",
     "id": "BrocosHub/omniapi-apify-examples",
     "language": "\u2014",
@@ -295,24 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T08:14:20Z",
     "url": "https://github.com/BrocosHub/omniapi-apify-examples"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-14T08:13:44Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 272,
-    "updated_at": "2026-08-14T09:12:25Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
@@ -355,7 +373,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1310,
+    "stars": 1312,
     "updated_at": "2026-08-14T07:47:54Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-14T07:13:24Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15440,
-    "updated_at": "2026-08-14T07:07:06Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-08-14T06:57:18Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   }
 ]
