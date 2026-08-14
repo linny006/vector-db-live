@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-14T06:59:19Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-08-14T06:57:18Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-14T06:55:31Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "\"Enterprise RAG Agent for HR Policy Q&A & Leave Calculations using LangChain, Cohere, and FAISS.\"",
+    "id": "rihanstranger09/rag-powered-hr-agent",
+    "language": "Python",
+    "name": "rihanstranger09/rag-powered-hr-agent",
+    "stars": 0,
+    "updated_at": "2026-08-14T06:54:44Z",
+    "url": "https://github.com/rihanstranger09/rag-powered-hr-agent"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-08-14T06:52:45Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8094,
+    "updated_at": "2026-08-14T06:58:26Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T06:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,22 +99,13 @@
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T06:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-14T06:29:56Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11146,
+    "updated_at": "2026-08-14T06:59:10Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Postgres MCP Server",
@@ -142,6 +196,15 @@
     "stars": 1,
     "updated_at": "2026-08-14T06:11:52Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16728,
+    "updated_at": "2026-08-14T06:10:33Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "The AI search platform",
@@ -275,7 +338,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1614,
-    "updated_at": "2026-08-14T06:18:23Z",
+    "updated_at": "2026-08-14T06:55:29Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -302,7 +365,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9413,
-    "updated_at": "2026-08-14T06:09:33Z",
+    "updated_at": "2026-08-14T07:00:50Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -378,15 +441,6 @@
     "url": "https://github.com/rafaelnicolett/kern"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8093,
-    "updated_at": "2026-08-14T06:39:25Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "AI-native NoSQL + vector database with built-in semantic search for RAG & AI agents \u2014 the Dart & Flutter client. Self-ho",
     "id": "MontyGovernance/montycat_dart",
     "language": "Dart",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-14T03:23:57Z",
     "url": "https://github.com/MontyGovernance/montycat_dart"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-14T03:23:54Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6335,
-    "updated_at": "2026-08-14T03:15:35Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2411,
-    "updated_at": "2026-08-14T03:15:07Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
-    "id": "ldclabs/anda-db",
-    "language": "Rust",
-    "name": "ldclabs/anda-db",
-    "stars": 29,
-    "updated_at": "2026-08-14T03:00:43Z",
-    "url": "https://github.com/ldclabs/anda-db"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16729,
-    "updated_at": "2026-08-14T06:10:33Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Large document Q&A agent using RAG",
-    "id": "djleamen/doc-reader",
-    "language": "Python",
-    "name": "djleamen/doc-reader",
-    "stars": 3,
-    "updated_at": "2026-08-14T02:51:54Z",
-    "url": "https://github.com/djleamen/doc-reader"
   }
 ]
