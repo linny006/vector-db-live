@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T05:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "\u6237\u7eba\u667a\u82af OutdoorTextile-LLM V3.0 \u2014 \u670d\u9970\u6237\u5916\u884c\u4e1a\u5782\u76f4 AI RAG \u95ee\u7b54\u7cfb\u7edf\uff1aTika \u89e3\u6790\u2192Ollama \u5411\u91cf\u5316\u2192Milvus/MySQL \u68c0\u7d22\uff0c\u652f\u6301\u9762\u6599/\u5de5\u827a/\u4f9b\u5e94\u94fe\u5206\u6790",
+    "id": "wch887292/CyanVistaOutdoorApparelAI",
+    "language": "Java",
+    "name": "wch887292/CyanVistaOutdoorApparelAI",
+    "stars": 1,
+    "updated_at": "2026-08-14T05:45:11Z",
+    "url": "https://github.com/wch887292/CyanVistaOutdoorApparelAI"
+  },
+  {
+    "description": "In-memory vector search engine with event-based co-occurrence tracking",
+    "id": "libraz/nvecd",
+    "language": "C++",
+    "name": "libraz/nvecd",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:43:06Z",
+    "url": "https://github.com/libraz/nvecd"
   },
   {
     "description": "RAG search engine using LlamaIndex, Redis, and PII masking.",
@@ -14,8 +23,62 @@
     "language": "Python",
     "name": "gabaoun/Project-Aether",
     "stars": 2,
-    "updated_at": "2026-08-14T05:27:21Z",
+    "updated_at": "2026-08-14T05:41:37Z",
     "url": "https://github.com/gabaoun/Project-Aether"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7047,
+    "updated_at": "2026-08-14T05:37:11Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
+    "id": "fewshot-works/academy",
+    "language": "TypeScript",
+    "name": "fewshot-works/academy",
+    "stars": 4,
+    "updated_at": "2026-08-14T05:35:28Z",
+    "url": "https://github.com/fewshot-works/academy"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30009,
+    "updated_at": "2026-08-14T05:35:03Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-14T05:32:02Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T05:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T05:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 271,
-    "updated_at": "2026-08-14T05:26:38Z",
+    "updated_at": "2026-08-14T05:44:37Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-14T05:22:31Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T05:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -108,15 +162,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-14T04:34:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -139,7 +184,7 @@
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
-    "stars": 9412,
+    "stars": 9413,
     "updated_at": "2026-08-14T04:27:43Z",
     "url": "https://github.com/databendlabs/databend"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T02:14:15Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:13:47Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:12:25Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:09:35Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:09:08Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:08:59Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   }
 ]
