@@ -1,11 +1,83 @@
 [
   {
+    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
+    "id": "GoodbyePlanet/semcode",
+    "language": "Python",
+    "name": "GoodbyePlanet/semcode",
+    "stars": 4,
+    "updated_at": "2026-08-14T06:15:05Z",
+    "url": "https://github.com/GoodbyePlanet/semcode"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-08-14T06:14:18Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-14T06:14:04Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1079,
+    "updated_at": "2026-08-14T06:13:21Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-14T06:11:52Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7047,
+    "updated_at": "2026-08-14T06:14:21Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T06:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-14T06:00:21Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-14T06:00:18Z",
+    "updated_at": "2026-08-14T06:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "devopam/MCPg",
     "stars": 8,
-    "updated_at": "2026-08-14T06:00:16Z",
+    "updated_at": "2026-08-14T06:14:41Z",
     "url": "https://github.com/devopam/MCPg"
   },
   {
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T05:55:45Z",
     "url": "https://github.com/skibusts-ops/zcube-sdk"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T05:55:09Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T05:43:06Z",
     "url": "https://github.com/libraz/nvecd"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7047,
-    "updated_at": "2026-08-14T05:37:11Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
@@ -180,15 +234,6 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1079,
-    "updated_at": "2026-08-14T04:51:38Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Official Java client for Qdrant ",
     "id": "qdrant/java-client",
     "language": "Java",
@@ -196,24 +241,6 @@
     "stars": 94,
     "updated_at": "2026-08-14T04:48:13Z",
     "url": "https://github.com/qdrant/java-client"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-14T04:47:58Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-14T06:00:21Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Vector Search Benchmarking suite",
@@ -230,7 +257,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9413,
-    "updated_at": "2026-08-14T04:27:43Z",
+    "updated_at": "2026-08-14T06:09:33Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -241,15 +268,6 @@
     "stars": 10,
     "updated_at": "2026-08-14T04:22:30Z",
     "url": "https://github.com/pinecone-io/pinecone-neo4j-explorer"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-14T04:06:53Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -373,8 +391,8 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45630,
-    "updated_at": "2026-08-14T03:04:00Z",
+    "stars": 45631,
+    "updated_at": "2026-08-14T06:12:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -392,7 +410,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16729,
-    "updated_at": "2026-08-14T05:45:40Z",
+    "updated_at": "2026-08-14T06:10:33Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 223,
-    "updated_at": "2026-08-14T02:46:39Z",
+    "updated_at": "2026-08-14T06:04:23Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-14T02:32:41Z",
     "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
-    "id": "boulif781/enterprise-knowledge-assistant",
-    "language": "\u2014",
-    "name": "boulif781/enterprise-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:23:25Z",
-    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:21:30Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   }
 ]
