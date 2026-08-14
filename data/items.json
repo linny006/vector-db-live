@@ -1,11 +1,56 @@
 [
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11148,
+    "updated_at": "2026-08-14T21:43:44Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-14T21:39:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6649,
+    "updated_at": "2026-08-14T21:39:14Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-14T21:37:57Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-14T21:31:27Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-14T21:30:26Z",
+    "updated_at": "2026-08-14T21:31:15Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-14T21:30:23Z",
+    "updated_at": "2026-08-14T21:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -99,24 +144,6 @@
     "url": "https://github.com/Bitwarelabscom/bwmem"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11148,
-    "updated_at": "2026-08-14T21:17:45Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-14T21:31:05Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -158,17 +185,8 @@
     "language": "TypeScript",
     "name": "verygoodplugins/mcp-automem",
     "stars": 63,
-    "updated_at": "2026-08-14T21:28:07Z",
+    "updated_at": "2026-08-14T21:38:59Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-14T21:06:42Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable.",
@@ -225,15 +243,6 @@
     "url": "https://github.com/geckse/markdown-vdb"
   },
   {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6649,
-    "updated_at": "2026-08-14T20:38:20Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
     "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
     "id": "ankush-poonia007/STARTUP-AI-AGENT",
     "language": "Python",
@@ -250,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T20:36:11Z",
     "url": "https://github.com/saichilukuri96/Basics-of-AI-Agents"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-14T20:35:00Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -310,8 +310,8 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1328,
-    "updated_at": "2026-08-14T20:01:16Z",
+    "stars": 1330,
+    "updated_at": "2026-08-14T21:45:12Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -374,7 +374,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1614,
-    "updated_at": "2026-08-14T19:23:33Z",
+    "updated_at": "2026-08-14T21:33:32Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
