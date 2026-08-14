@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-14T09:15:18Z",
+    "updated_at": "2026-08-14T09:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-14T09:24:14Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30013,
+    "updated_at": "2026-08-14T09:23:52Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Kannada Book AI Agent \u2014 RAG chatbot with OCR, multilingual Q&A, and audio output for scanned Kannada literature",
+    "id": "Amruth011/kannada-rag-agent",
+    "language": "Python",
+    "name": "Amruth011/kannada-rag-agent",
+    "stars": 1,
+    "updated_at": "2026-08-14T09:23:33Z",
+    "url": "https://github.com/Amruth011/kannada-rag-agent"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12869,
+    "updated_at": "2026-08-14T09:23:12Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Semantic long-term memory for DeepSeek Harness: hindsight_retain/recall/reflect tools + auto-recall over local Hindsight",
+    "id": "WeilaiSun/dsh-hindsight-memory",
+    "language": "JavaScript",
+    "name": "WeilaiSun/dsh-hindsight-memory",
+    "stars": 0,
+    "updated_at": "2026-08-14T09:17:10Z",
+    "url": "https://github.com/WeilaiSun/dsh-hindsight-memory"
+  },
+  {
+    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
+    "id": "Daaboulex/openviking-nix",
+    "language": "Shell",
+    "name": "Daaboulex/openviking-nix",
+    "stars": 3,
+    "updated_at": "2026-08-14T09:15:59Z",
+    "url": "https://github.com/Daaboulex/openviking-nix"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T09:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "ankush-poonia007/STARTUP-AI-AGENT",
     "stars": 4,
-    "updated_at": "2026-08-14T09:14:33Z",
+    "updated_at": "2026-08-14T09:27:56Z",
     "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/jkraybill/gordo-ledger"
   },
   {
-    "description": "Semantic long-term memory for DeepSeek Harness: hindsight_retain/recall/reflect tools + auto-recall over local Hindsight",
-    "id": "WeilaiSun/dsh-hindsight-memory",
-    "language": "JavaScript",
-    "name": "WeilaiSun/dsh-hindsight-memory",
-    "stars": 0,
-    "updated_at": "2026-08-14T09:06:56Z",
-    "url": "https://github.com/WeilaiSun/dsh-hindsight-memory"
-  },
-  {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
@@ -81,15 +135,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T09:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -108,21 +153,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-14T08:53:48Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9413,
-    "updated_at": "2026-08-14T08:58:30Z",
+    "updated_at": "2026-08-14T09:25:26Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16729,
-    "updated_at": "2026-08-14T08:56:54Z",
+    "updated_at": "2026-08-14T09:26:21Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -180,39 +216,12 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30014,
-    "updated_at": "2026-08-14T08:34:36Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Kannada Book AI Agent \u2014 RAG chatbot with OCR, multilingual Q&A, and audio output for scanned Kannada literature",
-    "id": "Amruth011/kannada-rag-agent",
-    "language": "Python",
-    "name": "Amruth011/kannada-rag-agent",
-    "stars": 1,
-    "updated_at": "2026-08-14T08:34:34Z",
-    "url": "https://github.com/Amruth011/kannada-rag-agent"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12869,
-    "updated_at": "2026-08-14T08:33:38Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "The documentation for SurrealDB, powered by Astro",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 120,
-    "updated_at": "2026-08-14T08:27:00Z",
+    "updated_at": "2026-08-14T09:24:51Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -239,8 +248,17 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-14T09:12:23Z",
+    "updated_at": "2026-08-14T09:23:44Z",
     "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Importable n8n workflows, tutorials and verified demos for BrocosWork Apify Actors",
+    "id": "BrocosHub/omniapi-apify-examples",
+    "language": "\u2014",
+    "name": "BrocosHub/omniapi-apify-examples",
+    "stars": 0,
+    "updated_at": "2026-08-14T08:14:20Z",
+    "url": "https://github.com/BrocosHub/omniapi-apify-examples"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -275,7 +293,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7047,
-    "updated_at": "2026-08-14T09:15:19Z",
+    "updated_at": "2026-08-14T09:27:55Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -310,7 +328,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1309,
+    "stars": 1310,
     "updated_at": "2026-08-14T07:47:54Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -419,7 +437,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-14T09:04:55Z",
+    "updated_at": "2026-08-14T09:26:12Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T06:54:44Z",
     "url": "https://github.com/rihanstranger09/rag-powered-hr-agent"
-  },
-  {
-    "description": "Postgres MCP Server",
-    "id": "devopam/MCPg",
-    "language": "Python",
-    "name": "devopam/MCPg",
-    "stars": 8,
-    "updated_at": "2026-08-14T06:37:53Z",
-    "url": "https://github.com/devopam/MCPg"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1079,
-    "updated_at": "2026-08-14T07:22:31Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
