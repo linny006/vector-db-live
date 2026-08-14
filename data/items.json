@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-14T06:29:56Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Postgres MCP Server",
+    "id": "devopam/MCPg",
+    "language": "Python",
+    "name": "devopam/MCPg",
+    "stars": 8,
+    "updated_at": "2026-08-14T06:28:14Z",
+    "url": "https://github.com/devopam/MCPg"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 67,
+    "updated_at": "2026-08-14T06:25:44Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1079,
+    "updated_at": "2026-08-14T06:22:47Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 271,
+    "updated_at": "2026-08-14T06:22:24Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "Importable n8n workflows, tutorials and verified demos for BrocosHub Apify Actors",
+    "id": "BrocosHub/omniapi-apify-examples",
+    "language": "\u2014",
+    "name": "BrocosHub/omniapi-apify-examples",
+    "stars": 0,
+    "updated_at": "2026-08-14T06:18:19Z",
+    "url": "https://github.com/BrocosHub/omniapi-apify-examples"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 223,
+    "updated_at": "2026-08-14T06:17:23Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-14T06:15:49Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T06:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T06:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
     "id": "GoodbyePlanet/semcode",
     "language": "Python",
@@ -27,13 +117,13 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1079,
-    "updated_at": "2026-08-14T06:13:21Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45632,
+    "updated_at": "2026-08-14T06:12:23Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -54,15 +144,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T06:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -70,24 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T06:00:21Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T06:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Postgres MCP Server",
-    "id": "devopam/MCPg",
-    "language": "Python",
-    "name": "devopam/MCPg",
-    "stars": 8,
-    "updated_at": "2026-08-14T06:14:41Z",
-    "url": "https://github.com/devopam/MCPg"
   },
   {
     "description": "ZCube \u2014 embedded engine: columnar SQL + vector search + in-process embedding generation. Own HNSW, time-travel queries, ",
@@ -180,15 +243,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-14T05:32:02Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
     "id": "varun29ankuS/shodh-redb",
     "language": "Rust",
@@ -196,15 +250,6 @@
     "stars": 5,
     "updated_at": "2026-08-14T05:27:11Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 271,
-    "updated_at": "2026-08-14T06:00:06Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1614,
-    "updated_at": "2026-08-14T05:03:28Z",
+    "updated_at": "2026-08-14T06:18:23Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -306,7 +351,7 @@
     "url": "https://github.com/pinecone-io/bird-semantic-search"
   },
   {
-    "description": "Web research for agents with smart and safe tooling + knowledge store",
+    "description": "Web research for your agents with smart and safe tooling + knowledge store",
     "id": "Lincoln504/pi-research",
     "language": "TypeScript",
     "name": "Lincoln504/pi-research",
@@ -347,7 +392,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8093,
-    "updated_at": "2026-08-14T03:32:35Z",
+    "updated_at": "2026-08-14T06:17:38Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -387,15 +432,6 @@
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45631,
-    "updated_at": "2026-08-14T06:12:23Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
     "id": "ldclabs/anda-db",
     "language": "Rust",
@@ -412,41 +448,5 @@
     "stars": 16729,
     "updated_at": "2026-08-14T06:10:33Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Large document Q&A agent using RAG",
-    "id": "djleamen/doc-reader",
-    "language": "Python",
-    "name": "djleamen/doc-reader",
-    "stars": 3,
-    "updated_at": "2026-08-14T02:51:54Z",
-    "url": "https://github.com/djleamen/doc-reader"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 223,
-    "updated_at": "2026-08-14T06:04:23Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 120,
-    "updated_at": "2026-08-14T04:56:49Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
-    "id": "caoergou/dify-installer",
-    "language": "Shell",
-    "name": "caoergou/dify-installer",
-    "stars": 2,
-    "updated_at": "2026-08-14T02:32:41Z",
-    "url": "https://github.com/caoergou/dify-installer"
   }
 ]
