@@ -1,11 +1,101 @@
 [
   {
+    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
+    "id": "Nayjest/ai-microcore",
+    "language": "Python",
+    "name": "Nayjest/ai-microcore",
+    "stars": 107,
+    "updated_at": "2026-08-14T17:29:35Z",
+    "url": "https://github.com/Nayjest/ai-microcore"
+  },
+  {
+    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
+    "id": "vicquick/nobrainr",
+    "language": "Python",
+    "name": "vicquick/nobrainr",
+    "stars": 1,
+    "updated_at": "2026-08-14T17:28:21Z",
+    "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-14T17:27:46Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Demo integrating Pinecone with Neo4j to analyze and explore Supreme Court cases.",
+    "id": "pinecone-io/pinecone-neo4j-explorer",
+    "language": "TypeScript",
+    "name": "pinecone-io/pinecone-neo4j-explorer",
+    "stars": 10,
+    "updated_at": "2026-08-14T17:23:12Z",
+    "url": "https://github.com/pinecone-io/pinecone-neo4j-explorer"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3251,
+    "updated_at": "2026-08-14T17:23:04Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6338,
+    "updated_at": "2026-08-14T17:21:39Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "LinkMind is an intelligent conversational ReAct agent built with LangChain and Streamlit. It leverages a chain-of-though",
+    "id": "cricsion/LinkMind",
+    "language": "Python",
+    "name": "cricsion/LinkMind",
+    "stars": 1,
+    "updated_at": "2026-08-14T17:20:37Z",
+    "url": "https://github.com/cricsion/LinkMind"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-14T17:20:12Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-14T17:18:56Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T17:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-14T17:15:23Z",
+    "updated_at": "2026-08-14T17:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,8 +113,17 @@
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 7,
-    "updated_at": "2026-08-14T17:14:08Z",
+    "updated_at": "2026-08-14T17:20:29Z",
     "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30020,
+    "updated_at": "2026-08-14T17:19:06Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -41,17 +140,8 @@
     "language": "Java",
     "name": "felixzhu97/explore-ai",
     "stars": 1,
-    "updated_at": "2026-08-14T17:10:50Z",
+    "updated_at": "2026-08-14T17:25:54Z",
     "url": "https://github.com/felixzhu97/explore-ai"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-14T17:14:23Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a",
@@ -61,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T17:09:34Z",
     "url": "https://github.com/sindrehaugen/NCE"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3251,
-    "updated_at": "2026-08-14T17:09:02Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -90,15 +171,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T17:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Personal Glossary Database to help keep track on terms and theory for school and future work",
     "id": "JohnnyHyytiainen/glossary_db",
     "language": "Python",
@@ -108,15 +180,6 @@
     "url": "https://github.com/JohnnyHyytiainen/glossary_db"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-14T16:58:44Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -124,15 +187,6 @@
     "stars": 7,
     "updated_at": "2026-08-14T17:00:06Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6337,
-    "updated_at": "2026-08-14T17:07:21Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -151,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T16:50:07Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-14T16:48:43Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Pinecone BYOC",
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 90,
-    "updated_at": "2026-08-14T17:11:50Z",
+    "updated_at": "2026-08-14T17:21:27Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -248,7 +293,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-14T16:27:29Z",
+    "updated_at": "2026-08-14T17:26:15Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-14T16:19:21Z",
+    "updated_at": "2026-08-14T17:24:07Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -374,7 +419,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-14T16:47:22Z",
+    "updated_at": "2026-08-14T17:30:12Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 23,
     "updated_at": "2026-08-14T16:05:09Z",
     "url": "https://github.com/pinecone-io/pinecone-rust-client"
-  },
-  {
-    "description": "The official Java client for the Pinecone vector database",
-    "id": "pinecone-io/pinecone-java-client",
-    "language": "Java",
-    "name": "pinecone-io/pinecone-java-client",
-    "stars": 50,
-    "updated_at": "2026-08-14T16:04:56Z",
-    "url": "https://github.com/pinecone-io/pinecone-java-client"
-  },
-  {
-    "description": "The official TypeScript/Node client for the Pinecone vector database",
-    "id": "pinecone-io/pinecone-ts-client",
-    "language": "TypeScript",
-    "name": "pinecone-io/pinecone-ts-client",
-    "stars": 278,
-    "updated_at": "2026-08-14T16:04:39Z",
-    "url": "https://github.com/pinecone-io/pinecone-ts-client"
-  },
-  {
-    "description": "C# SDK for the Weaviate API -- open-source vector database",
-    "id": "tryAGI/Weaviate",
-    "language": "C#",
-    "name": "tryAGI/Weaviate",
-    "stars": 2,
-    "updated_at": "2026-08-14T15:54:46Z",
-    "url": "https://github.com/tryAGI/Weaviate"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 223,
-    "updated_at": "2026-08-14T15:54:42Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
-    "id": "tryAGI/Milvus",
-    "language": "C#",
-    "name": "tryAGI/Milvus",
-    "stars": 0,
-    "updated_at": "2026-08-14T15:53:57Z",
-    "url": "https://github.com/tryAGI/Milvus"
   }
 ]
