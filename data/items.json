@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T06:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Postgres MCP Server",
+    "id": "devopam/MCPg",
+    "language": "Python",
+    "name": "devopam/MCPg",
+    "stars": 8,
+    "updated_at": "2026-08-14T06:00:16Z",
+    "url": "https://github.com/devopam/MCPg"
+  },
+  {
+    "description": "ZCube \u2014 embedded engine: columnar SQL + vector search + in-process embedding generation. Own HNSW, time-travel queries, ",
+    "id": "skibusts-ops/zcube",
+    "language": "Rust",
+    "name": "skibusts-ops/zcube",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:58:03Z",
+    "url": "https://github.com/skibusts-ops/zcube"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-14T05:56:07Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "ZCube client SDKs \u2014 TypeScript, Go, Python, Rust, plus framework adapters",
+    "id": "skibusts-ops/zcube-sdk",
+    "language": "TypeScript",
+    "name": "skibusts-ops/zcube-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-14T05:55:45Z",
+    "url": "https://github.com/skibusts-ops/zcube-sdk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T05:55:09Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
     "id": "tryAGI/Milvus",
     "language": "C#",
@@ -7,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T05:54:43Z",
     "url": "https://github.com/tryAGI/Milvus"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T05:53:41Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Agentic video learning system: ingest YouTube videos, index into local LanceDB vector memory, converse via voice/text wi",
@@ -34,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-14T05:45:41Z",
     "url": "https://github.com/gabaoun/Project-Aether"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T05:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u6237\u7eba\u667a\u82af OutdoorTextile-LLM V3.0 \u2014 \u670d\u9970\u6237\u5916\u884c\u4e1a\u5782\u76f4 AI RAG \u95ee\u7b54\u7cfb\u7edf\uff1aTika \u89e3\u6790\u2192Ollama \u5411\u91cf\u5316\u2192Milvus/MySQL \u68c0\u7d22\uff0c\u652f\u6301\u9762\u6599/\u5de5\u827a/\u4f9b\u5e94\u94fe\u5206\u6790",
@@ -113,7 +149,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 271,
-    "updated_at": "2026-08-14T05:53:06Z",
+    "updated_at": "2026-08-14T06:00:06Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-14T05:22:31Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-14T05:13:33Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -185,7 +212,7 @@
     "language": "JavaScript",
     "name": "4nur4gmishr4/4nur4gmishr4",
     "stars": 1,
-    "updated_at": "2026-08-14T04:28:50Z",
+    "updated_at": "2026-08-14T06:00:21Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T02:21:30Z",
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:21:06Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:18:34Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
-    "stars": 0,
-    "updated_at": "2026-08-14T02:16:59Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
   }
 ]
