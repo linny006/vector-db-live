@@ -1,12 +1,129 @@
 [
   {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 3,
+    "updated_at": "2026-08-14T22:56:14Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-08-14T22:54:41Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 3,
+    "updated_at": "2026-08-14T22:53:08Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-08-14T22:52:00Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-08-14T22:51:03Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6338,
+    "updated_at": "2026-08-14T22:50:54Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-14T22:49:53Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-08-14T22:49:48Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-08-14T22:50:26Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45637,
+    "updated_at": "2026-08-14T22:48:25Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-14T22:45:20Z",
+    "updated_at": "2026-08-14T22:48:05Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-08-14T22:46:28Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 468,
+    "updated_at": "2026-08-14T22:45:47Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T22:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
@@ -25,6 +142,15 @@
     "stars": 3,
     "updated_at": "2026-08-14T22:44:18Z",
     "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1331,
+    "updated_at": "2026-08-14T22:59:08Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
@@ -117,15 +243,6 @@
     "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T22:31:11Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
     "id": "techdomegh/ai-news-scraper",
     "language": "Python",
@@ -153,15 +270,6 @@
     "url": "https://github.com/Maurellone/TySVA"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45637,
-    "updated_at": "2026-08-14T22:24:23Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -178,15 +286,6 @@
     "stars": 23,
     "updated_at": "2026-08-14T22:22:23Z",
     "url": "https://github.com/geckse/markdown-vdb"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-14T22:21:30Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -216,13 +315,13 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 468,
-    "updated_at": "2026-08-14T22:06:01Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33977,
+    "updated_at": "2026-08-14T22:10:06Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Object storage for the AI age",
@@ -230,7 +329,7 @@
     "language": "Rust",
     "name": "worka-ai/anvil",
     "stars": 77,
-    "updated_at": "2026-08-14T22:04:33Z",
+    "updated_at": "2026-08-14T22:54:46Z",
     "url": "https://github.com/worka-ai/anvil"
   },
   {
@@ -277,15 +376,6 @@
     "stars": 7,
     "updated_at": "2026-08-14T21:28:42Z",
     "url": "https://github.com/pg-cuvs/pg_cuvs"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33976,
-    "updated_at": "2026-08-14T22:10:06Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A multi-tenant vector database focused on extreme RAM efficiency. Lightweight, scalable, and optimized for high-density ",
@@ -358,95 +448,5 @@
     "stars": 63,
     "updated_at": "2026-08-14T21:38:59Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable.",
-    "id": "zepdb/zeppelin",
-    "language": "Rust",
-    "name": "zepdb/zeppelin",
-    "stars": 43,
-    "updated_at": "2026-08-14T20:57:28Z",
-    "url": "https://github.com/zepdb/zeppelin"
-  },
-  {
-    "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
-    "id": "sharfuddin18/Codemaster-Ai",
-    "language": "Python",
-    "name": "sharfuddin18/Codemaster-Ai",
-    "stars": 2,
-    "updated_at": "2026-08-14T20:53:16Z",
-    "url": "https://github.com/sharfuddin18/Codemaster-Ai"
-  },
-  {
-    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
-    "id": "fewshot-works/academy",
-    "language": "TypeScript",
-    "name": "fewshot-works/academy",
-    "stars": 4,
-    "updated_at": "2026-08-14T20:45:50Z",
-    "url": "https://github.com/fewshot-works/academy"
-  },
-  {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 4,
-    "updated_at": "2026-08-14T20:44:40Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "Sistema de geladeira inteligente: cadastro de itens via Spring Boot + JPA, gera\u00e7\u00e3o de receitas com integra\u00e7\u00e3o \u00e0 API do G",
-    "id": "gmatheusd/MagicFridgeAI",
-    "language": "Java",
-    "name": "gmatheusd/MagicFridgeAI",
-    "stars": 0,
-    "updated_at": "2026-08-14T20:43:25Z",
-    "url": "https://github.com/gmatheusd/MagicFridgeAI"
-  },
-  {
-    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
-    "id": "ankush-poonia007/STARTUP-AI-AGENT",
-    "language": "Python",
-    "name": "ankush-poonia007/STARTUP-AI-AGENT",
-    "stars": 4,
-    "updated_at": "2026-08-14T20:37:33Z",
-    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
-  },
-  {
-    "description": "\ud83e\udd16 Hands-on AI projects exploring LLMs, AI Agents, RAG, and Generative AI.",
-    "id": "saichilukuri96/Basics-of-AI-Agents",
-    "language": "Jupyter Notebook",
-    "name": "saichilukuri96/Basics-of-AI-Agents",
-    "stars": 0,
-    "updated_at": "2026-08-14T20:36:11Z",
-    "url": "https://github.com/saichilukuri96/Basics-of-AI-Agents"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 87,
-    "updated_at": "2026-08-14T22:31:19Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-08-14T20:10:17Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6338,
-    "updated_at": "2026-08-14T22:44:47Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
