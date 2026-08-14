@@ -1,5 +1,95 @@
 [
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12868,
+    "updated_at": "2026-08-14T07:57:47Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7047,
+    "updated_at": "2026-08-14T07:57:29Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "The Kubernetes Operator of Milvus. ",
+    "id": "zilliztech/milvus-operator",
+    "language": "Go",
+    "name": "zilliztech/milvus-operator",
+    "stars": 124,
+    "updated_at": "2026-08-14T07:57:11Z",
+    "url": "https://github.com/zilliztech/milvus-operator"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1614,
+    "updated_at": "2026-08-14T07:56:35Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Enterprise Retrieval-Augmented Generation (RAG) system built with LangChain, Google Gemini, ChromaDB, and Python for con",
+    "id": "vsiddina409-AI/Enterprise-RAG-LangChain",
+    "language": "Python",
+    "name": "vsiddina409-AI/Enterprise-RAG-LangChain",
+    "stars": 0,
+    "updated_at": "2026-08-14T07:53:40Z",
+    "url": "https://github.com/vsiddina409-AI/Enterprise-RAG-LangChain"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 67,
+    "updated_at": "2026-08-14T07:52:01Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-14T07:50:20Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1309,
+    "updated_at": "2026-08-14T07:47:54Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6211,
+    "updated_at": "2026-08-14T07:45:56Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T07:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,8 +122,17 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 5,
-    "updated_at": "2026-08-14T07:40:44Z",
+    "updated_at": "2026-08-14T07:48:43Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30010,
+    "updated_at": "2026-08-14T08:00:02Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
@@ -81,31 +180,13 @@
     "url": "https://github.com/oguzemirtopuz/JARVIS-Cognitive-OS"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T07:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-14T07:30:22Z",
+    "updated_at": "2026-08-14T07:59:47Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6211,
-    "updated_at": "2026-08-14T07:30:09Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea",
@@ -131,17 +212,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9413,
-    "updated_at": "2026-08-14T07:42:20Z",
+    "updated_at": "2026-08-14T07:58:29Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12868,
-    "updated_at": "2026-08-14T07:20:15Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Provides Islamic prayer postural adjustment advice using a source-based RAG architecture grounded in biomechanics and ve",
@@ -216,15 +288,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 67,
-    "updated_at": "2026-08-14T07:38:24Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -257,7 +320,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 272,
-    "updated_at": "2026-08-14T06:22:24Z",
+    "updated_at": "2026-08-14T07:53:46Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -311,7 +374,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45633,
-    "updated_at": "2026-08-14T06:12:23Z",
+    "updated_at": "2026-08-14T07:48:07Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -329,26 +392,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16728,
-    "updated_at": "2026-08-14T06:10:33Z",
+    "updated_at": "2026-08-14T07:59:05Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7047,
-    "updated_at": "2026-08-14T07:21:29Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-14T06:00:21Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "ZCube \u2014 embedded engine: columnar SQL + vector search + in-process embedding generation. Own HNSW, time-travel queries, ",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T05:45:11Z",
     "url": "https://github.com/wch887292/CyanVistaOutdoorApparelAI"
-  },
-  {
-    "description": "In-memory vector search engine with event-based co-occurrence tracking",
-    "id": "libraz/nvecd",
-    "language": "C++",
-    "name": "libraz/nvecd",
-    "stars": 0,
-    "updated_at": "2026-08-14T05:43:06Z",
-    "url": "https://github.com/libraz/nvecd"
-  },
-  {
-    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
-    "id": "fewshot-works/academy",
-    "language": "TypeScript",
-    "name": "fewshot-works/academy",
-    "stars": 4,
-    "updated_at": "2026-08-14T05:35:28Z",
-    "url": "https://github.com/fewshot-works/academy"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30009,
-    "updated_at": "2026-08-14T07:37:28Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2252,
-    "updated_at": "2026-08-14T05:03:37Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1614,
-    "updated_at": "2026-08-14T06:55:29Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   }
 ]
