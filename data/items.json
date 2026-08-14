@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T13:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 5,
+    "updated_at": "2026-08-14T13:30:22Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-14T13:28:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Support operations platform for B2B SaaS teams, featuring ticket triage, versioned knowledge base, grounded response dra",
+    "id": "rafael-acerqueira/support-ops",
+    "language": "Python",
+    "name": "rafael-acerqueira/support-ops",
+    "stars": 0,
+    "updated_at": "2026-08-14T13:28:21Z",
+    "url": "https://github.com/rafael-acerqueira/support-ops"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-14T13:24:41Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16729,
+    "updated_at": "2026-08-14T13:27:02Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "AI Medical Chatbot using RAG, GPT-4o mini, LangChain, Pinecone, Docker and AWS.",
+    "id": "mohamadhelal94/Build-a-Complete-Medical-Chatbot-",
+    "language": "Python",
+    "name": "mohamadhelal94/Build-a-Complete-Medical-Chatbot-",
+    "stars": 1,
+    "updated_at": "2026-08-14T13:22:08Z",
+    "url": "https://github.com/mohamadhelal94/Build-a-Complete-Medical-Chatbot-"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30018,
+    "updated_at": "2026-08-14T13:15:53Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T13:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 223,
+    "updated_at": "2026-08-14T13:15:01Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
@@ -7,15 +97,6 @@
     "stars": 5730,
     "updated_at": "2026-08-14T13:14:00Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30016,
-    "updated_at": "2026-08-14T13:13:58Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -36,15 +117,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16729,
-    "updated_at": "2026-08-14T13:10:48Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -52,24 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T13:02:05Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T13:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T13:15:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -85,7 +139,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35179,
+    "stars": 35178,
     "updated_at": "2026-08-14T12:50:58Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -108,15 +162,6 @@
     "url": "https://github.com/geckse/markdown-vdb"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-14T12:47:47Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -124,6 +169,15 @@
     "stars": 67,
     "updated_at": "2026-08-14T12:47:02Z",
     "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11148,
+    "updated_at": "2026-08-14T12:44:11Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -176,7 +230,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6211,
-    "updated_at": "2026-08-14T13:03:05Z",
+    "updated_at": "2026-08-14T13:25:09Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -198,15 +252,6 @@
     "url": "https://github.com/TusKANNy/kannolo"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11147,
-    "updated_at": "2026-08-14T12:44:11Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Hackathon project for students finding a place to stay on or near NTU campus",
     "id": "holmns/ntu-hall-for-me",
     "language": "TypeScript",
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T12:02:30Z",
     "url": "https://github.com/holmns/ntu-hall-for-me"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-14T11:59:32Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "MemoryOS is a universal, enterprise-grade, persistent AI workspace that remembers project history, decisions, and shared",
@@ -247,7 +283,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12870,
+    "stars": 12868,
     "updated_at": "2026-08-14T11:34:54Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -288,15 +324,6 @@
     "url": "https://github.com/andrestubbe/FastAIVectorDB"
   },
   {
-    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
-    "id": "varun29ankuS/shodh-redb",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-redb",
-    "stars": 5,
-    "updated_at": "2026-08-14T13:11:07Z",
-    "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -311,7 +338,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8097,
-    "updated_at": "2026-08-14T12:51:58Z",
+    "updated_at": "2026-08-14T13:24:16Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-14T13:10:52Z",
+    "updated_at": "2026-08-14T13:25:49Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -364,7 +391,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45634,
+    "stars": 45633,
     "updated_at": "2026-08-14T10:26:24Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -410,7 +437,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 272,
-    "updated_at": "2026-08-14T12:56:37Z",
+    "updated_at": "2026-08-14T13:28:33Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-14T09:47:06Z",
     "url": "https://github.com/GoogleCloudPlatform/spanner-bb-samples"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-14T13:13:51Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6336,
-    "updated_at": "2026-08-14T13:05:46Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "A production-grade RAG system and neural voice assistant for low-resource Kannada literature ('Heli Hogu Kaarana'). It f",
-    "id": "Amruth011/kannada-rag-agent",
-    "language": "Python",
-    "name": "Amruth011/kannada-rag-agent",
-    "stars": 1,
-    "updated_at": "2026-08-14T09:42:06Z",
-    "url": "https://github.com/Amruth011/kannada-rag-agent"
   }
 ]
