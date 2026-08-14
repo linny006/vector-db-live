@@ -1,12 +1,57 @@
 [
   {
+    "description": "A highly secure Python backend engine featuring SSL/TLS encrypted streaming with local LLMs for mobile applications.",
+    "id": "Benan13/AI-Backend-Engine",
+    "language": "Python",
+    "name": "Benan13/AI-Backend-Engine",
+    "stars": 0,
+    "updated_at": "2026-08-14T12:13:50Z",
+    "url": "https://github.com/Benan13/AI-Backend-Engine"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-14T12:12:41Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-14T12:00:21Z",
+    "updated_at": "2026-08-14T12:09:40Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Official repository of the kANNolo library.",
+    "id": "TusKANNy/kannolo",
+    "language": "Rust",
+    "name": "TusKANNy/kannolo",
+    "stars": 75,
+    "updated_at": "2026-08-14T12:06:22Z",
+    "url": "https://github.com/TusKANNy/kannolo"
+  },
+  {
+    "description": "Hackathon project for students finding a place to stay on or near NTU campus",
+    "id": "holmns/ntu-hall-for-me",
+    "language": "TypeScript",
+    "name": "holmns/ntu-hall-for-me",
+    "stars": 0,
+    "updated_at": "2026-08-14T12:02:30Z",
+    "url": "https://github.com/holmns/ntu-hall-for-me"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T12:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -18,15 +63,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "A highly secure Python backend engine featuring SSL/TLS encrypted streaming with local LLMs for mobile applications.",
-    "id": "Benan13/AI-Backend-Engine",
-    "language": "Python",
-    "name": "Benan13/AI-Backend-Engine",
-    "stars": 0,
-    "updated_at": "2026-08-14T11:57:56Z",
-    "url": "https://github.com/Benan13/AI-Backend-Engine"
-  },
-  {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
     "id": "Daaboulex/openviking-nix",
     "language": "Shell",
@@ -34,6 +70,15 @@
     "stars": 3,
     "updated_at": "2026-08-14T11:56:35Z",
     "url": "https://github.com/Daaboulex/openviking-nix"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33969,
+    "updated_at": "2026-08-14T11:51:11Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
@@ -54,15 +99,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T11:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -72,21 +108,12 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-14T11:40:50Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30016,
-    "updated_at": "2026-08-14T11:37:42Z",
+    "updated_at": "2026-08-14T12:08:52Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -248,17 +275,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11148,
-    "updated_at": "2026-08-14T10:46:48Z",
+    "updated_at": "2026-08-14T12:05:39Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33968,
-    "updated_at": "2026-08-14T11:51:11Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "devopam/MCPg",
     "stars": 8,
-    "updated_at": "2026-08-14T11:55:54Z",
+    "updated_at": "2026-08-14T12:06:46Z",
     "url": "https://github.com/devopam/MCPg"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 272,
-    "updated_at": "2026-08-14T11:49:04Z",
+    "updated_at": "2026-08-14T12:02:05Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -382,7 +400,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 58959,
+    "stars": 58960,
     "updated_at": "2026-08-14T09:38:01Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -430,23 +448,5 @@
     "stars": 841,
     "updated_at": "2026-08-14T08:59:16Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16729,
-    "updated_at": "2026-08-14T11:54:14Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-08-14T08:51:12Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
   }
 ]
