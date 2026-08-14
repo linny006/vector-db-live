@@ -1,12 +1,129 @@
 [
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-14T15:58:49Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T16:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Repository with example code and data used in the monthly Getting Started with Pinecone Webinar.",
+    "id": "pinecone-io/getting-started-with-pinecone-webinar",
+    "language": "Python",
+    "name": "pinecone-io/getting-started-with-pinecone-webinar",
+    "stars": 3,
+    "updated_at": "2026-08-14T16:14:37Z",
+    "url": "https://github.com/pinecone-io/getting-started-with-pinecone-webinar"
+  },
+  {
+    "description": "A semantic search application on a corpus of North American Bird data from Wikipedia. Learn about different search metho",
+    "id": "pinecone-io/bird-semantic-search",
+    "language": "Python",
+    "name": "pinecone-io/bird-semantic-search",
+    "stars": 2,
+    "updated_at": "2026-08-14T16:13:33Z",
+    "url": "https://github.com/pinecone-io/bird-semantic-search"
+  },
+  {
+    "description": "Learn how to diagnose and apply different retrieval methods for different purposes with Pinecone.",
+    "id": "pinecone-io/better-rag-retrieval-marimo",
+    "language": "Python",
+    "name": "pinecone-io/better-rag-retrieval-marimo",
+    "stars": 3,
+    "updated_at": "2026-08-14T16:13:20Z",
+    "url": "https://github.com/pinecone-io/better-rag-retrieval-marimo"
+  },
+  {
+    "description": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
+    "id": "pinecone-io/examples",
+    "language": "Jupyter Notebook",
+    "name": "pinecone-io/examples",
+    "stars": 3035,
+    "updated_at": "2026-08-14T16:12:34Z",
+    "url": "https://github.com/pinecone-io/examples"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-14T16:11:24Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "This repository has Fundamentals and Advanced concepts in Generative Artificial Intelligence. It has hands-on Generative",
+    "id": "KashifMaqbool/Generative_AI_Engineering_Specialization",
+    "language": "Jupyter Notebook",
+    "name": "KashifMaqbool/Generative_AI_Engineering_Specialization",
+    "stars": 1,
+    "updated_at": "2026-08-14T16:09:42Z",
+    "url": "https://github.com/KashifMaqbool/Generative_AI_Engineering_Specialization"
+  },
+  {
+    "description": "Zapier integration app for Pinecone.",
+    "id": "pinecone-io/zapier-integration",
+    "language": "TypeScript",
+    "name": "pinecone-io/zapier-integration",
+    "stars": 0,
+    "updated_at": "2026-08-14T16:09:12Z",
+    "url": "https://github.com/pinecone-io/zapier-integration"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-14T16:08:29Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "VS Code extension for Pinecone (Database and Assistant)",
+    "id": "pinecone-io/pinecone-vscode",
+    "language": "TypeScript",
+    "name": "pinecone-io/pinecone-vscode",
+    "stars": 2,
+    "updated_at": "2026-08-14T16:08:03Z",
+    "url": "https://github.com/pinecone-io/pinecone-vscode"
+  },
+  {
+    "description": "Public OpenAPI specs for Pinecone RESTful APIs and Protobuf definitions",
+    "id": "pinecone-io/pinecone-api",
+    "language": "\u2014",
+    "name": "pinecone-io/pinecone-api",
+    "stars": 9,
+    "updated_at": "2026-08-14T16:07:50Z",
+    "url": "https://github.com/pinecone-io/pinecone-api"
+  },
+  {
+    "description": "The official Rust client for the Pinecone vector database",
+    "id": "pinecone-io/pinecone-rust-client",
+    "language": "Rust",
+    "name": "pinecone-io/pinecone-rust-client",
+    "stars": 23,
+    "updated_at": "2026-08-14T16:05:09Z",
+    "url": "https://github.com/pinecone-io/pinecone-rust-client"
+  },
+  {
+    "description": "The official Java client for the Pinecone vector database",
+    "id": "pinecone-io/pinecone-java-client",
+    "language": "Java",
+    "name": "pinecone-io/pinecone-java-client",
+    "stars": 50,
+    "updated_at": "2026-08-14T16:04:56Z",
+    "url": "https://github.com/pinecone-io/pinecone-java-client"
+  },
+  {
+    "description": "The official TypeScript/Node client for the Pinecone vector database",
+    "id": "pinecone-io/pinecone-ts-client",
+    "language": "TypeScript",
+    "name": "pinecone-io/pinecone-ts-client",
+    "stars": 278,
+    "updated_at": "2026-08-14T16:04:39Z",
+    "url": "https://github.com/pinecone-io/pinecone-ts-client"
   },
   {
     "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
@@ -14,8 +131,26 @@
     "language": "Python",
     "name": "TanNguyen234/VietLex-Tech-Spec",
     "stars": 0,
-    "updated_at": "2026-08-14T15:57:31Z",
+    "updated_at": "2026-08-14T16:03:34Z",
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T16:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-14T15:58:49Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "C# SDK for the Weaviate API -- open-source vector database",
@@ -81,15 +216,6 @@
     "url": "https://github.com/jazz-max/ruflo-hub"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T15:50:16Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -122,7 +248,7 @@
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 7,
-    "updated_at": "2026-08-14T15:46:58Z",
+    "updated_at": "2026-08-14T16:06:27Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -153,21 +279,12 @@
     "url": "https://github.com/tryAGI/Qdrant"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T15:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-14T15:49:35Z",
+    "updated_at": "2026-08-14T16:01:05Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -221,7 +338,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 5,
-    "updated_at": "2026-08-14T15:56:03Z",
+    "updated_at": "2026-08-14T16:12:43Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
@@ -293,7 +410,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6336,
-    "updated_at": "2026-08-14T15:52:11Z",
+    "updated_at": "2026-08-14T16:00:41Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -315,21 +432,12 @@
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-14T15:47:39Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "LlamaIndex is the leading document agent and OCR platform",
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
     "stars": 51638,
-    "updated_at": "2026-08-14T15:23:02Z",
+    "updated_at": "2026-08-14T16:10:23Z",
     "url": "https://github.com/run-llama/llama_index"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T15:21:52Z",
     "url": "https://github.com/SitanshuA091/VectorBench"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33973,
-    "updated_at": "2026-08-14T15:17:02Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35179,
-    "updated_at": "2026-08-14T15:25:41Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2423,
-    "updated_at": "2026-08-14T15:16:39Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12869,
-    "updated_at": "2026-08-14T15:16:29Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6211,
-    "updated_at": "2026-08-14T15:23:32Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "A workshop to implement agentic AI with Pinecone and AWS, including Jupyter notebooks and a Streamlit app",
-    "id": "pinecone-io/agentic-ai-with-pinecone-and-aws",
-    "language": "Jupyter Notebook",
-    "name": "pinecone-io/agentic-ai-with-pinecone-and-aws",
-    "stars": 1,
-    "updated_at": "2026-08-14T15:04:57Z",
-    "url": "https://github.com/pinecone-io/agentic-ai-with-pinecone-and-aws"
-  },
-  {
-    "description": "MCP server for persistent memory using Qdrant vector store",
-    "id": "taraksh01/memoryhub",
-    "language": "TypeScript",
-    "name": "taraksh01/memoryhub",
-    "stars": 1,
-    "updated_at": "2026-08-14T15:03:37Z",
-    "url": "https://github.com/taraksh01/memoryhub"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6647,
-    "updated_at": "2026-08-14T15:37:35Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 4,
-    "updated_at": "2026-08-14T15:02:25Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16729,
-    "updated_at": "2026-08-14T15:58:09Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45635,
-    "updated_at": "2026-08-14T14:58:22Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 423,
-    "updated_at": "2026-08-14T15:18:29Z",
-    "url": "https://github.com/redis/redis-vl-python"
   }
 ]
