@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T06:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-14T06:44:30Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 67,
+    "updated_at": "2026-08-14T06:36:33Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-14T06:36:02Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T06:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -14,17 +59,8 @@
     "language": "Python",
     "name": "devopam/MCPg",
     "stars": 8,
-    "updated_at": "2026-08-14T06:28:14Z",
+    "updated_at": "2026-08-14T06:37:53Z",
     "url": "https://github.com/devopam/MCPg"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 67,
-    "updated_at": "2026-08-14T06:25:44Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -40,7 +76,7 @@
     "id": "varun29ankuS/shodh-memory",
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
-    "stars": 271,
+    "stars": 272,
     "updated_at": "2026-08-14T06:22:24Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
@@ -61,33 +97,6 @@
     "stars": 223,
     "updated_at": "2026-08-14T06:17:23Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-14T06:15:49Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T06:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T06:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
@@ -121,7 +130,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45632,
+    "stars": 45633,
     "updated_at": "2026-08-14T06:12:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -160,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T05:58:03Z",
     "url": "https://github.com/skibusts-ops/zcube"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-14T05:56:07Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "ZCube client SDKs \u2014 TypeScript, Go, Python, Rust, plus framework adapters",
@@ -265,7 +265,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2251,
+    "stars": 2252,
     "updated_at": "2026-08-14T05:03:37Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -351,15 +351,6 @@
     "url": "https://github.com/pinecone-io/bird-semantic-search"
   },
   {
-    "description": "Web research for your agents with smart and safe tooling + knowledge store",
-    "id": "Lincoln504/pi-research",
-    "language": "TypeScript",
-    "name": "Lincoln504/pi-research",
-    "stars": 26,
-    "updated_at": "2026-08-14T03:44:32Z",
-    "url": "https://github.com/Lincoln504/pi-research"
-  },
-  {
     "description": "Next.js chatbot example backed by Pinecone and the OpenAI API, deployable to Vercel.",
     "id": "pinecone-io/vercel-chatbot-template",
     "language": "TypeScript",
@@ -392,7 +383,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8093,
-    "updated_at": "2026-08-14T06:17:38Z",
+    "updated_at": "2026-08-14T06:39:25Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -448,5 +439,14 @@
     "stars": 16729,
     "updated_at": "2026-08-14T06:10:33Z",
     "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Large document Q&A agent using RAG",
+    "id": "djleamen/doc-reader",
+    "language": "Python",
+    "name": "djleamen/doc-reader",
+    "stars": 3,
+    "updated_at": "2026-08-14T02:51:54Z",
+    "url": "https://github.com/djleamen/doc-reader"
   }
 ]
