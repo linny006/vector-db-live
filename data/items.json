@@ -1,5 +1,86 @@
 [
   {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-14T23:26:55Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1614,
+    "updated_at": "2026-08-14T23:23:32Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-14T23:21:49Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11148,
+    "updated_at": "2026-08-14T23:20:41Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-14T23:20:31Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-14T23:19:43Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T23:17:53Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-14T23:17:03Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T23:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
     "id": "Raynerhalfandhalf451/writeback",
     "language": "JavaScript",
@@ -117,15 +198,6 @@
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11148,
-    "updated_at": "2026-08-14T23:05:07Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
     "id": "roberthalfway204/Document-Intelligent-Assistant",
     "language": "Python",
@@ -151,24 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-14T23:01:18Z",
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T23:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T23:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
@@ -232,15 +286,6 @@
     "stars": 6338,
     "updated_at": "2026-08-14T22:50:54Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-14T22:49:53Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
@@ -403,50 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-14T22:26:10Z",
     "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-08-14T22:26:02Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-14T22:23:29Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "A filesystem-native vector database built around Markdown files. For AGENTS and MEMORY in mind. CLI first, folder based,",
-    "id": "geckse/markdown-vdb",
-    "language": "Rust",
-    "name": "geckse/markdown-vdb",
-    "stars": 23,
-    "updated_at": "2026-08-14T22:22:23Z",
-    "url": "https://github.com/geckse/markdown-vdb"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-14T22:20:23Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-14T22:41:18Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
