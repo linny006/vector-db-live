@@ -1,12 +1,39 @@
 [
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45635,
-    "updated_at": "2026-08-14T14:58:22Z",
-    "url": "https://github.com/milvus-io/milvus"
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6211,
+    "updated_at": "2026-08-14T15:14:52Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-14T15:14:28Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-08-14T15:12:15Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "Memory SDK for AI agents \u2014 bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid",
+    "id": "Bitwarelabscom/bwmem",
+    "language": "TypeScript",
+    "name": "Bitwarelabscom/bwmem",
+    "stars": 1,
+    "updated_at": "2026-08-14T15:11:47Z",
+    "url": "https://github.com/Bitwarelabscom/bwmem"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -14,8 +41,107 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6336,
-    "updated_at": "2026-08-14T14:55:30Z",
+    "updated_at": "2026-08-14T15:11:26Z",
     "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2422,
+    "updated_at": "2026-08-14T15:14:13Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 223,
+    "updated_at": "2026-08-14T15:14:34Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-14T15:07:13Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "A workshop to implement agentic AI with Pinecone and AWS, including Jupyter notebooks and a Streamlit app",
+    "id": "pinecone-io/agentic-ai-with-pinecone-and-aws",
+    "language": "Jupyter Notebook",
+    "name": "pinecone-io/agentic-ai-with-pinecone-and-aws",
+    "stars": 1,
+    "updated_at": "2026-08-14T15:04:57Z",
+    "url": "https://github.com/pinecone-io/agentic-ai-with-pinecone-and-aws"
+  },
+  {
+    "description": "MCP server for persistent memory using Qdrant vector store",
+    "id": "taraksh01/memoryhub",
+    "language": "TypeScript",
+    "name": "taraksh01/memoryhub",
+    "stars": 1,
+    "updated_at": "2026-08-14T15:03:37Z",
+    "url": "https://github.com/taraksh01/memoryhub"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6647,
+    "updated_at": "2026-08-14T15:02:59Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-08-14T15:02:25Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16729,
+    "updated_at": "2026-08-14T15:03:45Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T15:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T15:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45635,
+    "updated_at": "2026-08-14T14:58:22Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
@@ -54,15 +180,6 @@
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T14:49:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -81,47 +198,11 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-14T14:55:21Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-08-14T14:46:06Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T15:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "MCP server for persistent memory using Qdrant vector store",
-    "id": "taraksh01/memoryhub",
-    "language": "TypeScript",
-    "name": "taraksh01/memoryhub",
-    "stars": 1,
-    "updated_at": "2026-08-14T14:56:25Z",
-    "url": "https://github.com/taraksh01/memoryhub"
-  },
-  {
     "description": "\u4f7f\u7528\u793e\u4ea4\u8f6f\u4ef6\u804a\u5929\u8bb0\u5f55\u7ed3\u5408\u5411\u91cf\u6570\u636e\u5e93\u8ba9AI\u66f4\u597d\u7684\u626e\u6f14\u5bf9\u65b9\u7684\u89d2\u8272\uff0c\u5728\u4e0d\u5fae\u8c03\u6a21\u578b\u7684\u60c5\u51b5\u4e0b\u53ef\u4ee5\u8fbe\u5230\u53ef\u89c2\u7684\u6548\u679c\u3002\u628a\u66fe\u7ecf\u7684\u7f8e\u597d\uff0c\u7eed\u6210\u5f80\u540e\u7684\u966a\u4f34\u3002",
     "id": "kldhsh123/Afterglow",
     "language": "Python",
     "name": "kldhsh123/Afterglow",
-    "stars": 269,
+    "stars": 270,
     "updated_at": "2026-08-14T14:41:51Z",
     "url": "https://github.com/kldhsh123/Afterglow"
   },
@@ -248,7 +329,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30016,
-    "updated_at": "2026-08-14T14:57:39Z",
+    "updated_at": "2026-08-14T15:09:44Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T14:09:37Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-08-14T14:08:19Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-14T14:06:26Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Official Terraform provider for Pinecone ",
-    "id": "pinecone-io/terraform-provider-pinecone",
-    "language": "Go",
-    "name": "pinecone-io/terraform-provider-pinecone",
-    "stars": 32,
-    "updated_at": "2026-08-14T14:05:19Z",
-    "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-08-14T14:05:00Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "Zapier integration app for Pinecone.",
-    "id": "pinecone-io/zapier-integration",
-    "language": "TypeScript",
-    "name": "pinecone-io/zapier-integration",
-    "stars": 0,
-    "updated_at": "2026-08-14T14:29:36Z",
-    "url": "https://github.com/pinecone-io/zapier-integration"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33971,
-    "updated_at": "2026-08-14T14:03:13Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-14T14:03:10Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-08-14T14:02:47Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35180,
-    "updated_at": "2026-08-14T14:02:24Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   }
 ]
