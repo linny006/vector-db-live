@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-14T16:58:44Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Memory SDK for AI agents \u2014 bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid",
+    "id": "Bitwarelabscom/bwmem",
+    "language": "TypeScript",
+    "name": "Bitwarelabscom/bwmem",
+    "stars": 1,
+    "updated_at": "2026-08-14T16:57:55Z",
+    "url": "https://github.com/Bitwarelabscom/bwmem"
+  },
+  {
+    "description": "Personal Glossary Database to help keep track on terms and theory for school and future work",
+    "id": "JohnnyHyytiainen/glossary_db",
+    "language": "Python",
+    "name": "JohnnyHyytiainen/glossary_db",
+    "stars": 3,
+    "updated_at": "2026-08-14T17:00:06Z",
+    "url": "https://github.com/JohnnyHyytiainen/glossary_db"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-14T17:00:06Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6337,
+    "updated_at": "2026-08-14T16:59:55Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-14T16:53:43Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-14T16:53:35Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T16:50:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -18,21 +90,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T16:48:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-14T16:48:25Z",
+    "updated_at": "2026-08-14T17:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -81,21 +144,12 @@
     "url": "https://github.com/topk-io/topk"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6336,
-    "updated_at": "2026-08-14T16:47:15Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
     "id": "thameema/memnos",
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 7,
-    "updated_at": "2026-08-14T16:48:14Z",
+    "updated_at": "2026-08-14T16:58:57Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -106,24 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-14T16:38:25Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Memory SDK for AI agents \u2014 bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid",
-    "id": "Bitwarelabscom/bwmem",
-    "language": "TypeScript",
-    "name": "Bitwarelabscom/bwmem",
-    "stars": 1,
-    "updated_at": "2026-08-14T16:37:06Z",
-    "url": "https://github.com/Bitwarelabscom/bwmem"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-14T16:37:46Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "sindrehaugen/NCE",
     "stars": 0,
-    "updated_at": "2026-08-14T16:15:46Z",
+    "updated_at": "2026-08-14T16:59:37Z",
     "url": "https://github.com/sindrehaugen/NCE"
   },
   {
@@ -342,15 +378,6 @@
     "url": "https://github.com/pinecone-io/pinecone-ts-client"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-14T15:58:49Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "C# SDK for the Weaviate API -- open-source vector database",
     "id": "tryAGI/Weaviate",
     "language": "C#",
@@ -376,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T15:53:57Z",
     "url": "https://github.com/tryAGI/Milvus"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-14T15:52:30Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
@@ -419,7 +437,7 @@
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
     "stars": 3251,
-    "updated_at": "2026-08-14T16:45:51Z",
+    "updated_at": "2026-08-14T16:51:59Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T15:45:59Z",
     "url": "https://github.com/tryAGI/Qdrant"
-  },
-  {
-    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
-    "id": "vicquick/nobrainr",
-    "language": "Python",
-    "name": "vicquick/nobrainr",
-    "stars": 0,
-    "updated_at": "2026-08-14T15:42:54Z",
-    "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "AI-powered RAG app to chat with any documentation - scrape, generate knowledge base, and query docs with source-backed a",
-    "id": "avishek0769/DocChat",
-    "language": "TypeScript",
-    "name": "avishek0769/DocChat",
-    "stars": 18,
-    "updated_at": "2026-08-14T15:41:58Z",
-    "url": "https://github.com/avishek0769/DocChat"
   }
 ]
