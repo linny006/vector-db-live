@@ -5,8 +5,116 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-14T16:15:22Z",
+    "updated_at": "2026-08-14T16:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MCP server for persistent memory using Qdrant vector store",
+    "id": "taraksh01/memoryhub",
+    "language": "TypeScript",
+    "name": "taraksh01/memoryhub",
+    "stars": 1,
+    "updated_at": "2026-08-14T16:28:10Z",
+    "url": "https://github.com/taraksh01/memoryhub"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-14T16:27:29Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Next.js chatbot example backed by Pinecone and the OpenAI API, deployable to Vercel.",
+    "id": "pinecone-io/vercel-chatbot-template",
+    "language": "TypeScript",
+    "name": "pinecone-io/vercel-chatbot-template",
+    "stars": 16,
+    "updated_at": "2026-08-14T16:27:26Z",
+    "url": "https://github.com/pinecone-io/vercel-chatbot-template"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-14T16:27:24Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "A collection of ready-to-use n8n workflow templates for building intelligent automations using Pinecone.",
+    "id": "pinecone-io/n8n-templates",
+    "language": "\u2014",
+    "name": "pinecone-io/n8n-templates",
+    "stars": 12,
+    "updated_at": "2026-08-14T16:25:12Z",
+    "url": "https://github.com/pinecone-io/n8n-templates"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6336,
+    "updated_at": "2026-08-14T16:20:24Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-08-14T16:20:12Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-14T16:19:28Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4417,
+    "updated_at": "2026-08-14T16:19:21Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-14T16:17:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a",
+    "id": "sindrehaugen/NCE",
+    "language": "Python",
+    "name": "sindrehaugen/NCE",
+    "stars": 0,
+    "updated_at": "2026-08-14T16:15:46Z",
+    "url": "https://github.com/sindrehaugen/NCE"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T16:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Repository with example code and data used in the monthly Getting Started with Pinecone Webinar.",
@@ -50,7 +158,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-14T16:11:24Z",
+    "updated_at": "2026-08-14T16:30:14Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -77,7 +185,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-14T16:08:29Z",
+    "updated_at": "2026-08-14T16:21:47Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -124,24 +232,6 @@
     "stars": 278,
     "updated_at": "2026-08-14T16:04:39Z",
     "url": "https://github.com/pinecone-io/pinecone-ts-client"
-  },
-  {
-    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-08-14T16:03:34Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T16:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -234,15 +324,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-14T15:47:08Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
     "id": "thameema/memnos",
     "language": "Python",
@@ -279,15 +360,6 @@
     "url": "https://github.com/tryAGI/Qdrant"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4417,
-    "updated_at": "2026-08-14T16:01:05Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
     "id": "vicquick/nobrainr",
     "language": "Python",
@@ -322,6 +394,15 @@
     "stars": 0,
     "updated_at": "2026-08-14T15:40:52Z",
     "url": "https://github.com/tryAGI/Turbopuffer"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30019,
+    "updated_at": "2026-08-14T15:40:20Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -365,88 +446,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11148,
-    "updated_at": "2026-08-14T15:39:42Z",
+    "updated_at": "2026-08-14T16:25:03Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-14T15:29:32Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "Sample of how vector embeddings works using OpenAI API, OpenRouter and Supabase pgvector. ",
-    "id": "izynegallardo/vector-embeddings",
-    "language": "JavaScript",
-    "name": "izynegallardo/vector-embeddings",
-    "stars": 0,
-    "updated_at": "2026-08-14T15:29:17Z",
-    "url": "https://github.com/izynegallardo/vector-embeddings"
-  },
-  {
-    "description": "Pinecone.io Golang Client",
-    "id": "pinecone-io/go-pinecone",
-    "language": "Go",
-    "name": "pinecone-io/go-pinecone",
-    "stars": 69,
-    "updated_at": "2026-08-14T15:29:08Z",
-    "url": "https://github.com/pinecone-io/go-pinecone"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-14T15:28:46Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6336,
-    "updated_at": "2026-08-14T16:00:41Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30018,
-    "updated_at": "2026-08-14T15:40:20Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-08-14T15:25:46Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 51638,
-    "updated_at": "2026-08-14T16:10:23Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "A benchmarking playground for FAISS vector indexes comparing indexes on recall, latency, and memory, with vector retriev",
-    "id": "SitanshuA091/VectorBench",
-    "language": "Python",
-    "name": "SitanshuA091/VectorBench",
-    "stars": 0,
-    "updated_at": "2026-08-14T15:21:52Z",
-    "url": "https://github.com/SitanshuA091/VectorBench"
   }
 ]
