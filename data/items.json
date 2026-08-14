@@ -1,12 +1,30 @@
 [
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1079,
+    "updated_at": "2026-08-14T04:51:38Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Official Java client for Qdrant ",
+    "id": "qdrant/java-client",
+    "language": "Java",
+    "name": "qdrant/java-client",
+    "stars": 94,
+    "updated_at": "2026-08-14T04:48:13Z",
+    "url": "https://github.com/qdrant/java-client"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-14T04:34:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-14T04:47:58Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +32,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-14T04:30:23Z",
+    "updated_at": "2026-08-14T04:45:24Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -25,6 +43,15 @@
     "stars": 2,
     "updated_at": "2026-08-14T04:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-14T04:34:58Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -202,7 +229,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2409,
+    "stars": 2410,
     "updated_at": "2026-08-14T03:15:07Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -266,7 +293,7 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 120,
-    "updated_at": "2026-08-14T03:06:59Z",
+    "updated_at": "2026-08-14T04:56:49Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-14T02:04:58Z",
     "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
-    "id": "sshisto/mnemo-mcp",
-    "language": "Python",
-    "name": "sshisto/mnemo-mcp",
-    "stars": 2,
-    "updated_at": "2026-08-14T02:03:38Z",
-    "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 2,
-    "updated_at": "2026-08-14T02:03:34Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-08-14T02:03:09Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
   }
 ]
