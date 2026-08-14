@@ -5,26 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-14T20:00:25Z",
+    "updated_at": "2026-08-14T20:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Lifelong AI companion with four personas, semantic memory across conversations, and voice in English, Hindi and Kannada.",
-    "id": "Aarti-panchal01/eka",
-    "language": "Python",
-    "name": "Aarti-panchal01/eka",
-    "stars": 0,
-    "updated_at": "2026-08-14T19:59:41Z",
-    "url": "https://github.com/Aarti-panchal01/eka"
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-14T20:15:17Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "A highly secure Python backend engine featuring SSL/TLS encrypted streaming with local LLMs for mobile applications.",
-    "id": "Benan13/AI-Backend-Engine",
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-14T20:10:44Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
     "language": "Python",
-    "name": "Benan13/AI-Backend-Engine",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-08-14T20:10:17Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1080,
+    "updated_at": "2026-08-14T20:10:08Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "\ud83e\udd16 Hands-on learning and projects covering LLMs, LangChain, RAG, AI Agents, tool calling, vector databases, multimodal AI",
+    "id": "saichilukuri96/Basics-of-AI-Agents",
+    "language": "\u2014",
+    "name": "saichilukuri96/Basics-of-AI-Agents",
     "stars": 0,
-    "updated_at": "2026-08-14T20:00:20Z",
-    "url": "https://github.com/Benan13/AI-Backend-Engine"
+    "updated_at": "2026-08-14T20:08:11Z",
+    "url": "https://github.com/saichilukuri96/Basics-of-AI-Agents"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6338,
+    "updated_at": "2026-08-14T20:05:29Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
@@ -32,8 +68,53 @@
     "language": "Rust",
     "name": "kamilsj/vectors",
     "stars": 1,
-    "updated_at": "2026-08-14T19:58:34Z",
+    "updated_at": "2026-08-14T20:01:50Z",
     "url": "https://github.com/kamilsj/vectors"
+  },
+  {
+    "description": "A highly secure Python backend engine featuring SSL/TLS encrypted streaming with local LLMs for mobile applications.",
+    "id": "Benan13/AI-Backend-Engine",
+    "language": "Python",
+    "name": "Benan13/AI-Backend-Engine",
+    "stars": 0,
+    "updated_at": "2026-08-14T20:01:37Z",
+    "url": "https://github.com/Benan13/AI-Backend-Engine"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-14T20:01:27Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1324,
+    "updated_at": "2026-08-14T20:01:16Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T20:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Lifelong AI companion with four personas, semantic memory across conversations, and voice in English, Hindi and Kannada.",
+    "id": "Aarti-panchal01/eka",
+    "language": "Python",
+    "name": "Aarti-panchal01/eka",
+    "stars": 0,
+    "updated_at": "2026-08-14T20:02:25Z",
+    "url": "https://github.com/Aarti-panchal01/eka"
   },
   {
     "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
@@ -81,15 +162,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T19:46:45Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -99,15 +171,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-14T19:46:20Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -115,15 +178,6 @@
     "stars": 7050,
     "updated_at": "2026-08-14T19:46:08Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-14T19:42:38Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -140,7 +194,7 @@
     "language": "Python",
     "name": "sharfuddin18/Codemaster-Ai",
     "stars": 2,
-    "updated_at": "2026-08-14T19:59:24Z",
+    "updated_at": "2026-08-14T20:12:16Z",
     "url": "https://github.com/sharfuddin18/Codemaster-Ai"
   },
   {
@@ -171,31 +225,13 @@
     "url": "https://github.com/holmns/ntu-hall-for-me"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-14T19:37:34Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "",
     "id": "dkylewillis/vera",
     "language": "Python",
     "name": "dkylewillis/vera",
     "stars": 17,
-    "updated_at": "2026-08-14T19:40:45Z",
+    "updated_at": "2026-08-14T20:02:14Z",
     "url": "https://github.com/dkylewillis/vera"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1080,
-    "updated_at": "2026-08-14T19:54:03Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Memory SDK for AI agents \u2014 bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid",
@@ -277,15 +313,6 @@
     "stars": 87,
     "updated_at": "2026-08-14T19:51:39Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1324,
-    "updated_at": "2026-08-14T19:20:57Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
@@ -396,15 +423,6 @@
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6338,
-    "updated_at": "2026-08-14T17:58:23Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
@@ -418,7 +436,7 @@
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 3252,
+    "stars": 3253,
     "updated_at": "2026-08-14T17:39:58Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T17:39:42Z",
     "url": "https://github.com/felixzhu97/explore-ai"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 339,
-    "updated_at": "2026-08-14T17:38:21Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessi",
-    "id": "verygoodplugins/automem",
-    "language": "Python",
-    "name": "verygoodplugins/automem",
-    "stars": 799,
-    "updated_at": "2026-08-14T17:37:47Z",
-    "url": "https://github.com/verygoodplugins/automem"
   }
 ]
