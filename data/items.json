@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T01:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le",
+    "id": "api-evangelist/lf-ai-and-data",
+    "language": "\u2014",
+    "name": "api-evangelist/lf-ai-and-data",
+    "stars": 0,
+    "updated_at": "2026-08-14T01:14:58Z",
+    "url": "https://github.com/api-evangelist/lf-ai-and-data"
+  },
+  {
+    "description": "LanceDB is the AI-Native multimodal lakehouse built on the open-source Lance columnar storage format. It pairs an Apache",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-08-14T01:13:45Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-14T01:10:19Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 223,
+    "updated_at": "2026-08-14T01:09:57Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11145,
+    "updated_at": "2026-08-14T01:09:53Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "IronCore Labs builds application-layer encryption tools that keep sensitive data private while it stays usable. Its prod",
+    "id": "api-evangelist/ironcore-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ironcore-labs",
+    "stars": 0,
+    "updated_at": "2026-08-14T01:09:49Z",
+    "url": "https://github.com/api-evangelist/ironcore-labs"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-14T01:09:13Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
+    "id": "oceanbase/oceanbase",
+    "language": "C++",
+    "name": "oceanbase/oceanbase",
+    "stars": 10240,
+    "updated_at": "2026-08-14T01:01:01Z",
+    "url": "https://github.com/oceanbase/oceanbase"
+  },
+  {
+    "description": "Gel Data (formerly EdgeDB Inc.) builds Gel, an open-source graph-relational database that supercharges PostgreSQL with a",
+    "id": "api-evangelist/gel-data",
+    "language": "\u2014",
+    "name": "api-evangelist/gel-data",
+    "stars": 0,
+    "updated_at": "2026-08-14T01:00:57Z",
+    "url": "https://github.com/api-evangelist/gel-data"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T01:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Production-ready KV-backed HNSW implementation in Rust using LMDB",
     "id": "nnethercott/hannoy",
     "language": "Rust",
@@ -18,15 +117,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-14T00:54:58Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -34,15 +124,6 @@
     "stars": 45628,
     "updated_at": "2026-08-14T00:52:22Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-14T00:49:48Z",
-    "url": "https://github.com/agent-ix/ecaz"
   },
   {
     "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
@@ -90,24 +171,6 @@
     "url": "https://github.com/api-evangelist/contentstack"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T00:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T00:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Chroma (Chroma DB) is an open-source, AI-native vector database (embedding database) for building LLM, RAG, and semantic",
     "id": "api-evangelist/chroma-db",
     "language": "\u2014",
@@ -149,7 +212,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8094,
-    "updated_at": "2026-08-14T00:34:32Z",
+    "updated_at": "2026-08-14T01:12:12Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -216,21 +279,12 @@
     "url": "https://github.com/DingdongMatch/mems"
   },
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 223,
-    "updated_at": "2026-08-14T00:23:26Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30004,
-    "updated_at": "2026-08-14T00:57:20Z",
+    "updated_at": "2026-08-14T01:12:37Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -360,15 +414,6 @@
     "url": "https://github.com/DopamineDriven/slipstream"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11145,
-    "updated_at": "2026-08-14T00:18:53Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
     "id": "Yasou13/MESA",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-13T22:05:43Z",
     "url": "https://github.com/Tunolabs/xyzdb"
-  },
-  {
-    "description": "Multi-modal product catalog platform \u2014 CLIP + BGE embeddings in Qdrant, hybrid retrieval with cross-encoder reranking, a",
-    "id": "Vikas9892/product_intelligence",
-    "language": "Python",
-    "name": "Vikas9892/product_intelligence",
-    "stars": 3,
-    "updated_at": "2026-08-13T21:56:53Z",
-    "url": "https://github.com/Vikas9892/product_intelligence"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "worka-ai/anvil",
-    "language": "Rust",
-    "name": "worka-ai/anvil",
-    "stars": 77,
-    "updated_at": "2026-08-13T21:55:18Z",
-    "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "A privacy-first AI-powered desktop tool that indexes files using local AI models. Built with Tauri, Rust and Ollama.",
-    "id": "RaptorAssassin/smart-file-search",
-    "language": "TypeScript",
-    "name": "RaptorAssassin/smart-file-search",
-    "stars": 0,
-    "updated_at": "2026-08-14T00:25:32Z",
-    "url": "https://github.com/RaptorAssassin/smart-file-search"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-08-13T21:36:57Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6633,
-    "updated_at": "2026-08-13T21:28:06Z",
-    "url": "https://github.com/plastic-labs/honcho"
   }
 ]
