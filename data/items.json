@@ -1,5 +1,50 @@
 [
   {
+    "description": "RAG system for asking natural-language questions about a codebase, using AST-based chunking via tree-sitter instead of n",
+    "id": "moizali-devs/devlens",
+    "language": "HTML",
+    "name": "moizali-devs/devlens",
+    "stars": 0,
+    "updated_at": "2026-08-14T00:07:56Z",
+    "url": "https://github.com/moizali-devs/devlens"
+  },
+  {
+    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
+    "id": "fewshot-works/academy",
+    "language": "TypeScript",
+    "name": "fewshot-works/academy",
+    "stars": 4,
+    "updated_at": "2026-08-14T00:07:42Z",
+    "url": "https://github.com/fewshot-works/academy"
+  },
+  {
+    "description": "Chat with multiple PDFs: a finance-aware RAG analyst for annual reports, built with Streamlit, LangChain, Google Gemini ",
+    "id": "tirth1263/Multi-PDF-RAG-Analyzer",
+    "language": "Python",
+    "name": "tirth1263/Multi-PDF-RAG-Analyzer",
+    "stars": 0,
+    "updated_at": "2026-08-14T00:06:27Z",
+    "url": "https://github.com/tirth1263/Multi-PDF-RAG-Analyzer"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-14T00:03:00Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T00:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-13T23:59:05Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-13T23:58:07Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -50,17 +86,8 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 223,
-    "updated_at": "2026-08-13T23:57:54Z",
+    "updated_at": "2026-08-14T00:14:22Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Chat with multiple PDFs: a finance-aware RAG analyst for annual reports, built with Streamlit, LangChain, Google Gemini ",
-    "id": "tirth1263/Multi-PDF-RAG-Analyzer",
-    "language": "Python",
-    "name": "tirth1263/Multi-PDF-RAG-Analyzer",
-    "stars": 0,
-    "updated_at": "2026-08-13T23:48:18Z",
-    "url": "https://github.com/tirth1263/Multi-PDF-RAG-Analyzer"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -77,17 +104,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30004,
-    "updated_at": "2026-08-13T23:42:58Z",
+    "updated_at": "2026-08-14T00:12:51Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-13T23:41:49Z",
-    "url": "https://github.com/agent-ix/ecaz"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -194,7 +212,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8093,
-    "updated_at": "2026-08-13T22:56:47Z",
+    "updated_at": "2026-08-14T00:10:56Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "Sarishc/Engram-A-Universal-Memory-Layer-for-LLMs",
     "stars": 1,
-    "updated_at": "2026-08-13T23:35:41Z",
+    "updated_at": "2026-08-14T00:09:10Z",
     "url": "https://github.com/Sarishc/Engram-A-Universal-Memory-Layer-for-LLMs"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11145,
-    "updated_at": "2026-08-13T23:41:14Z",
+    "updated_at": "2026-08-14T00:06:29Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -277,6 +295,15 @@
     "stars": 5,
     "updated_at": "2026-08-13T22:09:37Z",
     "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 33967,
+    "updated_at": "2026-08-13T22:07:13Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -360,15 +387,6 @@
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 33965,
-    "updated_at": "2026-08-13T22:07:13Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Vector DB implementation in Mojo",
     "id": "bewaffnete/MojoVec",
     "language": "Mojo",
@@ -430,23 +448,5 @@
     "stars": 3035,
     "updated_at": "2026-08-13T19:41:41Z",
     "url": "https://github.com/pinecone-io/examples"
-  },
-  {
-    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
-    "id": "boulif781/enterprise-knowledge-assistant",
-    "language": "\u2014",
-    "name": "boulif781/enterprise-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-13T19:35:14Z",
-    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-08-13T19:33:21Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   }
 ]
