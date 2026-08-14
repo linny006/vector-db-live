@@ -1,12 +1,84 @@
 [
   {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-08-14T01:44:23Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-08-14T01:42:18Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-14T01:42:08Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-08-14T01:41:37Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "\ud83d\udc15 Sniffs out the lease clauses that shouldn't be there \u2014 WA tenant-law RAG: clause-by-clause scan reports with statute c",
+    "id": "tywangq/leasehound",
+    "language": "Python",
+    "name": "tywangq/leasehound",
+    "stars": 2,
+    "updated_at": "2026-08-14T01:37:52Z",
+    "url": "https://github.com/tywangq/leasehound"
+  },
+  {
     "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
     "id": "lyonzin/knowledge-rag",
     "language": "Python",
     "name": "lyonzin/knowledge-rag",
-    "stars": 250,
-    "updated_at": "2026-08-14T01:30:19Z",
+    "stars": 251,
+    "updated_at": "2026-08-14T01:34:25Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-14T01:33:19Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T01:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T01:45:25Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T01:25:07Z",
     "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 2,
-    "updated_at": "2026-08-14T01:24:30Z",
-    "url": "https://github.com/agent-ix/ecaz"
   },
   {
     "description": "MyScale is a SQL vector database built on a ClickHouse fork (MyScaleDB), combining high-performance vector search, full-",
@@ -79,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T01:18:10Z",
     "url": "https://github.com/api-evangelist/marqo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T01:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T01:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le",
@@ -149,7 +194,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1877,
-    "updated_at": "2026-08-14T01:21:31Z",
+    "updated_at": "2026-08-14T01:31:29Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -193,7 +238,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45628,
+    "stars": 45629,
     "updated_at": "2026-08-14T00:52:22Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-14T00:49:29Z",
     "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-14T00:48:49Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Crate.io is the company behind CrateDB, a distributed SQL database engineered for real-time analytics on large volumes o",
@@ -347,7 +383,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30004,
-    "updated_at": "2026-08-14T01:29:20Z",
+    "updated_at": "2026-08-14T01:41:57Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-13T23:04:26Z",
     "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "Turns Truth Social posts into searchable market-narrative events: Python ETL, LLM-assisted classification, ChromaDB sema",
-    "id": "feifeifeifeifeifeifei/Market-Narrative-Intelligence-System",
-    "language": "Python",
-    "name": "feifeifeifeifeifeifei/Market-Narrative-Intelligence-System",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:57:22Z",
-    "url": "https://github.com/feifeifeifeifeifeifei/Market-Narrative-Intelligence-System"
-  },
-  {
-    "description": "Provider-agnostic semantic memory service with multimodal ingestion, hybrid retrieval, knowledge graphs, and RAG-powered",
-    "id": "Sarishc/Engram-A-Universal-Memory-Layer-for-LLMs",
-    "language": "Python",
-    "name": "Sarishc/Engram-A-Universal-Memory-Layer-for-LLMs",
-    "stars": 1,
-    "updated_at": "2026-08-14T00:49:18Z",
-    "url": "https://github.com/Sarishc/Engram-A-Universal-Memory-Layer-for-LLMs"
-  },
-  {
-    "description": "RAG-based chatbot that answers questions strictly from uploaded PDF/DOCX/TXT documents using FastAPI, LangChain, Gemini,",
-    "id": "HamzaAli2002/rag-chatbot",
-    "language": "Python",
-    "name": "HamzaAli2002/rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-13T22:44:59Z",
-    "url": "https://github.com/HamzaAli2002/rag-chatbot"
-  },
-  {
-    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
-    "id": "ankush-poonia007/STARTUP-AI-AGENT",
-    "language": "Python",
-    "name": "ankush-poonia007/STARTUP-AI-AGENT",
-    "stars": 4,
-    "updated_at": "2026-08-13T22:36:50Z",
-    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
   }
 ]
