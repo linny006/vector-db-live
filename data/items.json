@@ -1,11 +1,128 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-14T17:42:51Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35181,
+    "updated_at": "2026-08-14T17:42:01Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3251,
+    "updated_at": "2026-08-14T17:39:58Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 1,
+    "updated_at": "2026-08-14T17:39:42Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 339,
+    "updated_at": "2026-08-14T17:38:21Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-14T17:38:07Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30021,
+    "updated_at": "2026-08-14T17:38:46Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessi",
+    "id": "verygoodplugins/automem",
+    "language": "Python",
+    "name": "verygoodplugins/automem",
+    "stars": 799,
+    "updated_at": "2026-08-14T17:37:47Z",
+    "url": "https://github.com/verygoodplugins/automem"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-14T17:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1614,
+    "updated_at": "2026-08-14T17:34:54Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 7,
+    "updated_at": "2026-08-14T17:34:08Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-14T17:43:31Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-14T17:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
     "id": "Nayjest/ai-microcore",
     "language": "Python",
     "name": "Nayjest/ai-microcore",
     "stars": 107,
-    "updated_at": "2026-08-14T17:29:35Z",
+    "updated_at": "2026-08-14T17:30:59Z",
     "url": "https://github.com/Nayjest/ai-microcore"
   },
   {
@@ -18,15 +135,6 @@
     "url": "https://github.com/vicquick/nobrainr"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-14T17:27:46Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Demo integrating Pinecone with Neo4j to analyze and explore Supreme Court cases.",
     "id": "pinecone-io/pinecone-neo4j-explorer",
     "language": "TypeScript",
@@ -36,21 +144,12 @@
     "url": "https://github.com/pinecone-io/pinecone-neo4j-explorer"
   },
   {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3251,
-    "updated_at": "2026-08-14T17:23:04Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6338,
-    "updated_at": "2026-08-14T17:21:39Z",
+    "updated_at": "2026-08-14T17:39:26Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -81,24 +180,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-14T17:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-14T17:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Memory SDK for AI agents \u2014 bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid",
     "id": "Bitwarelabscom/bwmem",
     "language": "TypeScript",
@@ -108,22 +189,13 @@
     "url": "https://github.com/Bitwarelabscom/bwmem"
   },
   {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 7,
-    "updated_at": "2026-08-14T17:20:29Z",
-    "url": "https://github.com/thameema/memnos"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30020,
-    "updated_at": "2026-08-14T17:19:06Z",
-    "url": "https://github.com/topoteretes/cognee"
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1321,
+    "updated_at": "2026-08-14T17:13:38Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -133,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-08-14T17:11:19Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
-    "id": "felixzhu97/explore-ai",
-    "language": "Java",
-    "name": "felixzhu97/explore-ai",
-    "stars": 1,
-    "updated_at": "2026-08-14T17:25:54Z",
-    "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
     "description": "More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a",
@@ -167,7 +230,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8098,
-    "updated_at": "2026-08-14T17:02:56Z",
+    "updated_at": "2026-08-14T17:36:42Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -252,24 +315,6 @@
     "url": "https://github.com/topk-io/topk"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-14T16:38:25Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-14T16:32:50Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "The official Pinecone marketplace for Claude Code Plugins",
     "id": "pinecone-io/pinecone-claude-code-plugin",
     "language": "Python",
@@ -338,7 +383,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-14T16:19:28Z",
+    "updated_at": "2026-08-14T17:38:15Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -391,7 +436,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51640,
+    "stars": 51641,
     "updated_at": "2026-08-14T16:10:23Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T16:09:42Z",
     "url": "https://github.com/KashifMaqbool/Generative_AI_Engineering_Specialization"
-  },
-  {
-    "description": "Zapier integration app for Pinecone.",
-    "id": "pinecone-io/zapier-integration",
-    "language": "TypeScript",
-    "name": "pinecone-io/zapier-integration",
-    "stars": 0,
-    "updated_at": "2026-08-14T16:09:12Z",
-    "url": "https://github.com/pinecone-io/zapier-integration"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-14T17:30:12Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "VS Code extension for Pinecone (Database and Assistant)",
-    "id": "pinecone-io/pinecone-vscode",
-    "language": "TypeScript",
-    "name": "pinecone-io/pinecone-vscode",
-    "stars": 2,
-    "updated_at": "2026-08-14T16:08:03Z",
-    "url": "https://github.com/pinecone-io/pinecone-vscode"
-  },
-  {
-    "description": "Public OpenAPI specs for Pinecone RESTful APIs and Protobuf definitions",
-    "id": "pinecone-io/pinecone-api",
-    "language": "\u2014",
-    "name": "pinecone-io/pinecone-api",
-    "stars": 9,
-    "updated_at": "2026-08-14T16:07:50Z",
-    "url": "https://github.com/pinecone-io/pinecone-api"
-  },
-  {
-    "description": "The official Rust client for the Pinecone vector database",
-    "id": "pinecone-io/pinecone-rust-client",
-    "language": "Rust",
-    "name": "pinecone-io/pinecone-rust-client",
-    "stars": 23,
-    "updated_at": "2026-08-14T16:05:09Z",
-    "url": "https://github.com/pinecone-io/pinecone-rust-client"
   }
 ]
