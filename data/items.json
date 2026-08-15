@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T19:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T19:44:49Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A production-grade Retrieval-Augmented Generation (RAG) agent built to answer customer support questions using company d",
     "id": "SammedBG/RAG-Customer-support-agent",
     "language": "Python",
@@ -25,24 +43,6 @@
     "stars": 1081,
     "updated_at": "2026-08-15T19:41:27Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T19:32:44Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T19:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "This is a hobby project to build a Graph database in Rust.",
@@ -149,7 +149,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1363,
-    "updated_at": "2026-08-15T19:44:19Z",
+    "updated_at": "2026-08-15T19:44:59Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
