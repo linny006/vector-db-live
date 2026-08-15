@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-15T07:51:31Z",
+    "updated_at": "2026-08-15T08:00:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u5171\u627c\u8c31\u51e0\u4f55\u8bba (Conjugate Spectral Geometry) \u5b8c\u6574\u8bba\u6587\u7d22\u5f15 \u2014 12\u5377117\u7bc7\u8bba\u6587 \u00b7 Zenodo DOI",
+    "id": "sdoygb/conjugate-spectral-geometry",
+    "language": "HTML",
+    "name": "sdoygb/conjugate-spectral-geometry",
+    "stars": 0,
+    "updated_at": "2026-08-15T08:00:08Z",
+    "url": "https://github.com/sdoygb/conjugate-spectral-geometry"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-15T07:59:26Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T07:54:50Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -16,15 +43,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T07:50:04Z",
     "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T07:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -43,15 +61,6 @@
     "stars": 1339,
     "updated_at": "2026-08-15T07:35:59Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-15T07:34:42Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T05:35:56Z",
     "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-08-15T05:35:26Z",
-    "url": "https://github.com/rein98/PsyChat"
   }
 ]
