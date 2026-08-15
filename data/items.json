@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-15T08:45:21Z",
+    "updated_at": "2026-08-15T08:54:08Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant",
     "stars": 1,
-    "updated_at": "2026-08-15T08:43:16Z",
+    "updated_at": "2026-08-15T08:51:17Z",
     "url": "https://github.com/PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-15T08:50:29Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
+    "id": "Dream-Pixels-Forge/memorius",
+    "language": "Python",
+    "name": "Dream-Pixels-Forge/memorius",
+    "stars": 1,
+    "updated_at": "2026-08-15T08:47:06Z",
+    "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "AI-native data annotation pipeline using Dynamic In-Context Learning (ICL) routing. Leverages RAG to retrieve semantical",
+    "id": "edycutjong/ContextWeaver",
+    "language": "TypeScript",
+    "name": "edycutjong/ContextWeaver",
+    "stars": 2,
+    "updated_at": "2026-08-15T08:46:07Z",
+    "url": "https://github.com/edycutjong/ContextWeaver"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T08:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -54,15 +90,6 @@
     "url": "https://github.com/holmns/ntu-hall-for-me"
   },
   {
-    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
-    "id": "Dream-Pixels-Forge/memorius",
-    "language": "Python",
-    "name": "Dream-Pixels-Forge/memorius",
-    "stars": 1,
-    "updated_at": "2026-08-15T08:36:51Z",
-    "url": "https://github.com/Dream-Pixels-Forge/memorius"
-  },
-  {
     "description": "Docker container for centralized Ruflo MCP server with PostgreSQL (RuVector). Architecture: Ruflo (stdio) \u2192 Express prox",
     "id": "jazz-max/ruflo-hub",
     "language": "JavaScript",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T08:32:07Z",
     "url": "https://github.com/sdoygb/conjugate-spectral-geometry"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T08:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -113,7 +131,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-15T08:39:20Z",
+    "updated_at": "2026-08-15T08:51:28Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -121,7 +139,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1340,
+    "stars": 1341,
     "updated_at": "2026-08-15T08:17:31Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -178,15 +196,6 @@
     "stars": 6,
     "updated_at": "2026-08-15T07:08:32Z",
     "url": "https://github.com/devyanshyadav/librenote-ai"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-15T07:05:02Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-15T05:47:19Z",
     "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-08-15T05:45:42Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
   }
 ]
