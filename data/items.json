@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-15T11:15:20Z",
+    "updated_at": "2026-08-15T11:16:36Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Shared Qdrant vector database \u2014 standalone via docker compose, or deployed as shared tenant infra on Coolify.",
+    "id": "JOduMonT/qdrant",
+    "language": "\u2014",
+    "name": "JOduMonT/qdrant",
+    "stars": 0,
+    "updated_at": "2026-08-15T11:15:33Z",
+    "url": "https://github.com/JOduMonT/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T11:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
@@ -81,15 +99,6 @@
     "url": "https://github.com/heyshivamjaiswal/Folio"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T11:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -126,6 +135,15 @@
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30041,
+    "updated_at": "2026-08-15T10:42:21Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
     "id": "LnYo-Cly/ai4j",
     "language": "Java",
@@ -160,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T10:18:14Z",
     "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30041,
-    "updated_at": "2026-08-15T10:42:21Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "The AI search platform",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T06:00:44Z",
     "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-08-15T06:00:36Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   }
 ]
