@@ -1,12 +1,111 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "\ud83e\udde0 BrainX V6 \u2014 The First Brain for OpenClaw. Persistent AI agent memory with PostgreSQL, pgvector, OpenAI embeddings, sem",
+    "id": "Mdx2025/BrainX-The-First-Brain-for-OpenClaw",
+    "language": "JavaScript",
+    "name": "Mdx2025/BrainX-The-First-Brain-for-OpenClaw",
+    "stars": 32,
+    "updated_at": "2026-08-15T12:14:08Z",
+    "url": "https://github.com/Mdx2025/BrainX-The-First-Brain-for-OpenClaw"
+  },
+  {
+    "description": "RAG-powered knowledge library \u2014 save articles, YouTube videos, PDFs & text, then chat with them using AI. Built with Nod",
+    "id": "heyshivamjaiswal/Folio",
+    "language": "TypeScript",
+    "name": "heyshivamjaiswal/Folio",
+    "stars": 1,
+    "updated_at": "2026-08-15T12:14:06Z",
+    "url": "https://github.com/heyshivamjaiswal/Folio"
+  },
+  {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 243,
+    "updated_at": "2026-08-15T12:13:56Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 2,
-    "updated_at": "2026-08-15T12:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-08-15T12:13:35Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-15T12:12:43Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-15T12:13:05Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Hackathon project for students finding a place to stay on or near NTU campus",
+    "id": "holmns/ntu-hall-for-me",
+    "language": "TypeScript",
+    "name": "holmns/ntu-hall-for-me",
+    "stars": 0,
+    "updated_at": "2026-08-15T12:08:38Z",
+    "url": "https://github.com/holmns/ntu-hall-for-me"
+  },
+  {
+    "description": "AI-powered Retrieval-Augmented Generation (RAG) system for financial report analysis using ChromaDB, Groq, and Streamlit",
+    "id": "Jashiraa-15/Finance-RAG",
+    "language": "Python",
+    "name": "Jashiraa-15/Finance-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-15T12:07:37Z",
+    "url": "https://github.com/Jashiraa-15/Finance-RAG"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-15T12:05:19Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
+    "id": "kovartravis/neuron",
+    "language": "TypeScript",
+    "name": "kovartravis/neuron",
+    "stars": 3,
+    "updated_at": "2026-08-15T12:08:40Z",
+    "url": "https://github.com/kovartravis/neuron"
+  },
+  {
+    "description": "Docker container for centralized Ruflo MCP server with PostgreSQL (RuVector). Architecture: Ruflo (stdio) \u2192 Express prox",
+    "id": "jazz-max/ruflo-hub",
+    "language": "JavaScript",
+    "name": "jazz-max/ruflo-hub",
+    "stars": 4,
+    "updated_at": "2026-08-15T12:03:56Z",
+    "url": "https://github.com/jazz-max/ruflo-hub"
+  },
+  {
+    "description": "Semantic memory and cross-project search for AI",
+    "id": "jkraybill/gordo-ledger",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-ledger",
+    "stars": 0,
+    "updated_at": "2026-08-15T12:02:54Z",
+    "url": "https://github.com/jkraybill/gordo-ledger"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +113,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-15T11:58:50Z",
+    "updated_at": "2026-08-15T12:00:26Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T12:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -32,7 +140,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-15T11:55:21Z",
+    "updated_at": "2026-08-15T12:06:05Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -45,31 +153,13 @@
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
-    "description": "AI-powered Retrieval-Augmented Generation (RAG) system for financial report analysis using ChromaDB, Groq, and Streamlit",
-    "id": "Jashiraa-15/Finance-RAG",
-    "language": "Python",
-    "name": "Jashiraa-15/Finance-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-15T11:54:06Z",
-    "url": "https://github.com/Jashiraa-15/Finance-RAG"
-  },
-  {
     "description": "Local MCP server for authenticated documentation sites, using Playwright for login and crawling, SQLite full-text and ve",
     "id": "veep2012/doc_mcp",
     "language": "Python",
     "name": "veep2012/doc_mcp",
     "stars": 0,
-    "updated_at": "2026-08-15T11:57:44Z",
+    "updated_at": "2026-08-15T12:08:44Z",
     "url": "https://github.com/veep2012/doc_mcp"
-  },
-  {
-    "description": "Semantic memory and cross-project search for AI",
-    "id": "jkraybill/gordo-ledger",
-    "language": "TypeScript",
-    "name": "jkraybill/gordo-ledger",
-    "stars": 0,
-    "updated_at": "2026-08-15T11:51:59Z",
-    "url": "https://github.com/jkraybill/gordo-ledger"
   },
   {
     "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
@@ -108,39 +198,12 @@
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-15T11:36:37Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "RAG-powered knowledge library \u2014 save articles, YouTube videos, PDFs & text, then chat with them using AI. Built with Nod",
-    "id": "heyshivamjaiswal/Folio",
-    "language": "TypeScript",
-    "name": "heyshivamjaiswal/Folio",
-    "stars": 1,
-    "updated_at": "2026-08-15T11:35:07Z",
-    "url": "https://github.com/heyshivamjaiswal/Folio"
-  },
-  {
-    "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
-    "id": "kovartravis/neuron",
-    "language": "TypeScript",
-    "name": "kovartravis/neuron",
-    "stars": 3,
-    "updated_at": "2026-08-15T11:26:01Z",
-    "url": "https://github.com/kovartravis/neuron"
-  },
-  {
     "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
     "id": "ankush-poonia007/STARTUP-AI-AGENT",
     "language": "Python",
     "name": "ankush-poonia007/STARTUP-AI-AGENT",
     "stars": 4,
-    "updated_at": "2026-08-15T11:26:49Z",
+    "updated_at": "2026-08-15T12:14:43Z",
     "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
   },
   {
@@ -198,15 +261,6 @@
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-15T11:08:48Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "In-memory knowledge store for AI agents",
     "id": "RonsenbergVI/fraise",
     "language": "Go",
@@ -214,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T11:07:54Z",
     "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 87,
-    "updated_at": "2026-08-15T11:30:30Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -369,24 +414,6 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "Hackathon project for students finding a place to stay on or near NTU campus",
-    "id": "holmns/ntu-hall-for-me",
-    "language": "TypeScript",
-    "name": "holmns/ntu-hall-for-me",
-    "stars": 0,
-    "updated_at": "2026-08-15T08:38:44Z",
-    "url": "https://github.com/holmns/ntu-hall-for-me"
-  },
-  {
-    "description": "Docker container for centralized Ruflo MCP server with PostgreSQL (RuVector). Architecture: Ruflo (stdio) \u2192 Express prox",
-    "id": "jazz-max/ruflo-hub",
-    "language": "JavaScript",
-    "name": "jazz-max/ruflo-hub",
-    "stars": 4,
-    "updated_at": "2026-08-15T08:36:32Z",
-    "url": "https://github.com/jazz-max/ruflo-hub"
-  },
-  {
     "description": "Conjugate Spectral Geometry - Geometric Theory of quantum error correction: 12-volume/117-paper index + DeepSeek RAG kno",
     "id": "sdoygb/conjugate-spectral-geometry",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T08:13:34Z",
     "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 3,
-    "updated_at": "2026-08-15T07:50:04Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "\u6237\u7eba\u667a\u82af OutdoorTextile-LLM V3.0 \u2014 \u670d\u9970\u6237\u5916\u884c\u4e1a\u5782\u76f4 AI RAG \u95ee\u7b54\u7cfb\u7edf\uff1aTika \u89e3\u6790\u2192Ollama \u5411\u91cf\u5316\u2192Milvus/MySQL \u68c0\u7d22\uff0c\u652f\u6301\u9762\u6599/\u5de5\u827a/\u4f9b\u5e94\u94fe\u5206\u6790",
-    "id": "wch887292/CyanVistaOutdoorApparelAI",
-    "language": "Java",
-    "name": "wch887292/CyanVistaOutdoorApparelAI",
-    "stars": 1,
-    "updated_at": "2026-08-15T07:23:09Z",
-    "url": "https://github.com/wch887292/CyanVistaOutdoorApparelAI"
-  },
-  {
-    "description": "The open-source, self-hosted alternative to NotebookLM.",
-    "id": "devyanshyadav/librenote-ai",
-    "language": "TypeScript",
-    "name": "devyanshyadav/librenote-ai",
-    "stars": 6,
-    "updated_at": "2026-08-15T07:08:32Z",
-    "url": "https://github.com/devyanshyadav/librenote-ai"
   }
 ]
