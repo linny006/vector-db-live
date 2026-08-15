@@ -1,20 +1,11 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T21:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-15T21:45:19Z",
+    "updated_at": "2026-08-15T22:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,8 +14,35 @@
     "language": "JavaScript",
     "name": "4nur4gmishr4/4nur4gmishr4",
     "stars": 1,
-    "updated_at": "2026-08-15T21:45:06Z",
+    "updated_at": "2026-08-15T21:59:36Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 2,
+    "updated_at": "2026-08-15T21:53:43Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "Extensible, configurable context-engine framework for LLM agents \u2014 session, memory, retrieval, knowledge graphs, experti",
+    "id": "efathom/ctxforge",
+    "language": "Python",
+    "name": "efathom/ctxforge",
+    "stars": 0,
+    "updated_at": "2026-08-15T21:51:23Z",
+    "url": "https://github.com/efathom/ctxforge"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T21:47:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -36,13 +54,13 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Extensible, configurable context-engine framework for LLM agents \u2014 session, memory, retrieval, knowledge graphs, experti",
-    "id": "efathom/ctxforge",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "efathom/ctxforge",
-    "stars": 0,
-    "updated_at": "2026-08-15T21:45:59Z",
-    "url": "https://github.com/efathom/ctxforge"
+    "name": "topoteretes/cognee",
+    "stars": 30048,
+    "updated_at": "2026-08-15T21:57:48Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "Yasou13/MESA",
     "stars": 5,
-    "updated_at": "2026-08-15T21:37:42Z",
+    "updated_at": "2026-08-15T21:58:35Z",
     "url": "https://github.com/Yasou13/MESA"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1366,
-    "updated_at": "2026-08-15T21:36:33Z",
+    "updated_at": "2026-08-15T21:58:54Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "sindrehaugen/NCE",
     "stars": 0,
-    "updated_at": "2026-08-15T21:21:15Z",
+    "updated_at": "2026-08-15T21:50:30Z",
     "url": "https://github.com/sindrehaugen/NCE"
   },
   {
@@ -396,15 +414,6 @@
     "url": "https://github.com/leitoooatr/PythonVectorDB"
   },
   {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 2,
-    "updated_at": "2026-08-15T21:26:50Z",
-    "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
     "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
     "id": "Jeroflo88/Self-Corrective-RAG",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-15T20:59:47Z",
     "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-08-15T20:57:20Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
   }
 ]
