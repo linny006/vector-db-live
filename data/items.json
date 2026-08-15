@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u667a\u591a\u661f \u00b7 \u4f01\u4e1a\u7ea7\u591a Agent \u5e73\u53f0 \u2014 \u81ea\u7136\u8bed\u8a00\u9a71\u52a8\u77e5\u8bc6\u95ee\u7b54\u3001\u6570\u636e\u5206\u6790\u4e0e\u4e1a\u52a1\u6267\u884c\uff0cRBAC + \u5ba1\u6279 + Saga \u62a4\u680f | Enterprise multi-agent platform: RAG, data analysis & b",
+    "id": "zhenkun26/BusinessAgent",
+    "language": "Python",
+    "name": "zhenkun26/BusinessAgent",
+    "stars": 2,
+    "updated_at": "2026-08-15T14:12:49Z",
+    "url": "https://github.com/zhenkun26/BusinessAgent"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-15T14:10:48Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
+    "id": "puffball1567/koutendb",
+    "language": "Nim",
+    "name": "puffball1567/koutendb",
+    "stars": 15,
+    "updated_at": "2026-08-15T14:10:18Z",
+    "url": "https://github.com/puffball1567/koutendb"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-15T14:08:18Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-15T14:05:12Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
+    "id": "jihadkhawaja/mem0sharp",
+    "language": "C#",
+    "name": "jihadkhawaja/mem0sharp",
+    "stars": 11,
+    "updated_at": "2026-08-15T14:03:10Z",
+    "url": "https://github.com/jihadkhawaja/mem0sharp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T14:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,15 +90,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T13:53:14Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -43,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T13:51:25Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-15T13:49:58Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
     "description": "Production RAG platform: OCR \u2192 semantic chunking \u2192 TEI embeddings \u2192 Qdrant \u2192 cross-encoder reranking \u2192 Llama 3, with gro",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T13:45:17Z",
     "url": "https://github.com/Jashiraa-15/Finance-RAG"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-15T13:40:40Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech",
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T13:27:20Z",
     "url": "https://github.com/izynegallardo/vector-embeddings"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-15T13:21:10Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Vector DB implementation in Mojo",
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "veep2012/doc_mcp",
     "stars": 0,
-    "updated_at": "2026-08-15T13:42:38Z",
+    "updated_at": "2026-08-15T14:05:36Z",
     "url": "https://github.com/veep2012/doc_mcp"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 7050,
     "updated_at": "2026-08-15T10:17:17Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
-    "id": "jihadkhawaja/mem0sharp",
-    "language": "C#",
-    "name": "jihadkhawaja/mem0sharp",
-    "stars": 11,
-    "updated_at": "2026-08-15T10:20:13Z",
-    "url": "https://github.com/jihadkhawaja/mem0sharp"
-  },
-  {
-    "description": "Heart \u2014 An AI\u2011powered healthcare assistant built with FastAPI, LangGraph, and RAG pipelines. Provides cardiac risk predi",
-    "id": "9046balaji/Heart",
-    "language": "Python",
-    "name": "9046balaji/Heart",
-    "stars": 0,
-    "updated_at": "2026-08-15T10:11:04Z",
-    "url": "https://github.com/9046balaji/Heart"
-  },
-  {
-    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
-    "id": "Dream-Pixels-Forge/memorius",
-    "language": "Python",
-    "name": "Dream-Pixels-Forge/memorius",
-    "stars": 1,
-    "updated_at": "2026-08-15T10:04:13Z",
-    "url": "https://github.com/Dream-Pixels-Forge/memorius"
   }
 ]
