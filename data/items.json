@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T16:59:44Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "TalaDB - The embedded vector database for on-device AI.",
     "id": "taladb/taladb",
     "language": "Rust",
@@ -41,7 +50,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-15T16:57:32Z",
+    "updated_at": "2026-08-15T16:59:45Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -58,18 +67,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1356,
+    "stars": 1357,
     "updated_at": "2026-08-15T16:46:03Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T16:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
