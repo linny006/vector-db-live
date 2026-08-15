@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-15T08:30:19Z",
+    "updated_at": "2026-08-15T08:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-powered RAG document assistant for querying PDFs with Streamlit, FAISS, SentenceTransformers, and Groq.",
+    "id": "PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant",
+    "language": "Python",
+    "name": "PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant",
+    "stars": 1,
+    "updated_at": "2026-08-15T08:43:16Z",
+    "url": "https://github.com/PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9413,
+    "updated_at": "2026-08-15T08:42:59Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-15T08:41:30Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-15T08:39:14Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Hackathon project for students finding a place to stay on or near NTU campus",
+    "id": "holmns/ntu-hall-for-me",
+    "language": "TypeScript",
+    "name": "holmns/ntu-hall-for-me",
+    "stars": 0,
+    "updated_at": "2026-08-15T08:38:44Z",
+    "url": "https://github.com/holmns/ntu-hall-for-me"
+  },
+  {
+    "description": "Memorius is a self-contained, agent-agnostic memory system that gives LLMs and AI agents persistent, searchable memory w",
+    "id": "Dream-Pixels-Forge/memorius",
+    "language": "Python",
+    "name": "Dream-Pixels-Forge/memorius",
+    "stars": 1,
+    "updated_at": "2026-08-15T08:36:51Z",
+    "url": "https://github.com/Dream-Pixels-Forge/memorius"
+  },
+  {
+    "description": "Docker container for centralized Ruflo MCP server with PostgreSQL (RuVector). Architecture: Ruflo (stdio) \u2192 Express prox",
+    "id": "jazz-max/ruflo-hub",
+    "language": "JavaScript",
+    "name": "jazz-max/ruflo-hub",
+    "stars": 4,
+    "updated_at": "2026-08-15T08:36:32Z",
+    "url": "https://github.com/jazz-max/ruflo-hub"
+  },
+  {
+    "description": "Conjugate Spectral Geometry - Geometric Theory of quantum error correction: 12-volume/117-paper index + DeepSeek RAG kno",
+    "id": "sdoygb/conjugate-spectral-geometry",
+    "language": "HTML",
+    "name": "sdoygb/conjugate-spectral-geometry",
+    "stars": 0,
+    "updated_at": "2026-08-15T08:32:07Z",
+    "url": "https://github.com/sdoygb/conjugate-spectral-geometry"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T08:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -18,15 +99,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Hackathon project for students finding a place to stay on or near NTU campus",
-    "id": "holmns/ntu-hall-for-me",
-    "language": "TypeScript",
-    "name": "holmns/ntu-hall-for-me",
-    "stars": 0,
-    "updated_at": "2026-08-15T08:27:42Z",
-    "url": "https://github.com/holmns/ntu-hall-for-me"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -36,39 +108,12 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T08:25:58Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Docker container for centralized Ruflo MCP server with PostgreSQL (RuVector). Architecture: Ruflo (stdio) \u2192 Express prox",
-    "id": "jazz-max/ruflo-hub",
-    "language": "JavaScript",
-    "name": "jazz-max/ruflo-hub",
-    "stars": 4,
-    "updated_at": "2026-08-15T08:25:46Z",
-    "url": "https://github.com/jazz-max/ruflo-hub"
-  },
-  {
-    "description": "Conjugate Spectral Geometry - Geometric Theory of quantum error correction: 12-volume/117-paper index + DeepSeek RAG kno",
-    "id": "sdoygb/conjugate-spectral-geometry",
-    "language": "HTML",
-    "name": "sdoygb/conjugate-spectral-geometry",
-    "stars": 0,
-    "updated_at": "2026-08-15T08:21:07Z",
-    "url": "https://github.com/sdoygb/conjugate-spectral-geometry"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-15T08:28:47Z",
+    "updated_at": "2026-08-15T08:39:20Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -106,24 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T08:13:34Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-15T08:05:42Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-15T07:59:26Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T05:45:42Z",
     "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 3,
-    "updated_at": "2026-08-15T05:44:43Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-08-15T05:43:39Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-08-15T05:42:34Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
   }
 ]
