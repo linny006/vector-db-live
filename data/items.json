@@ -1,12 +1,57 @@
 [
   {
+    "description": "AI-powered Retrieval-Augmented Generation (RAG) system for financial report analysis using ChromaDB, Groq, and Streamlit",
+    "id": "Jashiraa-15/Finance-RAG",
+    "language": "Python",
+    "name": "Jashiraa-15/Finance-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-15T13:27:50Z",
+    "url": "https://github.com/Jashiraa-15/Finance-RAG"
+  },
+  {
+    "description": "Sample of how vector embeddings works using OpenAI API, OpenRouter and Supabase pgvector. ",
+    "id": "izynegallardo/vector-embeddings",
+    "language": "JavaScript",
+    "name": "izynegallardo/vector-embeddings",
+    "stars": 0,
+    "updated_at": "2026-08-15T13:27:20Z",
+    "url": "https://github.com/izynegallardo/vector-embeddings"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-15T13:21:10Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-15T13:15:19Z",
+    "updated_at": "2026-08-15T13:17:42Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-15T13:17:37Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T13:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -63,15 +108,6 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T13:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "In-memory knowledge store for AI agents",
     "id": "RonsenbergVI/fraise",
     "language": "Go",
@@ -108,15 +144,6 @@
     "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
   },
   {
-    "description": "AI-powered Retrieval-Augmented Generation (RAG) system for financial report analysis using ChromaDB, Groq, and Streamlit",
-    "id": "Jashiraa-15/Finance-RAG",
-    "language": "Python",
-    "name": "Jashiraa-15/Finance-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-15T12:40:02Z",
-    "url": "https://github.com/Jashiraa-15/Finance-RAG"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -126,21 +153,12 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-15T12:35:29Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-15T12:33:20Z",
+    "updated_at": "2026-08-15T13:28:04Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -205,15 +223,6 @@
     "stars": 243,
     "updated_at": "2026-08-15T12:17:56Z",
     "url": "https://github.com/deven96/ahnlich"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-15T12:13:35Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -418,7 +427,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1347,
+    "stars": 1348,
     "updated_at": "2026-08-15T09:34:42Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-15T09:04:15Z",
     "url": "https://github.com/gifton/VectorIndex"
-  },
-  {
-    "description": "AI-native data annotation pipeline using Dynamic In-Context Learning (ICL) routing. Leverages RAG to retrieve semantical",
-    "id": "edycutjong/ContextWeaver",
-    "language": "TypeScript",
-    "name": "edycutjong/ContextWeaver",
-    "stars": 2,
-    "updated_at": "2026-08-15T09:00:15Z",
-    "url": "https://github.com/edycutjong/ContextWeaver"
   }
 ]
