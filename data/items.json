@@ -1,5 +1,95 @@
 [
   {
+    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
+    "id": "Shajo777/SupaAI-Framework-Template",
+    "language": "\u2014",
+    "name": "Shajo777/SupaAI-Framework-Template",
+    "stars": 0,
+    "updated_at": "2026-08-15T20:57:20Z",
+    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
+  },
+  {
+    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-08-15T20:57:04Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-08-15T20:56:50Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 94,
+    "updated_at": "2026-08-15T20:53:15Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Candidate search and information retrieval over ~200K profiles: semantic vector retrieval (Voyage-3 embeddings), hard/so",
+    "id": "jameswniu/candidate-vector-search",
+    "language": "Python",
+    "name": "jameswniu/candidate-vector-search",
+    "stars": 0,
+    "updated_at": "2026-08-15T20:52:55Z",
+    "url": "https://github.com/jameswniu/candidate-vector-search"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-08-15T20:52:55Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16730,
+    "updated_at": "2026-08-15T20:52:27Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-15T20:48:04Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T20:46:57Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T20:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a",
     "id": "sindrehaugen/NCE",
     "language": "Python",
@@ -7,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T20:43:35Z",
     "url": "https://github.com/sindrehaugen/NCE"
-  },
-  {
-    "description": "Candidate search and information retrieval over ~200K profiles: semantic vector retrieval (Voyage-3 embeddings), hard/so",
-    "id": "jameswniu/candidate-search-vector-rerank-semantics",
-    "language": "Python",
-    "name": "jameswniu/candidate-search-vector-rerank-semantics",
-    "stars": 0,
-    "updated_at": "2026-08-15T20:42:56Z",
-    "url": "https://github.com/jameswniu/candidate-search-vector-rerank-semantics"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -45,24 +126,6 @@
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T20:31:16Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T20:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -77,7 +140,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-15T20:40:28Z",
+    "updated_at": "2026-08-15T20:53:26Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T20:22:40Z",
     "url": "https://github.com/SammedBG/RAG-Customer-support-agent"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-15T20:20:46Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -194,7 +248,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1364,
-    "updated_at": "2026-08-15T20:43:25Z",
+    "updated_at": "2026-08-15T20:53:54Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -320,7 +374,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30046,
-    "updated_at": "2026-08-15T20:31:21Z",
+    "updated_at": "2026-08-15T20:56:49Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T17:26:39Z",
     "url": "https://github.com/chasko-labs/heraldstack-core"
-  },
-  {
-    "description": "ID-based RAG FastAPI: Integration with Langchain and PostgreSQL/pgvector",
-    "id": "danny-avila/rag_api",
-    "language": "Python",
-    "name": "danny-avila/rag_api",
-    "stars": 883,
-    "updated_at": "2026-08-15T17:09:36Z",
-    "url": "https://github.com/danny-avila/rag_api"
-  },
-  {
-    "description": "TalaDB - The embedded vector database for on-device AI.",
-    "id": "taladb/taladb",
-    "language": "Rust",
-    "name": "taladb/taladb",
-    "stars": 4,
-    "updated_at": "2026-08-15T16:53:27Z",
-    "url": "https://github.com/taladb/taladb"
-  },
-  {
-    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-08-15T16:51:42Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "MCP server for persistent memory using Qdrant vector store",
-    "id": "taraksh01/memoryhub",
-    "language": "TypeScript",
-    "name": "taraksh01/memoryhub",
-    "stars": 1,
-    "updated_at": "2026-08-15T16:53:45Z",
-    "url": "https://github.com/taraksh01/memoryhub"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2437,
-    "updated_at": "2026-08-15T16:28:55Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 1,
-    "updated_at": "2026-08-15T16:13:10Z",
-    "url": "https://github.com/thameema/memnos"
   }
 ]
