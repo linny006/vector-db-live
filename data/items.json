@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-15T03:53:40Z",
+    "updated_at": "2026-08-15T04:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 10,
+    "updated_at": "2026-08-15T03:57:51Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "Swift6 GPU-accelerated vector operations using Metal4 shaders for Apple Silicon performance optimization",
+    "id": "gifton/VectorAccelerate",
+    "language": "Swift",
+    "name": "gifton/VectorAccelerate",
+    "stars": 6,
+    "updated_at": "2026-08-15T03:58:27Z",
+    "url": "https://github.com/gifton/VectorAccelerate"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-15T03:55:55Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-15T03:45:28Z",
+    "updated_at": "2026-08-15T03:54:50Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -25,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T03:44:51Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "The holographic core for leOS",
-    "id": "AnOversizedMooseWithSocks/leCore",
-    "language": "Python",
-    "name": "AnOversizedMooseWithSocks/leCore",
-    "stars": 10,
-    "updated_at": "2026-08-15T03:46:44Z",
-    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -122,7 +140,7 @@
     "language": "Java",
     "name": "felixzhu97/explore-ai",
     "stars": 1,
-    "updated_at": "2026-08-15T03:45:51Z",
+    "updated_at": "2026-08-15T03:59:55Z",
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
@@ -133,15 +151,6 @@
     "stars": 1336,
     "updated_at": "2026-08-15T03:39:49Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-15T03:12:33Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
@@ -439,14 +448,5 @@
     "stars": 35186,
     "updated_at": "2026-08-14T23:11:17Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-08-14T23:10:13Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
   }
 ]
