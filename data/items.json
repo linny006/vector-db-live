@@ -1,5 +1,23 @@
 [
   {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-08-15T20:59:47Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T20:58:59Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
     "id": "Shajo777/SupaAI-Framework-Template",
     "language": "\u2014",
@@ -79,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T20:46:57Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T20:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a",
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-15T18:30:41Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "heraldstack \u2014 context-aware multi-platform ai agent framework with memory, entity routing, narrative continuity",
-    "id": "chasko-labs/heraldstack-core",
-    "language": "Rust",
-    "name": "chasko-labs/heraldstack-core",
-    "stars": 0,
-    "updated_at": "2026-08-15T17:26:39Z",
-    "url": "https://github.com/chasko-labs/heraldstack-core"
   }
 ]
