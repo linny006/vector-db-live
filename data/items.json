@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-15T22:00:20Z",
+    "updated_at": "2026-08-15T22:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "This is a hobby project to build a Graph database in Rust.",
+    "id": "gmr/dotilla",
+    "language": "Rust",
+    "name": "gmr/dotilla",
+    "stars": 0,
+    "updated_at": "2026-08-15T22:11:12Z",
+    "url": "https://github.com/gmr/dotilla"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-15T22:08:14Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-08-15T22:05:57Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45646,
+    "updated_at": "2026-08-15T22:04:24Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-15T22:04:07Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T22:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -16,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-08-15T21:59:36Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1367,
+    "updated_at": "2026-08-15T21:58:54Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
@@ -36,21 +99,12 @@
     "url": "https://github.com/efathom/ctxforge"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T21:47:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1081,
-    "updated_at": "2026-08-15T21:44:31Z",
+    "updated_at": "2026-08-15T22:13:16Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30048,
-    "updated_at": "2026-08-15T21:57:48Z",
+    "updated_at": "2026-08-15T22:14:44Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -108,24 +162,6 @@
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-15T21:37:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
-    "id": "theogony-project/theogony",
-    "language": "Python",
-    "name": "theogony-project/theogony",
-    "stars": 0,
-    "updated_at": "2026-08-15T21:36:49Z",
-    "url": "https://github.com/theogony-project/theogony"
-  },
-  {
     "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
     "id": "dem2007/ChromaDB-Manager",
     "language": "Swift",
@@ -160,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T21:31:46Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1366,
-    "updated_at": "2026-08-15T21:58:54Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
@@ -293,7 +320,7 @@
     "language": "Python",
     "name": "sindrehaugen/NCE",
     "stars": 0,
-    "updated_at": "2026-08-15T21:50:30Z",
+    "updated_at": "2026-08-15T22:11:23Z",
     "url": "https://github.com/sindrehaugen/NCE"
   },
   {
@@ -378,15 +405,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-15T21:10:00Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
     "id": "Edublackk/self-correcting-rag-chatbot",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-15T21:05:58Z",
     "url": "https://github.com/jameswniu/candidate-vector-search-rerank-semantics"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-08-15T21:04:42Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-08-15T20:59:47Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
   }
 ]
