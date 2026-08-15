@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-15T20:15:21Z",
+    "updated_at": "2026-08-15T20:30:17Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-15T20:29:52Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-15T20:22:46Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "A production-grade Retrieval-Augmented Generation (RAG) agent built to answer customer support questions using company d",
+    "id": "SammedBG/RAG-Customer-support-agent",
+    "language": "Python",
+    "name": "SammedBG/RAG-Customer-support-agent",
+    "stars": 0,
+    "updated_at": "2026-08-15T20:22:40Z",
+    "url": "https://github.com/SammedBG/RAG-Customer-support-agent"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-15T20:20:46Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-08-15T20:20:19Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 18,
+    "updated_at": "2026-08-15T20:19:56Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-15T20:19:32Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T20:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-vector RAG search engine with React Flow orchestration canvas. pgvector + Gemini + Jina cross-encoder rerank \u2192 nDC",
@@ -50,26 +122,8 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 2,
-    "updated_at": "2026-08-15T20:03:21Z",
+    "updated_at": "2026-08-15T20:21:58Z",
     "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "A production-grade Retrieval-Augmented Generation (RAG) agent built to answer customer support questions using company d",
-    "id": "SammedBG/RAG-Customer-support-agent",
-    "language": "Python",
-    "name": "SammedBG/RAG-Customer-support-agent",
-    "stars": 0,
-    "updated_at": "2026-08-15T20:00:31Z",
-    "url": "https://github.com/SammedBG/RAG-Customer-support-agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T20:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -104,7 +158,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1364,
-    "updated_at": "2026-08-15T20:12:34Z",
+    "updated_at": "2026-08-15T20:29:41Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-15T19:46:36Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "This is a hobby project to build a Graph database in Rust.",
     "id": "gmr/dotilla",
     "language": "Rust",
@@ -135,15 +180,6 @@
     "url": "https://github.com/gmr/dotilla"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-15T20:04:53Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
     "id": "mudassirshahzad/project-eka",
     "language": "Java",
@@ -151,24 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T19:21:06Z",
     "url": "https://github.com/mudassirshahzad/project-eka"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-15T19:20:57Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-15T19:19:48Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -239,7 +257,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9413,
-    "updated_at": "2026-08-15T18:56:21Z",
+    "updated_at": "2026-08-15T20:24:22Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "TheAmitChandra/NeuralCleave",
     "stars": 4,
-    "updated_at": "2026-08-15T18:18:21Z",
+    "updated_at": "2026-08-15T20:26:46Z",
     "url": "https://github.com/TheAmitChandra/NeuralCleave"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30046,
-    "updated_at": "2026-08-15T18:09:53Z",
+    "updated_at": "2026-08-15T20:29:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -286,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T18:00:20Z",
     "url": "https://github.com/Vijay190899/disclosure-rag"
-  },
-  {
-    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
-    "id": "theogony-project/theogony",
-    "language": "Python",
-    "name": "theogony-project/theogony",
-    "stars": 0,
-    "updated_at": "2026-08-15T20:13:10Z",
-    "url": "https://github.com/theogony-project/theogony"
   },
   {
     "description": "Behavioral analysis layer for DShield logs. Extracts behavioral fingerprints from honeypot logs; clustering attacks, min",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-15T15:51:13Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "AI-powered Retrieval-Augmented Generation (RAG) system for financial report analysis using ChromaDB, Groq, and Streamlit",
-    "id": "Jashiraa-15/Finance-RAG",
-    "language": "Python",
-    "name": "Jashiraa-15/Finance-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-15T15:26:50Z",
-    "url": "https://github.com/Jashiraa-15/Finance-RAG"
   }
 ]
