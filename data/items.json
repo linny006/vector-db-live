@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-15T08:54:08Z",
+    "updated_at": "2026-08-15T09:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant",
     "stars": 1,
-    "updated_at": "2026-08-15T08:51:17Z",
+    "updated_at": "2026-08-15T08:59:40Z",
     "url": "https://github.com/PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-15T08:57:37Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
+    "id": "LnYo-Cly/ai4j",
+    "language": "Java",
+    "name": "LnYo-Cly/ai4j",
+    "stars": 423,
+    "updated_at": "2026-08-15T08:56:02Z",
+    "url": "https://github.com/LnYo-Cly/ai4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T08:55:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -41,17 +68,8 @@
     "language": "TypeScript",
     "name": "edycutjong/ContextWeaver",
     "stars": 2,
-    "updated_at": "2026-08-15T08:46:07Z",
+    "updated_at": "2026-08-15T09:00:15Z",
     "url": "https://github.com/edycutjong/ContextWeaver"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T08:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -124,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T08:26:00Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-15T08:51:28Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T05:51:26Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 3,
-    "updated_at": "2026-08-15T05:47:19Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
   }
 ]
