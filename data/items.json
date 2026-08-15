@@ -1,21 +1,30 @@
 [
   {
+    "description": "ReAct-style LangGraph AI agent (tool-calling, RAG via ChromaDB, streaming, LangSmith tracing) on a FastAPI + async SQLAl",
+    "id": "HillolPias/taskapi-backend",
+    "language": "Python",
+    "name": "HillolPias/taskapi-backend",
+    "stars": 0,
+    "updated_at": "2026-08-15T19:58:40Z",
+    "url": "https://github.com/HillolPias/taskapi-backend"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-15T19:45:20Z",
+    "updated_at": "2026-08-15T19:54:50Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T19:44:49Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45646,
+    "updated_at": "2026-08-15T19:52:24Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "A production-grade Retrieval-Augmented Generation (RAG) agent built to answer customer support questions using company d",
@@ -23,8 +32,35 @@
     "language": "Python",
     "name": "SammedBG/RAG-Customer-support-agent",
     "stars": 0,
-    "updated_at": "2026-08-15T19:43:31Z",
+    "updated_at": "2026-08-15T19:49:22Z",
     "url": "https://github.com/SammedBG/RAG-Customer-support-agent"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1081,
+    "updated_at": "2026-08-15T19:52:12Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-15T19:46:36Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T19:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -34,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T19:37:20Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1081,
-    "updated_at": "2026-08-15T19:41:27Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "This is a hobby project to build a Graph database in Rust.",
@@ -59,17 +86,8 @@
     "language": "Python",
     "name": "sindrehaugen/NCE",
     "stars": 0,
-    "updated_at": "2026-08-15T19:28:21Z",
+    "updated_at": "2026-08-15T19:59:02Z",
     "url": "https://github.com/sindrehaugen/NCE"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-15T19:26:59Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1363,
-    "updated_at": "2026-08-15T19:44:59Z",
+    "updated_at": "2026-08-15T19:51:01Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -297,15 +315,6 @@
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45646,
-    "updated_at": "2026-08-15T17:40:23Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 339,
     "updated_at": "2026-08-15T15:24:33Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "The codebase for the book \"AI-Powered Search\" (Manning Publications, 2025) and associated \"AI-Powered Search: Modern Ret",
-    "id": "treygrainger/ai-powered-search",
-    "language": "Jupyter Notebook",
-    "name": "treygrainger/ai-powered-search",
-    "stars": 403,
-    "updated_at": "2026-08-15T15:21:23Z",
-    "url": "https://github.com/treygrainger/ai-powered-search"
   }
 ]
