@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T13:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-15T13:14:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 9,
+    "updated_at": "2026-08-15T13:11:58Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-15T13:08:46Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable.",
+    "id": "zepdb/zeppelin",
+    "language": "Rust",
+    "name": "zepdb/zeppelin",
+    "stars": 43,
+    "updated_at": "2026-08-15T13:07:34Z",
+    "url": "https://github.com/zepdb/zeppelin"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-15T13:01:16Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-15T13:01:10Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T13:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "In-memory knowledge store for AI agents",
     "id": "RonsenbergVI/fraise",
     "language": "Go",
@@ -36,33 +108,6 @@
     "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T12:51:57Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T12:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-15T12:45:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "AI-powered Retrieval-Augmented Generation (RAG) system for financial report analysis using ChromaDB, Groq, and Streamlit",
     "id": "Jashiraa-15/Finance-RAG",
     "language": "Python",
@@ -81,15 +126,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-08-15T12:37:39Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -106,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T12:33:20Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-15T12:30:03Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
     "description": "Semantic memory and cross-project search for AI",
@@ -151,15 +178,6 @@
     "stars": 777,
     "updated_at": "2026-08-15T12:18:04Z",
     "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-15T12:15:29Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "\ud83e\udde0 BrainX V6 \u2014 The First Brain for OpenClaw. Persistent AI agent memory with PostgreSQL, pgvector, OpenAI embeddings, sem",
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30041,
-    "updated_at": "2026-08-15T12:32:38Z",
+    "updated_at": "2026-08-15T13:08:52Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-15T09:00:15Z",
     "url": "https://github.com/edycutjong/ContextWeaver"
-  },
-  {
-    "description": "AI-powered RAG document assistant for querying PDFs with Streamlit, FAISS, SentenceTransformers, and Groq.",
-    "id": "PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant",
-    "language": "Python",
-    "name": "PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant",
-    "stars": 1,
-    "updated_at": "2026-08-15T08:59:40Z",
-    "url": "https://github.com/PYLA-VENKATA-SAI-KARTHIK/Rag_document_assistant"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-15T11:08:31Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   }
 ]
