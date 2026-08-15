@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T21:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,7 +41,7 @@
     "language": "Python",
     "name": "efathom/ctxforge",
     "stars": 0,
-    "updated_at": "2026-08-15T21:43:40Z",
+    "updated_at": "2026-08-15T21:45:59Z",
     "url": "https://github.com/efathom/ctxforge"
   },
   {
@@ -142,15 +151,6 @@
     "stars": 1366,
     "updated_at": "2026-08-15T21:36:33Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T21:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
