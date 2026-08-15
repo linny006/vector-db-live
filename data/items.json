@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-15T05:00:20Z",
+    "updated_at": "2026-08-15T05:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-15T05:14:36Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Irodori Table Qdrant connector extension",
+    "id": "irodori-table/irodori-extension-qdrant",
+    "language": "Rust",
+    "name": "irodori-table/irodori-extension-qdrant",
+    "stars": 0,
+    "updated_at": "2026-08-15T05:10:51Z",
+    "url": "https://github.com/irodori-table/irodori-extension-qdrant"
+  },
+  {
+    "description": "Irodori Table Pinecone connector extension",
+    "id": "irodori-table/irodori-extension-pinecone",
+    "language": "Rust",
+    "name": "irodori-table/irodori-extension-pinecone",
+    "stars": 0,
+    "updated_at": "2026-08-15T05:10:45Z",
+    "url": "https://github.com/irodori-table/irodori-extension-pinecone"
+  },
+  {
+    "description": "Irodori Table Milvus connector extension",
+    "id": "irodori-table/irodori-extension-milvus",
+    "language": "Rust",
+    "name": "irodori-table/irodori-extension-milvus",
+    "stars": 0,
+    "updated_at": "2026-08-15T05:10:10Z",
+    "url": "https://github.com/irodori-table/irodori-extension-milvus"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9413,
+    "updated_at": "2026-08-15T05:09:33Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-08-15T05:08:56Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-15T05:06:40Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
+    "id": "Mr-DS-ML-85/StrikeDB",
+    "language": "Rust",
+    "name": "Mr-DS-ML-85/StrikeDB",
+    "stars": 0,
+    "updated_at": "2026-08-15T05:03:47Z",
+    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-15T05:02:32Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +95,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-15T04:58:27Z",
+    "updated_at": "2026-08-15T05:00:26Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-08-15T04:58:03Z",
+    "updated_at": "2026-08-15T05:02:53Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -63,15 +144,6 @@
     "url": "https://github.com/gabaoun/Project-Aether"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-15T04:42:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -85,18 +157,9 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2430,
+    "stars": 2431,
     "updated_at": "2026-08-15T04:34:24Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-15T04:32:43Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -144,15 +207,6 @@
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-15T04:17:56Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -167,35 +221,8 @@
     "language": "Swift",
     "name": "gifton/VectorAccelerate",
     "stars": 6,
-    "updated_at": "2026-08-15T03:58:27Z",
+    "updated_at": "2026-08-15T05:12:19Z",
     "url": "https://github.com/gifton/VectorAccelerate"
-  },
-  {
-    "description": "Irodori Table Qdrant connector extension",
-    "id": "irodori-table/irodori-extension-qdrant",
-    "language": "Rust",
-    "name": "irodori-table/irodori-extension-qdrant",
-    "stars": 0,
-    "updated_at": "2026-08-15T03:31:23Z",
-    "url": "https://github.com/irodori-table/irodori-extension-qdrant"
-  },
-  {
-    "description": "Irodori Table Pinecone connector extension",
-    "id": "irodori-table/irodori-extension-pinecone",
-    "language": "Rust",
-    "name": "irodori-table/irodori-extension-pinecone",
-    "stars": 0,
-    "updated_at": "2026-08-15T03:31:15Z",
-    "url": "https://github.com/irodori-table/irodori-extension-pinecone"
-  },
-  {
-    "description": "Irodori Table Milvus connector extension",
-    "id": "irodori-table/irodori-extension-milvus",
-    "language": "Rust",
-    "name": "irodori-table/irodori-extension-milvus",
-    "stars": 0,
-    "updated_at": "2026-08-15T03:30:26Z",
-    "url": "https://github.com/irodori-table/irodori-extension-milvus"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -205,15 +232,6 @@
     "stars": 76,
     "updated_at": "2026-08-15T03:27:34Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 4,
-    "updated_at": "2026-08-15T03:26:37Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
     "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
@@ -378,15 +396,6 @@
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
   {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9413,
-    "updated_at": "2026-08-15T04:49:33Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
     "id": "0xLazAI/alith",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-14T23:34:29Z",
     "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-14T23:26:55Z",
-    "url": "https://github.com/frogdb/frogdb"
   }
 ]
