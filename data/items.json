@@ -1,5 +1,68 @@
 [
   {
+    "description": "Docker container for centralized Ruflo MCP server with PostgreSQL (RuVector). Architecture: Ruflo (stdio) \u2192 Express prox",
+    "id": "jazz-max/ruflo-hub",
+    "language": "JavaScript",
+    "name": "jazz-max/ruflo-hub",
+    "stars": 4,
+    "updated_at": "2026-08-15T08:25:46Z",
+    "url": "https://github.com/jazz-max/ruflo-hub"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T08:23:00Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Conjugate Spectral Geometry - Geometric Theory of quantum error correction: 12-volume/117-paper index + DeepSeek RAG kno",
+    "id": "sdoygb/conjugate-spectral-geometry",
+    "language": "HTML",
+    "name": "sdoygb/conjugate-spectral-geometry",
+    "stars": 0,
+    "updated_at": "2026-08-15T08:21:07Z",
+    "url": "https://github.com/sdoygb/conjugate-spectral-geometry"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-15T08:25:48Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1340,
+    "updated_at": "2026-08-15T08:17:31Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "A multi-tenant vector database focused on extreme RAM efficiency. Lightweight, scalable, and optimized for high-density ",
+    "id": "skegdb/skeg",
+    "language": "Rust",
+    "name": "skegdb/skeg",
+    "stars": 33,
+    "updated_at": "2026-08-15T08:17:15Z",
+    "url": "https://github.com/skegdb/skeg"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T08:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
     "id": "vicquick/nobrainr",
     "language": "Python",
@@ -18,15 +81,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "\u5171\u627c\u8c31\u51e0\u4f55\u8bba (Conjugate Spectral Geometry) \u5b8c\u6574\u8bba\u6587\u7d22\u5f15 \u2014 12\u5377117\u7bc7\u8bba\u6587 \u00b7 Zenodo DOI",
-    "id": "sdoygb/conjugate-spectral-geometry",
-    "language": "HTML",
-    "name": "sdoygb/conjugate-spectral-geometry",
-    "stars": 0,
-    "updated_at": "2026-08-15T08:12:48Z",
-    "url": "https://github.com/sdoygb/conjugate-spectral-geometry"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -34,24 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T08:05:42Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T08:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T08:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -70,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T07:50:04Z",
     "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1339,
-    "updated_at": "2026-08-15T07:35:59Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -106,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T07:23:09Z",
     "url": "https://github.com/wch887292/CyanVistaOutdoorApparelAI"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-15T08:13:23Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "The open-source, self-hosted alternative to NotebookLM.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-15T05:42:34Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-08-15T05:41:13Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-08-15T05:37:48Z",
-    "url": "https://github.com/humanhady/DocMine"
   }
 ]
