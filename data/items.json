@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-15T12:30:21Z",
+    "updated_at": "2026-08-15T12:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-powered Retrieval-Augmented Generation (RAG) system for financial report analysis using ChromaDB, Groq, and Streamlit",
+    "id": "Jashiraa-15/Finance-RAG",
+    "language": "Python",
+    "name": "Jashiraa-15/Finance-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-15T12:40:02Z",
+    "url": "https://github.com/Jashiraa-15/Finance-RAG"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-15T12:38:05Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-15T12:37:39Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-15T12:35:29Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-15T12:33:20Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T12:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -16,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-08-15T12:30:03Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "AI-powered Retrieval-Augmented Generation (RAG) system for financial report analysis using ChromaDB, Groq, and Streamlit",
-    "id": "Jashiraa-15/Finance-RAG",
-    "language": "Python",
-    "name": "Jashiraa-15/Finance-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-15T12:29:55Z",
-    "url": "https://github.com/Jashiraa-15/Finance-RAG"
   },
   {
     "description": "Semantic memory and cross-project search for AI",
@@ -81,15 +126,6 @@
     "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T12:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83e\udde0 BrainX V6 \u2014 The First Brain for OpenClaw. Persistent AI agent memory with PostgreSQL, pgvector, OpenAI embeddings, sem",
     "id": "Mdx2025/BrainX-The-First-Brain-for-OpenClaw",
     "language": "JavaScript",
@@ -135,15 +171,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-08-15T12:13:05Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
     "description": "Hackathon project for students finding a place to stay on or near NTU campus",
     "id": "holmns/ntu-hall-for-me",
     "language": "TypeScript",
@@ -158,7 +185,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-15T12:05:19Z",
+    "updated_at": "2026-08-15T12:45:11Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -167,7 +194,7 @@
     "language": "TypeScript",
     "name": "kovartravis/neuron",
     "stars": 3,
-    "updated_at": "2026-08-15T12:08:40Z",
+    "updated_at": "2026-08-15T12:35:28Z",
     "url": "https://github.com/kovartravis/neuron"
   },
   {
@@ -216,15 +243,6 @@
     "url": "https://github.com/batul02/enterprise-ai-workspace"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-15T11:47:40Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
     "id": "HyxiaoGe/fusion-api",
     "language": "Python",
@@ -234,15 +252,6 @@
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-15T11:20:47Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -250,15 +259,6 @@
     "stars": 33989,
     "updated_at": "2026-08-15T11:19:40Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-15T11:18:15Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Shared Qdrant vector database \u2014 standalone via docker compose, or deployed as shared tenant infra on Coolify.",
@@ -311,7 +311,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30041,
-    "updated_at": "2026-08-15T10:42:21Z",
+    "updated_at": "2026-08-15T12:32:38Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -373,7 +373,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1346,
+    "stars": 1347,
     "updated_at": "2026-08-15T09:34:42Z",
     "url": "https://github.com/xerj-org/xerj"
   },
