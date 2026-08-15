@@ -1,12 +1,75 @@
 [
   {
-    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
-    "id": "ankush-poonia007/STARTUP-AI-AGENT",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "ankush-poonia007/STARTUP-AI-AGENT",
-    "stars": 5,
-    "updated_at": "2026-08-15T15:29:02Z",
-    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-15T15:43:45Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-15T15:41:07Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-15T15:37:17Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Cairn reuses unchanged RAG chunks with content-defined identities, cache-aware planning, and transactional indexing.",
+    "id": "satwiksps/cairn",
+    "language": "Python",
+    "name": "satwiksps/cairn",
+    "stars": 0,
+    "updated_at": "2026-08-15T15:38:17Z",
+    "url": "https://github.com/satwiksps/cairn"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1352,
+    "updated_at": "2026-08-15T15:36:41Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-15T15:34:58Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "TalaDB - The embedded vector database for on-device AI.",
+    "id": "taladb/taladb",
+    "language": "Rust",
+    "name": "taladb/taladb",
+    "stars": 4,
+    "updated_at": "2026-08-15T15:34:29Z",
+    "url": "https://github.com/taladb/taladb"
+  },
+  {
+    "description": "RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech",
+    "id": "Vijay190899/disclosure-rag",
+    "language": "Python",
+    "name": "Vijay190899/disclosure-rag",
+    "stars": 0,
+    "updated_at": "2026-08-15T15:34:23Z",
+    "url": "https://github.com/Vijay190899/disclosure-rag"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,8 +77,35 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1080,
-    "updated_at": "2026-08-15T15:28:40Z",
+    "updated_at": "2026-08-15T15:33:31Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-15T15:44:53Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-15T15:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
+    "id": "ankush-poonia007/STARTUP-AI-AGENT",
+    "language": "Python",
+    "name": "ankush-poonia007/STARTUP-AI-AGENT",
+    "stars": 5,
+    "updated_at": "2026-08-15T15:31:00Z",
+    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -50,7 +140,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 225,
-    "updated_at": "2026-08-15T15:24:32Z",
+    "updated_at": "2026-08-15T15:33:14Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -81,15 +171,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-15T15:18:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -97,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-15T15:18:04Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-15T15:17:12Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -117,15 +189,6 @@
     "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-15T15:16:14Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -133,24 +196,6 @@
     "stars": 2,
     "updated_at": "2026-08-15T15:08:42Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-15T15:04:19Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1352,
-    "updated_at": "2026-08-15T15:24:43Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T14:44:25Z",
     "url": "https://github.com/salahuddinuqaili/rag-starter"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-15T14:37:13Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
@@ -286,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-08-15T13:49:36Z",
     "url": "https://github.com/Abhishekvoid/RagBag-backend"
-  },
-  {
-    "description": "RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech",
-    "id": "Vijay190899/disclosure-rag",
-    "language": "Python",
-    "name": "Vijay190899/disclosure-rag",
-    "stars": 0,
-    "updated_at": "2026-08-15T13:39:46Z",
-    "url": "https://github.com/Vijay190899/disclosure-rag"
   },
   {
     "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
@@ -421,32 +448,5 @@
     "stars": 243,
     "updated_at": "2026-08-15T12:17:56Z",
     "url": "https://github.com/deven96/ahnlich"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 87,
-    "updated_at": "2026-08-15T15:22:50Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Hackathon project for students finding a place to stay on or near NTU campus",
-    "id": "holmns/ntu-hall-for-me",
-    "language": "TypeScript",
-    "name": "holmns/ntu-hall-for-me",
-    "stars": 0,
-    "updated_at": "2026-08-15T12:08:38Z",
-    "url": "https://github.com/holmns/ntu-hall-for-me"
-  },
-  {
-    "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
-    "id": "kovartravis/neuron",
-    "language": "TypeScript",
-    "name": "kovartravis/neuron",
-    "stars": 3,
-    "updated_at": "2026-08-15T12:35:28Z",
-    "url": "https://github.com/kovartravis/neuron"
   }
 ]
