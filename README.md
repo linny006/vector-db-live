@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-15 03:11 UTC
+> ⏰ Last updated: 2026-08-15 03:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-15 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [oscargbocanegra/llms-engineering-main](https://github.com/oscargbocanegra/llms-engineering-main) | 2 | Jupyter Notebook | 2026-08-15 | Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows |
+| 1 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1336 | Rust | 2026-08-15 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 2 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-15 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
 | 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-15 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 4 | [irodori-table/irodori-extension-qdrant](https://github.com/irodori-table/irodori-extension-qdrant) | 0 | Rust | 2026-08-15 | Irodori Table Qdrant connector extension |
-| 5 | [irodori-table/irodori-extension-pinecone](https://github.com/irodori-table/irodori-extension-pinecone) | 0 | Rust | 2026-08-15 | Irodori Table Pinecone connector extension |
-| 6 | [irodori-table/irodori-extension-milvus](https://github.com/irodori-table/irodori-extension-milvus) | 0 | Rust | 2026-08-15 | Irodori Table Milvus connector extension |
-| 7 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-15 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 8 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-15 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 9 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-15 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 10 | [Bitwarelabscom/bwmem](https://github.com/Bitwarelabscom/bwmem) | 1 | TypeScript | 2026-08-15 | Memory SDK for AI agents — bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid |
-| 11 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-15 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 12 | [HyxiaoGe/fusion-api](https://github.com/HyxiaoGe/fusion-api) | 5 | Python | 2026-08-15 | Fusion 后端：统一多模型接入，提供 Agent 对话、文件解析、向量检索与知识库能力。 |
-| 13 | [1Vewton/WikiSpider](https://github.com/1Vewton/WikiSpider) | 0 | Go | 2026-08-15 | Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG.  |
-| 14 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1877 | Go | 2026-08-15 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 15 | [RajdeepDevelopment/smoke-monkey](https://github.com/RajdeepDevelopment/smoke-monkey) | 0 | Python | 2026-08-15 | Smoke Monkey — a chat LLM with super memory and dynamic visual widgets. Hybrid retrieval RAG (pgvector + FTS), agentic r |
-| 16 | [felixzhu97/explore-ai](https://github.com/felixzhu97/explore-ai) | 1 | Java | 2026-08-15 | A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring |
-| 17 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-15 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 18 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1335 | Rust | 2026-08-15 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-15 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [oscargbocanegra/llms-engineering-main](https://github.com/oscargbocanegra/llms-engineering-main) | 2 | Jupyter Notebook | 2026-08-15 | Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows |
+| 6 | [irodori-table/irodori-extension-qdrant](https://github.com/irodori-table/irodori-extension-qdrant) | 0 | Rust | 2026-08-15 | Irodori Table Qdrant connector extension |
+| 7 | [irodori-table/irodori-extension-pinecone](https://github.com/irodori-table/irodori-extension-pinecone) | 0 | Rust | 2026-08-15 | Irodori Table Pinecone connector extension |
+| 8 | [irodori-table/irodori-extension-milvus](https://github.com/irodori-table/irodori-extension-milvus) | 0 | Rust | 2026-08-15 | Irodori Table Milvus connector extension |
+| 9 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-15 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 10 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-15 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 11 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-15 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 12 | [Bitwarelabscom/bwmem](https://github.com/Bitwarelabscom/bwmem) | 1 | TypeScript | 2026-08-15 | Memory SDK for AI agents — bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid |
+| 13 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-15 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 14 | [HyxiaoGe/fusion-api](https://github.com/HyxiaoGe/fusion-api) | 5 | Python | 2026-08-15 | Fusion 后端：统一多模型接入，提供 Agent 对话、文件解析、向量检索与知识库能力。 |
+| 15 | [1Vewton/WikiSpider](https://github.com/1Vewton/WikiSpider) | 0 | Go | 2026-08-15 | Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG.  |
+| 16 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1877 | Go | 2026-08-15 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 17 | [RajdeepDevelopment/smoke-monkey](https://github.com/RajdeepDevelopment/smoke-monkey) | 0 | Python | 2026-08-15 | Smoke Monkey — a chat LLM with super memory and dynamic visual widgets. Hybrid retrieval RAG (pgvector + FTS), agentic r |
+| 18 | [felixzhu97/explore-ai](https://github.com/felixzhu97/explore-ai) | 1 | Java | 2026-08-15 | A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring |
 | 19 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-15 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 20 | [tywangq/leasehound](https://github.com/tywangq/leasehound) | 2 | Python | 2026-08-15 | 🐕 Sniffs out the lease clauses that shouldn't be there — WA tenant-law RAG: clause-by-clause scan reports with statute c |
 | 21 | [agent-ix/ecaz](https://github.com/agent-ix/ecaz) | 2 | Rust | 2026-08-15 | Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support. |
@@ -86,7 +86,7 @@ expired items removed — so you can rely on what you see being current.
 | 42 | [RonsenbergVI/fraise](https://github.com/RonsenbergVI/fraise) | 2 | Go | 2026-08-14 | In-memory knowledge store for AI agents |
 | 43 | [vicquick/nobrainr](https://github.com/vicquick/nobrainr) | 1 | Python | 2026-08-14 | Persistent memory and knowledge graph for AI agents via MCP — PostgreSQL + pgvector + Ollama |
 | 44 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 7 | Rust | 2026-08-14 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
-| 45 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-14 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 45 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-15 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
 | 46 | [Raynerhalfandhalf451/writeback](https://github.com/Raynerhalfandhalf451/writeback) | 0 | JavaScript | 2026-08-14 | Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with |
 | 47 | [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) | 787 | Rust | 2026-08-14 | build vector database extensions over Apache Datafusion and CMU-DB's BusTub system |
 | 48 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35185 | Python | 2026-08-14 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
