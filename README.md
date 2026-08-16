@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 09:59 UTC
+> ⏰ Last updated: 2026-08-16 10:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,10 +43,10 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [sindrehaugen/NCE](https://github.com/sindrehaugen/NCE) | 0 | Python | 2026-08-16 | More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a |
-| 3 | [Iammilansoni/MiningNiti](https://github.com/Iammilansoni/MiningNiti) | 0 | TypeScript | 2026-08-16 | 🏆 SIH 2023 Winning Project \| AI-powered Mining Document Intelligence Platform with RAG, semantic search, and intelligent |
-| 4 | [ODO-TECH/MCPulse-RAG](https://github.com/ODO-TECH/MCPulse-RAG) | 1 | Python | 2026-08-16 | Self-hosted RAG stack with Qdrant, MCP over SSE, automatic indexing, file watching, scheduled health checks, and email r |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [sindrehaugen/NCE](https://github.com/sindrehaugen/NCE) | 0 | Python | 2026-08-16 | More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a |
+| 4 | [Iammilansoni/MiningNiti](https://github.com/Iammilansoni/MiningNiti) | 0 | TypeScript | 2026-08-16 | 🏆 SIH 2023 Winning Project \| AI-powered Mining Document Intelligence Platform with RAG, semantic search, and intelligent |
+| 5 | [ODO-TECH/MCPulse-RAG](https://github.com/ODO-TECH/MCPulse-RAG) | 1 | Python | 2026-08-16 | Self-hosted RAG stack with Qdrant, MCP over SSE, automatic indexing, file watching, scheduled health checks, and email r |
 | 6 | [infino-ai/infino](https://github.com/infino-ai/infino) | 67 | Rust | 2026-08-16 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
 | 7 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-16 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
 | 8 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-16 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
