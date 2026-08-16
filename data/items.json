@@ -1,11 +1,47 @@
 [
   {
+    "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
+    "id": "mudassirshahzad/project-eka",
+    "language": "Java",
+    "name": "mudassirshahzad/project-eka",
+    "stars": 1,
+    "updated_at": "2026-08-16T07:43:22Z",
+    "url": "https://github.com/mudassirshahzad/project-eka"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-16T07:41:06Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-16T07:38:11Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T07:37:16Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-16T07:36:40Z",
+    "updated_at": "2026-08-16T07:42:24Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T07:33:16Z",
+    "updated_at": "2026-08-16T07:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T07:31:15Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T07:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -81,15 +108,6 @@
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-16T07:13:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "AI-powered customer support RAG agent built with n8n, OpenAI, PostgreSQL/PGVector, embeddings, vector search, and conver",
     "id": "mohammad-jahidul-islam/AI-Customer-Support-RAG-Agent",
     "language": "\u2014",
@@ -106,15 +124,6 @@
     "stars": 2436,
     "updated_at": "2026-08-16T07:11:33Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:58:51Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "A production-grade Retrieval-Augmented Generation (RAG) agent built to answer customer support questions using company d",
@@ -176,7 +185,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-16T07:36:06Z",
+    "updated_at": "2026-08-16T07:40:51Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-16T04:17:05Z",
     "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-08-16T04:16:28Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   }
 ]
