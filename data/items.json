@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T15:30:22Z",
+    "updated_at": "2026-08-16T15:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LanceDB is the AI-Native multimodal lakehouse built on the open-source Lance columnar storage format. It pairs an Apache",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-08-16T15:42:03Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-16T15:37:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
+    "id": "musabbozkurt/oauth2-authorization-server",
+    "language": "Java",
+    "name": "musabbozkurt/oauth2-authorization-server",
+    "stars": 6,
+    "updated_at": "2026-08-16T15:34:42Z",
+    "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2448,
+    "updated_at": "2026-08-16T15:34:34Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "IronCore Labs builds application-layer encryption tools that keep sensitive data private while it stays usable. Its prod",
+    "id": "api-evangelist/ironcore-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ironcore-labs",
+    "stars": 0,
+    "updated_at": "2026-08-16T15:34:11Z",
+    "url": "https://github.com/api-evangelist/ironcore-labs"
+  },
+  {
+    "description": "LangGraph AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-08-16T15:33:11Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
   },
   {
     "description": "A fully local PDF RAG application using FastAPI, Streamlit, Ollama, Qdrant, Inngest, and LlamaIndex.",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "MahamadElshabory/local-pdf-RAG",
     "stars": 0,
-    "updated_at": "2026-08-16T15:30:18Z",
+    "updated_at": "2026-08-16T15:32:05Z",
     "url": "https://github.com/MahamadElshabory/local-pdf-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T15:30:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -36,15 +99,6 @@
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   },
   {
-    "description": "LangGraph AI agent that recommends arXiv papers based on bookmarks or topics.",
-    "id": "alxxtexxr/arxiv_agent",
-    "language": "Python",
-    "name": "alxxtexxr/arxiv_agent",
-    "stars": 0,
-    "updated_at": "2026-08-16T15:22:40Z",
-    "url": "https://github.com/alxxtexxr/arxiv_agent"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "veep2012/doc_mcp",
     "stars": 0,
-    "updated_at": "2026-08-16T15:26:40Z",
+    "updated_at": "2026-08-16T15:35:54Z",
     "url": "https://github.com/veep2012/doc_mcp"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T15:20:50Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T15:19:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -124,15 +169,6 @@
     "stars": 9414,
     "updated_at": "2026-08-16T15:08:10Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-16T15:05:06Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Enterprise Conversational RAG customer support chatbot built with Python, LangChain, ChromaDB, and Streamlit. Features m",
@@ -203,7 +239,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35206,
-    "updated_at": "2026-08-16T14:25:46Z",
+    "updated_at": "2026-08-16T15:42:15Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -248,7 +284,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-16T15:21:16Z",
+    "updated_at": "2026-08-16T15:42:43Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-16T15:24:15Z",
+    "updated_at": "2026-08-16T15:33:55Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T12:24:41Z",
     "url": "https://github.com/PrathamV239/Document-Intelligence-API"
-  },
-  {
-    "description": "Personal RAG agent built with n8n,Google Drive, OpenAI embeddings, and Supabase Vector Store for document ingestion and ",
-    "id": "shivam-srivastava2003/Personal-RAG-AGENT",
-    "language": "\u2014",
-    "name": "shivam-srivastava2003/Personal-RAG-AGENT",
-    "stars": 1,
-    "updated_at": "2026-08-16T12:21:17Z",
-    "url": "https://github.com/shivam-srivastava2003/Personal-RAG-AGENT"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2053,
-    "updated_at": "2026-08-16T13:28:58Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
-    "id": "dem2007/ChromaDB-Manager",
-    "language": "Swift",
-    "name": "dem2007/ChromaDB-Manager",
-    "stars": 0,
-    "updated_at": "2026-08-16T12:06:16Z",
-    "url": "https://github.com/dem2007/ChromaDB-Manager"
-  },
-  {
-    "description": "High-performance vector database for RAG on Linux \u2014 SIMD kernels + HNSW, single-file persistence, zero dependencies (C++",
-    "id": "Hai-Wenxiang/StarryVector",
-    "language": "C++",
-    "name": "Hai-Wenxiang/StarryVector",
-    "stars": 0,
-    "updated_at": "2026-08-16T12:04:45Z",
-    "url": "https://github.com/Hai-Wenxiang/StarryVector"
   }
 ]
