@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T13:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-16T13:29:46Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Autonomous Revenue Operating System (v7.2.0) powered by a 5-node AI swarm, Bayesian probability engines, and Kelly Crite",
+    "id": "Omni-Kernel/OS",
+    "language": "\u2014",
+    "name": "Omni-Kernel/OS",
+    "stars": 0,
+    "updated_at": "2026-08-16T13:27:53Z",
+    "url": "https://github.com/Omni-Kernel/OS"
+  },
+  {
+    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-08-16T13:23:23Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-16T13:22:35Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-16T13:22:31Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A privacy-first Slack bot that integrates local LLMs (Ollama/vLLM/LM Studio) with advanced tools like ComfyUI image gene",
+    "id": "RafiBG/L.A.M.S.",
+    "language": "Python",
+    "name": "RafiBG/L.A.M.S.",
+    "stars": 0,
+    "updated_at": "2026-08-16T13:19:26Z",
+    "url": "https://github.com/RafiBG/L.A.M.S."
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-16T13:18:44Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T13:18:16Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
     "id": "jihadkhawaja/mem0sharp",
     "language": "C#",
@@ -16,24 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-16T13:15:27Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T13:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T13:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T13:11:59Z",
     "url": "https://github.com/Abhishekvoid/RagBag-backend"
-  },
-  {
-    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-08-16T13:08:15Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   },
   {
     "description": "An intelligent research discovery platform that automatically crawls ArXiv papers, generates multimodal embeddings, and ",
@@ -135,31 +189,13 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-16T12:37:02Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-16T13:11:51Z",
+    "updated_at": "2026-08-16T13:27:29Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-16T12:35:11Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "The AI search platform",
@@ -194,7 +230,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35205,
-    "updated_at": "2026-08-16T13:12:05Z",
+    "updated_at": "2026-08-16T13:23:06Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -212,17 +248,8 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2053,
-    "updated_at": "2026-08-16T12:15:35Z",
+    "updated_at": "2026-08-16T13:28:58Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-16T12:14:41Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
@@ -304,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T11:35:30Z",
     "url": "https://github.com/pr0mila/Vector-vs.-Graph-Databases-for-RAG"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-16T11:24:34Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-16T10:31:30Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8103,
-    "updated_at": "2026-08-16T10:02:29Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "ChromaMind is a fast desktop client for ChromaDB.",
-    "id": "probaku1234/chromamind",
-    "language": "TypeScript",
-    "name": "probaku1234/chromamind",
-    "stars": 0,
-    "updated_at": "2026-08-16T10:02:02Z",
-    "url": "https://github.com/probaku1234/chromamind"
   }
 ]
