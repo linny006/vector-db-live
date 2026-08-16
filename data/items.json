@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T08:15:19Z",
+    "updated_at": "2026-08-16T08:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-16T08:29:50Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-16T08:27:01Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 5,
+    "updated_at": "2026-08-16T08:25:17Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
+  },
+  {
+    "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
+    "id": "mudassirshahzad/project-eka",
+    "language": "Java",
+    "name": "mudassirshahzad/project-eka",
+    "stars": 1,
+    "updated_at": "2026-08-16T08:24:23Z",
+    "url": "https://github.com/mudassirshahzad/project-eka"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-16T08:28:52Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T08:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -16,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-16T08:14:31Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-16T08:15:17Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -54,15 +99,6 @@
     "url": "https://github.com/Soumiya-33/Rag-core"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T08:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -81,24 +117,6 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
-    "id": "mudassirshahzad/project-eka",
-    "language": "Java",
-    "name": "mudassirshahzad/project-eka",
-    "stars": 1,
-    "updated_at": "2026-08-16T07:43:22Z",
-    "url": "https://github.com/mudassirshahzad/project-eka"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-16T07:31:15Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
@@ -106,15 +124,6 @@
     "stars": 16732,
     "updated_at": "2026-08-16T07:50:36Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-16T07:28:55Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "AI-Augmented Enterprise Library Management System built using Flask, MongoDB Atlas, ChromaDB, and Ollama-based local LLM",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T04:18:26Z",
     "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1081,
-    "updated_at": "2026-08-16T07:50:11Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
