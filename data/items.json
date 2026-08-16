@@ -1,12 +1,39 @@
 [
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T13:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
     "stars": 1,
-    "updated_at": "2026-08-16T12:39:53Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+    "updated_at": "2026-08-16T13:00:07Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "A RAG application that turns any PDF into an intelligent, citation-backed assistant. Built with Streamlit, LangChain, Qd",
+    "id": "Samyak-Waghmare/docuquery",
+    "language": "Python",
+    "name": "Samyak-Waghmare/docuquery",
+    "stars": 0,
+    "updated_at": "2026-08-16T12:59:44Z",
+    "url": "https://github.com/Samyak-Waghmare/docuquery"
+  },
+  {
+    "description": "Hackathon project for students finding a place to stay on or near NTU campus",
+    "id": "holmns/ntu-hall-for-me",
+    "language": "TypeScript",
+    "name": "holmns/ntu-hall-for-me",
+    "stars": 0,
+    "updated_at": "2026-08-16T12:56:51Z",
+    "url": "https://github.com/holmns/ntu-hall-for-me"
   },
   {
     "description": "\ud83c\udfc6 SIH 2023 Winning Project | AI-powered Mining Document Intelligence Platform with RAG, semantic search, and intelligent",
@@ -14,8 +41,53 @@
     "language": "TypeScript",
     "name": "Iammilansoni/MiningNiti",
     "stars": 0,
-    "updated_at": "2026-08-16T12:39:40Z",
+    "updated_at": "2026-08-16T12:54:24Z",
     "url": "https://github.com/Iammilansoni/MiningNiti"
+  },
+  {
+    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-08-16T12:48:33Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 777,
+    "updated_at": "2026-08-16T12:46:31Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-16T12:45:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T12:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-16T12:39:53Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -32,26 +104,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-16T12:42:10Z",
+    "updated_at": "2026-08-16T12:58:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T12:35:54Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-08-16T12:35:35Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -63,21 +117,12 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T12:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7052,
-    "updated_at": "2026-08-16T12:29:01Z",
+    "updated_at": "2026-08-16T12:53:23Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -104,7 +149,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35205,
-    "updated_at": "2026-08-16T12:31:22Z",
+    "updated_at": "2026-08-16T12:58:30Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -135,15 +180,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 777,
-    "updated_at": "2026-08-16T12:24:04Z",
-    "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
     "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
     "id": "dem2007/ChromaDB-Manager",
     "language": "Swift",
@@ -151,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T12:06:16Z",
     "url": "https://github.com/dem2007/ChromaDB-Manager"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-16T12:05:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "High-performance vector database for RAG on Linux \u2014 SIMD kernels + HNSW, single-file persistence, zero dependencies (C++",
@@ -301,7 +328,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30060,
+    "stars": 30061,
     "updated_at": "2026-08-16T10:48:53Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -360,6 +387,15 @@
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8103,
+    "updated_at": "2026-08-16T10:02:29Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "ChromaMind is a fast desktop client for ChromaDB.",
     "id": "probaku1234/chromamind",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T09:22:56Z",
     "url": "https://github.com/Abhishekvoid/RagBag-backend"
-  },
-  {
-    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
-    "id": "ZenSystemAI/Zengram",
-    "language": "JavaScript",
-    "name": "ZenSystemAI/Zengram",
-    "stars": 56,
-    "updated_at": "2026-08-16T09:19:24Z",
-    "url": "https://github.com/ZenSystemAI/Zengram"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 87,
-    "updated_at": "2026-08-16T11:43:31Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Sample of how vector embeddings works using OpenAI API, OpenRouter and Supabase pgvector. ",
-    "id": "izynegallardo/retrieval-augmented-generation",
-    "language": "JavaScript",
-    "name": "izynegallardo/retrieval-augmented-generation",
-    "stars": 0,
-    "updated_at": "2026-08-16T08:56:22Z",
-    "url": "https://github.com/izynegallardo/retrieval-augmented-generation"
-  },
-  {
-    "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
-    "id": "mudassirshahzad/project-eka",
-    "language": "Java",
-    "name": "mudassirshahzad/project-eka",
-    "stars": 1,
-    "updated_at": "2026-08-16T08:24:23Z",
-    "url": "https://github.com/mudassirshahzad/project-eka"
   }
 ]
