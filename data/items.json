@@ -1,11 +1,38 @@
 [
   {
+    "description": "\ud83c\udfc6 SIH 2023 Winning Project | AI-powered Mining Document Intelligence Platform with RAG, semantic search, and intelligent",
+    "id": "Iammilansoni/MiningNiti",
+    "language": "TypeScript",
+    "name": "Iammilansoni/MiningNiti",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:44:27Z",
+    "url": "https://github.com/Iammilansoni/MiningNiti"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T11:43:44Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-16T11:42:37Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
     "description": "Vector graphics format authored in DixScript, compressed with MBFA",
     "id": "Mid-D-Man/msx",
     "language": "Rust",
     "name": "Mid-D-Man/msx",
     "stars": 0,
-    "updated_at": "2026-08-16T11:29:44Z",
+    "updated_at": "2026-08-16T11:41:32Z",
     "url": "https://github.com/Mid-D-Man/msx"
   },
   {
@@ -14,8 +41,35 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-16T11:28:31Z",
+    "updated_at": "2026-08-16T11:40:49Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-16T11:37:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A practical, no-fluff comparison of vector databases vs. graph databases for RAG systems \u2014 pros, cons, real-world use ca",
+    "id": "pr0mila/Vector-vs.-Graph-Databases-for-RAG",
+    "language": "\u2014",
+    "name": "pr0mila/Vector-vs.-Graph-Databases-for-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:35:30Z",
+    "url": "https://github.com/pr0mila/Vector-vs.-Graph-Databases-for-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T11:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -25,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T11:28:22Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T11:26:56Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -90,15 +135,6 @@
     "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T11:16:43Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
     "id": "10xHub/Agentflow",
     "language": "Python",
@@ -117,15 +153,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-16T11:04:50Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)",
     "id": "mirkobozzetto/flowflow",
     "language": "Rust",
@@ -140,7 +167,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-16T11:10:52Z",
+    "updated_at": "2026-08-16T11:39:24Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -167,17 +194,8 @@
     "language": "C++",
     "name": "Hai-Wenxiang/StarryVector",
     "stars": 0,
-    "updated_at": "2026-08-16T10:46:18Z",
+    "updated_at": "2026-08-16T11:33:15Z",
     "url": "https://github.com/Hai-Wenxiang/StarryVector"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-16T10:44:06Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "AI-powered RAG app to chat with any documentation - scrape, generate knowledge base, and query docs with source-backed a",
@@ -252,15 +270,6 @@
     "url": "https://github.com/probaku1234/chromamind"
   },
   {
-    "description": "\ud83c\udfc6 SIH 2023 Winning Project | AI-powered Mining Document Intelligence Platform with RAG, semantic search, and intelligent",
-    "id": "Iammilansoni/MiningNiti",
-    "language": "TypeScript",
-    "name": "Iammilansoni/MiningNiti",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:23:25Z",
-    "url": "https://github.com/Iammilansoni/MiningNiti"
-  },
-  {
     "description": "Self-hosted RAG stack with Qdrant, MCP over SSE, automatic indexing, file watching, scheduled health checks, and email r",
     "id": "ODO-TECH/MCPulse-RAG",
     "language": "Python",
@@ -320,7 +329,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-16T10:12:43Z",
+    "updated_at": "2026-08-16T11:43:31Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -409,7 +418,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2441,
+    "stars": 2442,
     "updated_at": "2026-08-16T07:11:33Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-16T06:52:04Z",
     "url": "https://github.com/dehyabi/dehyabi.com"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-16T06:47:19Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
