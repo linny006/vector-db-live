@@ -1,12 +1,57 @@
 [
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T04:44:09Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "updated_at": "2026-08-16T05:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Eidetic \u2014 a single-process, single-database memory server for AI agents. SQLite-native: vectors + FTS5 + knowledge graph",
+    "id": "rongshenCarson/eidetic-memory",
+    "language": "Python",
+    "name": "rongshenCarson/eidetic-memory",
+    "stars": 0,
+    "updated_at": "2026-08-16T04:59:44Z",
+    "url": "https://github.com/rongshenCarson/eidetic-memory"
+  },
+  {
+    "description": "An Psychitry Agent for Paitents that really need an answer, stille working on it.",
+    "id": "keval-parmar-030902/Psychitry-ai-agent",
+    "language": "Python",
+    "name": "keval-parmar-030902/Psychitry-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-16T04:55:05Z",
+    "url": "https://github.com/keval-parmar-030902/Psychitry-ai-agent"
+  },
+  {
+    "description": "Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable.",
+    "id": "zepdb/zeppelin",
+    "language": "Rust",
+    "name": "zepdb/zeppelin",
+    "stars": 43,
+    "updated_at": "2026-08-16T04:53:35Z",
+    "url": "https://github.com/zepdb/zeppelin"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-08-16T04:53:06Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1437,
+    "updated_at": "2026-08-16T04:49:19Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "- ",
@@ -14,8 +59,26 @@
     "language": "Python",
     "name": "Chief-Strategist-J/llm-observability-platform",
     "stars": 3,
-    "updated_at": "2026-08-16T04:42:06Z",
+    "updated_at": "2026-08-16T04:48:04Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T04:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-16T04:44:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -31,18 +94,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1384,
+    "stars": 1385,
     "updated_at": "2026-08-16T04:34:04Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T04:33:56Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -52,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T04:33:44Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T04:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -203,7 +248,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1081,
-    "updated_at": "2026-08-16T04:18:25Z",
+    "updated_at": "2026-08-16T04:58:34Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-08-16T04:17:05Z",
     "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Eidetic \u2014 a single-process, single-database memory server for AI agents. SQLite-native: vectors + FTS5 + knowledge graph",
-    "id": "rongshenCarson/eidetic-memory",
-    "language": "Python",
-    "name": "rongshenCarson/eidetic-memory",
-    "stars": 0,
-    "updated_at": "2026-08-16T04:16:32Z",
-    "url": "https://github.com/rongshenCarson/eidetic-memory"
   },
   {
     "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T03:56:50Z",
     "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-08-16T03:54:03Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "TalaDB - The embedded vector database for on-device AI.",
-    "id": "taladb/taladb",
-    "language": "Rust",
-    "name": "taladb/taladb",
-    "stars": 4,
-    "updated_at": "2026-08-16T03:54:07Z",
-    "url": "https://github.com/taladb/taladb"
-  },
-  {
-    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
-    "id": "varun29ankuS/shodh-redb",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-redb",
-    "stars": 5,
-    "updated_at": "2026-08-16T03:49:49Z",
-    "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-08-16T03:48:48Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
   }
 ]
