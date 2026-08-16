@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
+    "id": "Ojcalzada/pulsepoint-RAG",
+    "language": "Python",
+    "name": "Ojcalzada/pulsepoint-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-16T23:14:09Z",
+    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
+  },
+  {
+    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
+    "id": "persona-net/rag-pipeline-dashboard",
+    "language": "TypeScript",
+    "name": "persona-net/rag-pipeline-dashboard",
+    "stars": 0,
+    "updated_at": "2026-08-16T23:12:10Z",
+    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-16T23:12:32Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
+    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "language": "Python",
+    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "stars": 2,
+    "updated_at": "2026-08-16T23:11:04Z",
+    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-08-16T23:09:48Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-16T23:08:24Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-08-16T23:08:23Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 5,
+    "updated_at": "2026-08-16T23:07:55Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-08-16T23:06:45Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-16T23:03:53Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-08-16T23:02:17Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
+    "id": "meriamsamy/Sterling-Vance-Bank-B",
+    "language": "Python",
+    "name": "meriamsamy/Sterling-Vance-Bank-B",
+    "stars": 0,
+    "updated_at": "2026-08-16T23:01:50Z",
+    "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T23:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,33 +153,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T22:49:48Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-16T22:47:53Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 5,
-    "updated_at": "2026-08-16T22:44:33Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
     "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
     "id": "mudassirshahzad/project-eka",
     "language": "Java",
@@ -79,15 +169,6 @@
     "stars": 4,
     "updated_at": "2026-08-16T22:39:27Z",
     "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-16T22:37:44Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Local-first hybrid RAG for scientific PDFs: bilingual (EL/EN) Q&A with page-level citations, an anti-hallucination relev",
@@ -126,21 +207,12 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-16T22:08:21Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-16T22:03:56Z",
+    "updated_at": "2026-08-16T23:08:52Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -167,7 +239,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1411,
-    "updated_at": "2026-08-16T21:46:34Z",
+    "updated_at": "2026-08-16T23:02:58Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -184,7 +256,7 @@
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
     "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 599,
+    "stars": 600,
     "updated_at": "2026-08-16T21:21:38Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
@@ -194,7 +266,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 2,
-    "updated_at": "2026-08-16T22:43:52Z",
+    "updated_at": "2026-08-16T23:14:39Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -275,7 +347,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1083,
-    "updated_at": "2026-08-16T22:53:49Z",
+    "updated_at": "2026-08-16T23:00:45Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-16T17:35:23Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35205,
-    "updated_at": "2026-08-16T17:34:44Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
-    "id": "musabbozkurt/oauth2-authorization-server",
-    "language": "Java",
-    "name": "musabbozkurt/oauth2-authorization-server",
-    "stars": 6,
-    "updated_at": "2026-08-16T17:30:21Z",
-    "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
-  },
-  {
-    "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-08-16T17:05:09Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "High-performance vector database for RAG on Linux \u2014 SIMD kernels + HNSW, single-file persistence, zero dependencies (C++",
-    "id": "Hai-Wenxiang/StarryVector",
-    "language": "C++",
-    "name": "Hai-Wenxiang/StarryVector",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:17:47Z",
-    "url": "https://github.com/Hai-Wenxiang/StarryVector"
-  },
-  {
-    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 4,
-    "updated_at": "2026-08-16T17:04:31Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
-    "description": "Vespa is an open-source AI search engine, big-data serving engine, and vector database originally developed inside Yahoo",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:04:18Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds ",
-    "id": "api-evangelist/vectorize-io",
-    "language": "\u2014",
-    "name": "api-evangelist/vectorize-io",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:04:00Z",
-    "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "Upstash provides serverless data platforms including managed Redis, Kafka, QStash messaging, and Vector databases optimi",
-    "id": "api-evangelist/upstash",
-    "language": "\u2014",
-    "name": "api-evangelist/upstash",
-    "stars": 0,
-    "updated_at": "2026-08-16T17:03:28Z",
-    "url": "https://github.com/api-evangelist/upstash"
   }
 ]
