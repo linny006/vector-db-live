@@ -5,17 +5,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T10:00:19Z",
+    "updated_at": "2026-08-16T10:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T09:59:49Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a",
@@ -23,8 +14,71 @@
     "language": "Python",
     "name": "sindrehaugen/NCE",
     "stars": 0,
-    "updated_at": "2026-08-16T09:57:44Z",
+    "updated_at": "2026-08-16T10:15:05Z",
     "url": "https://github.com/sindrehaugen/NCE"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30060,
+    "updated_at": "2026-08-16T10:11:35Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-16T10:10:39Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Local RAG Assistant  built with:  - Python - Streamlit - Sentence Transformers - ChromaDB - Ollama - Llama 3.",
+    "id": "winston-lim-dev/document-qa-rag",
+    "language": "Python",
+    "name": "winston-lim-dev/document-qa-rag",
+    "stars": 1,
+    "updated_at": "2026-08-16T10:09:28Z",
+    "url": "https://github.com/winston-lim-dev/document-qa-rag"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-16T10:05:04Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "ChromaMind is a fast desktop client for ChromaDB.",
+    "id": "probaku1234/chromamind",
+    "language": "TypeScript",
+    "name": "probaku1234/chromamind",
+    "stars": 0,
+    "updated_at": "2026-08-16T10:02:02Z",
+    "url": "https://github.com/probaku1234/chromamind"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-16T10:00:30Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T10:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83c\udfc6 SIH 2023 Winning Project | AI-powered Mining Document Intelligence Platform with RAG, semantic search, and intelligent",
@@ -54,15 +108,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-16T09:42:16Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 76,
     "updated_at": "2026-08-16T09:40:03Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-16T09:39:40Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "RAG (Retrieval-Augmented Generation) experiments with vector databases, embedding models, and LLM integration for docume",
@@ -158,17 +194,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-16T09:17:36Z",
+    "updated_at": "2026-08-16T10:12:43Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-16T09:15:25Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -194,7 +221,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1081,
-    "updated_at": "2026-08-16T09:43:27Z",
+    "updated_at": "2026-08-16T10:15:15Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -238,7 +265,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 33998,
+    "stars": 33999,
     "updated_at": "2026-08-16T08:24:04Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -275,7 +302,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16732,
-    "updated_at": "2026-08-16T07:50:36Z",
+    "updated_at": "2026-08-16T10:09:55Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -292,7 +319,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2437,
+    "stars": 2438,
     "updated_at": "2026-08-16T07:11:33Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T05:25:10Z",
     "url": "https://github.com/DivyanshuVortex/vortex"
-  },
-  {
-    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
-    "id": "litegraphdb/litegraph",
-    "language": "C#",
-    "name": "litegraphdb/litegraph",
-    "stars": 129,
-    "updated_at": "2026-08-16T05:17:39Z",
-    "url": "https://github.com/litegraphdb/litegraph"
-  },
-  {
-    "description": "Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable.",
-    "id": "zepdb/zeppelin",
-    "language": "Rust",
-    "name": "zepdb/zeppelin",
-    "stars": 43,
-    "updated_at": "2026-08-16T04:53:35Z",
-    "url": "https://github.com/zepdb/zeppelin"
-  },
-  {
-    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
-    "id": "theogony-project/theogony",
-    "language": "Python",
-    "name": "theogony-project/theogony",
-    "stars": 0,
-    "updated_at": "2026-08-16T04:53:06Z",
-    "url": "https://github.com/theogony-project/theogony"
   }
 ]
