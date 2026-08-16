@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T05:45:19Z",
+    "updated_at": "2026-08-16T06:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2435,
+    "updated_at": "2026-08-16T05:59:13Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "An Psychitry Agent for Paitents that really need an answer, stille working on it.",
+    "id": "keval-parmar-030902/Psychitry-ai-agent",
+    "language": "Python",
+    "name": "keval-parmar-030902/Psychitry-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-16T05:51:44Z",
+    "url": "https://github.com/keval-parmar-030902/Psychitry-ai-agent"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-08-16T05:51:05Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Eidetic \u2014 a single-process, single-database memory server for AI agents. SQLite-native: vectors + FTS5 + knowledge graph",
+    "id": "rongshenCarson/eidetic-memory",
+    "language": "Python",
+    "name": "rongshenCarson/eidetic-memory",
+    "stars": 0,
+    "updated_at": "2026-08-16T05:48:21Z",
+    "url": "https://github.com/rongshenCarson/eidetic-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T05:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "TalaDB - The embedded vector database for on-device AI.",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "taladb/taladb",
     "stars": 4,
-    "updated_at": "2026-08-16T05:43:59Z",
+    "updated_at": "2026-08-16T05:50:06Z",
     "url": "https://github.com/taladb/taladb"
   },
   {
@@ -27,24 +72,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T05:42:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "An Psychitry Agent for Paitents that really need an answer, stille working on it.",
-    "id": "keval-parmar-030902/Psychitry-ai-agent",
-    "language": "Python",
-    "name": "keval-parmar-030902/Psychitry-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-08-16T05:41:57Z",
-    "url": "https://github.com/keval-parmar-030902/Psychitry-ai-agent"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -52,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-16T05:40:27Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Eidetic \u2014 a single-process, single-database memory server for AI agents. SQLite-native: vectors + FTS5 + knowledge graph",
-    "id": "rongshenCarson/eidetic-memory",
-    "language": "Python",
-    "name": "rongshenCarson/eidetic-memory",
-    "stars": 0,
-    "updated_at": "2026-08-16T05:40:18Z",
-    "url": "https://github.com/rongshenCarson/eidetic-memory"
   },
   {
     "description": "Universal Data Object Model in Python for SQL, Nosql, Graph, Vector DBMS ",
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T05:25:10Z",
     "url": "https://github.com/DivyanshuVortex/vortex"
-  },
-  {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-08-16T05:22:59Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
     "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
@@ -320,7 +329,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1081,
-    "updated_at": "2026-08-16T05:36:02Z",
+    "updated_at": "2026-08-16T05:59:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-16T04:07:31Z",
     "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-  },
-  {
-    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
-    "id": "ELSAKKK/mnemos-mcp",
-    "language": "Python",
-    "name": "ELSAKKK/mnemos-mcp",
-    "stars": 5,
-    "updated_at": "2026-08-16T04:03:29Z",
-    "url": "https://github.com/ELSAKKK/mnemos-mcp"
   }
 ]
