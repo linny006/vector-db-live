@@ -1,21 +1,39 @@
 [
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-08-16T05:04:54Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
     "description": "Eidetic \u2014 a single-process, single-database memory server for AI agents. SQLite-native: vectors + FTS5 + knowledge graph",
     "id": "rongshenCarson/eidetic-memory",
     "language": "Python",
     "name": "rongshenCarson/eidetic-memory",
     "stars": 0,
-    "updated_at": "2026-08-16T05:03:50Z",
+    "updated_at": "2026-08-16T05:11:32Z",
     "url": "https://github.com/rongshenCarson/eidetic-memory"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-16T05:08:13Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-08-16T05:05:28Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T05:05:17Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -45,21 +63,12 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T05:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T05:00:18Z",
+    "updated_at": "2026-08-16T05:15:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -97,15 +106,6 @@
     "stars": 1437,
     "updated_at": "2026-08-16T05:00:28Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-16T04:44:09Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -266,7 +266,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1081,
-    "updated_at": "2026-08-16T05:03:57Z",
+    "updated_at": "2026-08-16T05:10:37Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {

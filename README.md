@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 05:05 UTC
+> ⏰ Last updated: 2026-08-16 05:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Chief-Strategist-J/llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | 3 | Python | 2026-08-16 | -  |
-| 2 | [rongshenCarson/eidetic-memory](https://github.com/rongshenCarson/eidetic-memory) | 0 | Python | 2026-08-16 | Eidetic — a single-process, single-database memory server for AI agents. SQLite-native: vectors + FTS5 + knowledge graph |
-| 3 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1614 | Python | 2026-08-16 | Unified multimodal backend for AI data apps |
-| 4 | [litegraphdb/litegraph](https://github.com/litegraphdb/litegraph) | 129 | C# | 2026-08-16 | Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig |
-| 5 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-16 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 8 | [keval-parmar-030902/Psychitry-ai-agent](https://github.com/keval-parmar-030902/Psychitry-ai-agent) | 0 | Python | 2026-08-16 | An Psychitry Agent for Paitents that really need an answer, stille working on it. |
-| 9 | [zepdb/zeppelin](https://github.com/zepdb/zeppelin) | 43 | Rust | 2026-08-16 | Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable. |
-| 10 | [theogony-project/theogony](https://github.com/theogony-project/theogony) | 0 | Python | 2026-08-16 | An open, democratic World-Brain — the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one,  |
-| 11 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1437 | Python | 2026-08-16 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
-| 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 1 | [rongshenCarson/eidetic-memory](https://github.com/rongshenCarson/eidetic-memory) | 0 | Python | 2026-08-16 | Eidetic — a single-process, single-database memory server for AI agents. SQLite-native: vectors + FTS5 + knowledge graph |
+| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 3 | [Chief-Strategist-J/llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | 3 | Python | 2026-08-16 | -  |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1614 | Python | 2026-08-16 | Unified multimodal backend for AI data apps |
+| 6 | [litegraphdb/litegraph](https://github.com/litegraphdb/litegraph) | 129 | C# | 2026-08-16 | Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig |
+| 7 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-16 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 9 | [keval-parmar-030902/Psychitry-ai-agent](https://github.com/keval-parmar-030902/Psychitry-ai-agent) | 0 | Python | 2026-08-16 | An Psychitry Agent for Paitents that really need an answer, stille working on it. |
+| 10 | [zepdb/zeppelin](https://github.com/zepdb/zeppelin) | 43 | Rust | 2026-08-16 | Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable. |
+| 11 | [theogony-project/theogony](https://github.com/theogony-project/theogony) | 0 | Python | 2026-08-16 | An open, democratic World-Brain — the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one,  |
+| 12 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1437 | Python | 2026-08-16 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
 | 13 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-16 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 14 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1385 | Rust | 2026-08-16 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
 | 15 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-16 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
