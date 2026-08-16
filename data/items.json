@@ -1,12 +1,66 @@
 [
   {
+    "description": "An Psychitry Agent for Paitents that really need an answer, stille working on it.",
+    "id": "keval-parmar-030902/Psychitry-ai-agent",
+    "language": "Python",
+    "name": "keval-parmar-030902/Psychitry-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-16T05:41:57Z",
+    "url": "https://github.com/keval-parmar-030902/Psychitry-ai-agent"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-16T05:40:27Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Eidetic \u2014 a single-process, single-database memory server for AI agents. SQLite-native: vectors + FTS5 + knowledge graph",
+    "id": "rongshenCarson/eidetic-memory",
+    "language": "Python",
+    "name": "rongshenCarson/eidetic-memory",
+    "stars": 0,
+    "updated_at": "2026-08-16T05:40:18Z",
+    "url": "https://github.com/rongshenCarson/eidetic-memory"
+  },
+  {
+    "description": "Universal Data Object Model in Python for SQL, Nosql, Graph, Vector DBMS ",
+    "id": "Veeresh-Hanni/DBDuck",
+    "language": "Python",
+    "name": "Veeresh-Hanni/DBDuck",
+    "stars": 3,
+    "updated_at": "2026-08-16T05:38:51Z",
+    "url": "https://github.com/Veeresh-Hanni/DBDuck"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-16T05:34:51Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T05:30:18Z",
+    "updated_at": "2026-08-16T05:34:34Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T05:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -41,7 +95,7 @@
     "language": "Python",
     "name": "satwiksps/steadlith",
     "stars": 0,
-    "updated_at": "2026-08-16T05:25:25Z",
+    "updated_at": "2026-08-16T05:37:38Z",
     "url": "https://github.com/satwiksps/steadlith"
   },
   {
@@ -81,33 +135,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T05:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Eidetic \u2014 a single-process, single-database memory server for AI agents. SQLite-native: vectors + FTS5 + knowledge graph",
-    "id": "rongshenCarson/eidetic-memory",
-    "language": "Python",
-    "name": "rongshenCarson/eidetic-memory",
-    "stars": 0,
-    "updated_at": "2026-08-16T05:11:32Z",
-    "url": "https://github.com/rongshenCarson/eidetic-memory"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-16T05:08:13Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Unified multimodal backend for AI data apps",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -124,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T05:00:27Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "An Psychitry Agent for Paitents that really need an answer, stille working on it.",
-    "id": "keval-parmar-030902/Psychitry-ai-agent",
-    "language": "Python",
-    "name": "keval-parmar-030902/Psychitry-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-08-16T04:55:05Z",
-    "url": "https://github.com/keval-parmar-030902/Psychitry-ai-agent"
   },
   {
     "description": "Open-source, S3-native vector and full-text search engine. Fast, cheap, self-hostable.",
@@ -166,7 +184,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1385,
+    "stars": 1386,
     "updated_at": "2026-08-16T04:34:04Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -293,7 +311,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1081,
-    "updated_at": "2026-08-16T05:26:29Z",
+    "updated_at": "2026-08-16T05:36:02Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-16T04:02:35Z",
     "url": "https://github.com/BiggerCap/agentops-hub"
-  },
-  {
-    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
-    "id": "hankamarvanova/unified-db",
-    "language": "Swift",
-    "name": "hankamarvanova/unified-db",
-    "stars": 2,
-    "updated_at": "2026-08-16T04:02:31Z",
-    "url": "https://github.com/hankamarvanova/unified-db"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-08-16T04:01:45Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   }
 ]
