@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 10:58 UTC
+> ⏰ Last updated: 2026-08-16 11:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-16 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 2 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 2 | Go | 2026-08-16 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
-| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 4 | [Hai-Wenxiang/StarryVector](https://github.com/Hai-Wenxiang/StarryVector) | 0 | C++ | 2026-08-16 | High-performance vector database for RAG on Linux — SIMD kernels + HNSW, single-file persistence, zero dependencies (C++ |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 25 | Python | 2026-08-16 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
-| 7 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-16 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 1 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-16 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-16 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 4 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 2 | Go | 2026-08-16 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
+| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 6 | [Hai-Wenxiang/StarryVector](https://github.com/Hai-Wenxiang/StarryVector) | 0 | C++ | 2026-08-16 | High-performance vector database for RAG on Linux — SIMD kernels + HNSW, single-file persistence, zero dependencies (C++ |
+| 7 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 25 | Python | 2026-08-16 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
 | 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 9 | [avishek0769/DocChat](https://github.com/avishek0769/DocChat) | 18 | TypeScript | 2026-08-16 | AI-powered RAG app to chat with any documentation - scrape, generate knowledge base, and query docs with source-backed a |
 | 10 | [winston-lim-dev/document-qa-rag](https://github.com/winston-lim-dev/document-qa-rag) | 1 | Python | 2026-08-16 | Local RAG Assistant  built with:  - Python - Streamlit - Sentence Transformers - ChromaDB - Ollama - Llama 3. |
