@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T20:46:31Z",
+    "updated_at": "2026-08-16T21:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "This is a hobby project to build a Graph database in Rust.",
+    "id": "gmr/dotilla",
+    "language": "Rust",
+    "name": "gmr/dotilla",
+    "stars": 0,
+    "updated_at": "2026-08-16T20:54:31Z",
+    "url": "https://github.com/gmr/dotilla"
+  },
+  {
+    "description": "Microsoft AI Summer Project: Offline Crisis Assistant RAG with Microsoft Foundry Local",
+    "id": "rbvwolf/ms-offline-crisis-rag",
+    "language": "JavaScript",
+    "name": "rbvwolf/ms-offline-crisis-rag",
+    "stars": 0,
+    "updated_at": "2026-08-16T20:52:03Z",
+    "url": "https://github.com/rbvwolf/ms-offline-crisis-rag"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 592,
+    "updated_at": "2026-08-16T20:54:08Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-16T20:47:54Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-16T20:45:21Z",
+    "updated_at": "2026-08-16T20:46:46Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -63,15 +99,6 @@
     "url": "https://github.com/efathom/ctxforge"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-16T20:22:04Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
@@ -99,13 +126,13 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "This is a hobby project to build a Graph database in Rust.",
-    "id": "gmr/dotilla",
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
     "language": "Rust",
-    "name": "gmr/dotilla",
-    "stars": 0,
-    "updated_at": "2026-08-16T19:58:22Z",
-    "url": "https://github.com/gmr/dotilla"
+    "name": "xerj-org/xerj",
+    "stars": 1408,
+    "updated_at": "2026-08-16T20:07:17Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
@@ -149,7 +176,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1083,
-    "updated_at": "2026-08-16T20:44:50Z",
+    "updated_at": "2026-08-16T20:54:17Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -171,21 +198,12 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 592,
-    "updated_at": "2026-08-16T19:40:39Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
     "id": "rostamlabs/rostam",
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 2,
-    "updated_at": "2026-08-16T20:39:26Z",
+    "updated_at": "2026-08-16T20:47:25Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T19:17:35Z",
     "url": "https://github.com/Samyak-Waghmare/docuquery"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1407,
-    "updated_at": "2026-08-16T20:07:17Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Visual multi-agent AI orchestration platform. Design, deploy, and monitor teams of AI agents with a drag-and-drop workfl",
@@ -394,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T16:59:21Z",
     "url": "https://github.com/octorohan/Intelligent-Research-Paper-Assistant"
-  },
-  {
-    "description": "Microsoft AI Summer Project: Offline Crisis Assistant RAG with Microsoft Foundry Local",
-    "id": "rbvwolf/ms-offline-crisis-rag",
-    "language": "JavaScript",
-    "name": "rbvwolf/ms-offline-crisis-rag",
-    "stars": 0,
-    "updated_at": "2026-08-16T16:55:42Z",
-    "url": "https://github.com/rbvwolf/ms-offline-crisis-rag"
   },
   {
     "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
