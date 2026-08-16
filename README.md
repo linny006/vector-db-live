@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 19:54 UTC
+> ⏰ Last updated: 2026-08-16 20:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [thelastpickle/open-htap-stack](https://github.com/thelastpickle/open-htap-stack) | 3 | Python | 2026-08-16 | Simple scalable low-latency HTAP Data Platform.     Vendor‑neutral Open Source. |
-| 3 | [gmr/dotilla](https://github.com/gmr/dotilla) | 0 | Rust | 2026-08-16 | This is a hobby project to build a Graph database in Rust. |
-| 4 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 47 | Rust | 2026-08-16 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
-| 5 | [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) | 162 | Rust | 2026-08-16 | Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG) |
-| 6 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1083 | Java | 2026-08-16 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 8 | [GCTRL-TECH/platform](https://github.com/GCTRL-TECH/platform) | 4 | TypeScript | 2026-08-16 | Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove |
-| 9 | [schmitech/orbit](https://github.com/schmitech/orbit) | 339 | Python | 2026-08-16 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 10 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 2 | Go | 2026-08-16 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
-| 11 | [mudassirshahzad/project-eka](https://github.com/mudassirshahzad/project-eka) | 1 | Java | 2026-08-16 | Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture. |
-| 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 13 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-16 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 1 | [gmr/dotilla](https://github.com/gmr/dotilla) | 0 | Rust | 2026-08-16 | This is a hobby project to build a Graph database in Rust. |
+| 2 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-16 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [thelastpickle/open-htap-stack](https://github.com/thelastpickle/open-htap-stack) | 3 | Python | 2026-08-16 | Simple scalable low-latency HTAP Data Platform.     Vendor‑neutral Open Source. |
+| 6 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 47 | Rust | 2026-08-16 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
+| 7 | [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) | 162 | Rust | 2026-08-16 | Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG) |
+| 8 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1083 | Java | 2026-08-16 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 9 | [GCTRL-TECH/platform](https://github.com/GCTRL-TECH/platform) | 4 | TypeScript | 2026-08-16 | Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove |
+| 10 | [schmitech/orbit](https://github.com/schmitech/orbit) | 339 | Python | 2026-08-16 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 11 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 2 | Go | 2026-08-16 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
+| 12 | [mudassirshahzad/project-eka](https://github.com/mudassirshahzad/project-eka) | 1 | Java | 2026-08-16 | Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture. |
+| 13 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 14 | [SUBHASHSUSHIL/RAG](https://github.com/SUBHASHSUSHIL/RAG) | 0 | — | 2026-08-16 | A structured guide covering LLMs - architecture, capabilities, types, and how RAG enhances them |
 | 15 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-16 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 16 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-16 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
