@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T13:00:22Z",
+    "updated_at": "2026-08-16T13:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
+    "id": "jihadkhawaja/mem0sharp",
+    "language": "C#",
+    "name": "jihadkhawaja/mem0sharp",
+    "stars": 11,
+    "updated_at": "2026-08-16T13:14:35Z",
+    "url": "https://github.com/jihadkhawaja/mem0sharp"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-08-16T13:14:17Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-16T13:13:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Multi-tenant enterprise RAG knowledge workspace built from scratch with FastAPI, PostgreSQL, Qdrant, custom chunking, em",
+    "id": "batul02/enterprise-ai-workspace",
+    "language": "Python",
+    "name": "batul02/enterprise-ai-workspace",
+    "stars": 0,
+    "updated_at": "2026-08-16T13:12:54Z",
+    "url": "https://github.com/batul02/enterprise-ai-workspace"
+  },
+  {
+    "description": "Production RAG platform: OCR \u2192 semantic chunking \u2192 TEI embeddings \u2192 Qdrant \u2192 cross-encoder reranking \u2192 Llama 3, with gro",
+    "id": "Abhishekvoid/RagBag-backend",
+    "language": "Python",
+    "name": "Abhishekvoid/RagBag-backend",
+    "stars": 0,
+    "updated_at": "2026-08-16T13:11:59Z",
+    "url": "https://github.com/Abhishekvoid/RagBag-backend"
+  },
+  {
+    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-08-16T13:08:15Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "An intelligent research discovery platform that automatically crawls ArXiv papers, generates multimodal embeddings, and ",
+    "id": "aymen-000/PaperLens",
+    "language": "TypeScript",
+    "name": "aymen-000/PaperLens",
+    "stars": 5,
+    "updated_at": "2026-08-16T13:04:54Z",
+    "url": "https://github.com/aymen-000/PaperLens"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T13:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -45,15 +117,6 @@
     "url": "https://github.com/Iammilansoni/MiningNiti"
   },
   {
-    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-08-16T12:48:33Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
     "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
     "id": "christopherkarani/Wax",
     "language": "Swift",
@@ -61,24 +124,6 @@
     "stars": 777,
     "updated_at": "2026-08-16T12:46:31Z",
     "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-16T12:45:38Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T12:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -104,7 +149,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-16T12:58:15Z",
+    "updated_at": "2026-08-16T13:11:51Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35205,
-    "updated_at": "2026-08-16T12:58:30Z",
+    "updated_at": "2026-08-16T13:12:05Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T10:02:02Z",
     "url": "https://github.com/probaku1234/chromamind"
-  },
-  {
-    "description": "Self-hosted RAG stack with Qdrant, MCP over SSE, automatic indexing, file watching, scheduled health checks, and email r",
-    "id": "ODO-TECH/MCPulse-RAG",
-    "language": "Python",
-    "name": "ODO-TECH/MCPulse-RAG",
-    "stars": 1,
-    "updated_at": "2026-08-16T09:51:44Z",
-    "url": "https://github.com/ODO-TECH/MCPulse-RAG"
-  },
-  {
-    "description": "RAG (Retrieval-Augmented Generation) experiments with vector databases, embedding models, and LLM integration for docume",
-    "id": "civarry/rag-exp",
-    "language": "Python",
-    "name": "civarry/rag-exp",
-    "stars": 0,
-    "updated_at": "2026-08-16T09:33:50Z",
-    "url": "https://github.com/civarry/rag-exp"
-  },
-  {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-08-16T09:29:49Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
-    "id": "DopamineDriven/slipstream",
-    "language": "TypeScript",
-    "name": "DopamineDriven/slipstream",
-    "stars": 0,
-    "updated_at": "2026-08-16T09:23:43Z",
-    "url": "https://github.com/DopamineDriven/slipstream"
-  },
-  {
-    "description": "Production RAG platform: OCR \u2192 semantic chunking \u2192 TEI embeddings \u2192 Qdrant \u2192 cross-encoder reranking \u2192 Llama 3, with gro",
-    "id": "Abhishekvoid/RagBag-backend",
-    "language": "Python",
-    "name": "Abhishekvoid/RagBag-backend",
-    "stars": 0,
-    "updated_at": "2026-08-16T09:22:56Z",
-    "url": "https://github.com/Abhishekvoid/RagBag-backend"
   }
 ]
