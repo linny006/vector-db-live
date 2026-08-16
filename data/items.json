@@ -1,5 +1,41 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1375,
+    "updated_at": "2026-08-16T01:24:00Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-16T01:21:10Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 47,
+    "updated_at": "2026-08-16T01:20:57Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T01:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,31 +72,13 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 47,
-    "updated_at": "2026-08-16T01:09:57Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1437,
-    "updated_at": "2026-08-16T01:05:31Z",
+    "updated_at": "2026-08-16T01:24:26Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T01:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -95,7 +113,7 @@
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 1,
-    "updated_at": "2026-08-16T00:47:24Z",
+    "updated_at": "2026-08-16T01:18:23Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -153,15 +171,6 @@
     "url": "https://github.com/stackitcloud/rag-template"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1374,
-    "updated_at": "2026-08-16T00:33:01Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Semantic candidate search and information retrieval over ~200K profiles: Voyage-3 embeddings, hard/soft relevance filter",
     "id": "jameswniu/candidate-vector-search-rerank-semantics",
     "language": "Python",
@@ -198,15 +207,6 @@
     "url": "https://github.com/efathom/ctxforge"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-15T23:20:41Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
     "id": "oscargbocanegra/llms-engineering-main",
     "language": "Jupyter Notebook",
@@ -238,7 +238,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30051,
+    "stars": 30052,
     "updated_at": "2026-08-15T22:37:58Z",
     "url": "https://github.com/topoteretes/cognee"
   },

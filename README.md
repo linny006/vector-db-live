@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 01:15 UTC
+> ⏰ Last updated: 2026-08-16 01:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,33 +42,33 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-16 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 3 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-16 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 4 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-16 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 5 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 47 | Rust | 2026-08-16 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
-| 6 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1437 | Python | 2026-08-16 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 8 | [0xLazAI/alith](https://github.com/0xLazAI/alith) | 44 | Rust | 2026-08-16 | Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone |
-| 9 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | 250 | Go | 2026-08-16 | A pure-Go, single-file AI memory and knowledge graph library and plugin. |
-| 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 11 | [thameema/memnos](https://github.com/thameema/memnos) | 1 | Python | 2026-08-16 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
-| 12 | [theogony-project/theogony](https://github.com/theogony-project/theogony) | 0 | Python | 2026-08-16 | An open, democratic World-Brain — the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one,  |
-| 13 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45646 | Go | 2026-08-16 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 14 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-16 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 15 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-16 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 16 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 2 | Go | 2026-08-16 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
-| 17 | [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template) | 86 | Python | 2026-08-16 | Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI. |
-| 18 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1374 | Rust | 2026-08-16 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 19 | [jameswniu/candidate-vector-search-rerank-semantics](https://github.com/jameswniu/candidate-vector-search-rerank-semantics) | 0 | Python | 2026-08-15 | Semantic candidate search and information retrieval over ~200K profiles: Voyage-3 embeddings, hard/soft relevance filter |
-| 20 | [TheAmitChandra/NeuralCleave](https://github.com/TheAmitChandra/NeuralCleave) | 4 | Python | 2026-08-15 | Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu |
-| 21 | [NVIDIA/cuvs-lucene](https://github.com/NVIDIA/cuvs-lucene) | 9 | Java | 2026-08-15 | A Lucene codec for vector search and clustering on the GPU |
-| 22 | [efathom/ctxforge](https://github.com/efathom/ctxforge) | 0 | Python | 2026-08-15 | Extensible, configurable context-engine framework for LLM agents — session, memory, retrieval, knowledge graphs, experti |
-| 23 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-15 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 1 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1375 | Rust | 2026-08-16 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 2 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-16 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 3 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 47 | Rust | 2026-08-16 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 6 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-16 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 7 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-16 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 8 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-16 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 9 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1437 | Python | 2026-08-16 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
+| 10 | [0xLazAI/alith](https://github.com/0xLazAI/alith) | 44 | Rust | 2026-08-16 | Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone |
+| 11 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | 250 | Go | 2026-08-16 | A pure-Go, single-file AI memory and knowledge graph library and plugin. |
+| 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 13 | [thameema/memnos](https://github.com/thameema/memnos) | 1 | Python | 2026-08-16 | Persistent memory for AI coding agents — MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and |
+| 14 | [theogony-project/theogony](https://github.com/theogony-project/theogony) | 0 | Python | 2026-08-16 | An open, democratic World-Brain — the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one,  |
+| 15 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45646 | Go | 2026-08-16 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 16 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-16 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 17 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-16 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 18 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 2 | Go | 2026-08-16 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
+| 19 | [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template) | 86 | Python | 2026-08-16 | Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI. |
+| 20 | [jameswniu/candidate-vector-search-rerank-semantics](https://github.com/jameswniu/candidate-vector-search-rerank-semantics) | 0 | Python | 2026-08-15 | Semantic candidate search and information retrieval over ~200K profiles: Voyage-3 embeddings, hard/soft relevance filter |
+| 21 | [TheAmitChandra/NeuralCleave](https://github.com/TheAmitChandra/NeuralCleave) | 4 | Python | 2026-08-15 | Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu |
+| 22 | [NVIDIA/cuvs-lucene](https://github.com/NVIDIA/cuvs-lucene) | 9 | Java | 2026-08-15 | A Lucene codec for vector search and clustering on the GPU |
+| 23 | [efathom/ctxforge](https://github.com/efathom/ctxforge) | 0 | Python | 2026-08-15 | Extensible, configurable context-engine framework for LLM agents — session, memory, retrieval, knowledge graphs, experti |
 | 24 | [oscargbocanegra/llms-engineering-main](https://github.com/oscargbocanegra/llms-engineering-main) | 2 | Jupyter Notebook | 2026-08-15 | Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows |
 | 25 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 3 | Python | 2026-08-15 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
 | 26 | [shotit/shotit](https://github.com/shotit/shotit) | 27 | — | 2026-08-15 | Shotit is a screenshot-to-video search engine tailored for TV & Film, blazing-fast and compute-efficient. |
-| 27 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30051 | Python | 2026-08-15 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 27 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30052 | Python | 2026-08-15 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 28 | [shotit/shotit-media](https://github.com/shotit/shotit-media) | 2 | JavaScript | 2026-08-15 | Media broker for serving video preview for shotit |
 | 29 | [sindrehaugen/NCE](https://github.com/sindrehaugen/NCE) | 0 | Python | 2026-08-15 | More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a |
 | 30 | [openpeeps/boogie](https://github.com/openpeeps/boogie) | 6 | Nim | 2026-08-15 | A suite of WAL-based embedded data stores. RDBMS, KV Store, GraphStore, VectorStore, Columnar and more |
