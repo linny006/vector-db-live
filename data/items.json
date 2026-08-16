@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T05:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-16T05:28:58Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-08-16T05:28:39Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-16T05:25:50Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Steadlith reuses unchanged RAG chunks with content-defined identities, cache-aware planning, and transactional indexing.",
+    "id": "satwiksps/steadlith",
+    "language": "Python",
+    "name": "satwiksps/steadlith",
+    "stars": 0,
+    "updated_at": "2026-08-16T05:25:25Z",
+    "url": "https://github.com/satwiksps/steadlith"
+  },
+  {
+    "description": "Vortex is an autonomous, AI-powered developer assistant and CLI tool that combines semantic code search, Git integration",
+    "id": "DivyanshuVortex/vortex",
+    "language": "TypeScript",
+    "name": "DivyanshuVortex/vortex",
+    "stars": 0,
+    "updated_at": "2026-08-16T05:25:10Z",
+    "url": "https://github.com/DivyanshuVortex/vortex"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-08-16T05:22:59Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
+    "id": "litegraphdb/litegraph",
+    "language": "C#",
+    "name": "litegraphdb/litegraph",
+    "stars": 129,
+    "updated_at": "2026-08-16T05:17:39Z",
+    "url": "https://github.com/litegraphdb/litegraph"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-16T05:17:08Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T05:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Eidetic \u2014 a single-process, single-database memory server for AI agents. SQLite-native: vectors + FTS5 + knowledge graph",
     "id": "rongshenCarson/eidetic-memory",
     "language": "Python",
@@ -18,24 +108,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-08-16T05:05:28Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T05:05:17Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Unified multimodal backend for AI data apps",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -45,15 +117,6 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
-    "id": "litegraphdb/litegraph",
-    "language": "C#",
-    "name": "litegraphdb/litegraph",
-    "stars": 129,
-    "updated_at": "2026-08-16T05:00:44Z",
-    "url": "https://github.com/litegraphdb/litegraph"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -61,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T05:00:27Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T05:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An Psychitry Agent for Paitents that really need an answer, stille working on it.",
@@ -108,15 +162,6 @@
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-16T04:36:13Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -124,15 +169,6 @@
     "stars": 1385,
     "updated_at": "2026-08-16T04:34:04Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-16T04:33:44Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -198,15 +234,6 @@
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-16T04:23:33Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
     "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
     "language": "Jupyter Notebook",
@@ -266,7 +293,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1081,
-    "updated_at": "2026-08-16T05:10:37Z",
+    "updated_at": "2026-08-16T05:26:29Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -313,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-08-16T04:15:33Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Cairn reuses unchanged RAG chunks with content-defined identities, cache-aware planning, and transactional indexing.",
-    "id": "satwiksps/cairn",
-    "language": "Python",
-    "name": "satwiksps/cairn",
-    "stars": 0,
-    "updated_at": "2026-08-16T04:16:51Z",
-    "url": "https://github.com/satwiksps/cairn"
   },
   {
     "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-16T04:01:45Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-08-16T03:58:14Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-08-16T03:57:48Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
   }
 ]
