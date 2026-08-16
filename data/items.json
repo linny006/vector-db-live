@@ -1,21 +1,75 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-16T11:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-16T11:24:34Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
+    "id": "KonNik88/ml-research-radar",
+    "language": "Python",
+    "name": "KonNik88/ml-research-radar",
+    "stars": 3,
+    "updated_at": "2026-08-16T11:24:00Z",
+    "url": "https://github.com/KonNik88/ml-research-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-16T11:20:26Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
-    "stars": 1081,
-    "updated_at": "2026-08-16T11:15:26Z",
+    "stars": 1082,
+    "updated_at": "2026-08-16T11:22:27Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-16T11:18:01Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
+    "id": "meriamsamy/Sterling-Vance-Bank-B",
+    "language": "Python",
+    "name": "meriamsamy/Sterling-Vance-Bank-B",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:17:14Z",
+    "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T11:16:43Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T11:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
@@ -43,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-16T11:04:50Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T11:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)",
@@ -88,6 +133,15 @@
     "stars": 2,
     "updated_at": "2026-08-16T10:51:28Z",
     "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30059,
+    "updated_at": "2026-08-16T10:48:53Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "High-performance vector database for RAG on Linux \u2014 SIMD kernels + HNSW, single-file persistence, zero dependencies (C++",
@@ -162,15 +216,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-16T10:23:36Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
     "id": "varun29ankuS/shodh-redb",
     "language": "Rust",
@@ -178,24 +223,6 @@
     "stars": 5,
     "updated_at": "2026-08-16T10:31:30Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-16T10:20:08Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30059,
-    "updated_at": "2026-08-16T10:48:53Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "ChromaMind is a fast desktop client for ChromaDB.",
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "Iammilansoni/MiningNiti",
     "stars": 0,
-    "updated_at": "2026-08-16T09:53:20Z",
+    "updated_at": "2026-08-16T11:23:25Z",
     "url": "https://github.com/Iammilansoni/MiningNiti"
   },
   {
@@ -223,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T09:51:44Z",
     "url": "https://github.com/ODO-TECH/MCPulse-RAG"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-16T09:40:03Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "RAG (Retrieval-Augmented Generation) experiments with vector databases, embedding models, and LLM integration for docume",
@@ -286,15 +304,6 @@
     "stars": 87,
     "updated_at": "2026-08-16T10:12:43Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 3,
-    "updated_at": "2026-08-16T09:13:08Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
   },
   {
     "description": "A production-grade Retrieval-Augmented Generation (RAG) agent built to answer customer support questions using company d",
@@ -382,7 +391,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2440,
+    "stars": 2441,
     "updated_at": "2026-08-16T07:11:33Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T06:37:42Z",
     "url": "https://github.com/satwiksps/steadlith"
-  },
-  {
-    "description": "Modular RAG framework built with LangChain & LangGraph: supporting multi-modal embeddings, semantic chunking, and advanc",
-    "id": "yuliu625/Yu-RAG-Toolkit",
-    "language": "Python",
-    "name": "yuliu625/Yu-RAG-Toolkit",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:27:51Z",
-    "url": "https://github.com/yuliu625/Yu-RAG-Toolkit"
   }
 ]
