@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 17:15 UTC
+> ⏰ Last updated: 2026-08-16 17:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [schmitech/orbit](https://github.com/schmitech/orbit) | 339 | Python | 2026-08-16 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 3 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-16 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-08-16 | Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap |
-| 6 | [Hai-Wenxiang/StarryVector](https://github.com/Hai-Wenxiang/StarryVector) | 0 | C++ | 2026-08-16 | High-performance vector database for RAG on Linux — SIMD kernels + HNSW, single-file persistence, zero dependencies (C++ |
-| 7 | [sattyamjjain/mnemo](https://github.com/sattyamjjain/mnemo) | 4 | Rust | 2026-08-16 | MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec |
-| 8 | [api-evangelist/vespa-ai](https://github.com/api-evangelist/vespa-ai) | 0 | — | 2026-08-16 | Vespa is an open-source AI search engine, big-data serving engine, and vector database originally developed inside Yahoo |
-| 9 | [api-evangelist/vectorize-io](https://github.com/api-evangelist/vectorize-io) | 0 | — | 2026-08-16 | Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds  |
-| 10 | [api-evangelist/upstash](https://github.com/api-evangelist/upstash) | 0 | — | 2026-08-16 | Upstash provides serverless data platforms including managed Redis, Kafka, QStash messaging, and Vector databases optimi |
-| 11 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6212 | Rust | 2026-08-16 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 12 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [schmitech/orbit](https://github.com/schmitech/orbit) | 339 | Python | 2026-08-16 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 4 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-16 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 6 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-08-16 | Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap |
+| 7 | [Hai-Wenxiang/StarryVector](https://github.com/Hai-Wenxiang/StarryVector) | 0 | C++ | 2026-08-16 | High-performance vector database for RAG on Linux — SIMD kernels + HNSW, single-file persistence, zero dependencies (C++ |
+| 8 | [sattyamjjain/mnemo](https://github.com/sattyamjjain/mnemo) | 4 | Rust | 2026-08-16 | MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec |
+| 9 | [api-evangelist/vespa-ai](https://github.com/api-evangelist/vespa-ai) | 0 | — | 2026-08-16 | Vespa is an open-source AI search engine, big-data serving engine, and vector database originally developed inside Yahoo |
+| 10 | [api-evangelist/vectorize-io](https://github.com/api-evangelist/vectorize-io) | 0 | — | 2026-08-16 | Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds  |
+| 11 | [api-evangelist/upstash](https://github.com/api-evangelist/upstash) | 0 | — | 2026-08-16 | Upstash provides serverless data platforms including managed Redis, Kafka, QStash messaging, and Vector databases optimi |
+| 12 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6212 | Rust | 2026-08-16 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
 | 13 | [api-evangelist/surrealdb](https://github.com/api-evangelist/surrealdb) | 0 | — | 2026-08-16 | SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation |
 | 14 | [octorohan/Intelligent-Research-Paper-Assistant](https://github.com/octorohan/Intelligent-Research-Paper-Assistant) | 1 | Python | 2026-08-16 | An intelligent research paper assistant that uses Retrieval-Augmented Generation (RAG) to help users search, understand, |
 | 15 | [rbvwolf/ms-offline-crisis-rag](https://github.com/rbvwolf/ms-offline-crisis-rag) | 0 | JavaScript | 2026-08-16 | Microsoft AI Summer Project: Offline Crisis Assistant RAG with Microsoft Foundry Local |
