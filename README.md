@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 13:15 UTC
+> ⏰ Last updated: 2026-08-16 13:18 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [jihadkhawaja/mem0sharp](https://github.com/jihadkhawaja/mem0sharp) | 11 | C# | 2026-08-16 | A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior |
-| 3 | [AliZahiri/ai-rag-platform-blueprint](https://github.com/AliZahiri/ai-rag-platform-blueprint) | 0 | Python | 2026-08-16 | AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes. |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [batul02/enterprise-ai-workspace](https://github.com/batul02/enterprise-ai-workspace) | 0 | Python | 2026-08-16 | Multi-tenant enterprise RAG knowledge workspace built from scratch with FastAPI, PostgreSQL, Qdrant, custom chunking, em |
-| 6 | [Abhishekvoid/RagBag-backend](https://github.com/Abhishekvoid/RagBag-backend) | 0 | Python | 2026-08-16 | Production RAG platform: OCR → semantic chunking → TEI embeddings → Qdrant → cross-encoder reranking → Llama 3, with gro |
-| 7 | [TanNguyen234/VietLex-Tech-Spec](https://github.com/TanNguyen234/VietLex-Tech-Spec) | 0 | Python | 2026-08-16 | Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation. |
-| 8 | [aymen-000/PaperLens](https://github.com/aymen-000/PaperLens) | 5 | TypeScript | 2026-08-16 | An intelligent research discovery platform that automatically crawls ArXiv papers, generates multimodal embeddings, and  |
-| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [jihadkhawaja/mem0sharp](https://github.com/jihadkhawaja/mem0sharp) | 11 | C# | 2026-08-16 | A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior |
+| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [AliZahiri/ai-rag-platform-blueprint](https://github.com/AliZahiri/ai-rag-platform-blueprint) | 0 | Python | 2026-08-16 | AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes. |
+| 6 | [batul02/enterprise-ai-workspace](https://github.com/batul02/enterprise-ai-workspace) | 0 | Python | 2026-08-16 | Multi-tenant enterprise RAG knowledge workspace built from scratch with FastAPI, PostgreSQL, Qdrant, custom chunking, em |
+| 7 | [Abhishekvoid/RagBag-backend](https://github.com/Abhishekvoid/RagBag-backend) | 0 | Python | 2026-08-16 | Production RAG platform: OCR → semantic chunking → TEI embeddings → Qdrant → cross-encoder reranking → Llama 3, with gro |
+| 8 | [TanNguyen234/VietLex-Tech-Spec](https://github.com/TanNguyen234/VietLex-Tech-Spec) | 0 | Python | 2026-08-16 | Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation. |
+| 9 | [aymen-000/PaperLens](https://github.com/aymen-000/PaperLens) | 5 | TypeScript | 2026-08-16 | An intelligent research discovery platform that automatically crawls ArXiv papers, generates multimodal embeddings, and  |
 | 10 | [perforate-org/gleaph](https://github.com/perforate-org/gleaph) | 1 | Rust | 2026-08-16 | Decentralized Graph Database with Integrated Vector Search |
 | 11 | [Samyak-Waghmare/docuquery](https://github.com/Samyak-Waghmare/docuquery) | 0 | Python | 2026-08-16 | A RAG application that turns any PDF into an intelligent, citation-backed assistant. Built with Streamlit, LangChain, Qd |
 | 12 | [holmns/ntu-hall-for-me](https://github.com/holmns/ntu-hall-for-me) | 0 | TypeScript | 2026-08-16 | Hackathon project for students finding a place to stay on or near NTU campus |
