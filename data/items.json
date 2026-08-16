@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T07:15:20Z",
+    "updated_at": "2026-08-16T07:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-16T07:28:55Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI-Augmented Enterprise Library Management System built using Flask, MongoDB Atlas, ChromaDB, and Ollama-based local LLM",
+    "id": "Ayushhhh188/AI-Augmented_Library_Management_System",
+    "language": "HTML",
+    "name": "Ayushhhh188/AI-Augmented_Library_Management_System",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:21:50Z",
+    "url": "https://github.com/Ayushhhh188/AI-Augmented_Library_Management_System"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-16T07:21:48Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-08-16T07:20:29Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T07:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -18,13 +63,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-08-16T07:13:11Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+    "description": "AI-powered customer support RAG agent built with n8n, OpenAI, PostgreSQL/PGVector, embeddings, vector search, and conver",
+    "id": "mohammad-jahidul-islam/AI-Customer-Support-RAG-Agent",
+    "language": "\u2014",
+    "name": "mohammad-jahidul-islam/AI-Customer-Support-RAG-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-16T07:11:22Z",
+    "url": "https://github.com/mohammad-jahidul-islam/AI-Customer-Support-RAG-Agent"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
@@ -34,15 +79,6 @@
     "stars": 2436,
     "updated_at": "2026-08-16T07:11:33Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T07:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -126,15 +162,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:36:39Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "Modular RAG framework built with LangChain & LangGraph: supporting multi-modal embeddings, semantic chunking, and advanc",
     "id": "yuliu625/Yu-RAG-Toolkit",
     "language": "Python",
@@ -142,24 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T06:27:51Z",
     "url": "https://github.com/yuliu625/Yu-RAG-Toolkit"
-  },
-  {
-    "description": "AI-Augmented Enterprise Library Management System built using Flask, MongoDB Atlas, ChromaDB, and Ollama-based local LLM",
-    "id": "Ayushhhh188/AI-Augmented_Library_Management_System",
-    "language": "HTML",
-    "name": "Ayushhhh188/AI-Augmented_Library_Management_System",
-    "stars": 0,
-    "updated_at": "2026-08-16T06:25:27Z",
-    "url": "https://github.com/Ayushhhh188/AI-Augmented_Library_Management_System"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-16T06:19:15Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-16T04:15:33Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-16T04:15:28Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   }
 ]
