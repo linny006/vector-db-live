@@ -1,21 +1,57 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T15:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T15:45:22Z",
+    "updated_at": "2026-08-16T16:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-08-16T15:54:35Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-16T15:51:50Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "High-performance vector database for RAG on Linux \u2014 SIMD kernels + HNSW, single-file persistence, zero dependencies (C++",
+    "id": "Hai-Wenxiang/StarryVector",
+    "language": "C++",
+    "name": "Hai-Wenxiang/StarryVector",
+    "stars": 0,
+    "updated_at": "2026-08-16T15:49:38Z",
+    "url": "https://github.com/Hai-Wenxiang/StarryVector"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-16T15:46:38Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T15:46:02Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "LanceDB is the AI-Native multimodal lakehouse built on the open-source Lance columnar storage format. It pairs an Apache",
@@ -90,15 +126,6 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-08-16T15:24:10Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -117,15 +144,6 @@
     "url": "https://github.com/veep2012/doc_mcp"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-16T15:20:50Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -142,6 +160,15 @@
     "stars": 339,
     "updated_at": "2026-08-16T15:18:06Z",
     "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30061,
+    "updated_at": "2026-08-16T15:16:35Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "BalancedMultiDimensionMemory \u2014 a LangGraph AgentMiddleware for LLM long-term memory: Ebbinghaus decay, RAG staging,   \u258e ",
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9414,
-    "updated_at": "2026-08-16T15:08:10Z",
+    "updated_at": "2026-08-16T15:46:07Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-16T15:33:55Z",
+    "updated_at": "2026-08-16T15:52:36Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7052,
-    "updated_at": "2026-08-16T12:53:23Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "A production-grade Retrieval-Augmented Generation (RAG) agent built to answer customer support questions using company d",
-    "id": "SammedBG/RAG-Customer-support-agent",
-    "language": "Python",
-    "name": "SammedBG/RAG-Customer-support-agent",
-    "stars": 0,
-    "updated_at": "2026-08-16T12:26:57Z",
-    "url": "https://github.com/SammedBG/RAG-Customer-support-agent"
-  },
-  {
-    "description": "Local-first RAG app for document Q&A upload a PDF and ask questions about it, powered entirely by open-source models (Ol",
-    "id": "PrathamV239/Document-Intelligence-API",
-    "language": "JavaScript",
-    "name": "PrathamV239/Document-Intelligence-API",
-    "stars": 0,
-    "updated_at": "2026-08-16T12:24:41Z",
-    "url": "https://github.com/PrathamV239/Document-Intelligence-API"
   }
 ]
