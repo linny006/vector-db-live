@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T03:15:20Z",
+    "updated_at": "2026-08-16T03:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-16T03:20:17Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T03:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
@@ -14,7 +32,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 5,
-    "updated_at": "2026-08-16T03:13:22Z",
+    "updated_at": "2026-08-16T03:16:56Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
@@ -72,15 +90,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T03:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -108,15 +117,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-16T02:52:35Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Production-style semantic search and RAG backend built as a distributed system.  Features async ingestion (Kafka), embed",
     "id": "NasitSony/SmartSearch",
     "language": "Java",
@@ -130,7 +130,7 @@
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
     "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 501,
+    "stars": 503,
     "updated_at": "2026-08-16T02:39:27Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
@@ -148,7 +148,7 @@
     "id": "thameema/memnos",
     "language": "Python",
     "name": "thameema/memnos",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-08-16T02:34:59Z",
     "url": "https://github.com/thameema/memnos"
   },
@@ -265,7 +265,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45647,
+    "stars": 45648,
     "updated_at": "2026-08-16T00:34:11Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -275,7 +275,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-16T00:33:30Z",
+    "updated_at": "2026-08-16T03:20:16Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
