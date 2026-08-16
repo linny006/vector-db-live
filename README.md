@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-16 07:00 UTC
+> ⏰ Last updated: 2026-08-16 07:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,24 +43,24 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-16 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 4 | [SammedBG/RAG-Customer-support-agent](https://github.com/SammedBG/RAG-Customer-support-agent) | 0 | Python | 2026-08-16 | A production-grade Retrieval-Augmented Generation (RAG) agent built to answer customer support questions using company d |
-| 5 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1390 | Rust | 2026-08-16 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 6 | [dehyabi/dehyabi.com](https://github.com/dehyabi/dehyabi.com) | 1 | TypeScript | 2026-08-16 | The code behind dehyabi.com |
-| 7 | [Chief-Strategist-J/llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | 3 | Python | 2026-08-16 | -  |
-| 8 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1877 | Go | 2026-08-16 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 10 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-16 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 11 | [MatthewRyanWeber/data-governance-pipeline](https://github.com/MatthewRyanWeber/data-governance-pipeline) | 0 | Python | 2026-08-16 | Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea |
-| 12 | [satwiksps/steadlith](https://github.com/satwiksps/steadlith) | 0 | Python | 2026-08-16 | Steadlith reuses unchanged RAG chunks with content-defined identities, cache-aware planning, and transactional indexing. |
-| 13 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-16 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 14 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-16 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 15 | [yuliu625/Yu-RAG-Toolkit](https://github.com/yuliu625/Yu-RAG-Toolkit) | 1 | Python | 2026-08-16 | Modular RAG framework built with LangChain & LangGraph: supporting multi-modal embeddings, semantic chunking, and advanc |
-| 16 | [Ayushhhh188/AI-Augmented_Library_Management_System](https://github.com/Ayushhhh188/AI-Augmented_Library_Management_System) | 0 | HTML | 2026-08-16 | AI-Augmented Enterprise Library Management System built using Flask, MongoDB Atlas, ChromaDB, and Ollama-based local LLM |
-| 17 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-16 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 18 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 25 | Python | 2026-08-16 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
-| 19 | [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) | 2436 | Python | 2026-08-16 | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. |
+| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 3 | [Chief-Strategist-J/llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | 3 | Python | 2026-08-16 | -  |
+| 4 | [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) | 2436 | Python | 2026-08-16 | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. |
+| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 6 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-16 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 7 | [SammedBG/RAG-Customer-support-agent](https://github.com/SammedBG/RAG-Customer-support-agent) | 0 | Python | 2026-08-16 | A production-grade Retrieval-Augmented Generation (RAG) agent built to answer customer support questions using company d |
+| 8 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1390 | Rust | 2026-08-16 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 9 | [dehyabi/dehyabi.com](https://github.com/dehyabi/dehyabi.com) | 1 | TypeScript | 2026-08-16 | The code behind dehyabi.com |
+| 10 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1877 | Go | 2026-08-16 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 11 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-16 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 12 | [MatthewRyanWeber/data-governance-pipeline](https://github.com/MatthewRyanWeber/data-governance-pipeline) | 0 | Python | 2026-08-16 | Governance-first Python ETL: GDPR/CCPA/HIPAA compliance, a tamper-evident hash-chained audit ledger, PII masking + linea |
+| 13 | [satwiksps/steadlith](https://github.com/satwiksps/steadlith) | 0 | Python | 2026-08-16 | Steadlith reuses unchanged RAG chunks with content-defined identities, cache-aware planning, and transactional indexing. |
+| 14 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-16 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 15 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-16 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 16 | [yuliu625/Yu-RAG-Toolkit](https://github.com/yuliu625/Yu-RAG-Toolkit) | 1 | Python | 2026-08-16 | Modular RAG framework built with LangChain & LangGraph: supporting multi-modal embeddings, semantic chunking, and advanc |
+| 17 | [Ayushhhh188/AI-Augmented_Library_Management_System](https://github.com/Ayushhhh188/AI-Augmented_Library_Management_System) | 0 | HTML | 2026-08-16 | AI-Augmented Enterprise Library Management System built using Flask, MongoDB Atlas, ChromaDB, and Ollama-based local LLM |
+| 18 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-16 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 19 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 25 | Python | 2026-08-16 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
 | 20 | [keval-parmar-030902/Psychitry-ai-agent](https://github.com/keval-parmar-030902/Psychitry-ai-agent) | 0 | Python | 2026-08-16 | An Psychitry Agent for Paitents that really need an answer, stille working on it. |
 | 21 | [rongshenCarson/eidetic-memory](https://github.com/rongshenCarson/eidetic-memory) | 0 | Python | 2026-08-16 | Eidetic — a single-process, single-database memory server for AI agents. SQLite-native: vectors + FTS5 + knowledge graph |
 | 22 | [taladb/taladb](https://github.com/taladb/taladb) | 4 | Rust | 2026-08-16 | TalaDB - The embedded vector database for on-device AI. |
