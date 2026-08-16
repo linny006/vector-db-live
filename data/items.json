@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T14:15:18Z",
+    "updated_at": "2026-08-16T14:18:28Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-08-16T14:16:22Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T14:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -54,15 +72,6 @@
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T14:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
@@ -108,15 +117,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-08-16T13:35:45Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
     "description": "Autonomous Revenue Operating System (v7.2.0) powered by a 5-node AI swarm, Bayesian probability engines, and Kelly Crite",
     "id": "Omni-Kernel/OS",
     "language": "\u2014",
@@ -140,7 +140,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-16T13:29:46Z",
+    "updated_at": "2026-08-16T14:20:15Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -257,7 +257,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-16T14:11:31Z",
+    "updated_at": "2026-08-16T14:16:26Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -338,7 +338,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-16T14:14:32Z",
+    "updated_at": "2026-08-16T14:16:14Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
