@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T09:45:20Z",
+    "updated_at": "2026-08-16T09:58:50Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,17 +14,44 @@
     "language": "Python",
     "name": "sindrehaugen/NCE",
     "stars": 0,
-    "updated_at": "2026-08-16T09:43:28Z",
+    "updated_at": "2026-08-16T09:57:44Z",
     "url": "https://github.com/sindrehaugen/NCE"
+  },
+  {
+    "description": "\ud83c\udfc6 SIH 2023 Winning Project | AI-powered Mining Document Intelligence Platform with RAG, semantic search, and intelligent",
+    "id": "Iammilansoni/MiningNiti",
+    "language": "TypeScript",
+    "name": "Iammilansoni/MiningNiti",
+    "stars": 0,
+    "updated_at": "2026-08-16T09:53:20Z",
+    "url": "https://github.com/Iammilansoni/MiningNiti"
   },
   {
     "description": "Self-hosted RAG stack with Qdrant, MCP over SSE, automatic indexing, file watching, scheduled health checks, and email r",
     "id": "ODO-TECH/MCPulse-RAG",
     "language": "Python",
     "name": "ODO-TECH/MCPulse-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-16T09:42:46Z",
+    "stars": 1,
+    "updated_at": "2026-08-16T09:51:44Z",
     "url": "https://github.com/ODO-TECH/MCPulse-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T09:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 67,
+    "updated_at": "2026-08-16T09:44:47Z",
+    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -34,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T09:42:16Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T09:41:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -292,7 +310,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1392,
+    "stars": 1393,
     "updated_at": "2026-08-16T06:57:11Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -349,6 +367,15 @@
     "stars": 0,
     "updated_at": "2026-08-16T05:51:44Z",
     "url": "https://github.com/keval-parmar-030902/Psychitry-ai-agent"
+  },
+  {
+    "description": "\ud83d\ude80 Production-ready MERN + AI-powered application featuring Microservices Architecture, Multi-Agent AI System, LangGraph,",
+    "id": "chandan-0416/advanced-backend-concepts",
+    "language": "JavaScript",
+    "name": "chandan-0416/advanced-backend-concepts",
+    "stars": 1,
+    "updated_at": "2026-08-16T05:51:11Z",
+    "url": "https://github.com/chandan-0416/advanced-backend-concepts"
   },
   {
     "description": "Eidetic \u2014 a single-process, single-database memory server for AI agents. SQLite-native: vectors + FTS5 + knowledge graph",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T04:53:06Z",
     "url": "https://github.com/theogony-project/theogony"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1437,
-    "updated_at": "2026-08-16T05:00:28Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-08-16T04:30:22Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 2,
-    "updated_at": "2026-08-16T04:30:16Z",
-    "url": "https://github.com/thameema/memnos"
   }
 ]
