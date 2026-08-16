@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T23:45:20Z",
+    "updated_at": "2026-08-16T23:57:12Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1413,
+    "updated_at": "2026-08-16T23:56:59Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T23:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T23:44:29Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T23:44:05Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Microsoft AI Summer Project: Offline Crisis Assistant RAG with Microsoft Foundry Local",
@@ -88,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T23:30:28Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1412,
-    "updated_at": "2026-08-16T23:28:49Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Agentic travel assistant with LangGraph, RAG, LanceDB, Amadeus, Tavily, and LLM tool calling for flights, hotels, weathe",
@@ -212,7 +212,7 @@
     "language": "TypeScript",
     "name": "omerakben/omer-akben",
     "stars": 1,
-    "updated_at": "2026-08-16T23:18:40Z",
+    "updated_at": "2026-08-16T23:49:25Z",
     "url": "https://github.com/omerakben/omer-akben"
   },
   {
