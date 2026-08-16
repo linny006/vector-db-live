@@ -1,21 +1,75 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T11:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T11:45:20Z",
+    "updated_at": "2026-08-16T12:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udde0 An autonomous, cognitive agent architecture & local-first assistant featuring episodic memory, tree-based JSON plannin",
+    "id": "oguzemirtopuz/JARVIS-Cognitive-OS",
+    "language": "Python",
+    "name": "oguzemirtopuz/JARVIS-Cognitive-OS",
+    "stars": 3,
+    "updated_at": "2026-08-16T11:53:01Z",
+    "url": "https://github.com/oguzemirtopuz/JARVIS-Cognitive-OS"
+  },
+  {
+    "description": "\ud83d\udcda \u4ece\u96f6\u5f00\u59cb\u7684\u5411\u91cf\u6570\u636e\u5e93\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b\uff0c\u5728\u7ebf\u9605\u8bfb\u5730\u5740\uff1ahttps://easy-vecdb.datawhale.cc/",
+    "id": "datawhalechina/easy-vecdb",
+    "language": "Jupyter Notebook",
+    "name": "datawhalechina/easy-vecdb",
+    "stars": 386,
+    "updated_at": "2026-08-16T11:49:59Z",
+    "url": "https://github.com/datawhalechina/easy-vecdb"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-16T11:49:07Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
+    "id": "Mid-D-Man/msx",
+    "language": "Rust",
+    "name": "Mid-D-Man/msx",
+    "stars": 0,
+    "updated_at": "2026-08-16T11:49:02Z",
+    "url": "https://github.com/Mid-D-Man/msx"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-16T11:48:26Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
+    "id": "musabbozkurt/oauth2-authorization-server",
+    "language": "Java",
+    "name": "musabbozkurt/oauth2-authorization-server",
+    "stars": 6,
+    "updated_at": "2026-08-16T11:48:59Z",
+    "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T11:46:46Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83c\udfc6 SIH 2023 Winning Project | AI-powered Mining Document Intelligence Platform with RAG, semantic search, and intelligent",
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "Iammilansoni/MiningNiti",
     "stars": 0,
-    "updated_at": "2026-08-16T11:44:27Z",
+    "updated_at": "2026-08-16T11:58:52Z",
     "url": "https://github.com/Iammilansoni/MiningNiti"
   },
   {
@@ -36,21 +90,12 @@
     "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
-    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
-    "id": "Mid-D-Man/msx",
-    "language": "Rust",
-    "name": "Mid-D-Man/msx",
-    "stars": 0,
-    "updated_at": "2026-08-16T11:41:32Z",
-    "url": "https://github.com/Mid-D-Man/msx"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-16T11:40:49Z",
+    "updated_at": "2026-08-16T11:54:46Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -70,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T11:35:30Z",
     "url": "https://github.com/pr0mila/Vector-vs.-Graph-Databases-for-RAG"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-16T11:28:22Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -162,15 +198,6 @@
     "url": "https://github.com/mirkobozzetto/flowflow"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-16T11:39:24Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
     "id": "rostamlabs/rostam",
     "language": "Go",
@@ -194,7 +221,7 @@
     "language": "C++",
     "name": "Hai-Wenxiang/StarryVector",
     "stars": 0,
-    "updated_at": "2026-08-16T11:33:15Z",
+    "updated_at": "2026-08-16T12:00:23Z",
     "url": "https://github.com/Hai-Wenxiang/StarryVector"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 18,
     "updated_at": "2026-08-16T10:38:27Z",
     "url": "https://github.com/avishek0769/DocChat"
-  },
-  {
-    "description": "Local RAG Assistant  built with:  - Python - Streamlit - Sentence Transformers - ChromaDB - Ollama - Llama 3.",
-    "id": "winston-lim-dev/document-qa-rag",
-    "language": "Python",
-    "name": "winston-lim-dev/document-qa-rag",
-    "stars": 1,
-    "updated_at": "2026-08-16T10:36:56Z",
-    "url": "https://github.com/winston-lim-dev/document-qa-rag"
   },
   {
     "description": "More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a",
@@ -418,7 +436,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2442,
+    "stars": 2443,
     "updated_at": "2026-08-16T07:11:33Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T07:11:22Z",
     "url": "https://github.com/mohammad-jahidul-islam/AI-Customer-Support-RAG-Agent"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1395,
-    "updated_at": "2026-08-16T06:57:11Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "The code behind dehyabi.com",
-    "id": "dehyabi/dehyabi.com",
-    "language": "TypeScript",
-    "name": "dehyabi/dehyabi.com",
-    "stars": 1,
-    "updated_at": "2026-08-16T06:52:04Z",
-    "url": "https://github.com/dehyabi/dehyabi.com"
   }
 ]
