@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
     "stars": 2,
-    "updated_at": "2026-08-16T21:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-08-16T21:11:10Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-16T21:08:48Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83d\ude80 AI-powered portfolio with proactive visitor engagement \u2014 featuring Ozzy, an intelligent assistant with 12 tools, episo",
+    "id": "omerakben/omer-akben",
+    "language": "TypeScript",
+    "name": "omerakben/omer-akben",
+    "stars": 1,
+    "updated_at": "2026-08-16T21:07:08Z",
+    "url": "https://github.com/omerakben/omer-akben"
   },
   {
     "description": "This is a hobby project to build a Graph database in Rust.",
@@ -14,8 +32,62 @@
     "language": "Rust",
     "name": "gmr/dotilla",
     "stars": 0,
-    "updated_at": "2026-08-16T20:54:31Z",
+    "updated_at": "2026-08-16T21:05:59Z",
     "url": "https://github.com/gmr/dotilla"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 4,
+    "updated_at": "2026-08-16T21:05:51Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-16T21:04:19Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1409,
+    "updated_at": "2026-08-16T21:03:06Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T21:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-16T21:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 593,
+    "updated_at": "2026-08-16T20:54:08Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
     "description": "Microsoft AI Summer Project: Offline Crisis Assistant RAG with Microsoft Foundry Local",
@@ -27,15 +99,6 @@
     "url": "https://github.com/rbvwolf/ms-offline-crisis-rag"
   },
   {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 592,
-    "updated_at": "2026-08-16T20:54:08Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T20:47:54Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T20:46:46Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Pinecone BYOC",
@@ -63,21 +117,12 @@
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-16T20:38:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-16T20:42:57Z",
+    "updated_at": "2026-08-16T21:06:33Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -115,24 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T20:19:20Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-16T20:08:10Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1408,
-    "updated_at": "2026-08-16T20:07:17Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
@@ -176,17 +203,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1083,
-    "updated_at": "2026-08-16T20:54:17Z",
+    "updated_at": "2026-08-16T21:14:06Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 4,
-    "updated_at": "2026-08-16T19:42:55Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -196,15 +214,6 @@
     "stars": 339,
     "updated_at": "2026-08-16T19:44:29Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 2,
-    "updated_at": "2026-08-16T20:47:25Z",
-    "url": "https://github.com/rostamlabs/rostam"
   },
   {
     "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
@@ -439,14 +448,5 @@
     "stars": 423,
     "updated_at": "2026-08-16T16:45:56Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 1,
-    "updated_at": "2026-08-16T16:44:23Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   }
 ]
