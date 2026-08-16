@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-16T17:00:18Z",
+    "updated_at": "2026-08-16T17:15:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 339,
+    "updated_at": "2026-08-16T17:12:23Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-16T17:09:41Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-16T17:05:27Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
+    "id": "api-evangelist/weaviate",
+    "language": "\u2014",
+    "name": "api-evangelist/weaviate",
+    "stars": 1,
+    "updated_at": "2026-08-16T17:05:09Z",
+    "url": "https://github.com/api-evangelist/weaviate"
+  },
+  {
+    "description": "High-performance vector database for RAG on Linux \u2014 SIMD kernels + HNSW, single-file persistence, zero dependencies (C++",
+    "id": "Hai-Wenxiang/StarryVector",
+    "language": "C++",
+    "name": "Hai-Wenxiang/StarryVector",
+    "stars": 0,
+    "updated_at": "2026-08-16T17:05:02Z",
+    "url": "https://github.com/Hai-Wenxiang/StarryVector"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-08-16T17:04:31Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "Vespa is an open-source AI search engine, big-data serving engine, and vector database originally developed inside Yahoo",
+    "id": "api-evangelist/vespa-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/vespa-ai",
+    "stars": 0,
+    "updated_at": "2026-08-16T17:04:18Z",
+    "url": "https://github.com/api-evangelist/vespa-ai"
+  },
+  {
+    "description": "Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds ",
+    "id": "api-evangelist/vectorize-io",
+    "language": "\u2014",
+    "name": "api-evangelist/vectorize-io",
+    "stars": 0,
+    "updated_at": "2026-08-16T17:04:00Z",
+    "url": "https://github.com/api-evangelist/vectorize-io"
+  },
+  {
+    "description": "Upstash provides serverless data platforms including managed Redis, Kafka, QStash messaging, and Vector databases optimi",
+    "id": "api-evangelist/upstash",
+    "language": "\u2014",
+    "name": "api-evangelist/upstash",
+    "stars": 0,
+    "updated_at": "2026-08-16T17:03:28Z",
+    "url": "https://github.com/api-evangelist/upstash"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6212,
+    "updated_at": "2026-08-16T17:02:34Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-16T17:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
@@ -16,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-08-16T16:59:44Z",
     "url": "https://github.com/api-evangelist/surrealdb"
+  },
+  {
+    "description": "An intelligent research paper assistant that uses Retrieval-Augmented Generation (RAG) to help users search, understand,",
+    "id": "octorohan/Intelligent-Research-Paper-Assistant",
+    "language": "Python",
+    "name": "octorohan/Intelligent-Research-Paper-Assistant",
+    "stars": 1,
+    "updated_at": "2026-08-16T16:59:21Z",
+    "url": "https://github.com/octorohan/Intelligent-Research-Paper-Assistant"
   },
   {
     "description": "Microsoft AI Summer Project: Offline Crisis Assistant RAG with Microsoft Foundry Local",
@@ -45,15 +153,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-16T16:50:07Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
     "id": "api-evangelist/objectbox",
     "language": "\u2014",
@@ -79,15 +178,6 @@
     "stars": 423,
     "updated_at": "2026-08-16T16:45:56Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 4,
-    "updated_at": "2026-08-16T16:50:04Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
     "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
@@ -124,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-16T16:40:24Z",
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-16T16:39:52Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-16T16:12:29Z",
     "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "\ud83c\udfc6 SIH 2023 Winning Project | AI-powered Mining Document Intelligence Platform with RAG, semantic search, and intelligent",
-    "id": "Iammilansoni/MiningNiti",
-    "language": "TypeScript",
-    "name": "Iammilansoni/MiningNiti",
-    "stars": 0,
-    "updated_at": "2026-08-16T16:11:23Z",
-    "url": "https://github.com/Iammilansoni/MiningNiti"
-  },
-  {
-    "description": "Marqo is an open-source, multimodal vector search engine that lets developers index text and images, generate embeddings",
-    "id": "api-evangelist/marqo",
-    "language": "\u2014",
-    "name": "api-evangelist/marqo",
-    "stars": 0,
-    "updated_at": "2026-08-16T16:11:07Z",
-    "url": "https://github.com/api-evangelist/marqo"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-16T16:10:42Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le",
-    "id": "api-evangelist/lf-ai-and-data",
-    "language": "\u2014",
-    "name": "api-evangelist/lf-ai-and-data",
-    "stars": 0,
-    "updated_at": "2026-08-16T16:09:22Z",
-    "url": "https://github.com/api-evangelist/lf-ai-and-data"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-08-16T16:08:51Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 4,
-    "updated_at": "2026-08-16T16:07:41Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-08-16T16:01:33Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-08-16T16:01:20Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
-    "id": "ermermermermidk/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ermermermermidk/mcp-ai-memory",
-    "stars": 1,
-    "updated_at": "2026-08-16T16:00:48Z",
-    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   }
 ]
