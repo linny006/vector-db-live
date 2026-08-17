@@ -1,12 +1,66 @@
 [
   {
+    "description": "Verifiable forgetting for AI-agent memory \u2014 CockroachDB-native. Cascade-delete an entity's entire knowledge sub-graph in",
+    "id": "vinayaksonthalia/obliviate",
+    "language": "HTML",
+    "name": "vinayaksonthalia/obliviate",
+    "stars": 0,
+    "updated_at": "2026-08-17T12:38:33Z",
+    "url": "https://github.com/vinayaksonthalia/obliviate"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-17T12:30:21Z",
+    "updated_at": "2026-08-17T12:36:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15453,
+    "updated_at": "2026-08-17T12:35:38Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
+    "id": "yihui504/TestVDB",
+    "language": "Python",
+    "name": "yihui504/TestVDB",
+    "stars": 0,
+    "updated_at": "2026-08-17T12:33:25Z",
+    "url": "https://github.com/yihui504/TestVDB"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4418,
+    "updated_at": "2026-08-17T12:36:37Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6212,
+    "updated_at": "2026-08-17T12:31:15Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T12:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -14,7 +68,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 225,
-    "updated_at": "2026-08-17T12:30:17Z",
+    "updated_at": "2026-08-17T12:34:20Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -36,24 +90,6 @@
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6212,
-    "updated_at": "2026-08-17T12:30:04Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
-    "id": "yihui504/TestVDB",
-    "language": "Python",
-    "name": "yihui504/TestVDB",
-    "stars": 0,
-    "updated_at": "2026-08-17T12:23:46Z",
-    "url": "https://github.com/yihui504/TestVDB"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -61,6 +97,15 @@
     "stars": 1877,
     "updated_at": "2026-08-17T12:22:51Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1394,
+    "updated_at": "2026-08-17T12:21:45Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
@@ -72,15 +117,6 @@
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4417,
-    "updated_at": "2026-08-17T12:25:53Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -88,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-17T12:17:49Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T12:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a",
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-17T12:06:55Z",
+    "updated_at": "2026-08-17T12:34:31Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5742,
-    "updated_at": "2026-08-17T12:22:46Z",
+    "updated_at": "2026-08-17T12:33:57Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -302,7 +329,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-17T11:23:02Z",
+    "updated_at": "2026-08-17T12:39:44Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -351,21 +378,12 @@
     "url": "https://github.com/KonNik88/ml-research-radar"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1392,
-    "updated_at": "2026-08-17T12:21:45Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8108,
-    "updated_at": "2026-08-17T11:35:51Z",
+    "updated_at": "2026-08-17T12:39:53Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -410,17 +428,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-17T12:27:22Z",
+    "updated_at": "2026-08-17T12:37:11Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Verifiable forgetting for AI-agent memory \u2014 CockroachDB-native. Cascade-delete an entity's entire knowledge sub-graph in",
-    "id": "vinayaksonthalia/obliviate",
-    "language": "HTML",
-    "name": "vinayaksonthalia/obliviate",
-    "stars": 0,
-    "updated_at": "2026-08-17T10:17:16Z",
-    "url": "https://github.com/vinayaksonthalia/obliviate"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-17T10:06:03Z",
     "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-08-17T09:54:24Z",
-    "url": "https://github.com/kalisio/knowledge"
   }
 ]
