@@ -1,12 +1,12 @@
 [
   {
-    "description": "A thread-safe vector database for model inference inside LMDB.",
-    "id": "kn0sys/valentinus",
-    "language": "Rust",
-    "name": "kn0sys/valentinus",
-    "stars": 17,
-    "updated_at": "2026-08-17T23:44:49Z",
-    "url": "https://github.com/kn0sys/valentinus"
+    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
+    "id": "tryAGI/Pinecone",
+    "language": "C#",
+    "name": "tryAGI/Pinecone",
+    "stars": 8,
+    "updated_at": "2026-08-17T23:54:35Z",
+    "url": "https://github.com/tryAGI/Pinecone"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,8 +14,17 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1086,
-    "updated_at": "2026-08-17T23:44:18Z",
+    "updated_at": "2026-08-17T23:52:33Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin.",
+    "id": "firelock-ai/kin-vector",
+    "language": "Rust",
+    "name": "firelock-ai/kin-vector",
+    "stars": 0,
+    "updated_at": "2026-08-17T23:52:08Z",
+    "url": "https://github.com/firelock-ai/kin-vector"
   },
   {
     "description": "The holographic core for leOS",
@@ -23,8 +32,53 @@
     "language": "Python",
     "name": "AnOversizedMooseWithSocks/leCore",
     "stars": 10,
-    "updated_at": "2026-08-17T23:43:16Z",
+    "updated_at": "2026-08-17T23:50:18Z",
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-17T23:47:22Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "A thread-safe vector database for model inference inside LMDB.",
+    "id": "kn0sys/valentinus",
+    "language": "Rust",
+    "name": "kn0sys/valentinus",
+    "stars": 17,
+    "updated_at": "2026-08-17T23:49:59Z",
+    "url": "https://github.com/kn0sys/valentinus"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-17T23:46:00Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-17T23:45:35Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T23:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1419,
-    "updated_at": "2026-08-17T23:38:49Z",
+    "updated_at": "2026-08-17T23:46:24Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -43,42 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-17T23:38:15Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin.",
-    "id": "firelock-ai/kin-vector",
-    "language": "Rust",
-    "name": "firelock-ai/kin-vector",
-    "stars": 0,
-    "updated_at": "2026-08-17T23:43:28Z",
-    "url": "https://github.com/firelock-ai/kin-vector"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 87,
-    "updated_at": "2026-08-17T23:43:28Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T23:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-17T23:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -106,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T23:22:58Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-17T23:21:52Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Learn how to diagnose and apply different retrieval methods for different purposes with Pinecone.",
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "usetheoai/theodb-bench",
     "stars": 0,
-    "updated_at": "2026-08-17T22:16:13Z",
+    "updated_at": "2026-08-17T23:51:45Z",
     "url": "https://github.com/usetheoai/theodb-bench"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T20:19:39Z",
     "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-08-17T20:19:20Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
   }
 ]
