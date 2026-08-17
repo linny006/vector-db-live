@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-17T10:30:19Z",
+    "updated_at": "2026-08-17T10:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1389,
+    "updated_at": "2026-08-17T10:44:10Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6212,
+    "updated_at": "2026-08-17T10:43:44Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1877,
+    "updated_at": "2026-08-17T10:42:45Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7052,
+    "updated_at": "2026-08-17T10:41:44Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-17T10:38:43Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern a",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-17T10:38:41Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-17T10:37:02Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-17T10:32:37Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T10:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-17T10:30:09Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-08-17T10:28:53Z",
+    "url": "https://github.com/theogony-project/theogony"
   },
   {
     "description": "Jigen DB is vector database written from scratch in c#",
@@ -23,7 +122,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-17T10:27:43Z",
+    "updated_at": "2026-08-17T10:45:18Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -34,15 +133,6 @@
     "stars": 35214,
     "updated_at": "2026-08-17T10:21:57Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7052,
-    "updated_at": "2026-08-17T10:23:08Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -81,30 +171,12 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T10:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1388,
-    "updated_at": "2026-08-17T10:15:00Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
     "id": "rostamlabs/rostam",
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 2,
-    "updated_at": "2026-08-17T10:14:09Z",
+    "updated_at": "2026-08-17T10:38:47Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -113,7 +185,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-17T10:11:14Z",
+    "updated_at": "2026-08-17T10:43:07Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -133,15 +205,6 @@
     "stars": 5742,
     "updated_at": "2026-08-17T10:28:06Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-17T09:57:27Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "AI developer assistant for the Kalisio ecosystem",
@@ -176,7 +239,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9414,
-    "updated_at": "2026-08-17T10:19:28Z",
+    "updated_at": "2026-08-17T10:42:21Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -229,18 +292,9 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34015,
+    "stars": 34016,
     "updated_at": "2026-08-17T09:43:20Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-17T09:42:00Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "MemoryOS is a universal, enterprise-grade, persistent AI workspace that remembers project history, decisions, and shared",
@@ -250,42 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T09:41:48Z",
     "url": "https://github.com/PulkitChugh21/MemoryOS"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-17T09:40:52Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "\ud83d\udd34 CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern a",
-    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-17T09:40:48Z",
-    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1877,
-    "updated_at": "2026-08-17T09:39:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-17T10:30:09Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
@@ -338,7 +356,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-17T10:21:35Z",
+    "updated_at": "2026-08-17T10:32:09Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -355,7 +373,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30077,
+    "stars": 30078,
     "updated_at": "2026-08-17T09:12:01Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -391,7 +409,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15450,
+    "stars": 15451,
     "updated_at": "2026-08-17T08:53:52Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -423,15 +441,6 @@
     "url": "https://github.com/casper-justus/rag-chatbot"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6212,
-    "updated_at": "2026-08-17T10:12:17Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
     "id": "superlinked/VectorHub",
     "language": "Jupyter Notebook",
@@ -439,14 +448,5 @@
     "stars": 529,
     "updated_at": "2026-08-17T08:14:14Z",
     "url": "https://github.com/superlinked/VectorHub"
-  },
-  {
-    "description": "Postgres MCP Server",
-    "id": "devopam/MCPg",
-    "language": "Python",
-    "name": "devopam/MCPg",
-    "stars": 9,
-    "updated_at": "2026-08-17T08:03:49Z",
-    "url": "https://github.com/devopam/MCPg"
   }
 ]
