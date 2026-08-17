@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-17 00:15 UTC
+> ⏰ Last updated: 2026-08-17 00:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-17 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 2 | [kovartravis/neuron](https://github.com/kovartravis/neuron) | 3 | TypeScript | 2026-08-17 | ⁠Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f |
-| 3 | [gmr/dotilla](https://github.com/gmr/dotilla) | 0 | Rust | 2026-08-17 | This is a hobby project to build a Graph database in Rust. |
-| 4 | [omerakben/omer-akben](https://github.com/omerakben/omer-akben) | 1 | TypeScript | 2026-08-17 | 🚀 AI-powered portfolio with proactive visitor engagement — featuring Ozzy, an intelligent assistant with 12 tools, episo |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 7 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-16 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 8 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1415 | Rust | 2026-08-17 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 9 | [rbvwolf/ms-offline-crisis-rag](https://github.com/rbvwolf/ms-offline-crisis-rag) | 0 | JavaScript | 2026-08-16 | Microsoft AI Summer Project: Offline Crisis Assistant RAG with Microsoft Foundry Local |
+| 3 | [rbvwolf/ms-offline-crisis-rag](https://github.com/rbvwolf/ms-offline-crisis-rag) | 0 | JavaScript | 2026-08-17 | Microsoft AI Summer Project: Offline Crisis Assistant RAG with Microsoft Foundry Local |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-17 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 6 | [gmr/dotilla](https://github.com/gmr/dotilla) | 0 | Rust | 2026-08-17 | This is a hobby project to build a Graph database in Rust. |
+| 7 | [omerakben/omer-akben](https://github.com/omerakben/omer-akben) | 1 | TypeScript | 2026-08-17 | 🚀 AI-powered portfolio with proactive visitor engagement — featuring Ozzy, an intelligent assistant with 12 tools, episo |
+| 8 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-16 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 9 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1415 | Rust | 2026-08-17 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
 | 10 | [boulif781/enterprise-knowledge-assistant](https://github.com/boulif781/enterprise-knowledge-assistant) | 0 | — | 2026-08-16 | Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources. |
 | 11 | [Alkaloiddolichocephaly898/agentic-ai-tutorial](https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial) | 1 | Jupyter Notebook | 2026-08-16 | Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows. |
 | 12 | [Bekhbekh7821/CanopyOps](https://github.com/Bekhbekh7821/CanopyOps) | 1 | — | 2026-08-16 | Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups. |
