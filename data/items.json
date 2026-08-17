@@ -1,5 +1,104 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-17T13:44:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
+    "id": "yihui504/TestVDB",
+    "language": "Python",
+    "name": "yihui504/TestVDB",
+    "stars": 0,
+    "updated_at": "2026-08-17T13:42:14Z",
+    "url": "https://github.com/yihui504/TestVDB"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-17T13:39:20Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "RepoG is a CLI-first, local AI-powered tool that helps you explore, search, and understand your GitHub repositories usin",
+    "id": "hackastak/repog",
+    "language": "Go",
+    "name": "hackastak/repog",
+    "stars": 0,
+    "updated_at": "2026-08-17T13:38:17Z",
+    "url": "https://github.com/hackastak/repog"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-17T13:37:45Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6212,
+    "updated_at": "2026-08-17T13:39:00Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-17T13:44:15Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "GaussDB vector store and chat message history integrations for LangChain.",
+    "id": "lilee-LI/langchain-gaussdb",
+    "language": "Python",
+    "name": "lilee-LI/langchain-gaussdb",
+    "stars": 0,
+    "updated_at": "2026-08-17T13:31:18Z",
+    "url": "https://github.com/lilee-LI/langchain-gaussdb"
+  },
+  {
+    "description": "Agentive Solutions interactive book \u2014 AI automation courses starting with n8n Mastery",
+    "id": "Shahzain-Ali/agentive-solutions-book",
+    "language": "Python",
+    "name": "Shahzain-Ali/agentive-solutions-book",
+    "stars": 0,
+    "updated_at": "2026-08-17T13:30:50Z",
+    "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-17T13:30:44Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T13:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,22 +108,22 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "GaussDB vector store and chat message history integrations for LangChain.",
-    "id": "lilee-LI/langchain-gaussdb",
-    "language": "\u2014",
-    "name": "lilee-LI/langchain-gaussdb",
-    "stars": 0,
-    "updated_at": "2026-08-17T13:27:03Z",
-    "url": "https://github.com/lilee-LI/langchain-gaussdb"
+    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
+    "id": "Daubingweirdie414/multimodal-rag",
+    "language": "Python",
+    "name": "Daubingweirdie414/multimodal-rag",
+    "stars": 4,
+    "updated_at": "2026-08-17T13:28:34Z",
+    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
+    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T13:26:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "stars": 1,
+    "updated_at": "2026-08-17T13:28:04Z",
+    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
   },
   {
     "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
@@ -54,24 +153,6 @@
     "url": "https://github.com/kirill2911/awesome-vector-search"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-17T13:20:19Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-17T13:25:56Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
     "id": "buitoan112233/EleutherIA",
     "language": "Shell",
@@ -88,6 +169,15 @@
     "stars": 0,
     "updated_at": "2026-08-17T13:19:50Z",
     "url": "https://github.com/harisrana-dev/ai-knowledge-platform"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1398,
+    "updated_at": "2026-08-17T13:43:51Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "",
@@ -126,15 +216,6 @@
     "url": "https://github.com/eliasepro/groq-pdf-chat"
   },
   {
-    "description": "Agentive Solutions interactive book \u2014 AI automation courses starting with n8n Mastery",
-    "id": "Shahzain-Ali/agentive-solutions-book",
-    "language": "Python",
-    "name": "Shahzain-Ali/agentive-solutions-book",
-    "stars": 0,
-    "updated_at": "2026-08-17T13:15:39Z",
-    "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
-  },
-  {
     "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
     "id": "humanhady/DocMine",
     "language": "Python",
@@ -149,7 +230,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4418,
-    "updated_at": "2026-08-17T13:29:37Z",
+    "updated_at": "2026-08-17T13:33:01Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -203,7 +284,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7052,
-    "updated_at": "2026-08-17T13:19:08Z",
+    "updated_at": "2026-08-17T13:32:59Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -261,15 +342,6 @@
     "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6212,
-    "updated_at": "2026-08-17T13:25:29Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
@@ -304,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T12:59:46Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1397,
-    "updated_at": "2026-08-17T13:19:10Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
@@ -360,15 +423,6 @@
     "url": "https://github.com/clizardyy/unbody"
   },
   {
-    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
-    "id": "yihui504/TestVDB",
-    "language": "Python",
-    "name": "yihui504/TestVDB",
-    "stars": 0,
-    "updated_at": "2026-08-17T12:53:06Z",
-    "url": "https://github.com/yihui504/TestVDB"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -392,61 +446,7 @@
     "language": "C++",
     "name": "infiniflow/infinity",
     "stars": 4673,
-    "updated_at": "2026-08-17T12:46:08Z",
+    "updated_at": "2026-08-17T13:43:09Z",
     "url": "https://github.com/infiniflow/infinity"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-17T12:44:37Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-17T12:39:44Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34018,
-    "updated_at": "2026-08-17T13:03:55Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 225,
-    "updated_at": "2026-08-17T12:34:20Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 377,
-    "updated_at": "2026-08-17T12:28:19Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 89,
-    "updated_at": "2026-08-17T12:27:39Z",
-    "url": "https://github.com/weaviate/weaviate-io"
   }
 ]
