@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-17T11:49:15Z",
+    "updated_at": "2026-08-17T12:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-17T11:59:48Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1084,
+    "updated_at": "2026-08-17T11:58:22Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 339,
+    "updated_at": "2026-08-17T11:56:52Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6212,
+    "updated_at": "2026-08-17T11:56:46Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T11:49:53Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -14,7 +59,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4417,
-    "updated_at": "2026-08-17T11:49:02Z",
+    "updated_at": "2026-08-17T11:57:33Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -32,17 +77,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7052,
-    "updated_at": "2026-08-17T11:47:14Z",
+    "updated_at": "2026-08-17T11:59:44Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T11:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -50,7 +86,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 224,
-    "updated_at": "2026-08-17T11:44:11Z",
+    "updated_at": "2026-08-17T11:57:48Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-17T11:41:16Z",
     "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-17T11:40:47Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "A safety-guarded clinical conversational AI and RAG platform for hypertension management with deterministic triage, even",
@@ -99,21 +126,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1084,
-    "updated_at": "2026-08-17T11:36:23Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-17T11:34:05Z",
+    "updated_at": "2026-08-17T11:57:35Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -261,15 +279,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6212,
-    "updated_at": "2026-08-17T11:20:25Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
     "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "Python",
@@ -311,7 +320,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-17T11:49:44Z",
+    "updated_at": "2026-08-17T11:54:09Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -338,7 +347,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 2,
-    "updated_at": "2026-08-17T11:49:23Z",
+    "updated_at": "2026-08-17T11:50:42Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -410,7 +419,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6340,
-    "updated_at": "2026-08-17T09:44:16Z",
+    "updated_at": "2026-08-17T11:51:02Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 423,
     "updated_at": "2026-08-17T09:59:15Z",
     "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-17T09:27:26Z",
-    "url": "https://github.com/nacre-work/nacre"
   }
 ]
