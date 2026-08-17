@@ -1,12 +1,39 @@
 [
   {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-17T14:54:53Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-08-17T14:54:46Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-17T14:44:12Z",
+    "updated_at": "2026-08-17T14:45:27Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-17T14:45:25Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
@@ -16,15 +43,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T14:43:53Z",
     "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-17T14:42:57Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -70,15 +88,6 @@
     "stars": 1400,
     "updated_at": "2026-08-17T14:45:04Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-17T14:26:32Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -131,7 +140,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6341,
-    "updated_at": "2026-08-17T14:23:17Z",
+    "updated_at": "2026-08-17T14:48:12Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -158,7 +167,7 @@
     "language": "Rust",
     "name": "hippmem/hippmem",
     "stars": 2,
-    "updated_at": "2026-08-17T14:07:48Z",
+    "updated_at": "2026-08-17T15:00:20Z",
     "url": "https://github.com/hippmem/hippmem"
   },
   {
@@ -167,7 +176,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7052,
-    "updated_at": "2026-08-17T14:31:14Z",
+    "updated_at": "2026-08-17T14:51:47Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -176,7 +185,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-17T14:44:27Z",
+    "updated_at": "2026-08-17T14:57:12Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -202,7 +211,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34020,
+    "stars": 34021,
     "updated_at": "2026-08-17T13:41:59Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -221,7 +230,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-17T14:38:35Z",
+    "updated_at": "2026-08-17T14:56:18Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-17T13:02:10Z",
     "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-08-17T13:00:57Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   }
 ]
