@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-17T11:26:34Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "\"Solace AI: Your Empathetic Digital Confidant\": Solace AI is an empathetic mental health companion that understands your",
+    "id": "Rayyan9477/Solace-AI",
+    "language": "Python",
+    "name": "Rayyan9477/Solace-AI",
+    "stars": 18,
+    "updated_at": "2026-08-17T11:26:00Z",
+    "url": "https://github.com/Rayyan9477/Solace-AI"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-17T11:24:51Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
+    "id": "yihui504/TestVDB",
+    "language": "Python",
+    "name": "yihui504/TestVDB",
+    "stars": 0,
+    "updated_at": "2026-08-17T11:23:54Z",
+    "url": "https://github.com/yihui504/TestVDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T11:23:19Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-17T11:23:02Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -25,24 +79,6 @@
     "stars": 4417,
     "updated_at": "2026-08-17T11:18:15Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-17T11:18:04Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T11:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35215,
-    "updated_at": "2026-08-17T11:02:58Z",
+    "updated_at": "2026-08-17T11:24:36Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -157,7 +193,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1390,
+    "stars": 1391,
     "updated_at": "2026-08-17T10:51:01Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -176,7 +212,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8108,
-    "updated_at": "2026-08-17T11:19:33Z",
+    "updated_at": "2026-08-17T11:29:59Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -207,24 +243,6 @@
     "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-17T10:32:37Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-17T11:23:02Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
     "id": "theogony-project/theogony",
     "language": "Python",
@@ -248,7 +266,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-17T11:22:24Z",
+    "updated_at": "2026-08-17T11:29:20Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34016,
-    "updated_at": "2026-08-17T11:23:12Z",
+    "updated_at": "2026-08-17T11:27:08Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30078,
-    "updated_at": "2026-08-17T11:19:24Z",
+    "updated_at": "2026-08-17T11:28:59Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "The RAG Chatbot is an AI-powered chatbot that combines retrieval-based methods with generative language models to answer",
-    "id": "EngrEeshaKhan/rag-chatbot",
-    "language": "Python",
-    "name": "EngrEeshaKhan/rag-chatbot",
-    "stars": 1,
-    "updated_at": "2026-08-17T09:03:10Z",
-    "url": "https://github.com/EngrEeshaKhan/rag-chatbot"
-  },
-  {
-    "description": "Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa",
-    "id": "coolloic/Notebook",
-    "language": "HTML",
-    "name": "coolloic/Notebook",
-    "stars": 0,
-    "updated_at": "2026-08-17T08:59:02Z",
-    "url": "https://github.com/coolloic/Notebook"
   }
 ]
