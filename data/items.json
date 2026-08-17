@@ -1,12 +1,48 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-17T02:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-17T02:11:56Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-08-17T01:58:24Z",
+    "updated_at": "2026-08-17T02:08:21Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11158,
+    "updated_at": "2026-08-17T02:04:02Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T02:00:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -23,26 +59,8 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1417,
-    "updated_at": "2026-08-17T01:54:55Z",
+    "updated_at": "2026-08-17T02:02:43Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T01:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-17T01:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -77,7 +95,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45654,
-    "updated_at": "2026-08-17T01:30:18Z",
+    "updated_at": "2026-08-17T02:06:29Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 13,
     "updated_at": "2026-08-17T01:10:31Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11157,
-    "updated_at": "2026-08-17T01:05:09Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Object storage for the AI age",
@@ -194,7 +203,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1084,
-    "updated_at": "2026-08-17T02:00:00Z",
+    "updated_at": "2026-08-17T02:14:28Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -223,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-08-17T00:37:21Z",
     "url": "https://github.com/kovartravis/neuron"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-17T00:32:34Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
