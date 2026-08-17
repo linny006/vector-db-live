@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-17T23:00:17Z",
+    "updated_at": "2026-08-17T23:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-17T23:11:14Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Learn how to diagnose and apply different retrieval methods for different purposes with Pinecone.",
+    "id": "pinecone-io/better-rag-retrieval-marimo",
+    "language": "Python",
+    "name": "pinecone-io/better-rag-retrieval-marimo",
+    "stars": 3,
+    "updated_at": "2026-08-17T23:07:51Z",
+    "url": "https://github.com/pinecone-io/better-rag-retrieval-marimo"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-17T23:05:27Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 652,
+    "updated_at": "2026-08-17T23:02:05Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-17T22:59:55Z",
+    "updated_at": "2026-08-17T23:00:22Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T22:51:30Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Learn how to diagnose and apply different retrieval methods for different purposes with Pinecone.",
-    "id": "pinecone-io/better-rag-retrieval-marimo",
-    "language": "Python",
-    "name": "pinecone-io/better-rag-retrieval-marimo",
-    "stars": 3,
-    "updated_at": "2026-08-17T22:51:08Z",
-    "url": "https://github.com/pinecone-io/better-rag-retrieval-marimo"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -52,15 +79,6 @@
     "stars": 87,
     "updated_at": "2026-08-17T22:44:07Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-17T22:39:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Compact RAG implementation: document ingestion, embeddings, pgvector retrieval, and grounded generation with citations. ",
@@ -117,13 +135,13 @@
     "url": "https://github.com/usetheoai/theodb-bench"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-17T22:11:15Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6686,
+    "updated_at": "2026-08-17T22:15:01Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "A vector database built from first principles in Rust \u2014 HNSW, mmap storage, product quantization, AVX2 kernels, lock-fre",
@@ -203,7 +221,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4418,
-    "updated_at": "2026-08-17T22:47:15Z",
+    "updated_at": "2026-08-17T23:04:29Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1417,
-    "updated_at": "2026-08-17T22:50:13Z",
+    "updated_at": "2026-08-17T23:04:22Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-08-17T21:48:52Z",
     "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 651,
-    "updated_at": "2026-08-17T20:51:34Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -437,16 +446,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-17T20:09:18Z",
+    "updated_at": "2026-08-17T23:12:22Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 3,
-    "updated_at": "2026-08-17T20:08:48Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
   }
 ]
