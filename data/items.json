@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-17T01:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-17T01:09:01Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Pinecone BYOC",
+    "id": "pinecone-io/pulumi-pinecone-byoc",
+    "language": "Python",
+    "name": "pinecone-io/pulumi-pinecone-byoc",
+    "stars": 13,
+    "updated_at": "2026-08-17T01:10:31Z",
+    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11157,
+    "updated_at": "2026-08-17T01:05:09Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "worka-ai/anvil",
+    "language": "Rust",
+    "name": "worka-ai/anvil",
+    "stars": 77,
+    "updated_at": "2026-08-17T01:05:00Z",
+    "url": "https://github.com/worka-ai/anvil"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1416,
+    "updated_at": "2026-08-17T01:13:13Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T01:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "ChromaMind is a fast desktop client for ChromaDB.",
     "id": "probaku1234/chromamind",
     "language": "TypeScript",
@@ -72,29 +135,11 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T00:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-17T01:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
-    "stars": 1083,
+    "stars": 1084,
     "updated_at": "2026-08-17T00:44:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
@@ -169,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-16T23:58:56Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1415,
-    "updated_at": "2026-08-17T00:53:49Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
@@ -342,15 +378,6 @@
     "url": "https://github.com/K3Tamaa/Vector-Forge"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-16T23:17:51Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
     "id": "sshisto/mnemo-mcp",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-16T23:09:48Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-08-16T23:08:23Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 5,
-    "updated_at": "2026-08-16T23:07:55Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-08-16T23:06:45Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   }
 ]
