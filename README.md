@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-17 21:00 UTC
+> ⏰ Last updated: 2026-08-17 21:02 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [Rayen-Hamza/nanovec-go](https://github.com/Rayen-Hamza/nanovec-go) | 0 | Go | 2026-08-17 | A high-performance Go port of nano-vectordb, a simple embeddable vector database using cosine similarity search. |
-| 3 | [crate/crate](https://github.com/crate/crate) | 4418 | Java | 2026-08-17 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
-| 4 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-17 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 5 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1415 | Rust | 2026-08-17 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 6 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 2 | Go | 2026-08-17 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
-| 7 | [CodeAbra/iai-personal-memory-engine](https://github.com/CodeAbra/iai-personal-memory-engine) | 649 | Python | 2026-08-17 | A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time |
-| 8 | [theogony-project/theogony](https://github.com/theogony-project/theogony) | 0 | Python | 2026-08-17 | An open, democratic World-Brain — the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one,  |
-| 9 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6342 | TypeScript | 2026-08-17 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [Rayen-Hamza/nanovec-go](https://github.com/Rayen-Hamza/nanovec-go) | 0 | Go | 2026-08-17 | A high-performance Go port of nano-vectordb, a simple embeddable vector database using cosine similarity search. |
+| 4 | [crate/crate](https://github.com/crate/crate) | 4418 | Java | 2026-08-17 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
+| 5 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-17 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 6 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1415 | Rust | 2026-08-17 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 7 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 2 | Go | 2026-08-17 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
+| 8 | [CodeAbra/iai-personal-memory-engine](https://github.com/CodeAbra/iai-personal-memory-engine) | 649 | Python | 2026-08-17 | A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time |
+| 9 | [theogony-project/theogony](https://github.com/theogony-project/theogony) | 0 | Python | 2026-08-17 | An open, democratic World-Brain — the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one,  |
+| 10 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6342 | TypeScript | 2026-08-17 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
 | 11 | [AdarshSingh-ASR/WorldLine](https://github.com/AdarshSingh-ASR/WorldLine) | 0 | JavaScript | 2026-08-17 | Shared episodic memory and a globally serializable commitment plane for autonomous machines. CockroachDB distributed vec |
 | 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-17 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 13 | [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) | 162 | Rust | 2026-08-17 | Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG) |
