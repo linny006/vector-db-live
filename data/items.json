@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-17T15:07:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Shared episodic memory and a globally serializable commitment plane for autonomous machines. CockroachDB distributed vec",
+    "id": "AdarshSingh-ASR/WorldLine",
+    "language": "JavaScript",
+    "name": "AdarshSingh-ASR/WorldLine",
+    "stars": 0,
+    "updated_at": "2026-08-17T15:05:09Z",
+    "url": "https://github.com/AdarshSingh-ASR/WorldLine"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2255,
+    "updated_at": "2026-08-17T15:04:58Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "\"Solace AI: Your Empathetic Digital Confidant\": Solace AI is an empathetic mental health companion that understands your",
+    "id": "Rayyan9477/Solace-AI",
+    "language": "Python",
+    "name": "Rayyan9477/Solace-AI",
+    "stars": 18,
+    "updated_at": "2026-08-17T15:04:01Z",
+    "url": "https://github.com/Rayyan9477/Solace-AI"
+  },
+  {
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
+    "language": "Python",
+    "name": "vishalChoudhary-git/ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-17T15:04:00Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-17T15:02:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Asynchronous task service + RAG document retrieval pipeline in Rust \u2014 axum API, SQLite (WAL) with optimistic concurrency",
+    "id": "erishen/rag-task-service",
+    "language": "Rust",
+    "name": "erishen/rag-task-service",
+    "stars": 0,
+    "updated_at": "2026-08-17T15:01:50Z",
+    "url": "https://github.com/erishen/rag-task-service"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T15:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
+    "id": "hippmem/hippmem",
+    "language": "Rust",
+    "name": "hippmem/hippmem",
+    "stars": 2,
+    "updated_at": "2026-08-17T15:00:20Z",
+    "url": "https://github.com/hippmem/hippmem"
+  },
+  {
+    "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
+    "id": "usetheoai/theodb-bench",
+    "language": "Python",
+    "name": "usetheoai/theodb-bench",
+    "stars": 0,
+    "updated_at": "2026-08-17T14:55:24Z",
+    "url": "https://github.com/usetheoai/theodb-bench"
+  },
+  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -18,22 +108,13 @@
     "url": "https://github.com/kalisio/knowledge"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T14:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-17T14:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1401,
+    "updated_at": "2026-08-17T14:45:04Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
@@ -43,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T14:43:53Z",
     "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-17T14:40:48Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -81,15 +153,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1400,
-    "updated_at": "2026-08-17T14:45:04Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -113,7 +176,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 5,
-    "updated_at": "2026-08-17T14:29:58Z",
+    "updated_at": "2026-08-17T15:01:16Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
@@ -162,15 +225,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
-    "id": "hippmem/hippmem",
-    "language": "Rust",
-    "name": "hippmem/hippmem",
-    "stars": 2,
-    "updated_at": "2026-08-17T15:00:20Z",
-    "url": "https://github.com/hippmem/hippmem"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -194,7 +248,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11166,
-    "updated_at": "2026-08-17T13:58:31Z",
+    "updated_at": "2026-08-17T15:04:04Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -212,7 +266,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34021,
-    "updated_at": "2026-08-17T13:41:59Z",
+    "updated_at": "2026-08-17T15:04:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -230,7 +284,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-17T14:56:18Z",
+    "updated_at": "2026-08-17T15:05:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-17T13:10:02Z",
     "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-08-17T13:08:50Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "Eidetic \u2014 a single-process, single-database memory server for AI agents. SQLite-native: vectors + FTS5 + knowledge graph",
-    "id": "rongshenCarson/eidetic-memory",
-    "language": "Python",
-    "name": "rongshenCarson/eidetic-memory",
-    "stars": 0,
-    "updated_at": "2026-08-17T13:08:03Z",
-    "url": "https://github.com/rongshenCarson/eidetic-memory"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-08-17T13:04:40Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
-    "id": "britorbs/consciousdb",
-    "language": "Python",
-    "name": "britorbs/consciousdb",
-    "stars": 0,
-    "updated_at": "2026-08-17T13:02:46Z",
-    "url": "https://github.com/britorbs/consciousdb"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-08-17T13:02:45Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
-    "id": "fub05/MCP---Agent-Starter-Kit",
-    "language": "Python",
-    "name": "fub05/MCP---Agent-Starter-Kit",
-    "stars": 6,
-    "updated_at": "2026-08-17T13:02:10Z",
-    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
   }
 ]
