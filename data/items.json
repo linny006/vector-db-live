@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-17T05:00:20Z",
+    "updated_at": "2026-08-17T05:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-17T05:14:15Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Talk with your pdf",
+    "id": "skalaliya/RAG",
+    "language": "Jupyter Notebook",
+    "name": "skalaliya/RAG",
+    "stars": 0,
+    "updated_at": "2026-08-17T05:12:56Z",
+    "url": "https://github.com/skalaliya/RAG"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 47,
+    "updated_at": "2026-08-17T05:09:48Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Multi-modal product catalog platform \u2014 CLIP + BGE embeddings in Qdrant, hybrid retrieval with cross-encoder reranking, a",
+    "id": "Vikas9892/product_intelligence",
+    "language": "Python",
+    "name": "Vikas9892/product_intelligence",
+    "stars": 4,
+    "updated_at": "2026-08-17T05:09:43Z",
+    "url": "https://github.com/Vikas9892/product_intelligence"
+  },
+  {
+    "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
+    "id": "codelined-ag/Extracto",
+    "language": "TypeScript",
+    "name": "codelined-ag/Extracto",
+    "stars": 5,
+    "updated_at": "2026-08-17T05:02:35Z",
+    "url": "https://github.com/codelined-ag/Extracto"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T05:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -23,35 +77,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-17T04:57:05Z",
+    "updated_at": "2026-08-17T05:12:57Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-17T04:45:30Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T04:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Multi-modal product catalog platform \u2014 CLIP + BGE embeddings in Qdrant, hybrid retrieval with cross-encoder reranking, a",
-    "id": "Vikas9892/product_intelligence",
-    "language": "Python",
-    "name": "Vikas9892/product_intelligence",
-    "stars": 4,
-    "updated_at": "2026-08-17T04:44:52Z",
-    "url": "https://github.com/Vikas9892/product_intelligence"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -126,21 +153,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 47,
-    "updated_at": "2026-08-17T04:51:22Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16731,
-    "updated_at": "2026-08-17T04:21:34Z",
+    "updated_at": "2026-08-17T05:09:18Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1422,
-    "updated_at": "2026-08-17T04:52:20Z",
+    "updated_at": "2026-08-17T05:01:44Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -241,15 +259,6 @@
     "stars": 15450,
     "updated_at": "2026-08-17T03:00:43Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
-    "id": "codelined-ag/Extracto",
-    "language": "TypeScript",
-    "name": "codelined-ag/Extracto",
-    "stars": 5,
-    "updated_at": "2026-08-17T02:57:05Z",
-    "url": "https://github.com/codelined-ag/Extracto"
   },
   {
     "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T00:00:10Z",
     "url": "https://github.com/jlcarrascof/langchain-llm-projects"
-  },
-  {
-    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
-    "id": "boulif781/enterprise-knowledge-assistant",
-    "language": "\u2014",
-    "name": "boulif781/enterprise-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-16T23:36:35Z",
-    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
   }
 ]
