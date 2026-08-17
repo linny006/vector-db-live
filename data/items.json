@@ -1,5 +1,77 @@
 [
   {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 1,
+    "updated_at": "2026-08-17T18:44:40Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-17T18:39:59Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Hands-on AI Agents with LLMs covering tool calling, memory, multi-step workflows, semantic search, RAG agents, and a com",
+    "id": "subin-in/AI-Agents-with-LLMs",
+    "language": "Python",
+    "name": "subin-in/AI-Agents-with-LLMs",
+    "stars": 0,
+    "updated_at": "2026-08-17T18:39:14Z",
+    "url": "https://github.com/subin-in/AI-Agents-with-LLMs"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11170,
+    "updated_at": "2026-08-17T18:38:38Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-17T18:36:28Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-17T18:36:10Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Shared, persistent vector memory over MCP \u2014 give Claude Code, Cursor, Codex, and other agents a common long-term memory ",
+    "id": "thammarongg/blueocean-vector",
+    "language": "Python",
+    "name": "thammarongg/blueocean-vector",
+    "stars": 0,
+    "updated_at": "2026-08-17T18:35:55Z",
+    "url": "https://github.com/thammarongg/blueocean-vector"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T18:30:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,7 +104,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-17T18:29:18Z",
+    "updated_at": "2026-08-17T18:44:42Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -45,6 +117,15 @@
     "url": "https://github.com/SUBHASHSUSHIL/RAG"
   },
   {
+    "description": "A Retrieval-Augmented Generation (RAG) application for querying documents using embeddings, vector search and LLMs.",
+    "id": "GuiMartins04/rag-knowledge-base",
+    "language": "Python",
+    "name": "GuiMartins04/rag-knowledge-base",
+    "stars": 1,
+    "updated_at": "2026-08-17T18:24:50Z",
+    "url": "https://github.com/GuiMartins04/rag-knowledge-base"
+  },
+  {
     "description": "The ORM for Vector Databases",
     "id": "thaletto/cortex",
     "language": "TypeScript",
@@ -54,15 +135,6 @@
     "url": "https://github.com/thaletto/cortex"
   },
   {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-17T18:22:15Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -70,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-17T18:20:13Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T18:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
@@ -122,7 +185,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1406,
-    "updated_at": "2026-08-17T18:29:31Z",
+    "updated_at": "2026-08-17T18:38:48Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -142,33 +205,6 @@
     "stars": 77,
     "updated_at": "2026-08-17T18:03:24Z",
     "url": "https://github.com/worka-ai/anvil"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 1,
-    "updated_at": "2026-08-17T17:56:53Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Shared, persistent vector memory over MCP \u2014 give Claude Code, Cursor, Codex, and other agents a common long-term memory ",
-    "id": "thammarongg/blueocean-vector",
-    "language": "Python",
-    "name": "thammarongg/blueocean-vector",
-    "stars": 0,
-    "updated_at": "2026-08-17T17:53:46Z",
-    "url": "https://github.com/thammarongg/blueocean-vector"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11170,
-    "updated_at": "2026-08-17T18:20:12Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -216,24 +252,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-17T17:27:06Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-17T17:25:01Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
@@ -266,7 +284,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1085,
-    "updated_at": "2026-08-17T18:21:15Z",
+    "updated_at": "2026-08-17T18:42:29Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -274,7 +292,7 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 5743,
+    "stars": 5744,
     "updated_at": "2026-08-17T16:53:19Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
@@ -347,7 +365,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16734,
-    "updated_at": "2026-08-17T18:13:07Z",
+    "updated_at": "2026-08-17T18:36:16Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -392,7 +410,7 @@
     "language": "TypeScript",
     "name": "kovartravis/neuron",
     "stars": 3,
-    "updated_at": "2026-08-17T16:12:01Z",
+    "updated_at": "2026-08-17T18:36:53Z",
     "url": "https://github.com/kovartravis/neuron"
   },
   {
@@ -418,7 +436,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30079,
+    "stars": 30080,
     "updated_at": "2026-08-17T15:58:25Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-17T15:53:57Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "A FastAPI-based REST API service that provides OCR (Optical Character Recognition) for images, RAG (Retrieval-Augmented ",
-    "id": "kingrocfella/image-to-text-app",
-    "language": "Python",
-    "name": "kingrocfella/image-to-text-app",
-    "stars": 1,
-    "updated_at": "2026-08-17T15:53:22Z",
-    "url": "https://github.com/kingrocfella/image-to-text-app"
-  },
-  {
-    "description": "Memory that can prove itself, a CockroachDB + AWS control plane for trustworthy incident-response agents.",
-    "id": "AdarshSingh-ASR/Lattice",
-    "language": "JavaScript",
-    "name": "AdarshSingh-ASR/Lattice",
-    "stars": 0,
-    "updated_at": "2026-08-17T15:48:05Z",
-    "url": "https://github.com/AdarshSingh-ASR/Lattice"
   }
 ]
