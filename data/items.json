@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-17T03:15:20Z",
+    "updated_at": "2026-08-17T03:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45654,
+    "updated_at": "2026-08-17T03:24:24Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-17T03:20:00Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 47,
+    "updated_at": "2026-08-17T03:17:11Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T03:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -18,15 +54,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 47,
-    "updated_at": "2026-08-17T03:00:46Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -34,15 +61,6 @@
     "stars": 15447,
     "updated_at": "2026-08-17T03:00:43Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T03:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -79,15 +97,6 @@
     "stars": 5,
     "updated_at": "2026-08-17T02:57:05Z",
     "url": "https://github.com/codelined-ag/Extracto"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-17T02:51:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
@@ -131,7 +140,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1418,
-    "updated_at": "2026-08-17T02:46:51Z",
+    "updated_at": "2026-08-17T03:21:03Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -175,7 +184,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51686,
+    "stars": 51687,
     "updated_at": "2026-08-17T02:02:07Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -196,15 +205,6 @@
     "stars": 76,
     "updated_at": "2026-08-17T01:34:14Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45654,
-    "updated_at": "2026-08-17T02:06:29Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
@@ -293,7 +293,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1084,
-    "updated_at": "2026-08-17T02:50:27Z",
+    "updated_at": "2026-08-17T03:24:08Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {

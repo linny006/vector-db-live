@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-17 03:15 UTC
+> ⏰ Last updated: 2026-08-17 03:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,28 +43,28 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6339 | TypeScript | 2026-08-17 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
-| 3 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 47 | Rust | 2026-08-17 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
-| 4 | [alibaba/zvec](https://github.com/alibaba/zvec) | 15447 | C++ | 2026-08-17 | A lightweight, lightning-fast, in-process vector database |
+| 2 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45654 | Go | 2026-08-17 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-17 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 4 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 47 | Rust | 2026-08-17 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
 | 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-17 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 7 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-17 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 8 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-17 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 9 | [codelined-ag/Extracto](https://github.com/codelined-ag/Extracto) | 5 | TypeScript | 2026-08-17 | Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere. |
-| 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-17 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 11 | [rmednitzer/core-graph](https://github.com/rmednitzer/core-graph) | 1 | Python | 2026-08-17 | Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem |
-| 12 | [zilliztech/knowhere](https://github.com/zilliztech/knowhere) | 377 | C++ | 2026-08-17 | Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN. |
-| 13 | [rvarun03/ARIOS](https://github.com/rvarun03/ARIOS) | 0 | Python | 2026-08-17 | AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti |
-| 14 | [jkraybill/gordo-ledger](https://github.com/jkraybill/gordo-ledger) | 0 | TypeScript | 2026-08-17 | Semantic memory and cross-project search for AI |
-| 15 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1418 | Rust | 2026-08-17 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 16 | [djleamen/doc-reader](https://github.com/djleamen/doc-reader) | 3 | Python | 2026-08-17 | Large document Q&A agent using RAG |
-| 17 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-08-17 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
-| 18 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-17 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 19 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11159 | Rust | 2026-08-17 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 20 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 51686 | Python | 2026-08-17 | LlamaIndex is the leading document agent and OCR platform |
-| 21 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16730 | Go | 2026-08-17 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
-| 22 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-17 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 23 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45654 | Go | 2026-08-17 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 6 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6339 | TypeScript | 2026-08-17 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
+| 7 | [alibaba/zvec](https://github.com/alibaba/zvec) | 15447 | C++ | 2026-08-17 | A lightweight, lightning-fast, in-process vector database |
+| 8 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-17 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 9 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-17 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 10 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-17 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 11 | [codelined-ag/Extracto](https://github.com/codelined-ag/Extracto) | 5 | TypeScript | 2026-08-17 | Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere. |
+| 12 | [rmednitzer/core-graph](https://github.com/rmednitzer/core-graph) | 1 | Python | 2026-08-17 | Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem |
+| 13 | [zilliztech/knowhere](https://github.com/zilliztech/knowhere) | 377 | C++ | 2026-08-17 | Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN. |
+| 14 | [rvarun03/ARIOS](https://github.com/rvarun03/ARIOS) | 0 | Python | 2026-08-17 | AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti |
+| 15 | [jkraybill/gordo-ledger](https://github.com/jkraybill/gordo-ledger) | 0 | TypeScript | 2026-08-17 | Semantic memory and cross-project search for AI |
+| 16 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1418 | Rust | 2026-08-17 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 17 | [djleamen/doc-reader](https://github.com/djleamen/doc-reader) | 3 | Python | 2026-08-17 | Large document Q&A agent using RAG |
+| 18 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-08-17 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
+| 19 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-17 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 20 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11159 | Rust | 2026-08-17 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 21 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 51687 | Python | 2026-08-17 | LlamaIndex is the leading document agent and OCR platform |
+| 22 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16730 | Go | 2026-08-17 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
+| 23 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-17 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
 | 24 | [yantrikos/yantrikdb-mcp](https://github.com/yantrikos/yantrikdb-mcp) | 24 | Python | 2026-08-17 | Persistent cognitive memory for AI agents — drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra |
 | 25 | [pinecone-io/pulumi-pinecone-byoc](https://github.com/pinecone-io/pulumi-pinecone-byoc) | 13 | Python | 2026-08-17 | Pinecone BYOC |
 | 26 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-17 | Object storage for the AI age |
