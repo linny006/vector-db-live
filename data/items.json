@@ -1,5 +1,77 @@
 [
   {
+    "description": "Verifiable forgetting for AI-agent memory \u2014 CockroachDB-native. Cascade-delete an entity's entire knowledge sub-graph in",
+    "id": "vinayaksonthalia/obliviate",
+    "language": "HTML",
+    "name": "vinayaksonthalia/obliviate",
+    "stars": 0,
+    "updated_at": "2026-08-17T05:58:15Z",
+    "url": "https://github.com/vinayaksonthalia/obliviate"
+  },
+  {
+    "description": "Versioned, fast and scalable nearest neighbor search.",
+    "id": "replikativ/proximum",
+    "language": "Clojure",
+    "name": "replikativ/proximum",
+    "stars": 30,
+    "updated_at": "2026-08-17T05:57:46Z",
+    "url": "https://github.com/replikativ/proximum"
+  },
+  {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 243,
+    "updated_at": "2026-08-17T05:56:54Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 10,
+    "updated_at": "2026-08-17T05:52:24Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "RepoG is a CLI-first, local AI-powered tool that helps you explore, search, and understand your GitHub repositories usin",
+    "id": "hackastak/repog",
+    "language": "Go",
+    "name": "hackastak/repog",
+    "stars": 0,
+    "updated_at": "2026-08-17T05:51:19Z",
+    "url": "https://github.com/hackastak/repog"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-17T05:49:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T05:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Multimodal RAG legal assistant with bilingual (English/Urdu) support, voice queries, and OCR document parsing  built to ",
+    "id": "AsifMarwat/Awaz-e-Nisa",
+    "language": "Python",
+    "name": "AsifMarwat/Awaz-e-Nisa",
+    "stars": 1,
+    "updated_at": "2026-08-17T05:43:39Z",
+    "url": "https://github.com/AsifMarwat/Awaz-e-Nisa"
+  },
+  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
@@ -23,7 +95,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1084,
-    "updated_at": "2026-08-17T05:37:18Z",
+    "updated_at": "2026-08-17T05:49:19Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -54,22 +126,13 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T05:30:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-17T05:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16730,
+    "updated_at": "2026-08-17T05:24:47Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -104,7 +167,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1424,
-    "updated_at": "2026-08-17T05:44:10Z",
+    "updated_at": "2026-08-17T05:48:54Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -167,7 +230,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-17T05:44:02Z",
+    "updated_at": "2026-08-17T05:58:21Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -175,7 +238,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51692,
+    "stars": 51691,
     "updated_at": "2026-08-17T04:43:20Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -207,15 +270,6 @@
     "url": "https://github.com/yantrikos/yantrikdb-mcp"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16731,
-    "updated_at": "2026-08-17T05:24:47Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
     "id": "oscargbocanegra/llms-engineering-main",
     "language": "Jupyter Notebook",
@@ -229,7 +283,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45655,
+    "stars": 45656,
     "updated_at": "2026-08-17T04:14:24Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-17T05:30:08Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "CLI RAG agent over a local corpus: cited answers, confidence gating that refuses without evidence, prompt-injection defe",
-    "id": "ahmed-hashim-pro/rag-knowledge-agent",
-    "language": "Python",
-    "name": "ahmed-hashim-pro/rag-knowledge-agent",
-    "stars": 0,
-    "updated_at": "2026-08-17T00:52:11Z",
-    "url": "https://github.com/ahmed-hashim-pro/rag-knowledge-agent"
-  },
-  {
-    "description": "Microsoft AI Summer Project: Offline Crisis Assistant RAG with Microsoft Foundry Local",
-    "id": "rbvwolf/ms-offline-crisis-rag",
-    "language": "JavaScript",
-    "name": "rbvwolf/ms-offline-crisis-rag",
-    "stars": 0,
-    "updated_at": "2026-08-17T00:51:43Z",
-    "url": "https://github.com/rbvwolf/ms-offline-crisis-rag"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-08-17T00:55:49Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-08-17T00:49:39Z",
-    "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "\ud83d\ude80 AI-powered portfolio with proactive visitor engagement \u2014 featuring Ozzy, an intelligent assistant with 12 tools, episo",
-    "id": "omerakben/omer-akben",
-    "language": "TypeScript",
-    "name": "omerakben/omer-akben",
-    "stars": 1,
-    "updated_at": "2026-08-17T00:35:24Z",
-    "url": "https://github.com/omerakben/omer-akben"
-  },
-  {
-    "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
-    "id": "kovartravis/neuron",
-    "language": "TypeScript",
-    "name": "kovartravis/neuron",
-    "stars": 3,
-    "updated_at": "2026-08-17T02:30:07Z",
-    "url": "https://github.com/kovartravis/neuron"
   }
 ]
