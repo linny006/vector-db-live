@@ -5,8 +5,116 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-17T20:00:18Z",
+    "updated_at": "2026-08-17T20:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-17T20:12:44Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 1,
+    "updated_at": "2026-08-17T20:12:24Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-17T20:11:35Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
+    "id": "usetheoai/theodb-bench",
+    "language": "Python",
+    "name": "usetheoai/theodb-bench",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:11:19Z",
+    "url": "https://github.com/usetheoai/theodb-bench"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-17T20:09:18Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 3,
+    "updated_at": "2026-08-17T20:08:48Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-08-17T20:07:15Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 3,
+    "updated_at": "2026-08-17T20:06:23Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-17T20:06:20Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-08-17T20:05:16Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-08-17T20:04:14Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-08-17T20:02:52Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +122,35 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-17T19:59:34Z",
+    "updated_at": "2026-08-17T20:00:26Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-08-17T19:59:29Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-17T19:57:41Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 3,
+    "updated_at": "2026-08-17T19:57:12Z",
+    "url": "https://github.com/rein98/PsyChat"
   },
   {
     "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
@@ -31,7 +166,7 @@
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
     "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 648,
+    "stars": 649,
     "updated_at": "2026-08-17T19:52:00Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
@@ -135,24 +270,6 @@
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-17T19:49:55Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
-    "id": "usetheoai/theodb-bench",
-    "language": "Python",
-    "name": "usetheoai/theodb-bench",
-    "stars": 0,
-    "updated_at": "2026-08-17T19:43:28Z",
-    "url": "https://github.com/usetheoai/theodb-bench"
-  },
-  {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
     "id": "techdomegh/ai-news-scraper",
     "language": "Python",
@@ -178,15 +295,6 @@
     "stars": 5,
     "updated_at": "2026-08-17T19:40:43Z",
     "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-17T19:39:52Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
@@ -248,17 +356,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6342,
-    "updated_at": "2026-08-17T19:56:18Z",
+    "updated_at": "2026-08-17T20:07:01Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-17T19:18:47Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -302,7 +401,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4418,
-    "updated_at": "2026-08-17T19:55:14Z",
+    "updated_at": "2026-08-17T20:06:15Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -320,7 +419,7 @@
     "language": "Python",
     "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-08-17T18:53:28Z",
+    "updated_at": "2026-08-17T20:12:14Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-17T18:47:02Z",
     "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 41,
-    "updated_at": "2026-08-17T18:46:45Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 2,
-    "updated_at": "2026-08-17T19:34:29Z",
-    "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
-    "id": "rehan243/RAG-Enterprise-Search",
-    "language": "Python",
-    "name": "rehan243/RAG-Enterprise-Search",
-    "stars": 1,
-    "updated_at": "2026-08-17T18:45:57Z",
-    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "Hands-on AI Agents with LLMs covering tool calling, memory, multi-step workflows, semantic search, RAG agents, and a com",
-    "id": "subin-in/AI-Agents-with-LLMs",
-    "language": "Python",
-    "name": "subin-in/AI-Agents-with-LLMs",
-    "stars": 0,
-    "updated_at": "2026-08-17T18:39:14Z",
-    "url": "https://github.com/subin-in/AI-Agents-with-LLMs"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11170,
-    "updated_at": "2026-08-17T19:55:12Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Shared, persistent vector memory over MCP \u2014 give Claude Code, Cursor, Codex, and other agents a common long-term memory ",
-    "id": "thammarongg/blueocean-vector",
-    "language": "Python",
-    "name": "thammarongg/blueocean-vector",
-    "stars": 0,
-    "updated_at": "2026-08-17T18:35:55Z",
-    "url": "https://github.com/thammarongg/blueocean-vector"
-  },
-  {
-    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 4,
-    "updated_at": "2026-08-17T18:30:17Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 89,
-    "updated_at": "2026-08-17T18:29:52Z",
-    "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1469,
-    "updated_at": "2026-08-17T18:29:45Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-17T19:18:29Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "A structured guide covering LLMs - architecture, capabilities, types, and how RAG enhances them",
-    "id": "SUBHASHSUSHIL/RAG",
-    "language": "\u2014",
-    "name": "SUBHASHSUSHIL/RAG",
-    "stars": 0,
-    "updated_at": "2026-08-17T18:24:58Z",
-    "url": "https://github.com/SUBHASHSUSHIL/RAG"
   }
 ]
