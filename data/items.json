@@ -1,12 +1,129 @@
 [
   {
+    "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
+    "id": "usetheoai/theodb-bench",
+    "language": "Python",
+    "name": "usetheoai/theodb-bench",
+    "stars": 0,
+    "updated_at": "2026-08-17T16:13:47Z",
+    "url": "https://github.com/usetheoai/theodb-bench"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-17T16:13:01Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
+    "id": "kovartravis/neuron",
+    "language": "TypeScript",
+    "name": "kovartravis/neuron",
+    "stars": 3,
+    "updated_at": "2026-08-17T16:12:01Z",
+    "url": "https://github.com/kovartravis/neuron"
+  },
+  {
+    "description": "MCP-native embedded memory database for AI agents built in Rust. REMEMBER/RECALL/FORGET/SHARE primitives with hybrid vec",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-08-17T16:11:45Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-08-17T16:11:52Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-17T16:08:37Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udd34 CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern a",
+    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-17T16:08:35Z",
+    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1404,
+    "updated_at": "2026-08-17T16:07:56Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-17T16:07:46Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-17T16:05:58Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1084,
+    "updated_at": "2026-08-17T16:03:08Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-17T16:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-17T15:59:11Z",
+    "updated_at": "2026-08-17T16:00:26Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11170,
+    "updated_at": "2026-08-17T15:59:55Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Shared episodic memory and a globally serializable commitment plane for autonomous machines. CockroachDB distributed vec",
@@ -18,21 +135,12 @@
     "url": "https://github.com/AdarshSingh-ASR/WorldLine"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-17T15:58:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "More than a vector index with a search() bolted on: a cognitive memory engine for AI agents that consolidates, forgets a",
     "id": "sindrehaugen/NCE",
     "language": "Python",
     "name": "sindrehaugen/NCE",
     "stars": 0,
-    "updated_at": "2026-08-17T15:57:56Z",
+    "updated_at": "2026-08-17T16:06:31Z",
     "url": "https://github.com/sindrehaugen/NCE"
   },
   {
@@ -54,15 +162,6 @@
     "url": "https://github.com/kingrocfella/image-to-text-app"
   },
   {
-    "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
-    "id": "kovartravis/neuron",
-    "language": "TypeScript",
-    "name": "kovartravis/neuron",
-    "stars": 3,
-    "updated_at": "2026-08-17T15:54:25Z",
-    "url": "https://github.com/kovartravis/neuron"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -79,33 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T15:48:05Z",
     "url": "https://github.com/AdarshSingh-ASR/Lattice"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-17T15:45:37Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "\ud83d\udd34 CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern a",
-    "id": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "language": "Python",
-    "name": "nishan-paul-2022/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-17T15:45:34Z",
-    "url": "https://github.com/nishan-paul-2022/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1084,
-    "updated_at": "2026-08-17T15:44:16Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -133,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-08-17T15:39:06Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-17T15:39:05Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -180,24 +243,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-17T15:14:02Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
-    "id": "usetheoai/theodb-bench",
-    "language": "Python",
-    "name": "usetheoai/theodb-bench",
-    "stars": 0,
-    "updated_at": "2026-08-17T15:12:17Z",
-    "url": "https://github.com/usetheoai/theodb-bench"
-  },
-  {
     "description": "MCP server for persistent memory using Qdrant vector store",
     "id": "taraksh01/memoryhub",
     "language": "TypeScript",
@@ -207,24 +252,6 @@
     "url": "https://github.com/taraksh01/memoryhub"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1403,
-    "updated_at": "2026-08-17T15:40:24Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-08-17T15:21:49Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -232,15 +259,6 @@
     "stars": 34024,
     "updated_at": "2026-08-17T15:04:05Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11167,
-    "updated_at": "2026-08-17T15:59:55Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "\"Solace AI: Your Empathetic Digital Confidant\": Solace AI is an empathetic mental health companion that understands your",
@@ -401,7 +419,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-17T15:55:39Z",
+    "updated_at": "2026-08-17T16:04:17Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-17T13:28:34Z",
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-08-17T13:28:04Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-08-17T13:26:11Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
   }
 ]
