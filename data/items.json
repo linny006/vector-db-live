@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-17T19:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +16,15 @@
     "stars": 2,
     "updated_at": "2026-08-17T19:30:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-17T19:28:25Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -72,15 +90,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-17T19:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "RAG assistant with ChromaDB, OpenAI Embeddings and RAGAS evaluation.",
     "id": "andrgol12-sys/rag-document-assistant",
     "language": "Python",
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "usetheoai/theodb-bench",
     "stars": 0,
-    "updated_at": "2026-08-17T19:12:11Z",
+    "updated_at": "2026-08-17T19:33:34Z",
     "url": "https://github.com/usetheoai/theodb-bench"
   },
   {
@@ -221,7 +230,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 2,
-    "updated_at": "2026-08-17T18:46:03Z",
+    "updated_at": "2026-08-17T19:34:29Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -232,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-08-17T18:45:57Z",
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-17T19:28:25Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Hands-on AI Agents with LLMs covering tool calling, memory, multi-step workflows, semantic search, RAG agents, and a com",
@@ -286,6 +286,15 @@
     "stars": 89,
     "updated_at": "2026-08-17T18:29:52Z",
     "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1469,
+    "updated_at": "2026-08-17T18:29:45Z",
+    "url": "https://github.com/datalevin/datalevin"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -392,7 +401,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1085,
-    "updated_at": "2026-08-17T19:23:45Z",
+    "updated_at": "2026-08-17T19:32:48Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1344,
     "updated_at": "2026-08-17T16:37:53Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 4,
-    "updated_at": "2026-08-17T16:35:03Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
   }
 ]
