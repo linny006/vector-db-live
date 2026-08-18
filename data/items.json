@@ -1,29 +1,11 @@
 [
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1428,
-    "updated_at": "2026-08-18T07:14:30Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T07:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-18T07:15:26Z",
+    "updated_at": "2026-08-18T07:23:49Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,8 +14,53 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4418,
-    "updated_at": "2026-08-18T07:06:59Z",
+    "updated_at": "2026-08-18T07:23:16Z",
     "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16736,
+    "updated_at": "2026-08-18T07:22:07Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-18T07:16:19Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T07:15:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Memory that can prove itself, a CockroachDB + AWS control plane for trustworthy incident-response agents.",
+    "id": "AdarshSingh-ASR/Lattice",
+    "language": "JavaScript",
+    "name": "AdarshSingh-ASR/Lattice",
+    "stars": 0,
+    "updated_at": "2026-08-18T07:15:17Z",
+    "url": "https://github.com/AdarshSingh-ASR/Lattice"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1428,
+    "updated_at": "2026-08-18T07:15:29Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -61,15 +88,6 @@
     "stars": 48,
     "updated_at": "2026-08-18T06:52:46Z",
     "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-18T06:45:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -108,20 +126,11 @@
     "url": "https://github.com/weaviate/typescript-client"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16735,
-    "updated_at": "2026-08-18T07:05:22Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45675,
+    "stars": 45676,
     "updated_at": "2026-08-18T06:23:19Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -162,15 +171,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Memory that can prove itself, a CockroachDB + AWS control plane for trustworthy incident-response agents.",
-    "id": "AdarshSingh-ASR/Lattice",
-    "language": "JavaScript",
-    "name": "AdarshSingh-ASR/Lattice",
-    "stars": 0,
-    "updated_at": "2026-08-18T07:15:17Z",
-    "url": "https://github.com/AdarshSingh-ASR/Lattice"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -185,7 +185,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9413,
-    "updated_at": "2026-08-18T07:08:19Z",
+    "updated_at": "2026-08-18T07:16:13Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -230,7 +230,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1086,
-    "updated_at": "2026-08-18T07:15:11Z",
+    "updated_at": "2026-08-18T07:16:21Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -239,7 +239,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-18T07:03:54Z",
+    "updated_at": "2026-08-18T07:22:20Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
