@@ -5,17 +5,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-18T15:30:23Z",
+    "updated_at": "2026-08-18T15:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T15:29:47Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Autonomous SRE Agent built on LangGraph. Orchestrates async ESP32 telemetry via MQTT, grounds LLM reasoning using Cockro",
@@ -23,8 +14,53 @@
     "language": "Python",
     "name": "shawnsony07/Autonomous-SRE",
     "stars": 0,
-    "updated_at": "2026-08-18T15:28:29Z",
+    "updated_at": "2026-08-18T15:40:13Z",
     "url": "https://github.com/shawnsony07/Autonomous-SRE"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 842,
+    "updated_at": "2026-08-18T15:36:03Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-18T15:35:07Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-18T15:32:08Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T15:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-18T15:29:46Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
@@ -34,6 +70,15 @@
     "stars": 531,
     "updated_at": "2026-08-18T15:25:50Z",
     "url": "https://github.com/lightonai/next-plaid"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-18T15:44:30Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
@@ -54,21 +99,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-18T15:29:31Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-18T15:28:18Z",
+    "updated_at": "2026-08-18T15:44:59Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -95,7 +131,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-18T15:09:06Z",
+    "updated_at": "2026-08-18T15:41:52Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -103,7 +139,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6700,
+    "stars": 6702,
     "updated_at": "2026-08-18T15:06:51Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -113,8 +149,17 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4418,
-    "updated_at": "2026-08-18T15:06:02Z",
+    "updated_at": "2026-08-18T15:39:46Z",
     "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11178,
+    "updated_at": "2026-08-18T15:05:58Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "The official Java client for the Pinecone vector database",
@@ -176,7 +221,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1087,
-    "updated_at": "2026-08-18T15:15:35Z",
+    "updated_at": "2026-08-18T15:37:02Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 8108,
     "updated_at": "2026-08-18T14:46:30Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-18T15:24:42Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Production-style AI-powered customer support assistant built with Java, Spring Boot, Spring AI, RAG, vector search, and ",
@@ -225,15 +261,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11179,
-    "updated_at": "2026-08-18T15:05:58Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
@@ -252,15 +279,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-18T14:34:15Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
     "id": "MasihMoafi/Elpis",
     "language": "Rust",
@@ -268,15 +286,6 @@
     "stars": 41,
     "updated_at": "2026-08-18T14:31:54Z",
     "url": "https://github.com/MasihMoafi/Elpis"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-18T15:29:46Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -293,7 +302,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1420,
-    "updated_at": "2026-08-18T15:16:09Z",
+    "updated_at": "2026-08-18T15:44:22Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -329,7 +338,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-18T14:33:27Z",
+    "updated_at": "2026-08-18T15:40:45Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -337,7 +346,7 @@
     "id": "CaviraOSS/OpenMemory",
     "language": "TypeScript",
     "name": "CaviraOSS/OpenMemory",
-    "stars": 4445,
+    "stars": 4446,
     "updated_at": "2026-08-18T14:06:59Z",
     "url": "https://github.com/CaviraOSS/OpenMemory"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T13:38:33Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Local-first hybrid RAG for scientific PDFs: bilingual (EL/EN) Q&A with page-level citations, an anti-hallucination relev",
-    "id": "kostas221/local-rag-assistant",
-    "language": "Python",
-    "name": "kostas221/local-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-18T13:25:47Z",
-    "url": "https://github.com/kostas221/local-rag-assistant"
   }
 ]
