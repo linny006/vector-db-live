@@ -1,5 +1,86 @@
 [
   {
+    "description": "GaussDB vector store and chat message history integrations for LangChain.",
+    "id": "lilee-LI/database-langchain-gaussdb-sync",
+    "language": "Python",
+    "name": "lilee-LI/database-langchain-gaussdb-sync",
+    "stars": 0,
+    "updated_at": "2026-08-18T12:38:50Z",
+    "url": "https://github.com/lilee-LI/database-langchain-gaussdb-sync"
+  },
+  {
+    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
+    "id": "yihui504/TestVDB",
+    "language": "Python",
+    "name": "yihui504/TestVDB",
+    "stars": 0,
+    "updated_at": "2026-08-18T12:37:23Z",
+    "url": "https://github.com/yihui504/TestVDB"
+  },
+  {
+    "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 781,
+    "updated_at": "2026-08-18T12:40:57Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "\ud83d\ude34 A release-gate agent whose multi-year CockroachDB memory recognises a slow-motion supply-chain takeover \u2014 the xz backd",
+    "id": "edycutjong/sleeper",
+    "language": "TypeScript",
+    "name": "edycutjong/sleeper",
+    "stars": 0,
+    "updated_at": "2026-08-18T12:36:32Z",
+    "url": "https://github.com/edycutjong/sleeper"
+  },
+  {
+    "description": "Shared episodic memory and a globally serializable commitment plane for autonomous machines. CockroachDB distributed vec",
+    "id": "AdarshSingh-ASR/WorldLine",
+    "language": "JavaScript",
+    "name": "AdarshSingh-ASR/WorldLine",
+    "stars": 0,
+    "updated_at": "2026-08-18T12:41:09Z",
+    "url": "https://github.com/AdarshSingh-ASR/WorldLine"
+  },
+  {
+    "description": "A production-grade RAG system and neural voice assistant for low-resource Kannada literature ('Heli Hogu Kaarana'). It f",
+    "id": "Amruth011/kannada-rag-agent",
+    "language": "Python",
+    "name": "Amruth011/kannada-rag-agent",
+    "stars": 1,
+    "updated_at": "2026-08-18T12:32:28Z",
+    "url": "https://github.com/Amruth011/kannada-rag-agent"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-18T12:37:15Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-08-18T12:32:14Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T12:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +90,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "A release-gate agent whose multi-year CockroachDB memory recognises a slow-motion supply-chain takeover \u2014 the xz backdoo",
-    "id": "edycutjong/sleeper",
-    "language": "TypeScript",
-    "name": "edycutjong/sleeper",
-    "stars": 0,
-    "updated_at": "2026-08-18T12:29:10Z",
-    "url": "https://github.com/edycutjong/sleeper"
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7054,
+    "updated_at": "2026-08-18T12:33:47Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -63,15 +144,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T12:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -79,15 +151,6 @@
     "stars": 12895,
     "updated_at": "2026-08-18T12:14:48Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-18T12:22:00Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -113,7 +176,7 @@
     "language": "Jupyter Notebook",
     "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
     "stars": 0,
-    "updated_at": "2026-08-18T12:06:38Z",
+    "updated_at": "2026-08-18T12:41:05Z",
     "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
   },
   {
@@ -133,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T12:03:01Z",
     "url": "https://github.com/Khayal07/multimodal-doc-rag"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7054,
-    "updated_at": "2026-08-18T12:28:13Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 781,
-    "updated_at": "2026-08-18T11:59:59Z",
-    "url": "https://github.com/christopherkarani/Wax"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -194,7 +239,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8108,
-    "updated_at": "2026-08-18T12:25:02Z",
+    "updated_at": "2026-08-18T12:40:09Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16738,
-    "updated_at": "2026-08-18T12:17:53Z",
+    "updated_at": "2026-08-18T12:32:24Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -257,7 +302,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-18T11:23:11Z",
+    "updated_at": "2026-08-18T12:41:26Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -265,7 +310,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2494,
+    "stars": 2495,
     "updated_at": "2026-08-18T11:12:53Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -293,7 +338,7 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 120,
-    "updated_at": "2026-08-18T11:09:43Z",
+    "updated_at": "2026-08-18T12:35:25Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-18T12:20:56Z",
+    "updated_at": "2026-08-18T12:39:56Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -311,7 +356,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-18T12:29:58Z",
+    "updated_at": "2026-08-18T12:32:38Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 4418,
     "updated_at": "2026-08-18T12:27:52Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Evidence-led technology trends, updated weekly from up2d8.com \u2014 classification ladder, recommended actions, and the repo",
-    "id": "allup2d8/trends",
-    "language": "\u2014",
-    "name": "allup2d8/trends",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:40:10Z",
-    "url": "https://github.com/allup2d8/trends"
-  },
-  {
-    "description": "Shared episodic memory and a globally serializable commitment plane for autonomous machines. CockroachDB distributed vec",
-    "id": "AdarshSingh-ASR/WorldLine",
-    "language": "JavaScript",
-    "name": "AdarshSingh-ASR/WorldLine",
-    "stars": 0,
-    "updated_at": "2026-08-18T12:29:36Z",
-    "url": "https://github.com/AdarshSingh-ASR/WorldLine"
-  },
-  {
-    "description": "",
-    "id": "threefigure-achromia682/ai-memory",
-    "language": "\u2014",
-    "name": "threefigure-achromia682/ai-memory",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:26:48Z",
-    "url": "https://github.com/threefigure-achromia682/ai-memory"
-  },
-  {
-    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
-    "id": "alegameplays14-del/leica-infinity-2026",
-    "language": "\u2014",
-    "name": "alegameplays14-del/leica-infinity-2026",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:25:36Z",
-    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:24:46Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
   }
 ]
