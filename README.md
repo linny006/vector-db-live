@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 23:45 UTC
+> ⏰ Last updated: 2026-08-18 23:46 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [yantrikos/yantrikdb-client](https://github.com/yantrikos/yantrikdb-client) | 0 | Python | 2026-08-18 | Python client SDK for YantrikDB — typed persistent memory over HTTP: remember, recall with retrieval reasons, reflection |
-| 2 | [Omar0Gamal/AxiomGraph](https://github.com/Omar0Gamal/AxiomGraph) | 0 | C++ | 2026-08-18 | A high-performance hybrid graph-vector database for GraphRAG and agentic workflows, built in C++ with embedded SQLite me |
-| 3 | [yantrikos/yantrikdb-mcp](https://github.com/yantrikos/yantrikdb-mcp) | 24 | Python | 2026-08-18 | Persistent cognitive memory for AI agents — drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra |
-| 4 | [yantrikos/yantrikdb-server](https://github.com/yantrikos/yantrikdb-server) | 171 | Rust | 2026-08-18 | Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temp |
-| 5 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 50 | Rust | 2026-08-18 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
-| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-18 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 7 | [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) | 163 | Rust | 2026-08-18 | Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG) |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [deven96/ahnlich](https://github.com/deven96/ahnlich) | 243 | Rust | 2026-08-18 | Suite of tools containing an in-memory vector datastore and AI proxy |
-| 10 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [yantrikos/yantrikdb-client](https://github.com/yantrikos/yantrikdb-client) | 0 | Python | 2026-08-18 | Python client SDK for YantrikDB — typed persistent memory over HTTP: remember, recall with retrieval reasons, reflection |
+| 4 | [Omar0Gamal/AxiomGraph](https://github.com/Omar0Gamal/AxiomGraph) | 0 | C++ | 2026-08-18 | A high-performance hybrid graph-vector database for GraphRAG and agentic workflows, built in C++ with embedded SQLite me |
+| 5 | [yantrikos/yantrikdb-mcp](https://github.com/yantrikos/yantrikdb-mcp) | 24 | Python | 2026-08-18 | Persistent cognitive memory for AI agents — drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra |
+| 6 | [yantrikos/yantrikdb-server](https://github.com/yantrikos/yantrikdb-server) | 171 | Rust | 2026-08-18 | Cognitive memory database for AI agents — consolidates duplicates, detects contradictions, fades stale memories via temp |
+| 7 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 50 | Rust | 2026-08-18 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
+| 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-18 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 9 | [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) | 163 | Rust | 2026-08-18 | Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG) |
+| 10 | [deven96/ahnlich](https://github.com/deven96/ahnlich) | 243 | Rust | 2026-08-18 | Suite of tools containing an in-memory vector datastore and AI proxy |
 | 11 | [coolloic/Notebook](https://github.com/coolloic/Notebook) | 0 | HTML | 2026-08-18 | Notes and guides on building LLM applications: LangChain / LangGraph / LangSmith and vector databases, with runnable exa |
 | 12 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-08-18 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
 | 13 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-18 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
