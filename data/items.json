@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T15:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T15:29:47Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Autonomous SRE Agent built on LangGraph. Orchestrates async ESP32 telemetry via MQTT, grounds LLM reasoning using Cockro",
     "id": "shawnsony07/Autonomous-SRE",
     "language": "Python",
@@ -70,24 +88,6 @@
     "stars": 87,
     "updated_at": "2026-08-18T15:15:36Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T15:15:29Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T15:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -275,7 +275,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-18T14:31:18Z",
+    "updated_at": "2026-08-18T15:29:46Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {

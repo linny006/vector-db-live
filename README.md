@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 15:29 UTC
+> ⏰ Last updated: 2026-08-18 15:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [shawnsony07/Autonomous-SRE](https://github.com/shawnsony07/Autonomous-SRE) | 0 | Python | 2026-08-18 | Autonomous SRE Agent built on LangGraph. Orchestrates async ESP32 telemetry via MQTT, grounds LLM reasoning using Cockro |
-| 2 | [lightonai/next-plaid](https://github.com/lightonai/next-plaid) | 531 | Rust | 2026-08-18 | NextPlaid, ColGREP: Multi-vector search, from database to coding agents. |
-| 3 | [christopherkarani/Wax](https://github.com/christopherkarani/Wax) | 781 | Swift | 2026-08-18 | Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A |
-| 4 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-18 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 5 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 3 | Python | 2026-08-18 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
-| 6 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6212 | Rust | 2026-08-18 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 7 | [TanNguyen234/VietLex-Tech-Spec](https://github.com/TanNguyen234/VietLex-Tech-Spec) | 0 | Python | 2026-08-18 | Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation. |
-| 8 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-18 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [shawnsony07/Autonomous-SRE](https://github.com/shawnsony07/Autonomous-SRE) | 0 | Python | 2026-08-18 | Autonomous SRE Agent built on LangGraph. Orchestrates async ESP32 telemetry via MQTT, grounds LLM reasoning using Cockro |
+| 4 | [lightonai/next-plaid](https://github.com/lightonai/next-plaid) | 531 | Rust | 2026-08-18 | NextPlaid, ColGREP: Multi-vector search, from database to coding agents. |
+| 5 | [christopherkarani/Wax](https://github.com/christopherkarani/Wax) | 781 | Swift | 2026-08-18 | Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A |
+| 6 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-18 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 7 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 3 | Python | 2026-08-18 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
+| 8 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6212 | Rust | 2026-08-18 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 9 | [TanNguyen234/VietLex-Tech-Spec](https://github.com/TanNguyen234/VietLex-Tech-Spec) | 0 | Python | 2026-08-18 | Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation. |
+| 10 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-18 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
 | 11 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-18 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 12 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6700 | Python | 2026-08-18 |  Memory library for building stateful agents |
 | 13 | [crate/crate](https://github.com/crate/crate) | 4418 | Java | 2026-08-18 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
