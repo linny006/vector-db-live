@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 00:45 UTC
+> ⏰ Last updated: 2026-08-18 01:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 120 | MDX | 2026-08-18 | The documentation for SurrealDB, powered by Astro |
-| 2 | [dkylewillis/vera](https://github.com/dkylewillis/vera) | 17 | Python | 2026-08-18 |  |
-| 3 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-18 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 4 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-18 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 5 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1086 | Java | 2026-08-18 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 8 | [usetheoai/theodb-bench](https://github.com/usetheoai/theodb-bench) | 0 | Python | 2026-08-18 | Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific |
-| 9 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7052 | Java | 2026-08-18 | The AI search platform |
-| 10 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1420 | Rust | 2026-08-18 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 11 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-18 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-18 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 120 | MDX | 2026-08-18 | The documentation for SurrealDB, powered by Astro |
+| 5 | [dkylewillis/vera](https://github.com/dkylewillis/vera) | 17 | Python | 2026-08-18 |  |
+| 6 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-18 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 7 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-18 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 8 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1086 | Java | 2026-08-18 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 9 | [usetheoai/theodb-bench](https://github.com/usetheoai/theodb-bench) | 0 | Python | 2026-08-18 | Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific |
+| 10 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7052 | Java | 2026-08-18 | The AI search platform |
+| 11 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1420 | Rust | 2026-08-18 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
 | 12 | [jose-compu/logosdb](https://github.com/jose-compu/logosdb) | 13 | C++ | 2026-08-18 | LogosDB is the SQLite for AI Agents. |
 | 13 | [firelock-ai/kin-vector](https://github.com/firelock-ai/kin-vector) | 0 | Rust | 2026-08-18 | Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin. |
 | 14 | [tryAGI/Pinecone](https://github.com/tryAGI/Pinecone) | 8 | C# | 2026-08-17 | C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference |
@@ -69,13 +69,13 @@ expired items removed — so you can rely on what you see being current.
 | 25 | [nishan-paul-hello/cmatrix-agentic-red-team](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team) | 0 | Python | 2026-08-17 | 🛡️ CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern  |
 | 26 | [aayushiagratha/grounded-rag](https://github.com/aayushiagratha/grounded-rag) | 0 | Python | 2026-08-17 | Compact RAG implementation: document ingestion, embeddings, pgvector retrieval, and grounded generation with citations.  |
 | 27 | [deven96/ahnlich](https://github.com/deven96/ahnlich) | 243 | Rust | 2026-08-17 | Suite of tools containing an in-memory vector datastore and AI proxy |
-| 28 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 64836 | JavaScript | 2026-08-17 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 28 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 64837 | JavaScript | 2026-08-17 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
 | 29 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-08-17 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
 | 30 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6686 | Python | 2026-08-17 |  Memory library for building stateful agents |
 | 31 | [MaheshBhushan/vektordb](https://github.com/MaheshBhushan/vektordb) | 0 | Rust | 2026-08-17 | A vector database built from first principles in Rust — HNSW, mmap storage, product quantization, AVX2 kernels, lock-fre |
 | 32 | [AdarshSingh-ASR/WorldLine](https://github.com/AdarshSingh-ASR/WorldLine) | 0 | JavaScript | 2026-08-17 | Shared episodic memory and a globally serializable commitment plane for autonomous machines. CockroachDB distributed vec |
 | 33 | [worka-ai/anvil](https://github.com/worka-ai/anvil) | 77 | Rust | 2026-08-17 | Object storage for the AI age |
-| 34 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 51709 | Python | 2026-08-17 | LlamaIndex is the leading document agent and OCR platform |
+| 34 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 51710 | Python | 2026-08-17 | LlamaIndex is the leading document agent and OCR platform |
 | 35 | [hhblaze/DBreeze](https://github.com/hhblaze/DBreeze) | 577 | C# | 2026-08-17 | C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m |
 | 36 | [MariaDB/server](https://github.com/MariaDB/server) | 8108 | C++ | 2026-08-17 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 37 | [LuisinTheLegend/ConciergeGraph](https://github.com/LuisinTheLegend/ConciergeGraph) | 1 | Python | 2026-08-17 | Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP. |

@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T01:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-18T00:47:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T00:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "The documentation for SurrealDB, powered by Astro",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "dkylewillis/vera",
     "stars": 17,
-    "updated_at": "2026-08-18T00:43:39Z",
+    "updated_at": "2026-08-18T00:52:07Z",
     "url": "https://github.com/dkylewillis/vera"
   },
   {
@@ -41,26 +68,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1086,
-    "updated_at": "2026-08-18T00:30:44Z",
+    "updated_at": "2026-08-18T00:58:31Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T00:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T00:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
@@ -86,17 +95,8 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1420,
-    "updated_at": "2026-08-18T00:44:32Z",
+    "updated_at": "2026-08-18T00:46:39Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-18T00:10:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "LogosDB is the SQLite for AI Agents.",
@@ -247,7 +247,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64836,
+    "stars": 64837,
     "updated_at": "2026-08-17T22:30:04Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -301,7 +301,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51709,
+    "stars": 51710,
     "updated_at": "2026-08-17T21:24:42Z",
     "url": "https://github.com/run-llama/llama_index"
   },
