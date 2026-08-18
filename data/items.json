@@ -1,5 +1,23 @@
 [
   {
+    "description": "Vectorless agent memory. HTML storage + grep retrieval. LongMemEval-S R@5 = 98.9%. No embedding, no vector DB.",
+    "id": "WAPA0012/grepmem",
+    "language": "JavaScript",
+    "name": "WAPA0012/grepmem",
+    "stars": 0,
+    "updated_at": "2026-08-18T17:02:44Z",
+    "url": "https://github.com/WAPA0012/grepmem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T17:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,6 +34,15 @@
     "stars": 2,
     "updated_at": "2026-08-18T16:59:52Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
+    "id": "a258huit58/claude-memory",
+    "language": "JavaScript",
+    "name": "a258huit58/claude-memory",
+    "stars": 1,
+    "updated_at": "2026-08-18T16:58:00Z",
+    "url": "https://github.com/a258huit58/claude-memory"
   },
   {
     "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
@@ -68,7 +95,7 @@
     "language": "Jupyter Notebook",
     "name": "mdhabibi/llm-search-handbook",
     "stars": 0,
-    "updated_at": "2026-08-18T16:59:24Z",
+    "updated_at": "2026-08-18T17:01:47Z",
     "url": "https://github.com/mdhabibi/llm-search-handbook"
   },
   {
@@ -151,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T16:45:59Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T16:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
@@ -356,7 +374,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1422,
-    "updated_at": "2026-08-18T16:22:13Z",
+    "updated_at": "2026-08-18T17:02:26Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-18T15:59:34Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 87,
-    "updated_at": "2026-08-18T16:48:27Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1880,
-    "updated_at": "2026-08-18T15:56:24Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
