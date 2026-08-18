@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-18T22:45:19Z",
+    "updated_at": "2026-08-18T22:49:09Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG search engine using LlamaIndex, Redis, and PII masking.",
+    "id": "gabaoun/Project-Aether",
+    "language": "Python",
+    "name": "gabaoun/Project-Aether",
+    "stars": 2,
+    "updated_at": "2026-08-18T22:47:46Z",
+    "url": "https://github.com/gabaoun/Project-Aether"
+  },
+  {
+    "description": "\ud83d\ude80 AI-powered portfolio with proactive visitor engagement \u2014 featuring Ozzy, an intelligent assistant with 12 tools, episo",
+    "id": "omerakben/omer-akben",
+    "language": "TypeScript",
+    "name": "omerakben/omer-akben",
+    "stars": 1,
+    "updated_at": "2026-08-18T22:46:19Z",
+    "url": "https://github.com/omerakben/omer-akben"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T22:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-18T22:45:16Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "Local AI server with persistent memory, RAG, and multi-backend inference (MLX / llama.cpp / Ollama). Runs entirely on yo",
@@ -43,33 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T22:36:29Z",
     "url": "https://github.com/Omar0Gamal/AxiomGraph"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-08-18T22:45:16Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T22:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "RAG search engine using LlamaIndex, Redis, and PII masking.",
-    "id": "gabaoun/Project-Aether",
-    "language": "Python",
-    "name": "gabaoun/Project-Aether",
-    "stars": 2,
-    "updated_at": "2026-08-18T22:30:22Z",
-    "url": "https://github.com/gabaoun/Project-Aether"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -169,6 +178,15 @@
     "stars": 2,
     "updated_at": "2026-08-18T22:00:49Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35238,
+    "updated_at": "2026-08-18T21:53:10Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -275,7 +293,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-18T22:25:03Z",
+    "updated_at": "2026-08-18T22:47:05Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-18T22:42:55Z",
+    "updated_at": "2026-08-18T22:47:46Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -310,7 +328,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64889,
+    "stars": 64890,
     "updated_at": "2026-08-18T20:34:21Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -358,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-08-18T20:12:04Z",
     "url": "https://github.com/thameema/memnos"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35237,
-    "updated_at": "2026-08-18T21:53:10Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Cross-Layer Detection and Provenance Attestation for Adversarial Embedding Attacks in RAG Systems",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-18T19:37:31Z",
     "url": "https://github.com/abhiraj-ku/RaGo"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 120,
-    "updated_at": "2026-08-18T19:31:52Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   }
 ]
