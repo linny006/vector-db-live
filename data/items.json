@@ -1,12 +1,48 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Autonomous SRE Agent built on LangGraph. Orchestrates async ESP32 telemetry via MQTT, grounds LLM reasoning using Cockro",
+    "id": "shawnsony07/Autonomous-SRE",
     "language": "Python",
-    "name": "linny006/rag-radar",
+    "name": "shawnsony07/Autonomous-SRE",
+    "stars": 0,
+    "updated_at": "2026-08-18T20:26:33Z",
+    "url": "https://github.com/shawnsony07/Autonomous-SRE"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-18T20:28:54Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-18T20:24:32Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "\ud83d\ude34 A release-gate agent whose multi-year CockroachDB memory recognises a slow-motion supply-chain takeover \u2014 the xz backd",
+    "id": "edycutjong/sleeper",
+    "language": "TypeScript",
+    "name": "edycutjong/sleeper",
+    "stars": 0,
+    "updated_at": "2026-08-18T20:23:43Z",
+    "url": "https://github.com/edycutjong/sleeper"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
     "stars": 2,
-    "updated_at": "2026-08-18T20:18:54Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-08-18T20:22:32Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-18T20:15:25Z",
+    "updated_at": "2026-08-18T20:21:33Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-18T20:21:04Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T20:18:54Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
@@ -90,15 +144,6 @@
     "url": "https://github.com/nacre-work/nacre"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-18T20:15:05Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -131,17 +176,8 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5798,
-    "updated_at": "2026-08-18T19:56:21Z",
+    "updated_at": "2026-08-18T20:23:37Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-18T19:51:36Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -167,7 +203,7 @@
     "language": "HTML",
     "name": "Benorina1/llm-vector-retrieval-playbook",
     "stars": 0,
-    "updated_at": "2026-08-18T19:41:34Z",
+    "updated_at": "2026-08-18T20:29:13Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
@@ -212,17 +248,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-18T19:31:13Z",
+    "updated_at": "2026-08-18T20:30:05Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-18T19:27:57Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -232,24 +259,6 @@
     "stars": 64886,
     "updated_at": "2026-08-18T19:26:50Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Autonomous SRE Agent built on LangGraph. Orchestrates async ESP32 telemetry via MQTT, grounds LLM reasoning using Cockro",
-    "id": "shawnsony07/Autonomous-SRE",
-    "language": "Python",
-    "name": "shawnsony07/Autonomous-SRE",
-    "stars": 0,
-    "updated_at": "2026-08-18T19:25:53Z",
-    "url": "https://github.com/shawnsony07/Autonomous-SRE"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-18T20:21:04Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -439,14 +448,5 @@
     "stars": 577,
     "updated_at": "2026-08-18T18:15:32Z",
     "url": "https://github.com/hhblaze/DBreeze"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4419,
-    "updated_at": "2026-08-18T20:08:49Z",
-    "url": "https://github.com/crate/crate"
   }
 ]
