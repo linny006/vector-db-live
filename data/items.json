@@ -1,12 +1,30 @@
 [
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-18T18:38:49Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-18T18:51:30Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7054,
+    "updated_at": "2026-08-18T18:50:16Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Grounded question answering over datacenter facilities documentation: hybrid retrieval, honest evaluation, and a tool-ca",
+    "id": "AbdullahTarakji/dc-ops-rag",
+    "language": "\u2014",
+    "name": "AbdullahTarakji/dc-ops-rag",
+    "stars": 0,
+    "updated_at": "2026-08-18T18:50:37Z",
+    "url": "https://github.com/AbdullahTarakji/dc-ops-rag"
   },
   {
     "description": "Lexical vs Vector vs Graph RAG over one identical chunk set, with deterministic evaluation, a self-correcting LangGraph ",
@@ -14,8 +32,71 @@
     "language": "Python",
     "name": "pathak1005/rag-arena",
     "stars": 0,
-    "updated_at": "2026-08-18T18:36:32Z",
+    "updated_at": "2026-08-18T18:48:41Z",
     "url": "https://github.com/pathak1005/rag-arena"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 2,
+    "updated_at": "2026-08-18T18:47:28Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6704,
+    "updated_at": "2026-08-18T18:47:10Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
+    "id": "rehan243/RAG-Enterprise-Search",
+    "language": "Python",
+    "name": "rehan243/RAG-Enterprise-Search",
+    "stars": 1,
+    "updated_at": "2026-08-18T18:45:40Z",
+    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T18:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T18:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-18T18:45:21Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-18T18:38:49Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -54,15 +135,6 @@
     "url": "https://github.com/alok-ranjan-dev/enterprise-rag-system"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T18:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Pinecone BYOC",
     "id": "pinecone-io/pulumi-pinecone-byoc",
     "language": "Python",
@@ -81,31 +153,13 @@
     "url": "https://github.com/diegoglozano/revector"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T18:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1089,
-    "updated_at": "2026-08-18T18:40:33Z",
+    "updated_at": "2026-08-18T18:49:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-18T18:33:58Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-18T18:23:35Z",
+    "updated_at": "2026-08-18T18:51:07Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -178,15 +232,6 @@
     "stars": 1425,
     "updated_at": "2026-08-18T18:10:02Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-18T18:45:21Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T17:05:58Z",
     "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-08-18T17:05:42Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-18T17:05:34Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "\ud83d\ude80 AI-powered portfolio with proactive visitor engagement \u2014 featuring Ozzy, an intelligent assistant with 12 tools, episo",
-    "id": "omerakben/omer-akben",
-    "language": "TypeScript",
-    "name": "omerakben/omer-akben",
-    "stars": 1,
-    "updated_at": "2026-08-18T17:05:25Z",
-    "url": "https://github.com/omerakben/omer-akben"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-08-18T17:03:44Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-08-18T17:03:14Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
   }
 ]
