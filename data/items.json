@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T16:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-18T16:30:10Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Pinecone BYOC",
+    "id": "pinecone-io/pulumi-pinecone-byoc",
+    "language": "Python",
+    "name": "pinecone-io/pulumi-pinecone-byoc",
+    "stars": 13,
+    "updated_at": "2026-08-18T16:28:05Z",
+    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 5,
+    "updated_at": "2026-08-18T16:24:50Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-18T16:29:27Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 256,
+    "updated_at": "2026-08-18T16:23:19Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1422,
+    "updated_at": "2026-08-18T16:22:13Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-18T16:17:07Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T16:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Multi-tenant enterprise RAG knowledge workspace built from scratch with FastAPI, PostgreSQL, Qdrant, custom chunking, em",
     "id": "batul02/enterprise-ai-workspace",
     "language": "Python",
@@ -7,6 +88,24 @@
     "stars": 0,
     "updated_at": "2026-08-18T16:14:06Z",
     "url": "https://github.com/batul02/enterprise-ai-workspace"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6212,
+    "updated_at": "2026-08-18T16:13:54Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5794,
+    "updated_at": "2026-08-18T16:13:46Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Python client SDK for YantrikDB \u2014 typed persistent memory over HTTP: remember, recall with retrieval reasons, reflection",
@@ -27,21 +126,12 @@
     "url": "https://github.com/yantrikos/langchain-yantrikdb"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T16:10:50Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-18T16:10:38Z",
+    "updated_at": "2026-08-18T16:23:48Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -68,17 +158,17 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1087,
-    "updated_at": "2026-08-18T16:07:34Z",
+    "updated_at": "2026-08-18T16:28:05Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-08-18T16:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-08-18T15:59:34Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "\ud83e\udde0 An autonomous, cognitive agent architecture & local-first assistant featuring episodic memory, tree-based JSON plannin",
@@ -95,7 +185,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-18T16:14:59Z",
+    "updated_at": "2026-08-18T16:28:38Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -122,44 +212,8 @@
     "language": "Python",
     "name": "shawnsony07/Autonomous-SRE",
     "stars": 0,
-    "updated_at": "2026-08-18T15:55:28Z",
+    "updated_at": "2026-08-18T16:28:45Z",
     "url": "https://github.com/shawnsony07/Autonomous-SRE"
-  },
-  {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 256,
-    "updated_at": "2026-08-18T15:47:30Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-18T15:46:07Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-18T16:14:13Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1421,
-    "updated_at": "2026-08-18T15:44:22Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -185,7 +239,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 842,
-    "updated_at": "2026-08-18T16:08:15Z",
+    "updated_at": "2026-08-18T16:24:15Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -203,7 +257,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-18T15:29:46Z",
+    "updated_at": "2026-08-18T16:28:30Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -223,24 +277,6 @@
     "stars": 781,
     "updated_at": "2026-08-18T15:20:07Z",
     "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-18T15:19:18Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6212,
-    "updated_at": "2026-08-18T16:13:54Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
@@ -275,7 +311,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4418,
-    "updated_at": "2026-08-18T15:39:46Z",
+    "updated_at": "2026-08-18T16:19:57Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -369,15 +405,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5792,
-    "updated_at": "2026-08-18T16:13:46Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
     "id": "MasihMoafi/Elpis",
     "language": "Rust",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T14:14:47Z",
     "url": "https://github.com/AdarshSingh-ASR/Lattice"
-  },
-  {
-    "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
-    "id": "CaviraOSS/OpenMemory",
-    "language": "TypeScript",
-    "name": "CaviraOSS/OpenMemory",
-    "stars": 4446,
-    "updated_at": "2026-08-18T14:06:59Z",
-    "url": "https://github.com/CaviraOSS/OpenMemory"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12895,
-    "updated_at": "2026-08-18T14:05:34Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "RAG-based AI assistant for retrieving and answering questions from enterprise HR policy documents.",
-    "id": "ayushoms/enterprise-hr-rag-assistant",
-    "language": "Jupyter Notebook",
-    "name": "ayushoms/enterprise-hr-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-18T13:54:12Z",
-    "url": "https://github.com/ayushoms/enterprise-hr-rag-assistant"
   }
 ]
