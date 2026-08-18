@@ -1,5 +1,50 @@
 [
   {
+    "description": "Shared, persistent vector memory over MCP \u2014 give Claude Code, Cursor, Codex, and other agents a common long-term memory ",
+    "id": "thammarongg/blueocean-vector",
+    "language": "Python",
+    "name": "thammarongg/blueocean-vector",
+    "stars": 0,
+    "updated_at": "2026-08-18T02:33:35Z",
+    "url": "https://github.com/thammarongg/blueocean-vector"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45668,
+    "updated_at": "2026-08-18T02:37:20Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Applied LLM engineering portfolio with RAG, agents, and production-oriented AI workflows",
+    "id": "oscargbocanegra/llms-engineering-main",
+    "language": "Jupyter Notebook",
+    "name": "oscargbocanegra/llms-engineering-main",
+    "stars": 2,
+    "updated_at": "2026-08-18T02:30:55Z",
+    "url": "https://github.com/oscargbocanegra/llms-engineering-main"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T02:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T02:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -16,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-08-18T02:29:10Z",
     "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
+  },
+  {
+    "description": "A hands-on LLM engineering lab \u2014 from raw OpenAI-compatible API calls to vector search, RAG, LangGraph agents, and MCP t",
+    "id": "hashemelhelo2827/Agent_lab",
+    "language": "Python",
+    "name": "hashemelhelo2827/Agent_lab",
+    "stars": 0,
+    "updated_at": "2026-08-18T02:26:46Z",
+    "url": "https://github.com/hashemelhelo2827/Agent_lab"
   },
   {
     "description": "AI-powered Q&A agent using Retrieval-Augmented Generation (RAG) to provide accurate, context-aware answers from custom k",
@@ -36,24 +90,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T02:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Shared, persistent vector memory over MCP \u2014 give Claude Code, Cursor, Codex, and other agents a common long-term memory ",
-    "id": "thammarongg/blueocean-vector",
-    "language": "Python",
-    "name": "thammarongg/blueocean-vector",
-    "stars": 0,
-    "updated_at": "2026-08-18T02:17:51Z",
-    "url": "https://github.com/thammarongg/blueocean-vector"
-  },
-  {
     "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
     "id": "yihui504/TestVDB",
     "language": "Python",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T02:15:35Z",
     "url": "https://github.com/lilee-LI/database-langchain-gaussdb-sync"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T02:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -409,7 +436,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51713,
+    "stars": 51714,
     "updated_at": "2026-08-17T21:24:42Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -421,32 +448,5 @@
     "stars": 577,
     "updated_at": "2026-08-17T21:13:54Z",
     "url": "https://github.com/hhblaze/DBreeze"
-  },
-  {
-    "description": "A high-performance Go port of nano-vectordb, a simple embeddable vector database using cosine similarity search.",
-    "id": "Rayen-Hamza/nanovec-go",
-    "language": "Go",
-    "name": "Rayen-Hamza/nanovec-go",
-    "stars": 0,
-    "updated_at": "2026-08-17T21:00:08Z",
-    "url": "https://github.com/Rayen-Hamza/nanovec-go"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4418,
-    "updated_at": "2026-08-18T01:45:41Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 2,
-    "updated_at": "2026-08-17T21:48:52Z",
-    "url": "https://github.com/rostamlabs/rostam"
   }
 ]
