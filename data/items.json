@@ -1,5 +1,59 @@
 [
   {
+    "description": "Memory that can prove itself, a CockroachDB + AWS control plane for trustworthy incident-response agents.",
+    "id": "AdarshSingh-ASR/Lattice",
+    "language": "JavaScript",
+    "name": "AdarshSingh-ASR/Lattice",
+    "stars": 0,
+    "updated_at": "2026-08-18T14:14:47Z",
+    "url": "https://github.com/AdarshSingh-ASR/Lattice"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-18T14:09:22Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34043,
+    "updated_at": "2026-08-18T14:13:41Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T14:08:18Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-18T14:15:13Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
+    "id": "CaviraOSS/OpenMemory",
+    "language": "TypeScript",
+    "name": "CaviraOSS/OpenMemory",
+    "stars": 4445,
+    "updated_at": "2026-08-18T14:06:59Z",
+    "url": "https://github.com/CaviraOSS/OpenMemory"
+  },
+  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
@@ -9,13 +63,13 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T14:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
+    "id": "MasihMoafi/Elpis",
+    "language": "Rust",
+    "name": "MasihMoafi/Elpis",
+    "stars": 41,
+    "updated_at": "2026-08-18T14:03:12Z",
+    "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-18T14:00:22Z",
+    "updated_at": "2026-08-18T14:15:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-18T14:04:19Z",
+    "updated_at": "2026-08-18T14:10:06Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -108,15 +162,6 @@
     "url": "https://github.com/edycutjong/sleeper"
   },
   {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-18T14:06:12Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
     "id": "AliZahiri/ai-rag-platform-blueprint",
     "language": "Python",
@@ -131,7 +176,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-18T13:45:33Z",
+    "updated_at": "2026-08-18T14:12:27Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 6698,
     "updated_at": "2026-08-18T13:43:10Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-18T14:08:12Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -203,7 +239,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-18T14:05:28Z",
+    "updated_at": "2026-08-18T14:13:59Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -243,15 +279,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
-    "id": "CaviraOSS/OpenMemory",
-    "language": "TypeScript",
-    "name": "CaviraOSS/OpenMemory",
-    "stars": 4445,
-    "updated_at": "2026-08-18T14:06:59Z",
-    "url": "https://github.com/CaviraOSS/OpenMemory"
-  },
-  {
     "description": "Local-first hybrid RAG for scientific PDFs: bilingual (EL/EN) Q&A with page-level citations, an anti-hallucination relev",
     "id": "kostas221/local-rag-assistant",
     "language": "Python",
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-18T14:02:45Z",
+    "updated_at": "2026-08-18T14:13:59Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -292,8 +319,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30099,
-    "updated_at": "2026-08-18T13:14:42Z",
+    "stars": 30101,
+    "updated_at": "2026-08-18T14:12:46Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T12:38:50Z",
     "url": "https://github.com/lilee-LI/database-langchain-gaussdb-sync"
-  },
-  {
-    "description": "A production-grade RAG system and neural voice assistant for low-resource Kannada literature ('Heli Hogu Kaarana'). It f",
-    "id": "Amruth011/kannada-rag-agent",
-    "language": "Python",
-    "name": "Amruth011/kannada-rag-agent",
-    "stars": 1,
-    "updated_at": "2026-08-18T12:32:28Z",
-    "url": "https://github.com/Amruth011/kannada-rag-agent"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-08-18T12:32:14Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1419,
-    "updated_at": "2026-08-18T13:44:09Z",
-    "url": "https://github.com/xerj-org/xerj"
   }
 ]
