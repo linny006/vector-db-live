@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-18T00:00:21Z",
+    "updated_at": "2026-08-18T00:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-18T00:10:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "LogosDB is the SQLite for AI Agents.",
+    "id": "jose-compu/logosdb",
+    "language": "C++",
+    "name": "jose-compu/logosdb",
+    "stars": 13,
+    "updated_at": "2026-08-18T00:10:37Z",
+    "url": "https://github.com/jose-compu/logosdb"
+  },
+  {
+    "description": "Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin.",
+    "id": "firelock-ai/kin-vector",
+    "language": "Rust",
+    "name": "firelock-ai/kin-vector",
+    "stars": 0,
+    "updated_at": "2026-08-18T00:06:32Z",
+    "url": "https://github.com/firelock-ai/kin-vector"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-17T23:57:51Z",
+    "updated_at": "2026-08-18T00:00:29Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -34,15 +61,6 @@
     "stars": 1086,
     "updated_at": "2026-08-17T23:52:33Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin.",
-    "id": "firelock-ai/kin-vector",
-    "language": "Rust",
-    "name": "firelock-ai/kin-vector",
-    "stars": 0,
-    "updated_at": "2026-08-17T23:59:40Z",
-    "url": "https://github.com/firelock-ai/kin-vector"
   },
   {
     "description": "The holographic core for leOS",
@@ -90,15 +108,6 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-17T23:38:15Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -130,7 +139,7 @@
     "id": "pinecone-io/better-rag-retrieval-marimo",
     "language": "Python",
     "name": "pinecone-io/better-rag-retrieval-marimo",
-    "stars": 3,
+    "stars": 7,
     "updated_at": "2026-08-17T23:22:47Z",
     "url": "https://github.com/pinecone-io/better-rag-retrieval-marimo"
   },
@@ -157,7 +166,7 @@
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
     "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 657,
+    "stars": 658,
     "updated_at": "2026-08-17T23:02:05Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-17T20:20:04Z",
     "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:19:39Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
   }
 ]
