@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-18T08:45:22Z",
+    "updated_at": "2026-08-18T08:52:05Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
+    "id": "lingxinmind/vecmindb-sdk",
+    "language": "Python",
+    "name": "lingxinmind/vecmindb-sdk",
+    "stars": 1,
+    "updated_at": "2026-08-18T08:46:00Z",
+    "url": "https://github.com/lingxinmind/vecmindb-sdk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T08:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-18T08:45:00Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Shared episodic memory and a globally serializable commitment plane for autonomous machines. CockroachDB distributed vec",
+    "id": "AdarshSingh-ASR/WorldLine",
+    "language": "JavaScript",
+    "name": "AdarshSingh-ASR/WorldLine",
+    "stars": 0,
+    "updated_at": "2026-08-18T08:44:42Z",
+    "url": "https://github.com/AdarshSingh-ASR/WorldLine"
   },
   {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
@@ -63,15 +99,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Shared episodic memory and a globally serializable commitment plane for autonomous machines. CockroachDB distributed vec",
-    "id": "AdarshSingh-ASR/WorldLine",
-    "language": "JavaScript",
-    "name": "AdarshSingh-ASR/WorldLine",
-    "stars": 0,
-    "updated_at": "2026-08-18T08:44:42Z",
-    "url": "https://github.com/AdarshSingh-ASR/WorldLine"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -95,17 +122,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16738,
-    "updated_at": "2026-08-18T08:37:06Z",
+    "updated_at": "2026-08-18T08:50:03Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T08:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
@@ -166,8 +184,8 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 5766,
-    "updated_at": "2026-08-18T08:19:17Z",
+    "stars": 5767,
+    "updated_at": "2026-08-18T08:49:17Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4418,
-    "updated_at": "2026-08-18T08:39:54Z",
+    "updated_at": "2026-08-18T08:53:03Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -198,21 +216,12 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-18T08:45:00Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1429,
-    "updated_at": "2026-08-18T08:27:59Z",
+    "updated_at": "2026-08-18T08:49:47Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "yihui504/TestVDB",
     "stars": 0,
-    "updated_at": "2026-08-18T07:58:28Z",
+    "updated_at": "2026-08-18T08:53:07Z",
     "url": "https://github.com/yihui504/TestVDB"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-18T08:40:49Z",
+    "updated_at": "2026-08-18T08:52:18Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9413,
-    "updated_at": "2026-08-18T08:37:50Z",
+    "updated_at": "2026-08-18T08:50:01Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 171,
     "updated_at": "2026-08-18T06:21:03Z",
     "url": "https://github.com/yantrikos/yantrikdb-server"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-08-18T05:30:06Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
   }
 ]
