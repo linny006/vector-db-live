@@ -1,11 +1,110 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "Python",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-18T13:09:28Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
+    "id": "yihui504/TestVDB",
+    "language": "Python",
+    "name": "yihui504/TestVDB",
+    "stars": 0,
+    "updated_at": "2026-08-18T13:09:09Z",
+    "url": "https://github.com/yihui504/TestVDB"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-18T13:14:49Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 5,
+    "updated_at": "2026-08-18T13:07:43Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45678,
+    "updated_at": "2026-08-18T13:07:20Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12895,
+    "updated_at": "2026-08-18T13:03:42Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Autonomous SRE Agent built on LangGraph. Orchestrates async ESP32 telemetry via MQTT, grounds LLM reasoning using Cockro",
+    "id": "shawnsony07/Autonomous-SRE",
+    "language": "Python",
+    "name": "shawnsony07/Autonomous-SRE",
+    "stars": 0,
+    "updated_at": "2026-08-18T13:03:22Z",
+    "url": "https://github.com/shawnsony07/Autonomous-SRE"
+  },
+  {
+    "description": "\ud83d\ude34 A release-gate agent whose multi-year CockroachDB memory recognises a slow-motion supply-chain takeover \u2014 the xz backd",
+    "id": "edycutjong/sleeper",
+    "language": "TypeScript",
+    "name": "edycutjong/sleeper",
+    "stars": 0,
+    "updated_at": "2026-08-18T13:03:15Z",
+    "url": "https://github.com/edycutjong/sleeper"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-08-18T13:03:03Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 339,
+    "updated_at": "2026-08-18T13:01:19Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T13:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-18T13:00:20Z",
+    "updated_at": "2026-08-18T13:15:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +113,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-18T12:58:03Z",
+    "updated_at": "2026-08-18T13:11:22Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -36,21 +135,12 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-18T12:59:08Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-18T12:57:06Z",
+    "updated_at": "2026-08-18T13:10:45Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -86,7 +176,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-18T12:59:56Z",
+    "updated_at": "2026-08-18T13:11:41Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -97,24 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-18T12:46:09Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "\ud83d\ude34 A release-gate agent whose multi-year CockroachDB memory recognises a slow-motion supply-chain takeover \u2014 the xz backd",
-    "id": "edycutjong/sleeper",
-    "language": "TypeScript",
-    "name": "edycutjong/sleeper",
-    "stars": 0,
-    "updated_at": "2026-08-18T12:46:00Z",
-    "url": "https://github.com/edycutjong/sleeper"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T12:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
@@ -180,15 +252,6 @@
     "url": "https://github.com/lilee-LI/database-langchain-gaussdb-sync"
   },
   {
-    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
-    "id": "yihui504/TestVDB",
-    "language": "Python",
-    "name": "yihui504/TestVDB",
-    "stars": 0,
-    "updated_at": "2026-08-18T12:37:23Z",
-    "url": "https://github.com/yihui504/TestVDB"
-  },
-  {
     "description": "A production-grade RAG system and neural voice assistant for low-resource Kannada literature ('Heli Hogu Kaarana'). It f",
     "id": "Amruth011/kannada-rag-agent",
     "language": "Python",
@@ -212,7 +275,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7054,
-    "updated_at": "2026-08-18T12:58:41Z",
+    "updated_at": "2026-08-18T13:11:53Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -221,7 +284,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1419,
-    "updated_at": "2026-08-18T12:47:05Z",
+    "updated_at": "2026-08-18T13:12:45Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -261,24 +324,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45677,
-    "updated_at": "2026-08-18T12:17:20Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12895,
-    "updated_at": "2026-08-18T12:14:48Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -311,7 +356,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34044,
-    "updated_at": "2026-08-18T12:51:37Z",
+    "updated_at": "2026-08-18T13:03:07Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -340,15 +385,6 @@
     "stars": 8108,
     "updated_at": "2026-08-18T12:40:09Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 339,
-    "updated_at": "2026-08-18T11:39:18Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
@@ -382,7 +418,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2496,
+    "stars": 2497,
     "updated_at": "2026-08-18T11:12:53Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T10:49:26Z",
     "url": "https://github.com/holmns/ntu-hall-for-me"
-  },
-  {
-    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
-    "id": "theogony-project/theogony",
-    "language": "Python",
-    "name": "theogony-project/theogony",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:49:05Z",
-    "url": "https://github.com/theogony-project/theogony"
-  },
-  {
-    "description": "Static vs dynamic containers, fixed vs resizable storage, date-indexed data structures, chronological data retrieval, ar",
-    "id": "jsramesh1990/BeagleBone-Black-TI-AM3358",
-    "language": "C++",
-    "name": "jsramesh1990/BeagleBone-Black-TI-AM3358",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:49:02Z",
-    "url": "https://github.com/jsramesh1990/BeagleBone-Black-TI-AM3358"
-  },
-  {
-    "description": "An intermediate RAG-powered PDF chatbot built with Streamlit, LangChain, Pinecone Vector Database, and Groq (Llama 3). F",
-    "id": "Arslan-SoftwareEngineer/RAG-PDF-Chatbot",
-    "language": "Python",
-    "name": "Arslan-SoftwareEngineer/RAG-PDF-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:47:28Z",
-    "url": "https://github.com/Arslan-SoftwareEngineer/RAG-PDF-Chatbot"
-  },
-  {
-    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
-    "id": "Parth-2004/Historical-AI-Assistant",
-    "language": "Python",
-    "name": "Parth-2004/Historical-AI-Assistant",
-    "stars": 1,
-    "updated_at": "2026-08-18T10:45:46Z",
-    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
   }
 ]
