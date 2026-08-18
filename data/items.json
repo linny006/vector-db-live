@@ -1,12 +1,12 @@
 [
   {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
     "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
+    "name": "vishalChoudhary-git/ai-platform",
     "stars": 0,
-    "updated_at": "2026-08-18T03:26:36Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
+    "updated_at": "2026-08-18T03:27:45Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -14,17 +14,26 @@
     "language": "Python",
     "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-08-18T03:26:19Z",
+    "updated_at": "2026-08-18T03:27:42Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
     "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T03:27:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
     "stars": 0,
-    "updated_at": "2026-08-18T03:27:30Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
+    "updated_at": "2026-08-18T03:26:36Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -158,7 +167,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1086,
-    "updated_at": "2026-08-18T03:19:45Z",
+    "updated_at": "2026-08-18T03:30:14Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -193,7 +202,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1424,
+    "stars": 1425,
     "updated_at": "2026-08-18T03:16:28Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -214,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T03:15:42Z",
     "url": "https://github.com/lilee-LI/database-langchain-gaussdb-sync"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T03:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
