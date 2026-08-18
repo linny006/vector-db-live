@@ -1,5 +1,32 @@
 [
   {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2054,
+    "updated_at": "2026-08-18T01:35:54Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-18T01:30:53Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T01:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,12 +36,21 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "",
+    "id": "dkylewillis/vera",
+    "language": "Python",
+    "name": "dkylewillis/vera",
+    "stars": 17,
+    "updated_at": "2026-08-18T01:34:14Z",
+    "url": "https://github.com/dkylewillis/vera"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1420,
-    "updated_at": "2026-08-18T01:23:08Z",
+    "updated_at": "2026-08-18T01:32:56Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -41,7 +77,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1086,
-    "updated_at": "2026-08-18T01:23:32Z",
+    "updated_at": "2026-08-18T01:36:17Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -49,7 +85,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64840,
+    "stars": 64841,
     "updated_at": "2026-08-18T01:16:50Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -61,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T01:15:41Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T01:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -97,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T01:10:21Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "",
-    "id": "dkylewillis/vera",
-    "language": "Python",
-    "name": "dkylewillis/vera",
-    "stars": 17,
-    "updated_at": "2026-08-18T01:30:09Z",
-    "url": "https://github.com/dkylewillis/vera"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -142,15 +160,6 @@
     "stars": 10244,
     "updated_at": "2026-08-18T01:01:09Z",
     "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-18T00:47:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -355,7 +364,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51710,
+    "stars": 51711,
     "updated_at": "2026-08-17T21:24:42Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -439,14 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-17T22:01:15Z",
     "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "RAG assisted LLM tool and vector embeddings creator for AI enrichment pipeline, to assign GS1 standard categories into m",
-    "id": "elifyagmurduran/LLMvectoRAG-product-classifier",
-    "language": "Python",
-    "name": "elifyagmurduran/LLMvectoRAG-product-classifier",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:34:54Z",
-    "url": "https://github.com/elifyagmurduran/LLMvectoRAG-product-classifier"
   }
 ]
