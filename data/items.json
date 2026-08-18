@@ -1,12 +1,102 @@
 [
   {
-    "description": "Static vs dynamic containers, fixed vs resizable storage, date-indexed data structures, chronological data retrieval, ar",
-    "id": "jsramesh1990/Storing_Fetching_Date_Indexed_Data",
-    "language": "C++",
-    "name": "jsramesh1990/Storing_Fetching_Date_Indexed_Data",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T11:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-18T10:45:42Z",
-    "url": "https://github.com/jsramesh1990/Storing_Fetching_Date_Indexed_Data"
+    "updated_at": "2026-08-18T10:58:21Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-18T10:55:53Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1879,
+    "updated_at": "2026-08-18T10:53:49Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6212,
+    "updated_at": "2026-08-18T11:00:03Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Hackathon project for students finding a place to stay on or near NTU campus",
+    "id": "holmns/ntu-hall-for-me",
+    "language": "TypeScript",
+    "name": "holmns/ntu-hall-for-me",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:49:26Z",
+    "url": "https://github.com/holmns/ntu-hall-for-me"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:49:05Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "Static vs dynamic containers, fixed vs resizable storage, date-indexed data structures, chronological data retrieval, ar",
+    "id": "jsramesh1990/BeagleBone-Black-TI-AM3358",
+    "language": "C++",
+    "name": "jsramesh1990/BeagleBone-Black-TI-AM3358",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:49:02Z",
+    "url": "https://github.com/jsramesh1990/BeagleBone-Black-TI-AM3358"
+  },
+  {
+    "description": "An intermediate RAG-powered PDF chatbot built with Streamlit, LangChain, Pinecone Vector Database, and Groq (Llama 3). F",
+    "id": "Arslan-SoftwareEngineer/RAG-PDF-Chatbot",
+    "language": "Python",
+    "name": "Arslan-SoftwareEngineer/RAG-PDF-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-08-18T10:47:28Z",
+    "url": "https://github.com/Arslan-SoftwareEngineer/RAG-PDF-Chatbot"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-18T10:46:09Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
+    "id": "Parth-2004/Historical-AI-Assistant",
+    "language": "Python",
+    "name": "Parth-2004/Historical-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-08-18T10:45:46Z",
+    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,24 +104,24 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-18T10:45:28Z",
+    "updated_at": "2026-08-18T10:45:45Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T10:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5774,
+    "updated_at": "2026-08-18T10:59:29Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1417,
+    "stars": 1418,
     "updated_at": "2026-08-18T10:44:11Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -103,27 +193,9 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34042,
+    "stars": 34043,
     "updated_at": "2026-08-18T10:40:04Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:39:20Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6212,
-    "updated_at": "2026-08-18T10:44:25Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Shared episodic memory and a globally serializable commitment plane for autonomous machines. CockroachDB distributed vec",
@@ -185,7 +257,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7054,
-    "updated_at": "2026-08-18T10:37:07Z",
+    "updated_at": "2026-08-18T10:59:08Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -214,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T10:23:50Z",
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5773,
-    "updated_at": "2026-08-18T10:45:12Z",
-    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
@@ -259,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T10:16:52Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
-    "id": "theogony-project/theogony",
-    "language": "Python",
-    "name": "theogony-project/theogony",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:16:11Z",
-    "url": "https://github.com/theogony-project/theogony"
   },
   {
     "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
@@ -329,7 +383,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-18T10:45:06Z",
+    "updated_at": "2026-08-18T10:46:19Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 45676,
     "updated_at": "2026-08-18T10:11:19Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2255,
-    "updated_at": "2026-08-18T10:10:36Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-08-18T10:10:19Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-08-18T10:09:49Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-08-18T10:09:35Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6342,
-    "updated_at": "2026-08-18T10:05:44Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-08-18T10:05:24Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
   }
 ]
