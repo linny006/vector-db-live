@@ -1,12 +1,21 @@
 [
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6212,
-    "updated_at": "2026-08-18T13:59:11Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12895,
+    "updated_at": "2026-08-18T14:05:34Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T14:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -16,6 +25,24 @@
     "stars": 2,
     "updated_at": "2026-08-18T14:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6212,
+    "updated_at": "2026-08-18T14:04:19Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "RAG-based AI assistant for retrieving and answering questions from enterprise HR policy documents.",
+    "id": "ayushoms/enterprise-hr-rag-assistant",
+    "language": "Jupyter Notebook",
+    "name": "ayushoms/enterprise-hr-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-18T13:54:12Z",
+    "url": "https://github.com/ayushoms/enterprise-hr-rag-assistant"
   },
   {
     "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
@@ -49,7 +76,7 @@
     "id": "palchandra1258-afk/Cortex-Lab",
     "language": "Python",
     "name": "palchandra1258-afk/Cortex-Lab",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-18T13:49:31Z",
     "url": "https://github.com/palchandra1258-afk/Cortex-Lab"
   },
@@ -67,7 +94,7 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 1879,
+    "stars": 1880,
     "updated_at": "2026-08-18T13:47:26Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -86,7 +113,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-18T13:47:19Z",
+    "updated_at": "2026-08-18T14:06:12Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -106,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-18T13:45:33Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T13:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI developer assistant for the Kalisio ecosystem",
@@ -139,7 +157,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6697,
+    "stars": 6698,
     "updated_at": "2026-08-18T13:43:10Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-18T13:42:47Z",
+    "updated_at": "2026-08-18T14:08:12Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -185,7 +203,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-18T13:53:25Z",
+    "updated_at": "2026-08-18T14:05:28Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -230,7 +248,7 @@
     "language": "TypeScript",
     "name": "CaviraOSS/OpenMemory",
     "stars": 4445,
-    "updated_at": "2026-08-18T13:27:30Z",
+    "updated_at": "2026-08-18T14:06:59Z",
     "url": "https://github.com/CaviraOSS/OpenMemory"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-18T13:50:15Z",
+    "updated_at": "2026-08-18T14:02:45Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -274,18 +292,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30098,
+    "stars": 30099,
     "updated_at": "2026-08-18T13:14:42Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12895,
-    "updated_at": "2026-08-18T13:58:42Z",
-    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "The AI search platform",
@@ -347,7 +356,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16740,
-    "updated_at": "2026-08-18T13:50:34Z",
+    "updated_at": "2026-08-18T14:07:50Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1419,
     "updated_at": "2026-08-18T13:44:09Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5784,
-    "updated_at": "2026-08-18T12:22:36Z",
-    "url": "https://github.com/HelixDB/helix-db"
   }
 ]
