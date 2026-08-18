@@ -1,11 +1,47 @@
 [
   {
+    "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
+    "id": "usetheoai/theodb-bench",
+    "language": "Python",
+    "name": "usetheoai/theodb-bench",
+    "stars": 0,
+    "updated_at": "2026-08-18T00:28:29Z",
+    "url": "https://github.com/usetheoai/theodb-bench"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7052,
+    "updated_at": "2026-08-18T00:24:19Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1420,
+    "updated_at": "2026-08-18T00:17:40Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T00:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-18T00:15:22Z",
+    "updated_at": "2026-08-18T00:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,15 +72,6 @@
     "url": "https://github.com/firelock-ai/kin-vector"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T00:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
     "id": "tryAGI/Pinecone",
     "language": "C#",
@@ -59,7 +86,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1086,
-    "updated_at": "2026-08-17T23:52:33Z",
+    "updated_at": "2026-08-18T00:21:22Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -99,15 +126,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1419,
-    "updated_at": "2026-08-17T23:46:24Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -139,7 +157,7 @@
     "id": "pinecone-io/better-rag-retrieval-marimo",
     "language": "Python",
     "name": "pinecone-io/better-rag-retrieval-marimo",
-    "stars": 7,
+    "stars": 9,
     "updated_at": "2026-08-17T23:22:47Z",
     "url": "https://github.com/pinecone-io/better-rag-retrieval-marimo"
   },
@@ -171,6 +189,15 @@
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34031,
+    "updated_at": "2026-08-17T22:57:49Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
     "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "Python",
@@ -198,6 +225,15 @@
     "url": "https://github.com/deven96/ahnlich"
   },
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64835,
+    "updated_at": "2026-08-17T22:30:04Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
     "id": "23skdu/longbow",
     "language": "Go",
@@ -205,15 +241,6 @@
     "stars": 13,
     "updated_at": "2026-08-17T22:26:42Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
-    "id": "usetheoai/theodb-bench",
-    "language": "Python",
-    "name": "usetheoai/theodb-bench",
-    "stars": 0,
-    "updated_at": "2026-08-17T23:51:45Z",
-    "url": "https://github.com/usetheoai/theodb-bench"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-17T21:31:29Z",
     "url": "https://github.com/AdarshSingh-ASR/WorldLine"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64834,
-    "updated_at": "2026-08-17T22:30:04Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Object storage for the AI age",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-17T20:21:26Z",
     "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-08-17T20:21:13Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 2,
-    "updated_at": "2026-08-17T20:20:04Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
   }
 ]
