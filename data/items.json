@@ -1,12 +1,57 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-18T05:26:52Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 5,
+    "updated_at": "2026-08-18T05:25:33Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1086,
+    "updated_at": "2026-08-18T05:24:50Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-18T05:15:21Z",
+    "updated_at": "2026-08-18T05:24:44Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-18T05:18:22Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T05:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6212,
-    "updated_at": "2026-08-18T05:14:19Z",
+    "updated_at": "2026-08-18T05:17:29Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-08-18T05:09:48Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T05:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
@@ -77,7 +113,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1427,
-    "updated_at": "2026-08-18T05:14:04Z",
+    "updated_at": "2026-08-18T05:16:02Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -88,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T04:39:56Z",
     "url": "https://github.com/Vyce101/VySol"
-  },
-  {
-    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 5,
-    "updated_at": "2026-08-18T04:38:51Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1086,
-    "updated_at": "2026-08-18T05:08:04Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -126,15 +144,6 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-18T04:32:51Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "A Flask-based Investment Portfolio Tracker with an agentic AI assistant. Implements layered backend architecture, portfo",
     "id": "jyothi-basu/investment-portfolio-tracker",
     "language": "Python",
@@ -149,7 +158,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-18T05:14:56Z",
+    "updated_at": "2026-08-18T05:25:07Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -160,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T04:23:40Z",
     "url": "https://github.com/arjun3037/raglite"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-18T04:23:10Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Provable, statute-compliant crypto-erasure for AI agent memory on CockroachDB and AWS",
@@ -203,7 +203,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9413,
-    "updated_at": "2026-08-18T05:07:02Z",
+    "updated_at": "2026-08-18T05:22:34Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -319,7 +319,7 @@
     "id": "CodeAbra/iai-personal-memory-engine",
     "language": "Python",
     "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 659,
+    "stars": 660,
     "updated_at": "2026-08-18T03:24:15Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },

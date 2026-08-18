@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 05:15 UTC
+> ⏰ Last updated: 2026-08-18 05:27 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,25 +42,25 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6212 | Rust | 2026-08-18 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-18 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 5 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 47 | Rust | 2026-08-18 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
-| 6 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-18 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 7 | [backblaze-b2-samples/lance-multimodal-search](https://github.com/backblaze-b2-samples/lance-multimodal-search) | 1 | TypeScript | 2026-08-18 | Multimodal semantic search over images and PDFs with no vector-database server: the LanceDB vector store and ANN index l |
-| 8 | [CogKnowEdge-Solutions/Context-Memory-Layer](https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer) | 0 | Jupyter Notebook | 2026-08-18 | A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e |
-| 9 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1427 | Rust | 2026-08-18 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 10 | [Vyce101/VySol](https://github.com/Vyce101/VySol) | 0 | Python | 2026-08-18 | GraphRAG and long-context retrieval project for large fictional-world corpora, exploring knowledge graphs, entity resolu |
-| 11 | [kherrera6219/DataLogicEngine](https://github.com/kherrera6219/DataLogicEngine) | 5 | Python | 2026-08-18 | Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T |
-| 12 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1086 | Java | 2026-08-18 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 13 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-18 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 14 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 120 | MDX | 2026-08-18 | The documentation for SurrealDB, powered by Astro |
-| 15 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-18 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 16 | [jyothi-basu/investment-portfolio-tracker](https://github.com/jyothi-basu/investment-portfolio-tracker) | 0 | Python | 2026-08-18 | A Flask-based Investment Portfolio Tracker with an agentic AI assistant. Implements layered backend architecture, portfo |
-| 17 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-18 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 18 | [arjun3037/raglite](https://github.com/arjun3037/raglite) | 0 | Java | 2026-08-18 |  |
-| 19 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-18 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 1 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-18 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 2 | [kherrera6219/DataLogicEngine](https://github.com/kherrera6219/DataLogicEngine) | 5 | Python | 2026-08-18 | Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T |
+| 3 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1086 | Java | 2026-08-18 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-18 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 7 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6212 | Rust | 2026-08-18 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-18 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 9 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 47 | Rust | 2026-08-18 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
+| 10 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 1 | JavaScript | 2026-08-18 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 11 | [backblaze-b2-samples/lance-multimodal-search](https://github.com/backblaze-b2-samples/lance-multimodal-search) | 1 | TypeScript | 2026-08-18 | Multimodal semantic search over images and PDFs with no vector-database server: the LanceDB vector store and ANN index l |
+| 12 | [CogKnowEdge-Solutions/Context-Memory-Layer](https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer) | 0 | Jupyter Notebook | 2026-08-18 | A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e |
+| 13 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1427 | Rust | 2026-08-18 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 14 | [Vyce101/VySol](https://github.com/Vyce101/VySol) | 0 | Python | 2026-08-18 | GraphRAG and long-context retrieval project for large fictional-world corpora, exploring knowledge graphs, entity resolu |
+| 15 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-18 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 16 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 120 | MDX | 2026-08-18 | The documentation for SurrealDB, powered by Astro |
+| 17 | [jyothi-basu/investment-portfolio-tracker](https://github.com/jyothi-basu/investment-portfolio-tracker) | 0 | Python | 2026-08-18 | A Flask-based Investment Portfolio Tracker with an agentic AI assistant. Implements layered backend architecture, portfo |
+| 18 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-18 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 19 | [arjun3037/raglite](https://github.com/arjun3037/raglite) | 0 | Java | 2026-08-18 |  |
 | 20 | [StephenSook/erasure-proof](https://github.com/StephenSook/erasure-proof) | 0 | Go | 2026-08-18 | Provable, statute-compliant crypto-erasure for AI agent memory on CockroachDB and AWS |
 | 21 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45671 | Go | 2026-08-18 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
 | 22 | [EkleTony/GenAI-Course-Repo](https://github.com/EkleTony/GenAI-Course-Repo) | 1 | Jupyter Notebook | 2026-08-18 | Explore a comprehensive collection of hands-on-tutorials, examples and note from the "Complete GenAI course wth Langchai |
@@ -77,7 +77,7 @@ expired items removed — so you can rely on what you see being current.
 | 33 | [Surging-scotandlot818/product-dev-blueprint](https://github.com/Surging-scotandlot818/product-dev-blueprint) | 0 | TypeScript | 2026-08-18 | Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea |
 | 34 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-08-18 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
 | 35 | [kimmywork/zlf](https://github.com/kimmywork/zlf) | 0 | Rust | 2026-08-18 | Zenith Logic Foundry 解答世间万物 |
-| 36 | [CodeAbra/iai-personal-memory-engine](https://github.com/CodeAbra/iai-personal-memory-engine) | 659 | Python | 2026-08-18 | A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time |
+| 36 | [CodeAbra/iai-personal-memory-engine](https://github.com/CodeAbra/iai-personal-memory-engine) | 660 | Python | 2026-08-18 | A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time |
 | 37 | [Tobiaszn8972/turboquant-gpu](https://github.com/Tobiaszn8972/turboquant-gpu) | 2 | Python | 2026-08-18 | Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels. |
 | 38 | [viviannenitrogenous100/mentedb](https://github.com/viviannenitrogenous100/mentedb) | 0 | — | 2026-08-18 | Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval |
 | 39 | [raymondmdzz123/agent-memory](https://github.com/raymondmdzz123/agent-memory) | 1 | TypeScript | 2026-08-18 | Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc |
