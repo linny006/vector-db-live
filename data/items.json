@@ -1,5 +1,95 @@
 [
   {
+    "description": "Autonomous SRE Agent built on LangGraph. Orchestrates async ESP32 telemetry via MQTT, grounds LLM reasoning using Cockro",
+    "id": "shawnsony07/Autonomous-SRE",
+    "language": "Python",
+    "name": "shawnsony07/Autonomous-SRE",
+    "stars": 0,
+    "updated_at": "2026-08-18T15:28:29Z",
+    "url": "https://github.com/shawnsony07/Autonomous-SRE"
+  },
+  {
+    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
+    "id": "lightonai/next-plaid",
+    "language": "Rust",
+    "name": "lightonai/next-plaid",
+    "stars": 531,
+    "updated_at": "2026-08-18T15:25:50Z",
+    "url": "https://github.com/lightonai/next-plaid"
+  },
+  {
+    "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 781,
+    "updated_at": "2026-08-18T15:20:07Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-18T15:19:18Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-18T15:29:31Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6212,
+    "updated_at": "2026-08-18T15:28:18Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-08-18T15:16:12Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-18T15:15:36Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T15:15:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T15:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -18,15 +108,6 @@
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-18T15:11:32Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
@@ -36,15 +117,6 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T15:05:46Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The official Java client for the Pinecone vector database",
     "id": "pinecone-io/pinecone-java-client",
     "language": "Java",
@@ -52,15 +124,6 @@
     "stars": 50,
     "updated_at": "2026-08-18T15:05:34Z",
     "url": "https://github.com/pinecone-io/pinecone-java-client"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6212,
-    "updated_at": "2026-08-18T15:13:48Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
@@ -81,6 +144,15 @@
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34045,
+    "updated_at": "2026-08-18T15:21:38Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -88,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-18T15:01:22Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T15:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "This repository has Fundamentals and Advanced concepts in Generative Artificial Intelligence. It has hands-on Generative",
@@ -113,17 +176,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1087,
-    "updated_at": "2026-08-18T15:01:10Z",
+    "updated_at": "2026-08-18T15:15:35Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 87,
-    "updated_at": "2026-08-18T15:15:16Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -140,7 +194,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-18T15:13:31Z",
+    "updated_at": "2026-08-18T15:24:42Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -162,21 +216,12 @@
     "url": "https://github.com/AdarshSingh-ASR/WorldLine"
   },
   {
-    "description": "Autonomous SRE Agent built on LangGraph. Orchestrates async ESP32 telemetry via MQTT, grounds LLM reasoning using Cockro",
-    "id": "shawnsony07/Autonomous-SRE",
-    "language": "Python",
-    "name": "shawnsony07/Autonomous-SRE",
-    "stars": 0,
-    "updated_at": "2026-08-18T14:39:16Z",
-    "url": "https://github.com/shawnsony07/Autonomous-SRE"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30102,
-    "updated_at": "2026-08-18T14:38:36Z",
+    "updated_at": "2026-08-18T15:27:38Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -193,7 +238,7 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 5790,
+    "stars": 5791,
     "updated_at": "2026-08-18T14:35:07Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
@@ -234,15 +279,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34044,
-    "updated_at": "2026-08-18T15:01:24Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -252,21 +288,12 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-18T14:20:30Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1420,
-    "updated_at": "2026-08-18T14:44:18Z",
+    "updated_at": "2026-08-18T15:16:09Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-18T13:25:47Z",
     "url": "https://github.com/kostas221/local-rag-assistant"
-  },
-  {
-    "description": "NextPlaid, ColGREP: Multi-vector search, from database to coding agents.",
-    "id": "lightonai/next-plaid",
-    "language": "Rust",
-    "name": "lightonai/next-plaid",
-    "stars": 531,
-    "updated_at": "2026-08-18T13:41:10Z",
-    "url": "https://github.com/lightonai/next-plaid"
-  },
-  {
-    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-08-18T14:55:58Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7054,
-    "updated_at": "2026-08-18T15:14:13Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
