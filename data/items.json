@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-18T19:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-18T19:29:46Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-18T19:27:57Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-18T19:27:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Autonomous SRE Agent built on LangGraph. Orchestrates async ESP32 telemetry via MQTT, grounds LLM reasoning using Cockro",
     "id": "shawnsony07/Autonomous-SRE",
     "language": "Python",
@@ -7,6 +43,15 @@
     "stars": 0,
     "updated_at": "2026-08-18T19:25:53Z",
     "url": "https://github.com/shawnsony07/Autonomous-SRE"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-18T19:25:48Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "A production-grade RAG system and neural voice assistant for low-resource Kannada literature ('Heli Hogu Kaarana'). It f",
@@ -27,6 +72,15 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
+    "description": "\ud83d\ude80 AI-powered portfolio with proactive visitor engagement \u2014 featuring Ozzy, an intelligent assistant with 12 tools, episo",
+    "id": "omerakben/omer-akben",
+    "language": "TypeScript",
+    "name": "omerakben/omer-akben",
+    "stars": 1,
+    "updated_at": "2026-08-18T19:18:50Z",
+    "url": "https://github.com/omerakben/omer-akben"
+  },
+  {
     "description": "Rag application in golang",
     "id": "abhiraj-ku/RaGo",
     "language": "Go",
@@ -43,24 +97,6 @@
     "stars": 9,
     "updated_at": "2026-08-18T19:17:28Z",
     "url": "https://github.com/devopam/MCPg"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-18T19:15:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-18T19:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)",
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "pathak1005/rag-arena",
     "stars": 1,
-    "updated_at": "2026-08-18T19:19:45Z",
+    "updated_at": "2026-08-18T19:28:52Z",
     "url": "https://github.com/pathak1005/rag-arena"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-18T19:00:46Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-18T18:56:36Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -205,24 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-18T18:45:40Z",
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-18T18:38:49Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-18T19:25:48Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
@@ -302,7 +311,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-18T18:56:12Z",
+    "updated_at": "2026-08-18T19:27:44Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-18T17:10:22Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-08-18T17:09:04Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
   }
 ]
