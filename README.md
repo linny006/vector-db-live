@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-18 18:00 UTC
+> ⏰ Last updated: 2026-08-18 18:02 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,28 +42,28 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | — | 2026-08-18 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 3 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35232 | Python | 2026-08-18 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 5 | [crate/crate](https://github.com/crate/crate) | 4419 | Java | 2026-08-18 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
-| 6 | [alok-ranjan-dev/enterprise-rag-system](https://github.com/alok-ranjan-dev/enterprise-rag-system) | 0 | — | 2026-08-18 | Production-grade Retrieval-Augmented Generation (RAG) system with hybrid search (BM25 + Dense Vectors), cross-encoder re |
-| 7 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 64884 | JavaScript | 2026-08-18 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-18 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 9 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1088 | Java | 2026-08-18 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 10 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-08-18 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 11 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1424 | Rust | 2026-08-18 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 12 | [rbvwolf/ms-offline-crisis-rag](https://github.com/rbvwolf/ms-offline-crisis-rag) | 0 | JavaScript | 2026-08-18 | Microsoft AI Innovators Internship Project: Offline Crisis Assistant RAG with Microsoft Foundry Local |
-| 13 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30103 | Python | 2026-08-18 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 14 | [ankush-poonia007/STARTUP-AI-AGENT](https://github.com/ankush-poonia007/STARTUP-AI-AGENT) | 5 | Python | 2026-08-18 | AI-powered startup intelligence agent — hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde |
-| 15 | [infino-ai/infino](https://github.com/infino-ai/infino) | 67 | Rust | 2026-08-18 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
-| 16 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-18 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 17 | [pathak1005/rag-arena](https://github.com/pathak1005/rag-arena) | 0 | Python | 2026-08-18 | Lexical vs Vector vs Graph RAG over one identical chunk set, with deterministic evaluation, a self-correcting LangGraph  |
-| 18 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-18 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 19 | [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag) | 256 | Python | 2026-08-18 | Local RAG MCP server for Claude Code — hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format |
-| 20 | [threefigure-achromia682/ai-memory](https://github.com/threefigure-achromia682/ai-memory) | 0 | — | 2026-08-18 |  |
-| 21 | [alegameplays14-del/leica-infinity-2026](https://github.com/alegameplays14-del/leica-infinity-2026) | 0 | — | 2026-08-18 | Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools. |
-| 22 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 3 | Python | 2026-08-18 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
+| 1 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-08-18 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 2 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 3 | Python | 2026-08-18 | RE-call — Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | — | 2026-08-18 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 6 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35233 | Python | 2026-08-18 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 7 | [crate/crate](https://github.com/crate/crate) | 4419 | Java | 2026-08-18 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
+| 8 | [alok-ranjan-dev/enterprise-rag-system](https://github.com/alok-ranjan-dev/enterprise-rag-system) | 0 | — | 2026-08-18 | Production-grade Retrieval-Augmented Generation (RAG) system with hybrid search (BM25 + Dense Vectors), cross-encoder re |
+| 9 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 64884 | JavaScript | 2026-08-18 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-18 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 11 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1088 | Java | 2026-08-18 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 12 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1424 | Rust | 2026-08-18 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 13 | [rbvwolf/ms-offline-crisis-rag](https://github.com/rbvwolf/ms-offline-crisis-rag) | 0 | JavaScript | 2026-08-18 | Microsoft AI Innovators Internship Project: Offline Crisis Assistant RAG with Microsoft Foundry Local |
+| 14 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30103 | Python | 2026-08-18 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 15 | [ankush-poonia007/STARTUP-AI-AGENT](https://github.com/ankush-poonia007/STARTUP-AI-AGENT) | 5 | Python | 2026-08-18 | AI-powered startup intelligence agent — hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde |
+| 16 | [infino-ai/infino](https://github.com/infino-ai/infino) | 67 | Rust | 2026-08-18 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
+| 17 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-18 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 18 | [pathak1005/rag-arena](https://github.com/pathak1005/rag-arena) | 0 | Python | 2026-08-18 | Lexical vs Vector vs Graph RAG over one identical chunk set, with deterministic evaluation, a self-correcting LangGraph  |
+| 19 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-18 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 20 | [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag) | 256 | Python | 2026-08-18 | Local RAG MCP server for Claude Code — hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format |
+| 21 | [threefigure-achromia682/ai-memory](https://github.com/threefigure-achromia682/ai-memory) | 0 | — | 2026-08-18 |  |
+| 22 | [alegameplays14-del/leica-infinity-2026](https://github.com/alegameplays14-del/leica-infinity-2026) | 0 | — | 2026-08-18 | Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools. |
 | 23 | [Divine-vision-visiondivine21/less-tokens](https://github.com/Divine-vision-visiondivine21/less-tokens) | 0 | — | 2026-08-18 | Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini. |
 | 24 | [retrograde-prosceniumwall239/ai-search-engine](https://github.com/retrograde-prosceniumwall239/ai-search-engine) | 1 | Python | 2026-08-18 | Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum |
 | 25 | [Wry-letters233/notes-quiz-agent](https://github.com/Wry-letters233/notes-quiz-agent) | 0 | JavaScript | 2026-08-18 | Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study. |
