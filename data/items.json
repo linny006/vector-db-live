@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-18T21:38:26Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "updated_at": "2026-08-18T21:46:39Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A high-performance hybrid graph-vector database for GraphRAG and agentic workflows, built in C++ with embedded SQLite me",
@@ -14,7 +14,7 @@
     "language": "C++",
     "name": "Omar0Gamal/AxiomGraph",
     "stars": 0,
-    "updated_at": "2026-08-18T21:34:13Z",
+    "updated_at": "2026-08-18T21:45:57Z",
     "url": "https://github.com/Omar0Gamal/AxiomGraph"
   },
   {
@@ -23,17 +23,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-18T21:30:26Z",
+    "updated_at": "2026-08-18T21:45:23Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-18T21:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-08-18T21:38:26Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -149,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1089,
-    "updated_at": "2026-08-18T21:28:19Z",
+    "updated_at": "2026-08-18T21:45:38Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
