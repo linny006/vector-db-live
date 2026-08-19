@@ -1,5 +1,77 @@
 [
   {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-19T10:28:08Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5804,
+    "updated_at": "2026-08-19T10:28:03Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Static vs dynamic containers, fixed vs resizable storage, date-indexed data structures, chronological data retrieval, ar",
+    "id": "jsramesh1990/BeagleBone-Black-TI-AM3358",
+    "language": "C++",
+    "name": "jsramesh1990/BeagleBone-Black-TI-AM3358",
+    "stars": 1,
+    "updated_at": "2026-08-19T10:26:30Z",
+    "url": "https://github.com/jsramesh1990/BeagleBone-Black-TI-AM3358"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T10:26:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-19T10:26:21Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6213,
+    "updated_at": "2026-08-19T10:26:19Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-19T10:24:46Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-19T10:22:59Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -36,21 +108,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T10:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-19T10:15:21Z",
+    "updated_at": "2026-08-19T10:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -88,15 +151,6 @@
     "stars": 7054,
     "updated_at": "2026-08-19T10:06:35Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6213,
-    "updated_at": "2026-08-19T10:26:19Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
@@ -153,15 +207,6 @@
     "url": "https://github.com/Saurabhsds13/ai-customer-support-assistant"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-19T10:24:46Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
     "id": "theogony-project/theogony",
     "language": "Python",
@@ -180,13 +225,13 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-19T09:49:08Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11191,
+    "updated_at": "2026-08-19T09:42:01Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -203,7 +248,7 @@
     "language": "HTML",
     "name": "al7o/DocuMind-AI-Engine",
     "stars": 1,
-    "updated_at": "2026-08-19T09:34:46Z",
+    "updated_at": "2026-08-19T10:29:12Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4421,
-    "updated_at": "2026-08-19T10:26:00Z",
+    "updated_at": "2026-08-19T10:30:20Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 3,
     "updated_at": "2026-08-19T10:25:33Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-19T10:26:21Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
@@ -288,15 +324,6 @@
     "url": "https://github.com/Ajitesh-Tamrakar/Internet-Expedition"
   },
   {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5803,
-    "updated_at": "2026-08-19T10:26:18Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "qdrant/vector-db-benchmark",
     "stars": 368,
-    "updated_at": "2026-08-19T08:37:42Z",
+    "updated_at": "2026-08-19T10:29:04Z",
     "url": "https://github.com/qdrant/vector-db-benchmark"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11190,
-    "updated_at": "2026-08-19T09:42:01Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-19T07:54:00Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "\u26a1\ufe0fLightning fast in-memory VectorDB written in rust\ud83e\udd80",
-    "id": "KevKibe/memvectordb",
-    "language": "Rust",
-    "name": "KevKibe/memvectordb",
-    "stars": 31,
-    "updated_at": "2026-08-19T07:34:19Z",
-    "url": "https://github.com/KevKibe/memvectordb"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2522,
-    "updated_at": "2026-08-19T07:32:26Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   }
 ]
