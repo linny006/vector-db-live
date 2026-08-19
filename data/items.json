@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1880,
+    "updated_at": "2026-08-19T14:47:41Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T14:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T15:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2256,
+    "updated_at": "2026-08-19T14:44:30Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-19T14:43:58Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
     "id": "thameema/memnos",
     "language": "Python",
@@ -9,6 +54,15 @@
     "url": "https://github.com/thameema/memnos"
   },
   {
+    "description": "AI \u9762\u8bd5\u8bad\u7ec3\u7cfb\u7edf\uff1a\u8de8\u4f1a\u8bdd\u80fd\u529b\u5efa\u6a21\u95ed\u73af \u2014 LangGraph \u7f16\u6392 + \u4e09\u5c42\u4e0a\u4e0b\u6587\u878d\u5408\u51fa\u9898 + Mem0 \u5f0f\u753b\u50cf\u66f4\u65b0 + RAG \u77e5\u8bc6\u589e\u5f3a + SM-2 \u590d\u4e60\u8c03\u5ea6\u3002FastAPI \u00b7 React 19 \u00b7 LlamaIndex \u00b7 Qdr",
+    "id": "Lxiny-zy/SparkOffer",
+    "language": "Python",
+    "name": "Lxiny-zy/SparkOffer",
+    "stars": 10,
+    "updated_at": "2026-08-19T14:39:39Z",
+    "url": "https://github.com/Lxiny-zy/SparkOffer"
+  },
+  {
     "description": "GPU-VRAM-sized local AI/creative stack - Ollama, Open WebUI, ComfyUI/InvokeAI, plus GPU-free RAG/voice/n8n - tailored to",
     "id": "Cyb3rRon1n/anvil",
     "language": "Python",
@@ -16,6 +70,24 @@
     "stars": 0,
     "updated_at": "2026-08-19T14:39:32Z",
     "url": "https://github.com/Cyb3rRon1n/anvil"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30117,
+    "updated_at": "2026-08-19T14:37:36Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-19T14:34:24Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
@@ -36,13 +108,13 @@
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T14:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-19T14:31:11Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -59,17 +131,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6215,
-    "updated_at": "2026-08-19T14:35:53Z",
+    "updated_at": "2026-08-19T14:55:36Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T14:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -86,7 +149,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 64913,
-    "updated_at": "2026-08-19T14:42:18Z",
+    "updated_at": "2026-08-19T14:45:58Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -140,7 +203,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35246,
-    "updated_at": "2026-08-19T14:18:56Z",
+    "updated_at": "2026-08-19T14:57:25Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -167,7 +230,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-19T14:34:38Z",
+    "updated_at": "2026-08-19T14:59:17Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -180,20 +243,11 @@
     "url": "https://github.com/mudassirshahzad/project-eka"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-19T14:43:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2526,
+    "stars": 2527,
     "updated_at": "2026-08-19T14:10:56Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -212,7 +266,7 @@
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 3,
-    "updated_at": "2026-08-19T14:40:23Z",
+    "updated_at": "2026-08-19T14:50:27Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
@@ -232,15 +286,6 @@
     "stars": 10,
     "updated_at": "2026-08-19T14:04:10Z",
     "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1880,
-    "updated_at": "2026-08-19T14:01:36Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
@@ -270,15 +315,6 @@
     "url": "https://github.com/yp3y5akh0v/citadel"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-19T14:34:24Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
     "id": "hhblaze/DBreeze",
     "language": "C#",
@@ -286,15 +322,6 @@
     "stars": 578,
     "updated_at": "2026-08-19T13:43:10Z",
     "url": "https://github.com/hhblaze/DBreeze"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-19T14:31:11Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "AI developer assistant for the Kalisio ecosystem",
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6723,
-    "updated_at": "2026-08-19T13:39:23Z",
+    "updated_at": "2026-08-19T14:48:32Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30115,
-    "updated_at": "2026-08-19T14:37:36Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Zilliz Cloud is the managed vector database service built by the Milvus maintainers. It exposes a Control Plane API for ",
     "id": "api-evangelist/zilliz",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T12:59:04Z",
     "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "Upstash provides serverless data platforms including managed Redis, Kafka, QStash messaging, and Vector databases optimi",
-    "id": "api-evangelist/upstash",
-    "language": "\u2014",
-    "name": "api-evangelist/upstash",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:58:29Z",
-    "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "Real-time external memory and cognitive continuity layer for LLMs, autonomous agents, and model pretraining workflows. B",
-    "id": "adi6206096675/Enx",
-    "language": "Python",
-    "name": "adi6206096675/Enx",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:57:10Z",
-    "url": "https://github.com/adi6206096675/Enx"
   }
 ]
