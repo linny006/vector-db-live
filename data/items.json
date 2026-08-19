@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T17:49:11Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A privacy-first, zero-data-training RAG application powered by FastAPI, React, ChromaDB hybrid search (BM25 + Dense Vect",
+    "id": "Sudhanshub27/rag-system",
+    "language": "Python",
+    "name": "Sudhanshub27/rag-system",
+    "stars": 1,
+    "updated_at": "2026-08-19T17:47:51Z",
+    "url": "https://github.com/Sudhanshub27/rag-system"
+  },
+  {
+    "description": "Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)",
+    "id": "mirkobozzetto/flowflow",
+    "language": "Rust",
+    "name": "mirkobozzetto/flowflow",
+    "stars": 163,
+    "updated_at": "2026-08-19T17:45:57Z",
+    "url": "https://github.com/mirkobozzetto/flowflow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T17:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Production RAG pipeline with ChromaDB vector search, PDF chunking, citation provenance, and Groq cloud fallback.",
+    "id": "sujit6666/rag-with-proof",
+    "language": "Python",
+    "name": "sujit6666/rag-with-proof",
+    "stars": 0,
+    "updated_at": "2026-08-19T17:44:38Z",
+    "url": "https://github.com/sujit6666/rag-with-proof"
+  },
+  {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
     "id": "Cognipeer/console",
     "language": "TypeScript",
@@ -7,6 +52,15 @@
     "stars": 23,
     "updated_at": "2026-08-19T17:43:43Z",
     "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
+    "id": "onlyarnav/nimbus-db",
+    "language": "Go",
+    "name": "onlyarnav/nimbus-db",
+    "stars": 1,
+    "updated_at": "2026-08-19T17:42:53Z",
+    "url": "https://github.com/onlyarnav/nimbus-db"
   },
   {
     "description": "Local AI server with persistent memory, RAG, and multi-backend inference (MLX / llama.cpp / Ollama). Runs entirely on yo",
@@ -27,22 +81,22 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
+    "description": "Production-ready Voice RAG pipeline featuring ElevenLabs Scribe STT, hybrid RRF retrieval, guardrails, and <200ms ground",
+    "id": "VasaraSujal/Hacker-House-GOA-Task-2",
+    "language": "Python",
+    "name": "VasaraSujal/Hacker-House-GOA-Task-2",
+    "stars": 0,
+    "updated_at": "2026-08-19T17:38:11Z",
+    "url": "https://github.com/VasaraSujal/Hacker-House-GOA-Task-2"
+  },
+  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-19T17:38:06Z",
+    "updated_at": "2026-08-19T17:49:46Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "A privacy-first, zero-data-training RAG application powered by FastAPI, React, ChromaDB hybrid search (BM25 + Dense Vect",
-    "id": "Sudhanshub27/rag-system",
-    "language": "Python",
-    "name": "Sudhanshub27/rag-system",
-    "stars": 1,
-    "updated_at": "2026-08-19T17:36:02Z",
-    "url": "https://github.com/Sudhanshub27/rag-system"
   },
   {
     "description": "\ud83d\udd25\ud83d\udcda Fully-local multimodal RAG for Apple Silicon. Ollama + MinerU + LightRAG. Zero API cost, zero data leaving your Mac.",
@@ -79,24 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T17:33:17Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T17:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T17:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -180,24 +216,6 @@
     "url": "https://github.com/kjgpta/vectorsmith"
   },
   {
-    "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
-    "id": "onlyarnav/nimbus-db",
-    "language": "Go",
-    "name": "onlyarnav/nimbus-db",
-    "stars": 1,
-    "updated_at": "2026-08-19T17:42:53Z",
-    "url": "https://github.com/onlyarnav/nimbus-db"
-  },
-  {
-    "description": "Production-ready Voice RAG pipeline featuring ElevenLabs Scribe STT, hybrid RRF retrieval, guardrails, and <200ms ground",
-    "id": "VasaraSujal/Hacker-House-GOA-Task-2",
-    "language": "Python",
-    "name": "VasaraSujal/Hacker-House-GOA-Task-2",
-    "stars": 0,
-    "updated_at": "2026-08-19T17:38:11Z",
-    "url": "https://github.com/VasaraSujal/Hacker-House-GOA-Task-2"
-  },
-  {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
     "id": "inlaySQL/inlaysql",
     "language": "Rust",
@@ -257,7 +275,7 @@
     "language": "Rust",
     "name": "skegdb/skeg",
     "stars": 33,
-    "updated_at": "2026-08-19T17:43:18Z",
+    "updated_at": "2026-08-19T17:46:12Z",
     "url": "https://github.com/skegdb/skeg"
   },
   {
@@ -405,20 +423,11 @@
     "url": "https://github.com/run-llama/llama_index"
   },
   {
-    "description": "Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)",
-    "id": "mirkobozzetto/flowflow",
-    "language": "Rust",
-    "name": "mirkobozzetto/flowflow",
-    "stars": 163,
-    "updated_at": "2026-08-19T17:45:17Z",
-    "url": "https://github.com/mirkobozzetto/flowflow"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30120,
+    "stars": 30121,
     "updated_at": "2026-08-19T16:09:58Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-19T16:03:37Z",
     "url": "https://github.com/anhmtk/StillMe-Learning-AI-System-RAG-Foundation"
-  },
-  {
-    "description": "A suite of WAL-based embedded data stores. RDBMS, KV Store, GraphStore, VectorStore, Columnar and more",
-    "id": "openpeeps/boogie",
-    "language": "Nim",
-    "name": "openpeeps/boogie",
-    "stars": 6,
-    "updated_at": "2026-08-19T16:03:26Z",
-    "url": "https://github.com/openpeeps/boogie"
   }
 ]
