@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T22:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Postgres MCP Server",
+    "id": "devopam/MCPg",
+    "language": "Python",
+    "name": "devopam/MCPg",
+    "stars": 9,
+    "updated_at": "2026-08-19T21:58:42Z",
+    "url": "https://github.com/devopam/MCPg"
+  },
+  {
+    "description": "A Retrieval-Augmented Generation (RAG) application for chatting with PDFs and text files locally, featuring a Streamlit ",
+    "id": "Amr-Moussa-Ibrahim/ai-document-chat",
+    "language": "Python",
+    "name": "Amr-Moussa-Ibrahim/ai-document-chat",
+    "stars": 0,
+    "updated_at": "2026-08-19T21:54:27Z",
+    "url": "https://github.com/Amr-Moussa-Ibrahim/ai-document-chat"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-19T21:50:48Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 784,
+    "updated_at": "2026-08-19T21:45:54Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-19T21:45:47Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T21:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A multi-stage LLM pipeline for aptitude-driven job search, career targeting, and search strategy generation.",
+    "id": "mattburnett-repo/aptitude-search",
+    "language": "Python",
+    "name": "mattburnett-repo/aptitude-search",
+    "stars": 0,
+    "updated_at": "2026-08-19T21:45:15Z",
+    "url": "https://github.com/mattburnett-repo/aptitude-search"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -9,15 +81,6 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T21:40:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -25,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T21:39:23Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T21:39:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Document-first sqlite3+faiss vector database",
@@ -99,15 +153,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-19T21:24:21Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -131,7 +176,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6346,
-    "updated_at": "2026-08-19T21:34:29Z",
+    "updated_at": "2026-08-19T21:52:21Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -158,17 +203,8 @@
     "language": "TypeScript",
     "name": "RaptorAssassin/smart-file-search",
     "stars": 0,
-    "updated_at": "2026-08-19T21:05:51Z",
+    "updated_at": "2026-08-19T21:48:35Z",
     "url": "https://github.com/RaptorAssassin/smart-file-search"
-  },
-  {
-    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 784,
-    "updated_at": "2026-08-19T21:42:38Z",
-    "url": "https://github.com/christopherkarani/Wax"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -185,7 +221,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1091,
-    "updated_at": "2026-08-19T21:40:25Z",
+    "updated_at": "2026-08-19T21:58:49Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -225,15 +261,6 @@
     "url": "https://github.com/nacre-work/nacre"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-19T20:36:07Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
@@ -252,6 +279,15 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6729,
+    "updated_at": "2026-08-19T20:24:54Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
     "id": "theogony-project/theogony",
     "language": "Python",
@@ -268,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T20:20:02Z",
     "url": "https://github.com/itsamanmanik/travel-planning-agent"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6728,
-    "updated_at": "2026-08-19T20:24:54Z",
-    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -421,32 +448,5 @@
     "stars": 29123,
     "updated_at": "2026-08-19T19:37:03Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8113,
-    "updated_at": "2026-08-19T21:43:29Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 23,
-    "updated_at": "2026-08-19T19:20:40Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
-    "id": "api-evangelist/objectbox",
-    "language": "\u2014",
-    "name": "api-evangelist/objectbox",
-    "stars": 0,
-    "updated_at": "2026-08-19T19:19:23Z",
-    "url": "https://github.com/api-evangelist/objectbox"
   }
 ]
