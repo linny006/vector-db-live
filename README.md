@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-19 09:00 UTC
+> ⏰ Last updated: 2026-08-19 09:03 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [KonNik88/ml-research-radar](https://github.com/KonNik88/ml-research-radar) | 3 | Python | 2026-08-19 | Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos — with an experimental NVIDIA UDR |
-| 2 | [kwhorne/ElyraSQL](https://github.com/kwhorne/ElyraSQL) | 3 | Rust | 2026-08-19 | A robust, MySQL-compatible SQL server in Rust — single ACID file, vector search (HNSW), and parallel OLAP. |
-| 3 | [Ajitesh-Tamrakar/Internet-Expedition](https://github.com/Ajitesh-Tamrakar/Internet-Expedition) | 1 | JavaScript | 2026-08-19 | Save anything online — videos, tweets, pins, articles — and find it later just by describing what you remember. Works ac |
-| 4 | [HelixDB/helix-db](https://github.com/HelixDB/helix-db) | 5803 | Rust | 2026-08-19 | HelixDB is an OLTP graph-vector database built in Rust on Object Storage. |
-| 5 | [Saurabhsds13/ai-customer-support-assistant](https://github.com/Saurabhsds13/ai-customer-support-assistant) | 0 | Java | 2026-08-19 | Production-style AI-powered customer support assistant built with Java, Spring Boot, Spring AI, RAG, vector search, and  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [KonNik88/ml-research-radar](https://github.com/KonNik88/ml-research-radar) | 3 | Python | 2026-08-19 | Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos — with an experimental NVIDIA UDR |
+| 4 | [kwhorne/ElyraSQL](https://github.com/kwhorne/ElyraSQL) | 3 | Rust | 2026-08-19 | A robust, MySQL-compatible SQL server in Rust — single ACID file, vector search (HNSW), and parallel OLAP. |
+| 5 | [Ajitesh-Tamrakar/Internet-Expedition](https://github.com/Ajitesh-Tamrakar/Internet-Expedition) | 1 | JavaScript | 2026-08-19 | Save anything online — videos, tweets, pins, articles — and find it later just by describing what you remember. Works ac |
+| 6 | [HelixDB/helix-db](https://github.com/HelixDB/helix-db) | 5803 | Rust | 2026-08-19 | HelixDB is an OLTP graph-vector database built in Rust on Object Storage. |
+| 7 | [Saurabhsds13/ai-customer-support-assistant](https://github.com/Saurabhsds13/ai-customer-support-assistant) | 0 | Java | 2026-08-19 | Production-style AI-powered customer support assistant built with Java, Spring Boot, Spring AI, RAG, vector search, and  |
 | 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-19 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 9 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30113 | Python | 2026-08-19 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 10 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-19 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |

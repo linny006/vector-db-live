@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T09:02:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T09:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
     "id": "KonNik88/ml-research-radar",
     "language": "Python",
@@ -43,24 +61,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T08:54:19Z",
     "url": "https://github.com/Saurabhsds13/ai-customer-support-assistant"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T08:53:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T08:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -203,7 +203,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6213,
-    "updated_at": "2026-08-19T09:00:11Z",
+    "updated_at": "2026-08-19T09:00:31Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -212,7 +212,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4421,
-    "updated_at": "2026-08-19T08:56:24Z",
+    "updated_at": "2026-08-19T09:03:18Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -230,7 +230,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8111,
-    "updated_at": "2026-08-19T08:06:30Z",
+    "updated_at": "2026-08-19T09:02:54Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
