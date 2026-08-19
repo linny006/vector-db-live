@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-19T19:08:54Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T19:08:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
     "id": "mdhabibi/llm-search-handbook",
     "language": "Jupyter Notebook",
@@ -7,6 +25,15 @@
     "stars": 0,
     "updated_at": "2026-08-19T19:07:45Z",
     "url": "https://github.com/mdhabibi/llm-search-handbook"
+  },
+  {
+    "description": "Marqo is an open-source, multimodal vector search engine that lets developers index text and images, generate embeddings",
+    "id": "api-evangelist/marqo",
+    "language": "\u2014",
+    "name": "api-evangelist/marqo",
+    "stars": 0,
+    "updated_at": "2026-08-19T19:07:43Z",
+    "url": "https://github.com/api-evangelist/marqo"
   },
   {
     "description": "The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le",
@@ -45,21 +72,12 @@
     "url": "https://github.com/frogdb/frogdb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T19:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1461,
-    "updated_at": "2026-08-19T19:00:05Z",
+    "stars": 1462,
+    "updated_at": "2026-08-19T19:14:31Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -104,7 +122,7 @@
     "language": "\u2014",
     "name": "2B-4G10/NoLockQS",
     "stars": 0,
-    "updated_at": "2026-08-19T19:00:29Z",
+    "updated_at": "2026-08-19T19:10:31Z",
     "url": "https://github.com/2B-4G10/NoLockQS"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T18:45:14Z",
     "url": "https://github.com/api-evangelist/gel-data"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-19T18:44:47Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -284,7 +293,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8113,
-    "updated_at": "2026-08-19T18:32:11Z",
+    "updated_at": "2026-08-19T19:15:18Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6215,
-    "updated_at": "2026-08-19T18:53:05Z",
+    "updated_at": "2026-08-19T19:10:54Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T18:09:18Z",
     "url": "https://github.com/api-evangelist/azure-cosmos-db"
-  },
-  {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-19T18:49:10Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   }
 ]
