@@ -1,11 +1,47 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-19T13:41:49Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7055,
+    "updated_at": "2026-08-19T13:36:17Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-19T13:35:00Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-19T13:32:29Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-19T13:30:27Z",
+    "updated_at": "2026-08-19T13:31:30Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -18,6 +54,15 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-19T13:27:00Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
     "description": "An AI-powered conversational application built with Next.js, LangChain, LangGraph, and OpenAI, featuring an agent-based ",
     "id": "PalwinderSinghPaali/langchain-integrated-ai-chatbot",
     "language": "TypeScript",
@@ -27,12 +72,21 @@
     "url": "https://github.com/PalwinderSinghPaali/langchain-integrated-ai-chatbot"
   },
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-19T13:21:42Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
     "id": "varun29ankuS/shodh-redb",
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 5,
-    "updated_at": "2026-08-19T13:21:40Z",
+    "updated_at": "2026-08-19T13:43:04Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T13:21:13Z",
     "url": "https://github.com/onlyarnav/nimbus-db"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-19T13:21:42Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -112,7 +157,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30113,
+    "stars": 30114,
     "updated_at": "2026-08-19T13:09:36Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -180,15 +225,6 @@
     "url": "https://github.com/adi6206096675/Enx"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7055,
-    "updated_at": "2026-08-19T13:26:18Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -239,17 +275,8 @@
     "language": "HTML",
     "name": "al7o/DocuMind-AI-Engine",
     "stars": 1,
-    "updated_at": "2026-08-19T12:48:20Z",
+    "updated_at": "2026-08-19T13:44:21Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-19T12:43:56Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T12:42:13Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-19T12:41:56Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
@@ -428,25 +446,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6214,
-    "updated_at": "2026-08-19T13:30:43Z",
+    "updated_at": "2026-08-19T13:45:21Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
-    "id": "Parth-2004/Historical-AI-Assistant",
-    "language": "Python",
-    "name": "Parth-2004/Historical-AI-Assistant",
-    "stars": 1,
-    "updated_at": "2026-08-19T12:24:30Z",
-    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-19T12:19:51Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
