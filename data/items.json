@@ -1,12 +1,147 @@
 [
   {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 2,
+    "updated_at": "2026-08-19T14:43:55Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "GPU-VRAM-sized local AI/creative stack - Ollama, Open WebUI, ComfyUI/InvokeAI, plus GPU-free RAG/voice/n8n - tailored to",
+    "id": "Cyb3rRon1n/anvil",
+    "language": "Python",
+    "name": "Cyb3rRon1n/anvil",
+    "stars": 0,
+    "updated_at": "2026-08-19T14:39:32Z",
+    "url": "https://github.com/Cyb3rRon1n/anvil"
+  },
+  {
+    "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
+    "id": "kovartravis/neuron",
+    "language": "TypeScript",
+    "name": "kovartravis/neuron",
+    "stars": 3,
+    "updated_at": "2026-08-19T14:34:11Z",
+    "url": "https://github.com/kovartravis/neuron"
+  },
+  {
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 5,
+    "updated_at": "2026-08-19T14:33:46Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-19T14:30:23Z",
+    "updated_at": "2026-08-19T14:45:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-19T14:30:56Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6215,
+    "updated_at": "2026-08-19T14:35:53Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T14:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 842,
+    "updated_at": "2026-08-19T14:30:15Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64913,
+    "updated_at": "2026-08-19T14:42:18Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-19T14:27:09Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Local AI server with persistent memory, RAG, and multi-backend inference (MLX / llama.cpp / Ollama). Runs entirely on yo",
+    "id": "jgoy-labs/server-nexe",
+    "language": "Python",
+    "name": "jgoy-labs/server-nexe",
+    "stars": 10,
+    "updated_at": "2026-08-19T14:24:26Z",
+    "url": "https://github.com/jgoy-labs/server-nexe"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1090,
+    "updated_at": "2026-08-19T14:24:22Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-19T14:21:14Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 226,
+    "updated_at": "2026-08-19T14:20:08Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35246,
+    "updated_at": "2026-08-19T14:18:56Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -16,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T14:17:35Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T14:17:08Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -41,7 +167,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-19T14:14:20Z",
+    "updated_at": "2026-08-19T14:34:38Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -59,7 +185,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-19T14:12:29Z",
+    "updated_at": "2026-08-19T14:43:58Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -72,12 +198,21 @@
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
+    "description": "Voice-first note-taking app with AI transcription, embeddings, Qdrant vector search, and semantic search.",
+    "id": "Goldmanski/voice-recall",
+    "language": "Python",
+    "name": "Goldmanski/voice-recall",
+    "stars": 0,
+    "updated_at": "2026-08-19T14:10:18Z",
+    "url": "https://github.com/Goldmanski/voice-recall"
+  },
+  {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
     "id": "kwhorne/ElyraSQL",
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 3,
-    "updated_at": "2026-08-19T14:09:07Z",
+    "updated_at": "2026-08-19T14:40:23Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
@@ -88,24 +223,6 @@
     "stars": 222,
     "updated_at": "2026-08-19T14:06:55Z",
     "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64913,
-    "updated_at": "2026-08-19T14:28:26Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35246,
-    "updated_at": "2026-08-19T14:18:56Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Jigen DB is vector database written from scratch in c#",
@@ -144,24 +261,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-19T13:54:50Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6215,
-    "updated_at": "2026-08-19T14:23:59Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Local-first encrypted memory for AI agents",
     "id": "yp3y5akh0v/citadel",
     "language": "Rust",
@@ -171,30 +270,12 @@
     "url": "https://github.com/yp3y5akh0v/citadel"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1090,
-    "updated_at": "2026-08-19T14:24:22Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
-    "id": "varun29ankuS/shodh-redb",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-redb",
-    "stars": 5,
-    "updated_at": "2026-08-19T14:28:55Z",
-    "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
     "name": "al7o/DocuMind-AI-Engine",
     "stars": 1,
-    "updated_at": "2026-08-19T13:44:21Z",
+    "updated_at": "2026-08-19T14:34:24Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
@@ -212,7 +293,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-19T13:41:49Z",
+    "updated_at": "2026-08-19T14:31:11Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -241,15 +322,6 @@
     "stars": 7055,
     "updated_at": "2026-08-19T14:04:24Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-19T14:21:14Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -297,12 +369,21 @@
     "url": "https://github.com/vidhyawalke/RAG-PDF-Assistant"
   },
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11195,
+    "updated_at": "2026-08-19T13:13:34Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4421,
-    "updated_at": "2026-08-19T14:08:36Z",
+    "updated_at": "2026-08-19T14:40:14Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -311,17 +392,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30115,
-    "updated_at": "2026-08-19T13:55:38Z",
+    "updated_at": "2026-08-19T14:37:36Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11194,
-    "updated_at": "2026-08-19T13:13:34Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Zilliz Cloud is the managed vector database service built by the Milvus maintainers. It exposes a Control Plane API for ",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T12:57:10Z",
     "url": "https://github.com/adi6206096675/Enx"
-  },
-  {
-    "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:54:12Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
-    "id": "api-evangelist/sequoiadb",
-    "language": "\u2014",
-    "name": "api-evangelist/sequoiadb",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:50:51Z",
-    "url": "https://github.com/api-evangelist/sequoiadb"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45696,
-    "updated_at": "2026-08-19T12:49:25Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
-    "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:42:13Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
-  },
-  {
-    "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
-    "id": "api-evangelist/objectbox",
-    "language": "\u2014",
-    "name": "api-evangelist/objectbox",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:41:20Z",
-    "url": "https://github.com/api-evangelist/objectbox"
-  },
-  {
-    "description": "Nomic AI builds open and accessible AI infrastructure. The company is known for the open-source Nomic Embed family (nomi",
-    "id": "api-evangelist/nomic-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/nomic-ai",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:40:44Z",
-    "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "MyScale is a SQL vector database built on a ClickHouse fork (MyScaleDB), combining high-performance vector search, full-",
-    "id": "api-evangelist/myscale",
-    "language": "\u2014",
-    "name": "api-evangelist/myscale",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:39:30Z",
-    "url": "https://github.com/api-evangelist/myscale"
-  },
-  {
-    "description": "Mixedbread is a Berlin-based AI search and retrieval platform. It provides embeddings (mxbai-embed, Wholembed v3), reran",
-    "id": "api-evangelist/mixedbread-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/mixedbread-ai",
-    "stars": 1,
-    "updated_at": "2026-08-19T12:38:35Z",
-    "url": "https://github.com/api-evangelist/mixedbread-ai"
   }
 ]
