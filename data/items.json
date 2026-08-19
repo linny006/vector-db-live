@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T02:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 226,
+    "updated_at": "2026-08-19T02:15:18Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1089,
+    "updated_at": "2026-08-19T02:14:45Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-19T02:09:59Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A federated retrieval router over four stores -- vector, graph, full-text and relational -- that measures the ROUTING DE",
+    "id": "jkelly-dev1/federated-retrieval-router",
+    "language": "Python",
+    "name": "jkelly-dev1/federated-retrieval-router",
+    "stars": 0,
+    "updated_at": "2026-08-19T02:08:18Z",
+    "url": "https://github.com/jkelly-dev1/federated-retrieval-router"
+  },
+  {
+    "description": "A data-boundary proxy for AI systems that measures what its own controls miss: PII detection with recall below 1.0, egre",
+    "id": "jkelly-dev1/ai-data-boundary-proxy",
+    "language": "Python",
+    "name": "jkelly-dev1/ai-data-boundary-proxy",
+    "stars": 0,
+    "updated_at": "2026-08-19T02:08:08Z",
+    "url": "https://github.com/jkelly-dev1/ai-data-boundary-proxy"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-19T02:06:20Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "\ud83d\udc15 Sniffs out the lease clauses that shouldn't be there \u2014 WA tenant-law RAG: clause-by-clause scan reports with statute c",
+    "id": "tywangq/leasehound",
+    "language": "Python",
+    "name": "tywangq/leasehound",
+    "stars": 2,
+    "updated_at": "2026-08-19T02:01:38Z",
+    "url": "https://github.com/tywangq/leasehound"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T02:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
     "id": "SuperInstance/SuperInstance",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6344,
-    "updated_at": "2026-08-19T02:00:04Z",
+    "updated_at": "2026-08-19T02:11:10Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -23,7 +104,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11188,
-    "updated_at": "2026-08-19T01:59:30Z",
+    "updated_at": "2026-08-19T02:09:48Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -41,44 +122,17 @@
     "language": "Python",
     "name": "thomas-villani/localvectordb",
     "stars": 2,
-    "updated_at": "2026-08-19T01:53:41Z",
+    "updated_at": "2026-08-19T02:08:09Z",
     "url": "https://github.com/thomas-villani/localvectordb"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T02:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T01:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45680,
+    "stars": 45681,
     "updated_at": "2026-08-19T01:40:38Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "\ud83d\udc15 Sniffs out the lease clauses that shouldn't be there \u2014 WA tenant-law RAG: clause-by-clause scan reports with statute c",
-    "id": "tywangq/leasehound",
-    "language": "Python",
-    "name": "tywangq/leasehound",
-    "stars": 2,
-    "updated_at": "2026-08-19T01:40:08Z",
-    "url": "https://github.com/tywangq/leasehound"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-19T01:31:06Z",
+    "updated_at": "2026-08-19T02:13:31Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -124,15 +178,6 @@
     "stars": 171,
     "updated_at": "2026-08-19T01:22:42Z",
     "url": "https://github.com/yantrikos/yantrikdb-server"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 225,
-    "updated_at": "2026-08-19T01:53:02Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
@@ -169,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T01:37:12Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 87,
-    "updated_at": "2026-08-19T01:26:19Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -234,15 +270,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1089,
-    "updated_at": "2026-08-19T01:05:03Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Pinecone BYOC",
     "id": "pinecone-io/pulumi-pinecone-byoc",
     "language": "Python",
@@ -295,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T00:33:21Z",
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-19T00:32:07Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-19T00:20:44Z",
     "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-08-19T00:20:39Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
-    "id": "yantrikos/yantrikdb-mcp",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-mcp",
-    "stars": 24,
-    "updated_at": "2026-08-19T00:19:35Z",
-    "url": "https://github.com/yantrikos/yantrikdb-mcp"
   }
 ]
