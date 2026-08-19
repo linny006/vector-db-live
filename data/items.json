@@ -1,12 +1,84 @@
 [
   {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-19T16:54:31Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "[DuckDB \u2022 Vectors \u2022 RAG] High-throughput semantic vector pipeline and hybrid lakehouse for sub-second document intellige",
+    "id": "Wardlexy/ai-vector-lakehouse",
+    "language": "Python",
+    "name": "Wardlexy/ai-vector-lakehouse",
+    "stars": 0,
+    "updated_at": "2026-08-19T16:53:24Z",
+    "url": "https://github.com/Wardlexy/ai-vector-lakehouse"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1458,
-    "updated_at": "2026-08-19T16:43:55Z",
+    "updated_at": "2026-08-19T16:52:41Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-19T16:55:59Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-19T16:51:56Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Offline-first personal RAG system \u2014 local vector store plus AI embeddings for private knowledge retrieval, with no data ",
+    "id": "yagebin79386/Peronsal-RAG-System",
+    "language": "Python",
+    "name": "yagebin79386/Peronsal-RAG-System",
+    "stars": 1,
+    "updated_at": "2026-08-19T16:51:22Z",
+    "url": "https://github.com/yagebin79386/Peronsal-RAG-System"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T16:46:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T16:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11196,
+    "updated_at": "2026-08-19T16:44:49Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -27,6 +99,15 @@
     "url": "https://github.com/Cyb3rRon1n/anvil"
   },
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-19T16:42:22Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Quira is a next-gen Python RAG framework featuring speculative vector search, Context Tetris for token compression, and ",
     "id": "DevDarsh26/Quira",
     "language": "Python",
@@ -43,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-08-19T16:41:30Z",
     "url": "https://github.com/firelock-ai/kin-vector"
+  },
+  {
+    "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
+    "id": "kovartravis/neuron",
+    "language": "TypeScript",
+    "name": "kovartravis/neuron",
+    "stars": 3,
+    "updated_at": "2026-08-19T16:39:42Z",
+    "url": "https://github.com/kovartravis/neuron"
   },
   {
     "description": "AI agent that answers questions about a company's documents (PDF), using RAG with LangChain, LangGraph, and deployed on ",
@@ -81,24 +171,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T16:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T16:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -124,24 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T16:29:02Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
-    "id": "kovartravis/neuron",
-    "language": "TypeScript",
-    "name": "kovartravis/neuron",
-    "stars": 3,
-    "updated_at": "2026-08-19T16:39:42Z",
-    "url": "https://github.com/kovartravis/neuron"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11196,
-    "updated_at": "2026-08-19T16:44:49Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -176,7 +230,7 @@
     "language": "C#",
     "name": "ppossanzini/Jigen",
     "stars": 10,
-    "updated_at": "2026-08-19T16:15:44Z",
+    "updated_at": "2026-08-19T16:55:42Z",
     "url": "https://github.com/ppossanzini/Jigen"
   },
   {
@@ -211,18 +265,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30119,
+    "stars": 30118,
     "updated_at": "2026-08-19T16:09:58Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-19T16:42:22Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -265,7 +310,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64915,
+    "stars": 64916,
     "updated_at": "2026-08-19T16:01:31Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -322,15 +367,6 @@
     "stars": 784,
     "updated_at": "2026-08-19T15:49:11Z",
     "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:47:38Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -405,15 +441,6 @@
     "url": "https://github.com/osamaAhmedOthman/faculty-assistant"
   },
   {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-19T16:32:52Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
@@ -421,32 +448,5 @@
     "stars": 4422,
     "updated_at": "2026-08-19T16:42:38Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35250,
-    "updated_at": "2026-08-19T15:03:13Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Production-ready Voice RAG pipeline featuring ElevenLabs Scribe STT, hybrid RRF retrieval, guardrails, and <200ms ground",
-    "id": "VasaraSujal/Hacker-House-GOA-Task-2",
-    "language": "Python",
-    "name": "VasaraSujal/Hacker-House-GOA-Task-2",
-    "stars": 0,
-    "updated_at": "2026-08-19T15:03:03Z",
-    "url": "https://github.com/VasaraSujal/Hacker-House-GOA-Task-2"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 378,
-    "updated_at": "2026-08-19T14:53:13Z",
-    "url": "https://github.com/zilliztech/knowhere"
   }
 ]
