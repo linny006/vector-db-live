@@ -1,5 +1,32 @@
 [
   {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 3,
+    "updated_at": "2026-08-19T11:45:50Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T11:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T11:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
     "id": "varun29ankuS/shodh-redb",
     "language": "Rust",
@@ -14,8 +41,17 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4421,
-    "updated_at": "2026-08-19T11:42:48Z",
+    "updated_at": "2026-08-19T11:50:08Z",
     "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30112,
+    "updated_at": "2026-08-19T11:41:21Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -27,6 +63,24 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34062,
+    "updated_at": "2026-08-19T11:40:02Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9415,
+    "updated_at": "2026-08-19T11:39:59Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -34,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T11:39:02Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T11:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local-first encrypted memory for AI agents",
@@ -77,7 +122,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6213,
-    "updated_at": "2026-08-19T11:43:03Z",
+    "updated_at": "2026-08-19T11:48:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 782,
     "updated_at": "2026-08-19T11:31:06Z",
     "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T11:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -144,15 +180,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30113,
-    "updated_at": "2026-08-19T11:41:21Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
@@ -178,15 +205,6 @@
     "stars": 87,
     "updated_at": "2026-08-19T11:21:50Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 3,
-    "updated_at": "2026-08-19T11:35:43Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -302,7 +320,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7055,
-    "updated_at": "2026-08-19T11:42:16Z",
+    "updated_at": "2026-08-19T11:49:22Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -322,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T09:59:48Z",
     "url": "https://github.com/MOH-YAHIA/Mini-RAG"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34061,
-    "updated_at": "2026-08-19T11:40:02Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Production-style AI-powered customer support assistant built with Java, Spring Boot, Spring AI, RAG, vector search, and ",
@@ -439,14 +448,5 @@
     "stars": 4447,
     "updated_at": "2026-08-19T08:25:36Z",
     "url": "https://github.com/CaviraOSS/OpenMemory"
-  },
-  {
-    "description": "A production-grade RAG system and neural voice assistant for low-resource Kannada literature ('Heli Hogu Kaarana'). It f",
-    "id": "Amruth011/kannada-rag-agent",
-    "language": "Python",
-    "name": "Amruth011/kannada-rag-agent",
-    "stars": 1,
-    "updated_at": "2026-08-19T08:21:36Z",
-    "url": "https://github.com/Amruth011/kannada-rag-agent"
   }
 ]
