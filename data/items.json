@@ -1,12 +1,111 @@
 [
   {
+    "description": "Lifelong AI companion with four personas, semantic memory across conversations, and voice in English, Hindi and Kannada.",
+    "id": "Aarti-panchal01/eka",
+    "language": "Python",
+    "name": "Aarti-panchal01/eka",
+    "stars": 0,
+    "updated_at": "2026-08-19T21:27:08Z",
+    "url": "https://github.com/Aarti-panchal01/eka"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-19T21:25:42Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-19T21:25:06Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-19T21:24:21Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-19T21:23:09Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Local AI server with persistent memory, RAG, and multi-backend inference (MLX / llama.cpp / Ollama). Runs entirely on yo",
+    "id": "jgoy-labs/server-nexe",
+    "language": "Python",
+    "name": "jgoy-labs/server-nexe",
+    "stars": 10,
+    "updated_at": "2026-08-19T21:18:21Z",
+    "url": "https://github.com/jgoy-labs/server-nexe"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6346,
+    "updated_at": "2026-08-19T21:28:04Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T21:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T21:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-19T21:14:40Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1466,
-    "updated_at": "2026-08-19T21:13:52Z",
+    "stars": 1467,
+    "updated_at": "2026-08-19T21:19:32Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
+    "id": "IronCoreLabs/ironcore-alloy",
+    "language": "Rust",
+    "name": "IronCoreLabs/ironcore-alloy",
+    "stars": 30,
+    "updated_at": "2026-08-19T21:13:43Z",
+    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
   },
   {
     "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
@@ -36,24 +135,6 @@
     "url": "https://github.com/RaptorAssassin/smart-file-search"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T21:02:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T21:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
     "id": "christopherkarani/Wax",
     "language": "Swift",
@@ -77,17 +158,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1091,
-    "updated_at": "2026-08-19T21:09:22Z",
+    "updated_at": "2026-08-19T21:21:43Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-19T20:55:01Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
@@ -95,7 +167,7 @@
     "language": "Python",
     "name": "Yasou13/MESA",
     "stars": 5,
-    "updated_at": "2026-08-19T20:54:50Z",
+    "updated_at": "2026-08-19T21:24:22Z",
     "url": "https://github.com/Yasou13/MESA"
   },
   {
@@ -104,7 +176,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6215,
-    "updated_at": "2026-08-19T20:52:52Z",
+    "updated_at": "2026-08-19T21:20:03Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -149,17 +221,8 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5809,
-    "updated_at": "2026-08-19T20:58:42Z",
+    "updated_at": "2026-08-19T21:22:28Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-19T20:28:18Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -169,15 +232,6 @@
     "stars": 469,
     "updated_at": "2026-08-19T20:25:45Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-19T20:24:39Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -225,15 +279,6 @@
     "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-19T21:14:40Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Zilliz Cloud is the managed vector database service built by the Milvus maintainers. It exposes a Control Plane API for ",
     "id": "api-evangelist/zilliz",
     "language": "\u2014",
@@ -250,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T20:03:49Z",
     "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Local AI server with persistent memory, RAG, and multi-backend inference (MLX / llama.cpp / Ollama). Runs entirely on yo",
-    "id": "jgoy-labs/server-nexe",
-    "language": "Python",
-    "name": "jgoy-labs/server-nexe",
-    "stars": 10,
-    "updated_at": "2026-08-19T20:15:13Z",
-    "url": "https://github.com/jgoy-labs/server-nexe"
   },
   {
     "description": "Agentic RAG platform for ESG Disclosure analysis across 21 banks: using bounded retry loop, deterministic compliance-che",
@@ -383,7 +419,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8113,
-    "updated_at": "2026-08-19T19:30:52Z",
+    "updated_at": "2026-08-19T21:21:27Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T19:17:42Z",
     "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "MyScale is a SQL vector database built on a ClickHouse fork (MyScaleDB), combining high-performance vector search, full-",
-    "id": "api-evangelist/myscale",
-    "language": "\u2014",
-    "name": "api-evangelist/myscale",
-    "stars": 0,
-    "updated_at": "2026-08-19T19:14:34Z",
-    "url": "https://github.com/api-evangelist/myscale"
-  },
-  {
-    "description": "Mixedbread is a Berlin-based AI search and retrieval platform. It provides embeddings (mxbai-embed, Wholembed v3), reran",
-    "id": "api-evangelist/mixedbread-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/mixedbread-ai",
-    "stars": 1,
-    "updated_at": "2026-08-19T19:11:57Z",
-    "url": "https://github.com/api-evangelist/mixedbread-ai"
-  },
-  {
-    "description": "Milvus is an Apache 2.0 open-source vector database. It exposes a versioned REST API alongside gRPC and language SDKs (P",
-    "id": "api-evangelist/milvus",
-    "language": "\u2014",
-    "name": "api-evangelist/milvus",
-    "stars": 0,
-    "updated_at": "2026-08-19T19:11:25Z",
-    "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "Marqo is an open-source, multimodal vector search engine that lets developers index text and images, generate embeddings",
-    "id": "api-evangelist/marqo",
-    "language": "\u2014",
-    "name": "api-evangelist/marqo",
-    "stars": 0,
-    "updated_at": "2026-08-19T19:07:43Z",
-    "url": "https://github.com/api-evangelist/marqo"
   }
 ]
