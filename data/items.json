@@ -1,5 +1,122 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T12:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Gel Data (formerly EdgeDB Inc.) builds Gel, an open-source graph-relational database that supercharges PostgreSQL with a",
+    "id": "api-evangelist/gel-data",
+    "language": "\u2014",
+    "name": "api-evangelist/gel-data",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:27:21Z",
+    "url": "https://github.com/api-evangelist/gel-data"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-19T12:26:32Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
+    "id": "Parth-2004/Historical-AI-Assistant",
+    "language": "Python",
+    "name": "Parth-2004/Historical-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-08-19T12:24:30Z",
+    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1880,
+    "updated_at": "2026-08-19T12:22:20Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7055,
+    "updated_at": "2026-08-19T12:26:23Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-19T12:19:51Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-19T12:19:13Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Your vector database, as typed tools. Write a tools.yaml, then load_tools in Python or serve over MCP.",
+    "id": "kjgpta/vectorsmith",
+    "language": "Python",
+    "name": "kjgpta/vectorsmith",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:17:11Z",
+    "url": "https://github.com/kjgpta/vectorsmith"
+  },
+  {
+    "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
+    "id": "api-evangelist/datastax",
+    "language": "\u2014",
+    "name": "api-evangelist/datastax",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:16:28Z",
+    "url": "https://github.com/api-evangelist/datastax"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4421,
+    "updated_at": "2026-08-19T12:15:38Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T12:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-19T12:15:26Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
     "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
     "id": "Yigtwxx/OracleX",
     "language": "Python",
@@ -7,6 +124,15 @@
     "stars": 1,
     "updated_at": "2026-08-19T12:14:57Z",
     "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "Crate.io is the company behind CrateDB, a distributed SQL database engineered for real-time analytics on large volumes o",
+    "id": "api-evangelist/crate-io",
+    "language": "\u2014",
+    "name": "api-evangelist/crate-io",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:14:15Z",
+    "url": "https://github.com/api-evangelist/crate-io"
   },
   {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
@@ -25,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T12:13:08Z",
     "url": "https://github.com/api-evangelist/contentstack"
-  },
-  {
-    "description": "Your vector database, as typed tools. Write a tools.yaml, then load_tools in Python or serve over MCP.",
-    "id": "kjgpta/vectorsmith",
-    "language": "Python",
-    "name": "kjgpta/vectorsmith",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:11:30Z",
-    "url": "https://github.com/kjgpta/vectorsmith"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-19T12:13:48Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Chroma (Chroma DB) is an open-source, AI-native vector database (embedding database) for building LLM, RAG, and semantic",
@@ -81,30 +189,12 @@
     "url": "https://github.com/api-evangelist/azure-cosmos-db"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T12:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T12:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5804,
-    "updated_at": "2026-08-19T12:00:19Z",
+    "updated_at": "2026-08-19T12:23:34Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -149,7 +239,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 50,
-    "updated_at": "2026-08-19T12:11:09Z",
+    "updated_at": "2026-08-19T12:27:49Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -180,21 +270,12 @@
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4421,
-    "updated_at": "2026-08-19T12:15:05Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30112,
-    "updated_at": "2026-08-19T11:41:21Z",
+    "updated_at": "2026-08-19T12:28:20Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -203,7 +284,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34062,
-    "updated_at": "2026-08-19T12:11:42Z",
+    "updated_at": "2026-08-19T12:24:10Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -230,7 +311,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6213,
-    "updated_at": "2026-08-19T12:07:27Z",
+    "updated_at": "2026-08-19T12:25:16Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -279,24 +360,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-19T11:13:45Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 87,
-    "updated_at": "2026-08-19T11:21:50Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -311,7 +374,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-19T12:13:33Z",
+    "updated_at": "2026-08-19T12:28:22Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -331,15 +394,6 @@
     "stars": 578,
     "updated_at": "2026-08-19T10:51:38Z",
     "url": "https://github.com/hhblaze/DBreeze"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1880,
-    "updated_at": "2026-08-19T10:51:29Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Framework for benchmarking vector search engines",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T10:19:50Z",
     "url": "https://github.com/Pranshu-jain/demo_learnings"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7055,
-    "updated_at": "2026-08-19T12:00:24Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 2,
-    "updated_at": "2026-08-19T11:33:44Z",
-    "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "Modular RAG API for document processing, semantic search, and LLM-powered question answering.",
-    "id": "MOH-YAHIA/Mini-RAG",
-    "language": "Python",
-    "name": "MOH-YAHIA/Mini-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-19T09:59:48Z",
-    "url": "https://github.com/MOH-YAHIA/Mini-RAG"
-  },
-  {
-    "description": "Production-style AI-powered customer support assistant built with Java, Spring Boot, Spring AI, RAG, vector search, and ",
-    "id": "Saurabhsds13/ai-customer-support-assistant",
-    "language": "Java",
-    "name": "Saurabhsds13/ai-customer-support-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-19T09:54:52Z",
-    "url": "https://github.com/Saurabhsds13/ai-customer-support-assistant"
-  },
-  {
-    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
-    "id": "theogony-project/theogony",
-    "language": "Python",
-    "name": "theogony-project/theogony",
-    "stars": 0,
-    "updated_at": "2026-08-19T09:53:51Z",
-    "url": "https://github.com/theogony-project/theogony"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11194,
-    "updated_at": "2026-08-19T09:42:01Z",
-    "url": "https://github.com/lancedb/lancedb"
   }
 ]
