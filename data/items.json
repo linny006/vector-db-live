@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-19T10:00:25Z",
+    "updated_at": "2026-08-19T10:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30114,
+    "updated_at": "2026-08-19T10:10:57Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-19T10:09:43Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-19T10:07:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7054,
+    "updated_at": "2026-08-19T10:06:35Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6213,
+    "updated_at": "2026-08-19T10:09:46Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T10:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 2,
+    "updated_at": "2026-08-19T10:00:08Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "Modular RAG API for document processing, semantic search, and LLM-powered question answering.",
+    "id": "MOH-YAHIA/Mini-RAG",
+    "language": "Python",
+    "name": "MOH-YAHIA/Mini-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-19T09:59:48Z",
+    "url": "https://github.com/MOH-YAHIA/Mini-RAG"
+  },
+  {
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 5,
+    "updated_at": "2026-08-19T09:59:41Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34060,
+    "updated_at": "2026-08-19T09:59:19Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
@@ -16,15 +106,6 @@
     "stars": 782,
     "updated_at": "2026-08-19T09:57:50Z",
     "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7054,
-    "updated_at": "2026-08-19T09:55:53Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Production-style AI-powered customer support assistant built with Java, Spring Boot, Spring AI, RAG, vector search, and ",
@@ -72,15 +153,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T09:48:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
     "id": "kwhorne/ElyraSQL",
     "language": "Rust",
@@ -90,15 +162,6 @@
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-19T09:43:08Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
     "id": "nacre-work/nacre",
     "language": "TypeScript",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T09:43:07Z",
     "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6213,
-    "updated_at": "2026-08-19T09:57:29Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -131,7 +185,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4421,
-    "updated_at": "2026-08-19T09:50:29Z",
+    "updated_at": "2026-08-19T10:07:11Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -153,15 +207,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
-    "id": "varun29ankuS/shodh-redb",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-redb",
-    "stars": 5,
-    "updated_at": "2026-08-19T09:59:41Z",
-    "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
     "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
     "id": "ogham-mcp/ogham-mcp",
     "language": "Python",
@@ -169,15 +214,6 @@
     "stars": 113,
     "updated_at": "2026-08-19T09:26:40Z",
     "url": "https://github.com/ogham-mcp/ogham-mcp"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 2,
-    "updated_at": "2026-08-19T10:00:08Z",
-    "url": "https://github.com/rostamlabs/rostam"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -196,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T09:15:25Z",
     "url": "https://github.com/SaniaKhizar/RAG-from-scratch"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30113,
-    "updated_at": "2026-08-19T09:55:19Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Decentralized Graph Database with Integrated Vector Search",
@@ -256,7 +283,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35246,
+    "stars": 35245,
     "updated_at": "2026-08-19T08:45:58Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -293,7 +320,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45693,
-    "updated_at": "2026-08-19T08:19:20Z",
+    "updated_at": "2026-08-19T10:09:20Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -320,7 +347,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 23,
-    "updated_at": "2026-08-19T08:14:23Z",
+    "updated_at": "2026-08-19T10:03:14Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -409,7 +436,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2520,
+    "stars": 2521,
     "updated_at": "2026-08-19T07:32:26Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-19T07:27:59Z",
     "url": "https://github.com/Omkar-Wagholikar/brags"
-  },
-  {
-    "description": "",
-    "id": "threefigure-achromia682/ai-memory",
-    "language": "\u2014",
-    "name": "threefigure-achromia682/ai-memory",
-    "stars": 0,
-    "updated_at": "2026-08-19T07:26:28Z",
-    "url": "https://github.com/threefigure-achromia682/ai-memory"
-  },
-  {
-    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
-    "id": "alegameplays14-del/leica-infinity-2026",
-    "language": "\u2014",
-    "name": "alegameplays14-del/leica-infinity-2026",
-    "stars": 0,
-    "updated_at": "2026-08-19T07:25:34Z",
-    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-08-19T07:24:46Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
   }
 ]
