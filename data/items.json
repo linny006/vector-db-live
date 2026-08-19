@@ -1,5 +1,68 @@
 [
   {
+    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
+    "id": "mdhabibi/llm-search-handbook",
+    "language": "Jupyter Notebook",
+    "name": "mdhabibi/llm-search-handbook",
+    "stars": 0,
+    "updated_at": "2026-08-19T19:07:45Z",
+    "url": "https://github.com/mdhabibi/llm-search-handbook"
+  },
+  {
+    "description": "The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le",
+    "id": "api-evangelist/lf-ai-and-data",
+    "language": "\u2014",
+    "name": "api-evangelist/lf-ai-and-data",
+    "stars": 0,
+    "updated_at": "2026-08-19T19:03:53Z",
+    "url": "https://github.com/api-evangelist/lf-ai-and-data"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T19:03:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LanceDB is the AI-Native multimodal lakehouse built on the open-source Lance columnar storage format. It pairs an Apache",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-08-19T19:01:59Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-19T19:02:54Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T19:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1461,
+    "updated_at": "2026-08-19T19:00:05Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
@@ -41,7 +104,7 @@
     "language": "\u2014",
     "name": "2B-4G10/NoLockQS",
     "stars": 0,
-    "updated_at": "2026-08-19T18:56:20Z",
+    "updated_at": "2026-08-19T19:00:29Z",
     "url": "https://github.com/2B-4G10/NoLockQS"
   },
   {
@@ -63,24 +126,6 @@
     "url": "https://github.com/Zizka-ai/ZizkaDB"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1460,
-    "updated_at": "2026-08-19T19:00:05Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
-    "id": "mdhabibi/llm-search-handbook",
-    "language": "Jupyter Notebook",
-    "name": "mdhabibi/llm-search-handbook",
-    "stars": 0,
-    "updated_at": "2026-08-19T18:48:36Z",
-    "url": "https://github.com/mdhabibi/llm-search-handbook"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
@@ -95,7 +140,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-19T18:47:22Z",
+    "updated_at": "2026-08-19T19:00:41Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -115,24 +160,6 @@
     "stars": 51746,
     "updated_at": "2026-08-19T18:48:01Z",
     "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T18:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T19:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Gel Data (formerly EdgeDB Inc.) builds Gel, an open-source graph-relational database that supercharges PostgreSQL with a",
@@ -193,7 +220,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64919,
+    "stars": 64920,
     "updated_at": "2026-08-19T18:40:35Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-19T18:49:10Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "A multi-tenant vector database focused on extreme RAM efficiency. Lightweight, scalable, and optimized for high-density ",
-    "id": "skegdb/skeg",
-    "language": "Rust",
-    "name": "skegdb/skeg",
-    "stars": 33,
-    "updated_at": "2026-08-19T18:07:59Z",
-    "url": "https://github.com/skegdb/skeg"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-08-19T18:02:08Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha",
-    "id": "api-evangelist/aerospike",
-    "language": "\u2014",
-    "name": "api-evangelist/aerospike",
-    "stars": 0,
-    "updated_at": "2026-08-19T17:59:10Z",
-    "url": "https://github.com/api-evangelist/aerospike"
   }
 ]
