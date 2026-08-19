@@ -1,12 +1,39 @@
 [
   {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-19T20:36:07Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-19T20:30:23Z",
+    "updated_at": "2026-08-19T20:33:15Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T20:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-19T20:28:18Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -40,7 +67,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1463,
+    "stars": 1464,
     "updated_at": "2026-08-19T20:23:13Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -86,17 +113,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11197,
-    "updated_at": "2026-08-19T20:28:06Z",
+    "updated_at": "2026-08-19T20:33:11Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T20:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
@@ -115,6 +133,15 @@
     "stars": 2,
     "updated_at": "2026-08-19T20:13:03Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5807,
+    "updated_at": "2026-08-19T20:35:13Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
@@ -243,15 +270,6 @@
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-19T19:45:44Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
     "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
     "id": "api-evangelist/sequoiadb",
     "language": "\u2014",
@@ -286,15 +304,6 @@
     "stars": 8113,
     "updated_at": "2026-08-19T19:30:52Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-19T20:28:18Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
@@ -385,15 +394,6 @@
     "stars": 7,
     "updated_at": "2026-08-19T19:02:54Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5806,
-    "updated_at": "2026-08-19T20:11:12Z",
-    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "In-memory knowledge store for AI agents",
