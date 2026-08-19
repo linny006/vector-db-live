@@ -1,5 +1,23 @@
 [
   {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-19T23:34:17Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T23:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,12 +27,21 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-19T23:30:19Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
     "id": "Cognipeer/console",
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 23,
-    "updated_at": "2026-08-19T23:28:37Z",
+    "updated_at": "2026-08-19T23:33:18Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T23:16:33Z",
     "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T23:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -162,20 +180,11 @@
     "url": "https://github.com/arnobt78/Embeddable-FAQ-Seed-RAG-Chatbot-Widget--NextJS-FullStack"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-19T23:30:19Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64931,
+    "stars": 64930,
     "updated_at": "2026-08-19T22:22:07Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -185,7 +194,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8113,
-    "updated_at": "2026-08-19T22:39:01Z",
+    "updated_at": "2026-08-19T23:32:35Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5809,
-    "updated_at": "2026-08-19T23:19:27Z",
+    "updated_at": "2026-08-19T23:35:42Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T20:01:18Z",
     "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds ",
-    "id": "api-evangelist/vectorize-io",
-    "language": "\u2014",
-    "name": "api-evangelist/vectorize-io",
-    "stars": 0,
-    "updated_at": "2026-08-19T20:00:38Z",
-    "url": "https://github.com/api-evangelist/vectorize-io"
   }
 ]
