@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T23:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-19T22:59:59Z",
+    "updated_at": "2026-08-19T23:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,15 +25,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T22:51:10Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T22:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -257,7 +257,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-19T22:39:48Z",
+    "updated_at": "2026-08-19T23:00:41Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -293,7 +293,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1091,
-    "updated_at": "2026-08-19T22:50:38Z",
+    "updated_at": "2026-08-19T23:00:47Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
