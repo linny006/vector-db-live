@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-19T05:45:19Z",
+    "updated_at": "2026-08-19T05:55:41Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Lexical vs Vector vs Graph RAG over one identical chunk set, with deterministic evaluation, a self-correcting LangGraph ",
+    "id": "pathak1005/rag-arena",
+    "language": "Python",
+    "name": "pathak1005/rag-arena",
+    "stars": 1,
+    "updated_at": "2026-08-19T05:55:11Z",
+    "url": "https://github.com/pathak1005/rag-arena"
+  },
+  {
+    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
+    "id": "tamnd/kura",
+    "language": "Rust",
+    "name": "tamnd/kura",
+    "stars": 0,
+    "updated_at": "2026-08-19T05:49:38Z",
+    "url": "https://github.com/tamnd/kura"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T05:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 780,
+    "updated_at": "2026-08-19T05:45:01Z",
+    "url": "https://github.com/christopherkarani/Wax"
   },
   {
     "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
@@ -18,6 +54,15 @@
     "url": "https://github.com/yantrikos/yantrikdb-server"
   },
   {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 682,
+    "updated_at": "2026-08-19T05:42:18Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -27,22 +72,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 681,
-    "updated_at": "2026-08-19T05:42:18Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
-    "description": "Lexical vs Vector vs Graph RAG over one identical chunk set, with deterministic evaluation, a self-correcting LangGraph ",
-    "id": "pathak1005/rag-arena",
-    "language": "Python",
-    "name": "pathak1005/rag-arena",
-    "stars": 1,
-    "updated_at": "2026-08-19T05:45:19Z",
-    "url": "https://github.com/pathak1005/rag-arena"
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6213,
+    "updated_at": "2026-08-19T05:41:10Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -50,7 +86,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-19T05:39:30Z",
+    "updated_at": "2026-08-19T05:56:40Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -79,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T05:30:58Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T05:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -167,7 +194,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1089,
-    "updated_at": "2026-08-19T05:41:45Z",
+    "updated_at": "2026-08-19T05:47:08Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -180,6 +207,15 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2511,
+    "updated_at": "2026-08-19T04:56:03Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -189,21 +225,12 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2510,
-    "updated_at": "2026-08-19T04:56:03Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6345,
-    "updated_at": "2026-08-19T05:15:16Z",
+    "updated_at": "2026-08-19T05:56:09Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T02:29:23Z",
     "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8109,
-    "updated_at": "2026-08-19T04:37:45Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 226,
-    "updated_at": "2026-08-19T03:40:59Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "A federated retrieval router over four stores -- vector, graph, full-text and relational -- that measures the ROUTING DE",
-    "id": "jkelly-dev1/federated-retrieval-router",
-    "language": "Python",
-    "name": "jkelly-dev1/federated-retrieval-router",
-    "stars": 0,
-    "updated_at": "2026-08-19T02:08:18Z",
-    "url": "https://github.com/jkelly-dev1/federated-retrieval-router"
   }
 ]
