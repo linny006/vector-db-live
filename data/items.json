@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-19T15:30:22Z",
+    "updated_at": "2026-08-19T15:45:04Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30118,
+    "updated_at": "2026-08-19T15:41:47Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1456,
+    "updated_at": "2026-08-19T15:43:36Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 3,
+    "updated_at": "2026-08-19T15:33:10Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-19T15:31:54Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 424,
+    "updated_at": "2026-08-19T15:30:43Z",
+    "url": "https://github.com/redis/redis-vl-python"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T15:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-19T15:28:58Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Privacy-preserving middleware for RAG and vector embeddings. Defends against embedding inversion attacks using different",
+    "id": "omdesai69/privrag-guard",
+    "language": "Python",
+    "name": "omdesai69/privrag-guard",
+    "stars": 0,
+    "updated_at": "2026-08-19T15:26:40Z",
+    "url": "https://github.com/omdesai69/privrag-guard"
   },
   {
     "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
@@ -32,7 +104,7 @@
     "language": "Swift",
     "name": "christopherkarani/Wax",
     "stars": 784,
-    "updated_at": "2026-08-19T15:24:00Z",
+    "updated_at": "2026-08-19T15:45:12Z",
     "url": "https://github.com/christopherkarani/Wax"
   },
   {
@@ -43,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T15:23:45Z",
     "url": "https://github.com/Cyb3rRon1n/anvil"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 3,
-    "updated_at": "2026-08-19T15:22:39Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "A multi-tenant vector database focused on extreme RAM efficiency. Lightweight, scalable, and optimized for high-density ",
@@ -90,31 +153,13 @@
     "url": "https://github.com/nacre-work/nacre"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T15:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-19T15:09:08Z",
+    "updated_at": "2026-08-19T15:41:45Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1456,
-    "updated_at": "2026-08-19T15:09:02Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Local AI server with persistent memory, RAG, and multi-backend inference (MLX / llama.cpp / Ollama). Runs entirely on yo",
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T15:03:03Z",
     "url": "https://github.com/VasaraSujal/Hacker-House-GOA-Task-2"
-  },
-  {
-    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 424,
-    "updated_at": "2026-08-19T15:13:11Z",
-    "url": "https://github.com/redis/redis-vl-python"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -185,7 +221,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1880,
-    "updated_at": "2026-08-19T14:47:41Z",
+    "updated_at": "2026-08-19T15:43:58Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -225,24 +261,6 @@
     "url": "https://github.com/Lxiny-zy/SparkOffer"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30117,
-    "updated_at": "2026-08-19T15:26:23Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-19T14:34:24Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
     "id": "kovartravis/neuron",
     "language": "TypeScript",
@@ -261,15 +279,6 @@
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-19T15:28:58Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -284,7 +293,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6215,
-    "updated_at": "2026-08-19T15:18:20Z",
+    "updated_at": "2026-08-19T15:38:34Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -410,7 +419,7 @@
     "language": "C#",
     "name": "hhblaze/DBreeze",
     "stars": 578,
-    "updated_at": "2026-08-19T13:43:10Z",
+    "updated_at": "2026-08-19T15:43:06Z",
     "url": "https://github.com/hhblaze/DBreeze"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-19T13:27:00Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "An AI-powered conversational application built with Next.js, LangChain, LangGraph, and OpenAI, featuring an agent-based ",
-    "id": "PalwinderSinghPaali/langchain-integrated-ai-chatbot",
-    "language": "TypeScript",
-    "name": "PalwinderSinghPaali/langchain-integrated-ai-chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-19T13:24:03Z",
-    "url": "https://github.com/PalwinderSinghPaali/langchain-integrated-ai-chatbot"
   }
 ]
