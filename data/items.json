@@ -1,12 +1,93 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "linny006/rag-radar",
+    "name": "topoteretes/cognee",
+    "stars": 30128,
+    "updated_at": "2026-08-19T20:56:55Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1091,
+    "updated_at": "2026-08-19T20:58:04Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
     "stars": 2,
-    "updated_at": "2026-08-19T20:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-08-19T20:55:01Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 5,
+    "updated_at": "2026-08-19T20:54:50Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "A privacy-first AI-powered desktop tool that indexes files using local AI models. Built with Tauri, Rust and Ollama.",
+    "id": "RaptorAssassin/smart-file-search",
+    "language": "TypeScript",
+    "name": "RaptorAssassin/smart-file-search",
+    "stars": 0,
+    "updated_at": "2026-08-19T20:54:30Z",
+    "url": "https://github.com/RaptorAssassin/smart-file-search"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6215,
+    "updated_at": "2026-08-19T20:52:52Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)",
+    "id": "mirkobozzetto/flowflow",
+    "language": "Rust",
+    "name": "mirkobozzetto/flowflow",
+    "stars": 163,
+    "updated_at": "2026-08-19T20:50:58Z",
+    "url": "https://github.com/mirkobozzetto/flowflow"
+  },
+  {
+    "description": "Memseek is an open source declarative context engine for AI agents. Define agent memory in versioned YAML \u2014 like Terrafo",
+    "id": "memseekai/memseek",
+    "language": "Python",
+    "name": "memseekai/memseek",
+    "stars": 0,
+    "updated_at": "2026-08-19T20:48:39Z",
+    "url": "https://github.com/memseekai/memseek"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-19T20:48:16Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
+    "id": "mdhabibi/llm-search-handbook",
+    "language": "Jupyter Notebook",
+    "name": "mdhabibi/llm-search-handbook",
+    "stars": 0,
+    "updated_at": "2026-08-19T20:45:46Z",
+    "url": "https://github.com/mdhabibi/llm-search-handbook"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +95,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-19T20:36:47Z",
+    "updated_at": "2026-08-19T20:45:26Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T21:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-19T20:41:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -32,7 +131,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5809,
-    "updated_at": "2026-08-19T20:35:13Z",
+    "updated_at": "2026-08-19T20:58:42Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -43,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T20:28:18Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-19T20:26:31Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -77,17 +167,8 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1464,
-    "updated_at": "2026-08-19T20:23:13Z",
+    "updated_at": "2026-08-19T20:48:56Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
-    "id": "mdhabibi/llm-search-handbook",
-    "language": "Jupyter Notebook",
-    "name": "mdhabibi/llm-search-handbook",
-    "stars": 0,
-    "updated_at": "2026-08-19T20:22:11Z",
-    "url": "https://github.com/mdhabibi/llm-search-handbook"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -144,15 +225,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-19T20:43:50Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
     "description": "Zilliz Cloud is the managed vector database service built by the Milvus maintainers. It exposes a Control Plane API for ",
     "id": "api-evangelist/zilliz",
     "language": "\u2014",
@@ -160,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T20:07:41Z",
     "url": "https://github.com/api-evangelist/zilliz"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-19T20:41:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
@@ -252,6 +315,15 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
+    "description": "Python SDK for vector search, semantic search, RAG, embeddings, and AI agents on Oracle AI Database",
+    "id": "oracle/vecdb-python-sdk",
+    "language": "Python",
+    "name": "oracle/vecdb-python-sdk",
+    "stars": 42,
+    "updated_at": "2026-08-19T19:49:45Z",
+    "url": "https://github.com/oracle/vecdb-python-sdk"
+  },
+  {
     "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
     "id": "api-evangelist/surrealdb",
     "language": "\u2014",
@@ -288,20 +360,11 @@
     "url": "https://github.com/api-evangelist/sequoiadb"
   },
   {
-    "description": "Python SDK for vector search, semantic search, RAG, embeddings, and AI agents on Oracle AI Database",
-    "id": "oracle/vecdb-python-sdk",
-    "language": "Python",
-    "name": "oracle/vecdb-python-sdk",
-    "stars": 42,
-    "updated_at": "2026-08-19T19:49:45Z",
-    "url": "https://github.com/oracle/vecdb-python-sdk"
-  },
-  {
     "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 29122,
+    "stars": 29123,
     "updated_at": "2026-08-19T19:37:03Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T19:03:53Z",
     "url": "https://github.com/api-evangelist/lf-ai-and-data"
-  },
-  {
-    "description": "LanceDB is the AI-Native multimodal lakehouse built on the open-source Lance columnar storage format. It pairs an Apache",
-    "id": "api-evangelist/lancedb",
-    "language": "\u2014",
-    "name": "api-evangelist/lancedb",
-    "stars": 0,
-    "updated_at": "2026-08-19T19:01:59Z",
-    "url": "https://github.com/api-evangelist/lancedb"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-19T19:02:54Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "RonsenbergVI/fraise",
-    "language": "Go",
-    "name": "RonsenbergVI/fraise",
-    "stars": 3,
-    "updated_at": "2026-08-19T18:57:26Z",
-    "url": "https://github.com/RonsenbergVI/fraise"
-  },
-  {
-    "description": "IronCore Labs builds application-layer encryption tools that keep sensitive data private while it stays usable. Its prod",
-    "id": "api-evangelist/ironcore-labs",
-    "language": "\u2014",
-    "name": "api-evangelist/ironcore-labs",
-    "stars": 0,
-    "updated_at": "2026-08-19T18:57:14Z",
-    "url": "https://github.com/api-evangelist/ironcore-labs"
-  },
-  {
-    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
-    "id": "2B-4G10/NoLockQS",
-    "language": "\u2014",
-    "name": "2B-4G10/NoLockQS",
-    "stars": 0,
-    "updated_at": "2026-08-19T19:19:31Z",
-    "url": "https://github.com/2B-4G10/NoLockQS"
-  },
-  {
-    "description": "The Modern System Design Workbench: 60+ interactive patterns, real-time capacity calculator, AI/LLM architectures, and i",
-    "id": "sunilgentyala/archforge",
-    "language": "\u2014",
-    "name": "sunilgentyala/archforge",
-    "stars": 1,
-    "updated_at": "2026-08-19T18:53:12Z",
-    "url": "https://github.com/sunilgentyala/archforge"
-  },
-  {
-    "description": "Operational Database for AI Agents Provide causality lineage, DAG, and State Replay , build to make AI Agents auditable ",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "TypeScript",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 41,
-    "updated_at": "2026-08-19T18:51:30Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
   }
 ]
