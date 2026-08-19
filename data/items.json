@@ -1,5 +1,32 @@
 [
   {
+    "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
+    "id": "api-evangelist/sequoiadb",
+    "language": "\u2014",
+    "name": "api-evangelist/sequoiadb",
+    "stars": 0,
+    "updated_at": "2026-08-19T19:41:43Z",
+    "url": "https://github.com/api-evangelist/sequoiadb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-19T19:39:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T19:38:57Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Python SDK for vector search, semantic search, RAG, embeddings, and AI agents on Oracle AI Database",
     "id": "oracle/vecdb-python-sdk",
     "language": "Python",
@@ -31,18 +58,9 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8112,
+    "stars": 8113,
     "updated_at": "2026-08-19T19:30:52Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T19:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -59,7 +77,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1462,
-    "updated_at": "2026-08-19T19:25:13Z",
+    "updated_at": "2026-08-19T19:42:29Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -144,15 +162,6 @@
     "url": "https://github.com/api-evangelist/milvus"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-19T19:08:54Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
     "id": "mdhabibi/llm-search-handbook",
     "language": "Jupyter Notebook",
@@ -203,7 +212,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5806,
-    "updated_at": "2026-08-19T19:23:27Z",
+    "updated_at": "2026-08-19T19:45:12Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -338,7 +347,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 64924,
-    "updated_at": "2026-08-19T18:40:35Z",
+    "updated_at": "2026-08-19T19:44:58Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6215,
-    "updated_at": "2026-08-19T19:37:12Z",
+    "updated_at": "2026-08-19T19:43:11Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T18:23:09Z",
     "url": "https://github.com/andrgol12-sys/rag-document-assistant"
-  },
-  {
-    "description": "Chroma (Chroma DB) is an open-source, AI-native vector database (embedding database) for building LLM, RAG, and semantic",
-    "id": "api-evangelist/chroma-db",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma-db",
-    "stars": 0,
-    "updated_at": "2026-08-19T18:20:55Z",
-    "url": "https://github.com/api-evangelist/chroma-db"
   }
 ]
