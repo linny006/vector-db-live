@@ -1,11 +1,74 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-19T22:12:29Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A production-ready, self-hosted RAG (Retrieval Augmented Generation) chatbot widget built with Next.js, Redis vector sto",
+    "id": "arnobt78/Embeddable-Portfolio-FAQ-RAG-Chatbot-Widget--NextJS-FullStack",
+    "language": "TypeScript",
+    "name": "arnobt78/Embeddable-Portfolio-FAQ-RAG-Chatbot-Widget--NextJS-FullStack",
+    "stars": 3,
+    "updated_at": "2026-08-19T22:10:31Z",
+    "url": "https://github.com/arnobt78/Embeddable-Portfolio-FAQ-RAG-Chatbot-Widget--NextJS-FullStack"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6347,
+    "updated_at": "2026-08-19T22:13:14Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 469,
+    "updated_at": "2026-08-19T22:06:42Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-19T22:06:02Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
+    "id": "ankush-poonia007/STARTUP-AI-AGENT",
+    "language": "Python",
+    "name": "ankush-poonia007/STARTUP-AI-AGENT",
+    "stars": 5,
+    "updated_at": "2026-08-19T22:03:54Z",
+    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T22:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-19T22:00:21Z",
+    "updated_at": "2026-08-19T22:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -54,15 +117,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T21:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A multi-stage LLM pipeline for aptitude-driven job search, career targeting, and search strategy generation.",
     "id": "mattburnett-repo/aptitude-search",
     "language": "Python",
@@ -77,17 +131,8 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1467,
-    "updated_at": "2026-08-19T21:43:41Z",
+    "updated_at": "2026-08-19T22:14:03Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-19T21:39:23Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Document-first sqlite3+faiss vector database",
@@ -115,15 +160,6 @@
     "stars": 5,
     "updated_at": "2026-08-19T21:32:58Z",
     "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
-    "id": "ankush-poonia007/STARTUP-AI-AGENT",
-    "language": "Python",
-    "name": "ankush-poonia007/STARTUP-AI-AGENT",
-    "stars": 5,
-    "updated_at": "2026-08-19T21:31:50Z",
-    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
   },
   {
     "description": "Lifelong AI companion with four personas, semantic memory across conversations, and voice in English, Hindi and Kannada.",
@@ -171,24 +207,6 @@
     "url": "https://github.com/jgoy-labs/server-nexe"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6346,
-    "updated_at": "2026-08-19T21:52:21Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-19T21:14:40Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
     "id": "IronCoreLabs/ironcore-alloy",
     "language": "Rust",
@@ -221,7 +239,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1091,
-    "updated_at": "2026-08-19T21:58:49Z",
+    "updated_at": "2026-08-19T22:11:52Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6215,
-    "updated_at": "2026-08-19T21:20:03Z",
+    "updated_at": "2026-08-19T22:13:14Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -266,17 +284,8 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5809,
-    "updated_at": "2026-08-19T21:44:57Z",
+    "updated_at": "2026-08-19T22:08:42Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 469,
-    "updated_at": "2026-08-19T20:25:45Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T19:41:43Z",
     "url": "https://github.com/api-evangelist/sequoiadb"
-  },
-  {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 29123,
-    "updated_at": "2026-08-19T19:37:03Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
   }
 ]
