@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-19T09:15:20Z",
+    "updated_at": "2026-08-19T09:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
+    "id": "ogham-mcp/ogham-mcp",
+    "language": "Python",
+    "name": "ogham-mcp/ogham-mcp",
+    "stars": 113,
+    "updated_at": "2026-08-19T09:26:40Z",
+    "url": "https://github.com/ogham-mcp/ogham-mcp"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 2,
+    "updated_at": "2026-08-19T09:29:00Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-19T09:21:01Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T09:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A Retrieval-Augmented Generation (RAG) system built from scratch, no LangChain/LlamaIndex. Custom chunking, local embedd",
+    "id": "SaniaKhizar/RAG-from-scratch",
+    "language": "Python",
+    "name": "SaniaKhizar/RAG-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-08-19T09:15:25Z",
+    "url": "https://github.com/SaniaKhizar/RAG-from-scratch"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30113,
+    "updated_at": "2026-08-19T09:16:21Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6213,
+    "updated_at": "2026-08-19T09:26:55Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "The AI search platform",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "theogony-project/theogony",
     "stars": 0,
-    "updated_at": "2026-08-19T09:09:47Z",
+    "updated_at": "2026-08-19T09:28:08Z",
     "url": "https://github.com/theogony-project/theogony"
   },
   {
@@ -43,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T09:09:37Z",
     "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30114,
-    "updated_at": "2026-08-19T09:15:13Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Operational Database for AI Agents Provide causality lineage, DAG, and State Replay , build to make AI Agents auditable ",
@@ -79,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T09:04:18Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T09:03:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
@@ -122,7 +167,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5803,
-    "updated_at": "2026-08-19T08:54:46Z",
+    "updated_at": "2026-08-19T09:30:14Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T08:54:19Z",
     "url": "https://github.com/Saurabhsds13/ai-customer-support-assistant"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) system built from scratch, no LangChain/LlamaIndex. Custom chunking, local embedd",
-    "id": "SaniaKhizar/RAG-from-scratch",
-    "language": "Python",
-    "name": "SaniaKhizar/RAG-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-08-19T08:50:13Z",
-    "url": "https://github.com/SaniaKhizar/RAG-from-scratch"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-19T09:11:47Z",
+    "updated_at": "2026-08-19T09:20:32Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -198,15 +234,6 @@
     "url": "https://github.com/CaviraOSS/OpenMemory"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-19T08:21:55Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "A production-grade RAG system and neural voice assistant for low-resource Kannada literature ('Heli Hogu Kaarana'). It f",
     "id": "Amruth011/kannada-rag-agent",
     "language": "Python",
@@ -216,12 +243,21 @@
     "url": "https://github.com/Amruth011/kannada-rag-agent"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45692,
+    "updated_at": "2026-08-19T08:19:20Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6345,
-    "updated_at": "2026-08-19T09:10:43Z",
+    "updated_at": "2026-08-19T09:19:03Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -252,21 +288,12 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6213,
-    "updated_at": "2026-08-19T09:15:03Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4421,
-    "updated_at": "2026-08-19T09:05:39Z",
+    "updated_at": "2026-08-19T09:30:22Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -284,7 +311,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8111,
-    "updated_at": "2026-08-19T09:02:54Z",
+    "updated_at": "2026-08-19T09:24:12Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -306,20 +333,11 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45690,
-    "updated_at": "2026-08-19T08:19:20Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Conversational front-desk agent for outpatient clinics. LangChain, LangGraph, Gemini 2.5 Flash.",
     "id": "XBastille/anteroom",
     "language": "Python",
     "name": "XBastille/anteroom",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-19T07:57:20Z",
     "url": "https://github.com/XBastille/anteroom"
   },
@@ -423,15 +441,6 @@
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   },
   {
-    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
-    "id": "ogham-mcp/ogham-mcp",
-    "language": "Python",
-    "name": "ogham-mcp/ogham-mcp",
-    "stars": 113,
-    "updated_at": "2026-08-19T07:29:08Z",
-    "url": "https://github.com/ogham-mcp/ogham-mcp"
-  },
-  {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
     "id": "constancywoodsy286/agentic-rag-for-practice",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-19T07:17:40Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-08-19T07:16:53Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
   }
 ]
