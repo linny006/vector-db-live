@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-19T07:36:27Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "\u26a1\ufe0fLightning fast in-memory VectorDB written in rust\ud83e\udd80",
+    "id": "KevKibe/memvectordb",
+    "language": "Rust",
+    "name": "KevKibe/memvectordb",
+    "stars": 31,
+    "updated_at": "2026-08-19T07:34:19Z",
+    "url": "https://github.com/KevKibe/memvectordb"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 3,
+    "updated_at": "2026-08-19T07:36:27Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
+    "id": "yihui504/TestVDB",
+    "language": "Python",
+    "name": "yihui504/TestVDB",
+    "stars": 0,
+    "updated_at": "2026-08-19T07:31:08Z",
+    "url": "https://github.com/yihui504/TestVDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T07:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +54,22 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "\u26a1\ufe0fLightning fast in-memory VectorDB written in rust\ud83e\udd80",
-    "id": "KevKibe/memvectordb",
-    "language": "Rust",
-    "name": "KevKibe/memvectordb",
-    "stars": 31,
-    "updated_at": "2026-08-19T07:29:51Z",
-    "url": "https://github.com/KevKibe/memvectordb"
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7054,
+    "updated_at": "2026-08-19T07:29:39Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Conversational front-desk agent for outpatient clinics. LangChain, LangGraph, Gemini 2.5 Flash.",
+    "id": "XBastille/anteroom",
+    "language": "Python",
+    "name": "XBastille/anteroom",
+    "stars": 0,
+    "updated_at": "2026-08-19T07:29:30Z",
+    "url": "https://github.com/XBastille/anteroom"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 2512,
-    "updated_at": "2026-08-19T07:18:09Z",
+    "updated_at": "2026-08-19T07:32:26Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T07:16:08Z",
     "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T07:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Python SDK for Milvus Vector Database",
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "qdrant/vector-db-benchmark",
     "stars": 368,
-    "updated_at": "2026-08-19T07:13:29Z",
+    "updated_at": "2026-08-19T07:33:34Z",
     "url": "https://github.com/qdrant/vector-db-benchmark"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-19T06:54:02Z",
     "url": "https://github.com/leitoooatr/PythonVectorDB"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
-    "id": "Jeroflo88/Self-Corrective-RAG",
-    "language": "Python",
-    "name": "Jeroflo88/Self-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-19T06:53:08Z",
-    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-08-19T06:50:11Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-08-19T06:44:42Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-19T06:44:24Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-08-19T06:43:19Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
   }
 ]
