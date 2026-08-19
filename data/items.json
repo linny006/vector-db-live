@@ -1,12 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T05:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-19T05:10:21Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
+    "id": "TheAmitChandra/NeuralCleave",
+    "language": "Python",
+    "name": "TheAmitChandra/NeuralCleave",
+    "stars": 4,
+    "updated_at": "2026-08-19T05:09:10Z",
+    "url": "https://github.com/TheAmitChandra/NeuralCleave"
+  },
+  {
     "description": "\ud83d\udc15 Sniffs out the lease clauses that shouldn't be there \u2014 WA tenant-law RAG: clause-by-clause scan reports with statute c",
     "id": "tywangq/leasehound",
     "language": "Python",
     "name": "tywangq/leasehound",
     "stars": 2,
-    "updated_at": "2026-08-19T04:59:40Z",
+    "updated_at": "2026-08-19T05:07:15Z",
     "url": "https://github.com/tywangq/leasehound"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1089,
+    "updated_at": "2026-08-19T05:05:31Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T05:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1880,
+    "updated_at": "2026-08-19T04:59:47Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Lexical vs Vector vs Graph RAG over one identical chunk set, with deterministic evaluation, a self-correcting LangGraph ",
@@ -45,24 +99,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T04:51:08Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T04:50:48Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
@@ -72,21 +108,12 @@
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-19T04:44:29Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6345,
-    "updated_at": "2026-08-19T04:46:33Z",
+    "updated_at": "2026-08-19T05:15:16Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -171,15 +198,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1880,
-    "updated_at": "2026-08-19T04:59:47Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
     "id": "hippmem/hippmem",
     "language": "Rust",
@@ -187,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-08-19T03:47:23Z",
     "url": "https://github.com/hippmem/hippmem"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1089,
-    "updated_at": "2026-08-19T03:59:51Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
@@ -239,7 +248,7 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 7,
-    "updated_at": "2026-08-19T04:20:06Z",
+    "updated_at": "2026-08-19T05:05:55Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -436,17 +445,8 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64898,
+    "stars": 64899,
     "updated_at": "2026-08-19T01:33:39Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin.",
-    "id": "firelock-ai/kin-vector",
-    "language": "Rust",
-    "name": "firelock-ai/kin-vector",
-    "stars": 0,
-    "updated_at": "2026-08-19T01:51:22Z",
-    "url": "https://github.com/firelock-ai/kin-vector"
   }
 ]
