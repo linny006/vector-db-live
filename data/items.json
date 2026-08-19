@@ -1,5 +1,77 @@
 [
   {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 339,
+    "updated_at": "2026-08-19T12:55:38Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
+    "id": "api-evangelist/surrealdb",
+    "language": "\u2014",
+    "name": "api-evangelist/surrealdb",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:54:12Z",
+    "url": "https://github.com/api-evangelist/surrealdb"
+  },
+  {
+    "description": "A production-ready RAG system built with FastAPI, Streamlit, FAISS, and Google Gemini API for fast, grounded PDF documen",
+    "id": "vidhyawalke/RAG-PDF-Assistant",
+    "language": "Python",
+    "name": "vidhyawalke/RAG-PDF-Assistant",
+    "stars": 1,
+    "updated_at": "2026-08-19T12:53:59Z",
+    "url": "https://github.com/vidhyawalke/RAG-PDF-Assistant"
+  },
+  {
+    "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
+    "id": "api-evangelist/sequoiadb",
+    "language": "\u2014",
+    "name": "api-evangelist/sequoiadb",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:50:51Z",
+    "url": "https://github.com/api-evangelist/sequoiadb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45696,
+    "updated_at": "2026-08-19T12:49:25Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-19T12:48:20Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-19T12:46:14Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T12:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,22 +90,31 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T12:42:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "vishalChoudhary-git/ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:42:13Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
-    "description": "A production-ready RAG system built with FastAPI, Streamlit, FAISS, and Google Gemini API for fast, grounded PDF documen",
-    "id": "vidhyawalke/RAG-PDF-Assistant",
-    "language": "Python",
-    "name": "vidhyawalke/RAG-PDF-Assistant",
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-19T12:41:06Z",
-    "url": "https://github.com/vidhyawalke/RAG-PDF-Assistant"
+    "updated_at": "2026-08-19T12:41:56Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
+    "id": "api-evangelist/objectbox",
+    "language": "\u2014",
+    "name": "api-evangelist/objectbox",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:41:20Z",
+    "url": "https://github.com/api-evangelist/objectbox"
   },
   {
     "description": "Nomic AI builds open and accessible AI infrastructure. The company is known for the open-source Nomic Embed family (nomi",
@@ -126,15 +207,6 @@
     "url": "https://github.com/api-evangelist/lancedb"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 339,
-    "updated_at": "2026-08-19T12:34:11Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Your vector database, as typed tools. Write a tools.yaml, then load_tools in Python or serve over MCP.",
     "id": "kjgpta/vectorsmith",
     "language": "Python",
@@ -142,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T12:37:48Z",
     "url": "https://github.com/kjgpta/vectorsmith"
-  },
-  {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
-    "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-19T12:42:13Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
     "description": "IronCore Labs builds application-layer encryption tools that keep sensitive data private while it stays usable. Its prod",
@@ -198,6 +261,15 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6214,
+    "updated_at": "2026-08-19T12:59:52Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
     "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
     "id": "Parth-2004/Historical-AI-Assistant",
     "language": "Python",
@@ -221,7 +293,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7055,
-    "updated_at": "2026-08-19T12:26:23Z",
+    "updated_at": "2026-08-19T12:56:56Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -257,7 +329,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4421,
-    "updated_at": "2026-08-19T12:34:58Z",
+    "updated_at": "2026-08-19T12:57:27Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -324,15 +396,6 @@
     "url": "https://github.com/api-evangelist/chroma"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-19T12:08:00Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Azure Cosmos DB is a fully managed, globally distributed, multi-model NoSQL and relational database service from Microso",
     "id": "api-evangelist/azure-cosmos-db",
     "language": "\u2014",
@@ -347,7 +410,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5804,
-    "updated_at": "2026-08-19T12:45:18Z",
+    "updated_at": "2026-08-19T12:47:04Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -356,7 +419,7 @@
     "language": "Rust",
     "name": "yp3y5akh0v/citadel",
     "stars": 3,
-    "updated_at": "2026-08-19T12:00:19Z",
+    "updated_at": "2026-08-19T12:59:35Z",
     "url": "https://github.com/yp3y5akh0v/citadel"
   },
   {
@@ -365,7 +428,7 @@
     "language": "Python",
     "name": "jgoy-labs/server-nexe",
     "stars": 10,
-    "updated_at": "2026-08-19T11:59:56Z",
+    "updated_at": "2026-08-19T12:46:01Z",
     "url": "https://github.com/jgoy-labs/server-nexe"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-19T11:51:33Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 3,
-    "updated_at": "2026-08-19T11:45:50Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
-    "id": "varun29ankuS/shodh-redb",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-redb",
-    "stars": 5,
-    "updated_at": "2026-08-19T11:43:29Z",
-    "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30112,
-    "updated_at": "2026-08-19T12:28:20Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34062,
-    "updated_at": "2026-08-19T12:42:33Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9415,
-    "updated_at": "2026-08-19T12:44:14Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-19T11:32:07Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6213,
-    "updated_at": "2026-08-19T12:25:16Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   }
 ]
