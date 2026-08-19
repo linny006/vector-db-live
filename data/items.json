@@ -1,12 +1,75 @@
 [
   {
-    "description": "Your vector database, as typed tools. Write a tools.yaml, then load_tools in Python or serve over MCP.",
-    "id": "kjgpta/vectorsmith",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "kjgpta/vectorsmith",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T11:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-19T11:28:51Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Local-first AI knowledge platform that continuously builds, indexes, and queries your personal knowledge base from Obsid",
+    "id": "harisrana-dev/ai-knowledge-platform",
+    "language": "Python",
+    "name": "harisrana-dev/ai-knowledge-platform",
     "stars": 0,
-    "updated_at": "2026-08-19T11:18:50Z",
-    "url": "https://github.com/kjgpta/vectorsmith"
+    "updated_at": "2026-08-19T11:27:35Z",
+    "url": "https://github.com/harisrana-dev/ai-knowledge-platform"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45694,
+    "updated_at": "2026-08-19T11:27:19Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 782,
+    "updated_at": "2026-08-19T11:29:45Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-19T11:25:45Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T11:23:15Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-19T11:22:57Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -18,22 +81,13 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T11:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T11:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5803,
+    "updated_at": "2026-08-19T11:14:34Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -90,15 +144,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-19T10:56:55Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
     "id": "hhblaze/DBreeze",
     "language": "C#",
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 5,
-    "updated_at": "2026-08-19T11:12:12Z",
+    "updated_at": "2026-08-19T11:28:06Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
@@ -167,26 +212,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4421,
-    "updated_at": "2026-08-19T11:19:39Z",
+    "updated_at": "2026-08-19T11:30:05Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-19T10:29:12Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5804,
-    "updated_at": "2026-08-19T11:14:34Z",
-    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Static vs dynamic containers, fixed vs resizable storage, date-indexed data structures, chronological data retrieval, ar",
@@ -196,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-19T10:26:30Z",
     "url": "https://github.com/jsramesh1990/BeagleBone-Black-TI-AM3358"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-19T11:22:57Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -223,15 +241,6 @@
     "stars": 3,
     "updated_at": "2026-08-19T10:22:59Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45694,
-    "updated_at": "2026-08-19T10:21:19Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
@@ -265,7 +274,7 @@
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
-    "stars": 7054,
+    "stars": 7055,
     "updated_at": "2026-08-19T10:06:35Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
@@ -295,15 +304,6 @@
     "stars": 34061,
     "updated_at": "2026-08-19T09:59:19Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Single-file memory layer for AI agents, sub mili-second RAG on Apple Silicon. Metal Optimized On-Device. No Server. No A",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 782,
-    "updated_at": "2026-08-19T09:57:50Z",
-    "url": "https://github.com/christopherkarani/Wax"
   },
   {
     "description": "Production-style AI-powered customer support assistant built with Java, Spring Boot, Spring AI, RAG, vector search, and ",
