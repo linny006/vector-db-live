@@ -1,5 +1,95 @@
 [
   {
+    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-08-19T12:14:57Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-08-19T12:13:12Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "This document is a detailed reference to Contentstack\u2019s Content Delivery API. Retrieve content from your account and del",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:13:08Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
+    "description": "Your vector database, as typed tools. Write a tools.yaml, then load_tools in Python or serve over MCP.",
+    "id": "kjgpta/vectorsmith",
+    "language": "Python",
+    "name": "kjgpta/vectorsmith",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:11:30Z",
+    "url": "https://github.com/kjgpta/vectorsmith"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-19T12:13:48Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Chroma (Chroma DB) is an open-source, AI-native vector database (embedding database) for building LLM, RAG, and semantic",
+    "id": "api-evangelist/chroma-db",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma-db",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:09:44Z",
+    "url": "https://github.com/api-evangelist/chroma-db"
+  },
+  {
+    "description": "Chroma (Chroma DB) is an open-source AI-native embedding database designed to make it easy to build LLM applications by ",
+    "id": "api-evangelist/chroma",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:09:44Z",
+    "url": "https://github.com/api-evangelist/chroma"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-19T12:08:00Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Azure Cosmos DB is a fully managed, globally distributed, multi-model NoSQL and relational database service from Microso",
+    "id": "api-evangelist/azure-cosmos-db",
+    "language": "\u2014",
+    "name": "api-evangelist/azure-cosmos-db",
+    "stars": 0,
+    "updated_at": "2026-08-19T12:01:10Z",
+    "url": "https://github.com/api-evangelist/azure-cosmos-db"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T12:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,6 +99,24 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5804,
+    "updated_at": "2026-08-19T12:00:19Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Local-first encrypted memory for AI agents",
+    "id": "yp3y5akh0v/citadel",
+    "language": "Rust",
+    "name": "yp3y5akh0v/citadel",
+    "stars": 3,
+    "updated_at": "2026-08-19T12:00:19Z",
+    "url": "https://github.com/yp3y5akh0v/citadel"
+  },
+  {
     "description": "Local AI server with persistent memory, RAG, and multi-backend inference (MLX / llama.cpp / Ollama). Runs entirely on yo",
     "id": "jgoy-labs/server-nexe",
     "language": "Python",
@@ -16,15 +124,6 @@
     "stars": 10,
     "updated_at": "2026-08-19T11:59:56Z",
     "url": "https://github.com/jgoy-labs/server-nexe"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-19T11:55:06Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -50,7 +149,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 50,
-    "updated_at": "2026-08-19T11:52:40Z",
+    "updated_at": "2026-08-19T12:11:09Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -61,24 +160,6 @@
     "stars": 3,
     "updated_at": "2026-08-19T11:51:33Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T11:50:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-08-19T11:49:44Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -104,7 +185,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4421,
-    "updated_at": "2026-08-19T11:50:08Z",
+    "updated_at": "2026-08-19T12:15:05Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -122,7 +203,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34062,
-    "updated_at": "2026-08-19T11:40:02Z",
+    "updated_at": "2026-08-19T12:11:42Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -131,35 +212,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9415,
-    "updated_at": "2026-08-19T11:39:59Z",
+    "updated_at": "2026-08-19T12:03:25Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-19T11:39:02Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Local-first encrypted memory for AI agents",
-    "id": "yp3y5akh0v/citadel",
-    "language": "Rust",
-    "name": "yp3y5akh0v/citadel",
-    "stars": 3,
-    "updated_at": "2026-08-19T12:00:19Z",
-    "url": "https://github.com/yp3y5akh0v/citadel"
-  },
-  {
-    "description": "Your vector database, as typed tools. Write a tools.yaml, then load_tools in Python or serve over MCP.",
-    "id": "kjgpta/vectorsmith",
-    "language": "Python",
-    "name": "kjgpta/vectorsmith",
-    "stars": 0,
-    "updated_at": "2026-08-19T11:32:14Z",
-    "url": "https://github.com/kjgpta/vectorsmith"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -176,7 +230,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6213,
-    "updated_at": "2026-08-19T11:50:48Z",
+    "updated_at": "2026-08-19T12:07:27Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -184,7 +238,7 @@
     "id": "christopherkarani/Wax",
     "language": "Swift",
     "name": "christopherkarani/Wax",
-    "stars": 782,
+    "stars": 783,
     "updated_at": "2026-08-19T11:31:06Z",
     "url": "https://github.com/christopherkarani/Wax"
   },
@@ -225,15 +279,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5803,
-    "updated_at": "2026-08-19T12:00:19Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-19T11:03:33Z",
+    "updated_at": "2026-08-19T12:13:33Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -356,7 +401,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7055,
-    "updated_at": "2026-08-19T11:56:38Z",
+    "updated_at": "2026-08-19T12:00:24Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -400,53 +445,8 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11193,
+    "stars": 11194,
     "updated_at": "2026-08-19T09:42:01Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-19T09:43:07Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
-    "id": "ogham-mcp/ogham-mcp",
-    "language": "Python",
-    "name": "ogham-mcp/ogham-mcp",
-    "stars": 113,
-    "updated_at": "2026-08-19T09:26:40Z",
-    "url": "https://github.com/ogham-mcp/ogham-mcp"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) system built from scratch, no LangChain/LlamaIndex. Custom chunking, local embedd",
-    "id": "SaniaKhizar/RAG-from-scratch",
-    "language": "Python",
-    "name": "SaniaKhizar/RAG-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-08-19T09:15:25Z",
-    "url": "https://github.com/SaniaKhizar/RAG-from-scratch"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-08-19T09:09:37Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "Operational Database for AI Agents Provide causality lineage, DAG, and State Replay , build to make AI Agents auditable ",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "TypeScript",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 40,
-    "updated_at": "2026-08-19T09:07:03Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
   }
 ]
