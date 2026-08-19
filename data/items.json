@@ -1,5 +1,122 @@
 [
   {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15462,
+    "updated_at": "2026-08-19T03:44:08Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45682,
+    "updated_at": "2026-08-19T03:43:19Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
+    "id": "yantrikos/yantrikdb-mcp",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-mcp",
+    "stars": 24,
+    "updated_at": "2026-08-19T03:41:45Z",
+    "url": "https://github.com/yantrikos/yantrikdb-mcp"
+  },
+  {
+    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
+    "id": "yantrikos/yantrikdb-server",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb-server",
+    "stars": 171,
+    "updated_at": "2026-08-19T03:41:44Z",
+    "url": "https://github.com/yantrikos/yantrikdb-server"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 50,
+    "updated_at": "2026-08-19T03:41:43Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Lexical vs Vector vs Graph RAG over one identical chunk set, with deterministic evaluation, a self-correcting LangGraph ",
+    "id": "pathak1005/rag-arena",
+    "language": "Python",
+    "name": "pathak1005/rag-arena",
+    "stars": 1,
+    "updated_at": "2026-08-19T03:40:03Z",
+    "url": "https://github.com/pathak1005/rag-arena"
+  },
+  {
+    "description": "\ud83d\udc15 Sniffs out the lease clauses that shouldn't be there \u2014 WA tenant-law RAG: clause-by-clause scan reports with statute c",
+    "id": "tywangq/leasehound",
+    "language": "Python",
+    "name": "tywangq/leasehound",
+    "stars": 2,
+    "updated_at": "2026-08-19T03:37:31Z",
+    "url": "https://github.com/tywangq/leasehound"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-19T03:36:21Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-19T03:39:00Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2508,
+    "updated_at": "2026-08-19T03:32:19Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-19T03:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-19T03:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1089,
+    "updated_at": "2026-08-19T03:45:03Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
@@ -18,22 +135,13 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-19T03:29:14Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-19T03:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16739,
+    "updated_at": "2026-08-19T03:29:12Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "This project employs an open-source LLM model using Ollama and Langchain, integrated with a vector database for RAG in t",
@@ -43,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T03:26:02Z",
     "url": "https://github.com/DenysMenfredy/crohn-disease-llm-chat"
-  },
-  {
-    "description": "Lexical vs Vector vs Graph RAG over one identical chunk set, with deterministic evaluation, a self-correcting LangGraph ",
-    "id": "pathak1005/rag-arena",
-    "language": "Python",
-    "name": "pathak1005/rag-arena",
-    "stars": 1,
-    "updated_at": "2026-08-19T03:25:16Z",
-    "url": "https://github.com/pathak1005/rag-arena"
   },
   {
     "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
@@ -79,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T03:13:55Z",
     "url": "https://github.com/rvarun03/ARIOS"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2507,
-    "updated_at": "2026-08-19T03:12:42Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -135,15 +225,6 @@
     "url": "https://github.com/omerakben/omer-akben"
   },
   {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 50,
-    "updated_at": "2026-08-19T03:14:10Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -167,7 +248,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-19T02:55:18Z",
+    "updated_at": "2026-08-19T03:44:43Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -184,7 +265,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1436,
+    "stars": 1438,
     "updated_at": "2026-08-19T02:48:58Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -216,21 +297,12 @@
     "url": "https://github.com/wontopos/WMB-100K"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45681,
-    "updated_at": "2026-08-19T02:31:19Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9414,
-    "updated_at": "2026-08-19T03:12:32Z",
+    "updated_at": "2026-08-19T03:36:52Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -248,7 +320,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6344,
-    "updated_at": "2026-08-19T02:51:51Z",
+    "updated_at": "2026-08-19T03:35:04Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -259,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T02:21:57Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "\ud83d\udc15 Sniffs out the lease clauses that shouldn't be there \u2014 WA tenant-law RAG: clause-by-clause scan reports with statute c",
-    "id": "tywangq/leasehound",
-    "language": "Python",
-    "name": "tywangq/leasehound",
-    "stars": 2,
-    "updated_at": "2026-08-19T02:20:18Z",
-    "url": "https://github.com/tywangq/leasehound"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -284,17 +347,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8109,
-    "updated_at": "2026-08-19T02:19:16Z",
+    "updated_at": "2026-08-19T03:30:54Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1089,
-    "updated_at": "2026-08-19T03:30:22Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -302,17 +356,8 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 226,
-    "updated_at": "2026-08-19T02:15:18Z",
+    "updated_at": "2026-08-19T03:40:59Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-19T02:09:59Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "A federated retrieval router over four stores -- vector, graph, full-text and relational -- that measures the ROUTING DE",
@@ -346,7 +391,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 64893,
+    "stars": 64894,
     "updated_at": "2026-08-19T01:33:39Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -358,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T01:51:22Z",
     "url": "https://github.com/firelock-ai/kin-vector"
-  },
-  {
-    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
-    "id": "yantrikos/yantrikdb-server",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb-server",
-    "stars": 171,
-    "updated_at": "2026-08-19T01:22:42Z",
-    "url": "https://github.com/yantrikos/yantrikdb-server"
   },
   {
     "description": "\u2060Daemonless, local-first semantic memory CLI for AI coding agents using SQLite and Transformers.js. Persistent context f",
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "CodeAbra/iai-personal-memory-engine",
     "stars": 678,
-    "updated_at": "2026-08-19T01:09:33Z",
+    "updated_at": "2026-08-19T03:44:23Z",
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 10245,
     "updated_at": "2026-08-19T01:00:37Z",
     "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Pinecone BYOC",
-    "id": "pinecone-io/pulumi-pinecone-byoc",
-    "language": "Python",
-    "name": "pinecone-io/pulumi-pinecone-byoc",
-    "stars": 13,
-    "updated_at": "2026-08-19T01:11:42Z",
-    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
-  },
-  {
-    "description": "",
-    "id": "threefigure-achromia682/ai-memory",
-    "language": "\u2014",
-    "name": "threefigure-achromia682/ai-memory",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:35:56Z",
-    "url": "https://github.com/threefigure-achromia682/ai-memory"
-  },
-  {
-    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
-    "id": "alegameplays14-del/leica-infinity-2026",
-    "language": "\u2014",
-    "name": "alegameplays14-del/leica-infinity-2026",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:35:05Z",
-    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-08-19T00:33:59Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
   }
 ]
