@@ -1,11 +1,146 @@
 [
   {
+    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
+    "id": "vicquick/nobrainr",
+    "language": "Python",
+    "name": "vicquick/nobrainr",
+    "stars": 1,
+    "updated_at": "2026-08-20T20:59:03Z",
+    "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
+    "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
+    "id": "api-evangelist/surrealdb",
+    "language": "\u2014",
+    "name": "api-evangelist/surrealdb",
+    "stars": 0,
+    "updated_at": "2026-08-20T20:57:41Z",
+    "url": "https://github.com/api-evangelist/surrealdb"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Programa abierto de ingenier\u00eda de bases de datos \u00b7 64 clases en 14 partes \u00b7 210 horas \u00b7 Del modelado conceptual a la ",
+    "id": "vladimiracunadev-create/database-systems-labs",
+    "language": "HTML",
+    "name": "vladimiracunadev-create/database-systems-labs",
+    "stars": 1,
+    "updated_at": "2026-08-20T20:57:18Z",
+    "url": "https://github.com/vladimiracunadev-create/database-systems-labs"
+  },
+  {
+    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
+    "id": "oracle/langchain-oracle",
+    "language": "Python",
+    "name": "oracle/langchain-oracle",
+    "stars": 60,
+    "updated_at": "2026-08-20T20:55:19Z",
+    "url": "https://github.com/oracle/langchain-oracle"
+  },
+  {
+    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
+    "id": "mdhabibi/llm-search-handbook",
+    "language": "Jupyter Notebook",
+    "name": "mdhabibi/llm-search-handbook",
+    "stars": 0,
+    "updated_at": "2026-08-20T20:55:09Z",
+    "url": "https://github.com/mdhabibi/llm-search-handbook"
+  },
+  {
+    "description": "RAG support bot answering docs questions with citations. Built twice: n8n workflow and Python/LangChain implementation. ",
+    "id": "Muhammad-Abu-Bakar/rag-customer-support-bot",
+    "language": "Python",
+    "name": "Muhammad-Abu-Bakar/rag-customer-support-bot",
+    "stars": 1,
+    "updated_at": "2026-08-20T20:54:25Z",
+    "url": "https://github.com/Muhammad-Abu-Bakar/rag-customer-support-bot"
+  },
+  {
+    "description": "Operational Database for AI Agents Provide causality lineage, DAG, and State Replay , build to make AI Agents auditable ",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "TypeScript",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 41,
+    "updated_at": "2026-08-20T20:57:26Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7055,
+    "updated_at": "2026-08-20T20:53:29Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
+    "id": "api-evangelist/sequoiadb",
+    "language": "\u2014",
+    "name": "api-evangelist/sequoiadb",
+    "stars": 0,
+    "updated_at": "2026-08-20T20:53:29Z",
+    "url": "https://github.com/api-evangelist/sequoiadb"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-08-20T20:53:15Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh",
+    "id": "dangkhoa2016/Qdrant-Native-Portable",
+    "language": "Shell",
+    "name": "dangkhoa2016/Qdrant-Native-Portable",
+    "stars": 0,
+    "updated_at": "2026-08-20T20:52:40Z",
+    "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1880,
+    "updated_at": "2026-08-20T20:52:09Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1095,
+    "updated_at": "2026-08-20T21:00:01Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "VortexDB -  A lightweight, vector database built from scratch in Rust \ud83e\udd80",
+    "id": "sdslabs/VortexDB",
+    "language": "Rust",
+    "name": "sdslabs/VortexDB",
+    "stars": 17,
+    "updated_at": "2026-08-20T20:47:15Z",
+    "url": "https://github.com/sdslabs/VortexDB"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-20T20:46:13Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-20T20:45:25Z",
+    "updated_at": "2026-08-20T20:46:00Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -14,8 +149,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-20T20:45:15Z",
+    "updated_at": "2026-08-20T21:00:27Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34096,
+    "updated_at": "2026-08-20T20:58:09Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11212,
+    "updated_at": "2026-08-20T20:54:36Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
@@ -126,24 +279,6 @@
     "url": "https://github.com/api-evangelist/lancedb"
   },
   {
-    "description": "Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh",
-    "id": "dangkhoa2016/Qdrant-Native-Portable",
-    "language": "Shell",
-    "name": "dangkhoa2016/Qdrant-Native-Portable",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:32:49Z",
-    "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Programa abierto de ingenier\u00eda de bases de datos \u00b7 64 clases en 14 partes \u00b7 210 horas \u00b7 Del modelado conceptual a la ",
-    "id": "vladimiracunadev-create/database-systems-labs",
-    "language": "HTML",
-    "name": "vladimiracunadev-create/database-systems-labs",
-    "stars": 1,
-    "updated_at": "2026-08-20T20:32:13Z",
-    "url": "https://github.com/vladimiracunadev-create/database-systems-labs"
-  },
-  {
     "description": "IronCore Labs builds application-layer encryption tools that keep sensitive data private while it stays usable. Its prod",
     "id": "api-evangelist/ironcore-labs",
     "language": "\u2014",
@@ -198,21 +333,12 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-08-20T20:25:43Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-20T20:44:21Z",
+    "updated_at": "2026-08-20T20:54:55Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -230,7 +356,7 @@
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 2,
-    "updated_at": "2026-08-20T20:24:39Z",
+    "updated_at": "2026-08-20T20:58:30Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -250,15 +376,6 @@
     "stars": 8,
     "updated_at": "2026-08-20T20:44:15Z",
     "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1095,
-    "updated_at": "2026-08-20T20:44:52Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
@@ -315,15 +432,6 @@
     "url": "https://github.com/RaptorAssassin/smart-file-search"
   },
   {
-    "description": "VortexDB -  A lightweight, vector database built from scratch in Rust \ud83e\udd80",
-    "id": "sdslabs/VortexDB",
-    "language": "Rust",
-    "name": "sdslabs/VortexDB",
-    "stars": 17,
-    "updated_at": "2026-08-20T20:43:10Z",
-    "url": "https://github.com/sdslabs/VortexDB"
-  },
-  {
     "description": "Crate.io is the company behind CrateDB, a distributed SQL database engineered for real-time analytics on large volumes o",
     "id": "api-evangelist/crate-io",
     "language": "\u2014",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T20:14:10Z",
     "url": "https://github.com/api-evangelist/contentstack"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 15,
-    "updated_at": "2026-08-20T20:11:43Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "Chroma (Chroma DB) is an open-source, AI-native vector database (embedding database) for building LLM, RAG, and semantic",
-    "id": "api-evangelist/chroma-db",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma-db",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:11:42Z",
-    "url": "https://github.com/api-evangelist/chroma-db"
-  },
-  {
-    "description": "Chroma (Chroma DB) is an open-source AI-native embedding database designed to make it easy to build LLM applications by ",
-    "id": "api-evangelist/chroma",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:11:42Z",
-    "url": "https://github.com/api-evangelist/chroma"
-  },
-  {
-    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
-    "id": "mdhabibi/llm-search-handbook",
-    "language": "Jupyter Notebook",
-    "name": "mdhabibi/llm-search-handbook",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:10:00Z",
-    "url": "https://github.com/mdhabibi/llm-search-handbook"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45715,
-    "updated_at": "2026-08-20T20:08:56Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Azure Cosmos DB is a fully managed, globally distributed, multi-model NoSQL and relational database service from Microso",
-    "id": "api-evangelist/azure-cosmos-db",
-    "language": "\u2014",
-    "name": "api-evangelist/azure-cosmos-db",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:05:41Z",
-    "url": "https://github.com/api-evangelist/azure-cosmos-db"
-  },
-  {
-    "description": "Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic searc",
-    "id": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-    "language": "HTML",
-    "name": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-    "stars": 219,
-    "updated_at": "2026-08-20T20:05:22Z",
-    "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-20T20:02:46Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6349,
-    "updated_at": "2026-08-20T20:38:05Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
-    "id": "usetheoai/theodb-bench",
-    "language": "Python",
-    "name": "usetheoai/theodb-bench",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:00:14Z",
-    "url": "https://github.com/usetheoai/theodb-bench"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11212,
-    "updated_at": "2026-08-20T20:44:51Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha",
-    "id": "api-evangelist/aerospike",
-    "language": "\u2014",
-    "name": "api-evangelist/aerospike",
-    "stars": 0,
-    "updated_at": "2026-08-20T19:58:39Z",
-    "url": "https://github.com/api-evangelist/aerospike"
   }
 ]
