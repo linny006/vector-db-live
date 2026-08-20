@@ -1,12 +1,84 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-20T21:25:25Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T21:23:47Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 2,
+    "updated_at": "2026-08-20T21:23:34Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
     "description": "Curated list of models, vector stores and benchmarks for image and text retrieval",
     "id": "matijani/awesome-multimodal-retrieval",
     "language": "Python",
     "name": "matijani/awesome-multimodal-retrieval",
     "stars": 0,
-    "updated_at": "2026-08-20T21:14:48Z",
+    "updated_at": "2026-08-20T21:23:06Z",
     "url": "https://github.com/matijani/awesome-multimodal-retrieval"
+  },
+  {
+    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
+    "id": "mdhabibi/llm-search-handbook",
+    "language": "Jupyter Notebook",
+    "name": "mdhabibi/llm-search-handbook",
+    "stars": 0,
+    "updated_at": "2026-08-20T21:22:01Z",
+    "url": "https://github.com/mdhabibi/llm-search-handbook"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Programa abierto de ingenier\u00eda de bases de datos \u00b7 64 clases en 14 partes \u00b7 210 horas \u00b7 Del modelado conceptual a la ",
+    "id": "vladimiracunadev-create/database-systems-labs",
+    "language": "HTML",
+    "name": "vladimiracunadev-create/database-systems-labs",
+    "stars": 1,
+    "updated_at": "2026-08-20T21:21:42Z",
+    "url": "https://github.com/vladimiracunadev-create/database-systems-labs"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7056,
+    "updated_at": "2026-08-20T21:20:21Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-20T21:16:35Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T21:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
@@ -16,15 +88,6 @@
     "stars": 784,
     "updated_at": "2026-08-20T21:13:38Z",
     "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Programa abierto de ingenier\u00eda de bases de datos \u00b7 64 clases en 14 partes \u00b7 210 horas \u00b7 Del modelado conceptual a la ",
-    "id": "vladimiracunadev-create/database-systems-labs",
-    "language": "HTML",
-    "name": "vladimiracunadev-create/database-systems-labs",
-    "stars": 1,
-    "updated_at": "2026-08-20T21:09:43Z",
-    "url": "https://github.com/vladimiracunadev-create/database-systems-labs"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -52,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T21:06:33Z",
     "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 2,
-    "updated_at": "2026-08-20T21:06:30Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
@@ -117,30 +171,12 @@
     "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T21:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-20T21:00:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1093,
-    "updated_at": "2026-08-20T21:09:54Z",
+    "updated_at": "2026-08-20T21:25:36Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -162,15 +198,6 @@
     "url": "https://github.com/oracle/langchain-oracle"
   },
   {
-    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
-    "id": "mdhabibi/llm-search-handbook",
-    "language": "Jupyter Notebook",
-    "name": "mdhabibi/llm-search-handbook",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:55:09Z",
-    "url": "https://github.com/mdhabibi/llm-search-handbook"
-  },
-  {
     "description": "RAG support bot answering docs questions with citations. Built twice: n8n workflow and Python/LangChain implementation. ",
     "id": "Muhammad-Abu-Bakar/rag-customer-support-bot",
     "language": "Python",
@@ -185,17 +212,8 @@
     "language": "TypeScript",
     "name": "Zizka-ai/ZizkaDB",
     "stars": 41,
-    "updated_at": "2026-08-20T21:14:33Z",
+    "updated_at": "2026-08-20T21:25:28Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7055,
-    "updated_at": "2026-08-20T20:53:29Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
@@ -239,7 +257,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34096,
-    "updated_at": "2026-08-20T20:58:09Z",
+    "updated_at": "2026-08-20T21:17:34Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -283,7 +301,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35269,
+    "stars": 35270,
     "updated_at": "2026-08-20T20:39:58Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -396,21 +414,12 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-20T20:25:50Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-20T20:54:55Z",
+    "updated_at": "2026-08-20T21:15:57Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-20T20:44:15Z",
     "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
-    "id": "api-evangelist/datastax",
-    "language": "\u2014",
-    "name": "api-evangelist/datastax",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:16:30Z",
-    "url": "https://github.com/api-evangelist/datastax"
   }
 ]
