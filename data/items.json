@@ -1,5 +1,113 @@
 [
   {
+    "description": "AI-powered ConstructionRetrieval-Augmented Generation system built with FastAPI, Streamlit, Groq LLMs.",
+    "id": "Danish08654/Construction-AI-Assistant",
+    "language": "Python",
+    "name": "Danish08654/Construction-AI-Assistant",
+    "stars": 4,
+    "updated_at": "2026-08-20T03:59:50Z",
+    "url": "https://github.com/Danish08654/Construction-AI-Assistant"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-20T03:57:05Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-20T03:51:41Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
+    "id": "boulif781/enterprise-knowledge-assistant",
+    "language": "\u2014",
+    "name": "boulif781/enterprise-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-20T03:49:41Z",
+    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
+  },
+  {
+    "description": "The_Borg_DB \u2014 local-first knowledge intelligence system. Dual SQL + vector store, 4 retrieval modes, 18-stage farming pi",
+    "id": "D-jai/The_Borg_DB-public",
+    "language": "Python",
+    "name": "D-jai/The_Borg_DB-public",
+    "stars": 1,
+    "updated_at": "2026-08-20T03:48:24Z",
+    "url": "https://github.com/D-jai/The_Borg_DB-public"
+  },
+  {
+    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
+    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "language": "Jupyter Notebook",
+    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "stars": 1,
+    "updated_at": "2026-08-20T03:47:48Z",
+    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
+  },
+  {
+    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
+    "id": "Bekhbekh7821/CanopyOps",
+    "language": "\u2014",
+    "name": "Bekhbekh7821/CanopyOps",
+    "stars": 1,
+    "updated_at": "2026-08-20T03:47:23Z",
+    "url": "https://github.com/Bekhbekh7821/CanopyOps"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-20T03:45:58Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 706,
+    "updated_at": "2026-08-20T03:45:50Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1091,
+    "updated_at": "2026-08-20T03:45:38Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T03:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T04:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
     "id": "doriapt53/spring-manifold-next-gen",
     "language": "TypeScript",
@@ -58,7 +166,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1475,
+    "stars": 1476,
     "updated_at": "2026-08-20T03:36:48Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -122,7 +230,7 @@
     "language": "Rust",
     "name": "tamnd/kura",
     "stars": 0,
-    "updated_at": "2026-08-20T03:32:41Z",
+    "updated_at": "2026-08-20T03:54:22Z",
     "url": "https://github.com/tamnd/kura"
   },
   {
@@ -142,24 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T03:31:31Z",
     "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T03:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-20T03:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
@@ -211,7 +301,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35258,
+    "stars": 35259,
     "updated_at": "2026-08-20T03:25:35Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -288,15 +378,6 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-20T03:18:21Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
     "id": "arpan10000/simple-rag-pipeline-demo",
     "language": "Jupyter Notebook",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-20T03:08:31Z",
     "url": "https://github.com/vladimiracunadev-create/database-systems-labs"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9175,
-    "updated_at": "2026-08-20T03:39:27Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
-    "id": "ermermermermidk/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ermermermermidk/mcp-ai-memory",
-    "stars": 1,
-    "updated_at": "2026-08-20T03:08:04Z",
-    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "GPU-sized local chat, image gen, RAG, and voice stack, one command.",
-    "id": "Cyb3rRon1n/anvil",
-    "language": "Python",
-    "name": "Cyb3rRon1n/anvil",
-    "stars": 0,
-    "updated_at": "2026-08-20T03:06:33Z",
-    "url": "https://github.com/Cyb3rRon1n/anvil"
-  },
-  {
-    "description": "Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh",
-    "id": "dangkhoa2016/Qdrant-Native-Portable",
-    "language": "Shell",
-    "name": "dangkhoa2016/Qdrant-Native-Portable",
-    "stars": 0,
-    "updated_at": "2026-08-20T03:06:16Z",
-    "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
-  },
-  {
-    "description": "\ud83e\udde0 Predictable, embedded multimodal vector database & offline RAG engine for Edge AI (ARM64 / Zero-OOM). Built in C++20.",
-    "id": "pomagrenate/pomaidb",
-    "language": "C++",
-    "name": "pomagrenate/pomaidb",
-    "stars": 19,
-    "updated_at": "2026-08-20T03:01:40Z",
-    "url": "https://github.com/pomagrenate/pomaidb"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-20T02:57:09Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": " RAG pipeline with Qdrant, Ollama, and BentoML \u2014 MLflow-tracked eval harness with a CI regression gate",
-    "id": "goshipra/rag-mlops-pipeline",
-    "language": "Python",
-    "name": "goshipra/rag-mlops-pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-20T02:39:58Z",
-    "url": "https://github.com/goshipra/rag-mlops-pipeline"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-20T02:37:03Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 469,
-    "updated_at": "2026-08-20T02:30:28Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   }
 ]
