@@ -5,8 +5,125 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-20T03:00:19Z",
+    "updated_at": "2026-08-20T03:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 4,
+    "updated_at": "2026-08-20T03:14:40Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45703,
+    "updated_at": "2026-08-20T03:15:20Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 228,
+    "updated_at": "2026-08-20T03:11:36Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-20T03:08:50Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-08-20T03:08:40Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-08-20T03:08:39Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Programa abierto de ingenier\u00eda de bases de datos \u00b7 64 clases en 14 partes \u00b7 210 horas \u00b7 Del modelado conceptual a la ",
+    "id": "vladimiracunadev-create/database-systems-labs",
+    "language": "HTML",
+    "name": "vladimiracunadev-create/database-systems-labs",
+    "stars": 1,
+    "updated_at": "2026-08-20T03:08:31Z",
+    "url": "https://github.com/vladimiracunadev-create/database-systems-labs"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9175,
+    "updated_at": "2026-08-20T03:11:51Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-08-20T03:08:04Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "GPU-sized local chat, image gen, RAG, and voice stack, one command.",
+    "id": "Cyb3rRon1n/anvil",
+    "language": "Python",
+    "name": "Cyb3rRon1n/anvil",
+    "stars": 0,
+    "updated_at": "2026-08-20T03:06:33Z",
+    "url": "https://github.com/Cyb3rRon1n/anvil"
+  },
+  {
+    "description": "Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh",
+    "id": "dangkhoa2016/Qdrant-Native-Portable",
+    "language": "Shell",
+    "name": "dangkhoa2016/Qdrant-Native-Portable",
+    "stars": 0,
+    "updated_at": "2026-08-20T03:06:16Z",
+    "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
+  },
+  {
+    "description": "\ud83e\udde0 Predictable, embedded multimodal vector database & offline RAG engine for Edge AI (ARM64 / Zero-OOM). Built in C++20.",
+    "id": "pomagrenate/pomaidb",
+    "language": "C++",
+    "name": "pomagrenate/pomaidb",
+    "stars": 19,
+    "updated_at": "2026-08-20T03:01:40Z",
+    "url": "https://github.com/pomagrenate/pomaidb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T03:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -36,33 +153,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T02:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45703,
-    "updated_at": "2026-08-20T02:43:20Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Programa abierto de ingenier\u00eda de bases de datos \u00b7 64 clases en 14 partes \u00b7 210 horas \u00b7 Del modelado conceptual a la ",
-    "id": "vladimiracunadev-create/database-systems-labs",
-    "language": "HTML",
-    "name": "vladimiracunadev-create/database-systems-labs",
-    "stars": 1,
-    "updated_at": "2026-08-20T02:42:10Z",
-    "url": "https://github.com/vladimiracunadev-create/database-systems-labs"
-  },
-  {
     "description": " RAG pipeline with Qdrant, Ollama, and BentoML \u2014 MLflow-tracked eval harness with a CI regression gate",
     "id": "goshipra/rag-mlops-pipeline",
     "language": "Python",
@@ -70,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T02:39:58Z",
     "url": "https://github.com/goshipra/rag-mlops-pipeline"
-  },
-  {
-    "description": "Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh",
-    "id": "dangkhoa2016/Qdrant-Native-Portable",
-    "language": "Shell",
-    "name": "dangkhoa2016/Qdrant-Native-Portable",
-    "stars": 0,
-    "updated_at": "2026-08-20T02:39:37Z",
-    "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
   },
   {
     "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
@@ -131,17 +212,8 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1474,
-    "updated_at": "2026-08-20T02:27:35Z",
+    "updated_at": "2026-08-20T03:07:38Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "Python",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-08-20T02:19:30Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
     "description": "Multi-agent LangGraph pipeline ingesting 6 sources into DuckDB, transformed with dbt into Gold-layer marts, exposed via ",
@@ -167,7 +239,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9416,
-    "updated_at": "2026-08-20T02:15:15Z",
+    "updated_at": "2026-08-20T03:05:39Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -180,21 +252,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9175,
-    "updated_at": "2026-08-20T02:57:31Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Document-first sqlite3+faiss vector database",
     "id": "thomas-villani/localvectordb",
     "language": "Python",
     "name": "thomas-villani/localvectordb",
     "stars": 2,
-    "updated_at": "2026-08-20T01:58:24Z",
+    "updated_at": "2026-08-20T03:08:39Z",
     "url": "https://github.com/thomas-villani/localvectordb"
   },
   {
@@ -275,7 +338,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-20T00:54:22Z",
+    "updated_at": "2026-08-20T03:09:12Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -301,7 +364,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15467,
+    "stars": 15468,
     "updated_at": "2026-08-20T00:01:06Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -337,7 +400,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34070,
+    "stars": 34071,
     "updated_at": "2026-08-19T23:36:22Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -385,68 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-19T22:40:12Z",
     "url": "https://github.com/jgoy-labs/server-nexe"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 5,
-    "updated_at": "2026-08-19T22:37:53Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "A production-ready, self-hosted RAG (Retrieval Augmented Generation) chatbot widget built with Next.js, Redis vector sto",
-    "id": "arnobt78/Embeddable-FAQ-Seed-RAG-Chatbot-Widget--NextJS-FullStack",
-    "language": "TypeScript",
-    "name": "arnobt78/Embeddable-FAQ-Seed-RAG-Chatbot-Widget--NextJS-FullStack",
-    "stars": 3,
-    "updated_at": "2026-08-19T22:26:11Z",
-    "url": "https://github.com/arnobt78/Embeddable-FAQ-Seed-RAG-Chatbot-Widget--NextJS-FullStack"
-  },
-  {
-    "description": "Production RAG pipeline with ChromaDB vector search, PDF chunking, citation provenance, and Groq cloud fallback.",
-    "id": "sujit6666/rag-with-proof",
-    "language": "Python",
-    "name": "sujit6666/rag-with-proof",
-    "stars": 0,
-    "updated_at": "2026-08-19T22:15:50Z",
-    "url": "https://github.com/sujit6666/rag-with-proof"
-  },
-  {
-    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
-    "id": "ankush-poonia007/STARTUP-AI-AGENT",
-    "language": "Python",
-    "name": "ankush-poonia007/STARTUP-AI-AGENT",
-    "stars": 5,
-    "updated_at": "2026-08-19T22:03:54Z",
-    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
-  },
-  {
-    "description": "Postgres MCP Server",
-    "id": "devopam/MCPg",
-    "language": "Python",
-    "name": "devopam/MCPg",
-    "stars": 9,
-    "updated_at": "2026-08-19T21:58:42Z",
-    "url": "https://github.com/devopam/MCPg"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) application for chatting with PDFs and text files locally, featuring a Streamlit ",
-    "id": "Amr-Moussa-Ibrahim/ai-document-chat",
-    "language": "Python",
-    "name": "Amr-Moussa-Ibrahim/ai-document-chat",
-    "stars": 0,
-    "updated_at": "2026-08-19T21:54:27Z",
-    "url": "https://github.com/Amr-Moussa-Ibrahim/ai-document-chat"
-  },
-  {
-    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 784,
-    "updated_at": "2026-08-19T21:45:54Z",
-    "url": "https://github.com/christopherkarani/Wax"
   }
 ]
