@@ -1,12 +1,102 @@
 [
   {
+    "description": "Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-08-20T19:58:39Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "VortexDB -  A lightweight, vector database built from scratch in Rust \ud83e\udd80",
+    "id": "sdslabs/VortexDB",
+    "language": "Rust",
+    "name": "sdslabs/VortexDB",
+    "stars": 17,
+    "updated_at": "2026-08-20T19:57:59Z",
+    "url": "https://github.com/sdslabs/VortexDB"
+  },
+  {
+    "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
+    "id": "hhblaze/DBreeze",
+    "language": "C#",
+    "name": "hhblaze/DBreeze",
+    "stars": 578,
+    "updated_at": "2026-08-20T19:57:58Z",
+    "url": "https://github.com/hhblaze/DBreeze"
+  },
+  {
+    "description": "A privacy-first AI-powered desktop tool that indexes files using local AI models. Built with Tauri, Rust and Ollama.",
+    "id": "RaptorAssassin/smart-file-search",
+    "language": "Rust",
+    "name": "RaptorAssassin/smart-file-search",
+    "stars": 0,
+    "updated_at": "2026-08-20T19:56:20Z",
+    "url": "https://github.com/RaptorAssassin/smart-file-search"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-20T19:56:19Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 719,
+    "updated_at": "2026-08-20T19:55:48Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "keldra-store/keldra",
+    "language": "Rust",
+    "name": "keldra-store/keldra",
+    "stars": 77,
+    "updated_at": "2026-08-20T19:50:23Z",
+    "url": "https://github.com/keldra-store/keldra"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-08-20T19:57:50Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-20T19:44:37Z",
+    "updated_at": "2026-08-20T19:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T19:45:13Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A vector database built from first principles in Rust \u2014 HNSW, mmap storage, product quantization, AVX2 kernels, lock-fre",
+    "id": "MaheshBhushan/vektordb",
+    "language": "Rust",
+    "name": "MaheshBhushan/vektordb",
+    "stars": 0,
+    "updated_at": "2026-08-20T19:45:10Z",
+    "url": "https://github.com/MaheshBhushan/vektordb"
   },
   {
     "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
@@ -18,6 +108,15 @@
     "url": "https://github.com/christopherkarani/Wax"
   },
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-20T19:41:04Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
@@ -25,15 +124,6 @@
     "stars": 64979,
     "updated_at": "2026-08-20T19:37:20Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Best vector databases",
-    "id": "liangzhengtao/awesome-vector-db",
-    "language": "\u2014",
-    "name": "liangzhengtao/awesome-vector-db",
-    "stars": 0,
-    "updated_at": "2026-08-20T19:36:51Z",
-    "url": "https://github.com/liangzhengtao/awesome-vector-db"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -70,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-20T19:30:33Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T19:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
@@ -131,7 +212,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1095,
-    "updated_at": "2026-08-20T19:41:29Z",
+    "updated_at": "2026-08-20T19:52:50Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -153,15 +234,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-08-20T19:21:24Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
     "id": "Cognipeer/console",
     "language": "TypeScript",
@@ -169,15 +241,6 @@
     "stars": 23,
     "updated_at": "2026-08-20T19:33:06Z",
     "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-20T19:41:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -221,7 +284,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11210,
-    "updated_at": "2026-08-20T19:30:12Z",
+    "updated_at": "2026-08-20T19:58:50Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -248,7 +311,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-20T19:33:04Z",
+    "updated_at": "2026-08-20T19:59:27Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -320,7 +383,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6350,
-    "updated_at": "2026-08-20T19:37:26Z",
+    "updated_at": "2026-08-20T19:45:19Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -360,15 +423,6 @@
     "url": "https://github.com/integrallis/vectors"
   },
   {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 719,
-    "updated_at": "2026-08-20T17:58:06Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-20T17:51:44Z",
     "url": "https://github.com/thomas-villani/localvectordb"
-  },
-  {
-    "description": "Curated list of models, vector stores and benchmarks for image and text retrieval",
-    "id": "matijani/awesome-multimodal-retrieval",
-    "language": "Python",
-    "name": "matijani/awesome-multimodal-retrieval",
-    "stars": 0,
-    "updated_at": "2026-08-20T17:51:06Z",
-    "url": "https://github.com/matijani/awesome-multimodal-retrieval"
-  },
-  {
-    "description": "AI-powered research assistant with persistent semantic memory, contradiction detection, idea synthesis, and knowledge gr",
-    "id": "aayushi-sing/research_memory_agent",
-    "language": "Python",
-    "name": "aayushi-sing/research_memory_agent",
-    "stars": 0,
-    "updated_at": "2026-08-20T17:49:10Z",
-    "url": "https://github.com/aayushi-sing/research_memory_agent"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-08-20T17:45:52Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Privacy-preserving middleware for RAG and vector embeddings. Defends against embedding inversion attacks using different",
-    "id": "omdesai69/privrag-guard",
-    "language": "Python",
-    "name": "omdesai69/privrag-guard",
-    "stars": 0,
-    "updated_at": "2026-08-20T17:42:12Z",
-    "url": "https://github.com/omdesai69/privrag-guard"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-08-20T17:41:46Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-08-20T17:39:53Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   }
 ]
