@@ -1,5 +1,41 @@
 [
   {
+    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:03:16Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh",
+    "id": "dangkhoa2016/Qdrant-Native-Portable",
+    "language": "Shell",
+    "name": "dangkhoa2016/Qdrant-Native-Portable",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:03:00Z",
+    "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
+  },
+  {
+    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 424,
+    "updated_at": "2026-08-20T08:01:45Z",
+    "url": "https://github.com/redis/redis-vl-python"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T08:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -22,7 +58,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12914,
+    "stars": 12915,
     "updated_at": "2026-08-20T07:58:28Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -36,6 +72,15 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45707,
+    "updated_at": "2026-08-20T07:52:25Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -43,15 +88,6 @@
     "stars": 34078,
     "updated_at": "2026-08-20T07:51:00Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-08-20T07:50:47Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -72,15 +108,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T07:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -95,7 +122,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6216,
-    "updated_at": "2026-08-20T07:59:41Z",
+    "updated_at": "2026-08-20T08:02:47Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -184,7 +211,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35260,
+    "stars": 35261,
     "updated_at": "2026-08-20T07:25:21Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -232,15 +259,6 @@
     "stars": 1487,
     "updated_at": "2026-08-20T07:04:11Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45707,
-    "updated_at": "2026-08-20T07:52:25Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Turbovec MCP Server: A local Retrieval-Augmented Generation (RAG) tool that allows AI to seamlessly read, chunk, remembe",
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30136,
-    "updated_at": "2026-08-20T07:50:47Z",
+    "updated_at": "2026-08-20T08:05:39Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 76,
     "updated_at": "2026-08-20T04:42:08Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "A deterministic NLI engine for real-time scientific fact-checking.",
-    "id": "AryanAngiras31/Verity",
-    "language": "Python",
-    "name": "AryanAngiras31/Verity",
-    "stars": 1,
-    "updated_at": "2026-08-20T04:37:38Z",
-    "url": "https://github.com/AryanAngiras31/Verity"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "Python",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-08-20T04:31:23Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
   }
 ]
