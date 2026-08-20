@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-20T10:00:22Z",
+    "updated_at": "2026-08-20T10:05:04Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-08-20T10:03:22Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-08-20T10:01:22Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-08-20T10:01:20Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-20T10:01:12Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-08-20T10:00:49Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T10:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -16,6 +70,33 @@
     "stars": 2,
     "updated_at": "2026-08-20T09:59:51Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-08-20T09:59:33Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 2,
+    "updated_at": "2026-08-20T09:59:24Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-08-20T09:59:14Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
   },
   {
     "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
@@ -32,7 +113,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6216,
-    "updated_at": "2026-08-20T09:58:46Z",
+    "updated_at": "2026-08-20T10:05:03Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -97,15 +178,6 @@
     "stars": 3,
     "updated_at": "2026-08-20T09:48:23Z",
     "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T09:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -284,7 +356,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9175,
-    "updated_at": "2026-08-20T09:52:40Z",
+    "updated_at": "2026-08-20T10:01:41Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -329,7 +401,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7057,
-    "updated_at": "2026-08-20T09:18:07Z",
+    "updated_at": "2026-08-20T10:02:54Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1093,
     "updated_at": "2026-08-20T08:08:44Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1615,
-    "updated_at": "2026-08-20T08:08:17Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 424,
-    "updated_at": "2026-08-20T08:52:16Z",
-    "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "\ud83d\udc15 Sniffs out the lease clauses that shouldn't be there \u2014 WA tenant-law RAG: clause-by-clause scan reports with statute c",
-    "id": "tywangq/leasehound",
-    "language": "Python",
-    "name": "tywangq/leasehound",
-    "stars": 2,
-    "updated_at": "2026-08-20T07:59:40Z",
-    "url": "https://github.com/tywangq/leasehound"
-  },
-  {
-    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 4,
-    "updated_at": "2026-08-20T07:43:27Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9416,
-    "updated_at": "2026-08-20T09:58:35Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1344,
-    "updated_at": "2026-08-20T07:45:54Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "\ud83d\udd2e Fast, native vector database client (Qdrant, pgvector...). Tauri + React.",
-    "id": "thangvv2704/vectorscope",
-    "language": "CSS",
-    "name": "thangvv2704/vectorscope",
-    "stars": 0,
-    "updated_at": "2026-08-20T07:10:32Z",
-    "url": "https://github.com/thangvv2704/vectorscope"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1490,
-    "updated_at": "2026-08-20T07:04:11Z",
-    "url": "https://github.com/xerj-org/xerj"
   }
 ]
