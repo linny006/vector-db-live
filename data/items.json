@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-20T15:00:28Z",
+    "updated_at": "2026-08-20T15:05:54Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-20T15:00:25Z",
+    "updated_at": "2026-08-20T15:04:34Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2552,
+    "updated_at": "2026-08-20T15:02:28Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7055,
+    "updated_at": "2026-08-20T15:00:30Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A minimal RAG system built with TypeScript, Fastify, PostgreSQL, pgvector, and Groq for document-based semantic search a",
+    "id": "sunflowerIU/ai-simple-rag",
+    "language": "TypeScript",
+    "name": "sunflowerIU/ai-simple-rag",
+    "stars": 0,
+    "updated_at": "2026-08-20T14:59:50Z",
+    "url": "https://github.com/sunflowerIU/ai-simple-rag"
   },
   {
     "description": "Autonomous Revenue Operating System (v7.2.0) powered by a 5-node AI swarm, Bayesian probability engines, and Kelly Crite",
@@ -23,7 +50,7 @@
     "language": "\u2014",
     "name": "Omni-Kernel/OS",
     "stars": 0,
-    "updated_at": "2026-08-20T14:58:58Z",
+    "updated_at": "2026-08-20T15:10:23Z",
     "url": "https://github.com/Omni-Kernel/OS"
   },
   {
@@ -45,6 +72,24 @@
     "url": "https://github.com/2B-4G10/NoLockQS"
   },
   {
+    "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
+    "id": "usetheoai/theodb-bench",
+    "language": "Python",
+    "name": "usetheoai/theodb-bench",
+    "stars": 0,
+    "updated_at": "2026-08-20T14:52:21Z",
+    "url": "https://github.com/usetheoai/theodb-bench"
+  },
+  {
+    "description": "Spring AI RAG\uff1aEmbedding\u3001\u5411\u91cf\u5e93\u4e0e\u68c0\u7d22\u589e\u5f3a\u751f\u6210\u793a\u4f8b",
+    "id": "zhijunio/spring-ai-chat-rag-samples",
+    "language": "Java",
+    "name": "zhijunio/spring-ai-chat-rag-samples",
+    "stars": 0,
+    "updated_at": "2026-08-20T14:50:20Z",
+    "url": "https://github.com/zhijunio/spring-ai-chat-rag-samples"
+  },
+  {
     "description": "A comprehensive exploration and implementation guide for LangChain and LangGraph frameworks, covering fundamental concep",
     "id": "Sandeep-singh-99/langchain-and-langgraph",
     "language": "Jupyter Notebook",
@@ -52,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-20T14:49:30Z",
     "url": "https://github.com/Sandeep-singh-99/langchain-and-langgraph"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2552,
-    "updated_at": "2026-08-20T15:02:28Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -86,7 +122,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-20T14:44:29Z",
+    "updated_at": "2026-08-20T15:11:23Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -95,17 +131,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6216,
-    "updated_at": "2026-08-20T14:55:07Z",
+    "updated_at": "2026-08-20T15:15:10Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7055,
-    "updated_at": "2026-08-20T15:00:30Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-20T14:44:20Z",
+    "updated_at": "2026-08-20T15:08:48Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6741,
-    "updated_at": "2026-08-20T14:24:53Z",
+    "updated_at": "2026-08-20T15:12:47Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34088,
-    "updated_at": "2026-08-20T14:59:29Z",
+    "updated_at": "2026-08-20T15:13:13Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30148,
-    "updated_at": "2026-08-20T14:39:11Z",
+    "updated_at": "2026-08-20T15:15:03Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -256,7 +283,7 @@
     "id": "MonishKanungo/MarkMem",
     "language": "Python",
     "name": "MonishKanungo/MarkMem",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-08-20T14:03:16Z",
     "url": "https://github.com/MonishKanungo/MarkMem"
   },
@@ -265,7 +292,7 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 5815,
+    "stars": 5816,
     "updated_at": "2026-08-20T14:02:07Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
@@ -274,7 +301,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51768,
+    "stars": 51769,
     "updated_at": "2026-08-20T14:00:55Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -293,7 +320,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4424,
-    "updated_at": "2026-08-20T14:51:53Z",
+    "updated_at": "2026-08-20T15:13:58Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 16741,
     "updated_at": "2026-08-20T14:55:30Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "RAG support bot answering docs questions with citations. Built twice: n8n workflow and Python/LangChain implementation. ",
-    "id": "Muhammad-Abu-Bakar/rag-customer-support-bot",
-    "language": "Python",
-    "name": "Muhammad-Abu-Bakar/rag-customer-support-bot",
-    "stars": 1,
-    "updated_at": "2026-08-20T12:19:22Z",
-    "url": "https://github.com/Muhammad-Abu-Bakar/rag-customer-support-bot"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-08-20T12:15:36Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "Manual Master: CLI tool to build local RAG knowledge bases from docs (PDF, HTML, XML, TXT). Scans dirs/files, creates em",
-    "id": "asaeles/manual-master",
-    "language": "Python",
-    "name": "asaeles/manual-master",
-    "stars": 0,
-    "updated_at": "2026-08-20T12:03:47Z",
-    "url": "https://github.com/asaeles/manual-master"
   }
 ]
