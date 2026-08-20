@@ -1,5 +1,32 @@
 [
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45705,
+    "updated_at": "2026-08-20T06:39:27Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 0,
+    "updated_at": "2026-08-20T06:38:06Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T06:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +34,15 @@
     "stars": 2,
     "updated_at": "2026-08-20T06:30:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
+    "id": "kherrera6219/DataLogicEngine",
+    "language": "Python",
+    "name": "kherrera6219/DataLogicEngine",
+    "stars": 5,
+    "updated_at": "2026-08-20T06:29:20Z",
+    "url": "https://github.com/kherrera6219/DataLogicEngine"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -36,22 +72,13 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45705,
-    "updated_at": "2026-08-20T06:21:19Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T06:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "topoteretes/cognee",
+    "stars": 30135,
+    "updated_at": "2026-08-20T06:17:43Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
@@ -126,15 +153,6 @@
     "url": "https://github.com/fewshot-works/academy"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:44:39Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "Unified multimodal backend for AI data apps",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -158,17 +176,8 @@
     "language": "HTML",
     "name": "Benorina1/llm-vector-retrieval-playbook",
     "stars": 0,
-    "updated_at": "2026-08-20T05:33:05Z",
+    "updated_at": "2026-08-20T06:41:43Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 5,
-    "updated_at": "2026-08-20T06:29:20Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-20T03:38:55Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1483,
-    "updated_at": "2026-08-20T03:36:48Z",
-    "url": "https://github.com/xerj-org/xerj"
   }
 ]
