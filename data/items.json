@@ -1,12 +1,57 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 63,
+    "updated_at": "2026-08-20T00:14:03Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-20T00:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-08-20T00:11:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1614,
+    "updated_at": "2026-08-20T00:09:56Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 469,
+    "updated_at": "2026-08-20T00:09:09Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
+    "id": "tamnd/kura",
+    "language": "Rust",
+    "name": "tamnd/kura",
+    "stars": 0,
+    "updated_at": "2026-08-20T00:08:42Z",
+    "url": "https://github.com/tamnd/kura"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15467,
+    "updated_at": "2026-08-20T00:01:06Z",
+    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +59,44 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-19T23:58:05Z",
+    "updated_at": "2026-08-20T00:00:29Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T00:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-shaped RAG for PDF corpora: contextual retrieval, hybrid dense+sparse search in Qdrant, RRF fusion, reranking",
+    "id": "tirth1263/Production-PDF-RAG-with-Reranking",
+    "language": "Python",
+    "name": "tirth1263/Production-PDF-RAG-with-Reranking",
+    "stars": 0,
+    "updated_at": "2026-08-19T23:58:44Z",
+    "url": "https://github.com/tirth1263/Production-PDF-RAG-with-Reranking"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8112,
+    "updated_at": "2026-08-19T23:53:56Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9416,
+    "updated_at": "2026-08-19T23:52:31Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -45,15 +126,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
-    "id": "tamnd/kura",
-    "language": "Rust",
-    "name": "tamnd/kura",
-    "stars": 0,
-    "updated_at": "2026-08-19T23:57:54Z",
-    "url": "https://github.com/tamnd/kura"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -70,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T23:39:46Z",
     "url": "https://github.com/isaaoki/rag-agent"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-19T23:37:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -104,7 +167,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1471,
-    "updated_at": "2026-08-19T23:29:56Z",
+    "updated_at": "2026-08-20T00:09:39Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -216,15 +279,6 @@
     "url": "https://github.com/arnobt78/Embeddable-FAQ-Seed-RAG-Chatbot-Widget--NextJS-FullStack"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8113,
-    "updated_at": "2026-08-19T23:53:56Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -243,15 +297,6 @@
     "url": "https://github.com/sujit6666/rag-with-proof"
   },
   {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 469,
-    "updated_at": "2026-08-19T22:06:42Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
     "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
     "id": "ankush-poonia007/STARTUP-AI-AGENT",
     "language": "Python",
@@ -259,15 +304,6 @@
     "stars": 5,
     "updated_at": "2026-08-19T22:03:54Z",
     "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9416,
-    "updated_at": "2026-08-19T23:52:31Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Postgres MCP Server",
@@ -365,7 +401,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1091,
-    "updated_at": "2026-08-19T23:22:36Z",
+    "updated_at": "2026-08-20T00:14:47Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5809,
-    "updated_at": "2026-08-20T00:00:26Z",
+    "updated_at": "2026-08-20T00:07:57Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T20:20:53Z",
     "url": "https://github.com/theogony-project/theogony"
-  },
-  {
-    "description": "An AI agent that plans personalized 2-day trips to any city. Dynamically selects tools (weather, web search, Wikipedia m",
-    "id": "itsamanmanik/travel-planning-agent",
-    "language": "Python",
-    "name": "itsamanmanik/travel-planning-agent",
-    "stars": 1,
-    "updated_at": "2026-08-19T20:20:02Z",
-    "url": "https://github.com/itsamanmanik/travel-planning-agent"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11197,
-    "updated_at": "2026-08-19T23:37:30Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Zilliz Cloud is the managed vector database service built by the Milvus maintainers. It exposes a Control Plane API for ",
-    "id": "api-evangelist/zilliz",
-    "language": "\u2014",
-    "name": "api-evangelist/zilliz",
-    "stars": 0,
-    "updated_at": "2026-08-19T20:07:41Z",
-    "url": "https://github.com/api-evangelist/zilliz"
-  },
-  {
-    "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-08-19T20:03:49Z",
-    "url": "https://github.com/api-evangelist/weaviate"
   }
 ]
