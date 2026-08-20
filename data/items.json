@@ -1,11 +1,83 @@
 [
   {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:40:58Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:39:02Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-20T08:36:47Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:35:39Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35261,
+    "updated_at": "2026-08-20T08:35:14Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
+    "id": "manav-2812/synapse",
+    "language": "Python",
+    "name": "manav-2812/synapse",
+    "stars": 1,
+    "updated_at": "2026-08-20T08:34:38Z",
+    "url": "https://github.com/manav-2812/synapse"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45706,
+    "updated_at": "2026-08-20T08:33:19Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T08:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-20T08:30:21Z",
+    "updated_at": "2026-08-20T08:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -22,7 +94,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12915,
+    "stars": 12916,
     "updated_at": "2026-08-20T08:27:50Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -34,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T08:25:42Z",
     "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
-    "id": "manav-2812/synapse",
-    "language": "Python",
-    "name": "manav-2812/synapse",
-    "stars": 1,
-    "updated_at": "2026-08-20T08:25:34Z",
-    "url": "https://github.com/manav-2812/synapse"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -77,7 +140,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34080,
-    "updated_at": "2026-08-20T08:18:20Z",
+    "updated_at": "2026-08-20T08:43:00Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -90,49 +153,31 @@
     "url": "https://github.com/kherrera6219/DataLogicEngine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T08:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-20T08:12:38Z",
+    "updated_at": "2026-08-20T08:45:11Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Local-first AI knowledge platform that continuously builds, indexes, and queries your personal knowledge base from Obsid",
-    "id": "harisrana-dev/ai-knowledge-platform",
+    "description": "Nexus \u2014 a local-first hybrid information retrieval system for engineering knowledge, evaluated through reproducible retr",
+    "id": "harisrana-dev/Nexus",
     "language": "Python",
-    "name": "harisrana-dev/ai-knowledge-platform",
+    "name": "harisrana-dev/Nexus",
     "stars": 0,
     "updated_at": "2026-08-20T08:11:24Z",
-    "url": "https://github.com/harisrana-dev/ai-knowledge-platform"
+    "url": "https://github.com/harisrana-dev/Nexus"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2544,
+    "stars": 2545,
     "updated_at": "2026-08-20T08:10:03Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45706,
-    "updated_at": "2026-08-20T08:09:20Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -158,7 +203,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1880,
-    "updated_at": "2026-08-20T08:06:36Z",
+    "updated_at": "2026-08-20T08:39:57Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30137,
-    "updated_at": "2026-08-20T08:25:13Z",
+    "updated_at": "2026-08-20T08:33:26Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -189,22 +234,13 @@
     "url": "https://github.com/tywangq/leasehound"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "description": "EKA Agent \u2014 Multi-device data ingestion, LoRA training pipeline, and vector DB for a private AI agent. Hub-and-spoke: 6 ",
+    "id": "urgaa-eka/jayti",
+    "language": "Python",
+    "name": "urgaa-eka/jayti",
     "stars": 0,
-    "updated_at": "2026-08-20T07:58:16Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-20T07:48:55Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+    "updated_at": "2026-08-20T07:55:06Z",
+    "url": "https://github.com/urgaa-eka/jayti"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6216,
-    "updated_at": "2026-08-20T08:29:22Z",
+    "updated_at": "2026-08-20T08:45:06Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -234,40 +270,13 @@
     "url": "https://github.com/theogony-project/theogony"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-20T07:41:14Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9416,
-    "updated_at": "2026-08-20T07:40:53Z",
+    "updated_at": "2026-08-20T08:45:19Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-20T07:39:17Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35260,
-    "updated_at": "2026-08-20T07:25:21Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -301,7 +310,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1487,
+    "stars": 1488,
     "updated_at": "2026-08-20T07:04:11Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -439,14 +448,5 @@
     "stars": 4455,
     "updated_at": "2026-08-20T05:07:11Z",
     "url": "https://github.com/CaviraOSS/OpenMemory"
-  },
-  {
-    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
-    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "language": "Jupyter Notebook",
-    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:02:16Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
   }
 ]
