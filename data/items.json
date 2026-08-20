@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "Yigtwxx/OracleX",
     "stars": 1,
-    "updated_at": "2026-08-20T08:03:16Z",
+    "updated_at": "2026-08-20T08:14:42Z",
     "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-20T08:12:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Local-first AI knowledge platform that continuously builds, indexes, and queries your personal knowledge base from Obsid",
+    "id": "harisrana-dev/ai-knowledge-platform",
+    "language": "Python",
+    "name": "harisrana-dev/ai-knowledge-platform",
+    "stars": 0,
+    "updated_at": "2026-08-20T08:11:24Z",
+    "url": "https://github.com/harisrana-dev/ai-knowledge-platform"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45707,
+    "updated_at": "2026-08-20T08:09:20Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1092,
+    "updated_at": "2026-08-20T08:08:44Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1614,
+    "updated_at": "2026-08-20T08:08:17Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1880,
+    "updated_at": "2026-08-20T08:06:36Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T08:05:53Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T08:05:47Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh",
@@ -25,24 +97,6 @@
     "stars": 424,
     "updated_at": "2026-08-20T08:01:45Z",
     "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T08:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-20T08:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udc15 Sniffs out the lease clauses that shouldn't be there \u2014 WA tenant-law RAG: clause-by-clause scan reports with statute c",
@@ -72,15 +126,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45707,
-    "updated_at": "2026-08-20T07:52:25Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -99,30 +144,12 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1091,
-    "updated_at": "2026-08-20T07:51:48Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-20T07:45:09Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6216,
-    "updated_at": "2026-08-20T08:02:47Z",
+    "updated_at": "2026-08-20T08:09:06Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 2543,
-    "updated_at": "2026-08-20T07:40:01Z",
+    "updated_at": "2026-08-20T08:10:03Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -211,7 +238,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35261,
+    "stars": 35260,
     "updated_at": "2026-08-20T07:25:21Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -232,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-08-20T07:23:06Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1880,
-    "updated_at": "2026-08-20T07:57:12Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "\ud83d\udd2e Fast, native vector database client (Qdrant, pgvector...). Tauri + React.",
@@ -360,15 +378,6 @@
     "url": "https://github.com/fewshot-works/academy"
   },
   {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1614,
-    "updated_at": "2026-08-20T07:15:43Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
     "description": "Multi-source conversational RAG chatbot supporting PDFs, DOCX, TXT, CSV, websites, APIs, and YouTube transcripts using L",
     "id": "Vinay-Rai/OmniRAG-Multi-Source-Conversational-AI-Assistant",
     "language": "Python",
@@ -409,7 +418,7 @@
     "id": "verygoodplugins/mcp-automem",
     "language": "TypeScript",
     "name": "verygoodplugins/mcp-automem",
-    "stars": 63,
+    "stars": 64,
     "updated_at": "2026-08-20T05:11:40Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-20T04:53:07Z",
     "url": "https://github.com/Amruth011/kannada-rag-agent"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-20T04:42:08Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
