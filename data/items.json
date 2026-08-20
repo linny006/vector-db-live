@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\uddc4\ufe0f Programa abierto de ingenier\u00eda de bases de datos \u00b7 64 clases en 14 partes \u00b7 210 horas \u00b7 Del modelado conceptual a la ",
+    "id": "vladimiracunadev-create/database-systems-labs",
+    "language": "HTML",
+    "name": "vladimiracunadev-create/database-systems-labs",
+    "stars": 1,
+    "updated_at": "2026-08-20T02:42:10Z",
+    "url": "https://github.com/vladimiracunadev-create/database-systems-labs"
+  },
+  {
+    "description": " RAG pipeline with Qdrant, Ollama, and BentoML \u2014 MLflow-tracked eval harness with a CI regression gate",
+    "id": "goshipra/rag-mlops-pipeline",
+    "language": "Python",
+    "name": "goshipra/rag-mlops-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-20T02:39:58Z",
+    "url": "https://github.com/goshipra/rag-mlops-pipeline"
+  },
+  {
+    "description": "Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh",
+    "id": "dangkhoa2016/Qdrant-Native-Portable",
+    "language": "Shell",
+    "name": "dangkhoa2016/Qdrant-Native-Portable",
+    "stars": 0,
+    "updated_at": "2026-08-20T02:39:37Z",
+    "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
+  },
+  {
+    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
+    "id": "tamnd/kura",
+    "language": "Rust",
+    "name": "tamnd/kura",
+    "stars": 0,
+    "updated_at": "2026-08-20T02:37:50Z",
+    "url": "https://github.com/tamnd/kura"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-20T02:37:03Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-20T02:30:47Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 469,
+    "updated_at": "2026-08-20T02:30:28Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T02:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -45,13 +117,13 @@
     "url": "https://github.com/sanjay123-g/de-ai-agent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T02:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8113,
+    "updated_at": "2026-08-20T02:34:35Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -81,40 +153,13 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
-    "id": "tamnd/kura",
-    "language": "Rust",
-    "name": "tamnd/kura",
-    "stars": 0,
-    "updated_at": "2026-08-20T02:29:36Z",
-    "url": "https://github.com/tamnd/kura"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9175,
-    "updated_at": "2026-08-20T02:24:25Z",
+    "updated_at": "2026-08-20T02:42:17Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Programa abierto de ingenier\u00eda de bases de datos \u00b7 64 clases en 14 partes \u00b7 210 horas \u00b7 Del modelado conceptual a la ",
-    "id": "vladimiracunadev-create/database-systems-labs",
-    "language": "HTML",
-    "name": "vladimiracunadev-create/database-systems-labs",
-    "stars": 1,
-    "updated_at": "2026-08-20T01:57:56Z",
-    "url": "https://github.com/vladimiracunadev-create/database-systems-labs"
-  },
-  {
-    "description": "Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh",
-    "id": "dangkhoa2016/Qdrant-Native-Portable",
-    "language": "Shell",
-    "name": "dangkhoa2016/Qdrant-Native-Portable",
-    "stars": 0,
-    "updated_at": "2026-08-20T01:55:58Z",
-    "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
   },
   {
     "description": "Document-first sqlite3+faiss vector database",
@@ -140,7 +185,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45703,
-    "updated_at": "2026-08-20T01:45:19Z",
+    "updated_at": "2026-08-20T02:35:37Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1614,
-    "updated_at": "2026-08-20T02:22:39Z",
+    "updated_at": "2026-08-20T02:41:27Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -198,15 +243,6 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-20T01:11:00Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -214,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T01:07:23Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 469,
-    "updated_at": "2026-08-20T01:03:12Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -234,21 +261,12 @@
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-20T00:56:06Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
     "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
     "id": "verygoodplugins/mcp-automem",
     "language": "TypeScript",
     "name": "verygoodplugins/mcp-automem",
     "stars": 63,
-    "updated_at": "2026-08-20T02:25:48Z",
+    "updated_at": "2026-08-20T02:36:35Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T23:58:44Z",
     "url": "https://github.com/tirth1263/Production-PDF-RAG-with-Reranking"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8113,
-    "updated_at": "2026-08-20T02:18:17Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -439,14 +448,5 @@
     "stars": 784,
     "updated_at": "2026-08-19T21:45:54Z",
     "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "A multi-stage LLM pipeline for aptitude-driven job search, career targeting, and search strategy generation.",
-    "id": "mattburnett-repo/aptitude-search",
-    "language": "Python",
-    "name": "mattburnett-repo/aptitude-search",
-    "stars": 0,
-    "updated_at": "2026-08-19T21:45:15Z",
-    "url": "https://github.com/mattburnett-repo/aptitude-search"
   }
 ]
