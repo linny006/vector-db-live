@@ -1,21 +1,48 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T05:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-20T05:45:19Z",
+    "updated_at": "2026-08-20T06:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-20T05:59:00Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Chat with your documents using RAG. Upload PDFs, ask questions, get cited answers.",
+    "id": "krrishapatel/Ragchat",
+    "language": "Python",
+    "name": "krrishapatel/Ragchat",
+    "stars": 0,
+    "updated_at": "2026-08-20T05:56:02Z",
+    "url": "https://github.com/krrishapatel/Ragchat"
+  },
+  {
+    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
+    "id": "fewshot-works/academy",
+    "language": "TypeScript",
+    "name": "fewshot-works/academy",
+    "stars": 4,
+    "updated_at": "2026-08-20T05:56:02Z",
+    "url": "https://github.com/fewshot-works/academy"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T05:46:10Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T05:29:34Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-20T05:29:14Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -214,15 +232,6 @@
     "stars": 76,
     "updated_at": "2026-08-20T04:42:08Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
-    "id": "fewshot-works/academy",
-    "language": "TypeScript",
-    "name": "fewshot-works/academy",
-    "stars": 4,
-    "updated_at": "2026-08-20T04:40:43Z",
-    "url": "https://github.com/fewshot-works/academy"
   },
   {
     "description": "A deterministic NLI engine for real-time scientific fact-checking.",
@@ -400,7 +409,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1481,
+    "stars": 1482,
     "updated_at": "2026-08-20T03:36:48Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-20T03:35:12Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 249,
-    "updated_at": "2026-08-20T03:35:07Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   }
 ]
