@@ -1,5 +1,86 @@
 [
   {
+    "description": "Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh",
+    "id": "dangkhoa2016/Qdrant-Native-Portable",
+    "language": "Shell",
+    "name": "dangkhoa2016/Qdrant-Native-Portable",
+    "stars": 0,
+    "updated_at": "2026-08-20T20:09:20Z",
+    "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1095,
+    "updated_at": "2026-08-20T20:06:57Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Azure Cosmos DB is a fully managed, globally distributed, multi-model NoSQL and relational database service from Microso",
+    "id": "api-evangelist/azure-cosmos-db",
+    "language": "\u2014",
+    "name": "api-evangelist/azure-cosmos-db",
+    "stars": 0,
+    "updated_at": "2026-08-20T20:05:41Z",
+    "url": "https://github.com/api-evangelist/azure-cosmos-db"
+  },
+  {
+    "description": "Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic searc",
+    "id": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
+    "language": "HTML",
+    "name": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
+    "stars": 219,
+    "updated_at": "2026-08-20T20:05:22Z",
+    "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T20:04:04Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-20T20:02:46Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "A privacy-first AI-powered desktop tool that indexes files using local AI models. Built with Tauri, Rust and Ollama.",
+    "id": "RaptorAssassin/smart-file-search",
+    "language": "Rust",
+    "name": "RaptorAssassin/smart-file-search",
+    "stars": 0,
+    "updated_at": "2026-08-20T20:02:26Z",
+    "url": "https://github.com/RaptorAssassin/smart-file-search"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6349,
+    "updated_at": "2026-08-20T20:00:42Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T20:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha",
     "id": "api-evangelist/aerospike",
     "language": "\u2014",
@@ -27,13 +108,13 @@
     "url": "https://github.com/hhblaze/DBreeze"
   },
   {
-    "description": "A privacy-first AI-powered desktop tool that indexes files using local AI models. Built with Tauri, Rust and Ollama.",
-    "id": "RaptorAssassin/smart-file-search",
-    "language": "Rust",
-    "name": "RaptorAssassin/smart-file-search",
-    "stars": 0,
-    "updated_at": "2026-08-20T19:56:20Z",
-    "url": "https://github.com/RaptorAssassin/smart-file-search"
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-08-20T19:57:50Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -54,6 +135,15 @@
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
+    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
+    "id": "mdhabibi/llm-search-handbook",
+    "language": "Jupyter Notebook",
+    "name": "mdhabibi/llm-search-handbook",
+    "stars": 0,
+    "updated_at": "2026-08-20T20:10:00Z",
+    "url": "https://github.com/mdhabibi/llm-search-handbook"
+  },
+  {
     "description": "Object storage for the AI age",
     "id": "keldra-store/keldra",
     "language": "Rust",
@@ -61,33 +151,6 @@
     "stars": 77,
     "updated_at": "2026-08-20T19:50:23Z",
     "url": "https://github.com/keldra-store/keldra"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-08-20T19:57:50Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-20T19:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T19:45:13Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A vector database built from first principles in Rust \u2014 HNSW, mmap storage, product quantization, AVX2 kernels, lock-fre",
@@ -113,7 +176,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-20T19:41:04Z",
+    "updated_at": "2026-08-20T20:07:12Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -122,7 +185,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 64979,
-    "updated_at": "2026-08-20T19:37:20Z",
+    "updated_at": "2026-08-20T20:02:03Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -153,15 +216,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-20T19:30:33Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
     "id": "Artemon-line/ai-memory-hub",
     "language": "Python",
@@ -180,15 +234,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh",
-    "id": "dangkhoa2016/Qdrant-Native-Portable",
-    "language": "Shell",
-    "name": "dangkhoa2016/Qdrant-Native-Portable",
-    "stars": 0,
-    "updated_at": "2026-08-20T19:28:17Z",
-    "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -205,15 +250,6 @@
     "stars": 4424,
     "updated_at": "2026-08-20T19:23:34Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1095,
-    "updated_at": "2026-08-20T19:52:50Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -311,7 +347,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-20T19:59:27Z",
+    "updated_at": "2026-08-20T20:08:56Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9417,
-    "updated_at": "2026-08-20T18:53:52Z",
+    "updated_at": "2026-08-20T20:07:51Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -376,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T18:15:17Z",
     "url": "https://github.com/Biccamor/Moovy"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6350,
-    "updated_at": "2026-08-20T19:45:19Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "A pnpm workspace of TypeScript projects exploring AI/LLM patterns \u2014 LangChain, LangGraph, RAG, vector stores, MCP, and m",
@@ -421,32 +448,5 @@
     "stars": 15,
     "updated_at": "2026-08-20T17:58:13Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 87,
-    "updated_at": "2026-08-20T17:56:19Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 339,
-    "updated_at": "2026-08-20T17:55:55Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Document-first sqlite3+faiss vector database",
-    "id": "thomas-villani/localvectordb",
-    "language": "Python",
-    "name": "thomas-villani/localvectordb",
-    "stars": 2,
-    "updated_at": "2026-08-20T17:51:44Z",
-    "url": "https://github.com/thomas-villani/localvectordb"
   }
 ]
