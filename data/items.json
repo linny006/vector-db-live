@@ -1,11 +1,38 @@
 [
   {
+    "description": "Benchmarking harness for ChromaDB query latency, ingestion throughput, and memory scaling; the bundled sample dataset is",
+    "id": "jakegold1647/Chroma-Latency-Benchmarker",
+    "language": "Python",
+    "name": "jakegold1647/Chroma-Latency-Benchmarker",
+    "stars": 0,
+    "updated_at": "2026-08-20T21:56:59Z",
+    "url": "https://github.com/jakegold1647/Chroma-Latency-Benchmarker"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-20T21:55:00Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T21:53:40Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-20T21:52:31Z",
+    "updated_at": "2026-08-20T22:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +41,7 @@
     "language": "HTML",
     "name": "maneesh-kumar-thakur/self-serve-learnings-4-all",
     "stars": 0,
-    "updated_at": "2026-08-20T21:49:50Z",
+    "updated_at": "2026-08-20T21:58:00Z",
     "url": "https://github.com/maneesh-kumar-thakur/self-serve-learnings-4-all"
   },
   {
@@ -50,17 +77,8 @@
     "language": "HTML",
     "name": "vladimiracunadev-create/database-systems-labs",
     "stars": 1,
-    "updated_at": "2026-08-20T21:46:05Z",
+    "updated_at": "2026-08-20T22:00:00Z",
     "url": "https://github.com/vladimiracunadev-create/database-systems-labs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T21:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
@@ -113,7 +131,7 @@
     "language": "TypeScript",
     "name": "Zizka-ai/ZizkaDB",
     "stars": 41,
-    "updated_at": "2026-08-20T21:33:30Z",
+    "updated_at": "2026-08-20T21:57:03Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
   },
   {
@@ -122,7 +140,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9175,
-    "updated_at": "2026-08-20T21:52:24Z",
+    "updated_at": "2026-08-20T21:56:38Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -144,15 +162,6 @@
     "url": "https://github.com/threefigure-achromia682/ai-memory"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-20T21:27:06Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 2,
-    "updated_at": "2026-08-20T21:23:34Z",
+    "updated_at": "2026-08-20T21:56:24Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -196,6 +205,15 @@
     "stars": 7056,
     "updated_at": "2026-08-20T21:20:21Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34097,
+    "updated_at": "2026-08-20T21:17:34Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -324,15 +342,6 @@
     "url": "https://github.com/sdslabs/VortexDB"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34096,
-    "updated_at": "2026-08-20T21:17:34Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
     "id": "api-evangelist/objectbox",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 1615,
     "updated_at": "2026-08-20T20:30:04Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 340,
-    "updated_at": "2026-08-20T20:27:09Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
