@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-08-20T10:10:40Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-08-20T10:09:32Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-20T10:08:54Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-20T10:08:26Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 3,
+    "updated_at": "2026-08-20T10:08:21Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-08-20T10:07:18Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T10:05:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -54,15 +117,6 @@
     "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T10:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -70,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-20T09:59:51Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "Python",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-08-20T09:59:33Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
@@ -113,7 +158,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6216,
-    "updated_at": "2026-08-20T10:05:03Z",
+    "updated_at": "2026-08-20T10:11:08Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -166,7 +211,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30139,
+    "stars": 30140,
     "updated_at": "2026-08-20T09:48:39Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -196,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T09:43:43Z",
     "url": "https://github.com/theogony-project/theogony"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-20T09:43:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -239,7 +275,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16741,
-    "updated_at": "2026-08-20T09:43:48Z",
+    "updated_at": "2026-08-20T10:12:53Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45708,
-    "updated_at": "2026-08-20T09:33:28Z",
+    "updated_at": "2026-08-20T10:07:20Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4423,
-    "updated_at": "2026-08-20T09:48:45Z",
+    "updated_at": "2026-08-20T10:12:38Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35262,
-    "updated_at": "2026-08-20T08:59:21Z",
+    "updated_at": "2026-08-20T10:06:35Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -373,7 +409,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34083,
+    "stars": 34084,
     "updated_at": "2026-08-20T08:43:00Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -383,7 +419,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5810,
-    "updated_at": "2026-08-20T09:46:57Z",
+    "updated_at": "2026-08-20T10:09:58Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -401,7 +437,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7057,
-    "updated_at": "2026-08-20T10:02:54Z",
+    "updated_at": "2026-08-20T10:14:41Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-20T08:19:50Z",
     "url": "https://github.com/Yigtwxx/OracleX"
-  },
-  {
-    "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
-    "id": "kherrera6219/DataLogicEngine",
-    "language": "Python",
-    "name": "kherrera6219/DataLogicEngine",
-    "stars": 5,
-    "updated_at": "2026-08-20T08:17:43Z",
-    "url": "https://github.com/kherrera6219/DataLogicEngine"
-  },
-  {
-    "description": "Nexus \u2014 a local-first hybrid information retrieval system for engineering knowledge, evaluated through reproducible retr",
-    "id": "harisrana-dev/Nexus",
-    "language": "Python",
-    "name": "harisrana-dev/Nexus",
-    "stars": 0,
-    "updated_at": "2026-08-20T08:11:24Z",
-    "url": "https://github.com/harisrana-dev/Nexus"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2545,
-    "updated_at": "2026-08-20T08:10:03Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1093,
-    "updated_at": "2026-08-20T08:08:44Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
