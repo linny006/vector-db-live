@@ -1,5 +1,59 @@
 [
   {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 2,
+    "updated_at": "2026-08-20T22:24:07Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T22:22:44Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 8,
+    "updated_at": "2026-08-20T22:21:33Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1495,
+    "updated_at": "2026-08-20T22:21:18Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Curated list of models, vector stores and benchmarks for image and text retrieval",
+    "id": "matijani/awesome-multimodal-retrieval",
+    "language": "Python",
+    "name": "matijani/awesome-multimodal-retrieval",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:21:11Z",
+    "url": "https://github.com/matijani/awesome-multimodal-retrieval"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T22:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -9,13 +63,13 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
     "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1495,
-    "updated_at": "2026-08-20T22:13:28Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "name": "lancedb/lancedb",
+    "stars": 11214,
+    "updated_at": "2026-08-20T22:16:34Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "\ud83d\uddc4\ufe0f Programa abierto de ingenier\u00eda de bases de datos \u00b7 64 clases en 14 partes \u00b7 210 horas \u00b7 Del modelado conceptual a la ",
@@ -45,15 +99,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11213,
-    "updated_at": "2026-08-20T22:12:35Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
     "id": "christopherkarani/Wax",
     "language": "Swift",
@@ -72,24 +117,6 @@
     "url": "https://github.com/maneesh-kumar-thakur/self-serve-learnings-4-all"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T22:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-20T22:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Benchmarking harness for ChromaDB query latency, ingestion throughput, and memory scaling; the bundled sample dataset is",
     "id": "jakegold1647/Chroma-Latency-Benchmarker",
     "language": "Python",
@@ -106,6 +133,15 @@
     "stars": 2,
     "updated_at": "2026-08-20T21:55:00Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1094,
+    "updated_at": "2026-08-20T21:53:34Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
@@ -149,7 +185,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9175,
-    "updated_at": "2026-08-20T22:12:30Z",
+    "updated_at": "2026-08-20T22:22:19Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -176,17 +212,8 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-20T21:25:25Z",
+    "updated_at": "2026-08-20T22:25:00Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 2,
-    "updated_at": "2026-08-20T21:56:24Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
@@ -196,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T21:23:11Z",
     "url": "https://github.com/usetheoai/theodb-bench"
-  },
-  {
-    "description": "Curated list of models, vector stores and benchmarks for image and text retrieval",
-    "id": "matijani/awesome-multimodal-retrieval",
-    "language": "Python",
-    "name": "matijani/awesome-multimodal-retrieval",
-    "stars": 0,
-    "updated_at": "2026-08-20T21:23:06Z",
-    "url": "https://github.com/matijani/awesome-multimodal-retrieval"
   },
   {
     "description": "The AI search platform",
@@ -286,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T21:01:20Z",
     "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1093,
-    "updated_at": "2026-08-20T21:53:34Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T20:31:30Z",
     "url": "https://github.com/api-evangelist/ironcore-labs"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1615,
-    "updated_at": "2026-08-20T20:30:04Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   }
 ]
