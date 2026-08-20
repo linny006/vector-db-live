@@ -1,12 +1,12 @@
 [
   {
-    "description": "RAG-powered Telegram bot that answers SaaS product docs questions with citations back to source. Built end-to-end in n8n",
-    "id": "Muhammad-Abu-Bakar/rag-customer-support-bot",
-    "language": "Python",
-    "name": "Muhammad-Abu-Bakar/rag-customer-support-bot",
-    "stars": 1,
-    "updated_at": "2026-08-20T00:29:26Z",
-    "url": "https://github.com/Muhammad-Abu-Bakar/rag-customer-support-bot"
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1471,
+    "updated_at": "2026-08-20T00:44:09Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
@@ -14,7 +14,7 @@
     "language": "Rust",
     "name": "tamnd/kura",
     "stars": 0,
-    "updated_at": "2026-08-20T00:27:51Z",
+    "updated_at": "2026-08-20T00:43:11Z",
     "url": "https://github.com/tamnd/kura"
   },
   {
@@ -22,18 +22,27 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45700,
-    "updated_at": "2026-08-20T00:23:20Z",
+    "stars": 45701,
+    "updated_at": "2026-08-20T00:39:20Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
+    "description": "RAG-powered Telegram bot that answers SaaS product docs questions with citations back to source. Built end-to-end in n8n",
+    "id": "Muhammad-Abu-Bakar/rag-customer-support-bot",
     "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1614,
-    "updated_at": "2026-08-20T00:17:42Z",
-    "url": "https://github.com/pixeltable/pixeltable"
+    "name": "Muhammad-Abu-Bakar/rag-customer-support-bot",
+    "stars": 1,
+    "updated_at": "2026-08-20T00:38:53Z",
+    "url": "https://github.com/Muhammad-Abu-Bakar/rag-customer-support-bot"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-20T00:32:29Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -41,7 +50,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 2,
-    "updated_at": "2026-08-20T00:15:22Z",
+    "updated_at": "2026-08-20T00:30:28Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -50,8 +59,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-20T00:30:24Z",
+    "updated_at": "2026-08-20T00:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 64933,
+    "updated_at": "2026-08-20T00:23:42Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1614,
+    "updated_at": "2026-08-20T00:31:57Z",
+    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
@@ -59,7 +86,7 @@
     "language": "TypeScript",
     "name": "verygoodplugins/mcp-automem",
     "stars": 63,
-    "updated_at": "2026-08-20T00:21:51Z",
+    "updated_at": "2026-08-20T00:38:15Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
   },
   {
@@ -126,15 +153,6 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 64930,
-    "updated_at": "2026-08-20T00:23:42Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-19T23:30:19Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1471,
-    "updated_at": "2026-08-20T00:17:47Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
@@ -243,15 +252,6 @@
     "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-19T23:11:56Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Memseek is an open source declarative context engine for AI agents. Define agent memory in versioned YAML \u2014 like Terrafo",
     "id": "memseekai/memseek",
     "language": "Python",
@@ -302,7 +302,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6348,
-    "updated_at": "2026-08-19T22:49:53Z",
+    "updated_at": "2026-08-20T00:42:01Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -409,7 +409,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30129,
+    "stars": 30131,
     "updated_at": "2026-08-19T21:02:32Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -428,7 +428,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6215,
-    "updated_at": "2026-08-20T00:28:05Z",
+    "updated_at": "2026-08-20T00:31:53Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
