@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-20 02:42 UTC
+> ⏰ Last updated: 2026-08-20 02:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vladimiracunadev-create/database-systems-labs](https://github.com/vladimiracunadev-create/database-systems-labs) | 1 | HTML | 2026-08-20 | 🗄️ Programa abierto de ingeniería de bases de datos · 64 clases en 14 partes · 210 horas · Del modelado conceptual a la  |
-| 2 | [goshipra/rag-mlops-pipeline](https://github.com/goshipra/rag-mlops-pipeline) | 0 | Python | 2026-08-20 |  RAG pipeline with Qdrant, Ollama, and BentoML — MLflow-tracked eval harness with a CI regression gate |
-| 3 | [dangkhoa2016/Qdrant-Native-Portable](https://github.com/dangkhoa2016/Qdrant-Native-Portable) | 0 | Shell | 2026-08-20 | Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh |
-| 4 | [tamnd/kura](https://github.com/tamnd/kura) | 0 | Rust | 2026-08-20 | High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors |
-| 5 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-08-20 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 6 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-08-20 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 7 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 469 | TypeScript | 2026-08-20 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-20 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-20 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 10 | [Muhammad-Abu-Bakar/rag-customer-support-bot](https://github.com/Muhammad-Abu-Bakar/rag-customer-support-bot) | 1 | Python | 2026-08-20 | RAG support bot answering docs questions with citations. Built twice: n8n workflow and Python/LangChain implementation.  |
-| 11 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-20 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 12 | [qtuanph/chatbot-rag](https://github.com/qtuanph/chatbot-rag) | 1 | Python | 2026-08-20 | Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an |
-| 13 | [sanjay123-g/de-ai-agent](https://github.com/sanjay123-g/de-ai-agent) | 0 | HTML | 2026-08-20 | Multi-agent LangGraph pipeline ingesting 6 sources into DuckDB, transformed with dbt into Gold-layer marts, exposed via  |
-| 14 | [MariaDB/server](https://github.com/MariaDB/server) | 8113 | C++ | 2026-08-20 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 15 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1471 | Rust | 2026-08-20 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 16 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9416 | Rust | 2026-08-20 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
-| 17 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-20 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 18 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9175 | Rust | 2026-08-20 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 19 | [thomas-villani/localvectordb](https://github.com/thomas-villani/localvectordb) | 2 | Python | 2026-08-20 | Document-first sqlite3+faiss vector database |
-| 20 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-20 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 21 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45703 | Go | 2026-08-20 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-20 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45703 | Go | 2026-08-20 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-20 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [vladimiracunadev-create/database-systems-labs](https://github.com/vladimiracunadev-create/database-systems-labs) | 1 | HTML | 2026-08-20 | 🗄️ Programa abierto de ingeniería de bases de datos · 64 clases en 14 partes · 210 horas · Del modelado conceptual a la  |
+| 5 | [goshipra/rag-mlops-pipeline](https://github.com/goshipra/rag-mlops-pipeline) | 0 | Python | 2026-08-20 |  RAG pipeline with Qdrant, Ollama, and BentoML — MLflow-tracked eval harness with a CI regression gate |
+| 6 | [dangkhoa2016/Qdrant-Native-Portable](https://github.com/dangkhoa2016/Qdrant-Native-Portable) | 0 | Shell | 2026-08-20 | Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh |
+| 7 | [tamnd/kura](https://github.com/tamnd/kura) | 0 | Rust | 2026-08-20 | High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors |
+| 8 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-08-20 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 9 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-08-20 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 10 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 469 | TypeScript | 2026-08-20 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 11 | [Muhammad-Abu-Bakar/rag-customer-support-bot](https://github.com/Muhammad-Abu-Bakar/rag-customer-support-bot) | 1 | Python | 2026-08-20 | RAG support bot answering docs questions with citations. Built twice: n8n workflow and Python/LangChain implementation.  |
+| 12 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1472 | Rust | 2026-08-20 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 13 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-20 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 14 | [qtuanph/chatbot-rag](https://github.com/qtuanph/chatbot-rag) | 1 | Python | 2026-08-20 | Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an |
+| 15 | [sanjay123-g/de-ai-agent](https://github.com/sanjay123-g/de-ai-agent) | 0 | HTML | 2026-08-20 | Multi-agent LangGraph pipeline ingesting 6 sources into DuckDB, transformed with dbt into Gold-layer marts, exposed via  |
+| 16 | [MariaDB/server](https://github.com/MariaDB/server) | 8113 | C++ | 2026-08-20 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 17 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9416 | Rust | 2026-08-20 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
+| 18 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-20 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 19 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9175 | Rust | 2026-08-20 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 20 | [thomas-villani/localvectordb](https://github.com/thomas-villani/localvectordb) | 2 | Python | 2026-08-20 | Document-first sqlite3+faiss vector database |
+| 21 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-20 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
 | 22 | [caoergou/dify-installer](https://github.com/caoergou/dify-installer) | 2 | Shell | 2026-08-20 | One-click installer for Dify Docker deployment \| Dify 一键安装脚本，使用 Docker Compose 部署 |
 | 23 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1614 | Python | 2026-08-20 | Unified multimodal backend for AI data apps |
 | 24 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6349 | TypeScript | 2026-08-20 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
