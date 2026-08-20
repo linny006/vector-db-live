@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T01:45:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
+    "id": "caoergou/dify-installer",
+    "language": "Shell",
+    "name": "caoergou/dify-installer",
+    "stars": 2,
+    "updated_at": "2026-08-20T01:43:02Z",
+    "url": "https://github.com/caoergou/dify-installer"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T01:40:00Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1614,
+    "updated_at": "2026-08-20T01:39:29Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
     "description": "Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh",
     "id": "dangkhoa2016/Qdrant-Native-Portable",
     "language": "Shell",
@@ -25,24 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-20T01:30:41Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T01:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-20T01:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RAG support bot answering docs questions with citations. Built twice: n8n workflow and Python/LangChain implementation. ",
@@ -77,7 +95,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1471,
-    "updated_at": "2026-08-20T01:25:05Z",
+    "updated_at": "2026-08-20T01:40:41Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -176,7 +194,7 @@
     "language": "TypeScript",
     "name": "verygoodplugins/mcp-automem",
     "stars": 63,
-    "updated_at": "2026-08-20T01:37:35Z",
+    "updated_at": "2026-08-20T01:43:45Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45702,
-    "updated_at": "2026-08-20T00:39:20Z",
+    "updated_at": "2026-08-20T01:45:19Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -223,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-08-20T00:32:29Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1614,
-    "updated_at": "2026-08-20T01:39:29Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-19T21:27:08Z",
     "url": "https://github.com/Aarti-panchal01/eka"
-  },
-  {
-    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
-    "id": "IronCoreLabs/ironcore-alloy",
-    "language": "Rust",
-    "name": "IronCoreLabs/ironcore-alloy",
-    "stars": 30,
-    "updated_at": "2026-08-19T21:13:43Z",
-    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
   }
 ]
