@@ -1,11 +1,38 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-20T09:43:36Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T09:36:00Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-20T09:35:05Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16741,
-    "updated_at": "2026-08-20T09:33:52Z",
+    "updated_at": "2026-08-20T09:43:48Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -27,6 +54,15 @@
     "url": "https://github.com/AlfazMahmudRizve/n8n-qdrant-fastapi-bridge"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45707,
+    "updated_at": "2026-08-20T09:33:28Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -41,17 +77,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-20T09:31:28Z",
+    "updated_at": "2026-08-20T09:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T09:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -108,24 +135,6 @@
     "url": "https://github.com/onlyarnav/nimbus-db"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-20T09:11:31Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45706,
-    "updated_at": "2026-08-20T09:33:28Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "EKA Agent \u2014 Multi-device data ingestion, LoRA training pipeline, and vector DB for a private AI agent. Hub-and-spoke: 6 ",
     "id": "urgaa-eka/jayti",
     "language": "Python",
@@ -167,7 +176,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1880,
-    "updated_at": "2026-08-20T09:10:00Z",
+    "updated_at": "2026-08-20T09:44:14Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -176,7 +185,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9175,
-    "updated_at": "2026-08-20T09:33:31Z",
+    "updated_at": "2026-08-20T09:40:31Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5810,
-    "updated_at": "2026-08-20T09:22:58Z",
+    "updated_at": "2026-08-20T09:45:12Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -203,17 +212,8 @@
     "language": "HTML",
     "name": "Benorina1/llm-vector-retrieval-playbook",
     "stars": 0,
-    "updated_at": "2026-08-20T08:40:58Z",
+    "updated_at": "2026-08-20T09:43:32Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-20T09:35:05Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
@@ -320,7 +320,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6216,
-    "updated_at": "2026-08-20T09:35:49Z",
+    "updated_at": "2026-08-20T09:44:50Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -338,7 +338,7 @@
     "language": "Python",
     "name": "theogony-project/theogony",
     "stars": 0,
-    "updated_at": "2026-08-20T07:57:01Z",
+    "updated_at": "2026-08-20T09:43:43Z",
     "url": "https://github.com/theogony-project/theogony"
   },
   {
