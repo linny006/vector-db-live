@@ -1,11 +1,65 @@
 [
   {
+    "description": "RAG-powered Telegram bot that answers SaaS product docs questions with citations back to source. Built end-to-end in n8n",
+    "id": "Muhammad-Abu-Bakar/rag-customer-support-bot",
+    "language": "Python",
+    "name": "Muhammad-Abu-Bakar/rag-customer-support-bot",
+    "stars": 1,
+    "updated_at": "2026-08-20T00:29:26Z",
+    "url": "https://github.com/Muhammad-Abu-Bakar/rag-customer-support-bot"
+  },
+  {
+    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
+    "id": "tamnd/kura",
+    "language": "Rust",
+    "name": "tamnd/kura",
+    "stars": 0,
+    "updated_at": "2026-08-20T00:27:51Z",
+    "url": "https://github.com/tamnd/kura"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45700,
+    "updated_at": "2026-08-20T00:23:20Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1614,
+    "updated_at": "2026-08-20T00:17:42Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T00:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T00:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
     "id": "verygoodplugins/mcp-automem",
     "language": "TypeScript",
     "name": "verygoodplugins/mcp-automem",
     "stars": 63,
-    "updated_at": "2026-08-20T00:14:03Z",
+    "updated_at": "2026-08-20T00:21:51Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
   },
   {
@@ -18,15 +72,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1614,
-    "updated_at": "2026-08-20T00:09:56Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
@@ -36,15 +81,6 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
-    "id": "tamnd/kura",
-    "language": "Rust",
-    "name": "tamnd/kura",
-    "stars": 0,
-    "updated_at": "2026-08-20T00:08:42Z",
-    "url": "https://github.com/tamnd/kura"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -52,24 +88,6 @@
     "stars": 15467,
     "updated_at": "2026-08-20T00:01:06Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T00:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-20T00:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-shaped RAG for PDF corpora: contextual retrieval, hybrid dense+sparse search in Qdrant, RRF fusion, reranking",
@@ -85,7 +103,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8112,
+    "stars": 8113,
     "updated_at": "2026-08-19T23:53:56Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -113,7 +131,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 64930,
-    "updated_at": "2026-08-19T23:48:10Z",
+    "updated_at": "2026-08-20T00:23:42Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -167,7 +185,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1471,
-    "updated_at": "2026-08-20T00:09:39Z",
+    "updated_at": "2026-08-20T00:17:47Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6215,
-    "updated_at": "2026-08-19T22:13:14Z",
+    "updated_at": "2026-08-20T00:28:05Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -428,25 +446,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5809,
-    "updated_at": "2026-08-20T00:07:57Z",
+    "updated_at": "2026-08-20T00:29:43Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6731,
-    "updated_at": "2026-08-19T20:24:54Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
-    "id": "theogony-project/theogony",
-    "language": "Python",
-    "name": "theogony-project/theogony",
-    "stars": 0,
-    "updated_at": "2026-08-19T20:20:53Z",
-    "url": "https://github.com/theogony-project/theogony"
   }
 ]
