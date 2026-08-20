@@ -1,5 +1,131 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-20T23:14:10Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
+    "id": "api-evangelist/datastax",
+    "language": "\u2014",
+    "name": "api-evangelist/datastax",
+    "stars": 0,
+    "updated_at": "2026-08-20T23:11:50Z",
+    "url": "https://github.com/api-evangelist/datastax"
+  },
+  {
+    "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
+    "id": "usetheoai/theodb-bench",
+    "language": "Python",
+    "name": "usetheoai/theodb-bench",
+    "stars": 0,
+    "updated_at": "2026-08-20T23:11:34Z",
+    "url": "https://github.com/usetheoai/theodb-bench"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1495,
+    "updated_at": "2026-08-20T23:11:31Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Programa abierto de ingenier\u00eda de bases de datos \u00b7 64 clases en 14 partes \u00b7 210 horas \u00b7 Del modelado conceptual a la ",
+    "id": "vladimiracunadev-create/database-systems-labs",
+    "language": "HTML",
+    "name": "vladimiracunadev-create/database-systems-labs",
+    "stars": 1,
+    "updated_at": "2026-08-20T23:10:35Z",
+    "url": "https://github.com/vladimiracunadev-create/database-systems-labs"
+  },
+  {
+    "description": "Crate.io is the company behind CrateDB, a distributed SQL database engineered for real-time analytics on large volumes o",
+    "id": "api-evangelist/crate-io",
+    "language": "\u2014",
+    "name": "api-evangelist/crate-io",
+    "stars": 0,
+    "updated_at": "2026-08-20T23:09:34Z",
+    "url": "https://github.com/api-evangelist/crate-io"
+  },
+  {
+    "description": "This document is a detailed reference to Contentstack\u2019s Content Delivery API. Retrieve content from your account and del",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-08-20T23:08:20Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-20T23:07:15Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Chroma (Chroma DB) is an open-source AI-native embedding database designed to make it easy to build LLM applications by ",
+    "id": "api-evangelist/chroma",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma",
+    "stars": 0,
+    "updated_at": "2026-08-20T23:04:46Z",
+    "url": "https://github.com/api-evangelist/chroma"
+  },
+  {
+    "description": "Chroma (Chroma DB) is an open-source, AI-native vector database (embedding database) for building LLM, RAG, and semantic",
+    "id": "api-evangelist/chroma-db",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma-db",
+    "stars": 0,
+    "updated_at": "2026-08-20T23:04:45Z",
+    "url": "https://github.com/api-evangelist/chroma-db"
+  },
+  {
+    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
+    "id": "oracle/langchain-oracle",
+    "language": "Python",
+    "name": "oracle/langchain-oracle",
+    "stars": 60,
+    "updated_at": "2026-08-20T23:03:05Z",
+    "url": "https://github.com/oracle/langchain-oracle"
+  },
+  {
+    "description": "Production-style semantic search and RAG backend built as a distributed system.  Features async ingestion (Kafka), embed",
+    "id": "NasitSony/SmartSearch",
+    "language": "Java",
+    "name": "NasitSony/SmartSearch",
+    "stars": 0,
+    "updated_at": "2026-08-20T23:01:16Z",
+    "url": "https://github.com/NasitSony/SmartSearch"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-20T23:00:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T23:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -16,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T22:55:34Z",
     "url": "https://github.com/api-evangelist/azure-cosmos-db"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T22:55:08Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-20T22:53:45Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
@@ -72,33 +180,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1495,
-    "updated_at": "2026-08-20T22:46:34Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-20T22:41:05Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Production-style semantic search and RAG backend built as a distributed system.  Features async ingestion (Kafka), embed",
-    "id": "NasitSony/SmartSearch",
-    "language": "Java",
-    "name": "NasitSony/SmartSearch",
-    "stars": 0,
-    "updated_at": "2026-08-20T22:41:15Z",
-    "url": "https://github.com/NasitSony/SmartSearch"
-  },
-  {
     "description": "The Ultimate Vectors Library for Java",
     "id": "integrallis/vectors",
     "language": "Java",
@@ -131,7 +212,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11215,
-    "updated_at": "2026-08-20T22:37:02Z",
+    "updated_at": "2026-08-20T23:10:05Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -169,24 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T22:21:11Z",
     "url": "https://github.com/matijani/awesome-multimodal-retrieval"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-20T22:14:17Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Programa abierto de ingenier\u00eda de bases de datos \u00b7 64 clases en 14 partes \u00b7 210 horas \u00b7 Del modelado conceptual a la ",
-    "id": "vladimiracunadev-create/database-systems-labs",
-    "language": "HTML",
-    "name": "vladimiracunadev-create/database-systems-labs",
-    "stars": 1,
-    "updated_at": "2026-08-20T22:12:11Z",
-    "url": "https://github.com/vladimiracunadev-create/database-systems-labs"
   },
   {
     "description": "Operational Database for AI Agents Provide causality lineage, DAG, and State Replay , build to make AI Agents auditable ",
@@ -257,7 +320,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9175,
-    "updated_at": "2026-08-20T22:59:09Z",
+    "updated_at": "2026-08-20T23:14:59Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -268,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-20T21:27:40Z",
     "url": "https://github.com/threefigure-achromia682/ai-memory"
-  },
-  {
-    "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
-    "id": "usetheoai/theodb-bench",
-    "language": "Python",
-    "name": "usetheoai/theodb-bench",
-    "stars": 0,
-    "updated_at": "2026-08-20T22:57:44Z",
-    "url": "https://github.com/usetheoai/theodb-bench"
   },
   {
     "description": "The AI search platform",
@@ -293,7 +347,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34098,
-    "updated_at": "2026-08-20T21:17:34Z",
+    "updated_at": "2026-08-20T23:15:07Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -369,15 +423,6 @@
     "url": "https://github.com/api-evangelist/surrealdb"
   },
   {
-    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
-    "id": "oracle/langchain-oracle",
-    "language": "Python",
-    "name": "oracle/langchain-oracle",
-    "stars": 60,
-    "updated_at": "2026-08-20T20:55:19Z",
-    "url": "https://github.com/oracle/langchain-oracle"
-  },
-  {
     "description": "RAG support bot answering docs questions with citations. Built twice: n8n workflow and Python/LangChain implementation. ",
     "id": "Muhammad-Abu-Bakar/rag-customer-support-bot",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 17,
     "updated_at": "2026-08-20T20:47:15Z",
     "url": "https://github.com/sdslabs/VortexDB"
-  },
-  {
-    "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
-    "id": "api-evangelist/objectbox",
-    "language": "\u2014",
-    "name": "api-evangelist/objectbox",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:42:37Z",
-    "url": "https://github.com/api-evangelist/objectbox"
-  },
-  {
-    "description": "Nomic AI builds open and accessible AI infrastructure. The company is known for the open-source Nomic Embed family (nomi",
-    "id": "api-evangelist/nomic-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/nomic-ai",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:41:49Z",
-    "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "MyScale is a SQL vector database built on a ClickHouse fork (MyScaleDB), combining high-performance vector search, full-",
-    "id": "api-evangelist/myscale",
-    "language": "\u2014",
-    "name": "api-evangelist/myscale",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:40:21Z",
-    "url": "https://github.com/api-evangelist/myscale"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35270,
-    "updated_at": "2026-08-20T20:39:58Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Mixedbread is a Berlin-based AI search and retrieval platform. It provides embeddings (mxbai-embed, Wholembed v3), reran",
-    "id": "api-evangelist/mixedbread-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/mixedbread-ai",
-    "stars": 1,
-    "updated_at": "2026-08-20T20:39:14Z",
-    "url": "https://github.com/api-evangelist/mixedbread-ai"
   }
 ]
