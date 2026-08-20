@@ -1,17 +1,62 @@
 [
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16741,
+    "updated_at": "2026-08-20T09:33:52Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Production-ready self-hosted Enterprise RAG infrastructure with Qdrant, Dify AI Studio, Ollama LLM, and Caddy Auto-HTTPS",
+    "id": "AlfazMahmudRizve/enterprise-rag-vultr-docker",
+    "language": "Shell",
+    "name": "AlfazMahmudRizve/enterprise-rag-vultr-docker",
+    "stars": 0,
+    "updated_at": "2026-08-20T09:33:40Z",
+    "url": "https://github.com/AlfazMahmudRizve/enterprise-rag-vultr-docker"
+  },
+  {
+    "description": "High-performance FastAPI bridge connecting n8n automation workflows with Qdrant vector database for self-hosted RAG & Re",
+    "id": "AlfazMahmudRizve/n8n-qdrant-fastapi-bridge",
+    "language": "Python",
+    "name": "AlfazMahmudRizve/n8n-qdrant-fastapi-bridge",
+    "stars": 0,
+    "updated_at": "2026-08-20T09:33:32Z",
+    "url": "https://github.com/AlfazMahmudRizve/n8n-qdrant-fastapi-bridge"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-20T09:32:05Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-20T09:30:22Z",
+    "updated_at": "2026-08-20T09:31:28Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T09:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
     "id": "inlaySQL/inlaysql",
-    "language": "\u2014",
+    "language": "Rust",
     "name": "inlaySQL/inlaysql",
     "stars": 0,
     "updated_at": "2026-08-20T09:28:58Z",
@@ -54,15 +99,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T09:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
     "id": "onlyarnav/nimbus-db",
     "language": "Go",
@@ -86,7 +122,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45706,
-    "updated_at": "2026-08-20T09:29:21Z",
+    "updated_at": "2026-08-20T09:33:28Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9175,
-    "updated_at": "2026-08-20T09:30:04Z",
+    "updated_at": "2026-08-20T09:33:31Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -176,17 +212,8 @@
     "language": "HTML",
     "name": "al7o/DocuMind-AI-Engine",
     "stars": 1,
-    "updated_at": "2026-08-20T08:39:02Z",
+    "updated_at": "2026-08-20T09:35:05Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-20T08:35:39Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30138,
-    "updated_at": "2026-08-20T09:06:37Z",
+    "updated_at": "2026-08-20T09:31:59Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6216,
-    "updated_at": "2026-08-20T09:29:42Z",
+    "updated_at": "2026-08-20T09:35:49Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9416,
-    "updated_at": "2026-08-20T09:06:23Z",
+    "updated_at": "2026-08-20T09:34:15Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T06:05:03Z",
     "url": "https://github.com/omdesai69/privrag-guard"
-  },
-  {
-    "description": "Chat with your documents using RAG. Upload PDFs, ask questions, get cited answers.",
-    "id": "krrishapatel/Ragchat",
-    "language": "Python",
-    "name": "krrishapatel/Ragchat",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:56:02Z",
-    "url": "https://github.com/krrishapatel/Ragchat"
-  },
-  {
-    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
-    "id": "fewshot-works/academy",
-    "language": "TypeScript",
-    "name": "fewshot-works/academy",
-    "stars": 4,
-    "updated_at": "2026-08-20T05:56:02Z",
-    "url": "https://github.com/fewshot-works/academy"
-  },
-  {
-    "description": "Multi-source conversational RAG chatbot supporting PDFs, DOCX, TXT, CSV, websites, APIs, and YouTube transcripts using L",
-    "id": "Vinay-Rai/OmniRAG-Multi-Source-Conversational-AI-Assistant",
-    "language": "Python",
-    "name": "Vinay-Rai/OmniRAG-Multi-Source-Conversational-AI-Assistant",
-    "stars": 0,
-    "updated_at": "2026-08-20T05:40:31Z",
-    "url": "https://github.com/Vinay-Rai/OmniRAG-Multi-Source-Conversational-AI-Assistant"
   }
 ]
