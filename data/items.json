@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-20T22:45:20Z",
+    "updated_at": "2026-08-20T22:53:45Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 2,
+    "updated_at": "2026-08-20T22:53:55Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-08-20T22:54:51Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-08-20T22:46:59Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-20T22:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -23,7 +59,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1495,
-    "updated_at": "2026-08-20T22:44:26Z",
+    "updated_at": "2026-08-20T22:46:34Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -72,15 +108,6 @@
     "url": "https://github.com/yichunzhao/ragdemo"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-20T22:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -115,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-20T22:25:00Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 2,
-    "updated_at": "2026-08-20T22:24:07Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9175,
-    "updated_at": "2026-08-20T22:43:26Z",
+    "updated_at": "2026-08-20T22:53:00Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7056,
-    "updated_at": "2026-08-20T21:20:21Z",
+    "updated_at": "2026-08-20T22:51:30Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -265,7 +283,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34097,
+    "stars": 34098,
     "updated_at": "2026-08-20T21:17:34Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-20T20:38:56Z",
     "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "Marqo is an open-source, multimodal vector search engine that lets developers index text and images, generate embeddings",
-    "id": "api-evangelist/marqo",
-    "language": "\u2014",
-    "name": "api-evangelist/marqo",
-    "stars": 0,
-    "updated_at": "2026-08-20T20:36:49Z",
-    "url": "https://github.com/api-evangelist/marqo"
-  },
-  {
-    "description": "Turbovec MCP Server: A local Retrieval-Augmented Generation (RAG) tool that allows AI to seamlessly read, chunk, remembe",
-    "id": "henny-bee/Turbovec-MCP-Tiar",
-    "language": "Python",
-    "name": "henny-bee/Turbovec-MCP-Tiar",
-    "stars": 5,
-    "updated_at": "2026-08-20T20:34:48Z",
-    "url": "https://github.com/henny-bee/Turbovec-MCP-Tiar"
   }
 ]
