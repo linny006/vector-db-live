@@ -1,12 +1,48 @@
 [
   {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-21T16:11:27Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
+    "updated_at": "2026-08-21T16:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "EKA Agent \u2014 Multi-device data ingestion, LoRA training pipeline, and vector DB for a private AI agent. Hub-and-spoke: 6 ",
+    "id": "urgaa-eka/jayti",
+    "language": "Python",
+    "name": "urgaa-eka/jayti",
+    "stars": 0,
+    "updated_at": "2026-08-21T16:26:34Z",
+    "url": "https://github.com/urgaa-eka/jayti"
+  },
+  {
+    "description": "Production-ready RAG system for question-answering over PDF documents with semantic search, strict hallucination prevent",
+    "id": "beyzahiz/PDF-Chat-RAG",
+    "language": "Python",
+    "name": "beyzahiz/PDF-Chat-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-21T16:25:33Z",
+    "url": "https://github.com/beyzahiz/PDF-Chat-RAG"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11227,
+    "updated_at": "2026-08-21T16:30:20Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6217,
+    "updated_at": "2026-08-21T16:29:27Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
@@ -14,8 +50,53 @@
     "language": "Swift",
     "name": "christopherkarani/Wax",
     "stars": 785,
-    "updated_at": "2026-08-21T16:10:51Z",
+    "updated_at": "2026-08-21T16:20:48Z",
     "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-08-21T16:20:00Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-21T16:18:00Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-21T16:29:18Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T16:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 3,
+    "updated_at": "2026-08-21T16:11:27Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -34,24 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T16:08:06Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11226,
-    "updated_at": "2026-08-21T16:12:50Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 87,
-    "updated_at": "2026-08-21T16:13:22Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -108,30 +171,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-21T16:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T16:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
     "id": "TanNguyen234/VietLex-Tech-Spec",
     "language": "Python",
     "name": "TanNguyen234/VietLex-Tech-Spec",
     "stars": 0,
-    "updated_at": "2026-08-21T16:00:14Z",
+    "updated_at": "2026-08-21T16:27:42Z",
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Python",
     "name": "vishalChoudhary-git/ai-platform",
     "stars": 0,
-    "updated_at": "2026-08-21T16:14:49Z",
+    "updated_at": "2026-08-21T16:24:41Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
@@ -220,7 +265,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6759,
+    "stars": 6760,
     "updated_at": "2026-08-21T15:35:28Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -279,15 +324,6 @@
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6217,
-    "updated_at": "2026-08-21T16:13:04Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -304,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T15:21:44Z",
     "url": "https://github.com/thivernale/tophits-spring"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-21T15:21:35Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Website for the Weaviate vector database",
@@ -347,7 +374,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9180,
-    "updated_at": "2026-08-21T16:13:35Z",
+    "updated_at": "2026-08-21T16:30:07Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 6,
-    "updated_at": "2026-08-21T15:57:28Z",
+    "updated_at": "2026-08-21T16:16:03Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
@@ -394,15 +421,6 @@
     "stars": 9421,
     "updated_at": "2026-08-21T16:09:13Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-08-21T14:51:58Z",
-    "url": "https://github.com/kalisio/knowledge"
   },
   {
     "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
@@ -430,23 +448,5 @@
     "stars": 2257,
     "updated_at": "2026-08-21T14:28:06Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Agentic RAG system that plans, retrieves, reflects, and verifies across multiple hops \u2014 instead of assuming one retrieva",
-    "id": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
-    "language": "Python",
-    "name": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-21T14:25:14Z",
-    "url": "https://github.com/AdarshBobade/ResX---A-Multi-hop-AI-Agent"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 23,
-    "updated_at": "2026-08-21T14:22:48Z",
-    "url": "https://github.com/Cognipeer/console"
   }
 ]
