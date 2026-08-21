@@ -1,5 +1,95 @@
 [
   {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 755,
+    "updated_at": "2026-08-21T22:14:26Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 256,
+    "updated_at": "2026-08-21T22:12:36Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-21T22:10:54Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-21T22:10:21Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 592,
+    "updated_at": "2026-08-21T22:08:39Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-21T22:05:06Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7058,
+    "updated_at": "2026-08-21T22:04:21Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
+    "id": "tamnd/kura",
+    "language": "Rust",
+    "name": "tamnd/kura",
+    "stars": 0,
+    "updated_at": "2026-08-21T22:14:28Z",
+    "url": "https://github.com/tamnd/kura"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T22:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T22:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Production-style conversational RAG with LangGraph, FastAPI, pgvector, Ollama, semantic cache, document ingestion and a ",
     "id": "chrispsk/petrolium-rag",
     "language": "Jupyter Notebook",
@@ -16,24 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T21:59:36Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 592,
-    "updated_at": "2026-08-21T21:59:10Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
-    "id": "tamnd/kura",
-    "language": "Rust",
-    "name": "tamnd/kura",
-    "stars": 0,
-    "updated_at": "2026-08-21T21:57:20Z",
-    "url": "https://github.com/tamnd/kura"
   },
   {
     "description": "[MLsys2026]: RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RA",
@@ -54,21 +126,12 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 87,
-    "updated_at": "2026-08-21T21:58:54Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-21T22:00:02Z",
+    "updated_at": "2026-08-21T22:07:09Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -79,24 +142,6 @@
     "stars": 5,
     "updated_at": "2026-08-21T21:49:18Z",
     "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-21T21:48:46Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T21:47:51Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -126,21 +171,12 @@
     "url": "https://github.com/asaeles/manual-master"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-21T21:38:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
     "id": "vicquick/nobrainr",
     "language": "Python",
     "name": "vicquick/nobrainr",
     "stars": 1,
-    "updated_at": "2026-08-21T21:31:00Z",
+    "updated_at": "2026-08-21T22:01:54Z",
     "url": "https://github.com/vicquick/nobrainr"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11232,
-    "updated_at": "2026-08-21T21:58:02Z",
+    "updated_at": "2026-08-21T22:05:00Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -198,21 +234,12 @@
     "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-21T21:12:08Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9179,
-    "updated_at": "2026-08-21T21:57:16Z",
+    "updated_at": "2026-08-21T22:11:02Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T19:51:03Z",
     "url": "https://github.com/api-evangelist/objectbox"
-  },
-  {
-    "description": "Nomic AI builds open and accessible AI infrastructure. The company is known for the open-source Nomic Embed family (nomi",
-    "id": "api-evangelist/nomic-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/nomic-ai",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:49:50Z",
-    "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "MyScale is a SQL vector database built on a ClickHouse fork (MyScaleDB), combining high-performance vector search, full-",
-    "id": "api-evangelist/myscale",
-    "language": "\u2014",
-    "name": "api-evangelist/myscale",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:47:19Z",
-    "url": "https://github.com/api-evangelist/myscale"
-  },
-  {
-    "description": "Mixedbread is a Berlin-based AI search and retrieval platform. It provides embeddings (mxbai-embed, Wholembed v3), reran",
-    "id": "api-evangelist/mixedbread-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/mixedbread-ai",
-    "stars": 1,
-    "updated_at": "2026-08-21T19:45:28Z",
-    "url": "https://github.com/api-evangelist/mixedbread-ai"
   }
 ]
