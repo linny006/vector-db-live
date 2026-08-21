@@ -1,5 +1,77 @@
 [
   {
+    "description": "Operational Database for AI Agents Provide causality lineage, DAG, and State Replay , build to make AI Agents auditable ",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "TypeScript",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 41,
+    "updated_at": "2026-08-21T15:58:51Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-21T15:58:35Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Samples showcasing Spanner multi model capabilities - across relational, key/value, vector, full-text search and graph",
+    "id": "GoogleCloudPlatform/spanner-bb-samples",
+    "language": "Python",
+    "name": "GoogleCloudPlatform/spanner-bb-samples",
+    "stars": 6,
+    "updated_at": "2026-08-21T15:56:45Z",
+    "url": "https://github.com/GoogleCloudPlatform/spanner-bb-samples"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 3,
+    "updated_at": "2026-08-21T15:54:56Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1345,
+    "updated_at": "2026-08-21T15:54:17Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "This Application is used to analyse the Resume in pdf formats and provides the exact and accurate answers regarding the ",
+    "id": "Abhi11sep/Resume_Rag_Single_App",
+    "language": "JavaScript",
+    "name": "Abhi11sep/Resume_Rag_Single_App",
+    "stars": 0,
+    "updated_at": "2026-08-21T15:52:09Z",
+    "url": "https://github.com/Abhi11sep/Resume_Rag_Single_App"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-21T15:48:20Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T15:48:10Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,21 +81,12 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-21T15:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-21T15:44:36Z",
+    "updated_at": "2026-08-21T15:54:21Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T15:43:03Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Operational Database for AI Agents Provide causality lineage, DAG, and State Replay , build to make AI Agents auditable ",
-    "id": "Zizka-ai/ZizkaDB",
-    "language": "TypeScript",
-    "name": "Zizka-ai/ZizkaDB",
-    "stars": 41,
-    "updated_at": "2026-08-21T15:42:06Z",
-    "url": "https://github.com/Zizka-ai/ZizkaDB"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "vishalChoudhary-git/ai-platform",
     "stars": 0,
-    "updated_at": "2026-08-21T15:46:22Z",
+    "updated_at": "2026-08-21T15:55:55Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
@@ -76,8 +130,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30169,
-    "updated_at": "2026-08-21T15:36:35Z",
+    "stars": 30170,
+    "updated_at": "2026-08-21T15:58:27Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -88,6 +142,24 @@
     "stars": 0,
     "updated_at": "2026-08-21T15:35:47Z",
     "url": "https://github.com/100wahidi/Realtime-data-embedding-pipeline"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6759,
+    "updated_at": "2026-08-21T15:35:28Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1535,
+    "updated_at": "2026-08-21T15:35:03Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -149,7 +221,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-21T15:47:07Z",
+    "updated_at": "2026-08-21T15:51:11Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -160,15 +232,6 @@
     "stars": 3,
     "updated_at": "2026-08-21T15:28:26Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1534,
-    "updated_at": "2026-08-21T15:35:03Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -212,7 +275,7 @@
     "language": "TypeScript",
     "name": "verygoodplugins/mcp-automem",
     "stars": 64,
-    "updated_at": "2026-08-21T15:35:33Z",
+    "updated_at": "2026-08-21T15:49:18Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
   },
   {
@@ -225,21 +288,12 @@
     "url": "https://github.com/yihui504/TestVDB"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-21T15:16:22Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9180,
-    "updated_at": "2026-08-21T15:47:16Z",
+    "updated_at": "2026-08-21T15:59:23Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -266,7 +320,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 6,
-    "updated_at": "2026-08-21T15:38:39Z",
+    "updated_at": "2026-08-21T15:57:28Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
@@ -320,7 +374,7 @@
     "language": "Python",
     "name": "cyborginc/cyborgdb-py",
     "stars": 8,
-    "updated_at": "2026-08-21T14:40:05Z",
+    "updated_at": "2026-08-21T15:48:38Z",
     "url": "https://github.com/cyborginc/cyborgdb-py"
   },
   {
@@ -331,15 +385,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T14:39:56Z",
     "url": "https://github.com/manav-2812/synapse"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-21T14:35:25Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T14:10:57Z",
     "url": "https://github.com/sahoouttam/document-summarizer"
-  },
-  {
-    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-08-21T14:10:06Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 340,
-    "updated_at": "2026-08-21T13:57:43Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Memseek is an open source declarative context engine for AI agents. Define agent memory in versioned YAML \u2014 like Terrafo",
-    "id": "memseekai/memseek",
-    "language": "Python",
-    "name": "memseekai/memseek",
-    "stars": 3,
-    "updated_at": "2026-08-21T13:56:07Z",
-    "url": "https://github.com/memseekai/memseek"
-  },
-  {
-    "description": "",
-    "id": "mahavirvataliya/openrag-ai-chatbot",
-    "language": "PHP",
-    "name": "mahavirvataliya/openrag-ai-chatbot",
-    "stars": 1,
-    "updated_at": "2026-08-21T13:51:12Z",
-    "url": "https://github.com/mahavirvataliya/openrag-ai-chatbot"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12924,
-    "updated_at": "2026-08-21T13:47:46Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   }
 ]
