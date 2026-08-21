@@ -1,12 +1,102 @@
 [
   {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-08-21T02:59:23Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti",
+    "id": "rvarun03/ARIOS",
+    "language": "Python",
+    "name": "rvarun03/ARIOS",
+    "stars": 0,
+    "updated_at": "2026-08-21T02:58:18Z",
+    "url": "https://github.com/rvarun03/ARIOS"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-21T02:55:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "",
+    "id": "dkylewillis/vera",
+    "language": "Python",
+    "name": "dkylewillis/vera",
+    "stars": 17,
+    "updated_at": "2026-08-21T02:52:52Z",
+    "url": "https://github.com/dkylewillis/vera"
+  },
+  {
+    "description": "AI API Directory for Agents: 127 APIs, pricing and free tiers",
+    "id": "wuhu95wuhu-design/toolkiti",
+    "language": "TypeScript",
+    "name": "wuhu95wuhu-design/toolkiti",
+    "stars": 0,
+    "updated_at": "2026-08-21T02:50:16Z",
+    "url": "https://github.com/wuhu95wuhu-design/toolkiti"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-21T02:49:56Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
-    "stars": 9176,
-    "updated_at": "2026-08-21T02:44:39Z",
+    "stars": 9177,
+    "updated_at": "2026-08-21T02:55:17Z",
     "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1880,
+    "updated_at": "2026-08-21T02:46:28Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T02:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-21T02:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-style Document Intelligence and Retrieval-Augmented Generation (RAG) application",
+    "id": "vaibhhavsharma11/Project-02-Document-Intelligence-Rag",
+    "language": "Python",
+    "name": "vaibhhavsharma11/Project-02-Document-Intelligence-Rag",
+    "stars": 0,
+    "updated_at": "2026-08-21T02:42:17Z",
+    "url": "https://github.com/vaibhhavsharma11/Project-02-Document-Intelligence-Rag"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -45,40 +135,13 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "",
-    "id": "dkylewillis/vera",
-    "language": "Python",
-    "name": "dkylewillis/vera",
-    "stars": 17,
-    "updated_at": "2026-08-21T02:37:09Z",
-    "url": "https://github.com/dkylewillis/vera"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1503,
-    "updated_at": "2026-08-21T02:37:04Z",
+    "stars": 1504,
+    "updated_at": "2026-08-21T02:57:42Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T02:36:54Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-21T02:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -95,7 +158,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1094,
-    "updated_at": "2026-08-21T02:40:07Z",
+    "updated_at": "2026-08-21T02:55:47Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -115,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T02:32:44Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-21T02:29:59Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-21T02:30:16Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -169,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T02:15:50Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI API Directory for Agents: 127 APIs, pricing and free tiers",
-    "id": "wuhu95wuhu-design/toolkiti",
-    "language": "TypeScript",
-    "name": "wuhu95wuhu-design/toolkiti",
-    "stars": 0,
-    "updated_at": "2026-08-21T02:15:34Z",
-    "url": "https://github.com/wuhu95wuhu-design/toolkiti"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
@@ -328,7 +364,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34103,
+    "stars": 34104,
     "updated_at": "2026-08-21T00:44:41Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T00:28:42Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Vespa is an open-source AI search engine, big-data serving engine, and vector database originally developed inside Yahoo",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:28:36Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Top Vector Embedding Platform \ud83c\udf1f Star if you like it! \ud83c\udf1f",
-    "id": "ishandutta2007/Awesome-Vector-Embedding-Platform",
-    "language": "\u2014",
-    "name": "ishandutta2007/Awesome-Vector-Embedding-Platform",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:28:35Z",
-    "url": "https://github.com/ishandutta2007/Awesome-Vector-Embedding-Platform"
-  },
-  {
-    "description": "Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds ",
-    "id": "api-evangelist/vectorize-io",
-    "language": "\u2014",
-    "name": "api-evangelist/vectorize-io",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:27:54Z",
-    "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 3,
-    "updated_at": "2026-08-21T00:27:28Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
   }
 ]
