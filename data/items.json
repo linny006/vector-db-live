@@ -1,11 +1,47 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T23:47:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
+    "id": "mattmre/CHELATEDAI",
+    "language": "Python",
+    "name": "mattmre/CHELATEDAI",
+    "stars": 2,
+    "updated_at": "2026-08-21T23:47:49Z",
+    "url": "https://github.com/mattmre/CHELATEDAI"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-21T23:46:18Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T23:45:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11232,
-    "updated_at": "2026-08-21T23:44:23Z",
+    "updated_at": "2026-08-21T23:46:32Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -61,24 +97,6 @@
     "stars": 1879,
     "updated_at": "2026-08-21T23:34:29Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-21T23:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T23:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T20:17:00Z",
     "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6350,
-    "updated_at": "2026-08-21T23:22:44Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Automatically read and reply to customer emails using RAG (Retrieval-Augmented Generation). Built with n8n, OpenAI GPT-4",
-    "id": "imkausarbd/RAG-Based-Email-Customer-Support-Agent-",
-    "language": "\u2014",
-    "name": "imkausarbd/RAG-Based-Email-Customer-Support-Agent-",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:13:08Z",
-    "url": "https://github.com/imkausarbd/RAG-Based-Email-Customer-Support-Agent-"
   }
 ]
