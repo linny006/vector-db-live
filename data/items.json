@@ -1,12 +1,102 @@
 [
   {
+    "description": "Native AI inference for PHP 8.3+ - run ONNX, GGUF (llama.cpp) and RubixML models directly in your PHP process via FFI. C",
+    "id": "MADEVAL/FerryAI",
+    "language": "PHP",
+    "name": "MADEVAL/FerryAI",
+    "stars": 39,
+    "updated_at": "2026-08-21T12:28:33Z",
+    "url": "https://github.com/MADEVAL/FerryAI"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1879,
+    "updated_at": "2026-08-21T12:26:29Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Privacy-preserving middleware for RAG and vector embeddings. Defends against embedding inversion attacks using different",
+    "id": "omdesai69/privrag-guard",
+    "language": "Python",
+    "name": "omdesai69/privrag-guard",
+    "stars": 0,
+    "updated_at": "2026-08-21T12:25:51Z",
+    "url": "https://github.com/omdesai69/privrag-guard"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 23,
+    "updated_at": "2026-08-21T12:25:48Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 6,
+    "updated_at": "2026-08-21T12:25:14Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
+  },
+  {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5824,
+    "updated_at": "2026-08-21T12:21:42Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-21T12:21:06Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 469,
+    "updated_at": "2026-08-21T12:16:53Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
     "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
     "id": "tuned-org-uk/arrowspace-rs",
     "language": "Rust",
     "name": "tuned-org-uk/arrowspace-rs",
     "stars": 41,
-    "updated_at": "2026-08-21T12:15:12Z",
+    "updated_at": "2026-08-21T12:15:37Z",
     "url": "https://github.com/tuned-org-uk/arrowspace-rs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T12:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-21T12:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI memory system combining vector search with temporal knowledge graph. Built-in cognitive engine for agents. Supports m",
@@ -18,13 +108,13 @@
     "url": "https://github.com/sanonone/kektordb"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1879,
-    "updated_at": "2026-08-21T12:11:31Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-08-21T12:12:49Z",
+    "url": "https://github.com/theogony-project/theogony"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -43,24 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T12:02:19Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T12:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-21T12:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -97,15 +169,6 @@
     "stars": 34113,
     "updated_at": "2026-08-21T12:01:21Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
-    "id": "theogony-project/theogony",
-    "language": "Python",
-    "name": "theogony-project/theogony",
-    "stars": 0,
-    "updated_at": "2026-08-21T12:12:49Z",
-    "url": "https://github.com/theogony-project/theogony"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -167,7 +230,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1095,
-    "updated_at": "2026-08-21T11:37:11Z",
+    "updated_at": "2026-08-21T12:30:08Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7057,
-    "updated_at": "2026-08-21T12:06:11Z",
+    "updated_at": "2026-08-21T12:25:39Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -252,15 +315,6 @@
     "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-21T11:14:55Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -302,7 +356,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-21T10:46:16Z",
+    "updated_at": "2026-08-21T12:16:08Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -351,15 +405,6 @@
     "url": "https://github.com/manav-2812/synapse"
   },
   {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 23,
-    "updated_at": "2026-08-21T11:59:56Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-21T09:12:42Z",
     "url": "https://github.com/bytesbala/crewai-customer-support-agent"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 262,
-    "updated_at": "2026-08-21T09:09:22Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 742,
-    "updated_at": "2026-08-21T09:05:47Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-21T09:05:10Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Agentic AI SME loan underwriting assistant using LangGraph, RAG, MCP, multi-agent workflows, HITL, Qdrant, FastAPI and L",
-    "id": "my-ai-development/Wealthpilot",
-    "language": "Python",
-    "name": "my-ai-development/Wealthpilot",
-    "stars": 0,
-    "updated_at": "2026-08-21T08:58:15Z",
-    "url": "https://github.com/my-ai-development/Wealthpilot"
-  },
-  {
-    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-08-21T08:58:11Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   }
 ]
