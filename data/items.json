@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-21T15:02:49Z",
+    "updated_at": "2026-08-21T15:15:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9180,
+    "updated_at": "2026-08-21T15:11:20Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-21T15:10:17Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1613,
+    "updated_at": "2026-08-21T15:05:16Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-21T15:03:42Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-21T15:00:27Z",
+    "updated_at": "2026-08-21T15:03:06Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
+    "id": "tamnd/kura",
+    "language": "Rust",
+    "name": "tamnd/kura",
+    "stars": 0,
+    "updated_at": "2026-08-21T15:02:54Z",
+    "url": "https://github.com/tamnd/kura"
   },
   {
     "description": " Built on a blazing-fast Rust core, seamlessly unifying relational databases, NoSQL, vector stores, analytics engines, S",
@@ -32,17 +77,26 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-21T14:56:34Z",
+    "updated_at": "2026-08-21T15:14:58Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
     "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9180,
-    "updated_at": "2026-08-21T14:54:38Z",
-    "url": "https://github.com/paradedb/paradedb"
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 6,
+    "updated_at": "2026-08-21T14:56:25Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7057,
+    "updated_at": "2026-08-21T15:05:03Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -86,17 +140,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1095,
-    "updated_at": "2026-08-21T14:50:43Z",
+    "updated_at": "2026-08-21T15:15:26Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-21T14:44:23Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -106,24 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T14:43:35Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-21T14:41:34Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
-    "id": "tamnd/kura",
-    "language": "Rust",
-    "name": "tamnd/kura",
-    "stars": 0,
-    "updated_at": "2026-08-21T15:02:54Z",
-    "url": "https://github.com/tamnd/kura"
   },
   {
     "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
@@ -212,7 +239,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30169,
-    "updated_at": "2026-08-21T14:52:47Z",
+    "updated_at": "2026-08-21T15:15:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -252,21 +279,12 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7057,
-    "updated_at": "2026-08-21T14:56:13Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8121,
-    "updated_at": "2026-08-21T14:20:06Z",
+    "updated_at": "2026-08-21T15:12:35Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "rafael-acerqueira/support-ops",
     "stars": 0,
-    "updated_at": "2026-08-21T14:11:39Z",
+    "updated_at": "2026-08-21T15:11:13Z",
     "url": "https://github.com/rafael-acerqueira/support-ops"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-21T14:57:47Z",
+    "updated_at": "2026-08-21T15:08:18Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -340,6 +358,15 @@
     "stars": 1,
     "updated_at": "2026-08-21T13:51:12Z",
     "url": "https://github.com/mahavirvataliya/openrag-ai-chatbot"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12924,
+    "updated_at": "2026-08-21T13:47:46Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
@@ -387,15 +414,6 @@
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
-    "id": "varun29ankuS/shodh-redb",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-redb",
-    "stars": 6,
-    "updated_at": "2026-08-21T14:56:25Z",
-    "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
     "description": "The documentation for SurrealDB, powered by Astro",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
@@ -430,23 +448,5 @@
     "stars": 220,
     "updated_at": "2026-08-21T13:03:39Z",
     "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
-  },
-  {
-    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
-    "id": "vicquick/nobrainr",
-    "language": "Python",
-    "name": "vicquick/nobrainr",
-    "stars": 1,
-    "updated_at": "2026-08-21T13:00:26Z",
-    "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "Local-first AI legal assistant \u2014 chat, summarize, and search legal PDFs with a local LLM (Ollama), RAG, and a CrewAI res",
-    "id": "PriyamKeshri/Ai-Legal-Assistant",
-    "language": "Python",
-    "name": "PriyamKeshri/Ai-Legal-Assistant",
-    "stars": 1,
-    "updated_at": "2026-08-21T12:58:44Z",
-    "url": "https://github.com/PriyamKeshri/Ai-Legal-Assistant"
   }
 ]
