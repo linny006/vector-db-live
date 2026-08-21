@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-21 03:15 UTC
+> ⏰ Last updated: 2026-08-21 03:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 469 | TypeScript | 2026-08-21 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
-| 3 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1443 | Python | 2026-08-21 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
-| 4 | [dkylewillis/vera](https://github.com/dkylewillis/vera) | 17 | Python | 2026-08-21 |  |
-| 5 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-21 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 6 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-21 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 7 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-21 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 6 | Python | 2026-08-21 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
-| 10 | [rvarun03/ARIOS](https://github.com/rvarun03/ARIOS) | 0 | Python | 2026-08-21 | AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti |
-| 11 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1504 | Rust | 2026-08-21 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-21 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 13 | [wuhu95wuhu-design/toolkiti](https://github.com/wuhu95wuhu-design/toolkiti) | 0 | TypeScript | 2026-08-21 | AI API Directory for Agents: 127 APIs, pricing and free tiers |
-| 14 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 7 | Rust | 2026-08-21 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
-| 15 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9177 | Rust | 2026-08-21 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 16 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1880 | Go | 2026-08-21 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 17 | [vaibhhavsharma11/Project-02-Document-Intelligence-Rag](https://github.com/vaibhhavsharma11/Project-02-Document-Intelligence-Rag) | 0 | Python | 2026-08-21 | Production-style Document Intelligence and Retrieval-Augmented Generation (RAG) application |
-| 18 | [r-firth/vecgra-python](https://github.com/r-firth/vecgra-python) | 0 | Python | 2026-08-21 | Typed Python models and CLI integration for Vecgra |
-| 19 | [angrysky56/emotion_ai](https://github.com/angrysky56/emotion_ai) | 11 | Python | 2026-08-21 | The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne |
-| 20 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-08-21 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 21 | [sergiunicoara/Generative-AI](https://github.com/sergiunicoara/Generative-AI) | 3 | Python | 2026-08-21 | Production GraphRAG portfolio — knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG  |
-| 22 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1094 | Java | 2026-08-21 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 23 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45718 | Go | 2026-08-21 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 1 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45718 | Go | 2026-08-21 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 2 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1094 | Java | 2026-08-21 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-21 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 4 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1504 | Rust | 2026-08-21 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 5 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-21 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 8 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 469 | TypeScript | 2026-08-21 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 9 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1443 | Python | 2026-08-21 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
+| 10 | [dkylewillis/vera](https://github.com/dkylewillis/vera) | 17 | Python | 2026-08-21 |  |
+| 11 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-21 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 12 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-21 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 13 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 6 | Python | 2026-08-21 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
+| 14 | [rvarun03/ARIOS](https://github.com/rvarun03/ARIOS) | 0 | Python | 2026-08-21 | AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti |
+| 15 | [wuhu95wuhu-design/toolkiti](https://github.com/wuhu95wuhu-design/toolkiti) | 0 | TypeScript | 2026-08-21 | AI API Directory for Agents: 127 APIs, pricing and free tiers |
+| 16 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 7 | Rust | 2026-08-21 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
+| 17 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9177 | Rust | 2026-08-21 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 18 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1880 | Go | 2026-08-21 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 19 | [vaibhhavsharma11/Project-02-Document-Intelligence-Rag](https://github.com/vaibhhavsharma11/Project-02-Document-Intelligence-Rag) | 0 | Python | 2026-08-21 | Production-style Document Intelligence and Retrieval-Augmented Generation (RAG) application |
+| 20 | [r-firth/vecgra-python](https://github.com/r-firth/vecgra-python) | 0 | Python | 2026-08-21 | Typed Python models and CLI integration for Vecgra |
+| 21 | [angrysky56/emotion_ai](https://github.com/angrysky56/emotion_ai) | 11 | Python | 2026-08-21 | The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne |
+| 22 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-08-21 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 23 | [sergiunicoara/Generative-AI](https://github.com/sergiunicoara/Generative-AI) | 3 | Python | 2026-08-21 | Production GraphRAG portfolio — knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG  |
 | 24 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-08-21 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
 | 25 | [r-firth/vecgra](https://github.com/r-firth/vecgra) | 0 | Rust | 2026-08-21 | A vector-native embedded graph database. One graph. One vector space. One file. |
 | 26 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-21 |  |
@@ -75,7 +75,7 @@ expired items removed — so you can rely on what you see being current.
 | 31 | [ahmedselimmansor-ctrl/databases-from-history-to-vectors](https://github.com/ahmedselimmansor-ctrl/databases-from-history-to-vectors) | 0 | JavaScript | 2026-08-21 | A diagram-first, bilingual (EN/AR) handbook on the history of databases and the relational, NoSQL, vector, and graph mod |
 | 32 | [project-david-ai/projectdavid-platform](https://github.com/project-david-ai/projectdavid-platform) | 1 | Python | 2026-08-21 | A single pip installed package will orchestrate a production ready instance of the AI stack in any environment |
 | 33 | [schmitech/orbit](https://github.com/schmitech/orbit) | 340 | Python | 2026-08-21 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 34 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11218 | Rust | 2026-08-21 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 34 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11219 | Rust | 2026-08-21 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 35 | [pal404error/sift](https://github.com/pal404error/sift) | 0 | Python | 2026-08-21 | Sift — enterprise, self-hostable, multi-provider RAG search engine over web content. Pluggable LLMs/embeddings, vector s |
 | 36 | [dingodb/dingo-store](https://github.com/dingodb/dingo-store) | 162 | C++ | 2026-08-21 | A distributed Key-Value Storage using Raft |
 | 37 | [Lakan1509/enterprise-multi-agent-ai-platform](https://github.com/Lakan1509/enterprise-multi-agent-ai-platform) | 0 | Python | 2026-08-21 | Production-style multi-agent RAG platform using LangGraph, FastAPI, Ollama, Qwen, FAISS, API security, Docker, and autom |
