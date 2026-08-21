@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-21T11:15:24Z",
+    "updated_at": "2026-08-21T11:21:10Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
+    "id": "tuned-org-uk/arrowspace-rs",
+    "language": "Rust",
+    "name": "tuned-org-uk/arrowspace-rs",
+    "stars": 41,
+    "updated_at": "2026-08-21T11:21:56Z",
+    "url": "https://github.com/tuned-org-uk/arrowspace-rs"
+  },
+  {
+    "description": "Mn\u0113-MCP \u2014 MCP server de RAG para opencode: indexa vaults de Obsidian, embeddings bge-m3 locales (Ollama), Qdrant vectori",
+    "id": "Gatoco/mnemos-mcp",
+    "language": "Python",
+    "name": "Gatoco/mnemos-mcp",
+    "stars": 0,
+    "updated_at": "2026-08-21T11:18:48Z",
+    "url": "https://github.com/Gatoco/mnemos-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T11:15:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
+    "id": "Parth-2004/Historical-AI-Assistant",
+    "language": "Python",
+    "name": "Parth-2004/Historical-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-08-21T11:15:16Z",
+    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -63,15 +99,6 @@
     "url": "https://github.com/hippmem/hippmem"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T11:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35278,
-    "updated_at": "2026-08-21T10:58:29Z",
+    "updated_at": "2026-08-21T11:21:09Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -94,8 +121,8 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34114,
-    "updated_at": "2026-08-21T10:55:23Z",
+    "stars": 34113,
+    "updated_at": "2026-08-21T11:22:02Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -167,7 +194,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-21T10:27:59Z",
+    "updated_at": "2026-08-21T11:23:50Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11225,
-    "updated_at": "2026-08-21T10:58:22Z",
+    "updated_at": "2026-08-21T11:21:17Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -230,7 +257,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8118,
-    "updated_at": "2026-08-21T09:48:27Z",
+    "updated_at": "2026-08-21T11:21:39Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -248,7 +275,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 23,
-    "updated_at": "2026-08-21T09:43:10Z",
+    "updated_at": "2026-08-21T11:17:21Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-21T08:15:01Z",
     "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45728,
-    "updated_at": "2026-08-21T08:07:22Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "VTS is a tool designed for the transformation and transportation of vectors and unstructured data.",
-    "id": "zilliztech/vts",
-    "language": "Java",
-    "name": "zilliztech/vts",
-    "stars": 133,
-    "updated_at": "2026-08-21T08:03:17Z",
-    "url": "https://github.com/zilliztech/vts"
-  },
-  {
-    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
-    "id": "amirhosssein0/ai-platform-lab",
-    "language": "TypeScript",
-    "name": "amirhosssein0/ai-platform-lab",
-    "stars": 2,
-    "updated_at": "2026-08-21T07:59:07Z",
-    "url": "https://github.com/amirhosssein0/ai-platform-lab"
   }
 ]
