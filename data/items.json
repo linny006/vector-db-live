@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-21T06:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
+    "id": "tamnd/kura",
+    "language": "Rust",
+    "name": "tamnd/kura",
+    "stars": 0,
+    "updated_at": "2026-08-21T06:13:49Z",
+    "url": "https://github.com/tamnd/kura"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-21T06:10:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-08-21T06:02:23Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T06:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Official client SDKs for Statelet \u2014 Python, Node.js, Go, Rust, Java, and C++",
     "id": "stateletlab/statelet-sdk",
     "language": "Python",
@@ -43,33 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T05:47:50Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T05:47:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-21T06:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-21T05:42:54Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
@@ -202,7 +220,7 @@
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16744,
+    "stars": 16745,
     "updated_at": "2026-08-21T05:15:16Z",
     "url": "https://github.com/weaviate/weaviate"
   },
@@ -211,7 +229,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45720,
+    "stars": 45721,
     "updated_at": "2026-08-21T05:12:52Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -232,15 +250,6 @@
     "stars": 1880,
     "updated_at": "2026-08-21T05:08:47Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
-    "id": "tamnd/kura",
-    "language": "Rust",
-    "name": "tamnd/kura",
-    "stars": 0,
-    "updated_at": "2026-08-21T05:00:29Z",
-    "url": "https://github.com/tamnd/kura"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -283,7 +292,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15496,
+    "stars": 15495,
     "updated_at": "2026-08-21T04:26:43Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -302,7 +311,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1095,
-    "updated_at": "2026-08-21T05:55:38Z",
+    "updated_at": "2026-08-21T06:09:39Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -310,7 +319,7 @@
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
-    "stars": 9178,
+    "stars": 9177,
     "updated_at": "2026-08-21T04:22:15Z",
     "url": "https://github.com/paradedb/paradedb"
   },
@@ -337,7 +346,7 @@
     "id": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
     "language": "HTML",
     "name": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-    "stars": 219,
+    "stars": 220,
     "updated_at": "2026-08-21T04:04:00Z",
     "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
   },
@@ -351,11 +360,20 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7056,
+    "updated_at": "2026-08-21T03:48:48Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1514,
+    "stars": 1516,
     "updated_at": "2026-08-21T03:48:33Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-21T02:49:56Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Production-style Document Intelligence and Retrieval-Augmented Generation (RAG) application",
-    "id": "vaibhhavsharma11/Project-02-Document-Intelligence-Rag",
-    "language": "Python",
-    "name": "vaibhhavsharma11/Project-02-Document-Intelligence-Rag",
-    "stars": 0,
-    "updated_at": "2026-08-21T02:42:17Z",
-    "url": "https://github.com/vaibhhavsharma11/Project-02-Document-Intelligence-Rag"
-  },
-  {
-    "description": "Typed Python models and CLI integration for Vecgra",
-    "id": "r-firth/vecgra-python",
-    "language": "Python",
-    "name": "r-firth/vecgra-python",
-    "stars": 0,
-    "updated_at": "2026-08-21T02:40:21Z",
-    "url": "https://github.com/r-firth/vecgra-python"
   }
 ]
