@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-21T04:45:20Z",
+    "updated_at": "2026-08-21T05:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first AI legal assistant \u2014 chat, summarize, and search legal PDFs with a local LLM (Ollama), RAG, and a CrewAI res",
+    "id": "PriyamKeshri/Ai-Legal-Assistant",
+    "language": "Python",
+    "name": "PriyamKeshri/Ai-Legal-Assistant",
+    "stars": 1,
+    "updated_at": "2026-08-21T04:58:32Z",
+    "url": "https://github.com/PriyamKeshri/Ai-Legal-Assistant"
+  },
+  {
+    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
+    "id": "tamnd/kura",
+    "language": "Rust",
+    "name": "tamnd/kura",
+    "stars": 0,
+    "updated_at": "2026-08-21T04:59:04Z",
+    "url": "https://github.com/tamnd/kura"
+  },
+  {
+    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
+    "id": "fewshot-works/academy",
+    "language": "TypeScript",
+    "name": "fewshot-works/academy",
+    "stars": 4,
+    "updated_at": "2026-08-21T04:54:51Z",
+    "url": "https://github.com/fewshot-works/academy"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T04:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-21T04:45:22Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45718,
+    "updated_at": "2026-08-21T04:45:19Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -63,15 +117,6 @@
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T04:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
     "id": "kwhorne/ElyraSQL",
     "language": "Rust",
@@ -99,21 +144,12 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
-    "id": "tamnd/kura",
-    "language": "Rust",
-    "name": "tamnd/kura",
-    "stars": 0,
-    "updated_at": "2026-08-21T04:33:27Z",
-    "url": "https://github.com/tamnd/kura"
-  },
-  {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
     "id": "thameema/memnos",
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 2,
-    "updated_at": "2026-08-21T04:26:04Z",
+    "updated_at": "2026-08-21T04:58:46Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -144,15 +180,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-21T04:14:40Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
     "id": "usetheoai/theodb-bench",
     "language": "Python",
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9419,
-    "updated_at": "2026-08-21T04:40:02Z",
+    "updated_at": "2026-08-21T05:00:06Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -202,7 +229,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1508,
+    "stars": 1511,
     "updated_at": "2026-08-21T03:48:33Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -225,15 +252,6 @@
     "url": "https://github.com/nekozzz94/NekoAI-agents"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45718,
-    "updated_at": "2026-08-21T04:45:19Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
@@ -248,7 +266,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1443,
-    "updated_at": "2026-08-21T04:18:46Z",
+    "updated_at": "2026-08-21T04:50:34Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T01:07:08Z",
     "url": "https://github.com/Lakan1509/enterprise-multi-agent-ai-platform"
-  },
-  {
-    "description": "RAG-based Q&A system over literacy education research \u2014 retrieval, grounded citation-based generation with Groq, and a 1",
-    "id": "arwahajmeri/literacy-research-rag",
-    "language": "Python",
-    "name": "arwahajmeri/literacy-research-rag",
-    "stars": 0,
-    "updated_at": "2026-08-21T01:01:13Z",
-    "url": "https://github.com/arwahajmeri/literacy-research-rag"
-  },
-  {
-    "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
-    "id": "oceanbase/oceanbase",
-    "language": "C++",
-    "name": "oceanbase/oceanbase",
-    "stars": 10252,
-    "updated_at": "2026-08-21T01:00:39Z",
-    "url": "https://github.com/oceanbase/oceanbase"
   }
 ]
