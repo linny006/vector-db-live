@@ -1,5 +1,77 @@
 [
   {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35278,
+    "updated_at": "2026-08-21T12:41:26Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Websites to chunked, de-duplicated, cited JSONL: heading-aware chunking, content hashing, resumable embeddings.",
+    "id": "quantumproxies/rag-corpus-builder",
+    "language": "Python",
+    "name": "quantumproxies/rag-corpus-builder",
+    "stars": 0,
+    "updated_at": "2026-08-21T12:39:03Z",
+    "url": "https://github.com/quantumproxies/rag-corpus-builder"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-21T12:38:55Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Sift \u2014 enterprise, self-hostable, multi-provider RAG search engine over web content. Pluggable LLMs/embeddings, vector s",
+    "id": "pal404error/sift",
+    "language": "Python",
+    "name": "pal404error/sift",
+    "stars": 0,
+    "updated_at": "2026-08-21T12:37:37Z",
+    "url": "https://github.com/pal404error/sift"
+  },
+  {
+    "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
+    "id": "meriamsamy/Sterling-Vance-Bank-B",
+    "language": "Python",
+    "name": "meriamsamy/Sterling-Vance-Bank-B",
+    "stars": 0,
+    "updated_at": "2026-08-21T12:35:33Z",
+    "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8120,
+    "updated_at": "2026-08-21T12:32:53Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11226,
+    "updated_at": "2026-08-21T12:40:42Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T12:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Native AI inference for PHP 8.3+ - run ONNX, GGUF (llama.cpp) and RubixML models directly in your PHP process via FFI. C",
     "id": "MADEVAL/FerryAI",
     "language": "PHP",
@@ -41,7 +113,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 6,
-    "updated_at": "2026-08-21T12:25:14Z",
+    "updated_at": "2026-08-21T12:33:55Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
@@ -77,26 +149,8 @@
     "language": "Rust",
     "name": "tuned-org-uk/arrowspace-rs",
     "stars": 41,
-    "updated_at": "2026-08-21T12:15:37Z",
+    "updated_at": "2026-08-21T12:37:43Z",
     "url": "https://github.com/tuned-org-uk/arrowspace-rs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T12:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-21T12:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI memory system combining vector search with temporal knowledge graph. Built-in cognitive engine for agents. Supports m",
@@ -104,7 +158,7 @@
     "language": "Go",
     "name": "sanonone/kektordb",
     "stars": 83,
-    "updated_at": "2026-08-21T12:14:44Z",
+    "updated_at": "2026-08-21T12:33:06Z",
     "url": "https://github.com/sanonone/kektordb"
   },
   {
@@ -135,15 +189,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8119,
-    "updated_at": "2026-08-21T11:59:37Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
@@ -151,6 +196,15 @@
     "stars": 4424,
     "updated_at": "2026-08-21T12:15:18Z",
     "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30166,
+    "updated_at": "2026-08-21T12:41:57Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
@@ -198,15 +252,6 @@
     "url": "https://github.com/usetheoai/theodb-bench"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11226,
-    "updated_at": "2026-08-21T12:14:53Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -221,7 +266,7 @@
     "language": "Swift",
     "name": "christopherkarani/Wax",
     "stars": 785,
-    "updated_at": "2026-08-21T12:02:24Z",
+    "updated_at": "2026-08-21T12:41:41Z",
     "url": "https://github.com/christopherkarani/Wax"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1095,
-    "updated_at": "2026-08-21T12:30:08Z",
+    "updated_at": "2026-08-21T12:40:37Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7057,
-    "updated_at": "2026-08-21T12:25:39Z",
+    "updated_at": "2026-08-21T12:41:15Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -284,17 +329,8 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-21T11:23:50Z",
+    "updated_at": "2026-08-21T12:42:29Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35277,
-    "updated_at": "2026-08-21T12:04:50Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Mn\u0113-MCP \u2014 MCP server de RAG para opencode: indexa vaults de Obsidian, embeddings bge-m3 locales (Ollama), Qdrant vectori",
@@ -313,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T11:15:16Z",
     "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30165,
-    "updated_at": "2026-08-21T11:57:24Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A full-stack, Keep-style note-taking SaaS with AI baked in \u2014 Gemini-powered title generation, on-demand summaries, and a",
@@ -356,7 +383,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-21T12:16:08Z",
+    "updated_at": "2026-08-21T12:35:30Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-21T09:38:33Z",
     "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 7,
-    "updated_at": "2026-08-21T09:31:55Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-21T09:18:56Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Production-ready agentic AI customer support system using CrewAI, Hybrid RAG, Qdrant, FastAPI, n8n, guardrails, web-sear",
-    "id": "bytesbala/crewai-customer-support-agent",
-    "language": "Python",
-    "name": "bytesbala/crewai-customer-support-agent",
-    "stars": 1,
-    "updated_at": "2026-08-21T09:12:42Z",
-    "url": "https://github.com/bytesbala/crewai-customer-support-agent"
   }
 ]
