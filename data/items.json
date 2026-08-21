@@ -1,12 +1,75 @@
 [
   {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9176,
+    "updated_at": "2026-08-21T02:44:39Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1443,
+    "updated_at": "2026-08-21T02:42:29Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Typed Python models and CLI integration for Vecgra",
+    "id": "r-firth/vecgra-python",
+    "language": "Python",
+    "name": "r-firth/vecgra-python",
+    "stars": 0,
+    "updated_at": "2026-08-21T02:40:21Z",
+    "url": "https://github.com/r-firth/vecgra-python"
+  },
+  {
     "description": "The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne",
     "id": "angrysky56/emotion_ai",
     "language": "Python",
     "name": "angrysky56/emotion_ai",
     "stars": 11,
-    "updated_at": "2026-08-21T02:36:24Z",
+    "updated_at": "2026-08-21T02:40:06Z",
     "url": "https://github.com/angrysky56/emotion_ai"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-21T02:37:54Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "",
+    "id": "dkylewillis/vera",
+    "language": "Python",
+    "name": "dkylewillis/vera",
+    "stars": 17,
+    "updated_at": "2026-08-21T02:37:09Z",
+    "url": "https://github.com/dkylewillis/vera"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1503,
+    "updated_at": "2026-08-21T02:37:04Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T02:36:54Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-21T02:36:12Z",
+    "updated_at": "2026-08-21T02:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1094,
-    "updated_at": "2026-08-21T02:34:45Z",
+    "updated_at": "2026-08-21T02:40:07Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T02:32:44Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T02:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -130,18 +184,9 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15492,
+    "stars": 15493,
     "updated_at": "2026-08-21T02:12:01Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1503,
-    "updated_at": "2026-08-21T02:10:07Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
@@ -151,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T02:04:20Z",
     "url": "https://github.com/qtuanph/chatbot-rag"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9176,
-    "updated_at": "2026-08-21T01:59:21Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
@@ -216,15 +252,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-21T01:14:42Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "Sift \u2014 enterprise, self-hostable, multi-provider RAG search engine over web content. Pluggable LLMs/embeddings, vector s",
     "id": "pal404error/sift",
     "language": "Python",
@@ -259,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T01:07:08Z",
     "url": "https://github.com/Lakan1509/enterprise-multi-agent-ai-platform"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1443,
-    "updated_at": "2026-08-21T02:03:04Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "RAG-based Q&A system over literacy education research \u2014 retrieval, grounded citation-based generation with Groq, and a 1",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-21T00:27:28Z",
     "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:27:25Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-08-21T00:26:46Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
   }
 ]
