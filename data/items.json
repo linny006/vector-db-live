@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-21T11:45:23Z",
+    "updated_at": "2026-08-21T11:51:02Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12923,
+    "updated_at": "2026-08-21T11:50:39Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-08-21T11:50:00Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34112,
+    "updated_at": "2026-08-21T11:46:32Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T11:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "theogony-project/theogony",
     "stars": 0,
-    "updated_at": "2026-08-21T11:42:32Z",
+    "updated_at": "2026-08-21T11:48:31Z",
     "url": "https://github.com/theogony-project/theogony"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9420,
-    "updated_at": "2026-08-21T11:31:42Z",
+    "updated_at": "2026-08-21T11:49:32Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T11:30:41Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T11:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The AI search platform",
@@ -234,15 +261,6 @@
     "url": "https://github.com/hippmem/hippmem"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34113,
-    "updated_at": "2026-08-21T11:28:13Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -250,15 +268,6 @@
     "stars": 87,
     "updated_at": "2026-08-21T10:46:16Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12923,
-    "updated_at": "2026-08-21T10:28:15Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
@@ -302,7 +311,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8118,
-    "updated_at": "2026-08-21T11:39:10Z",
+    "updated_at": "2026-08-21T11:49:12Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2257,
     "updated_at": "2026-08-21T08:40:36Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
-    "id": "puffball1567/koutendb",
-    "language": "Nim",
-    "name": "puffball1567/koutendb",
-    "stars": 16,
-    "updated_at": "2026-08-21T09:54:05Z",
-    "url": "https://github.com/puffball1567/koutendb"
   }
 ]
