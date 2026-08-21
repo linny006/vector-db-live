@@ -1,12 +1,66 @@
 [
   {
+    "description": "A diagram-first, bilingual (EN/AR) handbook on the history of databases and the relational, NoSQL, vector, and graph mod",
+    "id": "ahmedselimmansor-ctrl/databases-from-history-to-vectors",
+    "language": "JavaScript",
+    "name": "ahmedselimmansor-ctrl/databases-from-history-to-vectors",
+    "stars": 0,
+    "updated_at": "2026-08-21T01:36:32Z",
+    "url": "https://github.com/ahmedselimmansor-ctrl/databases-from-history-to-vectors"
+  },
+  {
+    "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
+    "id": "project-david-ai/projectdavid-platform",
+    "language": "Python",
+    "name": "project-david-ai/projectdavid-platform",
+    "stars": 1,
+    "updated_at": "2026-08-21T01:34:54Z",
+    "url": "https://github.com/project-david-ai/projectdavid-platform"
+  },
+  {
     "description": "The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne",
     "id": "angrysky56/emotion_ai",
     "language": "Python",
     "name": "angrysky56/emotion_ai",
     "stars": 11,
-    "updated_at": "2026-08-21T01:29:29Z",
+    "updated_at": "2026-08-21T01:34:08Z",
     "url": "https://github.com/angrysky56/emotion_ai"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 340,
+    "updated_at": "2026-08-21T01:32:22Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-21T01:31:00Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T01:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-21T01:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -14,7 +68,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-21T01:25:54Z",
+    "updated_at": "2026-08-21T01:34:13Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -34,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T01:20:23Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T01:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-21T01:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -86,7 +122,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9175,
-    "updated_at": "2026-08-21T01:20:20Z",
+    "updated_at": "2026-08-21T01:38:14Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -167,17 +203,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1094,
-    "updated_at": "2026-08-21T00:51:40Z",
+    "updated_at": "2026-08-21T01:43:58Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-21T00:47:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
@@ -189,6 +216,15 @@
     "url": "https://github.com/Yasou13/MESA"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34100,
+    "updated_at": "2026-08-21T00:44:41Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Production-style Retrieval-Augmented Generation document Q&A: LangChain ingestion, Chroma/pgvector store, hybrid retriev",
     "id": "tainguyen07/rag-doc-qa",
     "language": "Python",
@@ -196,15 +232,6 @@
     "stars": 10,
     "updated_at": "2026-08-21T00:39:25Z",
     "url": "https://github.com/tainguyen07/rag-doc-qa"
-  },
-  {
-    "description": "A diagram-first, bilingual (EN/AR) handbook on the history of databases and the relational, NoSQL, vector, and graph mod",
-    "id": "ahmedselimmansor-ctrl/databases-from-history-to-vectors",
-    "language": "JavaScript",
-    "name": "ahmedselimmansor-ctrl/databases-from-history-to-vectors",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:37:44Z",
-    "url": "https://github.com/ahmedselimmansor-ctrl/databases-from-history-to-vectors"
   },
   {
     "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
@@ -421,32 +448,5 @@
     "stars": 9419,
     "updated_at": "2026-08-21T00:19:27Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:17:52Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 3,
-    "updated_at": "2026-08-21T00:16:59Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-08-21T00:15:39Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
   }
 ]
