@@ -1,5 +1,41 @@
 [
   {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 206,
+    "updated_at": "2026-08-21T20:29:26Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
+    "id": "tamnd/kura",
+    "language": "Rust",
+    "name": "tamnd/kura",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:28:38Z",
+    "url": "https://github.com/tamnd/kura"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T20:27:54Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds ",
+    "id": "api-evangelist/vectorize-io",
+    "language": "\u2014",
+    "name": "api-evangelist/vectorize-io",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:27:21Z",
+    "url": "https://github.com/api-evangelist/vectorize-io"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -27,29 +63,11 @@
     "url": "https://github.com/api-evangelist/upstash"
   },
   {
-    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
-    "id": "tamnd/kura",
-    "language": "Rust",
-    "name": "tamnd/kura",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:25:20Z",
-    "url": "https://github.com/tamnd/kura"
-  },
-  {
-    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
-    "id": "Yigtwxx/awesome-rag-production",
-    "language": "Python",
-    "name": "Yigtwxx/awesome-rag-production",
-    "stars": 206,
-    "updated_at": "2026-08-21T20:27:21Z",
-    "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
     "description": "Tiny header-only C++20 AI agent framework for edge and embedded: DeepAgent sub-agents, middleware, MCP, SSE streaming, R",
     "id": "rhajamor/tiny_agent",
     "language": "C++",
     "name": "rhajamor/tiny_agent",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-08-21T20:23:33Z",
     "url": "https://github.com/rhajamor/tiny_agent"
   },
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-21T20:21:10Z",
+    "updated_at": "2026-08-21T20:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T20:17:00Z",
     "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-21T20:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -212,7 +221,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1548,
-    "updated_at": "2026-08-21T20:13:35Z",
+    "updated_at": "2026-08-21T20:30:22Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T19:07:47Z",
     "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "A RAG-based document summarization and Q&A service. Upload documents, get an LLM-generated summary, or ask questions ans",
-    "id": "sahoouttam/document-summarizer",
-    "language": "Python",
-    "name": "sahoouttam/document-summarizer",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:05:18Z",
-    "url": "https://github.com/sahoouttam/document-summarizer"
   }
 ]
