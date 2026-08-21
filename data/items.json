@@ -1,11 +1,56 @@
 [
   {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-08-21T21:29:15Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1550,
+    "updated_at": "2026-08-21T21:25:18Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-21T21:24:58Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T21:22:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-21T21:21:57Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-21T21:20:06Z",
+    "updated_at": "2026-08-21T21:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Rust",
     "name": "tamnd/kura",
     "stars": 0,
-    "updated_at": "2026-08-21T21:19:31Z",
+    "updated_at": "2026-08-21T21:26:24Z",
     "url": "https://github.com/tamnd/kura"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T21:16:47Z",
     "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-21T21:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -81,15 +117,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1549,
-    "updated_at": "2026-08-21T21:20:15Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-21T21:21:03Z",
+    "updated_at": "2026-08-21T21:29:22Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Python",
     "name": "vicquick/nobrainr",
     "stars": 1,
-    "updated_at": "2026-08-21T20:50:43Z",
+    "updated_at": "2026-08-21T21:28:02Z",
     "url": "https://github.com/vicquick/nobrainr"
   },
   {
@@ -243,15 +270,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-21T20:26:18Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Upstash provides serverless data platforms including managed Redis, Kafka, QStash messaging, and Vector databases optimi",
     "id": "api-evangelist/upstash",
     "language": "\u2014",
@@ -270,15 +288,6 @@
     "url": "https://github.com/rhajamor/tiny_agent"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-21T21:21:57Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
     "id": "api-evangelist/surrealdb",
     "language": "\u2014",
@@ -293,7 +302,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6350,
-    "updated_at": "2026-08-21T21:16:21Z",
+    "updated_at": "2026-08-21T21:22:55Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Python",
     "name": "ankush-poonia007/STARTUP-AI-AGENT",
     "stars": 5,
-    "updated_at": "2026-08-21T20:13:18Z",
+    "updated_at": "2026-08-21T21:26:12Z",
     "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-21T21:20:06Z",
+    "updated_at": "2026-08-21T21:29:42Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T19:37:05Z",
     "url": "https://github.com/api-evangelist/lancedb"
-  },
-  {
-    "description": "Sift \u2014 enterprise, self-hostable, multi-provider RAG search engine over web content. Pluggable LLMs/embeddings, vector s",
-    "id": "pal404error/sift",
-    "language": "Python",
-    "name": "pal404error/sift",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:34:13Z",
-    "url": "https://github.com/pal404error/sift"
   }
 ]
