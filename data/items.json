@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T17:02:15Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T17:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
+    "id": "hhblaze/DBreeze",
+    "language": "C#",
+    "name": "hhblaze/DBreeze",
+    "stars": 578,
+    "updated_at": "2026-08-21T17:00:20Z",
+    "url": "https://github.com/hhblaze/DBreeze"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -52,24 +79,6 @@
     "stars": 65015,
     "updated_at": "2026-08-21T16:45:34Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-21T16:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T16:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -293,7 +302,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1879,
-    "updated_at": "2026-08-21T16:01:25Z",
+    "updated_at": "2026-08-21T17:00:34Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 9180,
     "updated_at": "2026-08-21T16:40:33Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1613,
-    "updated_at": "2026-08-21T15:05:16Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   }
 ]
