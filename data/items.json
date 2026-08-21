@@ -1,12 +1,30 @@
 [
   {
+    "description": "Production-style conversational RAG with LangGraph, FastAPI, pgvector, Ollama, semantic cache, document ingestion and a ",
+    "id": "chrispsk/petrolium-rag",
+    "language": "Jupyter Notebook",
+    "name": "chrispsk/petrolium-rag",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:45:13Z",
+    "url": "https://github.com/chrispsk/petrolium-rag"
+  },
+  {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
     "id": "Yigtwxx/awesome-rag-production",
     "language": "Python",
     "name": "Yigtwxx/awesome-rag-production",
     "stars": 206,
-    "updated_at": "2026-08-21T20:29:26Z",
+    "updated_at": "2026-08-21T20:44:18Z",
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1549,
+    "updated_at": "2026-08-21T20:45:16Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
@@ -14,8 +32,62 @@
     "language": "Rust",
     "name": "tamnd/kura",
     "stars": 0,
-    "updated_at": "2026-08-21T20:28:38Z",
+    "updated_at": "2026-08-21T20:40:29Z",
     "url": "https://github.com/tamnd/kura"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-21T20:39:48Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1443,
+    "updated_at": "2026-08-21T20:37:05Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Zilliz Cloud is the managed vector database service built by the Milvus maintainers. It exposes a Control Plane API for ",
+    "id": "api-evangelist/zilliz",
+    "language": "\u2014",
+    "name": "api-evangelist/zilliz",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:34:09Z",
+    "url": "https://github.com/api-evangelist/zilliz"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9422,
+    "updated_at": "2026-08-21T20:33:21Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-21T20:31:51Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "keldra-store/keldra",
+    "language": "Rust",
+    "name": "keldra-store/keldra",
+    "stars": 77,
+    "updated_at": "2026-08-21T20:30:55Z",
+    "url": "https://github.com/keldra-store/keldra"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,8 +95,44 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-21T20:27:54Z",
+    "updated_at": "2026-08-21T20:30:25Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T20:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
+    "id": "api-evangelist/weaviate",
+    "language": "\u2014",
+    "name": "api-evangelist/weaviate",
+    "stars": 1,
+    "updated_at": "2026-08-21T20:30:18Z",
+    "url": "https://github.com/api-evangelist/weaviate"
+  },
+  {
+    "description": "Vespa is an open-source AI search engine, big-data serving engine, and vector database originally developed inside Yahoo",
+    "id": "api-evangelist/vespa-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/vespa-ai",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:28:09Z",
+    "url": "https://github.com/api-evangelist/vespa-ai"
+  },
+  {
+    "description": "Spring AI RAG\uff1aEmbedding\u3001\u5411\u91cf\u5e93\u4e0e\u68c0\u7d22\u589e\u5f3a\u751f\u6210\u793a\u4f8b",
+    "id": "zhijunio/spring-ai-chat-rag-samples",
+    "language": "Java",
+    "name": "zhijunio/spring-ai-chat-rag-samples",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:27:28Z",
+    "url": "https://github.com/zhijunio/spring-ai-chat-rag-samples"
   },
   {
     "description": "Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds ",
@@ -34,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-08-21T20:27:21Z",
     "url": "https://github.com/api-evangelist/vectorize-io"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30172,
+    "updated_at": "2026-08-21T20:26:50Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -81,24 +198,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Production-style conversational RAG with LangGraph, FastAPI, pgvector, Ollama, semantic cache, document ingestion and a ",
-    "id": "chrispsk/petrolium-rag",
-    "language": "Jupyter Notebook",
-    "name": "chrispsk/petrolium-rag",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:21:36Z",
-    "url": "https://github.com/chrispsk/petrolium-rag"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T20:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
     "id": "api-evangelist/surrealdb",
     "language": "\u2014",
@@ -113,7 +212,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6350,
-    "updated_at": "2026-08-21T20:13:38Z",
+    "updated_at": "2026-08-21T20:33:59Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -142,15 +241,6 @@
     "stars": 5,
     "updated_at": "2026-08-21T20:13:18Z",
     "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "keldra-store/keldra",
-    "language": "Rust",
-    "name": "keldra-store/keldra",
-    "stars": 77,
-    "updated_at": "2026-08-21T20:11:28Z",
-    "url": "https://github.com/keldra-store/keldra"
   },
   {
     "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
@@ -189,15 +279,6 @@
     "url": "https://github.com/christopherkarani/Wax"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-21T20:05:46Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -205,24 +286,6 @@
     "stars": 87,
     "updated_at": "2026-08-21T20:11:59Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-21T19:57:36Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1548,
-    "updated_at": "2026-08-21T20:30:22Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-21T20:25:14Z",
+    "updated_at": "2026-08-21T20:36:16Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -284,7 +347,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9180,
-    "updated_at": "2026-08-21T20:25:08Z",
+    "updated_at": "2026-08-21T20:38:24Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -356,7 +419,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-08-21T19:29:59Z",
+    "updated_at": "2026-08-21T20:43:58Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T19:22:19Z",
     "url": "https://github.com/Mid-D-Man/msx"
-  },
-  {
-    "description": "Gel Data (formerly EdgeDB Inc.) builds Gel, an open-source graph-relational database that supercharges PostgreSQL with a",
-    "id": "api-evangelist/gel-data",
-    "language": "\u2014",
-    "name": "api-evangelist/gel-data",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:22:18Z",
-    "url": "https://github.com/api-evangelist/gel-data"
-  },
-  {
-    "description": "Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic searc",
-    "id": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-    "language": "HTML",
-    "name": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
-    "stars": 220,
-    "updated_at": "2026-08-21T19:22:00Z",
-    "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 340,
-    "updated_at": "2026-08-21T19:19:16Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "GPU-sized local chat, image gen, RAG, and voice stack, one command.",
-    "id": "Cyb3rRon1n/anvil",
-    "language": "Python",
-    "name": "Cyb3rRon1n/anvil",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:18:31Z",
-    "url": "https://github.com/Cyb3rRon1n/anvil"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30171,
-    "updated_at": "2026-08-21T20:26:50Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-21T19:12:51Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
-    "id": "api-evangelist/datastax",
-    "language": "\u2014",
-    "name": "api-evangelist/datastax",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:07:47Z",
-    "url": "https://github.com/api-evangelist/datastax"
   }
 ]
