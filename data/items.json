@@ -1,5 +1,50 @@
 [
   {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-21T01:14:42Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Sift \u2014 enterprise, self-hostable, multi-provider RAG search engine over web content. Pluggable LLMs/embeddings, vector s",
+    "id": "pal404error/sift",
+    "language": "Python",
+    "name": "pal404error/sift",
+    "stars": 0,
+    "updated_at": "2026-08-21T01:14:40Z",
+    "url": "https://github.com/pal404error/sift"
+  },
+  {
+    "description": "A distributed Key-Value Storage using Raft",
+    "id": "dingodb/dingo-store",
+    "language": "C++",
+    "name": "dingodb/dingo-store",
+    "stars": 162,
+    "updated_at": "2026-08-21T01:14:31Z",
+    "url": "https://github.com/dingodb/dingo-store"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9175,
+    "updated_at": "2026-08-21T01:12:57Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T01:12:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -9,12 +54,21 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
+    "description": "Production-style multi-agent RAG platform using LangGraph, FastAPI, Ollama, Qwen, FAISS, API security, Docker, and autom",
+    "id": "Lakan1509/enterprise-multi-agent-ai-platform",
+    "language": "Python",
+    "name": "Lakan1509/enterprise-multi-agent-ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-21T01:07:08Z",
+    "url": "https://github.com/Lakan1509/enterprise-multi-agent-ai-platform"
+  },
+  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1443,
-    "updated_at": "2026-08-21T01:08:54Z",
+    "updated_at": "2026-08-21T01:13:05Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -45,15 +99,6 @@
     "url": "https://github.com/oceanbase/oceanbase"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T01:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -61,6 +106,15 @@
     "stars": 1500,
     "updated_at": "2026-08-21T00:59:48Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11217,
+    "updated_at": "2026-08-21T00:55:41Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "A vector-native embedded graph database. One graph. One vector space. One file.",
@@ -106,15 +160,6 @@
     "stars": 5,
     "updated_at": "2026-08-21T00:46:22Z",
     "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Sift \u2014 enterprise, self-hostable, multi-provider RAG search engine over web content. Pluggable LLMs/embeddings, vector s",
-    "id": "pal404error/sift",
-    "language": "Python",
-    "name": "pal404error/sift",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:44:03Z",
-    "url": "https://github.com/pal404error/sift"
   },
   {
     "description": "Production-style Retrieval-Augmented Generation document Q&A: LangChain ingestion, Chroma/pgvector store, hybrid retriev",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T00:11:33Z",
     "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
-    "id": "api-evangelist/sequoiadb",
-    "language": "\u2014",
-    "name": "api-evangelist/sequoiadb",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:11:04Z",
-    "url": "https://github.com/api-evangelist/sequoiadb"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-08-21T00:08:12Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-21T00:06:34Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-08-21T00:06:06Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-08-21T00:04:56Z",
-    "url": "https://github.com/ribagolx10/crossvector"
   }
 ]
