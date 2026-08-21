@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 2,
-    "updated_at": "2026-08-21T03:45:20Z",
+    "updated_at": "2026-08-21T04:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 2,
+    "updated_at": "2026-08-21T03:59:11Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 0,
+    "updated_at": "2026-08-21T03:55:02Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1094,
+    "updated_at": "2026-08-21T03:54:43Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 249,
+    "updated_at": "2026-08-21T03:53:09Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1506,
+    "updated_at": "2026-08-21T03:48:33Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15493,
+    "updated_at": "2026-08-21T03:48:01Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-21T03:46:59Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T03:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent code examples",
@@ -36,15 +108,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T03:35:54Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -52,33 +115,6 @@
     "stars": 45718,
     "updated_at": "2026-08-21T03:35:20Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1094,
-    "updated_at": "2026-08-21T03:36:06Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-21T03:21:52Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1505,
-    "updated_at": "2026-08-21T03:18:43Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -176,7 +212,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9177,
-    "updated_at": "2026-08-21T03:42:46Z",
+    "updated_at": "2026-08-21T03:57:38Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "sergiunicoara/Generative-AI",
     "stars": 3,
-    "updated_at": "2026-08-21T02:35:38Z",
+    "updated_at": "2026-08-21T04:00:07Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
@@ -250,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T02:17:36Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15493,
-    "updated_at": "2026-08-21T02:12:01Z",
-    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
@@ -355,7 +382,7 @@
     "id": "oceanbase/oceanbase",
     "language": "C++",
     "name": "oceanbase/oceanbase",
-    "stars": 10251,
+    "stars": 10252,
     "updated_at": "2026-08-21T01:00:39Z",
     "url": "https://github.com/oceanbase/oceanbase"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T00:34:23Z",
     "url": "https://github.com/api-evangelist/zilliz"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8116,
-    "updated_at": "2026-08-21T00:33:22Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-08-21T00:30:40Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:30:33Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
   }
 ]
