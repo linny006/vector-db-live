@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-21 03:30 UTC
+> ⏰ Last updated: 2026-08-21 03:35 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45718 | Go | 2026-08-21 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 2 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1094 | Java | 2026-08-21 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-21 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 4 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1504 | Rust | 2026-08-21 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 5 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-21 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 2 | Python | 2026-08-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 2 | Python | 2026-08-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45718 | Go | 2026-08-21 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 4 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1094 | Java | 2026-08-21 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-21 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 6 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1504 | Rust | 2026-08-21 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 7 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 87 | Rust | 2026-08-21 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
 | 8 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 469 | TypeScript | 2026-08-21 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
 | 9 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1443 | Python | 2026-08-21 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
 | 10 | [dkylewillis/vera](https://github.com/dkylewillis/vera) | 17 | Python | 2026-08-21 |  |
