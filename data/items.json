@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-21T02:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-21T02:29:59Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 7,
+    "updated_at": "2026-08-21T02:30:16Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1094,
+    "updated_at": "2026-08-21T02:26:52Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45717,
+    "updated_at": "2026-08-21T02:23:20Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-21T02:30:25Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "A vector-native embedded graph database. One graph. One vector space. One file.",
+    "id": "r-firth/vecgra",
+    "language": "Rust",
+    "name": "r-firth/vecgra",
+    "stars": 0,
+    "updated_at": "2026-08-21T02:24:46Z",
+    "url": "https://github.com/r-firth/vecgra"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-21T02:17:36Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-21T02:15:50Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI API Directory for Agents: 127 APIs, pricing and free tiers",
+    "id": "wuhu95wuhu-design/toolkiti",
+    "language": "TypeScript",
+    "name": "wuhu95wuhu-design/toolkiti",
+    "stars": 0,
+    "updated_at": "2026-08-21T02:15:34Z",
+    "url": "https://github.com/wuhu95wuhu-design/toolkiti"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T02:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -7,6 +106,15 @@
     "stars": 15492,
     "updated_at": "2026-08-21T02:12:01Z",
     "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1503,
+    "updated_at": "2026-08-21T02:10:07Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
@@ -18,31 +126,13 @@
     "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T02:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-21T02:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
     "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1502,
-    "updated_at": "2026-08-21T02:10:07Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "name": "paradedb/paradedb",
+    "stars": 9176,
+    "updated_at": "2026-08-21T01:59:21Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
@@ -88,24 +178,6 @@
     "stars": 340,
     "updated_at": "2026-08-21T01:32:22Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-21T01:31:00Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 87,
-    "updated_at": "2026-08-21T01:34:13Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -162,15 +234,6 @@
     "url": "https://github.com/dingodb/dingo-store"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9175,
-    "updated_at": "2026-08-21T01:59:21Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -198,6 +261,15 @@
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
+    "description": "RAG-based Q&A system over literacy education research \u2014 retrieval, grounded citation-based generation with Groq, and a 1",
+    "id": "arwahajmeri/literacy-research-rag",
+    "language": "Python",
+    "name": "arwahajmeri/literacy-research-rag",
+    "stars": 0,
+    "updated_at": "2026-08-21T01:01:13Z",
+    "url": "https://github.com/arwahajmeri/literacy-research-rag"
+  },
+  {
     "description": "The Fastest Distributed Database for Transactional, Analytical, and  AI Workloads.",
     "id": "oceanbase/oceanbase",
     "language": "C++",
@@ -207,15 +279,6 @@
     "url": "https://github.com/oceanbase/oceanbase"
   },
   {
-    "description": "A vector-native embedded graph database. One graph. One vector space. One file.",
-    "id": "r-firth/vecgra",
-    "language": "Rust",
-    "name": "r-firth/vecgra",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:52:27Z",
-    "url": "https://github.com/r-firth/vecgra"
-  },
-  {
     "description": "\ud83d\uddc4\ufe0f Programa abierto de ingenier\u00eda de bases de datos \u00b7 64 clases en 14 partes \u00b7 210 horas \u00b7 Del modelado conceptual a la ",
     "id": "vladimiracunadev-create/database-systems-labs",
     "language": "HTML",
@@ -223,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-08-21T00:51:18Z",
     "url": "https://github.com/vladimiracunadev-create/database-systems-labs"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1094,
-    "updated_at": "2026-08-21T01:43:58Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
@@ -268,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T00:35:00Z",
     "url": "https://github.com/tryAGI/Turbopuffer"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-21T00:34:40Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T00:26:42Z",
     "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-08-21T00:25:55Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:25:51Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-08-21T00:25:00Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 4,
-    "updated_at": "2026-08-21T00:22:34Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-08-21T00:21:41Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
   }
 ]
