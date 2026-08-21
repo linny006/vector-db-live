@@ -1,5 +1,32 @@
 [
   {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15492,
+    "updated_at": "2026-08-21T02:12:01Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-08-21T02:04:20Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T02:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -13,8 +40,8 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1501,
-    "updated_at": "2026-08-21T01:55:54Z",
+    "stars": 1502,
+    "updated_at": "2026-08-21T02:10:07Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -25,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T01:48:23Z",
     "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T01:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A diagram-first, bilingual (EN/AR) handbook on the history of databases and the relational, NoSQL, vector, and graph mod",
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1443,
-    "updated_at": "2026-08-21T01:56:01Z",
+    "updated_at": "2026-08-21T02:03:04Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -229,7 +247,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34100,
+    "stars": 34101,
     "updated_at": "2026-08-21T00:44:41Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-21T00:21:41Z",
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "A multi-stage LLM pipeline for aptitude-driven job search, career targeting, and search strategy generation.",
-    "id": "mattburnett-repo/aptitude-search",
-    "language": "Python",
-    "name": "mattburnett-repo/aptitude-search",
-    "stars": 0,
-    "updated_at": "2026-08-21T00:21:21Z",
-    "url": "https://github.com/mattburnett-repo/aptitude-search"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-08-21T00:20:25Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
   }
 ]
