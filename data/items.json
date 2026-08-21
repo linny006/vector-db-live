@@ -1,12 +1,39 @@
 [
   {
+    "description": "AI Automation Engineer building AI agents, n8n workflows, RAG chatbots, and MCP integrations using Claude AI and ChatGPT",
+    "id": "imkausarbd/imkausarbd",
+    "language": "\u2014",
+    "name": "imkausarbd/imkausarbd",
+    "stars": 0,
+    "updated_at": "2026-08-21T20:51:29Z",
+    "url": "https://github.com/imkausarbd/imkausarbd"
+  },
+  {
+    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
+    "id": "vicquick/nobrainr",
+    "language": "Python",
+    "name": "vicquick/nobrainr",
+    "stars": 1,
+    "updated_at": "2026-08-21T20:50:43Z",
+    "url": "https://github.com/vicquick/nobrainr"
+  },
+  {
     "description": "Production-style conversational RAG with LangGraph, FastAPI, pgvector, Ollama, semantic cache, document ingestion and a ",
     "id": "chrispsk/petrolium-rag",
     "language": "Jupyter Notebook",
     "name": "chrispsk/petrolium-rag",
     "stars": 0,
-    "updated_at": "2026-08-21T20:45:13Z",
+    "updated_at": "2026-08-21T20:48:45Z",
     "url": "https://github.com/chrispsk/petrolium-rag"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T20:48:41Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "Yigtwxx/awesome-rag-production",
     "stars": 206,
-    "updated_at": "2026-08-21T20:44:18Z",
+    "updated_at": "2026-08-21T20:47:36Z",
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11231,
+    "updated_at": "2026-08-21T20:45:39Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T20:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -23,7 +68,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1549,
-    "updated_at": "2026-08-21T20:45:16Z",
+    "updated_at": "2026-08-21T20:51:02Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Rust",
     "name": "tamnd/kura",
     "stars": 0,
-    "updated_at": "2026-08-21T20:40:29Z",
+    "updated_at": "2026-08-21T20:46:06Z",
     "url": "https://github.com/tamnd/kura"
   },
   {
@@ -88,24 +133,6 @@
     "stars": 77,
     "updated_at": "2026-08-21T20:30:55Z",
     "url": "https://github.com/keldra-store/keldra"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-21T20:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T20:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
@@ -347,7 +374,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9180,
-    "updated_at": "2026-08-21T20:38:24Z",
+    "updated_at": "2026-08-21T20:46:02Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 16,
     "updated_at": "2026-08-21T20:43:58Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 755,
-    "updated_at": "2026-08-21T19:29:23Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
-    "description": "A pnpm workspace of TypeScript projects exploring AI/LLM patterns \u2014 LangChain, LangGraph, RAG, vector stores, MCP, and m",
-    "id": "dilumdarshana/ai-concepts",
-    "language": "TypeScript",
-    "name": "dilumdarshana/ai-concepts",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:24:45Z",
-    "url": "https://github.com/dilumdarshana/ai-concepts"
-  },
-  {
-    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
-    "id": "Mid-D-Man/msx",
-    "language": "Rust",
-    "name": "Mid-D-Man/msx",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:22:19Z",
-    "url": "https://github.com/Mid-D-Man/msx"
   }
 ]
