@@ -1,21 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Official client SDKs for Statelet \u2014 Python, Node.js, Go, Rust, Java, and C++",
+    "id": "stateletlab/statelet-sdk",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 2,
-    "updated_at": "2026-08-21T05:47:04Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "stateletlab/statelet-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-21T05:55:37Z",
+    "url": "https://github.com/stateletlab/statelet-sdk"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 2,
-    "updated_at": "2026-08-21T05:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 6,
+    "updated_at": "2026-08-21T05:53:14Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
     "description": "Privacy-preserving middleware for RAG and vector embeddings. Defends against embedding inversion attacks using different",
@@ -23,8 +23,44 @@
     "language": "Python",
     "name": "omdesai69/privrag-guard",
     "stars": 0,
-    "updated_at": "2026-08-21T05:44:22Z",
+    "updated_at": "2026-08-21T05:48:29Z",
     "url": "https://github.com/omdesai69/privrag-guard"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 2,
+    "updated_at": "2026-08-21T05:48:19Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-21T05:47:50Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 2,
+    "updated_at": "2026-08-21T05:47:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 2,
+    "updated_at": "2026-08-21T06:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -198,24 +234,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 2,
-    "updated_at": "2026-08-21T05:47:06Z",
-    "url": "https://github.com/thameema/memnos"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-21T05:05:00Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
     "id": "tamnd/kura",
     "language": "Rust",
@@ -265,7 +283,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15495,
+    "stars": 15496,
     "updated_at": "2026-08-21T04:26:43Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -284,8 +302,17 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1095,
-    "updated_at": "2026-08-21T05:18:32Z",
+    "updated_at": "2026-08-21T05:55:38Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9178,
+    "updated_at": "2026-08-21T04:22:15Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Reproducible, falsifiable performance benchmarking for TheoDB. Immutable run bundles, versioned schemas, paired signific",
@@ -328,7 +355,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1513,
+    "stars": 1514,
     "updated_at": "2026-08-21T03:48:33Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -340,6 +367,15 @@
     "stars": 16,
     "updated_at": "2026-08-21T03:44:01Z",
     "url": "https://github.com/nekozzz94/NekoAI-agents"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34105,
+    "updated_at": "2026-08-21T03:13:37Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -396,15 +432,6 @@
     "url": "https://github.com/frogdb/frogdb"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9177,
-    "updated_at": "2026-08-21T04:22:15Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Production-style Document Intelligence and Retrieval-Augmented Generation (RAG) application",
     "id": "vaibhhavsharma11/Project-02-Document-Intelligence-Rag",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-21T02:40:21Z",
     "url": "https://github.com/r-firth/vecgra-python"
-  },
-  {
-    "description": "The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne",
-    "id": "angrysky56/emotion_ai",
-    "language": "Python",
-    "name": "angrysky56/emotion_ai",
-    "stars": 11,
-    "updated_at": "2026-08-21T02:40:06Z",
-    "url": "https://github.com/angrysky56/emotion_ai"
-  },
-  {
-    "description": "A vector-native embedded graph database. One graph. One vector space. One file.",
-    "id": "r-firth/vecgra",
-    "language": "Rust",
-    "name": "r-firth/vecgra",
-    "stars": 0,
-    "updated_at": "2026-08-21T02:24:46Z",
-    "url": "https://github.com/r-firth/vecgra"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-08-21T02:17:36Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   }
 ]
