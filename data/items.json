@@ -1,5 +1,149 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-21T19:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-08-21T19:29:59Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Production-style conversational RAG with LangGraph, FastAPI, pgvector, Ollama, semantic cache, document ingestion and a ",
+    "id": "chrispsk/petrolium-rag",
+    "language": "Jupyter Notebook",
+    "name": "chrispsk/petrolium-rag",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:26:56Z",
+    "url": "https://github.com/chrispsk/petrolium-rag"
+  },
+  {
+    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
+    "id": "tamnd/kura",
+    "language": "Rust",
+    "name": "tamnd/kura",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:26:33Z",
+    "url": "https://github.com/tamnd/kura"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-21T19:26:15Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "A pnpm workspace of TypeScript projects exploring AI/LLM patterns \u2014 LangChain, LangGraph, RAG, vector stores, MCP, and m",
+    "id": "dilumdarshana/ai-concepts",
+    "language": "TypeScript",
+    "name": "dilumdarshana/ai-concepts",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:24:45Z",
+    "url": "https://github.com/dilumdarshana/ai-concepts"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-21T19:24:15Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1544,
+    "updated_at": "2026-08-21T19:30:15Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
+    "id": "Mid-D-Man/msx",
+    "language": "Rust",
+    "name": "Mid-D-Man/msx",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:22:19Z",
+    "url": "https://github.com/Mid-D-Man/msx"
+  },
+  {
+    "description": "Gel Data (formerly EdgeDB Inc.) builds Gel, an open-source graph-relational database that supercharges PostgreSQL with a",
+    "id": "api-evangelist/gel-data",
+    "language": "\u2014",
+    "name": "api-evangelist/gel-data",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:22:18Z",
+    "url": "https://github.com/api-evangelist/gel-data"
+  },
+  {
+    "description": "Open multilingual construction cost database for AI Agents - 55K+ work items, 27K+ resources, 30 regions. Semantic searc",
+    "id": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
+    "language": "HTML",
+    "name": "datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR",
+    "stars": 220,
+    "updated_at": "2026-08-21T19:22:00Z",
+    "url": "https://github.com/datadrivenconstruction/OpenConstructionEstimate-DDC-CWICR"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 340,
+    "updated_at": "2026-08-21T19:19:16Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "GPU-sized local chat, image gen, RAG, and voice stack, one command.",
+    "id": "Cyb3rRon1n/anvil",
+    "language": "Python",
+    "name": "Cyb3rRon1n/anvil",
+    "stars": 0,
+    "updated_at": "2026-08-21T19:18:31Z",
+    "url": "https://github.com/Cyb3rRon1n/anvil"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-21T19:17:41Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30171,
+    "updated_at": "2026-08-21T19:17:40Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-21T19:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Sift \u2014 enterprise, self-hostable, multi-provider RAG search engine over web content. Pluggable LLMs/embeddings, vector s",
     "id": "pal404error/sift",
     "language": "Python",
@@ -16,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-21T19:14:04Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30170,
-    "updated_at": "2026-08-21T19:13:50Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -45,15 +180,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1544,
-    "updated_at": "2026-08-21T19:08:34Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
     "id": "api-evangelist/datastax",
     "language": "\u2014",
@@ -61,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-21T19:07:47Z",
     "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
-    "id": "tamnd/kura",
-    "language": "Rust",
-    "name": "tamnd/kura",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:07:38Z",
-    "url": "https://github.com/tamnd/kura"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -86,17 +203,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9180,
-    "updated_at": "2026-08-21T19:07:08Z",
+    "updated_at": "2026-08-21T19:29:53Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Production-style conversational RAG with LangGraph, FastAPI, pgvector, Ollama, semantic cache, document ingestion and a ",
-    "id": "chrispsk/petrolium-rag",
-    "language": "Jupyter Notebook",
-    "name": "chrispsk/petrolium-rag",
-    "stars": 0,
-    "updated_at": "2026-08-21T19:05:19Z",
-    "url": "https://github.com/chrispsk/petrolium-rag"
   },
   {
     "description": "A RAG-based document summarization and Q&A service. Upload documents, get an LLM-generated summary, or ask questions ans",
@@ -142,24 +250,6 @@
     "stars": 7,
     "updated_at": "2026-08-21T19:04:40Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-21T19:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-21T19:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Chroma (Chroma DB) is an open-source AI-native embedding database designed to make it easy to build LLM applications by ",
@@ -261,15 +351,6 @@
     "url": "https://github.com/maneesh-kumar-thakur/self-serve-learnings-4-all"
   },
   {
-    "description": "A pnpm workspace of TypeScript projects exploring AI/LLM patterns \u2014 LangChain, LangGraph, RAG, vector stores, MCP, and m",
-    "id": "dilumdarshana/ai-concepts",
-    "language": "TypeScript",
-    "name": "dilumdarshana/ai-concepts",
-    "stars": 0,
-    "updated_at": "2026-08-21T18:40:38Z",
-    "url": "https://github.com/dilumdarshana/ai-concepts"
-  },
-  {
     "description": "Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha",
     "id": "api-evangelist/aerospike",
     "language": "\u2014",
@@ -279,15 +360,6 @@
     "url": "https://github.com/api-evangelist/aerospike"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-21T18:37:08Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
     "id": "SuperInstance/SuperInstance",
     "language": "Python",
@@ -295,33 +367,6 @@
     "stars": 6,
     "updated_at": "2026-08-21T18:36:47Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "GPU-sized local chat, image gen, RAG, and voice stack, one command.",
-    "id": "Cyb3rRon1n/anvil",
-    "language": "Python",
-    "name": "Cyb3rRon1n/anvil",
-    "stars": 0,
-    "updated_at": "2026-08-21T18:35:09Z",
-    "url": "https://github.com/Cyb3rRon1n/anvil"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-21T18:33:42Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-21T18:19:09Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -356,7 +401,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 87,
-    "updated_at": "2026-08-21T17:57:12Z",
+    "updated_at": "2026-08-21T19:17:00Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1345,
     "updated_at": "2026-08-21T17:39:00Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "",
-    "id": "mahavirvataliya/openrag-ai-chatbot",
-    "language": "PHP",
-    "name": "mahavirvataliya/openrag-ai-chatbot",
-    "stars": 1,
-    "updated_at": "2026-08-21T17:36:09Z",
-    "url": "https://github.com/mahavirvataliya/openrag-ai-chatbot"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35281,
-    "updated_at": "2026-08-21T17:34:21Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45728,
-    "updated_at": "2026-08-21T17:31:21Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Shell",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 2,
-    "updated_at": "2026-08-21T17:28:46Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34116,
-    "updated_at": "2026-08-21T17:21:47Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
