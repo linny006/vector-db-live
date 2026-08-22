@@ -1,11 +1,65 @@
 [
   {
+    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
+    "id": "tamnd/kura",
+    "language": "Rust",
+    "name": "tamnd/kura",
+    "stars": 0,
+    "updated_at": "2026-08-22T12:43:39Z",
+    "url": "https://github.com/tamnd/kura"
+  },
+  {
+    "description": "Gel Data (formerly EdgeDB Inc.) builds Gel, an open-source graph-relational database that supercharges PostgreSQL with a",
+    "id": "api-evangelist/gel-data",
+    "language": "\u2014",
+    "name": "api-evangelist/gel-data",
+    "stars": 0,
+    "updated_at": "2026-08-22T12:40:11Z",
+    "url": "https://github.com/api-evangelist/gel-data"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-22T12:39:46Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-22T12:37:16Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-22T12:37:02Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T12:35:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
     "id": "jihadkhawaja/mem0sharp",
     "language": "C#",
     "name": "jihadkhawaja/mem0sharp",
     "stars": 11,
-    "updated_at": "2026-08-22T12:35:12Z",
+    "updated_at": "2026-08-22T12:36:43Z",
     "url": "https://github.com/jihadkhawaja/mem0sharp"
   },
   {
@@ -32,17 +86,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1097,
-    "updated_at": "2026-08-22T12:32:27Z",
+    "updated_at": "2026-08-22T12:45:07Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T12:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-22T12:30:18Z",
+    "updated_at": "2026-08-22T12:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1580,
-    "updated_at": "2026-08-22T12:18:45Z",
+    "updated_at": "2026-08-22T12:41:30Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "sergiunicoara/Generative-AI",
     "stars": 3,
-    "updated_at": "2026-08-22T12:27:36Z",
+    "updated_at": "2026-08-22T12:36:46Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 6,
     "updated_at": "2026-08-22T11:56:32Z",
     "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-22T11:49:11Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -297,24 +333,6 @@
     "url": "https://github.com/batul02/enterprise-ai-workspace"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-22T11:22:50Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-22T11:20:38Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
@@ -349,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T10:51:28Z",
     "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
-  },
-  {
-    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
-    "id": "tamnd/kura",
-    "language": "Rust",
-    "name": "tamnd/kura",
-    "stars": 0,
-    "updated_at": "2026-08-22T10:49:28Z",
-    "url": "https://github.com/tamnd/kura"
   },
   {
     "description": "VortexDB -  A lightweight, vector database built from scratch in Rust \ud83e\udd80",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T10:00:14Z",
     "url": "https://github.com/aizyhe/openwikis"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-08-22T09:59:55Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
   }
 ]
