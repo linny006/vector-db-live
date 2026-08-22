@@ -1,21 +1,48 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T15:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83e\udde0 Production-grade GraphRAG monorepo powering an AI digital twin. Features Next.js 15, FastAPI, LangGraph agentic correc",
     "id": "AhmedCoolProjects/GraphRAGPortfolio",
     "language": "MDX",
     "name": "AhmedCoolProjects/GraphRAGPortfolio",
     "stars": 1,
-    "updated_at": "2026-08-22T15:12:31Z",
+    "updated_at": "2026-08-22T15:17:43Z",
     "url": "https://github.com/AhmedCoolProjects/GraphRAGPortfolio"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-22T15:17:11Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T15:16:45Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T15:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-22T15:14:53Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "ANIMESHIOLOGY/vecparity",
     "stars": 0,
-    "updated_at": "2026-08-22T15:08:49Z",
+    "updated_at": "2026-08-22T15:18:45Z",
     "url": "https://github.com/ANIMESHIOLOGY/vecparity"
   },
   {
@@ -52,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T15:04:38Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T15:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Agentic RAG system that plans, retrieves, reflects, and verifies across multiple hops \u2014 instead of assuming one retrieva",
@@ -76,8 +94,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30179,
-    "updated_at": "2026-08-22T14:54:47Z",
+    "stars": 30178,
+    "updated_at": "2026-08-22T15:16:13Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -95,7 +113,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1584,
-    "updated_at": "2026-08-22T14:53:19Z",
+    "updated_at": "2026-08-22T15:17:20Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -142,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T14:40:22Z",
     "url": "https://github.com/tinyagent-cc/tiny_agent"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-22T15:14:53Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -230,7 +239,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1879,
-    "updated_at": "2026-08-22T14:02:28Z",
+    "updated_at": "2026-08-22T15:18:27Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-22T12:50:27Z",
     "url": "https://github.com/reihaneeee/Multi-Agent-RAG-Customer-Support-Bot"
-  },
-  {
-    "description": "IronCore Labs builds application-layer encryption tools that keep sensitive data private while it stays usable. Its prod",
-    "id": "api-evangelist/ironcore-labs",
-    "language": "\u2014",
-    "name": "api-evangelist/ironcore-labs",
-    "stars": 0,
-    "updated_at": "2026-08-22T12:48:03Z",
-    "url": "https://github.com/api-evangelist/ironcore-labs"
   }
 ]
