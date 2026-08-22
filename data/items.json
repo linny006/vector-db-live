@@ -1,11 +1,74 @@
 [
   {
+    "description": "Document-first sqlite3+faiss vector database",
+    "id": "thomas-villani/localvectordb",
+    "language": "Python",
+    "name": "thomas-villani/localvectordb",
+    "stars": 2,
+    "updated_at": "2026-08-22T01:44:48Z",
+    "url": "https://github.com/thomas-villani/localvectordb"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-22T01:43:53Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
+    "id": "project-david-ai/projectdavid-platform",
+    "language": "Python",
+    "name": "project-david-ai/projectdavid-platform",
+    "stars": 1,
+    "updated_at": "2026-08-22T01:43:01Z",
+    "url": "https://github.com/project-david-ai/projectdavid-platform"
+  },
+  {
+    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
+    "id": "caoergou/dify-installer",
+    "language": "Shell",
+    "name": "caoergou/dify-installer",
+    "stars": 2,
+    "updated_at": "2026-08-22T01:41:24Z",
+    "url": "https://github.com/caoergou/dify-installer"
+  },
+  {
+    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
+    "id": "tamnd/kura",
+    "language": "Rust",
+    "name": "tamnd/kura",
+    "stars": 0,
+    "updated_at": "2026-08-22T01:37:54Z",
+    "url": "https://github.com/tamnd/kura"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-22T01:30:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T01:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-22T01:30:20Z",
+    "updated_at": "2026-08-22T01:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,15 +81,6 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
-    "id": "project-david-ai/projectdavid-platform",
-    "language": "Python",
-    "name": "project-david-ai/projectdavid-platform",
-    "stars": 1,
-    "updated_at": "2026-08-22T01:20:55Z",
-    "url": "https://github.com/project-david-ai/projectdavid-platform"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -34,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T01:15:44Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T01:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -61,15 +106,6 @@
     "stars": 1613,
     "updated_at": "2026-08-22T01:12:44Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
-    "id": "tamnd/kura",
-    "language": "Rust",
-    "name": "tamnd/kura",
-    "stars": 0,
-    "updated_at": "2026-08-22T01:11:19Z",
-    "url": "https://github.com/tamnd/kura"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -104,7 +140,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1555,
-    "updated_at": "2026-08-22T01:24:16Z",
+    "updated_at": "2026-08-22T01:39:03Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 44,
     "updated_at": "2026-08-22T00:48:29Z",
     "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-22T00:47:21Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -169,15 +196,6 @@
     "stars": 11233,
     "updated_at": "2026-08-22T01:25:57Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-21T23:59:28Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -347,7 +365,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34118,
-    "updated_at": "2026-08-21T21:21:03Z",
+    "updated_at": "2026-08-22T01:36:20Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 77,
     "updated_at": "2026-08-21T20:30:55Z",
     "url": "https://github.com/keldra-store/keldra"
-  },
-  {
-    "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-08-21T20:30:18Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Vespa is an open-source AI search engine, big-data serving engine, and vector database originally developed inside Yahoo",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-08-21T20:28:09Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
   }
 ]
