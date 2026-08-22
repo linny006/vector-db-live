@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-22T16:59:01Z",
+    "updated_at": "2026-08-22T17:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-08-22T17:13:56Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-22T17:13:48Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1591,
+    "updated_at": "2026-08-22T17:13:36Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-08-22T17:13:14Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-22T17:10:20Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Production-ready long-term memory infrastructure for AI agents \u2014 hybrid semantic + keyword retrieval, knowledge graph, a",
+    "id": "itsshreyasbhardwaj-design/memorydb-ai",
+    "language": "TypeScript",
+    "name": "itsshreyasbhardwaj-design/memorydb-ai",
+    "stars": 1,
+    "updated_at": "2026-08-22T17:09:04Z",
+    "url": "https://github.com/itsshreyasbhardwaj-design/memorydb-ai"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-22T17:05:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T17:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
@@ -27,15 +99,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T16:49:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
     "id": "yantrikos/yantrikdb",
     "language": "Rust",
@@ -54,15 +117,6 @@
     "url": "https://github.com/tamnd/kura"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-22T16:39:23Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -77,17 +131,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1097,
-    "updated_at": "2026-08-22T16:59:15Z",
+    "updated_at": "2026-08-22T17:13:23Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1590,
-    "updated_at": "2026-08-22T16:42:59Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -189,20 +234,11 @@
     "url": "https://github.com/AkashKundu114/COPPER"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-22T16:09:15Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30182,
+    "stars": 30184,
     "updated_at": "2026-08-22T16:06:10Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -383,7 +419,7 @@
     "language": "Python",
     "name": "mattmre/CHELATEDAI",
     "stars": 2,
-    "updated_at": "2026-08-22T16:44:52Z",
+    "updated_at": "2026-08-22T17:03:29Z",
     "url": "https://github.com/mattmre/CHELATEDAI"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-22T13:33:03Z",
     "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Vespa is an open-source AI search engine, big-data serving engine, and vector database originally developed inside Yahoo",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-08-22T13:31:28Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds ",
-    "id": "api-evangelist/vectorize-io",
-    "language": "\u2014",
-    "name": "api-evangelist/vectorize-io",
-    "stars": 0,
-    "updated_at": "2026-08-22T13:30:55Z",
-    "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "Upstash provides serverless data platforms including managed Redis, Kafka, QStash messaging, and Vector databases optimi",
-    "id": "api-evangelist/upstash",
-    "language": "\u2014",
-    "name": "api-evangelist/upstash",
-    "stars": 0,
-    "updated_at": "2026-08-22T13:29:57Z",
-    "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "AI-powered medical education system with LangGraph ReAct agent orchestrating 4 custom tools (hybrid RAG, PubMed API, med",
-    "id": "Suhas7842/HealthBot-AI-Powered-Patient-Education-System",
-    "language": "Python",
-    "name": "Suhas7842/HealthBot-AI-Powered-Patient-Education-System",
-    "stars": 0,
-    "updated_at": "2026-08-22T13:29:23Z",
-    "url": "https://github.com/Suhas7842/HealthBot-AI-Powered-Patient-Education-System"
   }
 ]
