@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T20:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -88,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T20:30:40Z",
     "url": "https://github.com/project-david-ai/projectdavid-platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T20:30:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -347,7 +347,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9180,
-    "updated_at": "2026-08-22T20:42:26Z",
+    "updated_at": "2026-08-22T20:46:06Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
