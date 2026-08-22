@@ -1,5 +1,32 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1582,
+    "updated_at": "2026-08-22T13:49:32Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 786,
+    "updated_at": "2026-08-22T13:49:23Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T13:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -90,15 +117,6 @@
     "url": "https://github.com/api-evangelist/vectorize-io"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T13:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-22T13:25:35Z",
+    "updated_at": "2026-08-22T13:50:24Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -232,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T13:01:02Z",
     "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1582,
-    "updated_at": "2026-08-22T13:26:26Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "MyScale is a SQL vector database built on a ClickHouse fork (MyScaleDB), combining high-performance vector search, full-",
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-22T12:27:26Z",
     "url": "https://github.com/satwiksps/steadlith"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 120,
-    "updated_at": "2026-08-22T12:23:53Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   }
 ]
