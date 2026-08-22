@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T14:45:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " Live, quality-verified migration between vector databases proves retrieval quality survived the switch before you cut o",
+    "id": "ANIMESHIOLOGY/vecparity",
+    "language": "Python",
+    "name": "ANIMESHIOLOGY/vecparity",
+    "stars": 0,
+    "updated_at": "2026-08-22T14:42:54Z",
+    "url": "https://github.com/ANIMESHIOLOGY/vecparity"
+  },
+  {
+    "description": "Physical AI & Humanoid Robotics textbook (8 chapters, Docusaurus, RAG chatbot on Qdrant + Gemini, Urdu localisation) and",
+    "id": "abdul-kabir-jawed/agent-mcp-rag-projects",
+    "language": "TypeScript",
+    "name": "abdul-kabir-jawed/agent-mcp-rag-projects",
+    "stars": 0,
+    "updated_at": "2026-08-22T14:40:44Z",
+    "url": "https://github.com/abdul-kabir-jawed/agent-mcp-rag-projects"
+  },
+  {
+    "description": "Tiny header-only C++20 AI agent framework for edge and embedded: DeepAgent sub-agents, middleware, MCP, SSE streaming, R",
+    "id": "tinyagent-cc/tiny_agent",
+    "language": "C++",
+    "name": "tinyagent-cc/tiny_agent",
+    "stars": 1,
+    "updated_at": "2026-08-22T14:40:22Z",
+    "url": "https://github.com/tinyagent-cc/tiny_agent"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-22T14:38:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-22T14:36:35Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 340,
+    "updated_at": "2026-08-22T14:36:31Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T14:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "",
     "id": "dkylewillis/vera",
     "language": "Python",
@@ -9,20 +81,11 @@
     "url": "https://github.com/dkylewillis/vera"
   },
   {
-    "description": "Tiny header-only C++20 AI agent framework for edge and embedded: DeepAgent sub-agents, middleware, MCP, SSE streaming, R",
-    "id": "tinyagent-cc/tiny_agent",
-    "language": "C++",
-    "name": "tinyagent-cc/tiny_agent",
-    "stars": 1,
-    "updated_at": "2026-08-22T14:27:02Z",
-    "url": "https://github.com/tinyagent-cc/tiny_agent"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1583,
+    "stars": 1584,
     "updated_at": "2026-08-22T14:25:53Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -50,17 +113,8 @@
     "language": "Swift",
     "name": "christopherkarani/Wax",
     "stars": 786,
-    "updated_at": "2026-08-22T14:19:50Z",
+    "updated_at": "2026-08-22T14:36:25Z",
     "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T14:19:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -70,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T14:18:58Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T14:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Practice workspace exploring LangChain workflows and AI application development.",
@@ -97,15 +142,6 @@
     "stars": 25,
     "updated_at": "2026-08-22T14:14:19Z",
     "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "Physical AI & Humanoid Robotics textbook (8 chapters, Docusaurus, RAG chatbot on Qdrant + Gemini, Urdu localisation) and",
-    "id": "abdul-kabir-jawed/agent-mcp-rag-projects",
-    "language": "TypeScript",
-    "name": "abdul-kabir-jawed/agent-mcp-rag-projects",
-    "stars": 0,
-    "updated_at": "2026-08-22T14:16:17Z",
-    "url": "https://github.com/abdul-kabir-jawed/agent-mcp-rag-projects"
   },
   {
     "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
@@ -133,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-08-22T14:07:03Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-22T14:04:56Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "mattmre/CHELATEDAI",
     "stars": 2,
-    "updated_at": "2026-08-22T13:52:01Z",
+    "updated_at": "2026-08-22T14:41:10Z",
     "url": "https://github.com/mattmre/CHELATEDAI"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-22T13:33:03Z",
     "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-22T13:32:54Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "Vespa is an open-source AI search engine, big-data serving engine, and vector database originally developed inside Yahoo",
@@ -252,15 +270,6 @@
     "url": "https://github.com/Suhas7842/HealthBot-AI-Powered-Patient-Education-System"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 340,
-    "updated_at": "2026-08-22T13:25:15Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
     "id": "api-evangelist/surrealdb",
     "language": "\u2014",
@@ -274,8 +283,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30179,
-    "updated_at": "2026-08-22T13:21:08Z",
+    "stars": 30180,
+    "updated_at": "2026-08-22T14:43:44Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -304,15 +313,6 @@
     "stars": 7059,
     "updated_at": "2026-08-22T13:18:06Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": " Live, quality-verified migration between vector databases proves retrieval quality survived the switch before you cut o",
-    "id": "ANIMESHIOLOGY/vecparity",
-    "language": "Python",
-    "name": "ANIMESHIOLOGY/vecparity",
-    "stars": 0,
-    "updated_at": "2026-08-22T13:11:29Z",
-    "url": "https://github.com/ANIMESHIOLOGY/vecparity"
   },
   {
     "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
