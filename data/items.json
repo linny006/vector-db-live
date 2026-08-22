@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T09:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-08-22T09:32:41Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
     "description": "Scalable Hybrid RAG system with Dense + BM25 retrieval over 10K documents using Pinecone and FastAPI.",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "rakeshpedapudi07/hybrid-rag-qa-system",
     "stars": 0,
-    "updated_at": "2026-08-22T09:30:17Z",
+    "updated_at": "2026-08-22T09:30:52Z",
     "url": "https://github.com/rakeshpedapudi07/hybrid-rag-qa-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T09:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T09:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "This project implements a Retrieval-Augmented Generation (RAG) chatbot that can answer medical questions\u2014especially focu",
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9179,
-    "updated_at": "2026-08-22T09:30:19Z",
+    "updated_at": "2026-08-22T09:30:58Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T09:15:36Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T09:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
@@ -383,7 +392,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1097,
-    "updated_at": "2026-08-22T09:08:10Z",
+    "updated_at": "2026-08-22T09:31:43Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-22T07:10:20Z",
     "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "Chat with your PDFs using Corrective RAG \u2014 evaluates retrieval quality, routes between documents and web search, and syn",
-    "id": "kairav7220/ChatPDF",
-    "language": "Python",
-    "name": "kairav7220/ChatPDF",
-    "stars": 0,
-    "updated_at": "2026-08-22T07:10:16Z",
-    "url": "https://github.com/kairav7220/ChatPDF"
   }
 ]
