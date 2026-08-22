@@ -1,12 +1,30 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-22T14:18:58Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-22T14:15:18Z",
+    "updated_at": "2026-08-22T14:17:11Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T14:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Practice workspace exploring LangChain workflows and AI application development.",
@@ -25,6 +43,15 @@
     "stars": 25,
     "updated_at": "2026-08-22T14:14:19Z",
     "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Physical AI & Humanoid Robotics textbook (8 chapters, Docusaurus, RAG chatbot on Qdrant + Gemini, Urdu localisation) and",
+    "id": "abdul-kabir-jawed/agent-mcp-rag-projects",
+    "language": "TypeScript",
+    "name": "abdul-kabir-jawed/agent-mcp-rag-projects",
+    "stars": 0,
+    "updated_at": "2026-08-22T14:16:17Z",
+    "url": "https://github.com/abdul-kabir-jawed/agent-mcp-rag-projects"
   },
   {
     "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
@@ -70,15 +97,6 @@
     "stars": 1880,
     "updated_at": "2026-08-22T14:02:28Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T14:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
@@ -196,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T13:30:55Z",
     "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-22T13:30:08Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Upstash provides serverless data platforms including managed Redis, Kafka, QStash messaging, and Vector databases optimi",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-22T12:30:23Z",
     "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "Crate.io is the company behind CrateDB, a distributed SQL database engineered for real-time analytics on large volumes o",
-    "id": "api-evangelist/crate-io",
-    "language": "\u2014",
-    "name": "api-evangelist/crate-io",
-    "stars": 0,
-    "updated_at": "2026-08-22T12:28:35Z",
-    "url": "https://github.com/api-evangelist/crate-io"
   }
 ]
