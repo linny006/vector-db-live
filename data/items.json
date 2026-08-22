@@ -1,5 +1,77 @@
 [
   {
+    "description": "AI-powered medical education system with LangGraph ReAct agent orchestrating 4 custom tools (hybrid RAG, PubMed API, med",
+    "id": "Suhas7842/HealthBot-AI-Powered-Patient-Education-System",
+    "language": "Python",
+    "name": "Suhas7842/HealthBot-AI-Powered-Patient-Education-System",
+    "stars": 0,
+    "updated_at": "2026-08-22T13:14:15Z",
+    "url": "https://github.com/Suhas7842/HealthBot-AI-Powered-Patient-Education-System"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-22T13:13:22Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7059,
+    "updated_at": "2026-08-22T13:12:15Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-22T13:11:31Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "A powerful, easy-to-use platform for question answering over documents, web pages, research papers, audio, and video fil",
+    "id": "himaenshuu/Multi_modal_rag-application",
+    "language": "Python",
+    "name": "himaenshuu/Multi_modal_rag-application",
+    "stars": 2,
+    "updated_at": "2026-08-22T13:10:01Z",
+    "url": "https://github.com/himaenshuu/Multi_modal_rag-application"
+  },
+  {
+    "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
+    "id": "api-evangelist/objectbox",
+    "language": "\u2014",
+    "name": "api-evangelist/objectbox",
+    "stars": 0,
+    "updated_at": "2026-08-22T13:01:57Z",
+    "url": "https://github.com/api-evangelist/objectbox"
+  },
+  {
+    "description": "Nomic AI builds open and accessible AI infrastructure. The company is known for the open-source Nomic Embed family (nomi",
+    "id": "api-evangelist/nomic-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/nomic-ai",
+    "stars": 0,
+    "updated_at": "2026-08-22T13:01:02Z",
+    "url": "https://github.com/api-evangelist/nomic-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T13:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -13,7 +85,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1580,
+    "stars": 1582,
     "updated_at": "2026-08-22T12:59:16Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T12:59:07Z",
     "url": "https://github.com/api-evangelist/myscale"
-  },
-  {
-    "description": "A powerful, easy-to-use platform for question answering over documents, web pages, research papers, audio, and video fil",
-    "id": "himaenshuu/Multi_modal_rag-application",
-    "language": "Python",
-    "name": "himaenshuu/Multi_modal_rag-application",
-    "stars": 2,
-    "updated_at": "2026-08-22T12:58:28Z",
-    "url": "https://github.com/himaenshuu/Multi_modal_rag-application"
   },
   {
     "description": "Mixedbread is a Berlin-based AI search and retrieval platform. It provides embeddings (mxbai-embed, Wholembed v3), reran",
@@ -124,24 +187,6 @@
     "stars": 3,
     "updated_at": "2026-08-22T12:46:56Z",
     "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-22T12:45:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T12:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
@@ -252,15 +297,6 @@
     "url": "https://github.com/api-evangelist/contentstack"
   },
   {
-    "description": "AI-powered medical education system with LangGraph ReAct agent orchestrating 4 custom tools (hybrid RAG, PubMed API, med",
-    "id": "Suhas7842/HealthBot-AI-Powered-Patient-Education-System",
-    "language": "Python",
-    "name": "Suhas7842/HealthBot-AI-Powered-Patient-Education-System",
-    "stars": 0,
-    "updated_at": "2026-08-22T12:26:55Z",
-    "url": "https://github.com/Suhas7842/HealthBot-AI-Powered-Patient-Education-System"
-  },
-  {
     "description": "Chroma (Chroma DB) is an open-source, AI-native vector database (embedding database) for building LLM, RAG, and semantic",
     "id": "api-evangelist/chroma-db",
     "language": "\u2014",
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "sergiunicoara/Generative-AI",
     "stars": 3,
-    "updated_at": "2026-08-22T12:57:25Z",
+    "updated_at": "2026-08-22T13:03:37Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
@@ -405,15 +441,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "RE-call \u2014 Retrieval-Augmented Self-Recall: RAG over an AI agent's own memory that knows when it doesn't know (gap detect",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-22T11:51:58Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 76,
     "updated_at": "2026-08-22T11:29:57Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Multi-tenant enterprise RAG knowledge workspace built from scratch with FastAPI, PostgreSQL, Qdrant, custom chunking, em",
-    "id": "batul02/enterprise-ai-workspace",
-    "language": "Python",
-    "name": "batul02/enterprise-ai-workspace",
-    "stars": 0,
-    "updated_at": "2026-08-22T11:25:50Z",
-    "url": "https://github.com/batul02/enterprise-ai-workspace"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-08-22T11:16:28Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "The free, open companion to Grokking the AI System Design Interview: building blocks, design questions, and reference sh",
-    "id": "design-gurus/grokking-ai-system-design",
-    "language": "\u2014",
-    "name": "design-gurus/grokking-ai-system-design",
-    "stars": 0,
-    "updated_at": "2026-08-22T11:22:55Z",
-    "url": "https://github.com/design-gurus/grokking-ai-system-design"
   }
 ]
