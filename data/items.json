@@ -1,12 +1,57 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T00:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1555,
+    "updated_at": "2026-08-22T00:32:27Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-22T00:31:58Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
+    "id": "tamnd/kura",
+    "language": "Rust",
+    "name": "tamnd/kura",
+    "stars": 0,
+    "updated_at": "2026-08-22T00:41:27Z",
+    "url": "https://github.com/tamnd/kura"
+  },
+  {
     "description": "A RAG-powered conversational memory engine built with n8n, Ollama, Pinecone and Gemini.",
     "id": "AdiiGarg/whatsapp-memory-rag",
     "language": "\u2014",
     "name": "AdiiGarg/whatsapp-memory-rag",
     "stars": 0,
-    "updated_at": "2026-08-22T00:28:31Z",
+    "updated_at": "2026-08-22T00:31:25Z",
     "url": "https://github.com/AdiiGarg/whatsapp-memory-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T00:30:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -14,7 +59,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1879,
-    "updated_at": "2026-08-22T00:24:27Z",
+    "updated_at": "2026-08-22T00:36:26Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -27,30 +72,12 @@
     "url": "https://github.com/urgaa-eka/jayti"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T00:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T00:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11233,
-    "updated_at": "2026-08-22T00:15:21Z",
+    "updated_at": "2026-08-22T00:33:45Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T00:11:15Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
-    "id": "tamnd/kura",
-    "language": "Rust",
-    "name": "tamnd/kura",
-    "stars": 0,
-    "updated_at": "2026-08-22T00:25:17Z",
-    "url": "https://github.com/tamnd/kura"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -88,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-08-21T23:55:56Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1554,
-    "updated_at": "2026-08-22T00:20:58Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
@@ -142,15 +151,6 @@
     "stars": 256,
     "updated_at": "2026-08-21T23:16:14Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-21T23:12:24Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -320,7 +320,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9179,
-    "updated_at": "2026-08-22T00:29:18Z",
+    "updated_at": "2026-08-22T00:30:20Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
