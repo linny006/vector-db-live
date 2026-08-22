@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-22T21:19:18Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-22T21:17:09Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-22T21:15:44Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T21:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -50,8 +86,17 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1097,
-    "updated_at": "2026-08-22T21:14:37Z",
+    "updated_at": "2026-08-22T21:18:08Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1597,
+    "updated_at": "2026-08-22T21:01:54Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "RAG over EU financial filings with page-and-region citations, benchmarked against bounding-box ground truth derived mech",
@@ -79,24 +124,6 @@
     "stars": 4,
     "updated_at": "2026-08-22T21:00:49Z",
     "url": "https://github.com/MostafaSensei106/Waffle-DB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T21:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1597,
-    "updated_at": "2026-08-22T21:01:54Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Voice notes for iPhone and macOS - 100% Rust, Dioxus, local-first (SQLite + LanceDB + RIG)",
@@ -133,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T20:50:12Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-22T20:36:51Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -216,21 +234,12 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-22T20:19:57Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "",
     "id": "dkylewillis/vera",
     "language": "Python",
     "name": "dkylewillis/vera",
     "stars": 17,
-    "updated_at": "2026-08-22T20:06:48Z",
+    "updated_at": "2026-08-22T21:17:07Z",
     "url": "https://github.com/dkylewillis/vera"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 8125,
     "updated_at": "2026-08-22T18:08:59Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "A production-grade RAG system and neural voice assistant for low-resource Kannada literature ('Heli Hogu Kaarana'). It f",
-    "id": "Amruth011/kannada-rag-agent",
-    "language": "Python",
-    "name": "Amruth011/kannada-rag-agent",
-    "stars": 1,
-    "updated_at": "2026-08-22T18:07:19Z",
-    "url": "https://github.com/Amruth011/kannada-rag-agent"
   }
 ]
