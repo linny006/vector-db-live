@@ -1,5 +1,41 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1096,
+    "updated_at": "2026-08-22T04:47:57Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Persistent memory MCP server for opencode \u2014 Redis facts, ChromaDB semantic search, document storage, power-law memory de",
+    "id": "enkinvsh/crystallized",
+    "language": "Python",
+    "name": "enkinvsh/crystallized",
+    "stars": 2,
+    "updated_at": "2026-08-22T04:45:45Z",
+    "url": "https://github.com/enkinvsh/crystallized"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-22T04:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-22T04:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -14,7 +50,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11233,
-    "updated_at": "2026-08-22T04:43:47Z",
+    "updated_at": "2026-08-22T04:48:25Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T04:42:48Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Persistent memory MCP server for opencode \u2014 Redis facts, ChromaDB semantic search, document storage, power-law memory de",
-    "id": "enkinvsh/crystallized",
-    "language": "Python",
-    "name": "enkinvsh/crystallized",
-    "stars": 2,
-    "updated_at": "2026-08-22T04:42:43Z",
-    "url": "https://github.com/enkinvsh/crystallized"
   },
   {
     "description": "RAG-over-docs MCP server \u2014 pgvector semantic retrieval for LLM agents (FastMCP + OpenAI-compatible embeddings).",
@@ -54,15 +81,6 @@
     "url": "https://github.com/thomas-villani/localvectordb"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-22T04:37:30Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -79,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-22T04:31:58Z",
     "url": "https://github.com/jay-tank/vecdrift"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-22T04:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -140,7 +149,7 @@
     "language": "Rust",
     "name": "tamnd/kura",
     "stars": 0,
-    "updated_at": "2026-08-22T04:18:16Z",
+    "updated_at": "2026-08-22T04:46:16Z",
     "url": "https://github.com/tamnd/kura"
   },
   {
@@ -178,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-22T04:06:31Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1096,
-    "updated_at": "2026-08-22T04:44:43Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
