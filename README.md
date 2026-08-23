@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-23 10:59 UTC
+> ⏰ Last updated: 2026-08-23 11:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 3 | Python | 2026-08-23 | Agent memory that abstains instead of guessing. Local RAG on PostgreSQL + pgvector, an MCP server for Claude Code, and a |
-| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-23 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 3 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1618 | Rust | 2026-08-23 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 4 | [dilumdarshana/ai-concepts](https://github.com/dilumdarshana/ai-concepts) | 0 | TypeScript | 2026-08-23 | A dual-language workspace of AI/LLM projects in TypeScript and Python — LangChain, LangGraph, RAG, vector stores, MCP, a |
-| 5 | [FraiseHQ/fraise](https://github.com/FraiseHQ/fraise) | 3 | Go | 2026-08-23 | In-memory knowledge store for AI agents |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-23 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [Artemon-line/ai-memory-hub](https://github.com/Artemon-line/ai-memory-hub) | 2 | Python | 2026-08-23 | Local-first shared memory for AI agents, with MCP and HTTP APIs. |
-| 8 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-08-23 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 1 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-08-23 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-23 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 3 | Python | 2026-08-23 | Agent memory that abstains instead of guessing. Local RAG on PostgreSQL + pgvector, an MCP server for Claude Code, and a |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-23 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1618 | Rust | 2026-08-23 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 6 | [dilumdarshana/ai-concepts](https://github.com/dilumdarshana/ai-concepts) | 0 | TypeScript | 2026-08-23 | A dual-language workspace of AI/LLM projects in TypeScript and Python — LangChain, LangGraph, RAG, vector stores, MCP, a |
+| 7 | [FraiseHQ/fraise](https://github.com/FraiseHQ/fraise) | 3 | Go | 2026-08-23 | In-memory knowledge store for AI agents |
+| 8 | [Artemon-line/ai-memory-hub](https://github.com/Artemon-line/ai-memory-hub) | 2 | Python | 2026-08-23 | Local-first shared memory for AI agents, with MCP and HTTP APIs. |
 | 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-08-23 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 10 | [Parth-2004/Historical-AI-Assistant](https://github.com/Parth-2004/Historical-AI-Assistant) | 1 | Python | 2026-08-23 | AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources,  |
 | 11 | [tinyagent-cc/tiny_agent](https://github.com/tinyagent-cc/tiny_agent) | 1 | C++ | 2026-08-23 | Tiny header-only C++20 AI agent framework for edge and embedded: DeepAgent sub-agents, middleware, MCP, SSE streaming, R |
