@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-23T17:18:24Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 52,
+    "updated_at": "2026-08-23T17:17:54Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "AI-powered codebase onboarding tool \u2014 point it at any repo and ask questions about the code. Uses tree-sitter parsing, R",
+    "id": "gupta29470/codewalk",
+    "language": "Python",
+    "name": "gupta29470/codewalk",
+    "stars": 5,
+    "updated_at": "2026-08-23T17:17:28Z",
+    "url": "https://github.com/gupta29470/codewalk"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T17:17:13Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T17:15:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\u533b\u5b66\u4f20\u64ad\u521b\u610f\u5411\u91cf\u77e5\u8bc6\u5e93 \u2014 \u8bed\u4e49\u68c0\u7d22 RAG + 52\u4e2a\u5168\u7403\u521b\u610f\u6848\u4f8b\u6df1\u5ea6\u62a5\u544a",
     "id": "veawho/via54ADIdeahub",
     "language": "Python",
@@ -16,6 +61,15 @@
     "stars": 2,
     "updated_at": "2026-08-23T17:10:31Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30198,
+    "updated_at": "2026-08-23T17:10:24Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "The open-source, self-hosted alternative to NotebookLM.",
@@ -72,15 +126,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30199,
-    "updated_at": "2026-08-23T17:10:24Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
     "id": "rostamlabs/rostam",
     "language": "Go",
@@ -113,35 +158,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9181,
-    "updated_at": "2026-08-23T17:12:05Z",
+    "updated_at": "2026-08-23T17:18:48Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T17:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T17:15:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 52,
-    "updated_at": "2026-08-23T16:59:26Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-23T17:07:37Z",
+    "updated_at": "2026-08-23T17:15:46Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -185,7 +203,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1623,
-    "updated_at": "2026-08-23T16:53:42Z",
+    "updated_at": "2026-08-23T17:16:52Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -277,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T16:23:16Z",
     "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-23T16:22:27Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T15:16:16Z",
     "url": "https://github.com/Faraz6180/Insightpilot-ai"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 15,
-    "updated_at": "2026-08-23T15:15:59Z",
-    "url": "https://github.com/integrallis/vectors"
   }
 ]
