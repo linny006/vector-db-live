@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-23T16:22:27Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T16:20:12Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1098,
+    "updated_at": "2026-08-23T16:19:31Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-23T16:18:00Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-23T16:16:19Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T16:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-23T16:01:36Z",
+    "updated_at": "2026-08-23T16:21:27Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -63,39 +117,12 @@
     "url": "https://github.com/alxxtexxr/arxiv_agent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T16:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T16:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-23T16:00:10Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-23T15:58:51Z",
+    "updated_at": "2026-08-23T16:22:20Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -122,7 +149,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-23T15:53:45Z",
+    "updated_at": "2026-08-23T16:19:15Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1623,
-    "updated_at": "2026-08-23T16:00:44Z",
+    "updated_at": "2026-08-23T16:22:14Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -178,15 +205,6 @@
     "stars": 19,
     "updated_at": "2026-08-23T15:41:30Z",
     "url": "https://github.com/fndome/xb"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1098,
-    "updated_at": "2026-08-23T15:37:29Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Developed a chatbot using LLMs and RAG to provide accurate, context-aware answers from company knowledge bases. It uses ",
@@ -225,24 +243,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:20:08Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-23T15:20:04Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
     "id": "mdhabibi/llm-search-handbook",
     "language": "Jupyter Notebook",
@@ -275,7 +275,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 52,
-    "updated_at": "2026-08-23T16:08:53Z",
+    "updated_at": "2026-08-23T16:17:30Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
