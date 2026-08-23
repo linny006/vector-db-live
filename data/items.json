@@ -1,5 +1,122 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T11:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "This project implements a Retrieval-Augmented Generation (RAG) chatbot that can answer medical questions based on upload",
+    "id": "Dinesh-Sharma2004/Medical_chatbot",
+    "language": "Python",
+    "name": "Dinesh-Sharma2004/Medical_chatbot",
+    "stars": 2,
+    "updated_at": "2026-08-23T11:44:41Z",
+    "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-23T11:44:16Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Agent memory that abstains instead of guessing. Local RAG on PostgreSQL + pgvector, an MCP server for Claude Code, and a",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-23T11:42:36Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-08-23T11:41:22Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-23T11:39:38Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-08-23T11:37:15Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Steadlith reuses unchanged RAG chunks with content-defined identities, cache-aware planning, and transactional indexing.",
+    "id": "satwiksps/steadlith",
+    "language": "Python",
+    "name": "satwiksps/steadlith",
+    "stars": 9,
+    "updated_at": "2026-08-23T11:34:51Z",
+    "url": "https://github.com/satwiksps/steadlith"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-23T11:33:56Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:33:02Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 7,
+    "updated_at": "2026-08-23T11:33:02Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "Custom Vector Database and RAG pipeline engineered from scratch in Python. Features NumPy-optimized HNSW, KD-Tree, and B",
+    "id": "Vansh-7/Vector-DB-RAG-pipeline",
+    "language": "TypeScript",
+    "name": "Vansh-7/Vector-DB-RAG-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:30:51Z",
+    "url": "https://github.com/Vansh-7/Vector-DB-RAG-pipeline"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T11:30:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -9,15 +126,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T11:27:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -25,15 +133,6 @@
     "stars": 1619,
     "updated_at": "2026-08-23T11:23:21Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-23T11:23:01Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -81,24 +180,6 @@
     "url": "https://github.com/YEYUbaka/LocalRAG"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T11:17:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-23T11:12:34Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "A Flask-based Investment Portfolio Tracker with an agentic AI assistant. Implements layered backend architecture, portfo",
     "id": "jyothi-basu/investment-portfolio-tracker",
     "language": "Python",
@@ -126,15 +207,6 @@
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-08-23T11:05:27Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
     "id": "vector-index-bench/vibe",
     "language": "Python",
@@ -151,15 +223,6 @@
     "stars": 87,
     "updated_at": "2026-08-23T11:09:06Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Agent memory that abstains instead of guessing. Local RAG on PostgreSQL + pgvector, an MCP server for Claude Code, and a",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-23T11:14:59Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "A dual-language workspace of AI/LLM projects in TypeScript and Python \u2014 LangChain, LangGraph, RAG, vector stores, MCP, a",
@@ -234,15 +297,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-23T10:19:31Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
@@ -288,15 +342,6 @@
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-08-23T09:52:46Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
     "description": "Object storage for the AI age",
     "id": "keldra-store/keldra",
     "language": "Rust",
@@ -333,15 +378,6 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-23T09:11:35Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Perplexity for your website",
     "id": "find-x-ai/find-x",
     "language": "TypeScript",
@@ -358,15 +394,6 @@
     "stars": 6217,
     "updated_at": "2026-08-23T11:27:07Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "This project implements a Retrieval-Augmented Generation (RAG) chatbot that can answer medical questions based on upload",
-    "id": "Dinesh-Sharma2004/Medical_chatbot",
-    "language": "Python",
-    "name": "Dinesh-Sharma2004/Medical_chatbot",
-    "stars": 2,
-    "updated_at": "2026-08-23T09:28:36Z",
-    "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot"
   },
   {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
@@ -421,32 +448,5 @@
     "stars": 1098,
     "updated_at": "2026-08-23T10:20:45Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "",
-    "id": "kabirnagdev/atlas",
-    "language": "Jupyter Notebook",
-    "name": "kabirnagdev/atlas",
-    "stars": 3,
-    "updated_at": "2026-08-23T08:30:54Z",
-    "url": "https://github.com/kabirnagdev/atlas"
-  },
-  {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1908,
-    "updated_at": "2026-08-23T07:57:20Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "\u901a\u8fc7\u5bf9\u8bdd\u751f\u6210 Prompt \u94fe\u8def + \u8986\u76d6\u5ba1\u8ba1 + \u6a21\u578b\u63a8\u8350\u7684 AI \u5f00\u53d1\u84dd\u56fe\u751f\u6210\u5668\uff08Next.js + LangChain RAG + DeepSeek/OpenAI\uff09",
-    "id": "Alanwei-aiSaascreator/prompt-dog",
-    "language": "TypeScript",
-    "name": "Alanwei-aiSaascreator/prompt-dog",
-    "stars": 1,
-    "updated_at": "2026-08-23T07:51:46Z",
-    "url": "https://github.com/Alanwei-aiSaascreator/prompt-dog"
   }
 ]
