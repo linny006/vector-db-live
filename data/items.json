@@ -1,11 +1,92 @@
 [
   {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-23T15:43:44Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "\"Solace AI: Your Empathetic Digital Confidant\": Solace AI is an empathetic mental health companion that understands your",
+    "id": "Rayyan9477/Solace-AI",
+    "language": "Python",
+    "name": "Rayyan9477/Solace-AI",
+    "stars": 18,
+    "updated_at": "2026-08-23T15:42:45Z",
+    "url": "https://github.com/Rayyan9477/Solace-AI"
+  },
+  {
+    "description": "query builder of golang, build sql for go framework: sqlx, gorp... build json for Qdrant vectordb, custom for any databa",
+    "id": "fndome/xb",
+    "language": "Go",
+    "name": "fndome/xb",
+    "stars": 19,
+    "updated_at": "2026-08-23T15:41:30Z",
+    "url": "https://github.com/fndome/xb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-08-23T15:37:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1098,
+    "updated_at": "2026-08-23T15:37:29Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Privacy-preserving middleware for RAG and vector embeddings. Defends against embedding inversion attacks using different",
+    "id": "omdesai69/privrag-guard",
+    "language": "Python",
+    "name": "omdesai69/privrag-guard",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:34:52Z",
+    "url": "https://github.com/omdesai69/privrag-guard"
+  },
+  {
+    "description": "Developed a chatbot using LLMs and RAG to provide accurate, context-aware answers from company knowledge bases. It uses ",
+    "id": "archna13/RAG-Powered-Chatbot-using-Generative-AI",
+    "language": "Jupyter Notebook",
+    "name": "archna13/RAG-Powered-Chatbot-using-Generative-AI",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:33:14Z",
+    "url": "https://github.com/archna13/RAG-Powered-Chatbot-using-Generative-AI"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-23T15:31:17Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T15:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-23T15:29:07Z",
+    "updated_at": "2026-08-23T15:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,15 +97,6 @@
     "stars": 8,
     "updated_at": "2026-08-23T15:28:45Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Privacy-preserving middleware for RAG and vector embeddings. Defends against embedding inversion attacks using different",
-    "id": "omdesai69/privrag-guard",
-    "language": "Python",
-    "name": "omdesai69/privrag-guard",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:27:26Z",
-    "url": "https://github.com/omdesai69/privrag-guard"
   },
   {
     "description": "AI-powered document Q&A chatbot using LangChain, embeddings, ChromaDB, and RAG \u2014 chat with PDFs, Word docs, CSVs, and te",
@@ -52,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T15:21:05Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T15:20:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -113,7 +176,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1622,
-    "updated_at": "2026-08-23T15:14:34Z",
+    "updated_at": "2026-08-23T15:45:10Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -144,15 +207,6 @@
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-23T15:26:42Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "\u57fa\u4e8e RAG \u7684\u672c\u5730\u4e2a\u4eba\u77e5\u8bc6\u5e93\u7cfb\u7edf\uff1a\u6587\u6863\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u3001\u6df7\u5408\u68c0\u7d22\u7cbe\u6392\u5e8f\u3001SSE \u6d41\u5f0f\u95ee\u7b54\uff08FastAPI + React + ChromaDB\uff09",
     "id": "YEYUbaka/LocalRAG",
     "language": "Python",
@@ -178,15 +232,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T15:06:57Z",
     "url": "https://github.com/felixzhu97/explore-ai"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-08-23T15:05:15Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T14:12:48Z",
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "\ud83e\udde0 Production-grade GraphRAG monorepo powering an AI digital twin. Features Next.js 15, FastAPI, LangGraph agentic correc",
-    "id": "AhmedCoolProjects/GraphRAGPortfolio",
-    "language": "MDX",
-    "name": "AhmedCoolProjects/GraphRAGPortfolio",
-    "stars": 2,
-    "updated_at": "2026-08-23T14:12:16Z",
-    "url": "https://github.com/AhmedCoolProjects/GraphRAGPortfolio"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-08-23T14:11:19Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "\u26a1 Ultra-high-throughput GPU Vector Search Engine with Warp-Cooperative HNSW, Stride-257 Shared-Memory IVF-PQ ADC, Rust h",
-    "id": "Sadik00789/FlashVector-GPU",
-    "language": "Rust",
-    "name": "Sadik00789/FlashVector-GPU",
-    "stars": 0,
-    "updated_at": "2026-08-23T14:09:24Z",
-    "url": "https://github.com/Sadik00789/FlashVector-GPU"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 3,
-    "updated_at": "2026-08-23T14:08:04Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-08-23T14:06:16Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
   }
 ]
