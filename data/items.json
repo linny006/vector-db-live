@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-23T15:20:04Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
+    "id": "mdhabibi/llm-search-handbook",
+    "language": "Jupyter Notebook",
+    "name": "mdhabibi/llm-search-handbook",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:18:51Z",
+    "url": "https://github.com/mdhabibi/llm-search-handbook"
+  },
+  {
+    "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
+    "id": "Faraz6180/Insightpilot-ai",
+    "language": "Python",
+    "name": "Faraz6180/Insightpilot-ai",
+    "stars": 0,
+    "updated_at": "2026-08-23T15:16:16Z",
+    "url": "https://github.com/Faraz6180/Insightpilot-ai"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 15,
+    "updated_at": "2026-08-23T15:15:59Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T15:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,22 +54,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
-    "id": "Faraz6180/Insightpilot-ai",
-    "language": "Python",
-    "name": "Faraz6180/Insightpilot-ai",
-    "stars": 0,
-    "updated_at": "2026-08-23T15:15:21Z",
-    "url": "https://github.com/Faraz6180/Insightpilot-ai"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 15,
-    "updated_at": "2026-08-23T15:14:45Z",
-    "url": "https://github.com/integrallis/vectors"
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1622,
+    "updated_at": "2026-08-23T15:14:34Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
@@ -54,21 +90,12 @@
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1621,
-    "updated_at": "2026-08-23T15:14:34Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-23T15:11:25Z",
+    "updated_at": "2026-08-23T15:19:06Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -117,15 +144,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T15:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI developer assistant for the Kalisio ecosystem",
     "id": "kalisio/knowledge",
     "language": "Python",
@@ -171,15 +189,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
-    "id": "mdhabibi/llm-search-handbook",
-    "language": "Jupyter Notebook",
-    "name": "mdhabibi/llm-search-handbook",
-    "stars": 0,
-    "updated_at": "2026-08-23T14:50:19Z",
-    "url": "https://github.com/mdhabibi/llm-search-handbook"
-  },
-  {
     "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
     "id": "AkashKundu114/COPPER",
     "language": "Python",
@@ -212,7 +221,7 @@
     "language": "HTML",
     "name": "Benorina1/llm-vector-retrieval-playbook",
     "stars": 0,
-    "updated_at": "2026-08-23T14:29:49Z",
+    "updated_at": "2026-08-23T15:20:08Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
@@ -277,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T14:30:15Z",
     "url": "https://github.com/M4F-S/mnemosyne"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-23T14:20:58Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
