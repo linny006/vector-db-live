@@ -1,12 +1,93 @@
 [
   {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 52,
+    "updated_at": "2026-08-23T14:42:38Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-08-23T14:42:22Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-08-23T14:38:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-08-23T14:37:53Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-23T14:30:19Z",
+    "updated_at": "2026-08-23T14:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-08-23T14:35:00Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "Your vector database, as typed tools. Write a tools.yaml, then load_tools in Python or serve over MCP.",
+    "id": "kjgpta/vectorsmith",
+    "language": "Python",
+    "name": "kjgpta/vectorsmith",
+    "stars": 2,
+    "updated_at": "2026-08-23T14:31:18Z",
+    "url": "https://github.com/kjgpta/vectorsmith"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T14:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-23T14:29:49Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-08-23T14:29:30Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -14,7 +95,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 262,
-    "updated_at": "2026-08-23T14:27:10Z",
+    "updated_at": "2026-08-23T14:34:46Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -45,15 +126,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 3,
-    "updated_at": "2026-08-23T14:29:30Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -70,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T14:23:09Z",
     "url": "https://github.com/AdarshBobade/ResX---A-Multi-hop-AI-Agent"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 52,
-    "updated_at": "2026-08-23T14:22:34Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -106,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T14:30:15Z",
     "url": "https://github.com/M4F-S/mnemosyne"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T14:21:02Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -221,7 +275,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1621,
-    "updated_at": "2026-08-23T14:12:29Z",
+    "updated_at": "2026-08-23T14:42:30Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -277,24 +331,6 @@
     "stars": 1,
     "updated_at": "2026-08-23T14:06:16Z",
     "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 1,
-    "updated_at": "2026-08-23T14:06:09Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-08-23T14:05:50Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
@@ -387,15 +423,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-08-23T13:59:51Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
     "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
     "id": "humanhady/DocMine",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-23T13:56:12Z",
     "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-08-23T13:54:59Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-23T13:53:14Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-23T14:21:50Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   }
 ]
