@@ -1,5 +1,32 @@
 [
   {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-23T05:48:03Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
+    "id": "project-david-ai/projectdavid-platform",
+    "language": "Python",
+    "name": "project-david-ai/projectdavid-platform",
+    "stars": 1,
+    "updated_at": "2026-08-23T05:47:28Z",
+    "url": "https://github.com/project-david-ai/projectdavid-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T05:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -43,15 +70,6 @@
     "stars": 1608,
     "updated_at": "2026-08-23T05:44:55Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T05:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
@@ -142,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T05:01:22Z",
     "url": "https://github.com/pal404error/sift"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-23T04:51:18Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T00:31:59Z",
     "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-08-23T00:31:38Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
   }
 ]
