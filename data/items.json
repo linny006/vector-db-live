@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-23T22:15:22Z",
+    "updated_at": "2026-08-23T22:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Customer service RAG chatbot to provide accurate answers to questions using a knowledge base, which is a vector database",
+    "id": "lekli-1/ai-chatbot",
+    "language": "Python",
+    "name": "lekli-1/ai-chatbot",
+    "stars": 0,
+    "updated_at": "2026-08-23T22:22:30Z",
+    "url": "https://github.com/lekli-1/ai-chatbot"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-23T22:21:49Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-23T22:20:48Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-23T22:19:14Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T22:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -54,21 +99,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T22:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
     "id": "yantrikos/yantrikdb",
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 52,
-    "updated_at": "2026-08-23T22:14:45Z",
+    "updated_at": "2026-08-23T22:17:28Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -77,7 +113,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1098,
-    "updated_at": "2026-08-23T22:14:44Z",
+    "updated_at": "2026-08-23T22:28:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -88,15 +124,6 @@
     "stars": 341,
     "updated_at": "2026-08-23T21:51:05Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-23T21:45:25Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 93,
-    "updated_at": "2026-08-23T22:06:17Z",
+    "updated_at": "2026-08-23T22:19:52Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -153,15 +180,6 @@
     "url": "https://github.com/verygoodplugins/mcp-automem"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-23T21:22:09Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -169,15 +187,6 @@
     "stars": 88,
     "updated_at": "2026-08-23T21:22:27Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-23T21:19:31Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T19:45:03Z",
     "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5842,
-    "updated_at": "2026-08-23T20:01:23Z",
-    "url": "https://github.com/HelixDB/helix-db"
   }
 ]
