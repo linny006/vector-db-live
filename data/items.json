@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T23:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T22:58:11Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
     "id": "thekaveh/atlas",
     "language": "Python",
@@ -7,15 +25,6 @@
     "stars": 3,
     "updated_at": "2026-08-23T22:54:32Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T22:51:02Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -45,15 +54,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T22:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A RAG (Retrieval-Augmented Generation) chatbot for querying personal project documentation. Built to replace hallucinati",
     "id": "yildirimemirhan/rag-project-assistant",
     "language": "Python",
@@ -68,7 +68,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 52,
-    "updated_at": "2026-08-23T22:39:10Z",
+    "updated_at": "2026-08-23T22:59:06Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -112,7 +112,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8127,
+    "stars": 8128,
     "updated_at": "2026-08-23T22:22:20Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -167,7 +167,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1098,
-    "updated_at": "2026-08-23T22:50:23Z",
+    "updated_at": "2026-08-23T22:59:30Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -214,6 +214,15 @@
     "stars": 64,
     "updated_at": "2026-08-23T21:26:22Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 790,
+    "updated_at": "2026-08-23T21:20:34Z",
+    "url": "https://github.com/christopherkarani/Wax"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T20:22:32Z",
     "url": "https://github.com/jkelly-dev1/federated-retrieval-router"
-  },
-  {
-    "description": "Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessi",
-    "id": "verygoodplugins/automem",
-    "language": "Python",
-    "name": "verygoodplugins/automem",
-    "stars": 802,
-    "updated_at": "2026-08-23T20:13:19Z",
-    "url": "https://github.com/verygoodplugins/automem"
   }
 ]
