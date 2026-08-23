@@ -1,5 +1,41 @@
 [
   {
+    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
+    "id": "Mr-DS-ML-85/StrikeDB",
+    "language": "Rust",
+    "name": "Mr-DS-ML-85/StrikeDB",
+    "stars": 0,
+    "updated_at": "2026-08-23T19:28:16Z",
+    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-23T19:27:55Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-08-23T19:26:24Z",
+    "url": "https://github.com/kalisio/knowledge"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T19:26:06Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 3,
-    "updated_at": "2026-08-23T19:21:21Z",
+    "updated_at": "2026-08-23T19:29:33Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T19:18:30Z",
     "url": "https://github.com/alxxtexxr/arxiv_agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T19:15:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -122,7 +149,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9181,
-    "updated_at": "2026-08-23T19:25:32Z",
+    "updated_at": "2026-08-23T19:28:12Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -153,15 +180,6 @@
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
-    "description": "AI developer assistant for the Kalisio ecosystem",
-    "id": "kalisio/knowledge",
-    "language": "Python",
-    "name": "kalisio/knowledge",
-    "stars": 2,
-    "updated_at": "2026-08-23T19:01:29Z",
-    "url": "https://github.com/kalisio/knowledge"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -169,15 +187,6 @@
     "stars": 7064,
     "updated_at": "2026-08-23T19:00:20Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-23T18:58:39Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
@@ -203,7 +212,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1098,
-    "updated_at": "2026-08-23T19:24:37Z",
+    "updated_at": "2026-08-23T19:28:25Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -284,7 +293,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1624,
-    "updated_at": "2026-08-23T18:54:27Z",
+    "updated_at": "2026-08-23T19:27:06Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T17:09:23Z",
     "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
-  },
-  {
-    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
-    "id": "amirhosssein0/ai-platform-lab",
-    "language": "TypeScript",
-    "name": "amirhosssein0/ai-platform-lab",
-    "stars": 4,
-    "updated_at": "2026-08-23T17:08:36Z",
-    "url": "https://github.com/amirhosssein0/ai-platform-lab"
   }
 ]
