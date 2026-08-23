@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T11:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u57fa\u4e8e RAG \u7684\u672c\u5730\u4e2a\u4eba\u77e5\u8bc6\u5e93\u7cfb\u7edf\uff1a\u6587\u6863\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u3001\u6df7\u5408\u68c0\u7d22\u7cbe\u6392\u5e8f\u3001SSE \u6d41\u5f0f\u95ee\u7b54\uff08FastAPI + React + ChromaDB\uff09",
+    "id": "YEYUbaka/LocalRAG",
+    "language": "Python",
+    "name": "YEYUbaka/LocalRAG",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:12:36Z",
+    "url": "https://github.com/YEYUbaka/LocalRAG"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-23T11:12:34Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "A Flask-based Investment Portfolio Tracker with an agentic AI assistant. Implements layered backend architecture, portfo",
+    "id": "jyothi-basu/investment-portfolio-tracker",
+    "language": "Python",
+    "name": "jyothi-basu/investment-portfolio-tracker",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:11:32Z",
+    "url": "https://github.com/jyothi-basu/investment-portfolio-tracker"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-23T11:11:30Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-23T11:10:44Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Production-oriented AI system for medical image detection using YOLO, PyTorch, and patient-level dataset validation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-08-23T11:10:15Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-08-23T11:05:27Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
+    "id": "vector-index-bench/vibe",
+    "language": "Python",
+    "name": "vector-index-bench/vibe",
+    "stars": 55,
+    "updated_at": "2026-08-23T11:04:35Z",
+    "url": "https://github.com/vector-index-bench/vibe"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 87,
+    "updated_at": "2026-08-23T11:09:06Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T11:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -9,31 +108,13 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T10:59:07Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Agent memory that abstains instead of guessing. Local RAG on PostgreSQL + pgvector, an MCP server for Claude Code, and a",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-23T10:58:43Z",
+    "updated_at": "2026-08-23T11:14:59Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T11:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -68,17 +149,8 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-08-23T10:49:18Z",
+    "updated_at": "2026-08-23T11:01:42Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-08-23T10:39:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
@@ -135,21 +207,12 @@
     "url": "https://github.com/AdarshBobade/ResX---A-Multi-hop-AI-Agent"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 87,
-    "updated_at": "2026-08-23T10:24:07Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30190,
-    "updated_at": "2026-08-23T10:19:39Z",
+    "updated_at": "2026-08-23T11:02:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -169,15 +232,6 @@
     "stars": 2599,
     "updated_at": "2026-08-23T10:17:47Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-23T10:10:57Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -205,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-23T10:00:08Z",
     "url": "https://github.com/Sainava/CV-Graph-RAG"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-23T09:58:25Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -268,15 +313,6 @@
     "stars": 249,
     "updated_at": "2026-08-23T09:14:25Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "\u57fa\u4e8e RAG \u7684\u672c\u5730\u4e2a\u4eba\u77e5\u8bc6\u5e93\u7cfb\u7edf\uff1a\u6587\u6863\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u3001\u6df7\u5408\u68c0\u7d22\u7cbe\u6392\u5e8f\u3001SSE \u6d41\u5f0f\u95ee\u7b54\uff08FastAPI + React + ChromaDB\uff09",
-    "id": "YEYUbaka/LocalRAG",
-    "language": "Python",
-    "name": "YEYUbaka/LocalRAG",
-    "stars": 0,
-    "updated_at": "2026-08-23T09:12:54Z",
-    "url": "https://github.com/YEYUbaka/LocalRAG"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-23T07:47:34Z",
     "url": "https://github.com/reihaneeee/Multi-Agent-RAG-Customer-Support-Bot"
-  },
-  {
-    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
-    "id": "boulif781/enterprise-knowledge-assistant",
-    "language": "\u2014",
-    "name": "boulif781/enterprise-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-23T07:36:05Z",
-    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 1,
-    "updated_at": "2026-08-23T07:34:11Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-08-23T07:33:44Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-08-23T07:31:08Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
   }
 ]
