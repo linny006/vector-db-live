@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T08:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Unified RAG based Multimodal Retrieval Intelligence System",
+    "id": "kabirnagdev/atlas",
+    "language": "Jupyter Notebook",
+    "name": "kabirnagdev/atlas",
+    "stars": 2,
+    "updated_at": "2026-08-23T08:10:37Z",
+    "url": "https://github.com/kabirnagdev/atlas"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1613,
+    "updated_at": "2026-08-23T08:09:28Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11246,
+    "updated_at": "2026-08-23T08:07:51Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-08-23T08:06:42Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\u57fa\u4e8e RAG \u7684\u672c\u5730\u4e2a\u4eba\u77e5\u8bc6\u5e93\u7cfb\u7edf\uff1a\u6587\u6863\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u3001\u6df7\u5408\u68c0\u7d22\u7cbe\u6392\u5e8f\u3001SSE \u6d41\u5f0f\u95ee\u7b54\uff08FastAPI + React + ChromaDB\uff09",
+    "id": "YEYUbaka/LocalRAG",
+    "language": "Python",
+    "name": "YEYUbaka/LocalRAG",
+    "stars": 0,
+    "updated_at": "2026-08-23T08:06:37Z",
+    "url": "https://github.com/YEYUbaka/LocalRAG"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1900,
+    "updated_at": "2026-08-23T08:06:20Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T08:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6217,
+    "updated_at": "2026-08-23T08:00:08Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -9,15 +90,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T07:55:59Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
     "id": "SeekStorm/SeekStorm",
     "language": "Rust",
@@ -25,15 +97,6 @@
     "stars": 1908,
     "updated_at": "2026-08-23T07:57:20Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11245,
-    "updated_at": "2026-08-23T07:53:17Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -72,24 +135,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "\u57fa\u4e8e RAG \u7684\u672c\u5730\u4e2a\u4eba\u77e5\u8bc6\u5e93\u7cfb\u7edf\uff1a\u6587\u6863\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u3001\u6df7\u5408\u68c0\u7d22\u7cbe\u6392\u5e8f\u3001SSE \u6d41\u5f0f\u95ee\u7b54\uff08FastAPI + React + ChromaDB\uff09",
-    "id": "YEYUbaka/LocalRAG",
-    "language": "Python",
-    "name": "YEYUbaka/LocalRAG",
-    "stars": 0,
-    "updated_at": "2026-08-23T08:00:02Z",
-    "url": "https://github.com/YEYUbaka/LocalRAG"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T07:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "- ",
     "id": "Chief-Strategist-J/llm-observability-platform",
     "language": "Python",
@@ -106,24 +151,6 @@
     "stars": 249,
     "updated_at": "2026-08-23T07:44:03Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-08-23T07:42:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1613,
-    "updated_at": "2026-08-23T07:41:15Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T06:52:56Z",
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-08-23T06:46:46Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "\ud83d\udc15 Sniffs out the lease clauses that shouldn't be there \u2014 WA tenant-law RAG: clause-by-clause scan reports with statute c",
-    "id": "tywangq/leasehound",
-    "language": "Python",
-    "name": "tywangq/leasehound",
-    "stars": 2,
-    "updated_at": "2026-08-23T06:44:36Z",
-    "url": "https://github.com/tywangq/leasehound"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9181,
-    "updated_at": "2026-08-23T06:33:12Z",
-    "url": "https://github.com/paradedb/paradedb"
   }
 ]
