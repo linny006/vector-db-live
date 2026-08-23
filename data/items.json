@@ -1,12 +1,75 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-23T05:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-23T05:14:15Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-08-23T04:55:29Z",
+    "updated_at": "2026-08-23T05:11:16Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-08-23T05:09:30Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1607,
+    "updated_at": "2026-08-23T05:07:20Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-23T05:01:46Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Sift \u2014 enterprise, self-hostable, multi-provider RAG search engine over web content. Pluggable LLMs/embeddings, vector s",
+    "id": "pal404error/sift",
+    "language": "Python",
+    "name": "pal404error/sift",
+    "stars": 0,
+    "updated_at": "2026-08-23T05:01:22Z",
+    "url": "https://github.com/pal404error/sift"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-23T05:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -18,6 +81,15 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9180,
+    "updated_at": "2026-08-23T04:51:07Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
     "id": "Daaboulex/openviking-nix",
     "language": "Shell",
@@ -25,51 +97,6 @@
     "stars": 3,
     "updated_at": "2026-08-23T04:50:01Z",
     "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-23T04:49:30Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-23T04:46:13Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-23T05:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-08-23T04:44:59Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1607,
-    "updated_at": "2026-08-23T04:38:34Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -97,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T04:25:08Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-23T04:22:23Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "ChromaMind is a fast desktop client for ChromaDB.",
@@ -149,7 +167,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1098,
-    "updated_at": "2026-08-23T04:55:04Z",
+    "updated_at": "2026-08-23T05:14:32Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -225,15 +243,6 @@
     "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9181,
-    "updated_at": "2026-08-23T04:51:07Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
@@ -257,7 +266,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 51,
-    "updated_at": "2026-08-23T04:24:44Z",
+    "updated_at": "2026-08-23T05:08:55Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -283,9 +292,18 @@
     "id": "oceanbase/oceanbase",
     "language": "C++",
     "name": "oceanbase/oceanbase",
-    "stars": 10254,
+    "stars": 10253,
     "updated_at": "2026-08-23T01:00:44Z",
     "url": "https://github.com/oceanbase/oceanbase"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9422,
+    "updated_at": "2026-08-23T00:55:35Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-23T00:26:39Z",
     "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 2,
-    "updated_at": "2026-08-23T00:26:21Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-08-23T00:25:46Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
   }
 ]
