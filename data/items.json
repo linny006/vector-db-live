@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T15:30:23Z",
+    "updated_at": "2026-08-24T15:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-24T15:41:59Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
+    "id": "Navneet6050/arc-ai-project",
+    "language": "JavaScript",
+    "name": "Navneet6050/arc-ai-project",
+    "stars": 0,
+    "updated_at": "2026-08-24T15:39:51Z",
+    "url": "https://github.com/Navneet6050/arc-ai-project"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 7,
+    "updated_at": "2026-08-24T15:39:45Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-24T15:36:53Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4426,
+    "updated_at": "2026-08-24T15:40:19Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
+    "id": "elchemista/vettore",
+    "language": "Elixir",
+    "name": "elchemista/vettore",
+    "stars": 23,
+    "updated_at": "2026-08-24T15:32:24Z",
+    "url": "https://github.com/elchemista/vettore"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 341,
+    "updated_at": "2026-08-24T15:30:49Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T15:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9186,
+    "updated_at": "2026-08-24T15:37:07Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Support operations platform for B2B SaaS teams, featuring ticket triage, versioned knowledge base, grounded response dra",
@@ -27,21 +108,12 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T15:21:48Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2619,
-    "updated_at": "2026-08-24T15:21:09Z",
+    "stars": 2620,
+    "updated_at": "2026-08-24T15:41:39Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -50,7 +122,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1642,
-    "updated_at": "2026-08-24T15:21:05Z",
+    "updated_at": "2026-08-24T15:39:14Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -59,7 +131,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1099,
-    "updated_at": "2026-08-24T15:28:45Z",
+    "updated_at": "2026-08-24T15:45:19Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -86,17 +158,8 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-24T15:14:41Z",
+    "updated_at": "2026-08-24T15:45:13Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9186,
-    "updated_at": "2026-08-24T15:28:45Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
@@ -158,17 +221,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-24T15:28:30Z",
+    "updated_at": "2026-08-24T15:45:18Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
-    "id": "Navneet6050/arc-ai-project",
-    "language": "JavaScript",
-    "name": "Navneet6050/arc-ai-project",
-    "stars": 0,
-    "updated_at": "2026-08-24T15:03:58Z",
-    "url": "https://github.com/Navneet6050/arc-ai-project"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -257,7 +311,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5845,
-    "updated_at": "2026-08-24T15:21:58Z",
+    "updated_at": "2026-08-24T15:37:00Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -266,7 +320,7 @@
     "language": "Python",
     "name": "pal404error/sift",
     "stars": 1,
-    "updated_at": "2026-08-24T14:42:44Z",
+    "updated_at": "2026-08-24T15:45:16Z",
     "url": "https://github.com/pal404error/sift"
   },
   {
@@ -275,7 +329,7 @@
     "language": "HTML",
     "name": "al7o/DocuMind-AI-Engine",
     "stars": 1,
-    "updated_at": "2026-08-24T14:42:25Z",
+    "updated_at": "2026-08-24T15:39:26Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
@@ -286,15 +340,6 @@
     "stars": 1881,
     "updated_at": "2026-08-24T14:39:30Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-24T14:39:13Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -342,15 +387,6 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4425,
-    "updated_at": "2026-08-24T15:05:36Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-24T15:29:07Z",
+    "updated_at": "2026-08-24T15:43:51Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -374,7 +410,7 @@
     "language": "Python",
     "name": "redis/redis-vl-python",
     "stars": 425,
-    "updated_at": "2026-08-24T14:50:38Z",
+    "updated_at": "2026-08-24T15:42:29Z",
     "url": "https://github.com/redis/redis-vl-python"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T14:06:44Z",
     "url": "https://github.com/apkirana/lancedb_viewer"
-  },
-  {
-    "description": "Irodori Table Qdrant connector extension",
-    "id": "irodori-table/irodori-extension-qdrant",
-    "language": "Rust",
-    "name": "irodori-table/irodori-extension-qdrant",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:00:36Z",
-    "url": "https://github.com/irodori-table/irodori-extension-qdrant"
-  },
-  {
-    "description": "Irodori Table Pinecone connector extension",
-    "id": "irodori-table/irodori-extension-pinecone",
-    "language": "Rust",
-    "name": "irodori-table/irodori-extension-pinecone",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:00:34Z",
-    "url": "https://github.com/irodori-table/irodori-extension-pinecone"
-  },
-  {
-    "description": "Irodori Table Milvus connector extension",
-    "id": "irodori-table/irodori-extension-milvus",
-    "language": "Rust",
-    "name": "irodori-table/irodori-extension-milvus",
-    "stars": 0,
-    "updated_at": "2026-08-24T13:59:59Z",
-    "url": "https://github.com/irodori-table/irodori-extension-milvus"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8133,
-    "updated_at": "2026-08-24T15:16:52Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
