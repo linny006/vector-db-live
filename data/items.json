@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T09:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1638,
+    "updated_at": "2026-08-24T09:42:58Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-24T09:41:54Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-08-24T09:39:09Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-08-24T09:39:52Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3274,
+    "updated_at": "2026-08-24T09:37:03Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
+    "id": "Mr-DS-ML-85/StrikeDB",
+    "language": "Rust",
+    "name": "Mr-DS-ML-85/StrikeDB",
+    "stars": 0,
+    "updated_at": "2026-08-24T09:35:58Z",
+    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 69,
+    "updated_at": "2026-08-24T09:35:41Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
+    "id": "meriamsamy/Sterling-Vance-Bank-B",
+    "language": "Python",
+    "name": "meriamsamy/Sterling-Vance-Bank-B",
+    "stars": 0,
+    "updated_at": "2026-08-24T09:35:16Z",
+    "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-24T09:34:10Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T09:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -14,7 +113,7 @@
     "language": "Rust",
     "name": "inlaySQL/inlaysql",
     "stars": 2,
-    "updated_at": "2026-08-24T09:26:33Z",
+    "updated_at": "2026-08-24T09:41:06Z",
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
@@ -23,7 +122,7 @@
     "language": "Go",
     "name": "tradik/mddb",
     "stars": 3,
-    "updated_at": "2026-08-24T09:26:22Z",
+    "updated_at": "2026-08-24T09:40:11Z",
     "url": "https://github.com/tradik/mddb"
   },
   {
@@ -72,24 +171,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T09:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T09:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
     "id": "Ratnesh-181998/Resume-and-Social-Profiles",
     "language": "\u2014",
@@ -99,12 +180,21 @@
     "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34155,
+    "updated_at": "2026-08-24T09:14:37Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-24T09:30:02Z",
+    "updated_at": "2026-08-24T09:45:00Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -144,33 +234,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-24T09:02:28Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "StrikeDB is a unified database architecture for the AI era, where relational data, key-value, vectors, time-series, pub/",
-    "id": "Mr-DS-ML-85/StrikeDB",
-    "language": "Rust",
-    "name": "Mr-DS-ML-85/StrikeDB",
-    "stars": 0,
-    "updated_at": "2026-08-24T09:01:33Z",
-    "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1638,
-    "updated_at": "2026-08-24T08:54:26Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
     "id": "Cognipeer/console",
     "language": "TypeScript",
@@ -194,26 +257,8 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-24T08:50:05Z",
+    "updated_at": "2026-08-24T09:44:37Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 69,
-    "updated_at": "2026-08-24T08:48:50Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34154,
-    "updated_at": "2026-08-24T09:14:37Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -230,7 +275,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7065,
-    "updated_at": "2026-08-24T08:47:13Z",
+    "updated_at": "2026-08-24T09:40:51Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45765,
-    "updated_at": "2026-08-24T08:43:22Z",
+    "updated_at": "2026-08-24T09:39:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -270,15 +315,6 @@
     "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-24T08:34:00Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
     "id": "tamnd/kura",
     "language": "Rust",
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30217,
-    "updated_at": "2026-08-24T09:21:55Z",
+    "updated_at": "2026-08-24T09:40:32Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12939,
-    "updated_at": "2026-08-24T08:07:39Z",
+    "updated_at": "2026-08-24T09:44:01Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -338,7 +374,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-24T09:14:46Z",
+    "updated_at": "2026-08-24T09:35:59Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -351,21 +387,12 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
-    "id": "meriamsamy/Sterling-Vance-Bank-B",
-    "language": "Python",
-    "name": "meriamsamy/Sterling-Vance-Bank-B",
-    "stars": 0,
-    "updated_at": "2026-08-24T07:56:54Z",
-    "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11254,
-    "updated_at": "2026-08-24T09:16:34Z",
+    "updated_at": "2026-08-24T09:44:22Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16749,
-    "updated_at": "2026-08-24T09:22:04Z",
+    "updated_at": "2026-08-24T09:30:41Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Multi-user MCP server for semantic search over personal document collections. Built with FastMCP, FastAPI, Qdrant, and R",
-    "id": "suraiba-idrees/mcp-semantic-knowledge-base",
-    "language": "JavaScript",
-    "name": "suraiba-idrees/mcp-semantic-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-08-24T07:33:18Z",
-    "url": "https://github.com/suraiba-idrees/mcp-semantic-knowledge-base"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1345,
-    "updated_at": "2026-08-24T07:31:43Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "A full-stack, Keep-style note-taking SaaS with AI baked in \u2014 Gemini-powered title generation, on-demand summaries, and a",
-    "id": "MeetVora79/notevault",
-    "language": "JavaScript",
-    "name": "MeetVora79/notevault",
-    "stars": 1,
-    "updated_at": "2026-08-24T07:29:38Z",
-    "url": "https://github.com/MeetVora79/notevault"
   }
 ]
