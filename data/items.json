@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T14:15:26Z",
+    "updated_at": "2026-08-24T14:30:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 425,
+    "updated_at": "2026-08-24T14:20:58Z",
+    "url": "https://github.com/redis/redis-vl-python"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -14,8 +23,62 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1641,
-    "updated_at": "2026-08-24T14:10:30Z",
+    "updated_at": "2026-08-24T14:20:51Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Sift \u2014 enterprise, self-hostable, multi-provider RAG search engine over web content. Pluggable LLMs/embeddings, vector s",
+    "id": "pal404error/sift",
+    "language": "Python",
+    "name": "pal404error/sift",
+    "stars": 1,
+    "updated_at": "2026-08-24T14:20:41Z",
+    "url": "https://github.com/pal404error/sift"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16749,
+    "updated_at": "2026-08-24T14:18:38Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-24T14:15:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T14:15:40Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30223,
+    "updated_at": "2026-08-24T14:13:04Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Multi-user MCP server for semantic search over personal document collections. Built with FastMCP, FastAPI, Qdrant, and R",
+    "id": "suraiba-idrees/mcp-semantic-knowledge-base",
+    "language": "JavaScript",
+    "name": "suraiba-idrees/mcp-semantic-knowledge-base",
+    "stars": 0,
+    "updated_at": "2026-08-24T14:27:03Z",
+    "url": "https://github.com/suraiba-idrees/mcp-semantic-knowledge-base"
   },
   {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
@@ -23,7 +86,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 53,
-    "updated_at": "2026-08-24T14:09:24Z",
+    "updated_at": "2026-08-24T14:24:29Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -59,7 +122,7 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 76,
-    "updated_at": "2026-08-24T14:06:09Z",
+    "updated_at": "2026-08-24T14:24:58Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
@@ -90,24 +153,6 @@
     "url": "https://github.com/irodori-table/irodori-extension-pinecone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T14:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30222,
-    "updated_at": "2026-08-24T14:13:04Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Irodori Table Milvus connector extension",
     "id": "irodori-table/irodori-extension-milvus",
     "language": "Rust",
@@ -117,21 +162,12 @@
     "url": "https://github.com/irodori-table/irodori-extension-milvus"
   },
   {
-    "description": "Multi-user MCP server for semantic search over personal document collections. Built with FastMCP, FastAPI, Qdrant, and R",
-    "id": "suraiba-idrees/mcp-semantic-knowledge-base",
-    "language": "JavaScript",
-    "name": "suraiba-idrees/mcp-semantic-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:11:59Z",
-    "url": "https://github.com/suraiba-idrees/mcp-semantic-knowledge-base"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8133,
-    "updated_at": "2026-08-24T14:08:40Z",
+    "updated_at": "2026-08-24T14:27:02Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -189,21 +225,12 @@
     "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-24T13:46:54Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 2,
-    "updated_at": "2026-08-24T13:40:28Z",
+    "updated_at": "2026-08-24T14:29:52Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4425,
-    "updated_at": "2026-08-24T13:59:02Z",
+    "updated_at": "2026-08-24T14:26:06Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 88,
-    "updated_at": "2026-08-24T13:31:34Z",
+    "updated_at": "2026-08-24T14:18:15Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 2619,
-    "updated_at": "2026-08-24T14:04:28Z",
+    "updated_at": "2026-08-24T14:20:41Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -392,7 +419,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-24T13:37:11Z",
+    "updated_at": "2026-08-24T14:26:01Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 5,
-    "updated_at": "2026-08-24T12:43:03Z",
+    "updated_at": "2026-08-24T14:16:55Z",
     "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T12:39:46Z",
     "url": "https://github.com/allup2d8/trends"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6217,
-    "updated_at": "2026-08-24T14:14:36Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-08-24T12:32:11Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
-    "id": "tuned-org-uk/arrowspace-rs",
-    "language": "Rust",
-    "name": "tuned-org-uk/arrowspace-rs",
-    "stars": 42,
-    "updated_at": "2026-08-24T12:31:17Z",
-    "url": "https://github.com/tuned-org-uk/arrowspace-rs"
   }
 ]
