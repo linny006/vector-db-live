@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-24 01:12 UTC
+> ⏰ Last updated: 2026-08-24 01:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,29 +42,29 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-24 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 2 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-24 |  |
-| 3 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-08-24 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 4 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1622 | Rust | 2026-08-24 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-24 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-24 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 7 | [NasitSony/SmartSearch](https://github.com/NasitSony/SmartSearch) | 0 | Java | 2026-08-24 | Production-style semantic search and RAG backend built as a distributed system.  Features async ingestion (Kafka), embed |
-| 8 | [EyaAzzabi/scoutable](https://github.com/EyaAzzabi/scoutable) | 0 | — | 2026-08-24 | AI decision-support system for football recruitment: player-DNA vector embeddings in pgvector (HNSW), an XGBoost fair-va |
-| 9 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 8 | Rust | 2026-08-24 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
-| 10 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 233 | Rust | 2026-08-24 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 11 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-24 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 12 | [mostafanasr300/Eligibility_emails](https://github.com/mostafanasr300/Eligibility_emails) | 0 | HTML | 2026-08-24 | Stop guessing what to learn. This AI orchestrates LLMs, Vector Databases, and Knowledge Graphs to dissect software engin |
-| 13 | [suraiba-idrees/mcp-semantic-knowledge-base](https://github.com/suraiba-idrees/mcp-semantic-knowledge-base) | 0 | JavaScript | 2026-08-24 | Multi-user MCP server for semantic search over personal document collections. Built with FastMCP, FastAPI, Qdrant, and R |
-| 14 | [LuisinTheLegend/ConciergeGraph](https://github.com/LuisinTheLegend/ConciergeGraph) | 1 | Python | 2026-08-24 | Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP. |
-| 15 | [r-xue/ragdoll](https://github.com/r-xue/ragdoll) | 0 | Python | 2026-08-24 | Retrieval-Augmented Generation Driven by Offline Local LLMs |
-| 16 | [replikativ/proximum](https://github.com/replikativ/proximum) | 30 | Clojure | 2026-08-24 | Versioned, fast and scalable nearest neighbor search. |
-| 17 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 121 | MDX | 2026-08-24 | The documentation for SurrealDB, powered by Astro |
-| 18 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2260 | JavaScript | 2026-08-24 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 19 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-24 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 20 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9181 | Rust | 2026-08-24 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 21 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 2 | Go | 2026-08-23 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
-| 22 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 52 | Rust | 2026-08-23 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
-| 23 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-08-23 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-24 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-08-24 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-24 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [NasitSony/SmartSearch](https://github.com/NasitSony/SmartSearch) | 0 | Java | 2026-08-24 | Production-style semantic search and RAG backend built as a distributed system.  Features async ingestion (Kafka), embed |
+| 5 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-24 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 6 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-24 |  |
+| 7 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-08-24 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 8 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1622 | Rust | 2026-08-24 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 9 | [EyaAzzabi/scoutable](https://github.com/EyaAzzabi/scoutable) | 0 | — | 2026-08-24 | AI decision-support system for football recruitment: player-DNA vector embeddings in pgvector (HNSW), an XGBoost fair-va |
+| 10 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 8 | Rust | 2026-08-24 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
+| 11 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 233 | Rust | 2026-08-24 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-24 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 13 | [mostafanasr300/Eligibility_emails](https://github.com/mostafanasr300/Eligibility_emails) | 0 | HTML | 2026-08-24 | Stop guessing what to learn. This AI orchestrates LLMs, Vector Databases, and Knowledge Graphs to dissect software engin |
+| 14 | [suraiba-idrees/mcp-semantic-knowledge-base](https://github.com/suraiba-idrees/mcp-semantic-knowledge-base) | 0 | JavaScript | 2026-08-24 | Multi-user MCP server for semantic search over personal document collections. Built with FastMCP, FastAPI, Qdrant, and R |
+| 15 | [LuisinTheLegend/ConciergeGraph](https://github.com/LuisinTheLegend/ConciergeGraph) | 1 | Python | 2026-08-24 | Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP. |
+| 16 | [r-xue/ragdoll](https://github.com/r-xue/ragdoll) | 0 | Python | 2026-08-24 | Retrieval-Augmented Generation Driven by Offline Local LLMs |
+| 17 | [replikativ/proximum](https://github.com/replikativ/proximum) | 30 | Clojure | 2026-08-24 | Versioned, fast and scalable nearest neighbor search. |
+| 18 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 121 | MDX | 2026-08-24 | The documentation for SurrealDB, powered by Astro |
+| 19 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2260 | JavaScript | 2026-08-24 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 20 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-24 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 21 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9181 | Rust | 2026-08-24 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 22 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 2 | Go | 2026-08-23 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
+| 23 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 52 | Rust | 2026-08-23 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
 | 24 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-08-23 | Identity and Authorization Service with Vector and AI Integration |
 | 25 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 6 | Python | 2026-08-23 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
 | 26 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-08-23 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
