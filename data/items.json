@@ -1,12 +1,93 @@
 [
   {
+    "description": "Mnemosyne \u2014 AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search,",
+    "id": "M4F-S/mnemosyne",
+    "language": "Python",
+    "name": "M4F-S/mnemosyne",
+    "stars": 17,
+    "updated_at": "2026-08-24T11:54:39Z",
+    "url": "https://github.com/M4F-S/mnemosyne"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 3,
+    "updated_at": "2026-08-24T11:54:18Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T11:53:11Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 94,
+    "updated_at": "2026-08-24T11:52:25Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
     "description": "A simple tool to manage any vector database",
     "id": "aqora-io/vectorctl",
     "language": "Rust",
     "name": "aqora-io/vectorctl",
     "stars": 0,
-    "updated_at": "2026-08-24T11:42:59Z",
+    "updated_at": "2026-08-24T11:52:17Z",
     "url": "https://github.com/aqora-io/vectorctl"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-08-24T11:52:02Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5845,
+    "updated_at": "2026-08-24T11:46:29Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-08-24T11:45:34Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T11:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1640,
+    "updated_at": "2026-08-24T11:45:14Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -54,15 +135,6 @@
     "url": "https://github.com/alibaba/zvec"
   },
   {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5844,
-    "updated_at": "2026-08-24T11:42:41Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -79,24 +151,6 @@
     "stars": 9,
     "updated_at": "2026-08-24T11:32:25Z",
     "url": "https://github.com/khang3004/NeuralSymbolic_OmniIPS_Knowledge_Representation_Playground"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T11:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T11:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -158,17 +212,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-24T11:25:01Z",
+    "updated_at": "2026-08-24T11:49:44Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Mnemosyne \u2014 AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search,",
-    "id": "M4F-S/mnemosyne",
-    "language": "Python",
-    "name": "M4F-S/mnemosyne",
-    "stars": 17,
-    "updated_at": "2026-08-24T11:20:25Z",
-    "url": "https://github.com/M4F-S/mnemosyne"
   },
   {
     "description": "The AI search platform",
@@ -221,17 +266,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30221,
-    "updated_at": "2026-08-24T11:38:23Z",
+    "updated_at": "2026-08-24T11:45:53Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1640,
-    "updated_at": "2026-08-24T11:45:14Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Postgres MCP Server",
@@ -274,7 +310,7 @@
     "id": "batuhanzorbeyzengin/rebasis",
     "language": "Python",
     "name": "batuhanzorbeyzengin/rebasis",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-08-24T10:54:35Z",
     "url": "https://github.com/batuhanzorbeyzengin/rebasis"
   },
@@ -302,7 +338,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-24T11:42:53Z",
+    "updated_at": "2026-08-24T11:53:24Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1099,
-    "updated_at": "2026-08-24T10:42:39Z",
+    "updated_at": "2026-08-24T11:54:33Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -401,7 +437,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8131,
-    "updated_at": "2026-08-24T10:53:56Z",
+    "updated_at": "2026-08-24T11:46:57Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-24T10:10:20Z",
     "url": "https://github.com/diegoglozano/revector"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2616,
-    "updated_at": "2026-08-24T10:15:29Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34157,
-    "updated_at": "2026-08-24T11:14:54Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Agentic SRE Console designed to slash MTTR using CockroachDB Vector Search for persistent incident memory and real-time ",
-    "id": "ilefbenamor/-LTM-Ops",
-    "language": "Python",
-    "name": "ilefbenamor/-LTM-Ops",
-    "stars": 0,
-    "updated_at": "2026-08-24T09:57:26Z",
-    "url": "https://github.com/ilefbenamor/-LTM-Ops"
-  },
-  {
-    "description": "Context-aware AI assistant with persistent semantic memory, multi-session chat management, and real-time web retrieval b",
-    "id": "pratiksingh1296/context-aware-ai-assistant",
-    "language": "Python",
-    "name": "pratiksingh1296/context-aware-ai-assistant",
-    "stars": 1,
-    "updated_at": "2026-08-24T09:55:25Z",
-    "url": "https://github.com/pratiksingh1296/context-aware-ai-assistant"
   }
 ]
