@@ -1,5 +1,59 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-24T02:14:52Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Mnemosyne \u2014 AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search,",
+    "id": "M4F-S/mnemosyne",
+    "language": "Python",
+    "name": "M4F-S/mnemosyne",
+    "stars": 8,
+    "updated_at": "2026-08-24T02:12:14Z",
+    "url": "https://github.com/M4F-S/mnemosyne"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45755,
+    "updated_at": "2026-08-24T02:14:10Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1624,
+    "updated_at": "2026-08-24T02:09:10Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T02:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T02:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
     "id": "srimon12/qql-rs",
     "language": "Rust",
@@ -18,15 +72,6 @@
     "url": "https://github.com/codecoradev/uteke"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45755,
-    "updated_at": "2026-08-24T01:49:21Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Multi-user MCP server for semantic search over personal document collections. Built with FastMCP, FastAPI, Qdrant, and R",
     "id": "suraiba-idrees/mcp-semantic-knowledge-base",
     "language": "JavaScript",
@@ -34,33 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T01:48:45Z",
     "url": "https://github.com/suraiba-idrees/mcp-semantic-knowledge-base"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T02:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1623,
-    "updated_at": "2026-08-24T01:49:07Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T01:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
@@ -194,7 +212,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9182,
-    "updated_at": "2026-08-24T01:32:33Z",
+    "updated_at": "2026-08-24T02:11:58Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -232,15 +250,6 @@
     "stars": 30,
     "updated_at": "2026-08-24T00:50:29Z",
     "url": "https://github.com/replikativ/proximum"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-24T00:33:36Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
@@ -383,7 +392,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 93,
-    "updated_at": "2026-08-24T01:58:41Z",
+    "updated_at": "2026-08-24T02:13:31Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T21:09:27Z",
     "url": "https://github.com/josephkamau32/devintel"
-  },
-  {
-    "description": "Enterprise Hybrid GraphRAG platform using PySpark, Neo4j, LangGraph, Chroma, FastAPI and Streamlit for graph + vector re",
-    "id": "gireeshvuyyuru501-design/enterprise-spark-neo4j-langgraph-rag",
-    "language": "Python",
-    "name": "gireeshvuyyuru501-design/enterprise-spark-neo4j-langgraph-rag",
-    "stars": 0,
-    "updated_at": "2026-08-23T21:07:25Z",
-    "url": "https://github.com/gireeshvuyyuru501-design/enterprise-spark-neo4j-langgraph-rag"
   }
 ]
