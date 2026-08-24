@@ -1,12 +1,39 @@
 [
   {
-    "description": "Streamlit app for natural-language Q&A search over your own documents, powered by Pinecone's integrated inference API - ",
-    "id": "Chowdri-Furkhan07/pinecone-semantic-search",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "Chowdri-Furkhan07/pinecone-semantic-search",
-    "stars": 1,
-    "updated_at": "2026-08-24T03:31:12Z",
-    "url": "https://github.com/Chowdri-Furkhan07/pinecone-semantic-search"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T03:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9182,
+    "updated_at": "2026-08-24T03:42:59Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-24T03:42:28Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-24T03:38:44Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +41,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-24T03:30:24Z",
+    "updated_at": "2026-08-24T03:38:25Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Streamlit app for natural-language Q&A search over your own documents, powered by Pinecone's integrated inference API - ",
+    "id": "Chowdri-Furkhan07/pinecone-semantic-search",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T03:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "Chowdri-Furkhan07/pinecone-semantic-search",
+    "stars": 1,
+    "updated_at": "2026-08-24T03:31:12Z",
+    "url": "https://github.com/Chowdri-Furkhan07/pinecone-semantic-search"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -76,7 +103,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1627,
+    "stars": 1628,
     "updated_at": "2026-08-24T03:20:02Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -180,6 +207,15 @@
     "url": "https://github.com/dangkhoasdc/awesome-vector-database"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45758,
+    "updated_at": "2026-08-24T03:41:23Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
     "id": "zilliztech/knowhere",
     "language": "C++",
@@ -198,15 +234,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9182,
-    "updated_at": "2026-08-24T03:32:31Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -214,24 +241,6 @@
     "stars": 3,
     "updated_at": "2026-08-24T02:39:16Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-24T02:38:15Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45757,
-    "updated_at": "2026-08-24T02:49:22Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI decision-support system for football recruitment: player-DNA vector embeddings in pgvector (HNSW), an XGBoost fair-va",
@@ -250,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-08-24T02:17:06Z",
     "url": "https://github.com/djleamen/doc-reader"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-24T02:14:52Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
@@ -311,7 +311,7 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 121,
-    "updated_at": "2026-08-24T01:47:11Z",
+    "updated_at": "2026-08-24T03:45:05Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
