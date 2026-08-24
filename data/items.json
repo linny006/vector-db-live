@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T00:15:19Z",
+    "updated_at": "2026-08-24T00:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1620,
+    "updated_at": "2026-08-24T00:28:05Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI decision-support system for football recruitment: player-DNA vector embeddings in pgvector (HNSW), an XGBoost fair-va",
@@ -14,8 +23,17 @@
     "language": "\u2014",
     "name": "EyaAzzabi/scoutable",
     "stars": 0,
-    "updated_at": "2026-08-24T00:12:38Z",
+    "updated_at": "2026-08-24T00:24:15Z",
     "url": "https://github.com/EyaAzzabi/scoutable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T00:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -27,15 +45,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T00:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -45,21 +54,12 @@
     "url": "https://github.com/frogdb/frogdb"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1620,
-    "updated_at": "2026-08-23T23:57:30Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9181,
-    "updated_at": "2026-08-24T00:14:47Z",
+    "updated_at": "2026-08-24T00:25:34Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -140,7 +140,7 @@
     "language": "Python",
     "name": "meriamsamy/Sterling-Vance-Bank-B",
     "stars": 0,
-    "updated_at": "2026-08-23T23:35:07Z",
+    "updated_at": "2026-08-24T00:24:09Z",
     "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
   },
   {
@@ -266,7 +266,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 93,
-    "updated_at": "2026-08-24T00:04:15Z",
+    "updated_at": "2026-08-24T00:30:00Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
