@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-24 02:30 UTC
+> ⏰ Last updated: 2026-08-24 02:37 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-24 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-24 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 3 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-24 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 4 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1624 | Rust | 2026-08-24 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 1 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45756 | Go | 2026-08-24 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 2 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-24 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 3 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1624 | Rust | 2026-08-24 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-24 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
 | 5 | [M4F-S/mnemosyne](https://github.com/M4F-S/mnemosyne) | 8 | Python | 2026-08-24 | Mnemosyne — AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search, |
-| 6 | [EyaAzzabi/scoutable](https://github.com/EyaAzzabi/scoutable) | 1 | — | 2026-08-24 | AI decision-support system for football recruitment: player-DNA vector embeddings in pgvector (HNSW), an XGBoost fair-va |
-| 7 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2260 | JavaScript | 2026-08-24 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 8 | [integrallis/vectors](https://github.com/integrallis/vectors) | 15 | Java | 2026-08-24 | The Ultimate Vectors Library for Java |
-| 9 | [djleamen/doc-reader](https://github.com/djleamen/doc-reader) | 3 | Python | 2026-08-24 | Large document Q&A agent using RAG |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-24 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-24 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 12 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45756 | Go | 2026-08-24 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-24 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-24 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 8 | [EyaAzzabi/scoutable](https://github.com/EyaAzzabi/scoutable) | 1 | — | 2026-08-24 | AI decision-support system for football recruitment: player-DNA vector embeddings in pgvector (HNSW), an XGBoost fair-va |
+| 9 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2260 | JavaScript | 2026-08-24 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 10 | [integrallis/vectors](https://github.com/integrallis/vectors) | 15 | Java | 2026-08-24 | The Ultimate Vectors Library for Java |
+| 11 | [djleamen/doc-reader](https://github.com/djleamen/doc-reader) | 3 | Python | 2026-08-24 | Large document Q&A agent using RAG |
+| 12 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-24 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 13 | [srimon12/qql-rs](https://github.com/srimon12/qql-rs) | 3 | Rust | 2026-08-24 | High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de |
 | 14 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 233 | Rust | 2026-08-24 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
 | 15 | [suraiba-idrees/mcp-semantic-knowledge-base](https://github.com/suraiba-idrees/mcp-semantic-knowledge-base) | 0 | JavaScript | 2026-08-24 | Multi-user MCP server for semantic search over personal document collections. Built with FastMCP, FastAPI, Qdrant, and R |
@@ -73,7 +73,7 @@ expired items removed — so you can rely on what you see being current.
 | 29 | [LuisinTheLegend/ConciergeGraph](https://github.com/LuisinTheLegend/ConciergeGraph) | 1 | Python | 2026-08-24 | Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP. |
 | 30 | [replikativ/proximum](https://github.com/replikativ/proximum) | 30 | Clojure | 2026-08-24 | Versioned, fast and scalable nearest neighbor search. |
 | 31 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 2 | Go | 2026-08-23 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
-| 32 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 52 | Rust | 2026-08-23 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
+| 32 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 52 | Rust | 2026-08-24 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
 | 33 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-08-23 | Identity and Authorization Service with Vector and AI Integration |
 | 34 | [SuperInstance/SuperInstance](https://github.com/SuperInstance/SuperInstance) | 6 | Python | 2026-08-23 | The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA |
 | 35 | [CodeAbra/iai-personal-memory-engine](https://github.com/CodeAbra/iai-personal-memory-engine) | 795 | Python | 2026-08-23 | A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time |

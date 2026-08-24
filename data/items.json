@@ -1,5 +1,50 @@
 [
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45756,
+    "updated_at": "2026-08-24T02:33:21Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-24T02:33:06Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1624,
+    "updated_at": "2026-08-24T02:34:25Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T02:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Mnemosyne \u2014 AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search,",
+    "id": "M4F-S/mnemosyne",
+    "language": "Python",
+    "name": "M4F-S/mnemosyne",
+    "stars": 8,
+    "updated_at": "2026-08-24T02:30:29Z",
+    "url": "https://github.com/M4F-S/mnemosyne"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,33 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T02:29:31Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-24T02:29:02Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1624,
-    "updated_at": "2026-08-24T02:28:27Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Mnemosyne \u2014 AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search,",
-    "id": "M4F-S/mnemosyne",
-    "language": "Python",
-    "name": "M4F-S/mnemosyne",
-    "stars": 8,
-    "updated_at": "2026-08-24T02:26:31Z",
-    "url": "https://github.com/M4F-S/mnemosyne"
   },
   {
     "description": "AI decision-support system for football recruitment: player-DNA vector embeddings in pgvector (HNSW), an XGBoost fair-va",
@@ -81,15 +99,6 @@
     "url": "https://github.com/djleamen/doc-reader"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T02:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -97,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T02:14:52Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45756,
-    "updated_at": "2026-08-24T02:14:10Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
@@ -284,7 +284,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 52,
-    "updated_at": "2026-08-23T23:46:48Z",
+    "updated_at": "2026-08-24T02:35:11Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
