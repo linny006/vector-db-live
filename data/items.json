@@ -1,12 +1,102 @@
 [
   {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-24T09:28:34Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-24T09:26:33Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 3,
+    "updated_at": "2026-08-24T09:26:22Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "\u57fa\u4e8e React\u3001FastAPI \u4e0e RAG \u7684\u81ea\u52a8\u5316\u8bfe\u7a0b\u667a\u80fd\u5b66\u4e60\u5e73\u53f0\uff0c\u652f\u6301\u591a PDF \u77e5\u8bc6\u5e93\u3001\u591a\u8f6e\u95ee\u7b54\u3001\u6765\u6e90\u8ffd\u6eaf\u3001\u8bc4\u6d4b\u3001\u53d1\u5e03\u4e0e\u56de\u6eda\u3002",
+    "id": "ten10do/AutoCourse-RAG",
+    "language": "Python",
+    "name": "ten10do/AutoCourse-RAG",
+    "stars": 1,
+    "updated_at": "2026-08-24T09:28:47Z",
+    "url": "https://github.com/ten10do/AutoCourse-RAG"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-24T09:21:54Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 425,
+    "updated_at": "2026-08-24T09:20:39Z",
+    "url": "https://github.com/redis/redis-vl-python"
+  },
+  {
+    "description": "Context-aware AI assistant with persistent semantic memory, multi-session chat management, and real-time web retrieval b",
+    "id": "pratiksingh1296/context-aware-ai-assistant",
+    "language": "Python",
+    "name": "pratiksingh1296/context-aware-ai-assistant",
+    "stars": 1,
+    "updated_at": "2026-08-24T09:18:10Z",
+    "url": "https://github.com/pratiksingh1296/context-aware-ai-assistant"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-24T09:17:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T09:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T09:12:37Z",
+    "updated_at": "2026-08-24T09:15:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
+    "id": "Ratnesh-181998/Resume-and-Social-Profiles",
+    "language": "\u2014",
+    "name": "Ratnesh-181998/Resume-and-Social-Profiles",
+    "stars": 1,
+    "updated_at": "2026-08-24T09:15:12Z",
+    "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -14,7 +104,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-24T09:13:45Z",
+    "updated_at": "2026-08-24T09:30:02Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -45,15 +135,6 @@
     "url": "https://github.com/TanishqaModh/arc-ai-research-companion"
   },
   {
-    "description": "\u57fa\u4e8e React\u3001FastAPI \u4e0e RAG \u7684\u81ea\u52a8\u5316\u8bfe\u7a0b\u667a\u80fd\u5b66\u4e60\u5e73\u53f0\uff0c\u652f\u6301\u591a PDF \u77e5\u8bc6\u5e93\u3001\u591a\u8f6e\u95ee\u7b54\u3001\u6765\u6e90\u8ffd\u6eaf\u3001\u8bc4\u6d4b\u3001\u53d1\u5e03\u4e0e\u56de\u6eda\u3002",
-    "id": "ten10do/AutoCourse-RAG",
-    "language": "Python",
-    "name": "ten10do/AutoCourse-RAG",
-    "stars": 1,
-    "updated_at": "2026-08-24T09:12:56Z",
-    "url": "https://github.com/ten10do/AutoCourse-RAG"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -61,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T09:05:28Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T09:04:10Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T09:01:33Z",
     "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
-  },
-  {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 3,
-    "updated_at": "2026-08-24T08:57:45Z",
-    "url": "https://github.com/tradik/mddb"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -135,15 +198,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 425,
-    "updated_at": "2026-08-24T08:49:42Z",
-    "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -178,15 +232,6 @@
     "stars": 7065,
     "updated_at": "2026-08-24T08:47:13Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-24T08:46:19Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30217,
-    "updated_at": "2026-08-24T09:04:43Z",
+    "updated_at": "2026-08-24T09:21:55Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -288,15 +333,6 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-24T08:16:27Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -329,7 +365,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11254,
-    "updated_at": "2026-08-24T08:50:22Z",
+    "updated_at": "2026-08-24T09:16:34Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16749,
-    "updated_at": "2026-08-24T09:12:12Z",
+    "updated_at": "2026-08-24T09:22:04Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-24T07:29:38Z",
     "url": "https://github.com/MeetVora79/notevault"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-08-24T07:21:59Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
-  },
-  {
-    "description": "Retrieval-Augmented Generation Driven by Offline Local LLMs",
-    "id": "r-xue/ragdoll",
-    "language": "Python",
-    "name": "r-xue/ragdoll",
-    "stars": 0,
-    "updated_at": "2026-08-24T07:19:55Z",
-    "url": "https://github.com/r-xue/ragdoll"
-  },
-  {
-    "description": "Structured multimodal extraction and pedagogical chunking pipeline for Arabic mathematics textbooks, comparing VLM-based",
-    "id": "Abdullah-Nawaz-Git/pedagogical-chunking-rag",
-    "language": "Python",
-    "name": "Abdullah-Nawaz-Git/pedagogical-chunking-rag",
-    "stars": 1,
-    "updated_at": "2026-08-24T07:27:53Z",
-    "url": "https://github.com/Abdullah-Nawaz-Git/pedagogical-chunking-rag"
-  },
-  {
-    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
-    "id": "manav-2812/synapse",
-    "language": "TypeScript",
-    "name": "manav-2812/synapse",
-    "stars": 1,
-    "updated_at": "2026-08-24T07:09:42Z",
-    "url": "https://github.com/manav-2812/synapse"
   }
 ]
