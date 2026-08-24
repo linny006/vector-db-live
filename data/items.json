@@ -1,5 +1,59 @@
 [
   {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-24T02:41:33Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9182,
+    "updated_at": "2026-08-24T02:40:50Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-24T02:39:16Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-24T02:38:15Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1625,
+    "updated_at": "2026-08-24T02:37:44Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T02:37:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -18,24 +72,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1624,
-    "updated_at": "2026-08-24T02:34:25Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T02:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Mnemosyne \u2014 AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search,",
     "id": "M4F-S/mnemosyne",
     "language": "Python",
@@ -50,7 +86,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T02:30:23Z",
+    "updated_at": "2026-08-24T02:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -86,7 +122,7 @@
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 15,
-    "updated_at": "2026-08-24T02:20:39Z",
+    "updated_at": "2026-08-24T02:41:21Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
@@ -180,15 +216,6 @@
     "url": "https://github.com/r-xue/ragdoll"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-24T01:14:04Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "Production-style semantic search and RAG backend built as a distributed system.  Features async ingestion (Kafka), embed",
     "id": "NasitSony/SmartSearch",
     "language": "Java",
@@ -214,24 +241,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T01:09:09Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-24T01:08:44Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9182,
-    "updated_at": "2026-08-24T02:11:58Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -329,7 +338,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-08-23T22:54:32Z",
+    "updated_at": "2026-08-24T02:38:13Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 64,
     "updated_at": "2026-08-23T21:26:22Z",
     "url": "https://github.com/verygoodplugins/mcp-automem"
-  },
-  {
-    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 790,
-    "updated_at": "2026-08-23T21:20:34Z",
-    "url": "https://github.com/christopherkarani/Wax"
   }
 ]
