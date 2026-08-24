@@ -1,12 +1,57 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T08:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6217,
+    "updated_at": "2026-08-24T08:25:52Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1637,
-    "updated_at": "2026-08-24T08:13:52Z",
+    "updated_at": "2026-08-24T08:21:20Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-24T08:16:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
+    "id": "superlinked/VectorHub",
+    "language": "Jupyter Notebook",
+    "name": "superlinked/VectorHub",
+    "stars": 529,
+    "updated_at": "2026-08-24T08:16:18Z",
+    "url": "https://github.com/superlinked/VectorHub"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T08:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -16,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T08:11:09Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T08:10:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -43,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T08:08:35Z",
     "url": "https://github.com/abhiraj-ku/RaGo"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6217,
-    "updated_at": "2026-08-24T08:08:05Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
@@ -77,7 +104,7 @@
     "language": "Rust",
     "name": "tamnd/kura",
     "stars": 0,
-    "updated_at": "2026-08-24T08:07:07Z",
+    "updated_at": "2026-08-24T08:26:39Z",
     "url": "https://github.com/tamnd/kura"
   },
   {
@@ -86,7 +113,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-24T08:07:05Z",
+    "updated_at": "2026-08-24T08:16:27Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -95,7 +122,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-24T08:06:39Z",
+    "updated_at": "2026-08-24T08:22:12Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T08:01:25Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T08:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
@@ -180,15 +198,6 @@
     "url": "https://github.com/anant-pw/qa-rag-pipeline"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-24T07:48:21Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30216,
-    "updated_at": "2026-08-24T08:12:48Z",
+    "updated_at": "2026-08-24T08:17:15Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16749,
-    "updated_at": "2026-08-24T08:04:46Z",
+    "updated_at": "2026-08-24T08:27:15Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4425,
-    "updated_at": "2026-08-24T08:03:11Z",
+    "updated_at": "2026-08-24T08:21:16Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9422,
-    "updated_at": "2026-08-24T07:59:54Z",
+    "updated_at": "2026-08-24T08:24:55Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T05:52:20Z",
     "url": "https://github.com/pal404error/sift"
-  },
-  {
-    "description": "Vectorless agent memory. HTML storage + grep retrieval. LongMemEval-S R@5 = 98.9%. No embedding, no vector DB.",
-    "id": "WAPA0012/grepmem",
-    "language": "JavaScript",
-    "name": "WAPA0012/grepmem",
-    "stars": 0,
-    "updated_at": "2026-08-24T05:47:24Z",
-    "url": "https://github.com/WAPA0012/grepmem"
   }
 ]
