@@ -1,5 +1,104 @@
 [
   {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 3,
+    "updated_at": "2026-08-24T19:42:28Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "Official client SDKs for Statelet \u2014 Python, Node.js, Go, Rust, Java, and C++",
+    "id": "stateletlab/statelet-sdk",
+    "language": "Python",
+    "name": "stateletlab/statelet-sdk",
+    "stars": 0,
+    "updated_at": "2026-08-24T19:39:55Z",
+    "url": "https://github.com/stateletlab/statelet-sdk"
+  },
+  {
+    "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
+    "id": "elchemista/vettore",
+    "language": "Elixir",
+    "name": "elchemista/vettore",
+    "stars": 23,
+    "updated_at": "2026-08-24T19:39:12Z",
+    "url": "https://github.com/elchemista/vettore"
+  },
+  {
+    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
+    "id": "kichikubeihei/CodeMemoryPrime",
+    "language": "Rust",
+    "name": "kichikubeihei/CodeMemoryPrime",
+    "stars": 0,
+    "updated_at": "2026-08-24T19:39:05Z",
+    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-24T19:39:41Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-24T19:36:54Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 88,
+    "updated_at": "2026-08-24T19:36:49Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6355,
+    "updated_at": "2026-08-24T19:34:15Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Syllabus-aware RAG study assistant for university students. Answers strictly from your own notes & PDFs, unit-scoped ret",
+    "id": "git-pratap-shrey/uniAI",
+    "language": "Python",
+    "name": "git-pratap-shrey/uniAI",
+    "stars": 1,
+    "updated_at": "2026-08-24T19:34:02Z",
+    "url": "https://github.com/git-pratap-shrey/uniAI"
+  },
+  {
+    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
+    "id": "carlwelchdesign/supraconscious-avatar-ai",
+    "language": "TypeScript",
+    "name": "carlwelchdesign/supraconscious-avatar-ai",
+    "stars": 0,
+    "updated_at": "2026-08-24T19:33:55Z",
+    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T19:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,13 +117,22 @@
     "url": "https://github.com/dubeyKartikay/sembed-engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T19:27:42Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-24T19:30:01Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-24T19:27:25Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Asistente IA con RAG (Retrieval Augmented Generation) usando Claude API, LangChain y pgvector \u2014 arquitectura lista para ",
@@ -36,12 +144,21 @@
     "url": "https://github.com/cdgutierrez6/rag-ai-assistant"
   },
   {
+    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
+    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "language": "Jupyter Notebook",
+    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "stars": 0,
+    "updated_at": "2026-08-24T19:26:28Z",
+    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
+  },
+  {
     "description": "",
     "id": "dkylewillis/vera",
     "language": "Python",
     "name": "dkylewillis/vera",
     "stars": 17,
-    "updated_at": "2026-08-24T19:25:59Z",
+    "updated_at": "2026-08-24T19:37:12Z",
     "url": "https://github.com/dkylewillis/vera"
   },
   {
@@ -50,7 +167,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1646,
-    "updated_at": "2026-08-24T19:25:19Z",
+    "updated_at": "2026-08-24T19:36:08Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -90,6 +207,15 @@
     "url": "https://github.com/MirAsad1/papermind-research-paper-rag"
   },
   {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6811,
+    "updated_at": "2026-08-24T19:20:51Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -104,7 +230,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1099,
-    "updated_at": "2026-08-24T19:16:17Z",
+    "updated_at": "2026-08-24T19:34:58Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -131,17 +257,8 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-24T19:13:05Z",
+    "updated_at": "2026-08-24T19:40:17Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
-    "id": "kichikubeihei/CodeMemoryPrime",
-    "language": "Rust",
-    "name": "kichikubeihei/CodeMemoryPrime",
-    "stars": 0,
-    "updated_at": "2026-08-24T19:06:45Z",
-    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
   },
   {
     "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
@@ -157,8 +274,8 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11261,
-    "updated_at": "2026-08-24T19:02:48Z",
+    "stars": 11262,
+    "updated_at": "2026-08-24T19:37:25Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -169,24 +286,6 @@
     "stars": 30,
     "updated_at": "2026-08-24T19:01:22Z",
     "url": "https://github.com/IronCoreLabs/ironcore-alloy"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-24T19:24:58Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-24T18:59:25Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
@@ -234,33 +333,6 @@
     "url": "https://github.com/EyaAzzabi/scoutable"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-24T19:30:01Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Syllabus-aware RAG study assistant for university students. Answers strictly from your own notes & PDFs, unit-scoped ret",
-    "id": "git-pratap-shrey/uniAI",
-    "language": "Python",
-    "name": "git-pratap-shrey/uniAI",
-    "stars": 1,
-    "updated_at": "2026-08-24T18:38:58Z",
-    "url": "https://github.com/git-pratap-shrey/uniAI"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-24T19:27:25Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -270,6 +342,15 @@
     "url": "https://github.com/frogdb/frogdb"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34164,
+    "updated_at": "2026-08-24T18:35:24Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
     "id": "Susanta2025-lab/estudio-polymind-llm-orchestration",
     "language": "Python",
@@ -277,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T18:23:41Z",
     "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6354,
-    "updated_at": "2026-08-24T18:55:21Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -376,77 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-24T17:57:33Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-08-24T17:56:53Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "AI-powered RAG assistant for Product Managers \u2014 ask natural-language questions across PRDs, meeting notes, and Jira expo",
-    "id": "SkJishan04/AI-PM-Assistant-using-RAG",
-    "language": "Python",
-    "name": "SkJishan04/AI-PM-Assistant-using-RAG",
-    "stars": 1,
-    "updated_at": "2026-08-24T17:51:34Z",
-    "url": "https://github.com/SkJishan04/AI-PM-Assistant-using-RAG"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 468,
-    "updated_at": "2026-08-24T17:41:14Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 53,
-    "updated_at": "2026-08-24T17:40:39Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "Curated, graph-aware retrieval substrate for human-AI teams \u2014 RAG + reranker + curation surface. The casebook to kos's p",
-    "id": "ArcavenAE/flyloft",
-    "language": "Rust",
-    "name": "ArcavenAE/flyloft",
-    "stars": 0,
-    "updated_at": "2026-08-24T17:38:47Z",
-    "url": "https://github.com/ArcavenAE/flyloft"
-  },
-  {
-    "description": "Production RAG system answering questions over 317 RBI regulatory circulars with cited, verifiable sources. Hybrid retri",
-    "id": "Yougal17/rbi-rag",
-    "language": "HTML",
-    "name": "Yougal17/rbi-rag",
-    "stars": 0,
-    "updated_at": "2026-08-24T17:28:54Z",
-    "url": "https://github.com/Yougal17/rbi-rag"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30226,
-    "updated_at": "2026-08-24T17:28:39Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45771,
-    "updated_at": "2026-08-24T17:25:21Z",
-    "url": "https://github.com/milvus-io/milvus"
   }
 ]
