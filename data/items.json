@@ -1,5 +1,86 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1642,
+    "updated_at": "2026-08-24T15:09:44Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T15:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9186,
+    "updated_at": "2026-08-24T15:13:46Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-24T15:04:21Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6217,
+    "updated_at": "2026-08-24T15:07:46Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
+    "id": "Navneet6050/arc-ai-project",
+    "language": "JavaScript",
+    "name": "Navneet6050/arc-ai-project",
+    "stars": 0,
+    "updated_at": "2026-08-24T15:03:58Z",
+    "url": "https://github.com/Navneet6050/arc-ai-project"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T15:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6354,
+    "updated_at": "2026-08-24T15:00:24Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-24T14:58:22Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
     "description": "Spatial AI memory: point your phone camera, ask out loud where you left something, get the exact frame. Gemini Live + Ch",
     "id": "zaidwhy/recall",
     "language": "Python",
@@ -14,8 +95,17 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 53,
-    "updated_at": "2026-08-24T14:54:35Z",
+    "updated_at": "2026-08-24T15:07:18Z",
     "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9422,
+    "updated_at": "2026-08-24T14:54:10Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -27,6 +117,15 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34158,
+    "updated_at": "2026-08-24T14:52:01Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "A simple tool to manage any vector database",
     "id": "aqora-io/vectorctl",
     "language": "Rust",
@@ -34,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-08-24T14:51:28Z",
     "url": "https://github.com/aqora-io/vectorctl"
+  },
+  {
+    "description": "A Retrieval-Augmented Generation (RAG) application for answering questions from AI research papers using ChromaDB, BGE e",
+    "id": "Mrittu/Research-Paper-Answer-Bot",
+    "language": "Jupyter Notebook",
+    "name": "Mrittu/Research-Paper-Answer-Bot",
+    "stars": 0,
+    "updated_at": "2026-08-24T14:49:40Z",
+    "url": "https://github.com/Mrittu/Research-Paper-Answer-Bot"
   },
   {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
@@ -50,26 +158,8 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-24T14:45:37Z",
+    "updated_at": "2026-08-24T15:14:41Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T14:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T15:00:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Sift \u2014 enterprise, self-hostable, multi-provider RAG search engine over web content. Pluggable LLMs/embeddings, vector s",
@@ -135,15 +225,6 @@
     "url": "https://github.com/suraiba-idrees/mcp-semantic-knowledge-base"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6217,
-    "updated_at": "2026-08-24T14:56:44Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -176,7 +257,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4425,
-    "updated_at": "2026-08-24T14:53:25Z",
+    "updated_at": "2026-08-24T15:05:36Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -194,7 +275,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-24T14:53:31Z",
+    "updated_at": "2026-08-24T15:12:54Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -205,15 +286,6 @@
     "stars": 425,
     "updated_at": "2026-08-24T14:50:38Z",
     "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1641,
-    "updated_at": "2026-08-24T14:43:46Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -239,7 +311,7 @@
     "language": "TypeScript",
     "name": "CaviraOSS/OpenMemory",
     "stars": 4465,
-    "updated_at": "2026-08-24T14:08:45Z",
+    "updated_at": "2026-08-24T15:06:15Z",
     "url": "https://github.com/CaviraOSS/OpenMemory"
   },
   {
@@ -259,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T14:06:44Z",
     "url": "https://github.com/apkirana/lancedb_viewer"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:58:22Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "Irodori Table Qdrant connector extension",
@@ -302,7 +365,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8133,
-    "updated_at": "2026-08-24T14:52:00Z",
+    "updated_at": "2026-08-24T15:05:19Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -329,7 +392,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1099,
-    "updated_at": "2026-08-24T13:57:17Z",
+    "updated_at": "2026-08-24T15:15:10Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -383,70 +446,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 88,
-    "updated_at": "2026-08-24T14:18:15Z",
+    "updated_at": "2026-08-24T15:08:01Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7065,
-    "updated_at": "2026-08-24T14:57:27Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 469,
-    "updated_at": "2026-08-24T13:18:38Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) system that transforms research papers into an intelligent Q&A assistant. Powered",
-    "id": "MirAsad1/papermind-research-paper-rag",
-    "language": "Python",
-    "name": "MirAsad1/papermind-research-paper-rag",
-    "stars": 0,
-    "updated_at": "2026-08-24T13:17:22Z",
-    "url": "https://github.com/MirAsad1/papermind-research-paper-rag"
-  },
-  {
-    "description": "RAG-powered PDF Chatbot built with Python, LangChain, Google Gemini API, VectorDB, and Streamlit.",
-    "id": "joaopedro-0/mars-chatbot",
-    "language": "Python",
-    "name": "joaopedro-0/mars-chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-24T13:16:52Z",
-    "url": "https://github.com/joaopedro-0/mars-chatbot"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2619,
-    "updated_at": "2026-08-24T14:20:41Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
-    "id": "AkashKundu114/COPPER",
-    "language": "TypeScript",
-    "name": "AkashKundu114/COPPER",
-    "stars": 1,
-    "updated_at": "2026-08-24T13:13:55Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "A unified python SDK supports OceanBase or OceanBase seekdb, more efficient and easy-to-use.",
-    "id": "oceanbase/pyseekdb",
-    "language": "Python",
-    "name": "oceanbase/pyseekdb",
-    "stars": 62,
-    "updated_at": "2026-08-24T13:07:48Z",
-    "url": "https://github.com/oceanbase/pyseekdb"
   }
 ]
