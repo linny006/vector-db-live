@@ -1,5 +1,50 @@
 [
   {
+    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
+    "id": "aws-samples/sample-genai-on-eks-starter-kit",
+    "language": "JavaScript",
+    "name": "aws-samples/sample-genai-on-eks-starter-kit",
+    "stars": 92,
+    "updated_at": "2026-08-24T08:40:59Z",
+    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6217,
+    "updated_at": "2026-08-24T08:45:14Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-24T08:34:00Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
+    "id": "tamnd/kura",
+    "language": "Rust",
+    "name": "tamnd/kura",
+    "stars": 0,
+    "updated_at": "2026-08-24T08:33:35Z",
+    "url": "https://github.com/tamnd/kura"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T08:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,21 +54,12 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6217,
-    "updated_at": "2026-08-24T08:25:52Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1637,
-    "updated_at": "2026-08-24T08:21:20Z",
+    "updated_at": "2026-08-24T08:44:11Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -45,13 +81,13 @@
     "url": "https://github.com/superlinked/VectorHub"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T08:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9184,
+    "updated_at": "2026-08-24T08:14:45Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -99,15 +135,6 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
-    "id": "tamnd/kura",
-    "language": "Rust",
-    "name": "tamnd/kura",
-    "stars": 0,
-    "updated_at": "2026-08-24T08:26:39Z",
-    "url": "https://github.com/tamnd/kura"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -122,7 +149,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-24T08:22:12Z",
+    "updated_at": "2026-08-24T08:35:08Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -131,7 +158,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1098,
-    "updated_at": "2026-08-24T08:09:45Z",
+    "updated_at": "2026-08-24T08:42:10Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -198,15 +225,6 @@
     "url": "https://github.com/anant-pw/qa-rag-pipeline"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-24T07:47:54Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30216,
-    "updated_at": "2026-08-24T08:17:15Z",
+    "updated_at": "2026-08-24T08:31:59Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16749,
-    "updated_at": "2026-08-24T08:27:15Z",
+    "updated_at": "2026-08-24T08:39:23Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4425,
-    "updated_at": "2026-08-24T08:21:16Z",
+    "updated_at": "2026-08-24T08:42:05Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9422,
-    "updated_at": "2026-08-24T08:24:55Z",
+    "updated_at": "2026-08-24T08:32:05Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -383,7 +401,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45764,
-    "updated_at": "2026-08-24T06:29:23Z",
+    "updated_at": "2026-08-24T08:43:22Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-24T05:54:06Z",
     "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "Privacy-preserving middleware for RAG and vector embeddings. Defends against embedding inversion attacks using different",
-    "id": "omdesai69/privrag-guard",
-    "language": "Python",
-    "name": "omdesai69/privrag-guard",
-    "stars": 0,
-    "updated_at": "2026-08-24T05:52:24Z",
-    "url": "https://github.com/omdesai69/privrag-guard"
-  },
-  {
-    "description": "Sift \u2014 enterprise, self-hostable, multi-provider RAG search engine over web content. Pluggable LLMs/embeddings, vector s",
-    "id": "pal404error/sift",
-    "language": "Python",
-    "name": "pal404error/sift",
-    "stars": 0,
-    "updated_at": "2026-08-24T05:52:20Z",
-    "url": "https://github.com/pal404error/sift"
   }
 ]
