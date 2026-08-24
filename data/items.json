@@ -1,12 +1,84 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1645,
+    "updated_at": "2026-08-24T17:56:57Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "",
+    "id": "dkylewillis/vera",
+    "language": "Python",
+    "name": "dkylewillis/vera",
+    "stars": 17,
+    "updated_at": "2026-08-24T17:56:27Z",
+    "url": "https://github.com/dkylewillis/vera"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6354,
+    "updated_at": "2026-08-24T17:55:08Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-24T17:54:12Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "AI-powered RAG assistant for Product Managers \u2014 ask natural-language questions across PRDs, meeting notes, and Jira expo",
+    "id": "SkJishan04/AI-PM-Assistant-using-RAG",
+    "language": "Python",
+    "name": "SkJishan04/AI-PM-Assistant-using-RAG",
+    "stars": 1,
+    "updated_at": "2026-08-24T17:51:34Z",
+    "url": "https://github.com/SkJishan04/AI-PM-Assistant-using-RAG"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T17:45:22Z",
+    "updated_at": "2026-08-24T17:49:08Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-24T17:45:29Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T17:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1099,
+    "updated_at": "2026-08-24T17:57:38Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -18,13 +90,22 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-24T17:43:41Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 469,
+    "updated_at": "2026-08-24T17:41:14Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 53,
+    "updated_at": "2026-08-24T17:40:39Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -32,7 +113,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-24T17:38:54Z",
+    "updated_at": "2026-08-24T17:57:36Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -45,21 +126,12 @@
     "url": "https://github.com/ArcavenAE/flyloft"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1644,
-    "updated_at": "2026-08-24T17:43:37Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4426,
-    "updated_at": "2026-08-24T17:38:07Z",
+    "updated_at": "2026-08-24T17:55:23Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -90,15 +162,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T17:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Production RAG system answering questions over 317 RBI regulatory circulars with cited, verifiable sources. Hybrid retri",
     "id": "Yougal17/rbi-rag",
     "language": "HTML",
@@ -121,7 +184,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30224,
+    "stars": 30225,
     "updated_at": "2026-08-24T17:28:39Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -131,17 +194,8 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-08-24T17:44:00Z",
+    "updated_at": "2026-08-24T17:56:53Z",
     "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1099,
-    "updated_at": "2026-08-24T17:44:56Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11259,
-    "updated_at": "2026-08-24T17:25:26Z",
+    "updated_at": "2026-08-24T17:55:07Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-24T17:40:34Z",
+    "updated_at": "2026-08-24T17:58:26Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -257,26 +311,8 @@
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-08-24T16:40:48Z",
+    "updated_at": "2026-08-24T17:57:33Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-24T16:37:08Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 53,
-    "updated_at": "2026-08-24T17:40:39Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -284,7 +320,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9186,
-    "updated_at": "2026-08-24T17:41:18Z",
+    "updated_at": "2026-08-24T17:52:06Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-24T15:43:42Z",
     "url": "https://github.com/ppossanzini/Jigen"
-  },
-  {
-    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
-    "id": "Navneet6050/arc-ai-project",
-    "language": "JavaScript",
-    "name": "Navneet6050/arc-ai-project",
-    "stars": 0,
-    "updated_at": "2026-08-24T15:39:51Z",
-    "url": "https://github.com/Navneet6050/arc-ai-project"
-  },
-  {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 9,
-    "updated_at": "2026-08-24T15:37:05Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
-    "id": "elchemista/vettore",
-    "language": "Elixir",
-    "name": "elchemista/vettore",
-    "stars": 23,
-    "updated_at": "2026-08-24T15:32:24Z",
-    "url": "https://github.com/elchemista/vettore"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 341,
-    "updated_at": "2026-08-24T15:30:49Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
