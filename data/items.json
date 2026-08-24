@@ -1,5 +1,41 @@
 [
   {
+    "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
+    "id": "BirchKwok/lynsedb",
+    "language": "Rust",
+    "name": "BirchKwok/lynsedb",
+    "stars": 40,
+    "updated_at": "2026-08-24T22:55:56Z",
+    "url": "https://github.com/BirchKwok/lynsedb"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-24T22:54:09Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "\ud83d\ude80 AI-powered portfolio with proactive visitor engagement \u2014 featuring Ozzy, an intelligent assistant with 12 tools, episo",
+    "id": "omerakben/omer-akben",
+    "language": "TypeScript",
+    "name": "omerakben/omer-akben",
+    "stars": 1,
+    "updated_at": "2026-08-24T22:50:49Z",
+    "url": "https://github.com/omerakben/omer-akben"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T22:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,21 +54,12 @@
     "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T22:43:50Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1100,
-    "updated_at": "2026-08-24T22:41:55Z",
+    "updated_at": "2026-08-24T22:58:25Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -54,13 +81,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Embedded-first vector database that grows into a self-hosted service and lightweight cluster.",
-    "id": "BirchKwok/lynsedb",
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
     "language": "Rust",
-    "name": "BirchKwok/lynsedb",
-    "stars": 40,
-    "updated_at": "2026-08-24T22:40:23Z",
-    "url": "https://github.com/BirchKwok/lynsedb"
+    "name": "xerj-org/xerj",
+    "stars": 1648,
+    "updated_at": "2026-08-24T22:40:43Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Agent-native memory infrastructure for AI coding assistants. Governed session capture, LLM compression, hybrid retrieval",
@@ -90,6 +117,15 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65152,
+    "updated_at": "2026-08-24T22:29:57Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -117,15 +153,6 @@
     "url": "https://github.com/git-pratap-shrey/uniAI"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-24T22:25:19Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -149,7 +176,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9188,
-    "updated_at": "2026-08-24T22:39:26Z",
+    "updated_at": "2026-08-24T22:57:28Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -193,18 +220,9 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6812,
+    "stars": 6813,
     "updated_at": "2026-08-24T21:44:47Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1647,
-    "updated_at": "2026-08-24T22:40:43Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -405,15 +423,6 @@
     "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65151,
-    "updated_at": "2026-08-24T22:29:57Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "The engine for Sembed written in C++. An approximate nearest neighbor engine for dense vector embeddings",
     "id": "dubeyKartikay/sembed-engine",
     "language": "C++",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T19:26:28Z",
     "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
-  },
-  {
-    "description": "",
-    "id": "dkylewillis/vera",
-    "language": "Python",
-    "name": "dkylewillis/vera",
-    "stars": 17,
-    "updated_at": "2026-08-24T19:37:12Z",
-    "url": "https://github.com/dkylewillis/vera"
   }
 ]
