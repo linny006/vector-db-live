@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T16:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Document-first sqlite3+faiss vector database",
+    "id": "thomas-villani/localvectordb",
+    "language": "Python",
+    "name": "thomas-villani/localvectordb",
+    "stars": 2,
+    "updated_at": "2026-08-24T16:21:52Z",
+    "url": "https://github.com/thomas-villani/localvectordb"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34162,
+    "updated_at": "2026-08-24T16:20:53Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7065,
+    "updated_at": "2026-08-24T16:19:12Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1643,
+    "updated_at": "2026-08-24T16:18:28Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 93,
+    "updated_at": "2026-08-24T16:24:36Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-24T16:15:46Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T16:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -7,6 +79,33 @@
     "stars": 11257,
     "updated_at": "2026-08-24T16:13:19Z",
     "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-24T16:11:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 379,
+    "updated_at": "2026-08-24T16:09:16Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 264,
+    "updated_at": "2026-08-24T16:07:21Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -18,13 +117,13 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Multi-tenant enterprise RAG knowledge workspace built from scratch with FastAPI, PostgreSQL, Qdrant, custom chunking, em",
+    "id": "batul02/enterprise-ai-workspace",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T16:03:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "batul02/enterprise-ai-workspace",
+    "stars": 0,
+    "updated_at": "2026-08-24T16:03:17Z",
+    "url": "https://github.com/batul02/enterprise-ai-workspace"
   },
   {
     "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
@@ -36,15 +135,6 @@
     "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
   },
   {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 93,
-    "updated_at": "2026-08-24T16:11:30Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -52,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-08-24T16:01:45Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T16:00:30Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -108,15 +189,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7065,
-    "updated_at": "2026-08-24T15:47:01Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
@@ -133,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T15:45:16Z",
     "url": "https://github.com/pal404error/sift"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-24T16:11:29Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Jigen DB is vector database written from scratch in c#",
@@ -176,7 +239,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 7,
-    "updated_at": "2026-08-24T15:39:45Z",
+    "updated_at": "2026-08-24T16:28:53Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -239,7 +302,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9186,
-    "updated_at": "2026-08-24T15:53:00Z",
+    "updated_at": "2026-08-24T16:26:41Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -257,17 +320,8 @@
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 2,
-    "updated_at": "2026-08-24T15:27:30Z",
+    "updated_at": "2026-08-24T16:21:37Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1642,
-    "updated_at": "2026-08-24T15:39:14Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -275,17 +329,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1099,
-    "updated_at": "2026-08-24T16:09:48Z",
+    "updated_at": "2026-08-24T16:29:53Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34160,
-    "updated_at": "2026-08-24T15:18:28Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -347,7 +392,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-24T16:12:16Z",
+    "updated_at": "2026-08-24T16:20:57Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -356,7 +401,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6354,
-    "updated_at": "2026-08-24T15:23:04Z",
+    "updated_at": "2026-08-24T16:29:20Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -383,7 +428,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 53,
-    "updated_at": "2026-08-24T16:00:53Z",
+    "updated_at": "2026-08-24T16:29:23Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 121,
     "updated_at": "2026-08-24T14:53:19Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "A simple tool to manage any vector database",
-    "id": "aqora-io/vectorctl",
-    "language": "Rust",
-    "name": "aqora-io/vectorctl",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:51:28Z",
-    "url": "https://github.com/aqora-io/vectorctl"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) application for answering questions from AI research papers using ChromaDB, BGE e",
-    "id": "Mrittu/Research-Paper-Answer-Bot",
-    "language": "Jupyter Notebook",
-    "name": "Mrittu/Research-Paper-Answer-Bot",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:49:40Z",
-    "url": "https://github.com/Mrittu/Research-Paper-Answer-Bot"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-24T14:39:30Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1345,
-    "updated_at": "2026-08-24T14:58:03Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Multi-user MCP server for semantic search over personal document collections. Built with FastMCP, FastAPI, Qdrant, and R",
-    "id": "suraiba-idrees/mcp-semantic-knowledge-base",
-    "language": "JavaScript",
-    "name": "suraiba-idrees/mcp-semantic-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:31:31Z",
-    "url": "https://github.com/suraiba-idrees/mcp-semantic-knowledge-base"
   }
 ]
