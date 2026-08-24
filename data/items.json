@@ -1,12 +1,75 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T10:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5844,
+    "updated_at": "2026-08-24T10:14:25Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Declarative, versioned schema & config migrations for Qdrant \u2014 Alembic for vector collections.",
+    "id": "diegoglozano/revector",
+    "language": "Rust",
+    "name": "diegoglozano/revector",
+    "stars": 3,
+    "updated_at": "2026-08-24T10:10:20Z",
+    "url": "https://github.com/diegoglozano/revector"
+  },
+  {
+    "description": "Multi-user MCP server for semantic search over personal document collections. Built with FastMCP, FastAPI, Qdrant, and R",
+    "id": "suraiba-idrees/mcp-semantic-knowledge-base",
+    "language": "JavaScript",
+    "name": "suraiba-idrees/mcp-semantic-knowledge-base",
+    "stars": 0,
+    "updated_at": "2026-08-24T10:09:01Z",
+    "url": "https://github.com/suraiba-idrees/mcp-semantic-knowledge-base"
+  },
+  {
+    "description": "Change the embedding model of your local RAG without deleting the index \u2014 and measure whether it is worth doing.",
+    "id": "batuhanzorbeyzengin/rebasis",
+    "language": "Python",
+    "name": "batuhanzorbeyzengin/rebasis",
+    "stars": 0,
+    "updated_at": "2026-08-24T10:08:28Z",
+    "url": "https://github.com/batuhanzorbeyzengin/rebasis"
+  },
+  {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 2616,
-    "updated_at": "2026-08-24T10:01:54Z",
+    "updated_at": "2026-08-24T10:06:22Z",
     "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "Personal AI portfolio assistant powered by RAG and MCP",
+    "id": "fjarmula/about-me",
+    "language": "Python",
+    "name": "fjarmula/about-me",
+    "stars": 1,
+    "updated_at": "2026-08-24T10:05:36Z",
+    "url": "https://github.com/fjarmula/about-me"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-24T10:03:48Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +77,8 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-24T10:00:31Z",
+    "updated_at": "2026-08-24T10:03:08Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T10:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Agentic SRE Console designed to slash MTTR using CockroachDB Vector Search for persistent incident memory and real-time ",
@@ -63,15 +117,6 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5844,
-    "updated_at": "2026-08-24T09:52:24Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
     "description": "The documentation for SurrealDB, powered by Astro",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
@@ -81,13 +126,13 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "Multi-user MCP server for semantic search over personal document collections. Built with FastMCP, FastAPI, Qdrant, and R",
-    "id": "suraiba-idrees/mcp-semantic-knowledge-base",
-    "language": "JavaScript",
-    "name": "suraiba-idrees/mcp-semantic-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-08-24T09:50:45Z",
-    "url": "https://github.com/suraiba-idrees/mcp-semantic-knowledge-base"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45766,
+    "updated_at": "2026-08-24T09:51:21Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -113,7 +158,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-24T09:46:27Z",
+    "updated_at": "2026-08-24T10:14:58Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30220,
-    "updated_at": "2026-08-24T09:46:23Z",
+    "updated_at": "2026-08-24T10:05:54Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11255,
-    "updated_at": "2026-08-24T09:44:22Z",
+    "updated_at": "2026-08-24T10:04:07Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -194,7 +239,7 @@
     "language": "Rust",
     "name": "Mr-DS-ML-85/StrikeDB",
     "stars": 0,
-    "updated_at": "2026-08-24T09:35:58Z",
+    "updated_at": "2026-08-24T10:15:04Z",
     "url": "https://github.com/Mr-DS-ML-85/StrikeDB"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 69,
-    "updated_at": "2026-08-24T09:35:41Z",
+    "updated_at": "2026-08-24T10:12:29Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-24T09:57:14Z",
+    "updated_at": "2026-08-24T10:13:23Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -331,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T09:07:39Z",
     "url": "https://github.com/TanishqaModh/arc-ai-research-companion"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-24T09:05:28Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
@@ -374,7 +410,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7065,
-    "updated_at": "2026-08-24T09:48:32Z",
+    "updated_at": "2026-08-24T10:13:13Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -385,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T08:45:05Z",
     "url": "https://github.com/Navneet6050/arc-ai-project"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45765,
-    "updated_at": "2026-08-24T09:51:21Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T08:33:35Z",
     "url": "https://github.com/tamnd/kura"
-  },
-  {
-    "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
-    "id": "superlinked/VectorHub",
-    "language": "Jupyter Notebook",
-    "name": "superlinked/VectorHub",
-    "stars": 529,
-    "updated_at": "2026-08-24T08:16:18Z",
-    "url": "https://github.com/superlinked/VectorHub"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9184,
-    "updated_at": "2026-08-24T09:45:57Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Rago - Rag application built entirely in golang and pgvector",
-    "id": "abhiraj-ku/RaGo",
-    "language": "Go",
-    "name": "abhiraj-ku/RaGo",
-    "stars": 1,
-    "updated_at": "2026-08-24T08:08:35Z",
-    "url": "https://github.com/abhiraj-ku/RaGo"
   }
 ]
