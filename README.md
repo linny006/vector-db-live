@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-24 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 2 | [SamsonPG/llm-docs-lab](https://github.com/SamsonPG/llm-docs-lab) | 0 | JavaScript | 2026-08-24 | RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent — all o |
-| 3 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6811 | Python | 2026-08-24 |  Memory library for building stateful agents |
-| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-24 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 5 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11262 | Rust | 2026-08-24 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 6 | [Mrittu/Research-Paper-Answer-Bot](https://github.com/Mrittu/Research-Paper-Answer-Bot) | 0 | Jupyter Notebook | 2026-08-24 | A Retrieval-Augmented Generation (RAG) application for answering questions from AI research papers using ChromaDB, BGE e |
-| 7 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-24 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-24 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-24 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-24 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-24 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 4 | [SamsonPG/llm-docs-lab](https://github.com/SamsonPG/llm-docs-lab) | 0 | JavaScript | 2026-08-24 | RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent — all o |
+| 5 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6811 | Python | 2026-08-24 |  Memory library for building stateful agents |
+| 6 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11262 | Rust | 2026-08-24 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 7 | [Mrittu/Research-Paper-Answer-Bot](https://github.com/Mrittu/Research-Paper-Answer-Bot) | 0 | Jupyter Notebook | 2026-08-24 | A Retrieval-Augmented Generation (RAG) application for answering questions from AI research papers using ChromaDB, BGE e |
+| 8 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-24 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 9 | [kichikubeihei/CodeMemoryPrime](https://github.com/kichikubeihei/CodeMemoryPrime) | 0 | Rust | 2026-08-24 | Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f |
 | 10 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1099 | Java | 2026-08-24 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
 | 11 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-24 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
