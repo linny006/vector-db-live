@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T01:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-style semantic search and RAG backend built as a distributed system.  Features async ingestion (Kafka), embed",
+    "id": "NasitSony/SmartSearch",
+    "language": "Java",
+    "name": "NasitSony/SmartSearch",
+    "stars": 0,
+    "updated_at": "2026-08-24T00:59:58Z",
+    "url": "https://github.com/NasitSony/SmartSearch"
+  },
+  {
+    "description": "AI decision-support system for football recruitment: player-DNA vector embeddings in pgvector (HNSW), an XGBoost fair-va",
+    "id": "EyaAzzabi/scoutable",
+    "language": "\u2014",
+    "name": "EyaAzzabi/scoutable",
+    "stars": 0,
+    "updated_at": "2026-08-24T00:57:35Z",
+    "url": "https://github.com/EyaAzzabi/scoutable"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 8,
+    "updated_at": "2026-08-24T00:58:49Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 233,
+    "updated_at": "2026-08-24T00:52:17Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-24T00:47:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Stop guessing what to learn. This AI orchestrates LLMs, Vector Databases, and Knowledge Graphs to dissect software engin",
+    "id": "mostafanasr300/Eligibility_emails",
+    "language": "HTML",
+    "name": "mostafanasr300/Eligibility_emails",
+    "stars": 0,
+    "updated_at": "2026-08-24T00:47:07Z",
+    "url": "https://github.com/mostafanasr300/Eligibility_emails"
+  },
+  {
+    "description": "Multi-user MCP server for semantic search over personal document collections. Built with FastMCP, FastAPI, Qdrant, and R",
+    "id": "suraiba-idrees/mcp-semantic-knowledge-base",
+    "language": "JavaScript",
+    "name": "suraiba-idrees/mcp-semantic-knowledge-base",
+    "stars": 0,
+    "updated_at": "2026-08-24T00:46:32Z",
+    "url": "https://github.com/suraiba-idrees/mcp-semantic-knowledge-base"
+  },
+  {
+    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
+    "id": "LuisinTheLegend/ConciergeGraph",
+    "language": "Python",
+    "name": "LuisinTheLegend/ConciergeGraph",
+    "stars": 1,
+    "updated_at": "2026-08-24T00:45:29Z",
+    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T00:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Retrieval-Augmented Generation Driven by Offline Local LLMs",
     "id": "r-xue/ragdoll",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "Clojure",
     "name": "replikativ/proximum",
     "stars": 30,
-    "updated_at": "2026-08-24T00:43:20Z",
+    "updated_at": "2026-08-24T00:50:29Z",
     "url": "https://github.com/replikativ/proximum"
   },
   {
@@ -45,15 +135,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 233,
-    "updated_at": "2026-08-24T00:45:21Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -63,57 +144,12 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T00:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T00:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI decision-support system for football recruitment: player-DNA vector embeddings in pgvector (HNSW), an XGBoost fair-va",
-    "id": "EyaAzzabi/scoutable",
-    "language": "\u2014",
-    "name": "EyaAzzabi/scoutable",
-    "stars": 0,
-    "updated_at": "2026-08-24T00:24:15Z",
-    "url": "https://github.com/EyaAzzabi/scoutable"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-24T00:11:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 8,
-    "updated_at": "2026-08-24T00:01:16Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9181,
-    "updated_at": "2026-08-24T00:36:35Z",
+    "updated_at": "2026-08-24T00:57:28Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -124,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-23T23:53:18Z",
     "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "Multi-user MCP server for semantic search over personal document collections. Built with FastMCP, FastAPI, Qdrant, and R",
-    "id": "suraiba-idrees/mcp-semantic-knowledge-base",
-    "language": "JavaScript",
-    "name": "suraiba-idrees/mcp-semantic-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-08-23T23:49:52Z",
-    "url": "https://github.com/suraiba-idrees/mcp-semantic-knowledge-base"
   },
   {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
@@ -302,7 +329,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1098,
-    "updated_at": "2026-08-23T23:30:34Z",
+    "updated_at": "2026-08-24T00:46:54Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 93,
-    "updated_at": "2026-08-24T00:45:12Z",
+    "updated_at": "2026-08-24T00:52:57Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-23T20:55:23Z",
     "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-08-23T20:54:44Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-08-23T20:53:28Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-08-23T20:49:25Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
   }
 ]
