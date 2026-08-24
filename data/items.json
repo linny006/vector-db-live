@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T03:45:19Z",
+    "updated_at": "2026-08-24T04:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-08-24T03:56:02Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1098,
+    "updated_at": "2026-08-24T03:51:14Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-08-24T03:50:45Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1629,
+    "updated_at": "2026-08-24T03:48:39Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-24T03:47:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 52,
+    "updated_at": "2026-08-24T03:47:25Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T03:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -14,7 +77,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9182,
-    "updated_at": "2026-08-24T03:42:59Z",
+    "updated_at": "2026-08-24T03:59:06Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T03:38:44Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T03:38:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Streamlit app for natural-language Q&A search over your own documents, powered by Pinecone's integrated inference API - ",
@@ -81,15 +135,6 @@
     "url": "https://github.com/akmalariq/data-catalog-rag-agent"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-24T03:22:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -97,15 +142,6 @@
     "stars": 7,
     "updated_at": "2026-08-24T03:20:37Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1628,
-    "updated_at": "2026-08-24T03:20:02Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -169,15 +205,6 @@
     "stars": 9422,
     "updated_at": "2026-08-24T03:29:47Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 52,
-    "updated_at": "2026-08-24T03:21:09Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
     "description": "Mnemosyne \u2014 AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search,",
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "srimon12/qql-rs",
     "stars": 3,
-    "updated_at": "2026-08-24T02:47:27Z",
+    "updated_at": "2026-08-24T03:59:38Z",
     "url": "https://github.com/srimon12/qql-rs"
   },
   {
@@ -304,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T01:39:44Z",
     "url": "https://github.com/mattmre/CHELATEDAI"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-08-24T03:45:05Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "Retrieval-Augmented Generation Driven by Offline Local LLMs",
@@ -430,23 +448,5 @@
     "stars": 12899,
     "updated_at": "2026-08-23T23:15:58Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-08-24T03:22:16Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 341,
-    "updated_at": "2026-08-23T22:48:06Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
