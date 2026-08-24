@@ -1,12 +1,57 @@
 [
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T22:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-24T21:55:07Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-08-24T21:55:07Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1099,
+    "updated_at": "2026-08-24T21:50:32Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-24T21:50:15Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
     "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 88,
-    "updated_at": "2026-08-24T21:44:51Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
+    "name": "paradedb/paradedb",
+    "stars": 9188,
+    "updated_at": "2026-08-24T21:49:07Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +59,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-24T21:43:25Z",
+    "updated_at": "2026-08-24T21:45:23Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 88,
+    "updated_at": "2026-08-24T21:56:18Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6812,
+    "updated_at": "2026-08-24T21:44:47Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -23,7 +86,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1647,
-    "updated_at": "2026-08-24T21:41:54Z",
+    "updated_at": "2026-08-24T21:51:50Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -52,15 +115,6 @@
     "stars": 8,
     "updated_at": "2026-08-24T21:36:00Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T21:33:53Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
@@ -99,24 +153,6 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-24T21:27:43Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6811,
-    "updated_at": "2026-08-24T21:44:47Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -139,7 +175,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51848,
+    "stars": 51849,
     "updated_at": "2026-08-24T21:24:35Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -151,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T21:23:34Z",
     "url": "https://github.com/josephkamau32/devintel"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1099,
-    "updated_at": "2026-08-24T21:34:36Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-24T21:39:40Z",
+    "updated_at": "2026-08-24T21:51:25Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -241,24 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T20:43:50Z",
     "url": "https://github.com/Faraz6180/Insightpilot-ai"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-24T20:42:50Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9187,
-    "updated_at": "2026-08-24T21:42:35Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "PGVector to Pinecone Migration Template",
@@ -320,7 +329,7 @@
     "language": "Elixir",
     "name": "elchemista/vettore",
     "stars": 23,
-    "updated_at": "2026-08-24T19:39:12Z",
+    "updated_at": "2026-08-24T21:51:25Z",
     "url": "https://github.com/elchemista/vettore"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-24T19:15:23Z",
     "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "Retrieval-Augmented Generation Driven by Offline Local LLMs",
-    "id": "r-xue/ragdoll",
-    "language": "Python",
-    "name": "r-xue/ragdoll",
-    "stars": 0,
-    "updated_at": "2026-08-24T19:13:54Z",
-    "url": "https://github.com/r-xue/ragdoll"
   }
 ]
