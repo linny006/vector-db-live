@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-08-24T16:42:35Z",
+    "updated_at": "2026-08-24T16:51:43Z",
     "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1643,
+    "updated_at": "2026-08-24T16:47:59Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T16:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T16:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-24T16:45:16Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 379,
+    "updated_at": "2026-08-24T16:43:15Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "HNSW and IVF-PQ parameter sweeps producing real recall-vs-latency curves, the filtered-ANN problem demonstrated, and a m",
+    "id": "moclamzw/retrieval-internals-and-tuning",
+    "language": "Python",
+    "name": "moclamzw/retrieval-internals-and-tuning",
+    "stars": 0,
+    "updated_at": "2026-08-24T16:41:18Z",
+    "url": "https://github.com/moclamzw/retrieval-internals-and-tuning"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30223,
+    "updated_at": "2026-08-24T16:40:49Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -59,7 +122,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 53,
-    "updated_at": "2026-08-24T16:40:59Z",
+    "updated_at": "2026-08-24T16:53:02Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -68,17 +131,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9186,
-    "updated_at": "2026-08-24T16:44:19Z",
+    "updated_at": "2026-08-24T16:53:34Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T16:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
@@ -88,15 +142,6 @@
     "stars": 7,
     "updated_at": "2026-08-24T16:32:05Z",
     "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T16:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Document-first sqlite3+faiss vector database",
@@ -131,17 +176,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7065,
-    "updated_at": "2026-08-24T16:19:12Z",
+    "updated_at": "2026-08-24T16:53:38Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1643,
-    "updated_at": "2026-08-24T16:18:28Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -166,27 +202,9 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11257,
+    "stars": 11258,
     "updated_at": "2026-08-24T16:13:19Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-24T16:45:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 379,
-    "updated_at": "2026-08-24T16:43:15Z",
-    "url": "https://github.com/zilliztech/knowhere"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-24T16:37:07Z",
+    "updated_at": "2026-08-24T16:51:28Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4426,
-    "updated_at": "2026-08-24T16:40:29Z",
+    "updated_at": "2026-08-24T16:46:25Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1099,
-    "updated_at": "2026-08-24T16:36:44Z",
+    "updated_at": "2026-08-24T16:52:08Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-24T16:40:07Z",
+    "updated_at": "2026-08-24T16:52:27Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -428,25 +446,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6354,
-    "updated_at": "2026-08-24T16:31:47Z",
+    "updated_at": "2026-08-24T16:50:39Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Local-first personal memory + RAG engine - the reusable AI brain for future projects.",
-    "id": "zaidwhy/personal-llm",
-    "language": "Python",
-    "name": "zaidwhy/personal-llm",
-    "stars": 2,
-    "updated_at": "2026-08-24T14:56:58Z",
-    "url": "https://github.com/zaidwhy/personal-llm"
-  },
-  {
-    "description": "Spatial AI memory: point your phone camera, ask out loud where you left something, get the exact frame. Gemini Live + Ch",
-    "id": "zaidwhy/recall",
-    "language": "Python",
-    "name": "zaidwhy/recall",
-    "stars": 0,
-    "updated_at": "2026-08-24T14:55:20Z",
-    "url": "https://github.com/zaidwhy/recall"
   }
 ]
