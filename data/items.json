@@ -1,12 +1,66 @@
 [
   {
+    "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
+    "id": "srimon12/qql-rs",
+    "language": "Rust",
+    "name": "srimon12/qql-rs",
+    "stars": 3,
+    "updated_at": "2026-08-24T01:52:28Z",
+    "url": "https://github.com/srimon12/qql-rs"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 233,
+    "updated_at": "2026-08-24T01:51:06Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45755,
+    "updated_at": "2026-08-24T01:49:21Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Multi-user MCP server for semantic search over personal document collections. Built with FastMCP, FastAPI, Qdrant, and R",
+    "id": "suraiba-idrees/mcp-semantic-knowledge-base",
+    "language": "JavaScript",
+    "name": "suraiba-idrees/mcp-semantic-knowledge-base",
+    "stars": 0,
+    "updated_at": "2026-08-24T01:48:45Z",
+    "url": "https://github.com/suraiba-idrees/mcp-semantic-knowledge-base"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T01:45:18Z",
+    "updated_at": "2026-08-24T02:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1623,
+    "updated_at": "2026-08-24T01:49:07Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T01:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
@@ -54,15 +108,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T01:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -77,17 +122,8 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 121,
-    "updated_at": "2026-08-24T01:28:42Z",
+    "updated_at": "2026-08-24T01:47:11Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Multi-user MCP server for semantic search over personal document collections. Built with FastMCP, FastAPI, Qdrant, and R",
-    "id": "suraiba-idrees/mcp-semantic-knowledge-base",
-    "language": "JavaScript",
-    "name": "suraiba-idrees/mcp-semantic-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-08-24T01:28:06Z",
-    "url": "https://github.com/suraiba-idrees/mcp-semantic-knowledge-base"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "r-xue/ragdoll",
     "stars": 0,
-    "updated_at": "2026-08-24T01:32:26Z",
+    "updated_at": "2026-08-24T01:48:27Z",
     "url": "https://github.com/r-xue/ragdoll"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T01:10:57Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1623,
-    "updated_at": "2026-08-24T01:09:12Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "",
@@ -178,15 +205,6 @@
     "stars": 8,
     "updated_at": "2026-08-24T00:58:49Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 233,
-    "updated_at": "2026-08-24T00:52:17Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Stop guessing what to learn. This AI orchestrates LLMs, Vector Databases, and Knowledge Graphs to dissect software engin",
@@ -365,7 +383,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 93,
-    "updated_at": "2026-08-24T01:36:13Z",
+    "updated_at": "2026-08-24T01:58:41Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-23T21:07:25Z",
     "url": "https://github.com/gireeshvuyyuru501-design/enterprise-spark-neo4j-langgraph-rag"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-08-23T21:02:41Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-08-23T21:01:34Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
   }
 ]
