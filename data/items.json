@@ -1,5 +1,41 @@
 [
   {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5844,
+    "updated_at": "2026-08-24T11:28:58Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-24T11:28:13Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-24T11:27:52Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T11:26:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
     "id": "tamnd/kura",
     "language": "Rust",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T11:23:51Z",
+    "updated_at": "2026-08-24T11:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -63,21 +99,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T11:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45766,
-    "updated_at": "2026-08-24T11:15:21Z",
+    "updated_at": "2026-08-24T11:27:22Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12941,
-    "updated_at": "2026-08-24T10:58:12Z",
+    "updated_at": "2026-08-24T11:27:33Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -178,24 +205,6 @@
     "stars": 3,
     "updated_at": "2026-08-24T10:54:35Z",
     "url": "https://github.com/batuhanzorbeyzengin/rebasis"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-24T10:53:32Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-24T11:22:13Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
@@ -248,7 +257,7 @@
     "language": "HTML",
     "name": "al7o/DocuMind-AI-Engine",
     "stars": 1,
-    "updated_at": "2026-08-24T10:37:42Z",
+    "updated_at": "2026-08-24T11:29:08Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
@@ -304,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T10:31:10Z",
     "url": "https://github.com/josephkamau32/devintel"
-  },
-  {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5844,
-    "updated_at": "2026-08-24T11:25:20Z",
-    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
