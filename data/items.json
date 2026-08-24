@@ -1,12 +1,12 @@
 [
   {
-    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
-    "id": "SamsonPG/llm-docs-lab",
-    "language": "JavaScript",
-    "name": "SamsonPG/llm-docs-lab",
-    "stars": 0,
-    "updated_at": "2026-08-24T21:02:56Z",
-    "url": "https://github.com/SamsonPG/llm-docs-lab"
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 54,
+    "updated_at": "2026-08-24T21:13:31Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,8 +14,35 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1099,
-    "updated_at": "2026-08-24T21:01:50Z",
+    "updated_at": "2026-08-24T21:15:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
+    "id": "SamsonPG/llm-docs-lab",
+    "language": "JavaScript",
+    "name": "SamsonPG/llm-docs-lab",
+    "stars": 0,
+    "updated_at": "2026-08-24T21:11:45Z",
+    "url": "https://github.com/SamsonPG/llm-docs-lab"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11263,
+    "updated_at": "2026-08-24T21:09:16Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-24T21:08:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,8 +50,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-24T21:00:25Z",
+    "updated_at": "2026-08-24T21:04:57Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-24T21:04:09Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -32,8 +68,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T21:00:25Z",
+    "updated_at": "2026-08-24T21:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-08-24T21:00:16Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
     "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
@@ -50,7 +95,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1647,
-    "updated_at": "2026-08-24T20:56:51Z",
+    "updated_at": "2026-08-24T21:11:12Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -99,31 +144,22 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-24T20:42:39Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9187,
-    "updated_at": "2026-08-24T21:03:32Z",
+    "updated_at": "2026-08-24T21:14:37Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11263,
-    "updated_at": "2026-08-24T20:35:31Z",
-    "url": "https://github.com/lancedb/lancedb"
+    "description": "PGVector to Pinecone Migration Template",
+    "id": "pinecone-field/pgvector-migration",
+    "language": "Jupyter Notebook",
+    "name": "pinecone-field/pgvector-migration",
+    "stars": 2,
+    "updated_at": "2026-08-24T20:36:46Z",
+    "url": "https://github.com/pinecone-field/pgvector-migration"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6811,
-    "updated_at": "2026-08-24T20:32:10Z",
+    "updated_at": "2026-08-24T21:10:41Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 70,
-    "updated_at": "2026-08-24T19:48:02Z",
+    "updated_at": "2026-08-24T21:12:01Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/r-xue/ragdoll"
   },
   {
-    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 4,
-    "updated_at": "2026-08-24T21:00:16Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
     "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
     "id": "IronCoreLabs/ironcore-alloy",
     "language": "Rust",
@@ -394,6 +421,15 @@
     "stars": 30,
     "updated_at": "2026-08-24T19:01:22Z",
     "url": "https://github.com/IronCoreLabs/ironcore-alloy"
+  },
+  {
+    "description": "Mnemosyne \u2014 AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search,",
+    "id": "M4F-S/mnemosyne",
+    "language": "Python",
+    "name": "M4F-S/mnemosyne",
+    "stars": 21,
+    "updated_at": "2026-08-24T18:58:07Z",
+    "url": "https://github.com/M4F-S/mnemosyne"
   },
   {
     "description": "Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your ",
@@ -412,41 +448,5 @@
     "stars": 424,
     "updated_at": "2026-08-24T18:49:26Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 2,
-    "updated_at": "2026-08-24T18:49:13Z",
-    "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4426,
-    "updated_at": "2026-08-24T20:29:17Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "AI decision-support system for football recruitment: player-DNA vector embeddings in pgvector (HNSW), an XGBoost fair-va",
-    "id": "EyaAzzabi/scoutable",
-    "language": "\u2014",
-    "name": "EyaAzzabi/scoutable",
-    "stars": 1,
-    "updated_at": "2026-08-24T18:46:09Z",
-    "url": "https://github.com/EyaAzzabi/scoutable"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 8,
-    "updated_at": "2026-08-24T18:36:32Z",
-    "url": "https://github.com/frogdb/frogdb"
   }
 ]
