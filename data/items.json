@@ -1,5 +1,50 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1637,
+    "updated_at": "2026-08-24T08:13:52Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-24T08:11:09Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T08:10:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-24T08:10:07Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Rago - Rag application built entirely in golang and pgvector",
+    "id": "abhiraj-ku/RaGo",
+    "language": "Go",
+    "name": "abhiraj-ku/RaGo",
+    "stars": 1,
+    "updated_at": "2026-08-24T08:08:35Z",
+    "url": "https://github.com/abhiraj-ku/RaGo"
+  },
+  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
@@ -7,6 +52,15 @@
     "stars": 6217,
     "updated_at": "2026-08-24T08:08:05Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 3,
+    "updated_at": "2026-08-24T08:07:51Z",
+    "url": "https://github.com/tradik/mddb"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -45,15 +99,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Rag application in golang",
-    "id": "abhiraj-ku/RaGo",
-    "language": "Go",
-    "name": "abhiraj-ku/RaGo",
-    "stars": 1,
-    "updated_at": "2026-08-24T08:08:35Z",
-    "url": "https://github.com/abhiraj-ku/RaGo"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -63,15 +108,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 3,
-    "updated_at": "2026-08-24T08:07:51Z",
-    "url": "https://github.com/tradik/mddb"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -79,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T08:01:25Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T08:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -144,15 +171,6 @@
     "url": "https://github.com/Muhammad-Hassan12/Zauq"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1637,
-    "updated_at": "2026-08-24T07:50:26Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "RAG pipeline for QA knowledge \u2014 chunk, embed, and query test cases and bug reports using Qdrant vector DB, sentence-tran",
     "id": "anant-pw/qa-rag-pipeline",
     "language": "Python",
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30216,
-    "updated_at": "2026-08-24T07:36:37Z",
+    "updated_at": "2026-08-24T08:12:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -252,15 +270,6 @@
     "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-24T07:20:23Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "Retrieval-Augmented Generation Driven by Offline Local LLMs",
     "id": "r-xue/ragdoll",
     "language": "Python",
@@ -286,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T07:09:42Z",
     "url": "https://github.com/manav-2812/synapse"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-24T08:10:07Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "Your vector database, as typed tools. Write a tools.yaml, then load_tools in Python or serve over MCP.",
