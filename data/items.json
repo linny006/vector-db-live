@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-24T20:58:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1647,
+    "updated_at": "2026-08-24T20:56:51Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
+    "id": "SamsonPG/llm-docs-lab",
+    "language": "JavaScript",
+    "name": "SamsonPG/llm-docs-lab",
+    "stars": 0,
+    "updated_at": "2026-08-24T20:48:51Z",
+    "url": "https://github.com/SamsonPG/llm-docs-lab"
+  },
+  {
+    "description": "Production-ready RAG knowledge assistant \u2014 FastAPI + LangChain + ChromaDB with auth, structured logging, and configurabl",
+    "id": "adventurewave-labs/ai-knowledge-assist",
+    "language": "Python",
+    "name": "adventurewave-labs/ai-knowledge-assist",
+    "stars": 1,
+    "updated_at": "2026-08-24T20:48:26Z",
+    "url": "https://github.com/adventurewave-labs/ai-knowledge-assist"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-24T20:48:08Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-24T20:47:11Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T20:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
     "id": "Faraz6180/Insightpilot-ai",
     "language": "Python",
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9187,
-    "updated_at": "2026-08-24T20:40:07Z",
+    "updated_at": "2026-08-24T20:59:23Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -41,17 +104,17 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1099,
-    "updated_at": "2026-08-24T20:41:34Z",
+    "updated_at": "2026-08-24T20:56:47Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T20:30:49Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11263,
+    "updated_at": "2026-08-24T20:35:31Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -63,21 +126,12 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-24T20:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
     "id": "kichikubeihei/CodeMemoryPrime",
     "language": "Rust",
     "name": "kichikubeihei/CodeMemoryPrime",
     "stars": 0,
-    "updated_at": "2026-08-24T20:28:43Z",
+    "updated_at": "2026-08-24T21:00:09Z",
     "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
   },
   {
@@ -88,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T20:27:50Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
-    "id": "SamsonPG/llm-docs-lab",
-    "language": "JavaScript",
-    "name": "SamsonPG/llm-docs-lab",
-    "stars": 0,
-    "updated_at": "2026-08-24T20:27:37Z",
-    "url": "https://github.com/SamsonPG/llm-docs-lab"
   },
   {
     "description": "A Retrieval-Augmented Generation (RAG) application for answering questions from AI research papers using ChromaDB, BGE e",
@@ -115,15 +160,6 @@
     "stars": 6811,
     "updated_at": "2026-08-24T20:32:10Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11263,
-    "updated_at": "2026-08-24T20:35:31Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -151,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T20:06:10Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-24T20:02:49Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -221,17 +248,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 88,
-    "updated_at": "2026-08-24T19:36:49Z",
+    "updated_at": "2026-08-24T20:48:30Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1647,
-    "updated_at": "2026-08-24T20:21:02Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6355,
-    "updated_at": "2026-08-24T20:27:21Z",
+    "updated_at": "2026-08-24T20:56:09Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -293,7 +311,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8134,
-    "updated_at": "2026-08-24T20:44:11Z",
+    "updated_at": "2026-08-24T20:51:18Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Rust",
     "name": "sattyamjjain/mnemo",
     "stars": 4,
-    "updated_at": "2026-08-24T20:40:35Z",
+    "updated_at": "2026-08-24T21:00:16Z",
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 8,
     "updated_at": "2026-08-24T18:36:32Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34164,
-    "updated_at": "2026-08-24T18:35:24Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
-    "id": "Susanta2025-lab/estudio-polymind-llm-orchestration",
-    "language": "Python",
-    "name": "Susanta2025-lab/estudio-polymind-llm-orchestration",
-    "stars": 0,
-    "updated_at": "2026-08-24T18:23:41Z",
-    "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
   }
 ]
