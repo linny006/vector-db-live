@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-24T07:45:23Z",
+    "updated_at": "2026-08-24T08:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Rag application in golang",
+    "id": "abhiraj-ku/RaGo",
+    "language": "Go",
+    "name": "abhiraj-ku/RaGo",
+    "stars": 1,
+    "updated_at": "2026-08-24T07:58:50Z",
+    "url": "https://github.com/abhiraj-ku/RaGo"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12939,
+    "updated_at": "2026-08-24T07:58:44Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
+    "id": "meriamsamy/Sterling-Vance-Bank-B",
+    "language": "Python",
+    "name": "meriamsamy/Sterling-Vance-Bank-B",
+    "stars": 0,
+    "updated_at": "2026-08-24T07:56:54Z",
+    "url": "https://github.com/meriamsamy/Sterling-Vance-Bank-B"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11254,
+    "updated_at": "2026-08-24T07:56:38Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-24T07:56:28Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 53,
+    "updated_at": "2026-08-24T07:56:21Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
     "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
@@ -14,8 +68,62 @@
     "language": "Go",
     "name": "tradik/mddb",
     "stars": 3,
-    "updated_at": "2026-08-24T07:41:26Z",
+    "updated_at": "2026-08-24T08:00:01Z",
     "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "Decoupled, dual-mode AI Discord bot featuring 3-tier model routing, 3-layer pgvector memory, and Docker code sandboxing.",
+    "id": "Muhammad-Hassan12/Zauq",
+    "language": "Python",
+    "name": "Muhammad-Hassan12/Zauq",
+    "stars": 1,
+    "updated_at": "2026-08-24T07:50:31Z",
+    "url": "https://github.com/Muhammad-Hassan12/Zauq"
+  },
+  {
+    "description": "RAG pipeline for QA knowledge \u2014 chunk, embed, and query test cases and bug reports using Qdrant vector DB, sentence-tran",
+    "id": "anant-pw/qa-rag-pipeline",
+    "language": "Python",
+    "name": "anant-pw/qa-rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-24T07:48:22Z",
+    "url": "https://github.com/anant-pw/qa-rag-pipeline"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-24T07:48:21Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-24T07:47:54Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1903,
+    "updated_at": "2026-08-24T07:46:03Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-24T07:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
@@ -31,7 +139,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30215,
+    "stars": 30216,
     "updated_at": "2026-08-24T07:36:37Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -50,7 +158,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1636,
-    "updated_at": "2026-08-24T07:41:43Z",
+    "updated_at": "2026-08-24T07:50:26Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -72,21 +180,12 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-24T07:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "High performance storage engine for search and retrieval. Compressed posting lists, hybrid bitmaps and quantised vectors",
     "id": "tamnd/kura",
     "language": "Rust",
     "name": "tamnd/kura",
     "stars": 0,
-    "updated_at": "2026-08-24T07:29:58Z",
+    "updated_at": "2026-08-24T08:00:06Z",
     "url": "https://github.com/tamnd/kura"
   },
   {
@@ -97,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-08-24T07:29:38Z",
     "url": "https://github.com/MeetVora79/notevault"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-24T07:24:29Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
@@ -133,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-24T07:19:55Z",
     "url": "https://github.com/r-xue/ragdoll"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11254,
-    "updated_at": "2026-08-24T07:19:26Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Structured multimodal extraction and pedagogical chunking pipeline for Arabic mathematics textbooks, comparing VLM-based",
@@ -194,7 +275,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9422,
-    "updated_at": "2026-08-24T07:41:56Z",
+    "updated_at": "2026-08-24T07:59:54Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -243,15 +324,6 @@
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-24T06:54:31Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "VeloxDB is a from-scratch HNSW vector database built in Python and NumPy. It features multi-layer graph search, scalar q",
     "id": "Rancidgift57/VeloxDB-Custom-In-Memory-Vector-Database-with-HNSW-Indexing",
     "language": "Python",
@@ -261,29 +333,11 @@
     "url": "https://github.com/Rancidgift57/VeloxDB-Custom-In-Memory-Vector-Database-with-HNSW-Indexing"
   },
   {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 53,
-    "updated_at": "2026-08-24T07:28:41Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-24T06:32:38Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45763,
+    "stars": 45764,
     "updated_at": "2026-08-24T06:29:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -293,7 +347,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-24T06:59:21Z",
+    "updated_at": "2026-08-24T07:59:04Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 6,
     "updated_at": "2026-08-24T05:38:31Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-08-24T05:14:49Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9183,
-    "updated_at": "2026-08-24T06:05:33Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-08-24T05:10:43Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-08-24T05:08:55Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-08-24T05:08:51Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 3,
-    "updated_at": "2026-08-24T05:07:28Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
   }
 ]
