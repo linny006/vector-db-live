@@ -1,12 +1,66 @@
 [
   {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T11:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
+    "id": "elchemista/vettore",
+    "language": "Elixir",
+    "name": "elchemista/vettore",
+    "stars": 23,
+    "updated_at": "2026-08-25T11:07:53Z",
+    "url": "https://github.com/elchemista/vettore"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-25T11:07:41Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 791,
+    "updated_at": "2026-08-25T11:06:07Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "Pragmatic AI Engineering Skills Library for LLMs, RAG, Agents, MCP & Spring AI",
+    "id": "jihedbfr-art/ai-skills",
+    "language": "Python",
+    "name": "jihedbfr-art/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-08-25T11:05:36Z",
+    "url": "https://github.com/jihedbfr-art/ai-skills"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-25T11:04:59Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
+    "id": "Mid-D-Man/msx",
     "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 93,
-    "updated_at": "2026-08-25T11:03:35Z",
-    "url": "https://github.com/topk-io/topk"
+    "name": "Mid-D-Man/msx",
+    "stars": 0,
+    "updated_at": "2026-08-25T11:04:19Z",
+    "url": "https://github.com/Mid-D-Man/msx"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +68,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-25T11:00:24Z",
+    "updated_at": "2026-08-25T11:04:06Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T11:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 93,
+    "updated_at": "2026-08-25T11:03:35Z",
+    "url": "https://github.com/topk-io/topk"
   },
   {
     "description": "Local AI Agent powered by Qwen 2.5 and ChromaDB (LaBSE) for automated multi-language nomenclature parsing, structural fe",
@@ -50,7 +104,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1641,
-    "updated_at": "2026-08-25T11:03:35Z",
+    "updated_at": "2026-08-25T11:11:50Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-25T10:52:04Z",
+    "updated_at": "2026-08-25T11:09:56Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -86,17 +140,8 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 70,
-    "updated_at": "2026-08-25T10:44:04Z",
+    "updated_at": "2026-08-25T11:12:41Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-25T10:43:07Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A full-stack, Keep-style note-taking SaaS with AI baked in \u2014 Gemini-powered title generation, on-demand summaries, and a",
@@ -171,15 +216,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-25T10:32:09Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -207,15 +243,6 @@
     "url": "https://github.com/kuldeepcodes/hello-vectordb-dotnet"
   },
   {
-    "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
-    "id": "elchemista/vettore",
-    "language": "Elixir",
-    "name": "elchemista/vettore",
-    "stars": 23,
-    "updated_at": "2026-08-25T10:17:23Z",
-    "url": "https://github.com/elchemista/vettore"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -230,7 +257,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12944,
-    "updated_at": "2026-08-25T10:17:40Z",
+    "updated_at": "2026-08-25T11:13:07Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -284,17 +311,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30255,
-    "updated_at": "2026-08-25T09:55:58Z",
+    "updated_at": "2026-08-25T11:14:16Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
-    "id": "Mid-D-Man/msx",
-    "language": "Rust",
-    "name": "Mid-D-Man/msx",
-    "stars": 0,
-    "updated_at": "2026-08-25T11:03:41Z",
-    "url": "https://github.com/Mid-D-Man/msx"
   },
   {
     "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
@@ -338,7 +356,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45779,
-    "updated_at": "2026-08-25T09:47:22Z",
+    "updated_at": "2026-08-25T11:07:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-25T11:01:28Z",
+    "updated_at": "2026-08-25T11:15:10Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7066,
-    "updated_at": "2026-08-25T10:52:37Z",
+    "updated_at": "2026-08-25T11:11:44Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T08:28:44Z",
     "url": "https://github.com/qtuanph/chatbot-rag"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-25T08:28:19Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35320,
-    "updated_at": "2026-08-25T08:26:50Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   }
 ]
