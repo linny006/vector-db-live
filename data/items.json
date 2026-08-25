@@ -1,21 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T14:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12945,
+    "updated_at": "2026-08-25T14:43:41Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30258,
-    "updated_at": "2026-08-25T14:25:22Z",
-    "url": "https://github.com/topoteretes/cognee"
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-25T14:41:44Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A local, secure, and visual RAG (Retrieval-Augmented Generation) assistant built with Spring Boot 3 (Spring AI), React (",
+    "id": "toozuuu/rag-assistant",
+    "language": "Java",
+    "name": "toozuuu/rag-assistant",
+    "stars": 1,
+    "updated_at": "2026-08-25T14:43:25Z",
+    "url": "https://github.com/toozuuu/rag-assistant"
   },
   {
     "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
@@ -23,8 +32,62 @@
     "language": "Python",
     "name": "RohannShetty/gitbook-downloader",
     "stars": 2,
-    "updated_at": "2026-08-25T14:23:52Z",
+    "updated_at": "2026-08-25T14:34:18Z",
     "url": "https://github.com/RohannShetty/gitbook-downloader"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 15,
+    "updated_at": "2026-08-25T14:33:35Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1644,
+    "updated_at": "2026-08-25T14:31:44Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T14:30:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T14:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1105,
+    "updated_at": "2026-08-25T14:28:45Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30258,
+    "updated_at": "2026-08-25T14:32:58Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "ANIMESHIOLOGY/vecparity",
     "stars": 0,
-    "updated_at": "2026-08-25T14:21:46Z",
+    "updated_at": "2026-08-25T14:40:37Z",
     "url": "https://github.com/ANIMESHIOLOGY/vecparity"
   },
   {
@@ -54,6 +117,15 @@
     "url": "https://github.com/NiravRVaghasiya/BrainOS"
   },
   {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4426,
+    "updated_at": "2026-08-25T14:18:00Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -63,22 +135,13 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12945,
-    "updated_at": "2026-08-25T14:16:26Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T14:15:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-25T14:16:27Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
@@ -104,7 +167,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59085,
-    "updated_at": "2026-08-25T14:12:48Z",
+    "updated_at": "2026-08-25T14:35:35Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -153,15 +216,6 @@
     "url": "https://github.com/UsamaImran/pdf-rag"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1104,
-    "updated_at": "2026-08-25T14:28:45Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -171,15 +225,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4426,
-    "updated_at": "2026-08-25T14:18:00Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
     "id": "LnYo-Cly/ai4j",
     "language": "Java",
@@ -187,15 +232,6 @@
     "stars": 424,
     "updated_at": "2026-08-25T13:55:12Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1644,
-    "updated_at": "2026-08-25T13:54:00Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
@@ -216,21 +252,12 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-25T14:22:55Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5855,
-    "updated_at": "2026-08-25T13:49:26Z",
+    "updated_at": "2026-08-25T14:43:46Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -239,17 +266,8 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-25T13:48:32Z",
+    "updated_at": "2026-08-25T14:42:27Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-25T14:16:27Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -266,7 +284,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-25T13:44:57Z",
+    "updated_at": "2026-08-25T14:38:35Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-25T13:43:49Z",
+    "updated_at": "2026-08-25T14:42:50Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -284,17 +302,8 @@
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 2,
-    "updated_at": "2026-08-25T13:38:55Z",
+    "updated_at": "2026-08-25T14:32:46Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "A local, secure, and visual RAG (Retrieval-Augmented Generation) assistant built with Spring Boot 3 (Spring AI), React (",
-    "id": "toozuuu/rag-assistant",
-    "language": "Java",
-    "name": "toozuuu/rag-assistant",
-    "stars": 1,
-    "updated_at": "2026-08-25T13:27:00Z",
-    "url": "https://github.com/toozuuu/rag-assistant"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "dovahkiin-v/mitos",
     "stars": 4,
-    "updated_at": "2026-08-25T14:30:19Z",
+    "updated_at": "2026-08-25T14:43:53Z",
     "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 89,
     "updated_at": "2026-08-25T12:41:26Z",
     "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-08-25T12:39:43Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
   }
 ]
