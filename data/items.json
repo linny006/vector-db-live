@@ -1,5 +1,32 @@
 [
   {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-08-25T09:05:36Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T09:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1103,
+    "updated_at": "2026-08-25T09:00:26Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -72,15 +99,6 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1103,
-    "updated_at": "2026-08-25T09:00:26Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -106,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-08-25T08:45:45Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T08:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -158,7 +167,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34175,
-    "updated_at": "2026-08-25T08:59:47Z",
+    "updated_at": "2026-08-25T09:06:21Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -194,8 +203,17 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-25T08:57:02Z",
+    "updated_at": "2026-08-25T09:06:07Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35319,
+    "updated_at": "2026-08-25T08:26:50Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Local AI infrastructure for multi-LLM RAG, vector search, and agentic workflows. Combines Ollama, FastAPI, ChromaDB, and",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T06:31:15Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Tiny header-only C++20 AI agent framework for edge and embedded: DeepAgent sub-agents, middleware, MCP, SSE streaming, R",
-    "id": "tinyagent-cc/tiny_agent",
-    "language": "C++",
-    "name": "tinyagent-cc/tiny_agent",
-    "stars": 1,
-    "updated_at": "2026-08-25T06:22:26Z",
-    "url": "https://github.com/tinyagent-cc/tiny_agent"
-  },
-  {
-    "description": "A production-grade Retrieval-Augmented Generation (RAG) agent built to answer customer support questions using company d",
-    "id": "SammedBG/RAG-Customer-support-agent",
-    "language": "Python",
-    "name": "SammedBG/RAG-Customer-support-agent",
-    "stars": 0,
-    "updated_at": "2026-08-25T06:07:23Z",
-    "url": "https://github.com/SammedBG/RAG-Customer-support-agent"
   }
 ]
