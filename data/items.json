@@ -1,12 +1,93 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Azure Cosmos DB is a fully managed, globally distributed, multi-model NoSQL and relational database service from Microso",
+    "id": "api-evangelist/azure-cosmos-db",
+    "language": "\u2014",
+    "name": "api-evangelist/azure-cosmos-db",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:12:18Z",
+    "url": "https://github.com/api-evangelist/azure-cosmos-db"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-25T00:11:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45771,
+    "updated_at": "2026-08-25T00:09:22Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T00:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-25T00:09:11Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 2,
+    "updated_at": "2026-08-25T00:08:29Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-08-25T00:08:54Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Full-stack multi-agent AI platform built with LangGraph, React 19, and Node/Express. Routes each query to a specialist a",
+    "id": "Saksham-A-garwal/Cortex",
+    "language": "JavaScript",
+    "name": "Saksham-A-garwal/Cortex",
+    "stars": 1,
+    "updated_at": "2026-08-25T00:04:17Z",
+    "url": "https://github.com/Saksham-A-garwal/Cortex"
+  },
+  {
+    "description": "Agent-native memory infrastructure for AI coding assistants. Governed session capture, LLM compression, hybrid retrieval",
+    "id": "BMC-INC/Iron-mem",
+    "language": "Rust",
+    "name": "BMC-INC/Iron-mem",
+    "stars": 4,
+    "updated_at": "2026-08-25T00:04:08Z",
+    "url": "https://github.com/BMC-INC/Iron-mem"
+  },
+  {
+    "description": "",
+    "id": "dkylewillis/vera",
+    "language": "Python",
+    "name": "dkylewillis/vera",
+    "stars": 17,
+    "updated_at": "2026-08-25T00:03:49Z",
+    "url": "https://github.com/dkylewillis/vera"
+  },
+  {
+    "description": "Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:03:14Z",
+    "url": "https://github.com/api-evangelist/aerospike"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +95,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-24T23:57:57Z",
+    "updated_at": "2026-08-25T00:00:24Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T00:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\uddc4\ufe0f Programa abierto de ingenier\u00eda de bases de datos \u00b7 64 clases en 14 partes \u00b7 210 horas \u00b7 Del modelado conceptual a la ",
@@ -45,15 +135,6 @@
     "url": "https://github.com/tryAGI/Pinecone"
   },
   {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 2,
-    "updated_at": "2026-08-24T23:58:34Z",
-    "url": "https://github.com/thameema/memnos"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -68,7 +149,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9188,
-    "updated_at": "2026-08-24T23:57:22Z",
+    "updated_at": "2026-08-25T00:10:58Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -85,7 +166,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65153,
+    "stars": 65154,
     "updated_at": "2026-08-24T23:45:58Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -117,40 +198,13 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45771,
-    "updated_at": "2026-08-24T23:57:23Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11263,
-    "updated_at": "2026-08-24T23:41:07Z",
+    "updated_at": "2026-08-25T00:10:49Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-24T23:37:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Agent-native memory infrastructure for AI coding assistants. Governed session capture, LLM compression, hybrid retrieval",
-    "id": "BMC-INC/Iron-mem",
-    "language": "Rust",
-    "name": "BMC-INC/Iron-mem",
-    "stars": 4,
-    "updated_at": "2026-08-24T23:35:05Z",
-    "url": "https://github.com/BMC-INC/Iron-mem"
   },
   {
     "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
@@ -243,6 +297,15 @@
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34168,
+    "updated_at": "2026-08-24T23:07:24Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
     "id": "Yasou13/MESA",
     "language": "Python",
@@ -270,15 +333,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-08-24T22:31:15Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
     "description": "Syllabus-aware RAG study assistant for university students. Answers strictly from your own notes & PDFs, unit-scoped ret",
     "id": "git-pratap-shrey/uniAI",
     "language": "Python",
@@ -292,7 +346,7 @@
     "id": "M4F-S/mnemosyne",
     "language": "Python",
     "name": "M4F-S/mnemosyne",
-    "stars": 21,
+    "stars": 22,
     "updated_at": "2026-08-24T22:17:13Z",
     "url": "https://github.com/M4F-S/mnemosyne"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-24T21:00:09Z",
     "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
-  },
-  {
-    "description": "Production-ready RAG knowledge assistant \u2014 FastAPI + LangChain + ChromaDB with auth, structured logging, and configurabl",
-    "id": "adventurewave-labs/ai-knowledge-assist",
-    "language": "Python",
-    "name": "adventurewave-labs/ai-knowledge-assist",
-    "stars": 1,
-    "updated_at": "2026-08-24T20:48:26Z",
-    "url": "https://github.com/adventurewave-labs/ai-knowledge-assist"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-24T21:51:25Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
-    "id": "Faraz6180/Insightpilot-ai",
-    "language": "Python",
-    "name": "Faraz6180/Insightpilot-ai",
-    "stars": 0,
-    "updated_at": "2026-08-24T20:43:50Z",
-    "url": "https://github.com/Faraz6180/Insightpilot-ai"
-  },
-  {
-    "description": "PGVector to Pinecone Migration Template",
-    "id": "pinecone-field/pgvector-migration",
-    "language": "Jupyter Notebook",
-    "name": "pinecone-field/pgvector-migration",
-    "stars": 2,
-    "updated_at": "2026-08-24T20:36:46Z",
-    "url": "https://github.com/pinecone-field/pgvector-migration"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) application for answering questions from AI research papers using ChromaDB, BGE e",
-    "id": "Mrittu/Research-Paper-Answer-Bot",
-    "language": "Jupyter Notebook",
-    "name": "Mrittu/Research-Paper-Answer-Bot",
-    "stars": 0,
-    "updated_at": "2026-08-24T20:27:29Z",
-    "url": "https://github.com/Mrittu/Research-Paper-Answer-Bot"
-  },
-  {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 3,
-    "updated_at": "2026-08-24T20:06:12Z",
-    "url": "https://github.com/tradik/mddb"
   }
 ]
