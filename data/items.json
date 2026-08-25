@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T12:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T12:15:05Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -25,6 +43,15 @@
     "stars": 2,
     "updated_at": "2026-08-25T12:09:14Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-08-25T12:08:14Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
   },
   {
     "description": "Postgres MCP Server",
@@ -88,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T12:00:37Z",
     "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T12:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T12:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -293,7 +302,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-25T11:33:56Z",
+    "updated_at": "2026-08-25T12:15:11Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -401,7 +410,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 93,
-    "updated_at": "2026-08-25T11:03:35Z",
+    "updated_at": "2026-08-25T12:15:07Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 164,
     "updated_at": "2026-08-25T10:38:27Z",
     "url": "https://github.com/mirkobozzetto/flowflow"
-  },
-  {
-    "description": "A production-grade Retrieval-Augmented Generation (RAG) agent built to answer customer support questions using company d",
-    "id": "SammedBG/RAG-Customer-support-agent",
-    "language": "Python",
-    "name": "SammedBG/RAG-Customer-support-agent",
-    "stars": 0,
-    "updated_at": "2026-08-25T10:37:20Z",
-    "url": "https://github.com/SammedBG/RAG-Customer-support-agent"
   }
 ]
