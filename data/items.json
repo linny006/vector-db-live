@@ -1,5 +1,23 @@
 [
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34174,
+    "updated_at": "2026-08-25T08:17:32Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T08:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +25,15 @@
     "stars": 3,
     "updated_at": "2026-08-25T08:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-25T08:15:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -22,9 +49,18 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1657,
+    "stars": 1642,
     "updated_at": "2026-08-25T08:10:20Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5851,
+    "updated_at": "2026-08-25T08:10:01Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "AI-powered RAG assistant for Product Managers \u2014 ask natural-language questions across PRDs, meeting notes, and Jira expo",
@@ -45,15 +81,6 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T08:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -68,7 +95,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9423,
-    "updated_at": "2026-08-25T08:06:42Z",
+    "updated_at": "2026-08-25T08:16:07Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -115,15 +142,6 @@
     "stars": 45777,
     "updated_at": "2026-08-25T07:49:23Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-25T08:15:05Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -176,7 +194,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-25T08:14:26Z",
+    "updated_at": "2026-08-25T08:18:24Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -369,15 +387,6 @@
     "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34172,
-    "updated_at": "2026-08-25T08:12:06Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "VeloxDB is a from-scratch HNSW vector database built in Python and NumPy. It features multi-layer graph search, scalar q",
     "id": "Rancidgift57/VeloxDB-Custom-In-Memory-Vector-Database-with-HNSW-Indexing",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 8136,
     "updated_at": "2026-08-25T08:11:49Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Open-source authoritative technical guides: Cloud Computing, AI Infrastructure & Embodied Intelligence \u2014 \u4e91\u8ba1\u7b97\u3001AI Infra\u3001\u5177\u8eab",
-    "id": "aizyhe/openwikis",
-    "language": "\u2014",
-    "name": "aizyhe/openwikis",
-    "stars": 0,
-    "updated_at": "2026-08-25T05:05:50Z",
-    "url": "https://github.com/aizyhe/openwikis"
   }
 ]
