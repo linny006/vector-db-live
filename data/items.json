@@ -5,8 +5,143 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T00:45:19Z",
+    "updated_at": "2026-08-25T01:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LanceDB is the AI-Native multimodal lakehouse built on the open-source Lance columnar storage format. It pairs an Apache",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:59:45Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
+    "id": "tryAGI/Qdrant",
+    "language": "C#",
+    "name": "tryAGI/Qdrant",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:58:33Z",
+    "url": "https://github.com/tryAGI/Qdrant"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-08-25T00:54:58Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 88,
+    "updated_at": "2026-08-25T00:54:35Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 2,
+    "updated_at": "2026-08-25T00:53:31Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1649,
+    "updated_at": "2026-08-25T00:53:11Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "IronCore Labs builds application-layer encryption tools that keep sensitive data private while it stays usable. Its prod",
+    "id": "api-evangelist/ironcore-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ironcore-labs",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:51:31Z",
+    "url": "https://github.com/api-evangelist/ironcore-labs"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 235,
+    "updated_at": "2026-08-25T00:50:21Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1615,
+    "updated_at": "2026-08-25T00:50:07Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Full-stack multi-agent AI platform built with LangGraph, React 19, and Node/Express. Routes each query to a specialist a",
+    "id": "Saksham-A-garwal/Cortex",
+    "language": "JavaScript",
+    "name": "Saksham-A-garwal/Cortex",
+    "stars": 1,
+    "updated_at": "2026-08-25T00:48:26Z",
+    "url": "https://github.com/Saksham-A-garwal/Cortex"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:48:19Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-25T00:47:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-25T00:46:33Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T00:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45773,
+    "updated_at": "2026-08-25T00:45:21Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "",
@@ -27,31 +162,13 @@
     "url": "https://github.com/api-evangelist/gel-data"
   },
   {
-    "description": "Full-stack multi-agent AI platform built with LangGraph, React 19, and Node/Express. Routes each query to a specialist a",
-    "id": "Saksham-A-garwal/Cortex",
-    "language": "JavaScript",
-    "name": "Saksham-A-garwal/Cortex",
-    "stars": 1,
-    "updated_at": "2026-08-25T00:40:36Z",
-    "url": "https://github.com/Saksham-A-garwal/Cortex"
-  },
-  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12904,
-    "updated_at": "2026-08-25T00:38:28Z",
+    "updated_at": "2026-08-25T00:45:31Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 2,
-    "updated_at": "2026-08-25T00:43:35Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -72,15 +189,6 @@
     "url": "https://github.com/api-evangelist/azure-cosmos-db"
   },
   {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-25T00:32:59Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
     "description": "Pragmatic AI Engineering Skills Library for LLMs, RAG, Agents, MCP & Spring AI",
     "id": "jihedbfr-art/ai-skills",
     "language": "Python",
@@ -88,24 +196,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T00:31:53Z",
     "url": "https://github.com/jihedbfr-art/ai-skills"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T00:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 235,
-    "updated_at": "2026-08-25T00:41:23Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
@@ -135,15 +225,6 @@
     "url": "https://github.com/api-evangelist/crate-io"
   },
   {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-08-25T00:26:06Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
     "description": "This document is a detailed reference to Contentstack\u2019s Content Delivery API. Retrieve content from your account and del",
     "id": "api-evangelist/contentstack",
     "language": "\u2014",
@@ -160,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T00:25:06Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-08-25T00:22:44Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "Chroma (Chroma DB) is an open-source AI-native embedding database designed to make it easy to build LLM applications by ",
@@ -194,26 +266,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11264,
-    "updated_at": "2026-08-25T00:20:24Z",
+    "updated_at": "2026-08-25T00:52:47Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45771,
-    "updated_at": "2026-08-25T00:16:59Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-25T00:11:45Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -248,7 +302,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-24T23:54:41Z",
+    "updated_at": "2026-08-25T00:59:17Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -261,21 +315,12 @@
     "url": "https://github.com/tryAGI/Pinecone"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1649,
-    "updated_at": "2026-08-25T00:41:09Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9188,
-    "updated_at": "2026-08-25T00:45:18Z",
+    "updated_at": "2026-08-25T00:59:31Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -320,8 +365,17 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1100,
-    "updated_at": "2026-08-25T00:40:05Z",
+    "updated_at": "2026-08-25T00:48:06Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Production RAG pipeline for document Q&A with hybrid search",
+    "id": "gitblame-hemanth/rag-document-qa",
+    "language": "Python",
+    "name": "gitblame-hemanth/rag-document-qa",
+    "stars": 0,
+    "updated_at": "2026-08-24T23:41:14Z",
+    "url": "https://github.com/gitblame-hemanth/rag-document-qa"
   },
   {
     "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
@@ -394,59 +448,5 @@
     "stars": 34168,
     "updated_at": "2026-08-24T23:07:24Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 5,
-    "updated_at": "2026-08-24T23:05:38Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "\ud83d\ude80 AI-powered portfolio with proactive visitor engagement \u2014 featuring Ozzy, an intelligent assistant with 12 tools, episo",
-    "id": "omerakben/omer-akben",
-    "language": "TypeScript",
-    "name": "omerakben/omer-akben",
-    "stars": 1,
-    "updated_at": "2026-08-24T22:50:49Z",
-    "url": "https://github.com/omerakben/omer-akben"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8135,
-    "updated_at": "2026-08-24T22:34:42Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Syllabus-aware RAG study assistant for university students. Answers strictly from your own notes & PDFs, unit-scoped ret",
-    "id": "git-pratap-shrey/uniAI",
-    "language": "Python",
-    "name": "git-pratap-shrey/uniAI",
-    "stars": 1,
-    "updated_at": "2026-08-24T22:26:08Z",
-    "url": "https://github.com/git-pratap-shrey/uniAI"
-  },
-  {
-    "description": "Mnemosyne \u2014 AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search,",
-    "id": "M4F-S/mnemosyne",
-    "language": "Python",
-    "name": "M4F-S/mnemosyne",
-    "stars": 22,
-    "updated_at": "2026-08-24T22:17:13Z",
-    "url": "https://github.com/M4F-S/mnemosyne"
-  },
-  {
-    "description": "Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple! ",
-    "id": "elchemista/vettore",
-    "language": "Elixir",
-    "name": "elchemista/vettore",
-    "stars": 23,
-    "updated_at": "2026-08-24T23:13:13Z",
-    "url": "https://github.com/elchemista/vettore"
   }
 ]
