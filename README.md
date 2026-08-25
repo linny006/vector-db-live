@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-25 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [carlwelchdesign/supraconscious-avatar-ai](https://github.com/carlwelchdesign/supraconscious-avatar-ai) | 0 | TypeScript | 2026-08-25 | Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure |
-| 3 | [DTDucas/chm-converter](https://github.com/DTDucas/chm-converter) | 99 | Python | 2026-08-25 | chm to markdown and vectorDB |
-| 4 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1615 | Python | 2026-08-25 | Unified multimodal backend for AI data apps |
-| 5 | [BELBINBENORM/ai-knowledge-platform](https://github.com/BELBINBENORM/ai-knowledge-platform) | 0 | Python | 2026-08-25 | AI Knowledge Platform \| FastAPI, PostgreSQL, pgvector, RAG, LLM Agents & Docker |
-| 6 | [Yigtwxx/OracleX](https://github.com/Yigtwxx/OracleX) | 1 | Python | 2026-08-25 | Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an |
-| 7 | [sergiunicoara/Generative-AI](https://github.com/sergiunicoara/Generative-AI) | 3 | Python | 2026-08-25 | Production GraphRAG portfolio — knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG  |
-| 8 | [crate/crate](https://github.com/crate/crate) | 4426 | Java | 2026-08-25 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
-| 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-25 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-25 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [carlwelchdesign/supraconscious-avatar-ai](https://github.com/carlwelchdesign/supraconscious-avatar-ai) | 0 | TypeScript | 2026-08-25 | Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure |
+| 4 | [DTDucas/chm-converter](https://github.com/DTDucas/chm-converter) | 99 | Python | 2026-08-25 | chm to markdown and vectorDB |
+| 5 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1615 | Python | 2026-08-25 | Unified multimodal backend for AI data apps |
+| 6 | [BELBINBENORM/ai-knowledge-platform](https://github.com/BELBINBENORM/ai-knowledge-platform) | 0 | Python | 2026-08-25 | AI Knowledge Platform \| FastAPI, PostgreSQL, pgvector, RAG, LLM Agents & Docker |
+| 7 | [Yigtwxx/OracleX](https://github.com/Yigtwxx/OracleX) | 1 | Python | 2026-08-25 | Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an |
+| 8 | [sergiunicoara/Generative-AI](https://github.com/sergiunicoara/Generative-AI) | 3 | Python | 2026-08-25 | Production GraphRAG portfolio — knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG  |
+| 9 | [crate/crate](https://github.com/crate/crate) | 4426 | Java | 2026-08-25 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
+| 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-25 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 11 | [zilliztech/milvus-operator](https://github.com/zilliztech/milvus-operator) | 125 | Go | 2026-08-25 | The Kubernetes Operator of Milvus.  |
 | 12 | [acsavenhq/llm-docs-lab](https://github.com/acsavenhq/llm-docs-lab) | 0 | JavaScript | 2026-08-25 | RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent — all o |
 | 13 | [Veeresh-Hanni/DBDuck](https://github.com/Veeresh-Hanni/DBDuck) | 3 | Python | 2026-08-25 | Universal Data Object Model in Python for SQL, Nosql, Graph, Vector DBMS  |
