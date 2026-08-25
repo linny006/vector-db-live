@@ -1,30 +1,30 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T15:59:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-08-25T16:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Official website and documentation for ParqDB.",
-    "id": "parqdb-io/parqdb-website",
-    "language": "\u2014",
-    "name": "parqdb-io/parqdb-website",
+    "id": "parqdb-io/parqdb-io.github.io",
+    "language": "Astro",
+    "name": "parqdb-io/parqdb-io.github.io",
     "stars": 0,
-    "updated_at": "2026-08-25T15:59:11Z",
-    "url": "https://github.com/parqdb-io/parqdb-website"
+    "updated_at": "2026-08-25T16:12:57Z",
+    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6374,
-    "updated_at": "2026-08-25T16:00:04Z",
-    "url": "https://github.com/genkit-ai/genkit"
+    "description": "Pragmatic AI Engineering Skills Library for LLMs, RAG, Agents, MCP & Spring AI",
+    "id": "jihedbfr-art/ai-skills",
+    "language": "Python",
+    "name": "jihedbfr-art/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-08-25T16:12:14Z",
+    "url": "https://github.com/jihedbfr-art/ai-skills"
   },
   {
     "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
@@ -32,17 +32,44 @@
     "language": "JavaScript",
     "name": "acsavenhq/llm-docs-lab",
     "stars": 0,
-    "updated_at": "2026-08-25T15:54:30Z",
+    "updated_at": "2026-08-25T16:10:50Z",
     "url": "https://github.com/acsavenhq/llm-docs-lab"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1646,
-    "updated_at": "2026-08-25T15:53:57Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-25T16:08:11Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12946,
+    "updated_at": "2026-08-25T16:07:40Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Production-grade AI data pipeline featuring Pydantic Quarantine Layer, batch text chunking, and high-performance FAISS v",
+    "id": "willy410-hub/ai-data-pipeline",
+    "language": "\u2014",
+    "name": "willy410-hub/ai-data-pipeline",
+    "stars": 0,
+    "updated_at": "2026-08-25T16:03:47Z",
+    "url": "https://github.com/willy410-hub/ai-data-pipeline"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T16:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
@@ -54,22 +81,67 @@
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6374,
+    "updated_at": "2026-08-25T16:08:53Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-25T15:54:02Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1646,
+    "updated_at": "2026-08-25T16:03:32Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 3,
+    "updated_at": "2026-08-25T15:48:39Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59085,
+    "stars": 59086,
     "updated_at": "2026-08-25T15:47:14Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T15:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-25T16:12:54Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-25T15:44:56Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "Kurum mevzuat\u0131n\u0131 do\u011fal dille sorgulanabilir h\u00e2le getiren, tamamen \u00e7evrimd\u0131\u015f\u0131 \u00e7al\u0131\u015fan bir RAG asistan\u0131n\u0131n mimari dok\u00fcmant",
@@ -90,6 +162,15 @@
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-25T15:41:57Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -97,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T15:39:48Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 3,
-    "updated_at": "2026-08-25T15:48:39Z",
-    "url": "https://github.com/agent-ix/ecaz"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -171,15 +243,6 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-25T15:21:22Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
     "id": "hhblaze/DBreeze",
     "language": "C#",
@@ -187,15 +250,6 @@
     "stars": 578,
     "updated_at": "2026-08-25T15:17:33Z",
     "url": "https://github.com/hhblaze/DBreeze"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-25T15:45:51Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
@@ -229,18 +283,9 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6826,
+    "stars": 6827,
     "updated_at": "2026-08-25T15:08:09Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12945,
-    "updated_at": "2026-08-25T15:20:48Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Live, quality-verified migration between vector databases: proves retrieval quality survived the switch before you cut o",
@@ -275,7 +320,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11269,
-    "updated_at": "2026-08-25T14:59:54Z",
+    "updated_at": "2026-08-25T16:10:39Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -306,21 +351,12 @@
     "url": "https://github.com/pinecone-field/pgvector-migration"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-25T15:44:56Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-25T15:56:43Z",
+    "updated_at": "2026-08-25T16:07:16Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -331,15 +367,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T14:47:09Z",
     "url": "https://github.com/toozuuu/rag-assistant"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-25T15:41:57Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
@@ -358,15 +385,6 @@
     "stars": 379,
     "updated_at": "2026-08-25T14:43:17Z",
     "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-25T15:54:02Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
@@ -430,23 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-25T15:08:25Z",
     "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34184,
-    "updated_at": "2026-08-25T14:03:59Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Gemini API + Chroma \u306b\u3088\u308bRAG\u6587\u66f8Q&A\u30c1\u30e3\u30c3\u30c8\u30dc\u30c3\u30c8",
-    "id": "kaaoki/RAG-Document-QA-Chatbot",
-    "language": "Python",
-    "name": "kaaoki/RAG-Document-QA-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:03:35Z",
-    "url": "https://github.com/kaaoki/RAG-Document-QA-Chatbot"
   }
 ]
