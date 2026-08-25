@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Chief-Strategist-J/llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | 4 | Python | 2026-08-25 | -  |
-| 2 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-25 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 3 | [SamvelGalstyan15/AI-Agent](https://github.com/SamvelGalstyan15/AI-Agent) | 0 | Jupyter Notebook | 2026-08-25 | Local AI Agent powered by Qwen 2.5 and ChromaDB (LaBSE) for automated multi-language nomenclature parsing, structural fe |
-| 4 | [kuldeepcodes/hello-vectordb-dotnet](https://github.com/kuldeepcodes/hello-vectordb-dotnet) | 0 | C# | 2026-08-25 | A vector database you can read end to end, in C#. Index PDFs and Markdown, query them in plain language. Its own binary  |
-| 5 | [elchemista/vettore](https://github.com/elchemista/vettore) | 23 | Elixir | 2026-08-25 | Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple!  |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-25 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-25 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [Chief-Strategist-J/llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | 4 | Python | 2026-08-25 | -  |
+| 4 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-25 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 5 | [SamvelGalstyan15/AI-Agent](https://github.com/SamvelGalstyan15/AI-Agent) | 0 | Jupyter Notebook | 2026-08-25 | Local AI Agent powered by Qwen 2.5 and ChromaDB (LaBSE) for automated multi-language nomenclature parsing, structural fe |
+| 6 | [kuldeepcodes/hello-vectordb-dotnet](https://github.com/kuldeepcodes/hello-vectordb-dotnet) | 0 | C# | 2026-08-25 | A vector database you can read end to end, in C#. Index PDFs and Markdown, query them in plain language. Its own binary  |
+| 7 | [elchemista/vettore](https://github.com/elchemista/vettore) | 23 | Elixir | 2026-08-25 | Elixir  in memory VectorDB build with Rust  using rustler! It's small, fast, efficient, simple!  |
 | 8 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 1904 | Python | 2026-08-25 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
 | 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-25 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 10 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12944 | Java | 2026-08-25 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
