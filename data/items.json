@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T17:56:51Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9194,
+    "updated_at": "2026-08-25T17:56:50Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "RAG that enforces RBAC inside the vector-search filter, masks PII before generation, and gates changes on Ragas evals.",
+    "id": "Git-ShivamPatil/secure-rag-rbac",
+    "language": "\u2014",
+    "name": "Git-ShivamPatil/secure-rag-rbac",
+    "stars": 0,
+    "updated_at": "2026-08-25T17:51:04Z",
+    "url": "https://github.com/Git-ShivamPatil/secure-rag-rbac"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-25T17:47:38Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7067,
+    "updated_at": "2026-08-25T17:46:57Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T17:45:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live, quality-verified migration between vector databases: proves retrieval quality survived the switch before you cut o",
+    "id": "ANIMESHIOLOGY/vecparity",
+    "language": "Python",
+    "name": "ANIMESHIOLOGY/vecparity",
+    "stars": 0,
+    "updated_at": "2026-08-25T17:58:38Z",
+    "url": "https://github.com/ANIMESHIOLOGY/vecparity"
+  },
+  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
@@ -9,13 +72,13 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
-    "description": "Live, quality-verified migration between vector databases: proves retrieval quality survived the switch before you cut o",
-    "id": "ANIMESHIOLOGY/vecparity",
-    "language": "Python",
-    "name": "ANIMESHIOLOGY/vecparity",
-    "stars": 0,
-    "updated_at": "2026-08-25T17:43:18Z",
-    "url": "https://github.com/ANIMESHIOLOGY/vecparity"
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-25T17:41:43Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A data-boundary proxy for AI systems that measures what its own controls miss: PII detection with recall below 1.0, egre",
@@ -54,24 +117,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T17:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T17:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -94,7 +139,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30260,
+    "stars": 30261,
     "updated_at": "2026-08-25T17:23:03Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -126,15 +171,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-25T17:41:43Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
     "id": "CaviraOSS/OpenMemory",
     "language": "TypeScript",
@@ -158,7 +194,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4426,
-    "updated_at": "2026-08-25T17:32:43Z",
+    "updated_at": "2026-08-25T17:55:55Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-25T17:39:24Z",
+    "updated_at": "2026-08-25T17:58:43Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -225,31 +261,13 @@
     "url": "https://github.com/UsamaImran/pdf-rag"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-25T16:53:45Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
     "id": "tamnd/yo",
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-25T16:52:14Z",
+    "updated_at": "2026-08-25T17:55:33Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9192,
-    "updated_at": "2026-08-25T17:28:41Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
@@ -270,6 +288,15 @@
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12950,
+    "updated_at": "2026-08-25T16:44:04Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
     "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
     "id": "piyalidas10/AI",
     "language": "Python",
@@ -284,7 +311,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-25T17:36:18Z",
+    "updated_at": "2026-08-25T17:55:24Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -365,7 +392,7 @@
     "language": "Python",
     "name": "mattmre/CHELATEDAI",
     "stars": 2,
-    "updated_at": "2026-08-25T17:43:17Z",
+    "updated_at": "2026-08-25T17:47:28Z",
     "url": "https://github.com/mattmre/CHELATEDAI"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 70,
-    "updated_at": "2026-08-25T16:30:13Z",
+    "updated_at": "2026-08-25T17:46:55Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12949,
-    "updated_at": "2026-08-25T16:44:04Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "Production-grade AI data pipeline featuring Pydantic Quarantine Layer, batch text chunking, and high-performance FAISS v",
     "id": "willy410-hub/ai-data-pipeline",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-25T15:58:45Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
-    "id": "agent-ix/ecaz",
-    "language": "Rust",
-    "name": "agent-ix/ecaz",
-    "stars": 3,
-    "updated_at": "2026-08-25T16:38:32Z",
-    "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59087,
-    "updated_at": "2026-08-25T15:47:14Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   }
 ]
