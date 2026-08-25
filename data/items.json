@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-08-25T13:42:13Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30258,
+    "updated_at": "2026-08-25T13:41:25Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T13:34:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T13:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-25T13:43:49Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4426,
+    "updated_at": "2026-08-25T13:44:25Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -9,6 +63,15 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
+    "description": "\ud83e\udde0 BrainOS \u2014 The Human Brain as Software Architecture. 8 brain regions documented like codebases. 12 installable AI plugi",
+    "id": "NiravRVaghasiya/BrainOS",
+    "language": "\u2014",
+    "name": "NiravRVaghasiya/BrainOS",
+    "stars": 0,
+    "updated_at": "2026-08-25T13:26:46Z",
+    "url": "https://github.com/NiravRVaghasiya/BrainOS"
+  },
+  {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
     "id": "tamnd/yo",
     "language": "\u2014",
@@ -16,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T13:23:10Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-25T13:29:44Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
@@ -45,6 +99,15 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-25T13:19:26Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
     "description": "Memseek is an open source declarative context engine for AI agents. Define agent memory in versioned YAML \u2014 like Terrafo",
     "id": "memseekai/memseek",
     "language": "Python",
@@ -54,22 +117,13 @@
     "url": "https://github.com/memseekai/memseek"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T13:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T13:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
+    "id": "acsavenhq/llm-docs-lab",
+    "language": "JavaScript",
+    "name": "acsavenhq/llm-docs-lab",
+    "stars": 0,
+    "updated_at": "2026-08-25T13:17:17Z",
+    "url": "https://github.com/acsavenhq/llm-docs-lab"
   },
   {
     "description": "A domain-specific RAG assistant that answers questions about India's Income-tax Act with section-level citations \u2014 built",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T13:14:35Z",
     "url": "https://github.com/Gantedavamsikrishna/Documind-Tax-Rag"
-  },
-  {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-25T13:19:26Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
     "description": "Agentic RAG document Q&A \u2014 a tool-using LLM agent with multi-hop retrieval, self-correction, and grounded page citations",
@@ -104,17 +149,8 @@
     "language": "TypeScript",
     "name": "Zizka-ai/ZizkaDB",
     "stars": 42,
-    "updated_at": "2026-08-25T13:06:20Z",
+    "updated_at": "2026-08-25T13:39:53Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4426,
-    "updated_at": "2026-08-25T13:28:09Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "The AI search platform",
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-25T13:22:34Z",
+    "updated_at": "2026-08-25T13:44:57Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -180,15 +216,6 @@
     "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30257,
-    "updated_at": "2026-08-25T13:30:14Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -196,15 +223,6 @@
     "stars": 1642,
     "updated_at": "2026-08-25T12:57:14Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
-    "id": "acsavenhq/llm-docs-lab",
-    "language": "JavaScript",
-    "name": "acsavenhq/llm-docs-lab",
-    "stars": 0,
-    "updated_at": "2026-08-25T13:17:17Z",
-    "url": "https://github.com/acsavenhq/llm-docs-lab"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59086,
-    "updated_at": "2026-08-25T12:44:32Z",
+    "updated_at": "2026-08-25T13:44:03Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T12:23:14Z",
     "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-25T12:22:25Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-25T12:20:51Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
   }
 ]
