@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-25 17:59 UTC
+> ⏰ Last updated: 2026-08-25 18:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,11 +43,11 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-25 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9194 | Rust | 2026-08-25 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 3 | [Git-ShivamPatil/secure-rag-rbac](https://github.com/Git-ShivamPatil/secure-rag-rbac) | 0 | — | 2026-08-25 | RAG that enforces RBAC inside the vector-search filter, masks PII before generation, and gates changes on Ragas evals. |
-| 4 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-08-25 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 5 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7067 | Java | 2026-08-25 | The AI search platform |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-25 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9194 | Rust | 2026-08-25 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 4 | [Git-ShivamPatil/secure-rag-rbac](https://github.com/Git-ShivamPatil/secure-rag-rbac) | 0 | — | 2026-08-25 | RAG that enforces RBAC inside the vector-search filter, masks PII before generation, and gates changes on Ragas evals. |
+| 5 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-08-25 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 6 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7067 | Java | 2026-08-25 | The AI search platform |
 | 7 | [ANIMESHIOLOGY/vecparity](https://github.com/ANIMESHIOLOGY/vecparity) | 0 | Python | 2026-08-25 | Live, quality-verified migration between vector databases: proves retrieval quality survived the switch before you cut o |
 | 8 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-08-25 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
 | 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-25 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
