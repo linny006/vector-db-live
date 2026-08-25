@@ -1,12 +1,66 @@
 [
   {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4426,
+    "updated_at": "2026-08-25T15:24:42Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-25T15:21:22Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T15:15:23Z",
+    "updated_at": "2026-08-25T15:20:54Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "HNSW and IVF-PQ parameter sweeps producing real recall-vs-latency curves, the filtered-ANN problem demonstrated, and a m",
+    "id": "malcomzww/retrieval-internals-and-tuning",
+    "language": "Python",
+    "name": "malcomzww/retrieval-internals-and-tuning",
+    "stars": 0,
+    "updated_at": "2026-08-25T15:27:29Z",
+    "url": "https://github.com/malcomzww/retrieval-internals-and-tuning"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1646,
+    "updated_at": "2026-08-25T15:18:33Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T15:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-25T15:17:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
@@ -16,6 +70,24 @@
     "stars": 2,
     "updated_at": "2026-08-25T15:12:08Z",
     "url": "https://github.com/RohannShetty/gitbook-downloader"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 4,
+    "updated_at": "2026-08-25T15:10:36Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1905,
+    "updated_at": "2026-08-25T15:09:54Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -32,7 +104,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12945,
-    "updated_at": "2026-08-25T15:07:56Z",
+    "updated_at": "2026-08-25T15:20:48Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -45,13 +117,13 @@
     "url": "https://github.com/ANIMESHIOLOGY/vecparity"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "An autonomous, self-learning cognitive engine with 4-tier persistent memory, verified skill synthesis, and closed-world ",
+    "id": "Teodorsmith/solaris-zarya-engine",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T15:04:58Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "Teodorsmith/solaris-zarya-engine",
+    "stars": 1,
+    "updated_at": "2026-08-25T15:03:58Z",
+    "url": "https://github.com/Teodorsmith/solaris-zarya-engine"
   },
   {
     "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
@@ -59,26 +131,8 @@
     "language": "Rust",
     "name": "sattyamjjain/mnemo",
     "stars": 4,
-    "updated_at": "2026-08-25T15:02:51Z",
+    "updated_at": "2026-08-25T15:30:19Z",
     "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
-    "description": "HNSW and IVF-PQ parameter sweeps producing real recall-vs-latency curves, the filtered-ANN problem demonstrated, and a m",
-    "id": "malcomzww/retrieval-internals-and-tuning",
-    "language": "Python",
-    "name": "malcomzww/retrieval-internals-and-tuning",
-    "stars": 0,
-    "updated_at": "2026-08-25T15:12:21Z",
-    "url": "https://github.com/malcomzww/retrieval-internals-and-tuning"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 4,
-    "updated_at": "2026-08-25T15:10:36Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -90,12 +144,21 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11269,
+    "updated_at": "2026-08-25T14:59:54Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-25T14:58:50Z",
+    "updated_at": "2026-08-25T15:17:59Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -104,7 +167,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9423,
-    "updated_at": "2026-08-25T14:54:03Z",
+    "updated_at": "2026-08-25T15:29:32Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -117,21 +180,12 @@
     "url": "https://github.com/pinecone-field/pgvector-migration"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1645,
-    "updated_at": "2026-08-25T14:51:32Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30258,
-    "updated_at": "2026-08-25T15:14:56Z",
+    "updated_at": "2026-08-25T15:28:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -175,7 +229,7 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 5855,
+    "stars": 5856,
     "updated_at": "2026-08-25T14:43:46Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
@@ -216,15 +270,6 @@
     "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
   },
   {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1905,
-    "updated_at": "2026-08-25T15:09:54Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -239,7 +284,7 @@
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 15,
-    "updated_at": "2026-08-25T14:33:35Z",
+    "updated_at": "2026-08-25T15:18:03Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
@@ -257,7 +302,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1105,
-    "updated_at": "2026-08-25T15:01:36Z",
+    "updated_at": "2026-08-25T15:15:49Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -270,15 +315,6 @@
     "url": "https://github.com/Arvindhbabu/OMNIS-AI"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-25T14:21:59Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "\ud83e\udde0 BrainOS \u2014 The Human Brain as Software Architecture. 8 brain regions documented like codebases. 12 installable AI plugi",
     "id": "NiravRVaghasiya/BrainOS",
     "language": "Python",
@@ -288,31 +324,13 @@
     "url": "https://github.com/NiravRVaghasiya/BrainOS"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4426,
-    "updated_at": "2026-08-25T15:12:48Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6373,
-    "updated_at": "2026-08-25T14:49:44Z",
+    "updated_at": "2026-08-25T15:24:57Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-25T15:14:46Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
@@ -401,7 +419,7 @@
     "language": "\u2014",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-25T15:03:29Z",
+    "updated_at": "2026-08-25T15:22:38Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-25T13:19:25Z",
     "url": "https://github.com/memseekai/memseek"
-  },
-  {
-    "description": "A domain-specific RAG assistant that answers questions about India's Income-tax Act with section-level citations \u2014 built",
-    "id": "Gantedavamsikrishna/Documind-Tax-Rag",
-    "language": "Python",
-    "name": "Gantedavamsikrishna/Documind-Tax-Rag",
-    "stars": 0,
-    "updated_at": "2026-08-25T13:14:35Z",
-    "url": "https://github.com/Gantedavamsikrishna/Documind-Tax-Rag"
-  },
-  {
-    "description": "Agentic RAG document Q&A \u2014 a tool-using LLM agent with multi-hop retrieval, self-correction, and grounded page citations",
-    "id": "hejun789/docintel",
-    "language": "Python",
-    "name": "hejun789/docintel",
-    "stars": 1,
-    "updated_at": "2026-08-25T13:09:01Z",
-    "url": "https://github.com/hejun789/docintel"
   }
 ]
