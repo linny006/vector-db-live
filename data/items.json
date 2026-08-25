@@ -1,5 +1,77 @@
 [
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9423,
+    "updated_at": "2026-08-25T07:57:33Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16751,
+    "updated_at": "2026-08-25T07:56:24Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:56:13Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
+    "id": "carlwelchdesign/supraconscious-avatar-ai",
+    "language": "TypeScript",
+    "name": "carlwelchdesign/supraconscious-avatar-ai",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:53:35Z",
+    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15511,
+    "updated_at": "2026-08-25T07:51:35Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-25T07:45:52Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T08:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T07:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -7,6 +79,15 @@
     "stars": 1,
     "updated_at": "2026-08-25T07:43:45Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:43:37Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "Retrieval-Augmented Generation Driven by Offline Local LLMs",
@@ -23,7 +104,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4426,
-    "updated_at": "2026-08-25T07:42:36Z",
+    "updated_at": "2026-08-25T07:57:09Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -50,7 +131,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-25T07:44:59Z",
+    "updated_at": "2026-08-25T07:59:24Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -68,7 +149,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45776,
-    "updated_at": "2026-08-25T07:33:21Z",
+    "updated_at": "2026-08-25T07:49:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -79,51 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-25T07:31:50Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:31:03Z",
-    "url": "https://github.com/nacre-work/nacre"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T07:30:57Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T07:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9423,
-    "updated_at": "2026-08-25T07:36:28Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Inner Avatar is a full-stack SaaS application that leverages AI-driven analysis to transform journaling into a structure",
-    "id": "carlwelchdesign/supraconscious-avatar-ai",
-    "language": "TypeScript",
-    "name": "carlwelchdesign/supraconscious-avatar-ai",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:44:23Z",
-    "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
   },
   {
     "description": "chm to markdown and vectorDB",
@@ -171,15 +207,6 @@
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-25T07:18:39Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The Kubernetes Operator of Milvus. ",
     "id": "zilliztech/milvus-operator",
     "language": "Go",
@@ -211,7 +238,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1656,
+    "stars": 1657,
     "updated_at": "2026-08-25T07:06:39Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -241,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-08-25T07:04:06Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-25T07:43:37Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "Production-ready AI Research Assistant using RAG, LangChain, FAISS, Groq LLM, Sentence Transformers, and Streamlit.",
@@ -322,15 +340,6 @@
     "stars": 6368,
     "updated_at": "2026-08-25T06:07:15Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16751,
-    "updated_at": "2026-08-25T07:37:16Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
@@ -410,7 +419,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8136,
-    "updated_at": "2026-08-25T07:45:18Z",
+    "updated_at": "2026-08-25T07:52:21Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T04:54:40Z",
     "url": "https://github.com/PrachiPMishra/RAG-Quantization-Benchmark"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-25T06:02:10Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   }
 ]
