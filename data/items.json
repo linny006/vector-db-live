@@ -1,5 +1,59 @@
 [
   {
+    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-08-25T15:02:51Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "Live, quality-verified migration between vector databases: proves retrieval quality survived the switch before you cut o",
+    "id": "ANIMESHIOLOGY/vecparity",
+    "language": "Python",
+    "name": "ANIMESHIOLOGY/vecparity",
+    "stars": 0,
+    "updated_at": "2026-08-25T15:03:01Z",
+    "url": "https://github.com/ANIMESHIOLOGY/vecparity"
+  },
+  {
+    "description": "HNSW and IVF-PQ parameter sweeps producing real recall-vs-latency curves, the filtered-ANN problem demonstrated, and a m",
+    "id": "malcomzww/retrieval-internals-and-tuning",
+    "language": "Python",
+    "name": "malcomzww/retrieval-internals-and-tuning",
+    "stars": 0,
+    "updated_at": "2026-08-25T15:02:16Z",
+    "url": "https://github.com/malcomzww/retrieval-internals-and-tuning"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 4,
+    "updated_at": "2026-08-25T15:01:58Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T15:00:33Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T15:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "PGVector to Pinecone Migration Template",
     "id": "pinecone-field/pgvector-migration",
     "language": "Jupyter Notebook",
@@ -14,17 +68,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30258,
-    "updated_at": "2026-08-25T14:52:36Z",
+    "updated_at": "2026-08-25T15:04:11Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live, quality-verified migration between vector databases: proves retrieval quality survived the switch before you cut o",
-    "id": "ANIMESHIOLOGY/vecparity",
-    "language": "Python",
-    "name": "ANIMESHIOLOGY/vecparity",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:49:36Z",
-    "url": "https://github.com/ANIMESHIOLOGY/vecparity"
   },
   {
     "description": "A local, secure, and visual RAG (Retrieval-Augmented Generation) assistant built with Spring Boot 3 (Spring AI), React (",
@@ -36,33 +81,6 @@
     "url": "https://github.com/toozuuu/rag-assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T14:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T14:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 4,
-    "updated_at": "2026-08-25T14:43:53Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -70,6 +88,24 @@
     "stars": 12945,
     "updated_at": "2026-08-25T14:43:41Z",
     "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 379,
+    "updated_at": "2026-08-25T14:43:17Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-25T14:42:50Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -140,7 +176,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1105,
-    "updated_at": "2026-08-25T14:49:18Z",
+    "updated_at": "2026-08-25T15:01:36Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -333,21 +369,12 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-25T14:42:50Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
     "id": "tamnd/yo",
     "language": "\u2014",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-25T14:56:22Z",
+    "updated_at": "2026-08-25T15:03:29Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/Zizka-ai/ZizkaDB"
   },
   {
-    "description": "HNSW and IVF-PQ parameter sweeps producing real recall-vs-latency curves, the filtered-ANN problem demonstrated, and a m",
-    "id": "malcomzww/retrieval-internals-and-tuning",
-    "language": "Python",
-    "name": "malcomzww/retrieval-internals-and-tuning",
-    "stars": 0,
-    "updated_at": "2026-08-25T14:53:57Z",
-    "url": "https://github.com/malcomzww/retrieval-internals-and-tuning"
-  },
-  {
     "description": "A unified python SDK supports OceanBase or OceanBase seekdb, more efficient and easy-to-use.",
     "id": "oceanbase/pyseekdb",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T12:58:38Z",
     "url": "https://github.com/josephkamau32/devintel"
-  },
-  {
-    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
-    "id": "boulif781/enterprise-knowledge-assistant",
-    "language": "\u2014",
-    "name": "boulif781/enterprise-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-25T12:44:43Z",
-    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 2,
-    "updated_at": "2026-08-25T12:43:54Z",
-    "url": "https://github.com/rostamlabs/rostam"
   }
 ]
