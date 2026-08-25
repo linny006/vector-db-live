@@ -1,11 +1,83 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T15:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-08-25T15:42:14Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 3,
+    "updated_at": "2026-08-25T15:42:42Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30258,
+    "updated_at": "2026-08-25T15:43:32Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T15:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 265,
+    "updated_at": "2026-08-25T15:29:21Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "HNSW and IVF-PQ parameter sweeps producing real recall-vs-latency curves, the filtered-ANN problem demonstrated, and a m",
+    "id": "malcomzww/retrieval-internals-and-tuning",
+    "language": "Python",
+    "name": "malcomzww/retrieval-internals-and-tuning",
+    "stars": 0,
+    "updated_at": "2026-08-25T15:27:29Z",
+    "url": "https://github.com/malcomzww/retrieval-internals-and-tuning"
+  },
+  {
+    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
+    "id": "kunal-rathore-111/Neptune",
+    "language": "TypeScript",
+    "name": "kunal-rathore-111/Neptune",
+    "stars": 0,
+    "updated_at": "2026-08-25T15:25:37Z",
+    "url": "https://github.com/kunal-rathore-111/Neptune"
+  },
+  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4426,
-    "updated_at": "2026-08-25T15:24:42Z",
+    "updated_at": "2026-08-25T15:44:33Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -18,40 +90,22 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T15:20:54Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "HNSW and IVF-PQ parameter sweeps producing real recall-vs-latency curves, the filtered-ANN problem demonstrated, and a m",
-    "id": "malcomzww/retrieval-internals-and-tuning",
-    "language": "Python",
-    "name": "malcomzww/retrieval-internals-and-tuning",
-    "stars": 0,
-    "updated_at": "2026-08-25T15:27:29Z",
-    "url": "https://github.com/malcomzww/retrieval-internals-and-tuning"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1646,
-    "updated_at": "2026-08-25T15:18:33Z",
+    "updated_at": "2026-08-25T15:37:41Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T15:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
+    "id": "hhblaze/DBreeze",
+    "language": "C#",
+    "name": "hhblaze/DBreeze",
+    "stars": 578,
+    "updated_at": "2026-08-25T15:17:33Z",
+    "url": "https://github.com/hhblaze/DBreeze"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -61,6 +115,15 @@
     "stars": 2,
     "updated_at": "2026-08-25T15:17:24Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-08-25T15:43:57Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
     "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
@@ -126,15 +189,6 @@
     "url": "https://github.com/Teodorsmith/solaris-zarya-engine"
   },
   {
-    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 4,
-    "updated_at": "2026-08-25T15:30:19Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -158,7 +212,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-25T15:17:59Z",
+    "updated_at": "2026-08-25T15:42:32Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -180,21 +234,12 @@
     "url": "https://github.com/pinecone-field/pgvector-migration"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30258,
-    "updated_at": "2026-08-25T15:28:43Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
     "name": "Benorina1/llm-vector-retrieval-playbook",
     "stars": 0,
-    "updated_at": "2026-08-25T14:49:41Z",
+    "updated_at": "2026-08-25T15:44:56Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-25T14:49:27Z",
+    "updated_at": "2026-08-25T15:32:46Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -221,7 +266,7 @@
     "language": "HTML",
     "name": "al7o/DocuMind-AI-Engine",
     "stars": 1,
-    "updated_at": "2026-08-25T14:46:04Z",
+    "updated_at": "2026-08-25T15:41:57Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
@@ -229,7 +274,7 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 5856,
+    "stars": 5857,
     "updated_at": "2026-08-25T14:43:46Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
@@ -257,7 +302,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-25T14:42:27Z",
+    "updated_at": "2026-08-25T15:39:48Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -293,7 +338,7 @@
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 2,
-    "updated_at": "2026-08-25T14:32:46Z",
+    "updated_at": "2026-08-25T15:31:18Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
@@ -338,7 +383,7 @@
     "language": "JavaScript",
     "name": "acsavenhq/llm-docs-lab",
     "stars": 0,
-    "updated_at": "2026-08-25T14:14:47Z",
+    "updated_at": "2026-08-25T15:41:05Z",
     "url": "https://github.com/acsavenhq/llm-docs-lab"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 424,
     "updated_at": "2026-08-25T13:55:12Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
-    "id": "alxxtexxr/arxiv_agent",
-    "language": "Python",
-    "name": "alxxtexxr/arxiv_agent",
-    "stars": 0,
-    "updated_at": "2026-08-25T13:53:31Z",
-    "url": "https://github.com/alxxtexxr/arxiv_agent"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "\u2014",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-25T15:22:38Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 7,
-    "updated_at": "2026-08-25T13:22:46Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-25T13:19:26Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "Memseek is an open source declarative context engine for AI agents. Define agent memory in versioned YAML \u2014 like Terrafo",
-    "id": "memseekai/memseek",
-    "language": "Python",
-    "name": "memseekai/memseek",
-    "stars": 4,
-    "updated_at": "2026-08-25T13:19:25Z",
-    "url": "https://github.com/memseekai/memseek"
   }
 ]
