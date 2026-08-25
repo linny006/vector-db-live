@@ -1,5 +1,149 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T00:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
+    "id": "api-evangelist/datastax",
+    "language": "\u2014",
+    "name": "api-evangelist/datastax",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:28:59Z",
+    "url": "https://github.com/api-evangelist/datastax"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 341,
+    "updated_at": "2026-08-25T00:28:06Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Crate.io is the company behind CrateDB, a distributed SQL database engineered for real-time analytics on large volumes o",
+    "id": "api-evangelist/crate-io",
+    "language": "\u2014",
+    "name": "api-evangelist/crate-io",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:26:40Z",
+    "url": "https://github.com/api-evangelist/crate-io"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-08-25T00:26:06Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "This document is a detailed reference to Contentstack\u2019s Content Delivery API. Retrieve content from your account and del",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:25:26Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
+    "description": "Full-stack multi-agent AI platform built with LangGraph, React 19, and Node/Express. Routes each query to a specialist a",
+    "id": "Saksham-A-garwal/Cortex",
+    "language": "JavaScript",
+    "name": "Saksham-A-garwal/Cortex",
+    "stars": 1,
+    "updated_at": "2026-08-25T00:25:15Z",
+    "url": "https://github.com/Saksham-A-garwal/Cortex"
+  },
+  {
+    "description": "Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:25:06Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-25T00:22:44Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Pragmatic AI Engineering Skills Library for LLMs, RAG, Agents, MCP & Spring AI",
+    "id": "jihedbfr-art/ai-skills",
+    "language": "\u2014",
+    "name": "jihedbfr-art/ai-skills",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:22:34Z",
+    "url": "https://github.com/jihedbfr-art/ai-skills"
+  },
+  {
+    "description": "Chroma (Chroma DB) is an open-source AI-native embedding database designed to make it easy to build LLM applications by ",
+    "id": "api-evangelist/chroma",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:21:38Z",
+    "url": "https://github.com/api-evangelist/chroma"
+  },
+  {
+    "description": "Chroma (Chroma DB) is an open-source, AI-native vector database (embedding database) for building LLM, RAG, and semantic",
+    "id": "api-evangelist/chroma-db",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma-db",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:21:37Z",
+    "url": "https://github.com/api-evangelist/chroma-db"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-25T00:20:57Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45771,
+    "updated_at": "2026-08-25T00:16:59Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11263,
+    "updated_at": "2026-08-25T00:20:24Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T00:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Azure Cosmos DB is a fully managed, globally distributed, multi-model NoSQL and relational database service from Microso",
     "id": "api-evangelist/azure-cosmos-db",
     "language": "\u2014",
@@ -18,30 +162,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45771,
-    "updated_at": "2026-08-25T00:09:22Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-08-25T00:09:11Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
     "id": "thameema/memnos",
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 2,
-    "updated_at": "2026-08-25T00:08:29Z",
+    "updated_at": "2026-08-25T00:29:08Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -52,15 +178,6 @@
     "stars": 16,
     "updated_at": "2026-08-25T00:08:54Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Full-stack multi-agent AI platform built with LangGraph, React 19, and Node/Express. Routes each query to a specialist a",
-    "id": "Saksham-A-garwal/Cortex",
-    "language": "JavaScript",
-    "name": "Saksham-A-garwal/Cortex",
-    "stars": 1,
-    "updated_at": "2026-08-25T00:04:17Z",
-    "url": "https://github.com/Saksham-A-garwal/Cortex"
   },
   {
     "description": "Agent-native memory infrastructure for AI coding assistants. Governed session capture, LLM compression, hybrid retrieval",
@@ -79,33 +196,6 @@
     "stars": 17,
     "updated_at": "2026-08-25T00:03:49Z",
     "url": "https://github.com/dkylewillis/vera"
-  },
-  {
-    "description": "Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha",
-    "id": "api-evangelist/aerospike",
-    "language": "\u2014",
-    "name": "api-evangelist/aerospike",
-    "stars": 0,
-    "updated_at": "2026-08-25T00:03:14Z",
-    "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T00:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T00:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\uddc4\ufe0f Programa abierto de ingenier\u00eda de bases de datos \u00b7 64 clases en 14 partes \u00b7 210 horas \u00b7 Del modelado conceptual a la ",
@@ -140,7 +230,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1649,
-    "updated_at": "2026-08-24T23:50:25Z",
+    "updated_at": "2026-08-25T00:20:19Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -149,7 +239,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9188,
-    "updated_at": "2026-08-25T00:10:58Z",
+    "updated_at": "2026-08-25T00:30:13Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -166,7 +256,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65154,
+    "stars": 65153,
     "updated_at": "2026-08-24T23:45:58Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -194,17 +284,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1100,
-    "updated_at": "2026-08-24T23:43:28Z",
+    "updated_at": "2026-08-25T00:28:39Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11263,
-    "updated_at": "2026-08-25T00:10:49Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
@@ -270,15 +351,6 @@
     "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
   },
   {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-08-24T23:17:10Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -286,15 +358,6 @@
     "stars": 2,
     "updated_at": "2026-08-24T23:12:16Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-24T23:08:40Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -385,68 +448,5 @@
     "stars": 6813,
     "updated_at": "2026-08-24T21:44:47Z",
     "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 3,
-    "updated_at": "2026-08-24T21:39:19Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 55,
-    "updated_at": "2026-08-24T21:39:26Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-08-24T21:29:09Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 51851,
-    "updated_at": "2026-08-24T21:24:35Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
-    "id": "josephkamau32/devintel",
-    "language": "Python",
-    "name": "josephkamau32/devintel",
-    "stars": 1,
-    "updated_at": "2026-08-24T21:23:34Z",
-    "url": "https://github.com/josephkamau32/devintel"
-  },
-  {
-    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 4,
-    "updated_at": "2026-08-24T21:00:16Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
-    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
-    "id": "kichikubeihei/CodeMemoryPrime",
-    "language": "Rust",
-    "name": "kichikubeihei/CodeMemoryPrime",
-    "stars": 0,
-    "updated_at": "2026-08-24T21:00:09Z",
-    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
   }
 ]
