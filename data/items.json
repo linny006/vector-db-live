@@ -1,5 +1,23 @@
 [
   {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-25T21:01:16Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T21:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -63,15 +81,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T20:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6832,
-    "updated_at": "2026-08-25T20:45:20Z",
+    "updated_at": "2026-08-25T21:01:49Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -158,7 +167,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11270,
-    "updated_at": "2026-08-25T20:49:25Z",
+    "updated_at": "2026-08-25T21:02:29Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -421,15 +430,6 @@
     "stars": 1,
     "updated_at": "2026-08-25T19:21:30Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-25T19:40:37Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "In-memory knowledge store for AI agents",
