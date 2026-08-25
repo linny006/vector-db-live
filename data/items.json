@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T12:15:24Z",
+    "updated_at": "2026-08-25T12:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Memseek is an open source declarative context engine for AI agents. Define agent memory in versioned YAML \u2014 like Terrafo",
+    "id": "memseekai/memseek",
+    "language": "Python",
+    "name": "memseekai/memseek",
+    "stars": 4,
+    "updated_at": "2026-08-25T12:28:50Z",
+    "url": "https://github.com/memseekai/memseek"
+  },
+  {
+    "description": "Mnemosyne \u2014 AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search,",
+    "id": "M4F-S/mnemosyne",
+    "language": "Python",
+    "name": "M4F-S/mnemosyne",
+    "stars": 23,
+    "updated_at": "2026-08-25T12:25:23Z",
+    "url": "https://github.com/M4F-S/mnemosyne"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-25T12:22:25Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
+    "id": "Ojcalzada/pulsepoint-RAG",
+    "language": "Python",
+    "name": "Ojcalzada/pulsepoint-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-25T12:20:51Z",
+    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
+  },
+  {
+    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
+    "id": "Nayjest/ai-microcore",
+    "language": "Python",
+    "name": "Nayjest/ai-microcore",
+    "stars": 108,
+    "updated_at": "2026-08-25T12:19:34Z",
+    "url": "https://github.com/Nayjest/ai-microcore"
+  },
+  {
+    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
+    "id": "persona-net/rag-pipeline-dashboard",
+    "language": "TypeScript",
+    "name": "persona-net/rag-pipeline-dashboard",
+    "stars": 0,
+    "updated_at": "2026-08-25T12:18:50Z",
+    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-25T12:18:10Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
+    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "language": "Python",
+    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "stars": 2,
+    "updated_at": "2026-08-25T12:17:47Z",
+    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-08-25T12:16:18Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-25T12:16:07Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +104,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-25T12:15:05Z",
+    "updated_at": "2026-08-25T12:15:29Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-08-25T12:14:42Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -27,12 +126,21 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-08-25T12:13:06Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8137,
-    "updated_at": "2026-08-25T12:11:49Z",
+    "updated_at": "2026-08-25T12:20:28Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -86,7 +194,7 @@
     "language": "Python",
     "name": "Chief-Strategist-J/llm-observability-platform",
     "stars": 4,
-    "updated_at": "2026-08-25T12:03:55Z",
+    "updated_at": "2026-08-25T12:29:07Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
@@ -122,7 +230,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 88,
-    "updated_at": "2026-08-25T12:00:17Z",
+    "updated_at": "2026-08-25T12:26:42Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -185,7 +293,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4426,
-    "updated_at": "2026-08-25T12:09:08Z",
+    "updated_at": "2026-08-25T12:27:12Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -230,7 +338,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7066,
-    "updated_at": "2026-08-25T11:57:02Z",
+    "updated_at": "2026-08-25T12:18:58Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -277,24 +385,6 @@
     "stars": 44,
     "updated_at": "2026-08-25T11:44:22Z",
     "url": "https://github.com/Shah91n/weaviate-cluster-webapp"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-25T11:43:32Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-25T11:36:54Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -358,95 +448,5 @@
     "stars": 11,
     "updated_at": "2026-08-25T11:25:32Z",
     "url": "https://github.com/batuhanzorbeyzengin/rebasis"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-25T11:25:07Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
-    "id": "josephkamau32/devintel",
-    "language": "Python",
-    "name": "josephkamau32/devintel",
-    "stars": 1,
-    "updated_at": "2026-08-25T11:19:37Z",
-    "url": "https://github.com/josephkamau32/devintel"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 89,
-    "updated_at": "2026-08-25T11:25:49Z",
-    "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-25T11:15:23Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
-    "id": "Mid-D-Man/msx",
-    "language": "Rust",
-    "name": "Mid-D-Man/msx",
-    "stars": 0,
-    "updated_at": "2026-08-25T11:04:19Z",
-    "url": "https://github.com/Mid-D-Man/msx"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 93,
-    "updated_at": "2026-08-25T12:15:07Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Local AI Agent powered by Qwen 2.5 and ChromaDB (LaBSE) for automated multi-language nomenclature parsing, structural fe",
-    "id": "SamvelGalstyan15/AI-Agent",
-    "language": "Jupyter Notebook",
-    "name": "SamvelGalstyan15/AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-25T10:59:31Z",
-    "url": "https://github.com/SamvelGalstyan15/AI-Agent"
-  },
-  {
-    "description": "EKA Agent \u2014 Multi-device data ingestion, LoRA training pipeline, and vector DB for a private AI agent. Hub-and-spoke: 6 ",
-    "id": "jaytipargal/jayti",
-    "language": "Python",
-    "name": "jaytipargal/jayti",
-    "stars": 0,
-    "updated_at": "2026-08-25T10:59:23Z",
-    "url": "https://github.com/jaytipargal/jayti"
-  },
-  {
-    "description": "A full-stack, Keep-style note-taking SaaS with AI baked in \u2014 Gemini-powered title generation, on-demand summaries, and a",
-    "id": "MeetVora79/notevault",
-    "language": "JavaScript",
-    "name": "MeetVora79/notevault",
-    "stars": 1,
-    "updated_at": "2026-08-25T10:42:55Z",
-    "url": "https://github.com/MeetVora79/notevault"
-  },
-  {
-    "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
-    "id": "mirkobozzetto/flowflow",
-    "language": "Rust",
-    "name": "mirkobozzetto/flowflow",
-    "stars": 164,
-    "updated_at": "2026-08-25T10:38:27Z",
-    "url": "https://github.com/mirkobozzetto/flowflow"
   }
 ]
