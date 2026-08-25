@@ -1,12 +1,93 @@
 [
   {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-25T23:26:10Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9196,
+    "updated_at": "2026-08-25T23:30:18Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "MCP client for AutoMem \u2014 give Claude, Cursor, Codex, and other MCP tools durable graph+vector memory across conversation",
+    "id": "verygoodplugins/mcp-automem",
+    "language": "TypeScript",
+    "name": "verygoodplugins/mcp-automem",
+    "stars": 64,
+    "updated_at": "2026-08-25T23:25:21Z",
+    "url": "https://github.com/verygoodplugins/mcp-automem"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-25T23:25:03Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Kubernetes Operator for Qdrant \u2014 declarative QdrantCluster provisioning, distributed (Raft) clusters, scale-out & rebala",
+    "id": "KeiaiLab/qdrant-operator",
+    "language": "Go",
+    "name": "KeiaiLab/qdrant-operator",
+    "stars": 0,
+    "updated_at": "2026-08-25T23:24:32Z",
+    "url": "https://github.com/KeiaiLab/qdrant-operator"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-25T23:23:26Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-25T23:15:25Z",
+    "updated_at": "2026-08-25T23:21:58Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "YantrikDB integration for LangChain \u2014 cognitive memory as a VectorStore and ChatMessageHistory",
+    "id": "yantrikos/langchain-yantrikdb",
+    "language": "Python",
+    "name": "yantrikos/langchain-yantrikdb",
+    "stars": 0,
+    "updated_at": "2026-08-25T23:17:35Z",
+    "url": "https://github.com/yantrikos/langchain-yantrikdb"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-08-25T23:28:40Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T23:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -25,15 +106,6 @@
     "stars": 1881,
     "updated_at": "2026-08-25T23:13:30Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T23:09:07Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -81,21 +153,12 @@
     "url": "https://github.com/perforate-org/gleaph"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-25T22:56:12Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-25T22:54:49Z",
+    "updated_at": "2026-08-25T23:16:52Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T22:52:59Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9196,
-    "updated_at": "2026-08-25T23:13:24Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -171,15 +225,6 @@
     "url": "https://github.com/ricmed/zettel_app"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-25T22:28:00Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "RAG-powered company knowledge base with automated document ingestion, AI metadata extraction, Pinecone retrieval, and co",
     "id": "swaytimmy35-Ai-Auto/ai-company-knowledge-base-and-rag-assistant",
     "language": "\u2014",
@@ -187,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T22:25:23Z",
     "url": "https://github.com/swaytimmy35-Ai-Auto/ai-company-knowledge-base-and-rag-assistant"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-25T22:24:30Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
@@ -239,7 +275,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8137,
-    "updated_at": "2026-08-25T22:54:20Z",
+    "updated_at": "2026-08-25T23:24:18Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-08-25T21:08:13Z",
+    "updated_at": "2026-08-25T23:22:52Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 16753,
     "updated_at": "2026-08-25T20:06:54Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Enterprise RAG Knowledge Base. Upload PDFs and chat with the data using Pinecone Vector Search, Jina Embeddings, and Gro",
-    "id": "SomeoneGitMe/enterprise-rag",
-    "language": "TypeScript",
-    "name": "SomeoneGitMe/enterprise-rag",
-    "stars": 0,
-    "updated_at": "2026-08-25T20:03:25Z",
-    "url": "https://github.com/SomeoneGitMe/enterprise-rag"
-  },
-  {
-    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
-    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "language": "Jupyter Notebook",
-    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "stars": 0,
-    "updated_at": "2026-08-25T19:59:26Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
-  },
-  {
-    "description": "Local AI server with persistent memory, RAG, and multi-backend inference (MLX / llama.cpp / Ollama). Runs entirely on yo",
-    "id": "jgoy-labs/server-nexe",
-    "language": "Python",
-    "name": "jgoy-labs/server-nexe",
-    "stars": 10,
-    "updated_at": "2026-08-25T19:57:41Z",
-    "url": "https://github.com/jgoy-labs/server-nexe"
-  },
-  {
-    "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
-    "id": "mirkobozzetto/flowflow",
-    "language": "Rust",
-    "name": "mirkobozzetto/flowflow",
-    "stars": 164,
-    "updated_at": "2026-08-25T19:56:45Z",
-    "url": "https://github.com/mirkobozzetto/flowflow"
   }
 ]
