@@ -1,5 +1,77 @@
 [
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45779,
+    "updated_at": "2026-08-25T09:25:22Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-25T09:22:45Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12943,
+    "updated_at": "2026-08-25T09:20:14Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9423,
+    "updated_at": "2026-08-25T09:21:52Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1904,
+    "updated_at": "2026-08-25T09:18:19Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 7,
+    "updated_at": "2026-08-25T09:18:02Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T09:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T09:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -18,21 +90,12 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T09:07:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-25T09:11:40Z",
+    "updated_at": "2026-08-25T09:23:12Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -45,31 +108,22 @@
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59082,
+    "updated_at": "2026-08-25T09:01:45Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1103,
-    "updated_at": "2026-08-25T09:00:26Z",
+    "updated_at": "2026-08-25T09:28:25Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T09:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1904,
-    "updated_at": "2026-08-25T08:58:49Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -117,6 +171,15 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30254,
+    "updated_at": "2026-08-25T09:17:33Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
     "id": "opencrawling/opencrawling",
     "language": "Java",
@@ -142,15 +205,6 @@
     "stars": 7066,
     "updated_at": "2026-08-25T09:10:43Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9423,
-    "updated_at": "2026-08-25T09:13:30Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -185,7 +239,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34175,
-    "updated_at": "2026-08-25T09:08:54Z",
+    "updated_at": "2026-08-25T09:19:11Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -207,20 +261,11 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-25T08:27:45Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35319,
+    "stars": 35320,
     "updated_at": "2026-08-25T08:26:50Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -232,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T08:25:42Z",
     "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30253,
-    "updated_at": "2026-08-25T08:52:47Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -265,7 +301,7 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 5851,
+    "stars": 5852,
     "updated_at": "2026-08-25T08:10:01Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
@@ -284,7 +320,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4426,
-    "updated_at": "2026-08-25T08:57:14Z",
+    "updated_at": "2026-08-25T09:29:42Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -315,13 +351,13 @@
     "url": "https://github.com/alibaba/zvec"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45778,
-    "updated_at": "2026-08-25T07:49:23Z",
-    "url": "https://github.com/milvus-io/milvus"
+    "description": "HNSW and IVF-PQ parameter sweeps producing real recall-vs-latency curves, the filtered-ANN problem demonstrated, and a m",
+    "id": "malcomzww/retrieval-internals-and-tuning",
+    "language": "Python",
+    "name": "malcomzww/retrieval-internals-and-tuning",
+    "stars": 0,
+    "updated_at": "2026-08-25T07:51:09Z",
+    "url": "https://github.com/malcomzww/retrieval-internals-and-tuning"
   },
   {
     "description": "Retrieval-Augmented Generation Driven by Offline Local LLMs",
@@ -333,20 +369,11 @@
     "url": "https://github.com/r-xue/ragdoll"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12943,
-    "updated_at": "2026-08-25T07:38:41Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11266,
+    "stars": 11267,
     "updated_at": "2026-08-25T07:29:45Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -392,7 +419,7 @@
     "language": "Go",
     "name": "zilliztech/milvus-operator",
     "stars": 125,
-    "updated_at": "2026-08-25T08:26:37Z",
+    "updated_at": "2026-08-25T09:28:19Z",
     "url": "https://github.com/zilliztech/milvus-operator"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 13,
     "updated_at": "2026-08-25T07:09:18Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-08-25T07:04:06Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Production-ready AI Research Assistant using RAG, LangChain, FAISS, Groq LLM, Sentence Transformers, and Streamlit.",
-    "id": "DiwakarNallappagari/AI-Research-Assistant",
-    "language": "Python",
-    "name": "DiwakarNallappagari/AI-Research-Assistant",
-    "stars": 0,
-    "updated_at": "2026-08-25T06:50:15Z",
-    "url": "https://github.com/DiwakarNallappagari/AI-Research-Assistant"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-08-25T06:31:15Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   }
 ]
