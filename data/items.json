@@ -1,12 +1,75 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T10:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1103,
+    "updated_at": "2026-08-25T09:58:03Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
+    "id": "Mid-D-Man/msx",
+    "language": "Rust",
+    "name": "Mid-D-Man/msx",
+    "stars": 0,
+    "updated_at": "2026-08-25T09:55:20Z",
+    "url": "https://github.com/Mid-D-Man/msx"
+  },
+  {
     "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
     "id": "feather-store/feather",
     "language": "Python",
     "name": "feather-store/feather",
     "stars": 7,
-    "updated_at": "2026-08-25T09:49:56Z",
+    "updated_at": "2026-08-25T09:53:17Z",
     "url": "https://github.com/feather-store/feather"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12944,
+    "updated_at": "2026-08-25T09:52:54Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-25T09:51:33Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T09:50:52Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A suite of WAL-based embedded data stores. RDBMS, KV Store, GraphStore, VectorStore, Columnar and more",
+    "id": "openpeeps/boogie",
+    "language": "Nim",
+    "name": "openpeeps/boogie",
+    "stars": 6,
+    "updated_at": "2026-08-25T09:50:05Z",
+    "url": "https://github.com/openpeeps/boogie"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -27,24 +90,6 @@
     "url": "https://github.com/tryAGI/Chroma"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T09:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T09:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -52,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-25T09:44:28Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12944,
-    "updated_at": "2026-08-25T09:44:26Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -86,7 +122,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4426,
-    "updated_at": "2026-08-25T09:40:32Z",
+    "updated_at": "2026-08-25T09:52:20Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9423,
-    "updated_at": "2026-08-25T09:34:44Z",
+    "updated_at": "2026-08-25T09:57:10Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -153,21 +189,12 @@
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-25T09:08:21Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-25T09:46:32Z",
+    "updated_at": "2026-08-25T09:55:27Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-08-25T09:40:13Z",
+    "updated_at": "2026-08-25T09:53:23Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -184,18 +211,9 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59082,
+    "stars": 59083,
     "updated_at": "2026-08-25T09:01:45Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1103,
-    "updated_at": "2026-08-25T09:43:58Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30254,
-    "updated_at": "2026-08-25T09:17:33Z",
+    "updated_at": "2026-08-25T09:55:58Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -275,7 +293,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34175,
-    "updated_at": "2026-08-25T09:44:25Z",
+    "updated_at": "2026-08-25T09:58:38Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -373,7 +391,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15512,
+    "stars": 15513,
     "updated_at": "2026-08-25T07:51:35Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -383,7 +401,7 @@
     "language": "Python",
     "name": "malcomzww/retrieval-internals-and-tuning",
     "stars": 0,
-    "updated_at": "2026-08-25T07:51:09Z",
+    "updated_at": "2026-08-25T10:00:10Z",
     "url": "https://github.com/malcomzww/retrieval-internals-and-tuning"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T07:23:30Z",
     "url": "https://github.com/BELBINBENORM/ai-knowledge-platform"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-08-25T07:22:21Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
-  },
-  {
-    "description": "The Kubernetes Operator of Milvus. ",
-    "id": "zilliztech/milvus-operator",
-    "language": "Go",
-    "name": "zilliztech/milvus-operator",
-    "stars": 125,
-    "updated_at": "2026-08-25T09:28:19Z",
-    "url": "https://github.com/zilliztech/milvus-operator"
   }
 ]
