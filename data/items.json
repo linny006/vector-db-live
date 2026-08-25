@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-25T03:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45776,
+    "updated_at": "2026-08-25T03:09:23Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Self-correcting Agentic RAG for enterprise document Q&A, built with LangGraph, Chroma, OpenAI/Ollama, Tavily, FastAPI, a",
+    "id": "rhenus-Q/Enterprise-Agentic-RAG",
+    "language": "Python",
+    "name": "rhenus-Q/Enterprise-Agentic-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-25T03:07:50Z",
+    "url": "https://github.com/rhenus-Q/Enterprise-Agentic-RAG"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9190,
+    "updated_at": "2026-08-25T03:06:13Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 16,
+    "updated_at": "2026-08-25T03:07:04Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-25T03:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -23,7 +77,7 @@
     "language": "TypeScript",
     "name": "carlwelchdesign/supraconscious-avatar-ai",
     "stars": 0,
-    "updated_at": "2026-08-25T02:58:42Z",
+    "updated_at": "2026-08-25T03:08:01Z",
     "url": "https://github.com/carlwelchdesign/supraconscious-avatar-ai"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 2631,
-    "updated_at": "2026-08-25T02:57:20Z",
+    "updated_at": "2026-08-25T03:11:00Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -79,24 +133,6 @@
     "stars": 6365,
     "updated_at": "2026-08-25T02:48:46Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-25T02:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T02:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -162,15 +198,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 16,
-    "updated_at": "2026-08-25T02:13:34Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -187,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T02:07:00Z",
     "url": "https://github.com/Susanta2025-lab/estudio-polymind-llm-orchestration"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9190,
-    "updated_at": "2026-08-25T02:11:54Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -248,7 +266,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 235,
-    "updated_at": "2026-08-25T02:51:07Z",
+    "updated_at": "2026-08-25T03:13:48Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1101,
-    "updated_at": "2026-08-25T02:56:19Z",
+    "updated_at": "2026-08-25T03:11:17Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -355,7 +373,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65157,
+    "stars": 65158,
     "updated_at": "2026-08-25T01:25:22Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -385,15 +403,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T01:11:42Z",
     "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45774,
-    "updated_at": "2026-08-25T02:31:22Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-25T01:07:34Z",
     "url": "https://github.com/api-evangelist/mixedbread-ai"
-  },
-  {
-    "description": "Milvus is an Apache 2.0 open-source vector database. It exposes a versioned REST API alongside gRPC and language SDKs (P",
-    "id": "api-evangelist/milvus",
-    "language": "\u2014",
-    "name": "api-evangelist/milvus",
-    "stars": 0,
-    "updated_at": "2026-08-25T01:07:01Z",
-    "url": "https://github.com/api-evangelist/milvus"
   }
 ]
