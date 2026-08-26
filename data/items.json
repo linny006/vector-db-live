@@ -1,11 +1,65 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1108,
+    "updated_at": "2026-08-26T14:58:54Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 265,
+    "updated_at": "2026-08-26T14:48:22Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-26T15:00:25Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T14:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T14:45:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-26T14:38:44Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
     "description": "Official website and documentation for ParqDB.",
     "id": "parqdb-io/parqdb-io.github.io",
     "language": "Astro",
     "name": "parqdb-io/parqdb-io.github.io",
     "stars": 0,
-    "updated_at": "2026-08-26T14:37:26Z",
+    "updated_at": "2026-08-26T14:50:38Z",
     "url": "https://github.com/parqdb-io/parqdb-io.github.io"
   },
   {
@@ -18,13 +72,31 @@
     "url": "https://github.com/TAIPANBOX/engram"
   },
   {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 265,
-    "updated_at": "2026-08-26T14:31:28Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6852,
+    "updated_at": "2026-08-26T14:34:35Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1347,
+    "updated_at": "2026-08-26T14:33:54Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-26T14:32:41Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "GDPR/CCPA Right-to-be-Forgotten Engine for Vector Databases (ChromaDB, Qdrant, Pgvector) with Global PII Extraction, Dry",
@@ -32,26 +104,8 @@
     "language": "Python",
     "name": "Toskurim/vector-unforget",
     "stars": 3,
-    "updated_at": "2026-08-26T14:30:59Z",
+    "updated_at": "2026-08-26T14:48:18Z",
     "url": "https://github.com/Toskurim/vector-unforget"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T14:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T14:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
@@ -85,7 +139,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34198,
+    "stars": 34199,
     "updated_at": "2026-08-26T14:24:00Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -149,7 +203,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-26T14:16:25Z",
+    "updated_at": "2026-08-26T14:46:21Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -175,18 +229,9 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65233,
+    "stars": 65234,
     "updated_at": "2026-08-26T14:15:30Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6851,
-    "updated_at": "2026-08-26T14:34:35Z",
-    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "ANORA \u2014 An AI-powered cloud knowledge intelligence platform. Upload documents, get grounded answers via RAG with source ",
@@ -203,7 +248,7 @@
     "language": "Python",
     "name": "GMCavalheri/Smart-Pokedex",
     "stars": 0,
-    "updated_at": "2026-08-26T14:14:15Z",
+    "updated_at": "2026-08-26T14:51:30Z",
     "url": "https://github.com/GMCavalheri/Smart-Pokedex"
   },
   {
@@ -266,17 +311,8 @@
     "language": "TypeScript",
     "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-08-26T14:01:27Z",
+    "updated_at": "2026-08-26T14:55:48Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1347,
-    "updated_at": "2026-08-26T14:33:54Z",
-    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": "Vespa is an open-source AI search engine, big-data serving engine, and vector database originally developed inside Yahoo",
@@ -338,17 +374,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-26T14:43:53Z",
+    "updated_at": "2026-08-26T14:53:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-26T14:38:44Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -392,7 +419,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4427,
-    "updated_at": "2026-08-26T14:17:33Z",
+    "updated_at": "2026-08-26T14:51:37Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -401,7 +428,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30273,
-    "updated_at": "2026-08-26T14:20:54Z",
+    "updated_at": "2026-08-26T15:00:04Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T14:42:12Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:49:33Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-26T13:48:37Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2265,
-    "updated_at": "2026-08-26T13:43:51Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   }
 ]
