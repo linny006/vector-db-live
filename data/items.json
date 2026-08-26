@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T23:30:18Z",
+    "updated_at": "2026-08-26T23:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-08-26T23:40:35Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "A hex-native embedded database for Go. Morton keys, native ring scans, seams (contradictions), MVCC, provenance, and opt",
+    "id": "hexxla/hexxladb",
+    "language": "Go",
+    "name": "hexxla/hexxladb",
+    "stars": 29,
+    "updated_at": "2026-08-26T23:33:59Z",
+    "url": "https://github.com/hexxla/hexxladb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T23:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "DataBrain is a powerful, modular, and local-first knowledge management and learning platform designed to help you organi",
+    "id": "infinition/DataBrain",
+    "language": "JavaScript",
+    "name": "infinition/DataBrain",
+    "stars": 6,
+    "updated_at": "2026-08-26T23:30:23Z",
+    "url": "https://github.com/infinition/DataBrain"
+  },
+  {
+    "description": "The Vector Database for Agents & Humans.",
+    "id": "daryltucker/vecdb",
+    "language": "Rust",
+    "name": "daryltucker/vecdb",
+    "stars": 0,
+    "updated_at": "2026-08-26T23:27:15Z",
+    "url": "https://github.com/daryltucker/vecdb"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -34,15 +79,6 @@
     "stars": 1907,
     "updated_at": "2026-08-26T23:16:51Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T23:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -79,15 +115,6 @@
     "stars": 6218,
     "updated_at": "2026-08-26T23:07:56Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "The Vector Database for Agents & Humans.",
-    "id": "daryltucker/vecdb",
-    "language": "Rust",
-    "name": "daryltucker/vecdb",
-    "stars": 0,
-    "updated_at": "2026-08-26T23:27:15Z",
-    "url": "https://github.com/daryltucker/vecdb"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -175,7 +202,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65252,
+    "stars": 65255,
     "updated_at": "2026-08-26T22:13:37Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -421,32 +448,5 @@
     "stars": 449,
     "updated_at": "2026-08-26T20:24:33Z",
     "url": "https://github.com/pinecone-io/python-sdk"
-  },
-  {
-    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
-    "id": "Mid-D-Man/msx",
-    "language": "Rust",
-    "name": "Mid-D-Man/msx",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:52:25Z",
-    "url": "https://github.com/Mid-D-Man/msx"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35333,
-    "updated_at": "2026-08-26T19:50:00Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-08-26T19:47:27Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
   }
 ]
