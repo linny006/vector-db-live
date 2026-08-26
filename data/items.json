@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T23:00:19Z",
+    "updated_at": "2026-08-26T23:15:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-26T23:05:04Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T23:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -18,13 +36,31 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6218,
+    "updated_at": "2026-08-26T23:07:56Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
     "description": "The Vector Database for Agents & Humans.",
     "id": "daryltucker/vecdb",
     "language": "Rust",
     "name": "daryltucker/vecdb",
     "stars": 0,
-    "updated_at": "2026-08-26T22:49:44Z",
+    "updated_at": "2026-08-26T23:15:11Z",
     "url": "https://github.com/daryltucker/vecdb"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-26T22:48:56Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -45,15 +81,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T22:45:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
@@ -68,7 +95,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9199,
-    "updated_at": "2026-08-26T22:59:50Z",
+    "updated_at": "2026-08-26T23:14:58Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -88,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-08-26T22:24:49Z",
     "url": "https://github.com/gmr/dotilla"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-26T22:20:26Z",
+    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Autonomous AI Developer Productivity & RAG Knowledge Platform",
@@ -144,22 +180,13 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-26T21:56:45Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6218,
-    "updated_at": "2026-08-26T22:51:33Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "description": "Production-ready RAG system for question-answering over PDF documents with semantic search, strict hallucination prevent",
+    "id": "beyzahiz/PDF-Chat-RAG",
+    "language": "Python",
+    "name": "beyzahiz/PDF-Chat-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-26T21:57:40Z",
+    "url": "https://github.com/beyzahiz/PDF-Chat-RAG"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -207,21 +234,12 @@
     "url": "https://github.com/writerslogic/holographic-memory"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-26T22:20:26Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1670,
-    "updated_at": "2026-08-26T22:53:02Z",
+    "updated_at": "2026-08-26T23:11:51Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11284,
-    "updated_at": "2026-08-26T22:56:01Z",
+    "updated_at": "2026-08-26T23:14:07Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-26T22:20:04Z",
     "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
-    "id": "kichikubeihei/CodeMemoryPrime",
-    "language": "Rust",
-    "name": "kichikubeihei/CodeMemoryPrime",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:34:14Z",
-    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 3,
-    "updated_at": "2026-08-26T19:25:45Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   }
 ]
