@@ -5,8 +5,152 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T12:45:19Z",
+    "updated_at": "2026-08-26T13:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-26T12:59:42Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
+    "id": "acsavenhq/llm-docs-lab",
+    "language": "JavaScript",
+    "name": "acsavenhq/llm-docs-lab",
+    "stars": 1,
+    "updated_at": "2026-08-26T12:55:55Z",
+    "url": "https://github.com/acsavenhq/llm-docs-lab"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65225,
+    "updated_at": "2026-08-26T12:55:47Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-26T12:54:57Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-26T12:53:02Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Gel Data (formerly EdgeDB Inc.) builds Gel, an open-source graph-relational database that supercharges PostgreSQL with a",
+    "id": "api-evangelist/gel-data",
+    "language": "\u2014",
+    "name": "api-evangelist/gel-data",
+    "stars": 0,
+    "updated_at": "2026-08-26T12:52:21Z",
+    "url": "https://github.com/api-evangelist/gel-data"
+  },
+  {
+    "description": "A Retrieval-Augmented Generation (RAG) assistant that lets users upload PDFs and text files to ask questions grounded st",
+    "id": "krrish-cypto/DocuMind-AI",
+    "language": "Python",
+    "name": "krrish-cypto/DocuMind-AI",
+    "stars": 0,
+    "updated_at": "2026-08-26T12:58:51Z",
+    "url": "https://github.com/krrish-cypto/DocuMind-AI"
+  },
+  {
+    "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
+    "id": "thelastpickle/open-htap-stack",
+    "language": "Python",
+    "name": "thelastpickle/open-htap-stack",
+    "stars": 3,
+    "updated_at": "2026-08-26T12:49:43Z",
+    "url": "https://github.com/thelastpickle/open-htap-stack"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1669,
+    "updated_at": "2026-08-26T12:49:01Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-26T12:48:23Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-26T12:46:47Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-26T12:46:34Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 468,
+    "updated_at": "2026-08-26T12:46:15Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-08-26T12:45:44Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T12:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4427,
+    "updated_at": "2026-08-26T12:44:54Z",
+    "url": "https://github.com/crate/crate"
   },
   {
     "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
@@ -32,7 +176,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-26T12:41:05Z",
+    "updated_at": "2026-08-26T12:47:22Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -50,7 +194,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-26T12:44:37Z",
+    "updated_at": "2026-08-26T12:59:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -90,15 +234,6 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T12:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Chroma (Chroma DB) is an open-source AI-native embedding database designed to make it easy to build LLM applications by ",
     "id": "api-evangelist/chroma",
     "language": "\u2014",
@@ -122,7 +257,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 70,
-    "updated_at": "2026-08-26T12:29:12Z",
+    "updated_at": "2026-08-26T12:53:45Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -151,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T12:24:55Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-26T12:22:18Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "Azure Cosmos DB is a fully managed, globally distributed, multi-model NoSQL and relational database service from Microso",
@@ -202,7 +328,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45801,
+    "stars": 45800,
     "updated_at": "2026-08-26T12:17:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -221,7 +347,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30270,
-    "updated_at": "2026-08-26T12:13:18Z",
+    "updated_at": "2026-08-26T12:49:05Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -232,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T12:10:30Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-26T12:09:32Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The AI search platform",
@@ -279,15 +396,6 @@
     "url": "https://github.com/M4F-S/mnemosyne"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-26T11:52:39Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "Embedded, lightweight, high-performance vector database for Python \u2014 Rust core on TurboVec + Stoolap",
     "id": "DonyNurArifR/zenar",
     "language": "Rust",
@@ -311,26 +419,8 @@
     "language": "HTML",
     "name": "Benorina1/llm-vector-retrieval-playbook",
     "stars": 0,
-    "updated_at": "2026-08-26T11:43:32Z",
+    "updated_at": "2026-08-26T12:58:30Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-26T11:42:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
-    "id": "acsavenhq/llm-docs-lab",
-    "language": "JavaScript",
-    "name": "acsavenhq/llm-docs-lab",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:42:23Z",
-    "url": "https://github.com/acsavenhq/llm-docs-lab"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -351,102 +441,12 @@
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1669,
-    "updated_at": "2026-08-26T12:34:05Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:30:18Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
     "id": "agent-ix/ecaz",
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 3,
-    "updated_at": "2026-08-26T12:39:05Z",
+    "updated_at": "2026-08-26T12:52:06Z",
     "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:27:24Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "GDPR/CCPA Right-to-be-Forgotten Engine for Vector Databases (ChromaDB, Qdrant, Pgvector) with Global PII Extraction, Dry",
-    "id": "Toskurim/vector-unforget",
-    "language": "Python",
-    "name": "Toskurim/vector-unforget",
-    "stars": 3,
-    "updated_at": "2026-08-26T11:15:54Z",
-    "url": "https://github.com/Toskurim/vector-unforget"
-  },
-  {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-26T11:13:46Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
-    "id": "weaviate/docs",
-    "language": "Python",
-    "name": "weaviate/docs",
-    "stars": 20,
-    "updated_at": "2026-08-26T11:54:04Z",
-    "url": "https://github.com/weaviate/docs"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 89,
-    "updated_at": "2026-08-26T11:11:54Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Agentic AI Prototype with RAG pipelines, MCP Servers, and OpenAI function/tool calling. Built with Python FastAPI backen",
-    "id": "muhammadshiraz/agentic-ai-prototype",
-    "language": "JavaScript",
-    "name": "muhammadshiraz/agentic-ai-prototype",
-    "stars": 0,
-    "updated_at": "2026-08-26T11:09:58Z",
-    "url": "https://github.com/muhammadshiraz/agentic-ai-prototype"
-  },
-  {
-    "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
-    "id": "josephkamau32/devintel",
-    "language": "Python",
-    "name": "josephkamau32/devintel",
-    "stars": 1,
-    "updated_at": "2026-08-26T11:09:44Z",
-    "url": "https://github.com/josephkamau32/devintel"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34198,
-    "updated_at": "2026-08-26T11:02:07Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
