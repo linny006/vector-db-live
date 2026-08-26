@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-26 12:15 UTC
+> ⏰ Last updated: 2026-08-26 12:17 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,13 +43,13 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-26 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [api-evangelist/aerospike](https://github.com/api-evangelist/aerospike) | 0 | — | 2026-08-26 | Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha |
-| 3 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7068 | Java | 2026-08-26 | The AI search platform |
-| 4 | [matrixprompter/Energy-AI-Assistant-RAG-Chatbot](https://github.com/matrixprompter/Energy-AI-Assistant-RAG-Chatbot) | 0 | TypeScript | 2026-08-26 | AI-powered energy assistant chatbot with RAG (Retrieval-Augmented Generation) capabilities. Built with Next.js, Supabase |
-| 5 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35333 | Python | 2026-08-26 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 6 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 3 | Python | 2026-08-26 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
-| 7 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45801 | Go | 2026-08-26 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [api-evangelist/aerospike](https://github.com/api-evangelist/aerospike) | 0 | — | 2026-08-26 | Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha |
+| 4 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7068 | Java | 2026-08-26 | The AI search platform |
+| 5 | [matrixprompter/Energy-AI-Assistant-RAG-Chatbot](https://github.com/matrixprompter/Energy-AI-Assistant-RAG-Chatbot) | 0 | TypeScript | 2026-08-26 | AI-powered energy assistant chatbot with RAG (Retrieval-Augmented Generation) capabilities. Built with Next.js, Supabase |
+| 6 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35333 | Python | 2026-08-26 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 7 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 3 | Python | 2026-08-26 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
+| 8 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45801 | Go | 2026-08-26 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
 | 9 | [infino-ai/infino](https://github.com/infino-ai/infino) | 70 | Rust | 2026-08-26 | Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet. |
 | 10 | [sasank-in/mcp-research-paper-semantic-search](https://github.com/sasank-in/mcp-research-paper-semantic-search) | 0 | Python | 2026-08-26 | A high-performance semantic search system for research papers leveraging transformer-based embeddings and vector databas |
 | 11 | [M4F-S/mnemosyne](https://github.com/M4F-S/mnemosyne) | 24 | Python | 2026-08-26 | Mnemosyne — AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search, |
