@@ -1,12 +1,12 @@
 [
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1651,
-    "updated_at": "2026-08-26T00:17:33Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T00:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "",
@@ -14,8 +14,17 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-08-26T00:20:51Z",
+    "updated_at": "2026-08-26T00:42:51Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-26T00:34:11Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,17 +32,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-26T00:15:25Z",
+    "updated_at": "2026-08-26T00:30:28Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T00:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1651,
+    "updated_at": "2026-08-26T00:17:33Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -131,7 +140,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9196,
-    "updated_at": "2026-08-26T00:12:04Z",
+    "updated_at": "2026-08-26T00:42:49Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -180,15 +189,6 @@
     "url": "https://github.com/yantrikos/langchain-yantrikdb"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-25T23:14:43Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -212,7 +212,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 65194,
-    "updated_at": "2026-08-26T00:25:49Z",
+    "updated_at": "2026-08-26T00:43:03Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -221,7 +221,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 56,
-    "updated_at": "2026-08-25T23:01:50Z",
+    "updated_at": "2026-08-26T00:39:15Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -337,7 +337,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6836,
+    "stars": 6837,
     "updated_at": "2026-08-25T21:39:27Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
