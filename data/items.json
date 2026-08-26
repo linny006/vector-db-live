@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T09:00:23Z",
+    "updated_at": "2026-08-26T09:15:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-26T09:11:18Z",
+    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -14,8 +23,107 @@
     "language": "Python",
     "name": "theogony-project/theogony",
     "stars": 0,
-    "updated_at": "2026-08-26T08:58:30Z",
+    "updated_at": "2026-08-26T09:11:28Z",
     "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "Advanced local-first RAG system powered by Ollama and LangGraph. Optimized for high-performance sLLM orchestration   fea",
+    "id": "darkzard05/rag-system-ollama",
+    "language": "Python",
+    "name": "darkzard05/rag-system-ollama",
+    "stars": 4,
+    "updated_at": "2026-08-26T09:09:23Z",
+    "url": "https://github.com/darkzard05/rag-system-ollama"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-26T09:09:11Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7068,
+    "updated_at": "2026-08-26T09:08:44Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Jigen DB is vector database written from scratch in c#",
+    "id": "ppossanzini/Jigen",
+    "language": "C#",
+    "name": "ppossanzini/Jigen",
+    "stars": 10,
+    "updated_at": "2026-08-26T09:08:19Z",
+    "url": "https://github.com/ppossanzini/Jigen"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-26T09:08:03Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Production Agentic RAG system for Document Q&A \u2014 LangGraph + Qdrant + Groq + RAGAS",
+    "id": "vidhya-18/Agentic-RAG",
+    "language": "Python",
+    "name": "vidhya-18/Agentic-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-26T09:07:02Z",
+    "url": "https://github.com/vidhya-18/Agentic-RAG"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35332,
+    "updated_at": "2026-08-26T09:04:51Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "C# SDK for the Chroma API -- open-source vector database",
+    "id": "tryAGI/Chroma",
+    "language": "C#",
+    "name": "tryAGI/Chroma",
+    "stars": 1,
+    "updated_at": "2026-08-26T09:01:48Z",
+    "url": "https://github.com/tryAGI/Chroma"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T09:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1108,
+    "updated_at": "2026-08-26T09:13:55Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "MemoryOS is a universal, enterprise-grade, persistent AI workspace that remembers project history, decisions, and shared",
+    "id": "PulkitChugh21/MemoryOS",
+    "language": "Python",
+    "name": "PulkitChugh21/MemoryOS",
+    "stars": 0,
+    "updated_at": "2026-08-26T08:59:10Z",
+    "url": "https://github.com/PulkitChugh21/MemoryOS"
   },
   {
     "description": "- ",
@@ -25,6 +133,15 @@
     "stars": 4,
     "updated_at": "2026-08-26T08:57:41Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12956,
+    "updated_at": "2026-08-26T08:56:32Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
@@ -45,15 +162,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T08:53:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -70,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T08:52:38Z",
     "url": "https://github.com/hippmem/hippmem"
-  },
-  {
-    "description": "Advanced local-first RAG system powered by Ollama and LangGraph. Optimized for high-performance sLLM orchestration   fea",
-    "id": "darkzard05/rag-system-ollama",
-    "language": "Python",
-    "name": "darkzard05/rag-system-ollama",
-    "stars": 4,
-    "updated_at": "2026-08-26T08:52:29Z",
-    "url": "https://github.com/darkzard05/rag-system-ollama"
   },
   {
     "description": "A reproducible catalog for choosing embedding layouts under quality, memory, and latency constraints",
@@ -144,15 +243,6 @@
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12956,
-    "updated_at": "2026-08-26T08:56:32Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -176,7 +266,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-26T08:43:49Z",
+    "updated_at": "2026-08-26T09:13:29Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -196,15 +286,6 @@
     "stars": 1906,
     "updated_at": "2026-08-26T08:34:47Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-26T08:31:03Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "> \u57fa\u4e8e\u672c\u5730 RAG \u7684\u300a\u539f\u795e\u300b\u5267\u60c5\u95ee\u7b54\u52a9\u624b\uff1aLLM Agent \u901a\u8fc7\u5de5\u5177\u8c03\u7528\u68c0\u7d22\u672c\u5730\u5267\u60c5\u8d44\u6599\uff0c\u53ea\u4f9d\u636e\u672c\u5730\u8bc1\u636e\u56de\u7b54\uff0c\u5e76\u4e3a\u6bcf\u4e2a\u7ed3\u8bba\u6807\u6ce8\u6765\u6e90\u3002 > > A local-first RAG assistant for Genshin Impact",
@@ -247,7 +328,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45795,
+    "stars": 45797,
     "updated_at": "2026-08-26T08:19:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -293,7 +374,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8138,
-    "updated_at": "2026-08-26T08:50:00Z",
+    "updated_at": "2026-08-26T09:11:34Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -338,7 +419,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-26T08:59:51Z",
+    "updated_at": "2026-08-26T09:10:52Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 9422,
     "updated_at": "2026-08-26T08:48:37Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "An awesome list of AI/ML tools \u2014 but leveled by concept depth (Level 0\u21924) and searchable. Every tool comes with an artic",
-    "id": "maneesh-kumar-thakur/self-serve-learnings-4-all",
-    "language": "HTML",
-    "name": "maneesh-kumar-thakur/self-serve-learnings-4-all",
-    "stars": 0,
-    "updated_at": "2026-08-26T07:42:16Z",
-    "url": "https://github.com/maneesh-kumar-thakur/self-serve-learnings-4-all"
-  },
-  {
-    "description": "ANORA \u2014 An AI-powered cloud knowledge intelligence platform. Upload documents, get grounded answers via RAG with source ",
-    "id": "Berosin/smart-crop-health-monitor",
-    "language": "Python",
-    "name": "Berosin/smart-crop-health-monitor",
-    "stars": 0,
-    "updated_at": "2026-08-26T07:39:30Z",
-    "url": "https://github.com/Berosin/smart-crop-health-monitor"
-  },
-  {
-    "description": "A full-stack, Keep-style note-taking SaaS with AI baked in \u2014 Gemini-powered title generation, on-demand summaries, and a",
-    "id": "MeetVora79/notevault",
-    "language": "JavaScript",
-    "name": "MeetVora79/notevault",
-    "stars": 1,
-    "updated_at": "2026-08-26T07:39:08Z",
-    "url": "https://github.com/MeetVora79/notevault"
-  },
-  {
-    "description": "A simple tool to manage any vector database",
-    "id": "aqora-io/vectorctl",
-    "language": "Rust",
-    "name": "aqora-io/vectorctl",
-    "stars": 0,
-    "updated_at": "2026-08-26T07:38:33Z",
-    "url": "https://github.com/aqora-io/vectorctl"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7068,
-    "updated_at": "2026-08-26T08:45:30Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "A modular AI Cognitive Operating System for memory, reasoning, retrieval, agent orchestration, and secure execution.",
-    "id": "Arvindhbabu/OMNIS-AI",
-    "language": "Python",
-    "name": "Arvindhbabu/OMNIS-AI",
-    "stars": 1,
-    "updated_at": "2026-08-26T07:32:04Z",
-    "url": "https://github.com/Arvindhbabu/OMNIS-AI"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30268,
-    "updated_at": "2026-08-26T08:13:48Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
-    "id": "kunal-rathore-111/Neptune",
-    "language": "TypeScript",
-    "name": "kunal-rathore-111/Neptune",
-    "stars": 0,
-    "updated_at": "2026-08-26T07:28:00Z",
-    "url": "https://github.com/kunal-rathore-111/Neptune"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34198,
-    "updated_at": "2026-08-26T08:52:56Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
