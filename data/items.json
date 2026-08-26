@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T21:15:22Z",
+    "updated_at": "2026-08-26T21:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,35 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-26T21:00:31Z",
+    "updated_at": "2026-08-26T21:15:30Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1670,
+    "updated_at": "2026-08-26T21:24:25Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-26T21:09:53Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6860,
+    "updated_at": "2026-08-26T21:07:42Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "Self-hosted Upstash Vector alternative \u2014 drop-in compatible REST API backed by Redis Stack ",
@@ -41,7 +68,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 65246,
-    "updated_at": "2026-08-26T20:53:16Z",
+    "updated_at": "2026-08-26T21:25:02Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -59,8 +86,17 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9199,
-    "updated_at": "2026-08-26T20:58:15Z",
+    "updated_at": "2026-08-26T21:28:28Z",
     "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-26T20:47:52Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
@@ -81,15 +117,6 @@
     "url": "https://github.com/raheebgill29/self-learning-ai-agents"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1670,
-    "updated_at": "2026-08-26T21:10:33Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Data Framework for Retrieval-Augmented Generation (RAG) & Autonomous Document Agents.",
     "id": "NadeemAhmad3/enterprise-rag-data-framework",
     "language": "Python",
@@ -106,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T20:27:10Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6860,
-    "updated_at": "2026-08-26T21:07:42Z",
-    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -230,17 +248,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8144,
-    "updated_at": "2026-08-26T19:35:27Z",
+    "updated_at": "2026-08-26T21:18:16Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-26T20:47:52Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
@@ -347,7 +356,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 3,
-    "updated_at": "2026-08-26T19:02:02Z",
+    "updated_at": "2026-08-26T21:23:23Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -365,7 +374,7 @@
     "language": "HTML",
     "name": "nguyenquoaca-hash/agentic-mesh",
     "stars": 2,
-    "updated_at": "2026-08-26T18:45:33Z",
+    "updated_at": "2026-08-26T21:24:24Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
@@ -394,15 +403,6 @@
     "stars": 89,
     "updated_at": "2026-08-26T18:23:41Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-26T21:09:53Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
