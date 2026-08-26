@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T09:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-08-26T08:58:30Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-26T08:57:41Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15515,
+    "updated_at": "2026-08-26T08:55:58Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-26T08:54:41Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T08:53:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-08-26T08:53:10Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
     "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
     "id": "hippmem/hippmem",
     "language": "Rust",
@@ -7,6 +70,15 @@
     "stars": 2,
     "updated_at": "2026-08-26T08:52:38Z",
     "url": "https://github.com/hippmem/hippmem"
+  },
+  {
+    "description": "Advanced local-first RAG system powered by Ollama and LangGraph. Optimized for high-performance sLLM orchestration   fea",
+    "id": "darkzard05/rag-system-ollama",
+    "language": "Python",
+    "name": "darkzard05/rag-system-ollama",
+    "stars": 4,
+    "updated_at": "2026-08-26T08:52:29Z",
+    "url": "https://github.com/darkzard05/rag-system-ollama"
   },
   {
     "description": "A reproducible catalog for choosing embedding layouts under quality, memory, and latency constraints",
@@ -18,13 +90,13 @@
     "url": "https://github.com/jorge-martinez-gil/embeddings"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-26T08:48:38Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 250,
+    "updated_at": "2026-08-26T08:51:36Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
     "description": "Embedded, lightweight, high-performance vector database for Python \u2014 Rust core on TurboVec + Stoolap",
@@ -54,24 +126,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T08:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T08:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -95,7 +149,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12956,
-    "updated_at": "2026-08-26T08:41:02Z",
+    "updated_at": "2026-08-26T08:56:32Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -126,6 +180,15 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59095,
+    "updated_at": "2026-08-26T08:34:50Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -133,15 +196,6 @@
     "stars": 1906,
     "updated_at": "2026-08-26T08:34:47Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 250,
-    "updated_at": "2026-08-26T08:51:36Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -207,15 +261,6 @@
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
-    "description": "Advanced local-first RAG system powered by Ollama and LangGraph. Optimized for high-performance sLLM orchestration   fea",
-    "id": "darkzard05/rag-system-ollama",
-    "language": "Python",
-    "name": "darkzard05/rag-system-ollama",
-    "stars": 4,
-    "updated_at": "2026-08-26T08:52:29Z",
-    "url": "https://github.com/darkzard05/rag-system-ollama"
-  },
-  {
     "description": "In-memory knowledge store for AI agents",
     "id": "FraiseHQ/fraise",
     "language": "Go",
@@ -261,15 +306,6 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-26T07:59:14Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
@@ -302,7 +338,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-26T08:52:57Z",
+    "updated_at": "2026-08-26T08:59:51Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 34198,
     "updated_at": "2026-08-26T08:52:56Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 235,
-    "updated_at": "2026-08-26T07:24:17Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35330,
-    "updated_at": "2026-08-26T08:42:39Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1108,
-    "updated_at": "2026-08-26T08:51:57Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1665,
-    "updated_at": "2026-08-26T07:06:45Z",
-    "url": "https://github.com/xerj-org/xerj"
   }
 ]
