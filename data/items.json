@@ -1,5 +1,23 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-26T18:05:54Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T18:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9198,
-    "updated_at": "2026-08-26T17:58:19Z",
+    "updated_at": "2026-08-26T18:09:55Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -41,7 +59,7 @@
     "language": "TypeScript",
     "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-08-26T17:57:24Z",
+    "updated_at": "2026-08-26T18:09:42Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
@@ -52,15 +70,6 @@
     "stars": 13,
     "updated_at": "2026-08-26T17:56:11Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T17:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -86,7 +95,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6378,
-    "updated_at": "2026-08-26T17:53:51Z",
+    "updated_at": "2026-08-26T18:12:07Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -95,7 +104,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1108,
-    "updated_at": "2026-08-26T17:55:47Z",
+    "updated_at": "2026-08-26T18:10:08Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -239,7 +248,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1670,
-    "updated_at": "2026-08-26T17:45:25Z",
+    "updated_at": "2026-08-26T18:11:50Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -329,7 +338,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6218,
-    "updated_at": "2026-08-26T17:46:22Z",
+    "updated_at": "2026-08-26T18:08:06Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -355,7 +364,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6856,
+    "stars": 6857,
     "updated_at": "2026-08-26T17:05:26Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T16:55:43Z",
     "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
-  },
-  {
-    "description": "Official website and documentation for ParqDB.",
-    "id": "parqdb-io/parqdb-io.github.io",
-    "language": "Astro",
-    "name": "parqdb-io/parqdb-io.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-26T16:52:33Z",
-    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
   }
 ]
