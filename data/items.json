@@ -1,5 +1,158 @@
 [
   {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-26T10:13:37Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-26T10:12:16Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-08-26T10:08:01Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 235,
+    "updated_at": "2026-08-26T10:06:41Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-08-26T10:06:23Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-08-26T10:06:06Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-26T10:15:03Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-08-26T10:05:28Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-26T10:04:45Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 2,
+    "updated_at": "2026-08-26T10:04:13Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-08-26T10:03:58Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7068,
+    "updated_at": "2026-08-26T10:02:07Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-26T10:01:58Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
+    "id": "SAHIXXX12/AI-Search-Engine",
+    "language": "TypeScript",
+    "name": "SAHIXXX12/AI-Search-Engine",
+    "stars": 0,
+    "updated_at": "2026-08-26T10:01:21Z",
+    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T10:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T10:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12956,
+    "updated_at": "2026-08-26T09:59:59Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
     "id": "techdomegh/ai-news-scraper",
     "language": "Python",
@@ -9,13 +162,13 @@
     "url": "https://github.com/techdomegh/ai-news-scraper"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
     "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-26T09:57:43Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-08-26T09:57:04Z",
+    "url": "https://github.com/Maurellone/TySVA"
   },
   {
     "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
@@ -25,15 +178,6 @@
     "stars": 5,
     "updated_at": "2026-08-26T09:57:00Z",
     "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T10:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Jigen DB is vector database written from scratch in c#",
@@ -81,15 +225,6 @@
     "url": "https://github.com/josephkamau32/devintel"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7068,
-    "updated_at": "2026-08-26T09:47:33Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -99,6 +234,15 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59095,
+    "updated_at": "2026-08-26T09:46:17Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
     "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
     "id": "lingxinmind/vecmindb-sdk",
     "language": "Python",
@@ -106,24 +250,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T09:45:46Z",
     "url": "https://github.com/lingxinmind/vecmindb-sdk"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-26T09:45:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T09:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -140,7 +266,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 89,
-    "updated_at": "2026-08-26T09:40:47Z",
+    "updated_at": "2026-08-26T10:00:33Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -193,7 +319,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8139,
+    "stars": 8140,
     "updated_at": "2026-08-26T09:38:06Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -257,7 +383,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9422,
-    "updated_at": "2026-08-26T09:56:32Z",
+    "updated_at": "2026-08-26T10:11:17Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -302,17 +428,8 @@
     "language": "TypeScript",
     "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-08-26T09:16:36Z",
+    "updated_at": "2026-08-26T10:09:38Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-26T09:11:18Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Advanced local-first RAG system powered by Ollama and LangGraph. Optimized for high-performance sLLM orchestration   fea",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T09:07:02Z",
     "url": "https://github.com/vidhya-18/Agentic-RAG"
-  },
-  {
-    "description": "C# SDK for the Chroma API -- open-source vector database",
-    "id": "tryAGI/Chroma",
-    "language": "C#",
-    "name": "tryAGI/Chroma",
-    "stars": 1,
-    "updated_at": "2026-08-26T09:01:48Z",
-    "url": "https://github.com/tryAGI/Chroma"
-  },
-  {
-    "description": "MemoryOS is a universal, enterprise-grade, persistent AI workspace that remembers project history, decisions, and shared",
-    "id": "PulkitChugh21/MemoryOS",
-    "language": "Python",
-    "name": "PulkitChugh21/MemoryOS",
-    "stars": 0,
-    "updated_at": "2026-08-26T08:59:10Z",
-    "url": "https://github.com/PulkitChugh21/MemoryOS"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12956,
-    "updated_at": "2026-08-26T09:59:59Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15515,
-    "updated_at": "2026-08-26T08:55:58Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
-    "id": "hippmem/hippmem",
-    "language": "Rust",
-    "name": "hippmem/hippmem",
-    "stars": 2,
-    "updated_at": "2026-08-26T08:52:38Z",
-    "url": "https://github.com/hippmem/hippmem"
-  },
-  {
-    "description": "A reproducible catalog for choosing embedding layouts under quality, memory, and latency constraints",
-    "id": "jorge-martinez-gil/embeddings",
-    "language": "Python",
-    "name": "jorge-martinez-gil/embeddings",
-    "stars": 9,
-    "updated_at": "2026-08-26T08:52:07Z",
-    "url": "https://github.com/jorge-martinez-gil/embeddings"
-  },
-  {
-    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-08-26T08:42:05Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59094,
-    "updated_at": "2026-08-26T09:46:17Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "> \u57fa\u4e8e\u672c\u5730 RAG \u7684\u300a\u539f\u795e\u300b\u5267\u60c5\u95ee\u7b54\u52a9\u624b\uff1aLLM Agent \u901a\u8fc7\u5de5\u5177\u8c03\u7528\u68c0\u7d22\u672c\u5730\u5267\u60c5\u8d44\u6599\uff0c\u53ea\u4f9d\u636e\u672c\u5730\u8bc1\u636e\u56de\u7b54\uff0c\u5e76\u4e3a\u6bcf\u4e2a\u7ed3\u8bba\u6807\u6ce8\u6765\u6e90\u3002 > > A local-first RAG assistant for Genshin Impact",
-    "id": "YellowBangboo-Liang/genshin_lore_assistant",
-    "language": "Python",
-    "name": "YellowBangboo-Liang/genshin_lore_assistant",
-    "stars": 0,
-    "updated_at": "2026-08-26T08:29:49Z",
-    "url": "https://github.com/YellowBangboo-Liang/genshin_lore_assistant"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 93,
-    "updated_at": "2026-08-26T08:48:52Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 70,
-    "updated_at": "2026-08-26T08:25:20Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45798,
-    "updated_at": "2026-08-26T08:19:23Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-26T08:15:04Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
   }
 ]
