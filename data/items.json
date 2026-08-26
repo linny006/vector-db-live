@@ -1,12 +1,48 @@
 [
   {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-26T05:12:21Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-26T05:11:40Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A production-grade Retrieval-Augmented Generation (RAG) agent built to answer customer support questions using company d",
+    "id": "SammedBG/RAG-Customer-support-agent",
+    "language": "Python",
+    "name": "SammedBG/RAG-Customer-support-agent",
+    "stars": 0,
+    "updated_at": "2026-08-26T05:04:33Z",
+    "url": "https://github.com/SammedBG/RAG-Customer-support-agent"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T05:00:18Z",
+    "updated_at": "2026-08-26T05:04:09Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T05:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -14,7 +50,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 235,
-    "updated_at": "2026-08-26T04:57:01Z",
+    "updated_at": "2026-08-26T05:15:01Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -23,17 +59,8 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1659,
-    "updated_at": "2026-08-26T04:56:59Z",
+    "updated_at": "2026-08-26T05:04:44Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T04:55:17Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
@@ -79,15 +106,6 @@
     "stars": 171,
     "updated_at": "2026-08-26T04:45:21Z",
     "url": "https://github.com/yantrikos/yantrikdb-server"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-26T04:45:05Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -144,15 +162,6 @@
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-26T04:32:44Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -185,7 +194,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-26T04:59:47Z",
+    "updated_at": "2026-08-26T05:13:52Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:30:50Z",
     "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-08-26T03:28:54Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
   }
 ]
