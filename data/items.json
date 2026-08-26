@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T22:45:21Z",
+    "updated_at": "2026-08-26T23:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 89,
+    "updated_at": "2026-08-26T22:52:36Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "The Vector Database for Agents & Humans.",
+    "id": "daryltucker/vecdb",
+    "language": "Rust",
+    "name": "daryltucker/vecdb",
+    "stars": 0,
+    "updated_at": "2026-08-26T22:49:44Z",
+    "url": "https://github.com/daryltucker/vecdb"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -14,8 +32,26 @@
     "language": "TypeScript",
     "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-08-26T22:37:37Z",
+    "updated_at": "2026-08-26T22:48:56Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-26T22:48:15Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T22:45:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
     "stars": 584,
-    "updated_at": "2026-08-26T22:37:00Z",
+    "updated_at": "2026-08-26T22:49:32Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
@@ -32,17 +68,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9199,
-    "updated_at": "2026-08-26T22:37:16Z",
+    "updated_at": "2026-08-26T22:59:50Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T22:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
@@ -76,7 +103,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65251,
+    "stars": 65252,
     "updated_at": "2026-08-26T22:13:37Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -94,7 +121,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45805,
+    "stars": 45806,
     "updated_at": "2026-08-26T22:07:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -106,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-08-26T22:01:55Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16754,
+    "updated_at": "2026-08-26T21:58:09Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6218,
-    "updated_at": "2026-08-26T22:17:17Z",
+    "updated_at": "2026-08-26T22:51:33Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -162,6 +198,15 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
+    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
+    "id": "writerslogic/holographic-memory",
+    "language": "Rust",
+    "name": "writerslogic/holographic-memory",
+    "stars": 12,
+    "updated_at": "2026-08-26T21:40:06Z",
+    "url": "https://github.com/writerslogic/holographic-memory"
+  },
+  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -176,7 +221,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1670,
-    "updated_at": "2026-08-26T21:24:25Z",
+    "updated_at": "2026-08-26T22:53:02Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -248,7 +293,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11284,
-    "updated_at": "2026-08-26T22:17:30Z",
+    "updated_at": "2026-08-26T22:56:01Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -396,15 +441,6 @@
     "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
   },
   {
-    "description": "The Vector Database for Agents & Humans.",
-    "id": "daryltucker/vecdb",
-    "language": "Rust",
-    "name": "daryltucker/vecdb",
-    "stars": 0,
-    "updated_at": "2026-08-26T22:42:35Z",
-    "url": "https://github.com/daryltucker/vecdb"
-  },
-  {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
     "id": "kwhorne/ElyraSQL",
     "language": "Rust",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-26T19:25:45Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "AI-powered Islamic RAG system that delivers authentic, source-backed answers using the Quran, Hadith, and trusted schola",
-    "id": "hassanimtiaz158/Islamic-RAG-System",
-    "language": "Python",
-    "name": "hassanimtiaz158/Islamic-RAG-System",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:23:14Z",
-    "url": "https://github.com/hassanimtiaz158/Islamic-RAG-System"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6378,
-    "updated_at": "2026-08-26T22:17:46Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "No fuss multi-index hybrid vector database / search engine",
-    "id": "Semafind/semadb",
-    "language": "Go",
-    "name": "Semafind/semadb",
-    "stars": 32,
-    "updated_at": "2026-08-26T19:21:03Z",
-    "url": "https://github.com/Semafind/semadb"
-  },
-  {
-    "description": "",
-    "id": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
-    "language": "C#",
-    "name": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:09:16Z",
-    "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG"
   }
 ]
