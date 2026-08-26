@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T21:00:25Z",
+    "updated_at": "2026-08-26T21:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T21:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted Upstash Vector alternative \u2014 drop-in compatible REST API backed by Redis Stack ",
@@ -16,6 +25,15 @@
     "stars": 2,
     "updated_at": "2026-08-26T20:59:34Z",
     "url": "https://github.com/Coriou/up-vector"
+  },
+  {
+    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
+    "stars": 3,
+    "updated_at": "2026-08-26T20:54:15Z",
+    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -32,7 +50,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11284,
-    "updated_at": "2026-08-26T20:47:55Z",
+    "updated_at": "2026-08-26T21:15:06Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -43,15 +61,6 @@
     "stars": 9199,
     "updated_at": "2026-08-26T20:58:15Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T20:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
@@ -65,7 +74,7 @@
   {
     "description": "A memory-enabled AI dealership assistant built with FastAPI, OpenAI, Mem0 and Qdrant.",
     "id": "raheebgill29/self-learning-ai-agents",
-    "language": "\u2014",
+    "language": "Python",
     "name": "raheebgill29/self-learning-ai-agents",
     "stars": 0,
     "updated_at": "2026-08-26T20:38:47Z",
@@ -77,7 +86,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1670,
-    "updated_at": "2026-08-26T20:32:03Z",
+    "updated_at": "2026-08-26T21:10:33Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -104,7 +113,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6860,
-    "updated_at": "2026-08-26T20:59:13Z",
+    "updated_at": "2026-08-26T21:07:42Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -117,21 +126,12 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 3,
-    "updated_at": "2026-08-26T20:54:15Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1347,
-    "updated_at": "2026-08-26T19:56:08Z",
+    "updated_at": "2026-08-26T21:03:05Z",
     "url": "https://github.com/infinispan/infinispan"
   },
   {
@@ -302,7 +302,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1108,
-    "updated_at": "2026-08-26T19:20:26Z",
+    "updated_at": "2026-08-26T21:03:06Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -401,7 +401,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-26T20:53:12Z",
+    "updated_at": "2026-08-26T21:09:53Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {

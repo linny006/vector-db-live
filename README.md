@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-26 21:00 UTC
+> ⏰ Last updated: 2026-08-26 21:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,19 +43,19 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-26 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [Coriou/up-vector](https://github.com/Coriou/up-vector) | 2 | TypeScript | 2026-08-26 | Self-hosted Upstash Vector alternative — drop-in compatible REST API backed by Redis Stack  |
-| 3 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 65246 | JavaScript | 2026-08-26 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 4 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11284 | Rust | 2026-08-26 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 5 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9199 | Rust | 2026-08-26 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [thelastpickle/open-htap-stack](https://github.com/thelastpickle/open-htap-stack) | 3 | Python | 2026-08-26 | Simple scalable low-latency HTAP Data Platform.     Vendor‑neutral Open Source. |
-| 8 | [raheebgill29/self-learning-ai-agents](https://github.com/raheebgill29/self-learning-ai-agents) | 0 | — | 2026-08-26 | A memory-enabled AI dealership assistant built with FastAPI, OpenAI, Mem0 and Qdrant. |
-| 9 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1670 | Rust | 2026-08-26 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 10 | [NadeemAhmad3/enterprise-rag-data-framework](https://github.com/NadeemAhmad3/enterprise-rag-data-framework) | 0 | Python | 2026-08-26 | Data Framework for Retrieval-Augmented Generation (RAG) & Autonomous Document Agents. |
-| 11 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-26 |  |
-| 12 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6860 | Python | 2026-08-26 |  Memory library for building stateful agents |
-| 13 | [schmitech/orbit](https://github.com/schmitech/orbit) | 341 | Python | 2026-08-26 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 14 | [edheltzel/Recall](https://github.com/edheltzel/Recall) | 3 | TypeScript | 2026-08-26 | Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [Coriou/up-vector](https://github.com/Coriou/up-vector) | 2 | TypeScript | 2026-08-26 | Self-hosted Upstash Vector alternative — drop-in compatible REST API backed by Redis Stack  |
+| 4 | [edheltzel/Recall](https://github.com/edheltzel/Recall) | 3 | TypeScript | 2026-08-26 | Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti |
+| 5 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 65246 | JavaScript | 2026-08-26 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 6 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11284 | Rust | 2026-08-26 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 7 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9199 | Rust | 2026-08-26 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 8 | [thelastpickle/open-htap-stack](https://github.com/thelastpickle/open-htap-stack) | 3 | Python | 2026-08-26 | Simple scalable low-latency HTAP Data Platform.     Vendor‑neutral Open Source. |
+| 9 | [raheebgill29/self-learning-ai-agents](https://github.com/raheebgill29/self-learning-ai-agents) | 0 | Python | 2026-08-26 | A memory-enabled AI dealership assistant built with FastAPI, OpenAI, Mem0 and Qdrant. |
+| 10 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1670 | Rust | 2026-08-26 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 11 | [NadeemAhmad3/enterprise-rag-data-framework](https://github.com/NadeemAhmad3/enterprise-rag-data-framework) | 0 | Python | 2026-08-26 | Data Framework for Retrieval-Augmented Generation (RAG) & Autonomous Document Agents. |
+| 12 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-26 |  |
+| 13 | [plastic-labs/honcho](https://github.com/plastic-labs/honcho) | 6860 | Python | 2026-08-26 |  Memory library for building stateful agents |
+| 14 | [schmitech/orbit](https://github.com/schmitech/orbit) | 341 | Python | 2026-08-26 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
 | 15 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | 1347 | Java | 2026-08-26 | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. |
 | 16 | [rehan243/rehan243](https://github.com/rehan243/rehan243) | 2 | — | 2026-08-26 | Profile README |
 | 17 | [pinecone-io/python-sdk](https://github.com/pinecone-io/python-sdk) | 449 | Python | 2026-08-26 | Official Python SDK for the Pinecone vector database |
