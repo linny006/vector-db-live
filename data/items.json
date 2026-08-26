@@ -1,12 +1,66 @@
 [
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 70,
+    "updated_at": "2026-08-26T12:00:04Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "A high-performance semantic search system for research papers leveraging transformer-based embeddings and vector databas",
+    "id": "sasank-in/mcp-research-paper-semantic-search",
+    "language": "Python",
+    "name": "sasank-in/mcp-research-paper-semantic-search",
+    "stars": 0,
+    "updated_at": "2026-08-26T11:55:06Z",
+    "url": "https://github.com/sasank-in/mcp-research-paper-semantic-search"
+  },
+  {
+    "description": "Mnemosyne \u2014 AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search,",
+    "id": "M4F-S/mnemosyne",
+    "language": "Python",
+    "name": "M4F-S/mnemosyne",
+    "stars": 24,
+    "updated_at": "2026-08-26T11:54:55Z",
+    "url": "https://github.com/M4F-S/mnemosyne"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6217,
+    "updated_at": "2026-08-26T11:53:38Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
     "stars": 2,
-    "updated_at": "2026-08-26T11:44:54Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+    "updated_at": "2026-08-26T11:52:39Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Embedded, lightweight, high-performance vector database for Python \u2014 Rust core on TurboVec + Stoolap",
+    "id": "DonyNurArifR/zenar",
+    "language": "Rust",
+    "name": "DonyNurArifR/zenar",
+    "stars": 1,
+    "updated_at": "2026-08-26T11:52:33Z",
+    "url": "https://github.com/DonyNurArifR/zenar"
+  },
+  {
+    "description": "AI-powered energy assistant chatbot with RAG (Retrieval-Augmented Generation) capabilities. Built with Next.js, Supabase",
+    "id": "matrixprompter/Energy-AI-Assistant-RAG-Chatbot",
+    "language": "TypeScript",
+    "name": "matrixprompter/Energy-AI-Assistant-RAG-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-08-26T11:48:20Z",
+    "url": "https://github.com/matrixprompter/Energy-AI-Assistant-RAG-Chatbot"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +68,35 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-26T11:44:17Z",
+    "updated_at": "2026-08-26T11:45:27Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T12:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-26T11:44:55Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-26T11:44:54Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -27,13 +108,13 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T11:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-26T11:42:48Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
@@ -59,17 +140,8 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 235,
-    "updated_at": "2026-08-26T11:40:04Z",
+    "updated_at": "2026-08-26T11:48:53Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-26T11:42:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -88,15 +160,6 @@
     "stars": 1347,
     "updated_at": "2026-08-26T11:34:47Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "AI-powered energy assistant chatbot with RAG (Retrieval-Augmented Generation) capabilities. Built with Next.js, Supabase",
-    "id": "matrixprompter/Energy-AI-Assistant-RAG-Chatbot",
-    "language": "TypeScript",
-    "name": "matrixprompter/Energy-AI-Assistant-RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-26T11:33:43Z",
-    "url": "https://github.com/matrixprompter/Energy-AI-Assistant-RAG-Chatbot"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -140,7 +203,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 3,
-    "updated_at": "2026-08-26T11:42:09Z",
+    "updated_at": "2026-08-26T12:00:18Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -158,7 +221,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-26T11:27:23Z",
+    "updated_at": "2026-08-26T11:49:12Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -194,7 +257,7 @@
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-08-26T11:12:23Z",
+    "updated_at": "2026-08-26T11:54:04Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -223,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T11:09:44Z",
     "url": "https://github.com/josephkamau32/devintel"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-26T11:44:55Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T10:30:09Z",
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-08-26T10:28:46Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
-    "id": "Parth-2004/Historical-AI-Assistant",
-    "language": "Python",
-    "name": "Parth-2004/Historical-AI-Assistant",
-    "stars": 1,
-    "updated_at": "2026-08-26T10:28:29Z",
-    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 3,
-    "updated_at": "2026-08-26T10:25:31Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35332,
-    "updated_at": "2026-08-26T10:24:54Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1906,
-    "updated_at": "2026-08-26T10:24:44Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-08-26T10:23:22Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
   }
 ]
