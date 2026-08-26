@@ -1,5 +1,59 @@
 [
   {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 19,
+    "updated_at": "2026-08-26T13:42:37Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "GDPR/CCPA Right-to-be-Forgotten Engine for Vector Databases (ChromaDB, Qdrant, Pgvector) with Global PII Extraction, Dry",
+    "id": "Toskurim/vector-unforget",
+    "language": "Python",
+    "name": "Toskurim/vector-unforget",
+    "stars": 3,
+    "updated_at": "2026-08-26T13:38:54Z",
+    "url": "https://github.com/Toskurim/vector-unforget"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-26T13:38:40Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4427,
+    "updated_at": "2026-08-26T13:34:30Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-26T13:33:55Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T13:33:04Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +63,40 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T13:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "thameema/memnos",
+    "stars": 2,
+    "updated_at": "2026-08-26T13:30:27Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
+    "id": "manav-2812/synapse",
+    "language": "TypeScript",
+    "name": "manav-2812/synapse",
+    "stars": 1,
+    "updated_at": "2026-08-26T13:29:52Z",
+    "url": "https://github.com/manav-2812/synapse"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11280,
+    "updated_at": "2026-08-26T13:43:51Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6217,
+    "updated_at": "2026-08-26T13:37:04Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -23,7 +104,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30271,
-    "updated_at": "2026-08-26T13:28:41Z",
+    "updated_at": "2026-08-26T13:43:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -36,6 +117,15 @@
     "url": "https://github.com/acsavenhq/llm-docs-lab"
   },
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-26T13:25:17Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -45,13 +135,22 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-26T13:18:55Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
+    "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
+    "id": "api-evangelist/objectbox",
+    "language": "\u2014",
+    "name": "api-evangelist/objectbox",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:22:35Z",
+    "url": "https://github.com/api-evangelist/objectbox"
+  },
+  {
+    "description": "Nomic AI builds open and accessible AI infrastructure. The company is known for the open-source Nomic Embed family (nomi",
+    "id": "api-evangelist/nomic-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/nomic-ai",
+    "stars": 0,
+    "updated_at": "2026-08-26T13:21:12Z",
+    "url": "https://github.com/api-evangelist/nomic-ai"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -59,7 +158,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-26T13:18:55Z",
+    "updated_at": "2026-08-26T13:43:06Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -108,22 +207,22 @@
     "url": "https://github.com/api-evangelist/milvus"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6217,
-    "updated_at": "2026-08-26T13:28:51Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
     "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "TypeScript",
     "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-08-26T13:31:11Z",
+    "updated_at": "2026-08-26T13:33:57Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1670,
+    "updated_at": "2026-08-26T13:43:41Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Marqo is an open-source, multimodal vector search engine that lets developers index text and images, generate embeddings",
@@ -149,7 +248,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16754,
-    "updated_at": "2026-08-26T13:30:59Z",
+    "updated_at": "2026-08-26T13:41:38Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -178,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T13:08:33Z",
     "url": "https://github.com/api-evangelist/lancedb"
-  },
-  {
-    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
-    "id": "manav-2812/synapse",
-    "language": "TypeScript",
-    "name": "manav-2812/synapse",
-    "stars": 1,
-    "updated_at": "2026-08-26T13:29:52Z",
-    "url": "https://github.com/manav-2812/synapse"
   },
   {
     "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
@@ -261,15 +351,6 @@
     "url": "https://github.com/thelastpickle/open-htap-stack"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1669,
-    "updated_at": "2026-08-26T13:13:56Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -288,21 +369,12 @@
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-26T13:25:17Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8141,
-    "updated_at": "2026-08-26T12:46:26Z",
+    "updated_at": "2026-08-26T13:34:32Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -324,15 +396,6 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4427,
-    "updated_at": "2026-08-26T13:24:49Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
     "id": "api-evangelist/datastax",
     "language": "\u2014",
@@ -347,7 +410,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-26T13:07:48Z",
+    "updated_at": "2026-08-26T13:43:17Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 12909,
     "updated_at": "2026-08-26T12:30:37Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Chroma (Chroma DB) is an open-source AI-native embedding database designed to make it easy to build LLM applications by ",
-    "id": "api-evangelist/chroma",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma",
-    "stars": 0,
-    "updated_at": "2026-08-26T12:30:16Z",
-    "url": "https://github.com/api-evangelist/chroma"
-  },
-  {
-    "description": "Chroma (Chroma DB) is an open-source, AI-native vector database (embedding database) for building LLM, RAG, and semantic",
-    "id": "api-evangelist/chroma-db",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma-db",
-    "stars": 0,
-    "updated_at": "2026-08-26T12:30:15Z",
-    "url": "https://github.com/api-evangelist/chroma-db"
-  },
-  {
-    "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
-    "id": "piyalidas10/AI",
-    "language": "Python",
-    "name": "piyalidas10/AI",
-    "stars": 0,
-    "updated_at": "2026-08-26T12:25:36Z",
-    "url": "https://github.com/piyalidas10/AI"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-26T12:24:55Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Azure Cosmos DB is a fully managed, globally distributed, multi-model NoSQL and relational database service from Microso",
-    "id": "api-evangelist/azure-cosmos-db",
-    "language": "\u2014",
-    "name": "api-evangelist/azure-cosmos-db",
-    "stars": 0,
-    "updated_at": "2026-08-26T12:20:26Z",
-    "url": "https://github.com/api-evangelist/azure-cosmos-db"
-  },
-  {
-    "description": "Embedded on-device vector database for AI agent memory and local RAG \u2014 disk-based HNSW in an LSM-tree, C++/Python, optim",
-    "id": "NTU-Siqiang-Group/AsterVec",
-    "language": "C++",
-    "name": "NTU-Siqiang-Group/AsterVec",
-    "stars": 31,
-    "updated_at": "2026-08-26T12:19:11Z",
-    "url": "https://github.com/NTU-Siqiang-Group/AsterVec"
-  },
-  {
-    "description": "AI-powered energy assistant chatbot with RAG (Retrieval-Augmented Generation) capabilities. Built with Next.js, Supabase",
-    "id": "matrixprompter/Energy-AI-Assistant-RAG-Chatbot",
-    "language": "TypeScript",
-    "name": "matrixprompter/Energy-AI-Assistant-RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-26T12:18:08Z",
-    "url": "https://github.com/matrixprompter/Energy-AI-Assistant-RAG-Chatbot"
   }
 ]
