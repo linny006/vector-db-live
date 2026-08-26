@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T19:30:24Z",
+    "updated_at": "2026-08-26T19:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 584,
+    "updated_at": "2026-08-26T19:43:02Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T19:30:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The Vector Database for Agents & Humans.",
+    "id": "daryltucker/vecdb",
+    "language": "Rust",
+    "name": "daryltucker/vecdb",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:30:29Z",
+    "url": "https://github.com/daryltucker/vecdb"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -14,7 +41,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35333,
-    "updated_at": "2026-08-26T19:28:19Z",
+    "updated_at": "2026-08-26T19:39:38Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -36,22 +63,22 @@
     "url": "https://github.com/hassanimtiaz158/Islamic-RAG-System"
   },
   {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6378,
+    "updated_at": "2026-08-26T19:43:35Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1670,
-    "updated_at": "2026-08-26T19:23:44Z",
+    "updated_at": "2026-08-26T19:34:50Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T19:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -90,6 +117,42 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:08:20Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-26T19:03:47Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 3,
+    "updated_at": "2026-08-26T19:02:02Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-26T18:58:37Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -122,7 +185,7 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-08-26T18:42:59Z",
+    "updated_at": "2026-08-26T19:37:06Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -131,7 +194,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-26T18:41:05Z",
+    "updated_at": "2026-08-26T19:34:35Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -140,7 +203,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9199,
-    "updated_at": "2026-08-26T19:24:22Z",
+    "updated_at": "2026-08-26T19:35:37Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -193,7 +256,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65241,
+    "stars": 65242,
     "updated_at": "2026-08-26T17:59:15Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -221,7 +284,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45802,
-    "updated_at": "2026-08-26T17:45:23Z",
+    "updated_at": "2026-08-26T19:39:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -232,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T17:44:34Z",
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6378,
-    "updated_at": "2026-08-26T19:22:47Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T17:20:11Z",
     "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:19:01Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:17:31Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-08-26T17:13:41Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "A production ready Retrieval-Augmented Generation (RAG) agent framework featuring multi-agent orchestration, Docker depl",
-    "id": "riteshgamer7725-blip/RAG-SYSTEM-",
-    "language": "Python",
-    "name": "riteshgamer7725-blip/RAG-SYSTEM-",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:13:18Z",
-    "url": "https://github.com/riteshgamer7725-blip/RAG-SYSTEM-"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:11:38Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-08-26T17:11:03Z",
-    "url": "https://github.com/rein98/PsyChat"
   }
 ]
