@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Official website and documentation for ParqDB.",
+    "id": "parqdb-io/parqdb-io.github.io",
+    "language": "Astro",
+    "name": "parqdb-io/parqdb-io.github.io",
+    "stars": 0,
+    "updated_at": "2026-08-26T14:37:26Z",
+    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
+  },
+  {
+    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
+    "id": "TAIPANBOX/engram",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T14:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "TAIPANBOX/engram",
+    "stars": 2,
+    "updated_at": "2026-08-26T14:35:09Z",
+    "url": "https://github.com/TAIPANBOX/engram"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 265,
+    "updated_at": "2026-08-26T14:31:28Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
     "description": "GDPR/CCPA Right-to-be-Forgotten Engine for Vector Databases (ChromaDB, Qdrant, Pgvector) with Global PII Extraction, Dry",
@@ -14,8 +32,35 @@
     "language": "Python",
     "name": "Toskurim/vector-unforget",
     "stars": 3,
-    "updated_at": "2026-08-26T14:29:26Z",
+    "updated_at": "2026-08-26T14:30:59Z",
     "url": "https://github.com/Toskurim/vector-unforget"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T14:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T14:45:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-08-26T14:29:18Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
     "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
@@ -36,13 +81,31 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T14:25:52Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34198,
+    "updated_at": "2026-08-26T14:24:00Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-26T14:23:53Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Operational Database for AI Agents Provide causality lineage, DAG, and State Replay , build to make AI Agents auditable ",
+    "id": "Zizka-ai/ZizkaDB",
+    "language": "TypeScript",
+    "name": "Zizka-ai/ZizkaDB",
+    "stars": 42,
+    "updated_at": "2026-08-26T14:20:47Z",
+    "url": "https://github.com/Zizka-ai/ZizkaDB"
   },
   {
     "description": "\ud83d\uddc4\ufe0f Ultrafast native C++ JNI in-memory vector database for the FastJava AI ecosystem",
@@ -54,6 +117,24 @@
     "url": "https://github.com/andrestubbe/FastAIVectorDB"
   },
   {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 7,
+    "updated_at": "2026-08-26T14:19:49Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35332,
+    "updated_at": "2026-08-26T14:18:25Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
     "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
     "id": "thelastpickle/open-htap-stack",
     "language": "Python",
@@ -61,6 +142,15 @@
     "stars": 3,
     "updated_at": "2026-08-26T14:17:49Z",
     "url": "https://github.com/thelastpickle/open-htap-stack"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-26T14:16:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
@@ -72,22 +162,49 @@
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
+    "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
+    "id": "hhblaze/DBreeze",
+    "language": "C#",
+    "name": "hhblaze/DBreeze",
+    "stars": 578,
+    "updated_at": "2026-08-26T14:44:01Z",
+    "url": "https://github.com/hhblaze/DBreeze"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65233,
+    "updated_at": "2026-08-26T14:15:30Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
     "description": " Memory library for building stateful agents",
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6851,
-    "updated_at": "2026-08-26T14:25:28Z",
+    "updated_at": "2026-08-26T14:34:35Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
-    "description": "Official website and documentation for ParqDB.",
-    "id": "parqdb-io/parqdb-io.github.io",
-    "language": "Astro",
-    "name": "parqdb-io/parqdb-io.github.io",
+    "description": "ANORA \u2014 An AI-powered cloud knowledge intelligence platform. Upload documents, get grounded answers via RAG with source ",
+    "id": "Berosin/smart-crop-health-monitor",
+    "language": "Python",
+    "name": "Berosin/smart-crop-health-monitor",
     "stars": 0,
-    "updated_at": "2026-08-26T14:28:52Z",
-    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
+    "updated_at": "2026-08-26T14:14:32Z",
+    "url": "https://github.com/Berosin/smart-crop-health-monitor"
+  },
+  {
+    "description": "A Django Pok\u00e9dex with real-time Pok\u00e9API data, an LLM Q&A assistant grounded with RAG (Qdrant + local embeddings), MySQL,",
+    "id": "GMCavalheri/Smart-Pokedex",
+    "language": "Python",
+    "name": "GMCavalheri/Smart-Pokedex",
+    "stars": 0,
+    "updated_at": "2026-08-26T14:14:15Z",
+    "url": "https://github.com/GMCavalheri/Smart-Pokedex"
   },
   {
     "description": "Full-stack AI workspace built with LangGraph, React 19, and Node/Express. A single tool-calling orchestrator handles cha",
@@ -144,15 +261,6 @@
     "url": "https://github.com/api-evangelist/weaviate"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65228,
-    "updated_at": "2026-08-26T14:15:30Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
     "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "TypeScript",
@@ -167,7 +275,7 @@
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1347,
-    "updated_at": "2026-08-26T14:01:08Z",
+    "updated_at": "2026-08-26T14:33:54Z",
     "url": "https://github.com/infinispan/infinispan"
   },
   {
@@ -212,7 +320,7 @@
     "language": "Python",
     "name": "EVEDensity/AgentHub",
     "stars": 25,
-    "updated_at": "2026-08-26T13:58:57Z",
+    "updated_at": "2026-08-26T14:45:16Z",
     "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
@@ -230,7 +338,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-26T14:29:36Z",
+    "updated_at": "2026-08-26T14:43:53Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -239,7 +347,7 @@
     "language": "HTML",
     "name": "Benorina1/llm-vector-retrieval-playbook",
     "stars": 0,
-    "updated_at": "2026-08-26T13:57:59Z",
+    "updated_at": "2026-08-26T14:38:44Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
@@ -250,15 +358,6 @@
     "stars": 12958,
     "updated_at": "2026-08-26T13:56:59Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
-    "id": "TAIPANBOX/engram",
-    "language": "Python",
-    "name": "TAIPANBOX/engram",
-    "stars": 2,
-    "updated_at": "2026-08-26T14:28:17Z",
-    "url": "https://github.com/TAIPANBOX/engram"
   },
   {
     "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
@@ -284,7 +383,7 @@
     "language": "HTML",
     "name": "al7o/DocuMind-AI-Engine",
     "stars": 1,
-    "updated_at": "2026-08-26T13:54:55Z",
+    "updated_at": "2026-08-26T14:44:35Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
@@ -320,7 +419,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-26T13:53:05Z",
+    "updated_at": "2026-08-26T14:42:12Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -342,15 +441,6 @@
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-26T14:16:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
@@ -358,95 +448,5 @@
     "stars": 2265,
     "updated_at": "2026-08-26T13:43:51Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1670,
-    "updated_at": "2026-08-26T14:12:13Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-26T13:43:32Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-26T14:23:53Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 19,
-    "updated_at": "2026-08-26T13:42:37Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
-    "id": "api-evangelist/sequoiadb",
-    "language": "\u2014",
-    "name": "api-evangelist/sequoiadb",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:42:12Z",
-    "url": "https://github.com/api-evangelist/sequoiadb"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1906,
-    "updated_at": "2026-08-26T13:38:18Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 3,
-    "updated_at": "2026-08-26T13:36:22Z",
-    "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 2,
-    "updated_at": "2026-08-26T13:30:27Z",
-    "url": "https://github.com/thameema/memnos"
-  },
-  {
-    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
-    "id": "manav-2812/synapse",
-    "language": "TypeScript",
-    "name": "manav-2812/synapse",
-    "stars": 1,
-    "updated_at": "2026-08-26T13:29:52Z",
-    "url": "https://github.com/manav-2812/synapse"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11280,
-    "updated_at": "2026-08-26T13:43:51Z",
-    "url": "https://github.com/lancedb/lancedb"
   }
 ]
