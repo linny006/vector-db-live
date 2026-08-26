@@ -1,11 +1,47 @@
 [
   {
+    "description": "Data Framework for Retrieval-Augmented Generation (RAG) & Autonomous Document Agents.",
+    "id": "NadeemAhmad3/enterprise-rag-data-framework",
+    "language": "\u2014",
+    "name": "NadeemAhmad3/enterprise-rag-data-framework",
+    "stars": 0,
+    "updated_at": "2026-08-26T20:29:58Z",
+    "url": "https://github.com/NadeemAhmad3/enterprise-rag-data-framework"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65244,
+    "updated_at": "2026-08-26T20:29:37Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
+    "id": "thelastpickle/open-htap-stack",
+    "language": "Python",
+    "name": "thelastpickle/open-htap-stack",
+    "stars": 3,
+    "updated_at": "2026-08-26T20:16:32Z",
+    "url": "https://github.com/thelastpickle/open-htap-stack"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T20:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T20:15:19Z",
+    "updated_at": "2026-08-26T20:30:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,15 +52,6 @@
     "stars": 3,
     "updated_at": "2026-08-26T20:04:31Z",
     "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T20:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Profile README",
@@ -41,7 +68,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9199,
-    "updated_at": "2026-08-26T20:12:13Z",
+    "updated_at": "2026-08-26T20:30:03Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "pinecone-io/python-sdk",
     "stars": 449,
-    "updated_at": "2026-08-26T19:54:20Z",
+    "updated_at": "2026-08-26T20:24:33Z",
     "url": "https://github.com/pinecone-io/python-sdk"
   },
   {
@@ -63,6 +90,15 @@
     "url": "https://github.com/Mid-D-Man/msx"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45803,
+    "updated_at": "2026-08-26T19:51:22Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
@@ -70,6 +106,24 @@
     "stars": 35333,
     "updated_at": "2026-08-26T19:50:00Z",
     "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-08-26T19:47:27Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
+    "id": "dem2007/ChromaDB-Manager",
+    "language": "Swift",
+    "name": "dem2007/ChromaDB-Manager",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:44:26Z",
+    "url": "https://github.com/dem2007/ChromaDB-Manager"
   },
   {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
@@ -104,8 +158,26 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1670,
-    "updated_at": "2026-08-26T19:34:50Z",
+    "updated_at": "2026-08-26T20:18:48Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-26T19:34:35Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
+    "id": "kichikubeihei/CodeMemoryPrime",
+    "language": "Rust",
+    "name": "kichikubeihei/CodeMemoryPrime",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:34:14Z",
+    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
   },
   {
     "description": "The Vector Database for Agents & Humans.",
@@ -140,7 +212,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6378,
-    "updated_at": "2026-08-26T20:14:19Z",
+    "updated_at": "2026-08-26T20:22:26Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -239,7 +311,7 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-08-26T18:46:06Z",
+    "updated_at": "2026-08-26T20:27:10Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -259,15 +331,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T19:37:06Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-26T19:34:35Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -293,7 +356,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11284,
-    "updated_at": "2026-08-26T19:21:01Z",
+    "updated_at": "2026-08-26T20:23:29Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -315,15 +378,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65245,
-    "updated_at": "2026-08-26T17:59:15Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
     "id": "23skdu/longbow",
     "language": "Go",
@@ -340,15 +394,6 @@
     "stars": 16753,
     "updated_at": "2026-08-26T17:51:17Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45802,
-    "updated_at": "2026-08-26T19:51:22Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T17:36:04Z",
     "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:35:34Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:34:37Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:34:34Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "ResearchPilot is an AI-powered research assistant that lets users upload PDFs, ask grounded questions, and explore answe",
-    "id": "us-utkarshsri07/ResearchPilotAI",
-    "language": "Python",
-    "name": "us-utkarshsri07/ResearchPilotAI",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:33:41Z",
-    "url": "https://github.com/us-utkarshsri07/ResearchPilotAI"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-08-26T17:33:28Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   }
 ]
