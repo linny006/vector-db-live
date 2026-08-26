@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T21:45:20Z",
+    "updated_at": "2026-08-26T22:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6218,
+    "updated_at": "2026-08-26T21:55:44Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45805,
+    "updated_at": "2026-08-26T21:53:22Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T21:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65247,
+    "updated_at": "2026-08-26T21:58:26Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-26T21:44:59Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
@@ -23,26 +68,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-26T21:30:44Z",
+    "updated_at": "2026-08-26T21:56:15Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T21:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65246,
-    "updated_at": "2026-08-26T21:45:22Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -52,6 +79,24 @@
     "stars": 1670,
     "updated_at": "2026-08-26T21:24:25Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-26T21:24:24Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8145,
+    "updated_at": "2026-08-26T21:18:16Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Change the embedding model of your local RAG without deleting the index \u2014 and measure whether it is worth doing.",
@@ -77,7 +122,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6860,
-    "updated_at": "2026-08-26T21:07:42Z",
+    "updated_at": "2026-08-26T21:55:15Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -113,7 +158,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9199,
-    "updated_at": "2026-08-26T21:45:13Z",
+    "updated_at": "2026-08-26T21:50:12Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -122,7 +167,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-26T20:47:52Z",
+    "updated_at": "2026-08-26T21:56:45Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1347,
-    "updated_at": "2026-08-26T21:03:05Z",
+    "updated_at": "2026-08-26T21:52:23Z",
     "url": "https://github.com/infinispan/infinispan"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T19:52:25Z",
     "url": "https://github.com/Mid-D-Man/msx"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45804,
-    "updated_at": "2026-08-26T19:51:22Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -279,15 +315,6 @@
     "url": "https://github.com/lancedb/docs"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8144,
-    "updated_at": "2026-08-26T21:18:16Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
     "id": "kichikubeihei/CodeMemoryPrime",
     "language": "Rust",
@@ -329,7 +356,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6378,
-    "updated_at": "2026-08-26T21:42:31Z",
+    "updated_at": "2026-08-26T21:47:56Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -392,26 +419,8 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 3,
-    "updated_at": "2026-08-26T21:23:23Z",
+    "updated_at": "2026-08-26T21:45:32Z",
     "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-26T21:44:59Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-26T21:24:24Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
@@ -439,14 +448,5 @@
     "stars": 89,
     "updated_at": "2026-08-26T18:23:41Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-26T18:24:42Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
