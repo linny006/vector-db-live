@@ -1,12 +1,39 @@
 [
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1108,
-    "updated_at": "2026-08-26T15:45:10Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "Official website and documentation for ParqDB.",
+    "id": "parqdb-io/parqdb-io.github.io",
+    "language": "Astro",
+    "name": "parqdb-io/parqdb-io.github.io",
+    "stars": 0,
+    "updated_at": "2026-08-26T15:58:21Z",
+    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T15:58:15Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Business Document Intelligence backend built with Python and FastAPI for structured financial extraction, validation, em",
+    "id": "keshavgupta-max/Agent-Document-Extractor-Financial-Documents-",
+    "language": "Python",
+    "name": "keshavgupta-max/Agent-Document-Extractor-Financial-Documents-",
+    "stars": 0,
+    "updated_at": "2026-08-26T15:54:14Z",
+    "url": "https://github.com/keshavgupta-max/Agent-Document-Extractor-Financial-Documents-"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1670,
+    "updated_at": "2026-08-26T15:51:29Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -14,8 +41,53 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-26T15:44:26Z",
+    "updated_at": "2026-08-26T15:48:55Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-26T15:47:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T15:45:52Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1108,
+    "updated_at": "2026-08-26T15:55:18Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 93,
+    "updated_at": "2026-08-26T15:41:35Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65236,
+    "updated_at": "2026-08-26T15:41:07Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Jigen DB is vector database written from scratch in c#",
@@ -23,7 +95,7 @@
     "language": "C#",
     "name": "ppossanzini/Jigen",
     "stars": 10,
-    "updated_at": "2026-08-26T15:41:02Z",
+    "updated_at": "2026-08-26T15:47:09Z",
     "url": "https://github.com/ppossanzini/Jigen"
   },
   {
@@ -32,8 +104,17 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6853,
-    "updated_at": "2026-08-26T15:44:02Z",
+    "updated_at": "2026-08-26T15:56:26Z",
     "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-26T15:38:01Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -50,17 +131,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7069,
-    "updated_at": "2026-08-26T15:35:54Z",
+    "updated_at": "2026-08-26T15:53:49Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Official website and documentation for ParqDB.",
-    "id": "parqdb-io/parqdb-io.github.io",
-    "language": "Astro",
-    "name": "parqdb-io/parqdb-io.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-26T15:35:16Z",
-    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
   },
   {
     "description": "GDPR/CCPA Right-to-be-Forgotten Engine for Vector Databases (ChromaDB, Qdrant, Pgvector) with Global PII Extraction, Dry",
@@ -70,6 +142,15 @@
     "stars": 3,
     "updated_at": "2026-08-26T15:33:37Z",
     "url": "https://github.com/Toskurim/vector-unforget"
+  },
+  {
+    "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
+    "id": "hhblaze/DBreeze",
+    "language": "C#",
+    "name": "hhblaze/DBreeze",
+    "stars": 578,
+    "updated_at": "2026-08-26T15:33:28Z",
+    "url": "https://github.com/hhblaze/DBreeze"
   },
   {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
@@ -104,7 +185,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-08-26T15:28:02Z",
+    "updated_at": "2026-08-26T15:52:15Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -113,7 +194,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11280,
-    "updated_at": "2026-08-26T15:27:41Z",
+    "updated_at": "2026-08-26T15:50:26Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -122,17 +203,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9422,
-    "updated_at": "2026-08-26T15:32:27Z",
+    "updated_at": "2026-08-26T15:53:29Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1670,
-    "updated_at": "2026-08-26T15:34:40Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -158,8 +230,17 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 70,
-    "updated_at": "2026-08-26T15:11:33Z",
+    "updated_at": "2026-08-26T15:51:53Z",
     "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30272,
+    "updated_at": "2026-08-26T15:09:47Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -203,26 +284,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6218,
-    "updated_at": "2026-08-26T15:36:47Z",
+    "updated_at": "2026-08-26T15:58:03Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T15:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T15:00:28Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -257,35 +320,8 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 265,
-    "updated_at": "2026-08-26T15:32:21Z",
+    "updated_at": "2026-08-26T15:54:11Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 93,
-    "updated_at": "2026-08-26T15:41:35Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-26T14:46:21Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-26T15:38:01Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -295,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T14:44:35Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
-    "id": "hhblaze/DBreeze",
-    "language": "C#",
-    "name": "hhblaze/DBreeze",
-    "stars": 578,
-    "updated_at": "2026-08-26T15:33:28Z",
-    "url": "https://github.com/hhblaze/DBreeze"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -421,32 +448,5 @@
     "stars": 35333,
     "updated_at": "2026-08-26T14:18:25Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
-    "id": "thelastpickle/open-htap-stack",
-    "language": "Python",
-    "name": "thelastpickle/open-htap-stack",
-    "stars": 3,
-    "updated_at": "2026-08-26T14:17:49Z",
-    "url": "https://github.com/thelastpickle/open-htap-stack"
-  },
-  {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
-    "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-26T14:16:09Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65235,
-    "updated_at": "2026-08-26T15:41:07Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   }
 ]
