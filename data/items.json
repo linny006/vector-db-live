@@ -1,5 +1,50 @@
 [
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8139,
+    "updated_at": "2026-08-26T09:38:06Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 250,
+    "updated_at": "2026-08-26T09:35:34Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "GDPR/CCPA Right-to-be-Forgotten Engine for Vector Databases (ChromaDB, Qdrant, Pgvector) with Global PII Extraction, Dry",
+    "id": "Toskurim/vector-unforget",
+    "language": "Python",
+    "name": "Toskurim/vector-unforget",
+    "stars": 3,
+    "updated_at": "2026-08-26T09:35:20Z",
+    "url": "https://github.com/Toskurim/vector-unforget"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1108,
+    "updated_at": "2026-08-26T09:38:34Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T09:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,12 +54,30 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-26T09:29:40Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-26T09:28:48Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9422,
-    "updated_at": "2026-08-26T09:27:25Z",
+    "updated_at": "2026-08-26T09:32:27Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -54,21 +117,12 @@
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 250,
-    "updated_at": "2026-08-26T09:23:53Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
     "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
     "id": "lingxinmind/vecmindb-sdk",
     "language": "Python",
     "name": "lingxinmind/vecmindb-sdk",
     "stars": 1,
-    "updated_at": "2026-08-26T09:18:12Z",
+    "updated_at": "2026-08-26T09:38:34Z",
     "url": "https://github.com/lingxinmind/vecmindb-sdk"
   },
   {
@@ -99,15 +153,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T09:15:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -135,21 +180,12 @@
     "url": "https://github.com/darkzard05/rag-system-ollama"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-26T09:29:40Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7068,
-    "updated_at": "2026-08-26T09:08:44Z",
+    "updated_at": "2026-08-26T09:32:41Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35334,
-    "updated_at": "2026-08-26T09:22:42Z",
+    "updated_at": "2026-08-26T09:35:11Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T09:01:48Z",
     "url": "https://github.com/tryAGI/Chroma"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1108,
-    "updated_at": "2026-08-26T09:27:13Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "MemoryOS is a universal, enterprise-grade, persistent AI workspace that remembers project history, decisions, and shared",
@@ -229,7 +256,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15516,
+    "stars": 15515,
     "updated_at": "2026-08-26T08:55:58Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -302,7 +329,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-26T08:40:21Z",
+    "updated_at": "2026-08-26T09:39:00Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 1906,
-    "updated_at": "2026-08-26T08:34:47Z",
+    "updated_at": "2026-08-26T09:37:49Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
@@ -340,15 +367,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T08:29:49Z",
     "url": "https://github.com/YellowBangboo-Liang/genshin_lore_assistant"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-26T09:28:48Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -414,15 +432,6 @@
     "url": "https://github.com/AnshulKumar79/StudyBuddy-AI_Study_Assistant"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8138,
-    "updated_at": "2026-08-26T09:19:48Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -439,14 +448,5 @@
     "stars": 9197,
     "updated_at": "2026-08-26T08:20:54Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "The Kubernetes Operator of Milvus. ",
-    "id": "zilliztech/milvus-operator",
-    "language": "Go",
-    "name": "zilliztech/milvus-operator",
-    "stars": 125,
-    "updated_at": "2026-08-26T07:57:17Z",
-    "url": "https://github.com/zilliztech/milvus-operator"
   }
 ]
