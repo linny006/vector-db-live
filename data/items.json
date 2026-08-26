@@ -1,12 +1,48 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-26T00:12:17Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1650,
+    "updated_at": "2026-08-26T00:10:15Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-26T00:01:41Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-25T23:59:05Z",
+    "updated_at": "2026-08-26T00:00:22Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T00:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -32,17 +68,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11273,
-    "updated_at": "2026-08-25T23:49:19Z",
+    "updated_at": "2026-08-26T00:06:26Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-25T23:47:55Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -61,15 +88,6 @@
     "stars": 171,
     "updated_at": "2026-08-25T23:46:33Z",
     "url": "https://github.com/yantrikos/yantrikdb-server"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-25T23:38:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -104,7 +122,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9196,
-    "updated_at": "2026-08-25T23:56:29Z",
+    "updated_at": "2026-08-26T00:12:04Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -171,6 +189,15 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
+    "description": "",
+    "id": "supremeloki/vector-db-adapter",
+    "language": "Python",
+    "name": "supremeloki/vector-db-adapter",
+    "stars": 1,
+    "updated_at": "2026-08-25T23:05:48Z",
+    "url": "https://github.com/supremeloki/vector-db-adapter"
+  },
+  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
@@ -196,6 +223,15 @@
     "stars": 1,
     "updated_at": "2026-08-25T22:57:58Z",
     "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1106,
+    "updated_at": "2026-08-25T22:57:56Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -234,15 +270,6 @@
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1105,
-    "updated_at": "2026-08-25T22:57:56Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "RAG-powered company knowledge base with automated document ingestion, AI metadata extraction, Pinecone retrieval, and co",
     "id": "swaytimmy35-Ai-Auto/ai-company-knowledge-base-and-rag-assistant",
     "language": "\u2014",
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-08-25T22:25:23Z",
     "url": "https://github.com/swaytimmy35-Ai-Auto/ai-company-knowledge-base-and-rag-assistant"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1650,
-    "updated_at": "2026-08-25T22:12:21Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "A simulated banking system with an autonomous AI agent, MCP, memory, and RAG for wire-transfer risk assessment.",
@@ -310,7 +328,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6834,
+    "stars": 6835,
     "updated_at": "2026-08-25T21:39:27Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -337,7 +355,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2263,
+    "stars": 2264,
     "updated_at": "2026-08-25T21:17:37Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -358,15 +376,6 @@
     "stars": 104,
     "updated_at": "2026-08-25T21:02:19Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-25T23:12:09Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Pinecone BYOC",
@@ -428,7 +437,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6375,
-    "updated_at": "2026-08-25T23:13:53Z",
+    "updated_at": "2026-08-26T00:05:10Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 42,
     "updated_at": "2026-08-25T20:17:18Z",
     "url": "https://github.com/Zizka-ai/ZizkaDB"
-  },
-  {
-    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
-    "id": "manav-2812/synapse",
-    "language": "TypeScript",
-    "name": "manav-2812/synapse",
-    "stars": 1,
-    "updated_at": "2026-08-25T20:15:10Z",
-    "url": "https://github.com/manav-2812/synapse"
   }
 ]
