@@ -1,21 +1,12 @@
 [
   {
-    "description": "Data Framework for Retrieval-Augmented Generation (RAG) & Autonomous Document Agents.",
-    "id": "NadeemAhmad3/enterprise-rag-data-framework",
-    "language": "\u2014",
-    "name": "NadeemAhmad3/enterprise-rag-data-framework",
-    "stars": 0,
-    "updated_at": "2026-08-26T20:29:58Z",
-    "url": "https://github.com/NadeemAhmad3/enterprise-rag-data-framework"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65244,
-    "updated_at": "2026-08-26T20:29:37Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T20:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
@@ -23,8 +14,35 @@
     "language": "Python",
     "name": "thelastpickle/open-htap-stack",
     "stars": 3,
-    "updated_at": "2026-08-26T20:16:32Z",
+    "updated_at": "2026-08-26T20:42:54Z",
     "url": "https://github.com/thelastpickle/open-htap-stack"
+  },
+  {
+    "description": "A memory-enabled AI dealership assistant built with FastAPI, OpenAI, Mem0 and Qdrant.",
+    "id": "raheebgill29/self-learning-ai-agents",
+    "language": "\u2014",
+    "name": "raheebgill29/self-learning-ai-agents",
+    "stars": 0,
+    "updated_at": "2026-08-26T20:38:47Z",
+    "url": "https://github.com/raheebgill29/self-learning-ai-agents"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65245,
+    "updated_at": "2026-08-26T20:34:45Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1670,
+    "updated_at": "2026-08-26T20:32:03Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -32,17 +50,35 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-26T20:15:24Z",
+    "updated_at": "2026-08-26T20:30:30Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Data Framework for Retrieval-Augmented Generation (RAG) & Autonomous Document Agents.",
+    "id": "NadeemAhmad3/enterprise-rag-data-framework",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T20:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "NadeemAhmad3/enterprise-rag-data-framework",
+    "stars": 0,
+    "updated_at": "2026-08-26T20:29:58Z",
+    "url": "https://github.com/NadeemAhmad3/enterprise-rag-data-framework"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6860,
+    "updated_at": "2026-08-26T20:42:30Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 341,
+    "updated_at": "2026-08-26T20:04:52Z",
+    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
@@ -50,8 +86,17 @@
     "language": "TypeScript",
     "name": "edheltzel/Recall",
     "stars": 3,
-    "updated_at": "2026-08-26T20:04:31Z",
+    "updated_at": "2026-08-26T20:40:13Z",
     "url": "https://github.com/edheltzel/Recall"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1347,
+    "updated_at": "2026-08-26T19:56:08Z",
+    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": "Profile README",
@@ -68,7 +113,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9199,
-    "updated_at": "2026-08-26T20:30:03Z",
+    "updated_at": "2026-08-26T20:39:53Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -94,7 +139,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45803,
+    "stars": 45804,
     "updated_at": "2026-08-26T19:51:22Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -153,15 +198,6 @@
     "url": "https://github.com/lancedb/docs"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1670,
-    "updated_at": "2026-08-26T20:18:48Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -212,7 +248,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6378,
-    "updated_at": "2026-08-26T20:22:26Z",
+    "updated_at": "2026-08-26T20:39:40Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -252,15 +288,6 @@
     "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG"
   },
   {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6859,
-    "updated_at": "2026-08-26T20:11:46Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -297,15 +324,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 341,
-    "updated_at": "2026-08-26T20:04:52Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
@@ -329,7 +347,7 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-08-26T19:37:06Z",
+    "updated_at": "2026-08-26T20:41:30Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-26T19:08:22Z",
+    "updated_at": "2026-08-26T20:31:41Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T17:37:48Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 3,
-    "updated_at": "2026-08-26T17:36:18Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:36:04Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
   }
 ]
