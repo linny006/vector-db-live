@@ -1,5 +1,95 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1107,
+    "updated_at": "2026-08-26T07:06:50Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1665,
+    "updated_at": "2026-08-26T07:06:45Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 7,
+    "updated_at": "2026-08-26T07:06:21Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
+    "id": "ogham-mcp/ogham-mcp",
+    "language": "Python",
+    "name": "ogham-mcp/ogham-mcp",
+    "stars": 114,
+    "updated_at": "2026-08-26T07:05:19Z",
+    "url": "https://github.com/ogham-mcp/ogham-mcp"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-26T07:03:00Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-26T07:02:45Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
+    "id": "acsavenhq/llm-docs-lab",
+    "language": "JavaScript",
+    "name": "acsavenhq/llm-docs-lab",
+    "stars": 0,
+    "updated_at": "2026-08-26T07:02:11Z",
+    "url": "https://github.com/acsavenhq/llm-docs-lab"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 70,
+    "updated_at": "2026-08-26T07:02:06Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-26T07:01:57Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T07:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,17 +104,8 @@
     "language": "Python",
     "name": "Chief-Strategist-J/llm-observability-platform",
     "stars": 4,
-    "updated_at": "2026-08-26T06:57:58Z",
+    "updated_at": "2026-08-26T07:08:07Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1664,
-    "updated_at": "2026-08-26T06:57:14Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -45,15 +126,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
-    "id": "acsavenhq/llm-docs-lab",
-    "language": "JavaScript",
-    "name": "acsavenhq/llm-docs-lab",
-    "stars": 0,
-    "updated_at": "2026-08-26T06:48:48Z",
-    "url": "https://github.com/acsavenhq/llm-docs-lab"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -61,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T06:46:25Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T06:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -140,17 +203,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-26T06:37:08Z",
+    "updated_at": "2026-08-26T07:07:50Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-26T06:56:09Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -207,33 +261,6 @@
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 70,
-    "updated_at": "2026-08-26T06:05:41Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-26T06:00:02Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-26T05:59:37Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -275,7 +302,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30268,
-    "updated_at": "2026-08-26T06:53:39Z",
+    "updated_at": "2026-08-26T07:04:15Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -369,15 +396,6 @@
     "url": "https://github.com/SammedBG/RAG-Customer-support-agent"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1107,
-    "updated_at": "2026-08-26T04:49:27Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
     "id": "yantrikos/yantrikdb-server",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T03:53:35Z",
     "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 1,
-    "updated_at": "2026-08-26T03:51:47Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-08-26T03:51:30Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
   }
 ]
