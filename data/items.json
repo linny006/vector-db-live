@@ -1,21 +1,48 @@
 [
   {
-    "description": "GDPR/CCPA Right-to-be-Forgotten Engine for Vector Databases (ChromaDB, Qdrant, Pgvector) with Global PII Extraction, Dry",
-    "id": "Toskurim/vector-unforget",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "Toskurim/vector-unforget",
+    "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T16:14:36Z",
-    "url": "https://github.com/Toskurim/vector-unforget"
+    "updated_at": "2026-08-26T16:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6218,
+    "updated_at": "2026-08-26T16:29:25Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "A privacy-first, zero-data-training RAG application powered by FastAPI, React, ChromaDB hybrid search (BM25 + Dense Vect",
+    "id": "Sudhanshub27/rag-system",
     "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6854,
-    "updated_at": "2026-08-26T16:14:32Z",
-    "url": "https://github.com/plastic-labs/honcho"
+    "name": "Sudhanshub27/rag-system",
+    "stars": 1,
+    "updated_at": "2026-08-26T16:27:33Z",
+    "url": "https://github.com/Sudhanshub27/rag-system"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-26T16:23:29Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 207,
+    "updated_at": "2026-08-26T16:29:18Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
   },
   {
     "description": "Official website and documentation for ParqDB.",
@@ -23,8 +50,62 @@
     "language": "Astro",
     "name": "parqdb-io/parqdb-io.github.io",
     "stars": 0,
-    "updated_at": "2026-08-26T16:11:13Z",
+    "updated_at": "2026-08-26T16:20:40Z",
     "url": "https://github.com/parqdb-io/parqdb-io.github.io"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-26T16:17:50Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-26T16:16:00Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T16:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "GDPR/CCPA Right-to-be-Forgotten Engine for Vector Databases (ChromaDB, Qdrant, Pgvector) with Global PII Extraction, Dry",
+    "id": "Toskurim/vector-unforget",
+    "language": "Python",
+    "name": "Toskurim/vector-unforget",
+    "stars": 3,
+    "updated_at": "2026-08-26T16:23:31Z",
+    "url": "https://github.com/Toskurim/vector-unforget"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6855,
+    "updated_at": "2026-08-26T16:14:32Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30273,
+    "updated_at": "2026-08-26T16:11:29Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
@@ -45,24 +126,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-26T16:07:27Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
-    "id": "Yigtwxx/awesome-rag-production",
-    "language": "Python",
-    "name": "Yigtwxx/awesome-rag-production",
-    "stars": 207,
-    "updated_at": "2026-08-26T16:07:27Z",
-    "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
     "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
     "id": "lancedb/docs",
     "language": "Python",
@@ -77,7 +140,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9423,
-    "updated_at": "2026-08-26T16:04:23Z",
+    "updated_at": "2026-08-26T16:23:51Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -99,30 +162,12 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T16:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T16:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-26T16:11:03Z",
+    "updated_at": "2026-08-26T16:27:47Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -135,12 +180,21 @@
     "url": "https://github.com/keshavgupta-max/Agent-Document-Extractor-Financial-Documents-"
   },
   {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 265,
+    "updated_at": "2026-08-26T15:54:11Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1670,
-    "updated_at": "2026-08-26T16:12:07Z",
+    "updated_at": "2026-08-26T16:27:23Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -158,7 +212,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-26T15:47:50Z",
+    "updated_at": "2026-08-26T16:28:12Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1108,
-    "updated_at": "2026-08-26T16:10:21Z",
+    "updated_at": "2026-08-26T16:30:28Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 93,
-    "updated_at": "2026-08-26T15:41:35Z",
+    "updated_at": "2026-08-26T16:19:08Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -184,8 +238,8 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65236,
-    "updated_at": "2026-08-26T15:41:07Z",
+    "stars": 65235,
+    "updated_at": "2026-08-26T16:27:09Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -288,15 +342,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30272,
-    "updated_at": "2026-08-26T16:11:29Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -333,15 +378,6 @@
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6218,
-    "updated_at": "2026-08-26T16:12:07Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
     "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "TypeScript",
@@ -367,33 +403,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T14:51:30Z",
     "url": "https://github.com/GMCavalheri/Smart-Pokedex"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 265,
-    "updated_at": "2026-08-26T15:54:11Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-26T14:44:35Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-26T14:42:12Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T14:29:18Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Shell",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 2,
-    "updated_at": "2026-08-26T14:28:47Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
   }
 ]
