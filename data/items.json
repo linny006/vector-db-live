@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T08:00:22Z",
+    "updated_at": "2026-08-26T08:15:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Advanced local-first RAG system powered by Ollama and LangGraph. Optimized for high-performance sLLM orchestration   fea",
+    "id": "darkzard05/rag-system-ollama",
+    "language": "Python",
+    "name": "darkzard05/rag-system-ollama",
+    "stars": 4,
+    "updated_at": "2026-08-26T08:14:21Z",
+    "url": "https://github.com/darkzard05/rag-system-ollama"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 3,
+    "updated_at": "2026-08-26T08:11:17Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
+    "id": "acsavenhq/llm-docs-lab",
+    "language": "JavaScript",
+    "name": "acsavenhq/llm-docs-lab",
+    "stars": 0,
+    "updated_at": "2026-08-26T08:10:22Z",
+    "url": "https://github.com/acsavenhq/llm-docs-lab"
+  },
+  {
+    "description": "This is the repo tracking the development of a RAG-based model named as - \"ScholarSync - AI STUDY BUDDY\".",
+    "id": "AnshulKumar79/StudyBuddy-AI_Study_Assistant",
+    "language": "Python",
+    "name": "AnshulKumar79/StudyBuddy-AI_Study_Assistant",
+    "stars": 0,
+    "updated_at": "2026-08-26T08:08:52Z",
+    "url": "https://github.com/AnshulKumar79/StudyBuddy-AI_Study_Assistant"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8138,
+    "updated_at": "2026-08-26T08:07:08Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45795,
+    "updated_at": "2026-08-26T08:03:43Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-26T08:03:30Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1347,
+    "updated_at": "2026-08-26T08:02:38Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T08:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -27,15 +108,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T07:58:43Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The Kubernetes Operator of Milvus. ",
     "id": "zilliztech/milvus-operator",
     "language": "Go",
@@ -43,6 +115,15 @@
     "stars": 125,
     "updated_at": "2026-08-26T07:57:17Z",
     "url": "https://github.com/zilliztech/milvus-operator"
+  },
+  {
+    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-08-26T07:57:00Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -86,7 +167,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-26T07:58:53Z",
+    "updated_at": "2026-08-26T08:04:11Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -97,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T07:48:17Z",
     "url": "https://github.com/r-xue/ragdoll"
-  },
-  {
-    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
-    "id": "acsavenhq/llm-docs-lab",
-    "language": "JavaScript",
-    "name": "acsavenhq/llm-docs-lab",
-    "stars": 0,
-    "updated_at": "2026-08-26T07:47:31Z",
-    "url": "https://github.com/acsavenhq/llm-docs-lab"
   },
   {
     "description": "AI-powered RAG assistant for Product Managers \u2014 ask natural-language questions across PRDs, meeting notes, and Jira expo",
@@ -131,7 +203,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9422,
-    "updated_at": "2026-08-26T07:46:49Z",
+    "updated_at": "2026-08-26T08:10:14Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -149,7 +221,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-26T07:46:11Z",
+    "updated_at": "2026-08-26T08:15:15Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -207,15 +279,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1347,
-    "updated_at": "2026-08-26T07:35:22Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -234,6 +297,15 @@
     "url": "https://github.com/Arvindhbabu/OMNIS-AI"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30268,
+    "updated_at": "2026-08-26T08:13:48Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
     "id": "kunal-rathore-111/Neptune",
     "language": "TypeScript",
@@ -241,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T07:28:00Z",
     "url": "https://github.com/kunal-rathore-111/Neptune"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-08-26T07:57:00Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -274,7 +337,7 @@
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
-    "stars": 1107,
+    "stars": 1108,
     "updated_at": "2026-08-26T07:06:50Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
@@ -306,21 +369,12 @@
     "url": "https://github.com/ogham-mcp/ogham-mcp"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30267,
-    "updated_at": "2026-08-26T07:29:12Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-26T07:51:44Z",
+    "updated_at": "2026-08-26T08:08:06Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -329,7 +383,7 @@
     "language": "Rust",
     "name": "inlaySQL/inlaysql",
     "stars": 2,
-    "updated_at": "2026-08-26T07:02:45Z",
+    "updated_at": "2026-08-26T08:15:04Z",
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
@@ -351,15 +405,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45794,
-    "updated_at": "2026-08-26T06:45:23Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
     "id": "TanNguyen234/VietLex-Tech-Spec",
     "language": "Python",
@@ -367,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T06:41:48Z",
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-26T06:41:21Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
@@ -412,41 +448,5 @@
     "stars": 56,
     "updated_at": "2026-08-26T06:07:12Z",
     "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34197,
-    "updated_at": "2026-08-26T07:25:11Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15515,
-    "updated_at": "2026-08-26T05:58:14Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Search and relevance across four stores -- vector embeddings, graph, full-text and relational -- measuring the ROUTING D",
-    "id": "jkelly-dev1/federated-retrieval-router",
-    "language": "Python",
-    "name": "jkelly-dev1/federated-retrieval-router",
-    "stars": 0,
-    "updated_at": "2026-08-26T05:57:53Z",
-    "url": "https://github.com/jkelly-dev1/federated-retrieval-router"
-  },
-  {
-    "description": "VeloxDB is a from-scratch HNSW vector database built in Python and NumPy. It features multi-layer graph search, scalar q",
-    "id": "Rancidgift57/VeloxDB-Custom-In-Memory-Vector-Database-with-HNSW-Indexing",
-    "language": "Python",
-    "name": "Rancidgift57/VeloxDB-Custom-In-Memory-Vector-Database-with-HNSW-Indexing",
-    "stars": 1,
-    "updated_at": "2026-08-26T05:49:22Z",
-    "url": "https://github.com/Rancidgift57/VeloxDB-Custom-In-Memory-Vector-Database-with-HNSW-Indexing"
   }
 ]
