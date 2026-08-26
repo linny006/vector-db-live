@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T21:30:23Z",
+    "updated_at": "2026-08-26T21:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 584,
+    "updated_at": "2026-08-26T21:40:14Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-26T21:30:44Z",
+    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +32,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-26T21:15:30Z",
+    "updated_at": "2026-08-26T21:30:29Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65246,
+    "updated_at": "2026-08-26T21:45:22Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -27,13 +54,22 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
+    "description": "Change the embedding model of your local RAG without deleting the index \u2014 and measure whether it is worth doing.",
+    "id": "batuhanzorbeyzengin/rebasis",
     "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-26T21:09:53Z",
-    "url": "https://github.com/GiulioDER/RE-call"
+    "name": "batuhanzorbeyzengin/rebasis",
+    "stars": 15,
+    "updated_at": "2026-08-26T21:43:54Z",
+    "url": "https://github.com/batuhanzorbeyzengin/rebasis"
+  },
+  {
+    "description": "Curated, graph-aware retrieval substrate for human-AI teams \u2014 RAG + reranker + curation surface. The casebook to kos's p",
+    "id": "ArcavenAE/flyloft",
+    "language": "Rust",
+    "name": "ArcavenAE/flyloft",
+    "stars": 0,
+    "updated_at": "2026-08-26T21:10:41Z",
+    "url": "https://github.com/ArcavenAE/flyloft"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -63,15 +99,6 @@
     "url": "https://github.com/edheltzel/Recall"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65246,
-    "updated_at": "2026-08-26T21:25:02Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -86,7 +113,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9199,
-    "updated_at": "2026-08-26T21:28:28Z",
+    "updated_at": "2026-08-26T21:45:13Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -106,6 +133,15 @@
     "stars": 3,
     "updated_at": "2026-08-26T20:42:54Z",
     "url": "https://github.com/thelastpickle/open-htap-stack"
+  },
+  {
+    "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
+    "id": "josephkamau32/devintel",
+    "language": "Python",
+    "name": "josephkamau32/devintel",
+    "stars": 4,
+    "updated_at": "2026-08-26T20:41:49Z",
+    "url": "https://github.com/josephkamau32/devintel"
   },
   {
     "description": "A memory-enabled AI dealership assistant built with FastAPI, OpenAI, Mem0 and Qdrant.",
@@ -151,6 +187,15 @@
     "stars": 1347,
     "updated_at": "2026-08-26T21:03:05Z",
     "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "An Adaptive Hybrid Retrieval Engine for Lexical, Sparse, Dense and Neural Search",
+    "id": "vtavakkoli/QueryWeave",
+    "language": "Rust",
+    "name": "vtavakkoli/QueryWeave",
+    "stars": 0,
+    "updated_at": "2026-08-26T19:55:05Z",
+    "url": "https://github.com/vtavakkoli/QueryWeave"
   },
   {
     "description": "Profile README",
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T19:44:26Z",
     "url": "https://github.com/dem2007/ChromaDB-Manager"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 584,
-    "updated_at": "2026-08-26T19:43:02Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6378,
-    "updated_at": "2026-08-26T20:39:40Z",
+    "updated_at": "2026-08-26T21:42:31Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1108,
-    "updated_at": "2026-08-26T21:03:06Z",
+    "updated_at": "2026-08-26T21:44:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -365,7 +401,7 @@
     "language": "HTML",
     "name": "zaahist/design-to-ship-playbook",
     "stars": 1,
-    "updated_at": "2026-08-26T18:58:37Z",
+    "updated_at": "2026-08-26T21:44:59Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1881,
     "updated_at": "2026-08-26T18:24:42Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-08-26T17:56:11Z",
-    "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16753,
-    "updated_at": "2026-08-26T17:51:17Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:44:34Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-08-26T17:40:04Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
   }
 ]
