@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T14:25:06Z",
+    "updated_at": "2026-08-26T14:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "GDPR/CCPA Right-to-be-Forgotten Engine for Vector Databases (ChromaDB, Qdrant, Pgvector) with Global PII Extraction, Dry",
+    "id": "Toskurim/vector-unforget",
+    "language": "Python",
+    "name": "Toskurim/vector-unforget",
+    "stars": 3,
+    "updated_at": "2026-08-26T14:29:26Z",
+    "url": "https://github.com/Toskurim/vector-unforget"
+  },
+  {
+    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
+    "id": "Tanmoy095/Logiflow-platform",
+    "language": "Shell",
+    "name": "Tanmoy095/Logiflow-platform",
+    "stars": 2,
+    "updated_at": "2026-08-26T14:28:47Z",
+    "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-26T14:26:15Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T14:25:52Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\uddc4\ufe0f Ultrafast native C++ JNI in-memory vector database for the FastJava AI ecosystem",
@@ -27,13 +63,13 @@
     "url": "https://github.com/thelastpickle/open-htap-stack"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T14:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "vishalChoudhary-git/ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-26T14:16:09Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -50,7 +86,7 @@
     "language": "Astro",
     "name": "parqdb-io/parqdb-io.github.io",
     "stars": 0,
-    "updated_at": "2026-08-26T14:13:50Z",
+    "updated_at": "2026-08-26T14:28:52Z",
     "url": "https://github.com/parqdb-io/parqdb-io.github.io"
   },
   {
@@ -97,6 +133,15 @@
     "stars": 5,
     "updated_at": "2026-08-26T14:03:36Z",
     "url": "https://github.com/jeevesh2515/clinical-rag-agent"
+  },
+  {
+    "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
+    "id": "api-evangelist/weaviate",
+    "language": "\u2014",
+    "name": "api-evangelist/weaviate",
+    "stars": 1,
+    "updated_at": "2026-08-26T14:03:14Z",
+    "url": "https://github.com/api-evangelist/weaviate"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-26T14:25:46Z",
+    "updated_at": "2026-08-26T14:29:36Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "TAIPANBOX/engram",
     "stars": 2,
-    "updated_at": "2026-08-26T13:56:27Z",
+    "updated_at": "2026-08-26T14:28:17Z",
     "url": "https://github.com/TAIPANBOX/engram"
   },
   {
@@ -360,15 +405,6 @@
     "url": "https://github.com/api-evangelist/sequoiadb"
   },
   {
-    "description": "GDPR/CCPA Right-to-be-Forgotten Engine for Vector Databases (ChromaDB, Qdrant, Pgvector) with Global PII Extraction, Dry",
-    "id": "Toskurim/vector-unforget",
-    "language": "Python",
-    "name": "Toskurim/vector-unforget",
-    "stars": 3,
-    "updated_at": "2026-08-26T13:38:54Z",
-    "url": "https://github.com/Toskurim/vector-unforget"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -385,15 +421,6 @@
     "stars": 3,
     "updated_at": "2026-08-26T13:36:22Z",
     "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-26T13:33:55Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
@@ -421,32 +448,5 @@
     "stars": 11280,
     "updated_at": "2026-08-26T13:43:51Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
-    "id": "acsavenhq/llm-docs-lab",
-    "language": "JavaScript",
-    "name": "acsavenhq/llm-docs-lab",
-    "stars": 1,
-    "updated_at": "2026-08-26T13:26:42Z",
-    "url": "https://github.com/acsavenhq/llm-docs-lab"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-26T13:24:25Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
-    "id": "api-evangelist/objectbox",
-    "language": "\u2014",
-    "name": "api-evangelist/objectbox",
-    "stars": 0,
-    "updated_at": "2026-08-26T13:22:35Z",
-    "url": "https://github.com/api-evangelist/objectbox"
   }
 ]
