@@ -5,8 +5,134 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T07:30:23Z",
+    "updated_at": "2026-08-26T07:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-26T07:43:22Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "An awesome list of AI/ML tools \u2014 but leveled by concept depth (Level 0\u21924) and searchable. Every tool comes with an artic",
+    "id": "maneesh-kumar-thakur/self-serve-learnings-4-all",
+    "language": "HTML",
+    "name": "maneesh-kumar-thakur/self-serve-learnings-4-all",
+    "stars": 0,
+    "updated_at": "2026-08-26T07:42:16Z",
+    "url": "https://github.com/maneesh-kumar-thakur/self-serve-learnings-4-all"
+  },
+  {
+    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
+    "id": "acsavenhq/llm-docs-lab",
+    "language": "JavaScript",
+    "name": "acsavenhq/llm-docs-lab",
+    "stars": 0,
+    "updated_at": "2026-08-26T07:41:57Z",
+    "url": "https://github.com/acsavenhq/llm-docs-lab"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-26T07:45:00Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "ANORA \u2014 An AI-powered cloud knowledge intelligence platform. Upload documents, get grounded answers via RAG with source ",
+    "id": "Berosin/smart-crop-health-monitor",
+    "language": "Python",
+    "name": "Berosin/smart-crop-health-monitor",
+    "stars": 0,
+    "updated_at": "2026-08-26T07:39:30Z",
+    "url": "https://github.com/Berosin/smart-crop-health-monitor"
+  },
+  {
+    "description": "A full-stack, Keep-style note-taking SaaS with AI baked in \u2014 Gemini-powered title generation, on-demand summaries, and a",
+    "id": "MeetVora79/notevault",
+    "language": "JavaScript",
+    "name": "MeetVora79/notevault",
+    "stars": 1,
+    "updated_at": "2026-08-26T07:39:08Z",
+    "url": "https://github.com/MeetVora79/notevault"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-26T07:38:44Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "A simple tool to manage any vector database",
+    "id": "aqora-io/vectorctl",
+    "language": "Rust",
+    "name": "aqora-io/vectorctl",
+    "stars": 0,
+    "updated_at": "2026-08-26T07:38:33Z",
+    "url": "https://github.com/aqora-io/vectorctl"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-26T07:35:45Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1347,
+    "updated_at": "2026-08-26T07:35:22Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7068,
+    "updated_at": "2026-08-26T07:32:52Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A modular AI Cognitive Operating System for memory, reasoning, retrieval, agent orchestration, and secure execution.",
+    "id": "Arvindhbabu/OMNIS-AI",
+    "language": "Python",
+    "name": "Arvindhbabu/OMNIS-AI",
+    "stars": 1,
+    "updated_at": "2026-08-26T07:32:04Z",
+    "url": "https://github.com/Arvindhbabu/OMNIS-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T07:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
+    "id": "kunal-rathore-111/Neptune",
+    "language": "TypeScript",
+    "name": "kunal-rathore-111/Neptune",
+    "stars": 0,
+    "updated_at": "2026-08-26T07:28:00Z",
+    "url": "https://github.com/kunal-rathore-111/Neptune"
   },
   {
     "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
@@ -18,15 +144,6 @@
     "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1347,
-    "updated_at": "2026-08-26T07:25:10Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -36,15 +153,6 @@
     "url": "https://github.com/codecoradev/uteke"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-26T07:23:42Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -52,33 +160,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T07:18:37Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T07:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A modular AI Cognitive Operating System for memory, reasoning, retrieval, agent orchestration, and secure execution.",
-    "id": "Arvindhbabu/OMNIS-AI",
-    "language": "Python",
-    "name": "Arvindhbabu/OMNIS-AI",
-    "stars": 1,
-    "updated_at": "2026-08-26T07:15:24Z",
-    "url": "https://github.com/Arvindhbabu/OMNIS-AI"
-  },
-  {
-    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
-    "id": "acsavenhq/llm-docs-lab",
-    "language": "JavaScript",
-    "name": "acsavenhq/llm-docs-lab",
-    "stars": 0,
-    "updated_at": "2026-08-26T07:14:35Z",
-    "url": "https://github.com/acsavenhq/llm-docs-lab"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -95,7 +176,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-26T07:20:33Z",
+    "updated_at": "2026-08-26T07:41:50Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -158,7 +239,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-26T07:28:44Z",
+    "updated_at": "2026-08-26T07:34:29Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -211,27 +292,9 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45793,
+    "stars": 45794,
     "updated_at": "2026-08-26T06:45:23Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-26T06:44:47Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-26T06:43:43Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
@@ -250,24 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T06:41:21Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7068,
-    "updated_at": "2026-08-26T06:39:44Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-26T06:25:54Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
@@ -378,15 +423,6 @@
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
-    "description": "A full-stack, Keep-style note-taking SaaS with AI baked in \u2014 Gemini-powered title generation, on-demand summaries, and a",
-    "id": "MeetVora79/notevault",
-    "language": "JavaScript",
-    "name": "MeetVora79/notevault",
-    "stars": 1,
-    "updated_at": "2026-08-26T05:39:18Z",
-    "url": "https://github.com/MeetVora79/notevault"
-  },
-  {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
     "id": "SuperInstance/SuperInstance",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T05:33:43Z",
     "url": "https://github.com/Mr-Process/t-rex-claw"
-  },
-  {
-    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
-    "id": "kichikubeihei/CodeMemoryPrime",
-    "language": "Rust",
-    "name": "kichikubeihei/CodeMemoryPrime",
-    "stars": 0,
-    "updated_at": "2026-08-26T05:25:21Z",
-    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
-  },
-  {
-    "description": "Self-Evolving RAG System with ChromaDB for continuous knowledge updates (6x daily), designed to overcome Large Language ",
-    "id": "anhmtk/StillMe-Learning-AI-System-RAG-Foundation",
-    "language": "Python",
-    "name": "anhmtk/StillMe-Learning-AI-System-RAG-Foundation",
-    "stars": 7,
-    "updated_at": "2026-08-26T05:23:16Z",
-    "url": "https://github.com/anhmtk/StillMe-Learning-AI-System-RAG-Foundation"
-  },
-  {
-    "description": "A production-grade Retrieval-Augmented Generation (RAG) agent built to answer customer support questions using company d",
-    "id": "SammedBG/RAG-Customer-support-agent",
-    "language": "Python",
-    "name": "SammedBG/RAG-Customer-support-agent",
-    "stars": 0,
-    "updated_at": "2026-08-26T05:04:33Z",
-    "url": "https://github.com/SammedBG/RAG-Customer-support-agent"
-  },
-  {
-    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
-    "id": "yantrikos/yantrikdb-server",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb-server",
-    "stars": 171,
-    "updated_at": "2026-08-26T04:45:21Z",
-    "url": "https://github.com/yantrikos/yantrikdb-server"
   }
 ]
