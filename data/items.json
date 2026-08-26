@@ -1,12 +1,48 @@
 [
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-26T02:43:59Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 56,
+    "updated_at": "2026-08-26T02:57:45Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11275,
+    "updated_at": "2026-08-26T02:56:28Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "High-performance database management system",
+    "id": "ZeusDB/zeusdb",
+    "language": "Python",
+    "name": "ZeusDB/zeusdb",
+    "stars": 10,
+    "updated_at": "2026-08-26T02:56:15Z",
+    "url": "https://github.com/ZeusDB/zeusdb"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-26T02:47:04Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T02:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -16,6 +52,15 @@
     "stars": 3,
     "updated_at": "2026-08-26T02:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-26T02:43:59Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -36,31 +81,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 56,
-    "updated_at": "2026-08-26T02:31:07Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9423,
-    "updated_at": "2026-08-26T02:37:39Z",
+    "updated_at": "2026-08-26T02:56:26Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T02:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Rust client.",
@@ -99,21 +126,12 @@
     "url": "https://github.com/100wahidi/Realtime-data-embedding-pipeline"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11275,
-    "updated_at": "2026-08-26T02:43:13Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1107,
-    "updated_at": "2026-08-26T02:43:04Z",
+    "updated_at": "2026-08-26T02:58:37Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -189,6 +207,15 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6376,
+    "updated_at": "2026-08-26T01:27:54Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -205,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-26T01:20:14Z",
     "url": "https://github.com/NasitSony/SmartSearch"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-26T01:15:24Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
@@ -241,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T01:12:06Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "High-performance database management system",
-    "id": "ZeusDB/zeusdb",
-    "language": "Python",
-    "name": "ZeusDB/zeusdb",
-    "stars": 10,
-    "updated_at": "2026-08-26T02:44:20Z",
-    "url": "https://github.com/ZeusDB/zeusdb"
   },
   {
     "description": "Search and relevance across four stores -- vector embeddings, graph, full-text and relational -- measuring the ROUTING D",
@@ -283,7 +292,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65197,
+    "stars": 65199,
     "updated_at": "2026-08-26T00:43:03Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -338,7 +347,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9196,
-    "updated_at": "2026-08-26T01:32:47Z",
+    "updated_at": "2026-08-26T02:50:05Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-25T22:52:59Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "RAG-powered company knowledge base with automated document ingestion, AI metadata extraction, Pinecone retrieval, and co",
-    "id": "swaytimmy35-Ai-Auto/ai-company-knowledge-base-and-rag-assistant",
-    "language": "\u2014",
-    "name": "swaytimmy35-Ai-Auto/ai-company-knowledge-base-and-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-25T22:25:23Z",
-    "url": "https://github.com/swaytimmy35-Ai-Auto/ai-company-knowledge-base-and-rag-assistant"
   }
 ]
