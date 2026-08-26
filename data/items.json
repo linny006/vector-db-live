@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T23:15:25Z",
+    "updated_at": "2026-08-26T23:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11284,
+    "updated_at": "2026-08-26T23:21:47Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-08-26T23:18:42Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1907,
+    "updated_at": "2026-08-26T23:16:51Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T23:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -18,13 +54,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T23:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "Yasou13/MESA",
+    "stars": 5,
+    "updated_at": "2026-08-26T22:55:56Z",
+    "url": "https://github.com/Yasou13/MESA"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -50,7 +86,7 @@
     "language": "Rust",
     "name": "daryltucker/vecdb",
     "stars": 0,
-    "updated_at": "2026-08-26T23:15:11Z",
+    "updated_at": "2026-08-26T23:27:15Z",
     "url": "https://github.com/daryltucker/vecdb"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9199,
-    "updated_at": "2026-08-26T23:14:58Z",
+    "updated_at": "2026-08-26T23:18:30Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -189,6 +225,15 @@
     "url": "https://github.com/beyzahiz/PDF-Chat-RAG"
   },
   {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6861,
+    "updated_at": "2026-08-26T21:55:15Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -279,15 +324,6 @@
     "url": "https://github.com/ArcavenAE/flyloft"
   },
   {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6860,
-    "updated_at": "2026-08-26T21:55:15Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
     "description": "Self-hosted Upstash Vector alternative \u2014 drop-in compatible REST API backed by Redis Stack ",
     "id": "Coriou/up-vector",
     "language": "TypeScript",
@@ -304,15 +340,6 @@
     "stars": 3,
     "updated_at": "2026-08-26T20:54:15Z",
     "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11284,
-    "updated_at": "2026-08-26T23:14:07Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
@@ -421,32 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-26T19:47:27Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
-    "id": "dem2007/ChromaDB-Manager",
-    "language": "Swift",
-    "name": "dem2007/ChromaDB-Manager",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:44:26Z",
-    "url": "https://github.com/dem2007/ChromaDB-Manager"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-26T19:39:39Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
-    "id": "lancedb/docs",
-    "language": "Python",
-    "name": "lancedb/docs",
-    "stars": 10,
-    "updated_at": "2026-08-26T22:20:04Z",
-    "url": "https://github.com/lancedb/docs"
   }
 ]
