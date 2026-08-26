@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-26 18:59 UTC
+> ⏰ Last updated: 2026-08-26 19:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-26 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [ahmedSamir50/AdamSystems.ZVec.NET-RAG](https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG) | 0 | C# | 2026-08-26 |  |
-| 3 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-26 |  |
-| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-26 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [ahmedSamir50/AdamSystems.ZVec.NET-RAG](https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG) | 0 | C# | 2026-08-26 |  |
+| 4 | [NickFlach/kannaka-memory](https://github.com/NickFlach/kannaka-memory) | 2 | Rust | 2026-08-26 |  |
 | 5 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9199 | Rust | 2026-08-26 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
 | 6 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 89 | Rust | 2026-08-26 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
 | 7 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11284 | Rust | 2026-08-26 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 8 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 3 | Python | 2026-08-26 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
 | 9 | [nishan-paul-hello/cmatrix-agentic-red-team](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team) | 0 | TypeScript | 2026-08-26 | 🛡️ CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern  |
 | 10 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1881 | Go | 2026-08-26 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 11 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 65240 | JavaScript | 2026-08-26 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 11 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 65241 | JavaScript | 2026-08-26 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
 | 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-26 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 13 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-08-26 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
 | 14 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16753 | Go | 2026-08-26 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
