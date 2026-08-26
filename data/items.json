@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-26T08:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-26T07:59:14Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-26T07:59:12Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T07:58:43Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "The Kubernetes Operator of Milvus. ",
     "id": "zilliztech/milvus-operator",
     "language": "Go",
@@ -14,17 +50,35 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 89,
-    "updated_at": "2026-08-26T07:58:04Z",
+    "updated_at": "2026-08-26T07:59:06Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-26T07:55:31Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12954,
+    "stars": 12955,
     "updated_at": "2026-08-26T07:54:56Z",
     "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "> \u57fa\u4e8e\u672c\u5730 RAG \u7684\u300a\u539f\u795e\u300b\u5267\u60c5\u95ee\u7b54\u52a9\u624b\uff1aLLM Agent \u901a\u8fc7\u5de5\u5177\u8c03\u7528\u68c0\u7d22\u672c\u5730\u5267\u60c5\u8d44\u6599\uff0c\u53ea\u4f9d\u636e\u672c\u5730\u8bc1\u636e\u56de\u7b54\uff0c\u5e76\u4e3a\u6bcf\u4e2a\u7ed3\u8bba\u6807\u6ce8\u6765\u6e90\u3002 > > A local-first RAG assistant for Genshin Impact",
+    "id": "YellowBangboo-Liang/genshin_lore_assistant",
+    "language": "Python",
+    "name": "YellowBangboo-Liang/genshin_lore_assistant",
+    "stars": 0,
+    "updated_at": "2026-08-26T07:53:08Z",
+    "url": "https://github.com/YellowBangboo-Liang/genshin_lore_assistant"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6217,
-    "updated_at": "2026-08-26T07:48:23Z",
+    "updated_at": "2026-08-26T07:58:53Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -99,24 +153,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T07:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-26T07:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -151,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-26T07:39:08Z",
     "url": "https://github.com/MeetVora79/notevault"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-26T07:55:31Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "A simple tool to manage any vector database",
@@ -243,15 +270,6 @@
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-26T07:23:19Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -322,15 +340,6 @@
     "stars": 70,
     "updated_at": "2026-08-26T07:02:06Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-26T07:01:57Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-26T05:49:22Z",
     "url": "https://github.com/Rancidgift57/VeloxDB-Custom-In-Memory-Vector-Database-with-HNSW-Indexing"
-  },
-  {
-    "description": "Self-Healing Academic Knowledge Assistant powered by Agentic RAG, LangGraph, and Gemini.",
-    "id": "yashrajagawane/SentinelRAG",
-    "language": "Python",
-    "name": "yashrajagawane/SentinelRAG",
-    "stars": 0,
-    "updated_at": "2026-08-26T05:48:48Z",
-    "url": "https://github.com/yashrajagawane/SentinelRAG"
   }
 ]
