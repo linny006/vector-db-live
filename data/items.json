@@ -1,11 +1,74 @@
 [
   {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-27T19:41:50Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 343,
+    "updated_at": "2026-08-27T19:41:29Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Azure Cosmos DB is a fully managed, globally distributed, multi-model NoSQL and relational database service from Microso",
+    "id": "api-evangelist/azure-cosmos-db",
+    "language": "\u2014",
+    "name": "api-evangelist/azure-cosmos-db",
+    "stars": 0,
+    "updated_at": "2026-08-27T19:40:43Z",
+    "url": "https://github.com/api-evangelist/azure-cosmos-db"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 93,
+    "updated_at": "2026-08-27T19:36:13Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9203,
+    "updated_at": "2026-08-27T19:44:50Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Aerospike is a real-time, high-throughput, low-latency NoSQL database platform built on a hybrid memory architecture tha",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-08-27T19:31:12Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T19:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T19:30:26Z",
+    "updated_at": "2026-08-27T19:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1613,
-    "updated_at": "2026-08-27T19:28:14Z",
+    "updated_at": "2026-08-27T19:37:18Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -45,13 +108,13 @@
     "url": "https://github.com/Toskurim/vector-unforget"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-27T19:25:55Z",
-    "url": "https://github.com/GiulioDER/RE-call"
+    "description": "Local knowledge base lifecycle manager for dsh: multi-format import, hybrid search with per-stage debug scores, snapshot",
+    "id": "xiaoshi7915/dsh-kb-manager",
+    "language": "TypeScript",
+    "name": "xiaoshi7915/dsh-kb-manager",
+    "stars": 1,
+    "updated_at": "2026-08-27T19:23:19Z",
+    "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
   },
   {
     "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
@@ -67,7 +130,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6882,
+    "stars": 6883,
     "updated_at": "2026-08-27T19:21:11Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -77,7 +140,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-27T19:17:18Z",
+    "updated_at": "2026-08-27T19:41:55Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -88,15 +151,6 @@
     "stars": 29252,
     "updated_at": "2026-08-27T19:16:42Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T19:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -124,15 +178,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T19:10:34Z",
     "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9203,
-    "updated_at": "2026-08-27T19:25:07Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
@@ -176,7 +221,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8149,
-    "updated_at": "2026-08-27T19:00:16Z",
+    "updated_at": "2026-08-27T19:43:17Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 90,
-    "updated_at": "2026-08-27T18:37:22Z",
+    "updated_at": "2026-08-27T19:30:55Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -266,7 +311,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6383,
-    "updated_at": "2026-08-27T19:07:24Z",
+    "updated_at": "2026-08-27T19:43:53Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T17:46:03Z",
     "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16757,
-    "updated_at": "2026-08-27T17:43:48Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Marqo is an open-source, multimodal vector search engine that lets developers index text and images, generate embeddings",
-    "id": "api-evangelist/marqo",
-    "language": "\u2014",
-    "name": "api-evangelist/marqo",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:42:33Z",
-    "url": "https://github.com/api-evangelist/marqo"
-  },
-  {
-    "description": "The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le",
-    "id": "api-evangelist/lf-ai-and-data",
-    "language": "\u2014",
-    "name": "api-evangelist/lf-ai-and-data",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:38:36Z",
-    "url": "https://github.com/api-evangelist/lf-ai-and-data"
-  },
-  {
-    "description": "LanceDB is the AI-Native multimodal lakehouse built on the open-source Lance columnar storage format. It pairs an Apache",
-    "id": "api-evangelist/lancedb",
-    "language": "\u2014",
-    "name": "api-evangelist/lancedb",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:36:35Z",
-    "url": "https://github.com/api-evangelist/lancedb"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1683,
-    "updated_at": "2026-08-27T18:47:38Z",
-    "url": "https://github.com/xerj-org/xerj"
   }
 ]
