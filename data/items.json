@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-08-27T00:15:09Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-08-27T00:11:23Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-08-27T00:07:35Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 70,
+    "updated_at": "2026-08-27T00:14:22Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-08-27T00:03:01Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-08-27T00:00:57Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-08-27T00:00:46Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T00:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T00:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
     "id": "SKeditz42/Vec",
     "language": "C",
@@ -41,7 +122,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9199,
-    "updated_at": "2026-08-26T23:57:26Z",
+    "updated_at": "2026-08-27T00:14:43Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -81,22 +162,13 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T23:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T00:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45807,
+    "updated_at": "2026-08-26T23:48:41Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -124,6 +196,15 @@
     "stars": 6,
     "updated_at": "2026-08-26T23:30:23Z",
     "url": "https://github.com/infinition/DataBrain"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1613,
+    "updated_at": "2026-08-26T23:28:07Z",
+    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -176,7 +257,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 89,
-    "updated_at": "2026-08-26T22:52:36Z",
+    "updated_at": "2026-08-27T00:14:39Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -212,7 +293,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-26T23:46:09Z",
+    "updated_at": "2026-08-27T00:06:42Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -277,15 +358,6 @@
     "stars": 2,
     "updated_at": "2026-08-26T22:09:59Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45806,
-    "updated_at": "2026-08-26T23:48:41Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-26T21:24:24Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8145,
-    "updated_at": "2026-08-26T23:56:52Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Change the embedding model of your local RAG without deleting the index \u2014 and measure whether it is worth doing.",
-    "id": "batuhanzorbeyzengin/rebasis",
-    "language": "Python",
-    "name": "batuhanzorbeyzengin/rebasis",
-    "stars": 15,
-    "updated_at": "2026-08-26T21:43:54Z",
-    "url": "https://github.com/batuhanzorbeyzengin/rebasis"
-  },
-  {
-    "description": "Curated, graph-aware retrieval substrate for human-AI teams \u2014 RAG + reranker + curation surface. The casebook to kos's p",
-    "id": "ArcavenAE/flyloft",
-    "language": "Rust",
-    "name": "ArcavenAE/flyloft",
-    "stars": 0,
-    "updated_at": "2026-08-26T21:10:41Z",
-    "url": "https://github.com/ArcavenAE/flyloft"
-  },
-  {
-    "description": "Self-hosted Upstash Vector alternative \u2014 drop-in compatible REST API backed by Redis Stack ",
-    "id": "Coriou/up-vector",
-    "language": "TypeScript",
-    "name": "Coriou/up-vector",
-    "stars": 2,
-    "updated_at": "2026-08-26T20:59:34Z",
-    "url": "https://github.com/Coriou/up-vector"
-  },
-  {
-    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 3,
-    "updated_at": "2026-08-26T20:54:15Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
-    "id": "thelastpickle/open-htap-stack",
-    "language": "Python",
-    "name": "thelastpickle/open-htap-stack",
-    "stars": 3,
-    "updated_at": "2026-08-26T20:42:54Z",
-    "url": "https://github.com/thelastpickle/open-htap-stack"
-  },
-  {
-    "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
-    "id": "josephkamau32/devintel",
-    "language": "Python",
-    "name": "josephkamau32/devintel",
-    "stars": 4,
-    "updated_at": "2026-08-26T20:41:49Z",
-    "url": "https://github.com/josephkamau32/devintel"
-  },
-  {
-    "description": "A memory-enabled AI dealership assistant built with FastAPI, OpenAI, Mem0 and Qdrant.",
-    "id": "raheebgill29/self-learning-ai-agents",
-    "language": "Python",
-    "name": "raheebgill29/self-learning-ai-agents",
-    "stars": 0,
-    "updated_at": "2026-08-26T20:38:47Z",
-    "url": "https://github.com/raheebgill29/self-learning-ai-agents"
   }
 ]
