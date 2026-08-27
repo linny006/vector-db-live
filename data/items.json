@@ -1,5 +1,41 @@
 [
   {
+    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
+    "id": "rehan243/RAG-Enterprise-Search",
+    "language": "Python",
+    "name": "rehan243/RAG-Enterprise-Search",
+    "stars": 1,
+    "updated_at": "2026-08-27T16:14:54Z",
+    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35343,
+    "updated_at": "2026-08-27T16:14:32Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T16:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T16:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -14,7 +50,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11297,
-    "updated_at": "2026-08-27T15:48:42Z",
+    "updated_at": "2026-08-27T16:09:10Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -27,22 +63,13 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T15:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T15:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 838,
+    "updated_at": "2026-08-27T15:41:31Z",
+    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -61,6 +88,15 @@
     "stars": 4,
     "updated_at": "2026-08-27T15:36:18Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-27T15:35:35Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -95,7 +131,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 3,
-    "updated_at": "2026-08-27T15:59:14Z",
+    "updated_at": "2026-08-27T16:06:39Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -108,12 +144,21 @@
     "url": "https://github.com/parqdb-io/parqdb-io.github.io"
   },
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1683,
+    "updated_at": "2026-08-27T15:27:18Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34222,
-    "updated_at": "2026-08-27T15:25:17Z",
+    "updated_at": "2026-08-27T16:12:08Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -142,15 +187,6 @@
     "stars": 9,
     "updated_at": "2026-08-27T15:20:22Z",
     "url": "https://github.com/pinecone-io/pinecone-api"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 838,
-    "updated_at": "2026-08-27T15:41:31Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6221,
-    "updated_at": "2026-08-27T15:57:12Z",
+    "updated_at": "2026-08-27T16:14:04Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -342,15 +378,6 @@
     "url": "https://github.com/eastythenob8-svg/graph-memory"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35343,
-    "updated_at": "2026-08-27T15:57:26Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
     "id": "inlaySQL/inlaysql",
     "language": "Rust",
@@ -367,15 +394,6 @@
     "stars": 51894,
     "updated_at": "2026-08-27T15:01:49Z",
     "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1682,
-    "updated_at": "2026-08-27T15:27:18Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T14:58:33Z",
     "url": "https://github.com/imkausarbd/imkausarbd"
-  },
-  {
-    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
-    "id": "Anonymousforareason111/hybrid-orchestrator",
-    "language": "Python",
-    "name": "Anonymousforareason111/hybrid-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-08-27T14:58:18Z",
-    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2689,
-    "updated_at": "2026-08-27T14:58:03Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   }
 ]
