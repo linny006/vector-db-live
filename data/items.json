@@ -1,12 +1,39 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8146,
+    "updated_at": "2026-08-27T04:22:33Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 89,
+    "updated_at": "2026-08-27T04:22:19Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
+    "id": "HyxiaoGe/fusion-api",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T04:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-08-27T04:21:22Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-27T04:20:35Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Official website and documentation for ParqDB.",
@@ -14,8 +41,44 @@
     "language": "Astro",
     "name": "parqdb-io/parqdb-io.github.io",
     "stars": 0,
-    "updated_at": "2026-08-27T04:13:20Z",
+    "updated_at": "2026-08-27T04:18:11Z",
     "url": "https://github.com/parqdb-io/parqdb-io.github.io"
+  },
+  {
+    "description": "Embedded multi-modal database in Rust \u2014 vector + full-text + filter + graph + geo behind one fluent builder API. A vibe-",
+    "id": "i-rocky/corvid",
+    "language": "Rust",
+    "name": "i-rocky/corvid",
+    "stars": 1,
+    "updated_at": "2026-08-27T04:17:31Z",
+    "url": "https://github.com/i-rocky/corvid"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 51885,
+    "updated_at": "2026-08-27T04:16:34Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T04:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T04:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -43,33 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T04:08:53Z",
     "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
-  },
-  {
-    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-08-27T04:04:46Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 51885,
-    "updated_at": "2026-08-27T04:14:51Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T04:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -113,7 +149,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1677,
-    "updated_at": "2026-08-27T04:05:46Z",
+    "updated_at": "2026-08-27T04:15:26Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-08-27T03:30:28Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 89,
-    "updated_at": "2026-08-27T03:36:04Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -216,21 +243,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8145,
-    "updated_at": "2026-08-27T04:06:09Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45812,
-    "updated_at": "2026-08-27T02:27:23Z",
+    "updated_at": "2026-08-27T04:19:23Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -265,7 +283,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65261,
+    "stars": 65262,
     "updated_at": "2026-08-27T02:04:41Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -302,7 +320,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6380,
-    "updated_at": "2026-08-27T01:48:28Z",
+    "updated_at": "2026-08-27T04:25:51Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T00:32:05Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 1,
-    "updated_at": "2026-08-27T00:31:08Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 4,
-    "updated_at": "2026-08-27T00:28:06Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
