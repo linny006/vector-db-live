@@ -1,11 +1,101 @@
 [
   {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 2,
+    "updated_at": "2026-08-26T23:58:44Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-08-26T23:58:26Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "The Vector Database for Agents & Humans.",
+    "id": "daryltucker/vecdb",
+    "language": "Rust",
+    "name": "daryltucker/vecdb",
+    "stars": 0,
+    "updated_at": "2026-08-26T23:56:49Z",
+    "url": "https://github.com/daryltucker/vecdb"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
+    "id": "SAHIXXX12/AI-Search-Engine",
+    "language": "TypeScript",
+    "name": "SAHIXXX12/AI-Search-Engine",
+    "stars": 0,
+    "updated_at": "2026-08-26T23:55:34Z",
+    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9199,
+    "updated_at": "2026-08-26T23:57:26Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 12,
+    "updated_at": "2026-08-26T23:52:15Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-08-26T23:50:58Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-08-26T23:50:57Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1671,
+    "updated_at": "2026-08-26T23:49:04Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-26T23:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-26T23:45:20Z",
+    "updated_at": "2026-08-27T00:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,15 +117,6 @@
     "url": "https://github.com/hexxla/hexxladb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-26T23:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "DataBrain is a powerful, modular, and local-first knowledge management and learning platform designed to help you organi",
     "id": "infinition/DataBrain",
     "language": "JavaScript",
@@ -45,21 +126,12 @@
     "url": "https://github.com/infinition/DataBrain"
   },
   {
-    "description": "The Vector Database for Agents & Humans.",
-    "id": "daryltucker/vecdb",
-    "language": "Rust",
-    "name": "daryltucker/vecdb",
-    "stars": 0,
-    "updated_at": "2026-08-26T23:27:15Z",
-    "url": "https://github.com/daryltucker/vecdb"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11284,
-    "updated_at": "2026-08-26T23:21:47Z",
+    "updated_at": "2026-08-26T23:48:01Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -140,7 +212,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-26T22:48:15Z",
+    "updated_at": "2026-08-26T23:46:09Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -151,15 +223,6 @@
     "stars": 584,
     "updated_at": "2026-08-26T22:49:32Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9199,
-    "updated_at": "2026-08-26T23:18:30Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
@@ -202,7 +265,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65255,
+    "stars": 65256,
     "updated_at": "2026-08-26T22:13:37Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -221,7 +284,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45806,
-    "updated_at": "2026-08-26T22:07:23Z",
+    "updated_at": "2026-08-26T23:48:41Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -292,7 +355,7 @@
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
-    "stars": 1108,
+    "stars": 1109,
     "updated_at": "2026-08-26T21:44:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
@@ -304,15 +367,6 @@
     "stars": 12,
     "updated_at": "2026-08-26T21:40:06Z",
     "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1670,
-    "updated_at": "2026-08-26T23:11:51Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -329,7 +383,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8145,
-    "updated_at": "2026-08-26T21:18:16Z",
+    "updated_at": "2026-08-26T23:56:52Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T20:38:47Z",
     "url": "https://github.com/raheebgill29/self-learning-ai-agents"
-  },
-  {
-    "description": "Data Framework for Retrieval-Augmented Generation (RAG) & Autonomous Document Agents.",
-    "id": "NadeemAhmad3/enterprise-rag-data-framework",
-    "language": "Python",
-    "name": "NadeemAhmad3/enterprise-rag-data-framework",
-    "stars": 0,
-    "updated_at": "2026-08-26T20:29:58Z",
-    "url": "https://github.com/NadeemAhmad3/enterprise-rag-data-framework"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-08-26T20:27:10Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 341,
-    "updated_at": "2026-08-26T20:04:52Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "An Adaptive Hybrid Retrieval Engine for Lexical, Sparse, Dense and Neural Search",
-    "id": "vtavakkoli/QueryWeave",
-    "language": "Rust",
-    "name": "vtavakkoli/QueryWeave",
-    "stars": 0,
-    "updated_at": "2026-08-26T19:55:05Z",
-    "url": "https://github.com/vtavakkoli/QueryWeave"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 2,
-    "updated_at": "2026-08-26T19:55:04Z",
-    "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Official Python SDK for the Pinecone vector database",
-    "id": "pinecone-io/python-sdk",
-    "language": "Python",
-    "name": "pinecone-io/python-sdk",
-    "stars": 449,
-    "updated_at": "2026-08-26T20:24:33Z",
-    "url": "https://github.com/pinecone-io/python-sdk"
   }
 ]
