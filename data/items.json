@@ -1,12 +1,84 @@
 [
   {
+    "description": "Retrieval-Augmented Generation Driven by Offline Local LLMs",
+    "id": "r-xue/ragdoll",
+    "language": "Python",
+    "name": "r-xue/ragdoll",
+    "stars": 0,
+    "updated_at": "2026-08-27T14:14:55Z",
+    "url": "https://github.com/r-xue/ragdoll"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35341,
+    "updated_at": "2026-08-27T14:14:36Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6220,
+    "updated_at": "2026-08-27T14:12:57Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
+    "id": "hippmem/hippmem",
+    "language": "Rust",
+    "name": "hippmem/hippmem",
+    "stars": 2,
+    "updated_at": "2026-08-27T14:01:31Z",
+    "url": "https://github.com/hippmem/hippmem"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-27T14:00:52Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-27T13:55:26Z",
+    "updated_at": "2026-08-27T14:00:28Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T14:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "C# SDK for the Weaviate API -- open-source vector database",
+    "id": "tryAGI/Weaviate",
+    "language": "C#",
+    "name": "tryAGI/Weaviate",
+    "stars": 2,
+    "updated_at": "2026-08-27T13:56:27Z",
+    "url": "https://github.com/tryAGI/Weaviate"
+  },
+  {
+    "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
+    "id": "tryAGI/Milvus",
+    "language": "C#",
+    "name": "tryAGI/Milvus",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:54:23Z",
+    "url": "https://github.com/tryAGI/Milvus"
   },
   {
     "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
@@ -18,22 +90,49 @@
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-27T13:52:59Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-27T13:51:07Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 89,
-    "updated_at": "2026-08-27T13:56:07Z",
+    "updated_at": "2026-08-27T14:06:57Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T13:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45824,
+    "updated_at": "2026-08-27T13:49:27Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
+    "id": "tryAGI/Pinecone",
+    "language": "C#",
+    "name": "tryAGI/Pinecone",
+    "stars": 8,
+    "updated_at": "2026-08-27T13:49:05Z",
+    "url": "https://github.com/tryAGI/Pinecone"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -41,7 +140,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1680,
-    "updated_at": "2026-08-27T13:44:48Z",
+    "updated_at": "2026-08-27T14:12:14Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "batuhanzorbeyzengin/rebasis",
     "stars": 15,
-    "updated_at": "2026-08-27T13:44:06Z",
+    "updated_at": "2026-08-27T14:02:15Z",
     "url": "https://github.com/batuhanzorbeyzengin/rebasis"
   },
   {
@@ -81,13 +180,13 @@
     "url": "https://github.com/k8ssandra/k8ssandra-operator"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-27T13:52:59Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 23,
+    "updated_at": "2026-08-27T13:40:34Z",
+    "url": "https://github.com/Cognipeer/console"
   },
   {
     "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
@@ -95,7 +194,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-08-27T13:39:03Z",
+    "updated_at": "2026-08-27T14:01:07Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -122,17 +221,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-27T13:52:12Z",
+    "updated_at": "2026-08-27T14:07:19Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-27T13:30:56Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "",
@@ -153,15 +243,6 @@
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35340,
-    "updated_at": "2026-08-27T13:59:18Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
     "id": "LnYo-Cly/ai4j",
     "language": "Java",
@@ -178,15 +259,6 @@
     "stars": 1109,
     "updated_at": "2026-08-27T13:26:02Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45824,
-    "updated_at": "2026-08-27T13:49:27Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "No fuss multi-index hybrid vector database / search engine",
@@ -257,7 +329,7 @@
     "language": "Python",
     "name": "schmitech/orbit",
     "stars": 342,
-    "updated_at": "2026-08-27T13:07:51Z",
+    "updated_at": "2026-08-27T14:03:41Z",
     "url": "https://github.com/schmitech/orbit"
   },
   {
@@ -283,7 +355,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34220,
+    "stars": 34221,
     "updated_at": "2026-08-27T12:54:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -376,77 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-27T12:27:10Z",
     "url": "https://github.com/darkzard05/rag-system-ollama"
-  },
-  {
-    "description": "Official website and documentation for ParqDB.",
-    "id": "parqdb-io/parqdb-io.github.io",
-    "language": "Astro",
-    "name": "parqdb-io/parqdb-io.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-27T12:08:55Z",
-    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30294,
-    "updated_at": "2026-08-27T12:06:56Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2689,
-    "updated_at": "2026-08-27T13:59:11Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12910,
-    "updated_at": "2026-08-27T13:16:07Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "A semantic search system using vector embeddings, fuzzy clustering, FAISS indexing, and a custom semantic cache with a F",
-    "id": "nethra0906/ClusterCache",
-    "language": "Python",
-    "name": "nethra0906/ClusterCache",
-    "stars": 1,
-    "updated_at": "2026-08-27T11:39:17Z",
-    "url": "https://github.com/nethra0906/ClusterCache"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-27T11:28:11Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-27T11:23:26Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "\ud83e\udd16 Intelligent RAG chatbot with dual modes: COVID-19 medical assistant + custom document Q&A. Built with LangChain, Chrom",
-    "id": "fomativeh/RAG-Chatbot",
-    "language": "Python",
-    "name": "fomativeh/RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-08-27T11:18:58Z",
-    "url": "https://github.com/fomativeh/RAG-Chatbot"
   }
 ]
