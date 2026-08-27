@@ -1,12 +1,66 @@
 [
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
+    "description": "Benchmark for vector databases.",
+    "id": "zilliztech/VectorDBBench",
     "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35335,
-    "updated_at": "2026-08-27T09:24:59Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
+    "name": "zilliztech/VectorDBBench",
+    "stars": 1166,
+    "updated_at": "2026-08-27T09:42:43Z",
+    "url": "https://github.com/zilliztech/VectorDBBench"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1677,
+    "updated_at": "2026-08-27T09:38:01Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Local RAG semantic search for Obsidian vaults \u2014 Ollama + LanceDB + MCP. Search your markdown vault by meaning, not keywo",
+    "id": "brodewa369/roowet-semantic-vault-search",
+    "language": "Python",
+    "name": "brodewa369/roowet-semantic-vault-search",
+    "stars": 5,
+    "updated_at": "2026-08-27T09:35:12Z",
+    "url": "https://github.com/brodewa369/roowet-semantic-vault-search"
+  },
+  {
+    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
+    "id": "manav-2812/synapse",
+    "language": "TypeScript",
+    "name": "manav-2812/synapse",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:33:58Z",
+    "url": "https://github.com/manav-2812/synapse"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-27T09:45:16Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T09:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T09:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-modal product catalog platform \u2014 CLIP + BGE embeddings in Qdrant, hybrid retrieval with cross-encoder reranking, a",
@@ -14,8 +68,44 @@
     "language": "Python",
     "name": "Vikas9892/product_intelligence",
     "stars": 15,
-    "updated_at": "2026-08-27T09:30:06Z",
+    "updated_at": "2026-08-27T09:40:21Z",
     "url": "https://github.com/Vikas9892/product_intelligence"
+  },
+  {
+    "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
+    "id": "lingxinmind/vecmindb-sdk",
+    "language": "Python",
+    "name": "lingxinmind/vecmindb-sdk",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:28:32Z",
+    "url": "https://github.com/lingxinmind/vecmindb-sdk"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16754,
+    "updated_at": "2026-08-27T09:43:29Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35336,
+    "updated_at": "2026-08-27T09:24:59Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Official website and documentation for ParqDB.",
+    "id": "parqdb-io/parqdb-io.github.io",
+    "language": "Astro",
+    "name": "parqdb-io/parqdb-io.github.io",
+    "stars": 0,
+    "updated_at": "2026-08-27T09:23:08Z",
+    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
   },
   {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
@@ -34,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T09:16:00Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T09:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T09:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-style AI-powered customer support assistant built with Java, Spring Boot, Spring AI, RAG, vector search, and ",
@@ -81,21 +153,12 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
-    "id": "manav-2812/synapse",
-    "language": "TypeScript",
-    "name": "manav-2812/synapse",
-    "stars": 1,
-    "updated_at": "2026-08-27T09:09:46Z",
-    "url": "https://github.com/manav-2812/synapse"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7070,
-    "updated_at": "2026-08-27T09:28:30Z",
+    "updated_at": "2026-08-27T09:39:11Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -117,21 +180,12 @@
     "url": "https://github.com/AjitTiwari85/rag-doc-chatbot"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-27T08:57:14Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34217,
-    "updated_at": "2026-08-27T08:55:27Z",
+    "updated_at": "2026-08-27T09:39:38Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 30,
     "updated_at": "2026-08-27T08:49:19Z",
     "url": "https://github.com/ldclabs/anda-db"
-  },
-  {
-    "description": "Official website and documentation for ParqDB.",
-    "id": "parqdb-io/parqdb-io.github.io",
-    "language": "Astro",
-    "name": "parqdb-io/parqdb-io.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-27T09:23:08Z",
-    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
   },
   {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
@@ -202,7 +247,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12963,
+    "stars": 12965,
     "updated_at": "2026-08-27T08:31:52Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -212,7 +257,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6219,
-    "updated_at": "2026-08-27T09:29:35Z",
+    "updated_at": "2026-08-27T09:44:57Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45818,
-    "updated_at": "2026-08-27T07:41:28Z",
+    "updated_at": "2026-08-27T09:41:28Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -342,21 +387,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
-    "id": "lingxinmind/vecmindb-sdk",
-    "language": "Python",
-    "name": "lingxinmind/vecmindb-sdk",
-    "stars": 1,
-    "updated_at": "2026-08-27T09:28:32Z",
-    "url": "https://github.com/lingxinmind/vecmindb-sdk"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8147,
-    "updated_at": "2026-08-27T08:03:53Z",
+    "updated_at": "2026-08-27T09:32:01Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "Benchmark for vector databases.",
-    "id": "zilliztech/VectorDBBench",
-    "language": "Python",
-    "name": "zilliztech/VectorDBBench",
-    "stars": 1166,
-    "updated_at": "2026-08-27T06:50:40Z",
-    "url": "https://github.com/zilliztech/VectorDBBench"
-  },
-  {
     "description": "Open-source authoritative technical guides: Cloud Computing, AI Infrastructure & Embodied Intelligence \u2014 \u4e91\u8ba1\u7b97\u3001AI Infra\u3001\u5177\u8eab",
     "id": "aizyhe/openwikis",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T06:35:27Z",
     "url": "https://github.com/kunal-rathore-111/Neptune"
-  },
-  {
-    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-08-27T06:34:27Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1908,
-    "updated_at": "2026-08-27T06:43:02Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "RAG-based AI assistant for retrieving and answering questions from enterprise HR policy documents.",
-    "id": "ayushoms/enterprise-hr-rag-assistant",
-    "language": "Jupyter Notebook",
-    "name": "ayushoms/enterprise-hr-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-27T06:21:57Z",
-    "url": "https://github.com/ayushoms/enterprise-hr-rag-assistant"
   }
 ]
