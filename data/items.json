@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI Automation Engineer building AI agents, n8n workflows, RAG chatbots, and MCP integrations using Claude AI and ChatGPT",
+    "id": "imkausarbd/imkausarbd",
+    "language": "\u2014",
+    "name": "imkausarbd/imkausarbd",
+    "stars": 0,
+    "updated_at": "2026-08-27T14:29:49Z",
+    "url": "https://github.com/imkausarbd/imkausarbd"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-27T14:27:20Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1681,
+    "updated_at": "2026-08-27T14:18:33Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T14:15:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T14:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Retrieval-Augmented Generation Driven by Offline Local LLMs",
     "id": "r-xue/ragdoll",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35341,
-    "updated_at": "2026-08-27T14:14:36Z",
+    "updated_at": "2026-08-27T14:29:08Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -23,8 +68,17 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6220,
-    "updated_at": "2026-08-27T14:12:57Z",
+    "updated_at": "2026-08-27T14:26:32Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 342,
+    "updated_at": "2026-08-27T14:03:41Z",
+    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
@@ -43,24 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T14:00:52Z",
     "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T14:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T14:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "C# SDK for the Weaviate API -- open-source vector database",
@@ -122,7 +158,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45824,
-    "updated_at": "2026-08-27T13:49:27Z",
+    "updated_at": "2026-08-27T14:23:27Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -133,15 +169,6 @@
     "stars": 8,
     "updated_at": "2026-08-27T13:49:05Z",
     "url": "https://github.com/tryAGI/Pinecone"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1680,
-    "updated_at": "2026-08-27T14:12:14Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "The AI search platform",
@@ -158,7 +185,7 @@
     "language": "Python",
     "name": "batuhanzorbeyzengin/rebasis",
     "stars": 15,
-    "updated_at": "2026-08-27T14:02:15Z",
+    "updated_at": "2026-08-27T14:29:17Z",
     "url": "https://github.com/batuhanzorbeyzengin/rebasis"
   },
   {
@@ -185,7 +212,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 23,
-    "updated_at": "2026-08-27T13:40:34Z",
+    "updated_at": "2026-08-27T14:18:07Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-08-27T14:01:07Z",
+    "updated_at": "2026-08-27T14:19:01Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-27T14:07:19Z",
+    "updated_at": "2026-08-27T14:28:46Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Java",
     "name": "LnYo-Cly/ai4j",
     "stars": 425,
-    "updated_at": "2026-08-27T13:26:38Z",
+    "updated_at": "2026-08-27T14:28:40Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
@@ -320,17 +347,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8148,
-    "updated_at": "2026-08-27T13:10:41Z",
+    "updated_at": "2026-08-27T14:19:54Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 342,
-    "updated_at": "2026-08-27T14:03:41Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
@@ -347,7 +365,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16755,
-    "updated_at": "2026-08-27T13:59:06Z",
+    "updated_at": "2026-08-27T14:24:50Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34221,
-    "updated_at": "2026-08-27T12:54:05Z",
+    "updated_at": "2026-08-27T14:24:14Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-27T13:20:16Z",
+    "updated_at": "2026-08-27T14:18:38Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T12:31:23Z",
     "url": "https://github.com/tryAGI/Chroma"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11296,
-    "updated_at": "2026-08-27T13:52:40Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Advanced local-first RAG system powered by Ollama and LangGraph. Optimized for high-performance sLLM orchestration   fea",
-    "id": "darkzard05/rag-system-ollama",
-    "language": "Python",
-    "name": "darkzard05/rag-system-ollama",
-    "stars": 4,
-    "updated_at": "2026-08-27T12:27:10Z",
-    "url": "https://github.com/darkzard05/rag-system-ollama"
   }
 ]
