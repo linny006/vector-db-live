@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T15:30:22Z",
+    "updated_at": "2026-08-27T15:45:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 4,
+    "updated_at": "2026-08-27T15:36:18Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "",
+    "id": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
+    "language": "C#",
+    "name": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-27T15:33:29Z",
+    "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T15:30:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "schmitech/orbit",
     "stars": 342,
-    "updated_at": "2026-08-27T15:29:20Z",
+    "updated_at": "2026-08-27T15:31:12Z",
     "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34222,
+    "updated_at": "2026-08-27T15:25:17Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "",
+    "id": "threefigure-achromia682/ai-memory",
+    "language": "\u2014",
+    "name": "threefigure-achromia682/ai-memory",
+    "stars": 1,
+    "updated_at": "2026-08-27T15:21:11Z",
+    "url": "https://github.com/threefigure-achromia682/ai-memory"
   },
   {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
@@ -27,6 +72,15 @@
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 838,
+    "updated_at": "2026-08-27T15:41:31Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
     "description": "No fuss multi-index hybrid vector database / search engine",
     "id": "Semafind/semadb",
     "language": "Go",
@@ -36,13 +90,22 @@
     "url": "https://github.com/Semafind/semadb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
+    "id": "retrograde-prosceniumwall239/ai-search-engine",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T15:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "retrograde-prosceniumwall239/ai-search-engine",
+    "stars": 1,
+    "updated_at": "2026-08-27T15:18:33Z",
+    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
+  },
+  {
+    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
+    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "language": "Jupyter Notebook",
+    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "stars": 0,
+    "updated_at": "2026-08-27T15:15:00Z",
+    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   },
   {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
@@ -59,7 +122,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6221,
-    "updated_at": "2026-08-27T15:26:15Z",
+    "updated_at": "2026-08-27T15:41:32Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -72,6 +135,15 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
+    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
+    "id": "sarcosomebankcheck694/coordinode",
+    "language": "Rust",
+    "name": "sarcosomebankcheck694/coordinode",
+    "stars": 0,
+    "updated_at": "2026-08-27T15:10:42Z",
+    "url": "https://github.com/sarcosomebankcheck694/coordinode"
+  },
+  {
     "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
     "id": "Rippledirham767/LongParser",
     "language": "Python",
@@ -81,13 +153,76 @@
     "url": "https://github.com/Rippledirham767/LongParser"
   },
   {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-08-27T15:10:27Z",
+    "url": "https://github.com/siaarzh/scrybe"
+  },
+  {
+    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
+    "id": "cornelablastular720/dbdb-index",
+    "language": "Go",
+    "name": "cornelablastular720/dbdb-index",
+    "stars": 1,
+    "updated_at": "2026-08-27T15:10:24Z",
+    "url": "https://github.com/cornelablastular720/dbdb-index"
+  },
+  {
+    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
+    "id": "Ac3v3d0/semafold",
+    "language": "Python",
+    "name": "Ac3v3d0/semafold",
     "stars": 4,
-    "updated_at": "2026-08-27T15:27:21Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
+    "updated_at": "2026-08-27T15:09:42Z",
+    "url": "https://github.com/Ac3v3d0/semafold"
+  },
+  {
+    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
+    "id": "aziz5971/TalentLens",
+    "language": "Python",
+    "name": "aziz5971/TalentLens",
+    "stars": 2,
+    "updated_at": "2026-08-27T15:08:55Z",
+    "url": "https://github.com/aziz5971/TalentLens"
+  },
+  {
+    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
+    "id": "lannyfervent952/fastapi-agent-blueprint",
+    "language": "Python",
+    "name": "lannyfervent952/fastapi-agent-blueprint",
+    "stars": 1,
+    "updated_at": "2026-08-27T15:08:13Z",
+    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
+  },
+  {
+    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
+    "id": "Bielrezende/WMB-100K",
+    "language": "\u2014",
+    "name": "Bielrezende/WMB-100K",
+    "stars": 0,
+    "updated_at": "2026-08-27T15:07:27Z",
+    "url": "https://github.com/Bielrezende/WMB-100K"
+  },
+  {
+    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
+    "id": "okeidontlike/Awareness-Local",
+    "language": "JavaScript",
+    "name": "okeidontlike/Awareness-Local",
+    "stars": 2,
+    "updated_at": "2026-08-27T15:07:14Z",
+    "url": "https://github.com/okeidontlike/Awareness-Local"
+  },
+  {
+    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
+    "id": "ahmahmahm/pdf-rag-assistant",
+    "language": "\u2014",
+    "name": "ahmahmahm/pdf-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-27T15:07:04Z",
+    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   },
   {
     "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
@@ -122,17 +257,8 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35343,
-    "updated_at": "2026-08-27T15:29:46Z",
+    "updated_at": "2026-08-27T15:44:43Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 838,
-    "updated_at": "2026-08-27T15:20:11Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -270,21 +396,12 @@
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   },
   {
-    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
-    "id": "siaarzh/scrybe",
-    "language": "TypeScript",
-    "name": "siaarzh/scrybe",
-    "stars": 3,
-    "updated_at": "2026-08-27T15:10:27Z",
-    "url": "https://github.com/siaarzh/scrybe"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-27T14:51:02Z",
+    "updated_at": "2026-08-27T15:35:35Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -293,7 +410,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 89,
-    "updated_at": "2026-08-27T14:49:26Z",
+    "updated_at": "2026-08-27T15:35:11Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T14:46:43Z",
     "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
-    "id": "infiniflow/infinity",
-    "language": "C++",
-    "name": "infiniflow/infinity",
-    "stars": 4683,
-    "updated_at": "2026-08-27T14:46:02Z",
-    "url": "https://github.com/infiniflow/infinity"
-  },
-  {
-    "description": "Measure whether an embedding upgrade is worth it, bridge it without reindexing when it is, and migrate safely when you a",
-    "id": "batuhanzorbeyzengin/rebasis",
-    "language": "Python",
-    "name": "batuhanzorbeyzengin/rebasis",
-    "stars": 15,
-    "updated_at": "2026-08-27T14:45:19Z",
-    "url": "https://github.com/batuhanzorbeyzengin/rebasis"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-08-27T14:43:43Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-08-27T14:41:01Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-08-27T14:37:58Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-08-27T14:35:56Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
-  },
-  {
-    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
-    "id": "DanieldfMedina/GenAI-Course-Repo",
-    "language": "C++",
-    "name": "DanieldfMedina/GenAI-Course-Repo",
-    "stars": 0,
-    "updated_at": "2026-08-27T14:35:26Z",
-    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-08-27T14:35:08Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Asynchronous task service + RAG document retrieval pipeline in Rust \u2014 axum API, SQLite (WAL) with optimistic concurrency",
-    "id": "erishen/rag-task-service",
-    "language": "Rust",
-    "name": "erishen/rag-task-service",
-    "stars": 0,
-    "updated_at": "2026-08-27T14:32:39Z",
-    "url": "https://github.com/erishen/rag-task-service"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "hfgwygey/yu-ai-agent",
-    "language": "Java",
-    "name": "hfgwygey/yu-ai-agent",
-    "stars": 94,
-    "updated_at": "2026-08-27T14:31:44Z",
-    "url": "https://github.com/hfgwygey/yu-ai-agent"
-  },
-  {
-    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
-    "id": "zmwzmo11130/neuraldocs",
-    "language": "Python",
-    "name": "zmwzmo11130/neuraldocs",
-    "stars": 2,
-    "updated_at": "2026-08-27T14:31:25Z",
-    "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "Reconciling memory layer for AI agents. Get only current facts, not stale ones",
-    "id": "vayl-dev/vayl",
-    "language": "Python",
-    "name": "vayl-dev/vayl",
-    "stars": 1,
-    "updated_at": "2026-08-27T14:31:07Z",
-    "url": "https://github.com/vayl-dev/vayl"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-27T14:27:20Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   }
 ]
