@@ -1,5 +1,86 @@
 [
   {
+    "description": "Enterprise-grade GDPR/CCPA Vector Unlearning & PII Oblivion Middleware. Instant O(N\u00b7D) Orthogonal Subspace Projection, N",
+    "id": "Toskurim/vector-unforget",
+    "language": "Python",
+    "name": "Toskurim/vector-unforget",
+    "stars": 3,
+    "updated_at": "2026-08-27T20:59:35Z",
+    "url": "https://github.com/Toskurim/vector-unforget"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-27T20:56:57Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Vector embeddings service for Elixir\u2014multi-provider support (OpenAI, Cohere, Voyage AI), intelligent caching with Cachex",
+    "id": "North-Shore-AI/embed_ex",
+    "language": "Elixir",
+    "name": "North-Shore-AI/embed_ex",
+    "stars": 1,
+    "updated_at": "2026-08-27T20:56:25Z",
+    "url": "https://github.com/North-Shore-AI/embed_ex"
+  },
+  {
+    "description": "Local knowledge base lifecycle manager for dsh: multi-format import, hybrid search with per-stage debug scores, snapshot",
+    "id": "xiaoshi7915/dsh-kb-manager",
+    "language": "TypeScript",
+    "name": "xiaoshi7915/dsh-kb-manager",
+    "stars": 1,
+    "updated_at": "2026-08-27T20:52:35Z",
+    "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
+  },
+  {
+    "description": "Measure whether an embedding upgrade is worth it, bridge it without reindexing when it is, and migrate safely when you a",
+    "id": "batuhanzorbeyzengin/rebasis",
+    "language": "Python",
+    "name": "batuhanzorbeyzengin/rebasis",
+    "stars": 15,
+    "updated_at": "2026-08-27T20:50:53Z",
+    "url": "https://github.com/batuhanzorbeyzengin/rebasis"
+  },
+  {
+    "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
+    "id": "api-evangelist/objectbox",
+    "language": "\u2014",
+    "name": "api-evangelist/objectbox",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:47:38Z",
+    "url": "https://github.com/api-evangelist/objectbox"
+  },
+  {
+    "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
+    "id": "marco-spagn/pcmi",
+    "language": "Go",
+    "name": "marco-spagn/pcmi",
+    "stars": 5,
+    "updated_at": "2026-08-27T20:46:29Z",
+    "url": "https://github.com/marco-spagn/pcmi"
+  },
+  {
+    "description": "Nomic AI builds open and accessible AI infrastructure. The company is known for the open-source Nomic Embed family (nomi",
+    "id": "api-evangelist/nomic-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/nomic-ai",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:46:12Z",
+    "url": "https://github.com/api-evangelist/nomic-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T20:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +90,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
-    "id": "marco-spagn/pcmi",
-    "language": "Go",
-    "name": "marco-spagn/pcmi",
-    "stars": 5,
-    "updated_at": "2026-08-27T20:43:37Z",
-    "url": "https://github.com/marco-spagn/pcmi"
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6887,
+    "updated_at": "2026-08-27T20:44:54Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "MyScale is a SQL vector database built on a ClickHouse fork (MyScaleDB), combining high-performance vector search, full-",
@@ -81,15 +162,6 @@
     "url": "https://github.com/jinno-ai/enterprise-rag-system"
   },
   {
-    "description": "Enterprise-grade GDPR/CCPA Vector Unlearning & PII Oblivion Middleware. Instant O(N\u00b7D) Orthogonal Subspace Projection, N",
-    "id": "Toskurim/vector-unforget",
-    "language": "Python",
-    "name": "Toskurim/vector-unforget",
-    "stars": 3,
-    "updated_at": "2026-08-27T20:33:03Z",
-    "url": "https://github.com/Toskurim/vector-unforget"
-  },
-  {
     "description": "The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le",
     "id": "api-evangelist/lf-ai-and-data",
     "language": "\u2014",
@@ -126,21 +198,12 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T20:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9204,
-    "updated_at": "2026-08-27T20:30:16Z",
+    "updated_at": "2026-08-27T20:58:18Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -160,15 +223,6 @@
     "stars": 468,
     "updated_at": "2026-08-27T20:18:41Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-27T20:18:09Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Gel Data (formerly EdgeDB Inc.) builds Gel, an open-source graph-relational database that supercharges PostgreSQL with a",
@@ -265,7 +319,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51894,
+    "stars": 51895,
     "updated_at": "2026-08-27T19:40:21Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -275,7 +329,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30298,
-    "updated_at": "2026-08-27T20:11:20Z",
+    "updated_at": "2026-08-27T20:58:46Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -320,17 +374,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11298,
-    "updated_at": "2026-08-27T20:20:23Z",
+    "updated_at": "2026-08-27T20:46:33Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Local knowledge base lifecycle manager for dsh: multi-format import, hybrid search with per-stage debug scores, snapshot",
-    "id": "xiaoshi7915/dsh-kb-manager",
-    "language": "TypeScript",
-    "name": "xiaoshi7915/dsh-kb-manager",
-    "stars": 1,
-    "updated_at": "2026-08-27T19:23:19Z",
-    "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
   },
   {
     "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
@@ -340,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T19:22:59Z",
     "url": "https://github.com/RohannShetty/gitbook-downloader"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6886,
-    "updated_at": "2026-08-27T20:44:54Z",
-    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
@@ -365,7 +401,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 71,
-    "updated_at": "2026-08-27T19:14:09Z",
+    "updated_at": "2026-08-27T20:53:21Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-27T19:06:27Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
-    "id": "lancedb/docs",
-    "language": "Python",
-    "name": "lancedb/docs",
-    "stars": 10,
-    "updated_at": "2026-08-27T19:02:59Z",
-    "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "Business Document Intelligence backend built with Python and FastAPI for structured financial extraction, validation, em",
-    "id": "keshavgupta-max/Agent-Document-Extractor-Financial-Documents-",
-    "language": "Python",
-    "name": "keshavgupta-max/Agent-Document-Extractor-Financial-Documents-",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:48:04Z",
-    "url": "https://github.com/keshavgupta-max/Agent-Document-Extractor-Financial-Documents-"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1683,
-    "updated_at": "2026-08-27T18:47:38Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45833,
-    "updated_at": "2026-08-27T18:45:26Z",
-    "url": "https://github.com/milvus-io/milvus"
   }
 ]
