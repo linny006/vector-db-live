@@ -1,11 +1,56 @@
 [
   {
+    "description": "GDPR/CCPA Right-to-be-Forgotten Engine for Vector Databases (ChromaDB, Qdrant, Pgvector) with Global PII Extraction, Dry",
+    "id": "Toskurim/vector-unforget",
+    "language": "Python",
+    "name": "Toskurim/vector-unforget",
+    "stars": 3,
+    "updated_at": "2026-08-27T19:00:11Z",
+    "url": "https://github.com/Toskurim/vector-unforget"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-27T18:53:19Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Business Document Intelligence backend built with Python and FastAPI for structured financial extraction, validation, em",
+    "id": "keshavgupta-max/Agent-Document-Extractor-Financial-Documents-",
+    "language": "Python",
+    "name": "keshavgupta-max/Agent-Document-Extractor-Financial-Documents-",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:48:04Z",
+    "url": "https://github.com/keshavgupta-max/Agent-Document-Extractor-Financial-Documents-"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T18:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45832,
+    "updated_at": "2026-08-27T18:45:26Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T18:45:23Z",
+    "updated_at": "2026-08-27T19:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -54,6 +99,15 @@
     "url": "https://github.com/api-evangelist/vectorize-io"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8148,
+    "updated_at": "2026-08-27T19:00:16Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Upstash provides serverless data platforms including managed Redis, Kafka, QStash messaging, and Vector databases optimi",
     "id": "api-evangelist/upstash",
     "language": "\u2014",
@@ -63,13 +117,13 @@
     "url": "https://github.com/api-evangelist/upstash"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T18:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-27T18:30:27Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -77,7 +131,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6383,
-    "updated_at": "2026-08-27T18:42:04Z",
+    "updated_at": "2026-08-27T18:59:56Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -113,7 +167,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6882,
-    "updated_at": "2026-08-27T18:20:47Z",
+    "updated_at": "2026-08-27T18:53:04Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1109,
-    "updated_at": "2026-08-27T18:35:48Z",
+    "updated_at": "2026-08-27T18:53:23Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -293,17 +347,8 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1683,
-    "updated_at": "2026-08-27T17:36:20Z",
+    "updated_at": "2026-08-27T18:47:38Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45831,
-    "updated_at": "2026-08-27T17:35:28Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
@@ -403,50 +448,5 @@
     "stars": 2693,
     "updated_at": "2026-08-27T17:10:11Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Official website and documentation for ParqDB.",
-    "id": "parqdb-io/parqdb-io.github.io",
-    "language": "Astro",
-    "name": "parqdb-io/parqdb-io.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:06:42Z",
-    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
-  },
-  {
-    "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
-    "id": "api-evangelist/datastax",
-    "language": "\u2014",
-    "name": "api-evangelist/datastax",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:04:39Z",
-    "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "Crate.io is the company behind CrateDB, a distributed SQL database engineered for real-time analytics on large volumes o",
-    "id": "api-evangelist/crate-io",
-    "language": "\u2014",
-    "name": "api-evangelist/crate-io",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:02:06Z",
-    "url": "https://github.com/api-evangelist/crate-io"
-  },
-  {
-    "description": "This document is a detailed reference to Contentstack\u2019s Content Delivery API. Retrieve content from your account and del",
-    "id": "api-evangelist/contentstack",
-    "language": "\u2014",
-    "name": "api-evangelist/contentstack",
-    "stars": 0,
-    "updated_at": "2026-08-27T17:00:26Z",
-    "url": "https://github.com/api-evangelist/contentstack"
-  },
-  {
-    "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
-    "id": "marco-spagn/pcmi",
-    "language": "Go",
-    "name": "marco-spagn/pcmi",
-    "stars": 5,
-    "updated_at": "2026-08-27T17:45:07Z",
-    "url": "https://github.com/marco-spagn/pcmi"
   }
 ]
