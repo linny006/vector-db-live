@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T10:45:21Z",
+    "updated_at": "2026-08-27T11:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded on-device vector database for AI agent memory and local RAG \u2014 disk-based HNSW in an LSM-tree, C++/Python, optim",
+    "id": "NTU-Siqiang-Group/AsterVec",
+    "language": "C++",
+    "name": "NTU-Siqiang-Group/AsterVec",
+    "stars": 31,
+    "updated_at": "2026-08-27T10:59:53Z",
+    "url": "https://github.com/NTU-Siqiang-Group/AsterVec"
+  },
+  {
+    "description": "The Kubernetes Operator of Milvus. ",
+    "id": "zilliztech/milvus-operator",
+    "language": "Go",
+    "name": "zilliztech/milvus-operator",
+    "stars": 126,
+    "updated_at": "2026-08-27T10:59:21Z",
+    "url": "https://github.com/zilliztech/milvus-operator"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-08-27T10:57:15Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-27T10:58:38Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-27T10:56:14Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
+    "id": "lingxinmind/vecmindb-sdk",
+    "language": "Python",
+    "name": "lingxinmind/vecmindb-sdk",
+    "stars": 1,
+    "updated_at": "2026-08-27T10:58:18Z",
+    "url": "https://github.com/lingxinmind/vecmindb-sdk"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 23,
+    "updated_at": "2026-08-27T10:53:11Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35337,
+    "updated_at": "2026-08-27T10:49:26Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 838,
+    "updated_at": "2026-08-27T10:48:55Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T10:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
@@ -18,13 +108,22 @@
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1678,
+    "updated_at": "2026-08-27T10:42:49Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
+    "id": "Parth-2004/Historical-AI-Assistant",
     "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-27T10:44:33Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+    "name": "Parth-2004/Historical-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-08-27T10:41:48Z",
+    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -32,7 +131,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-27T10:40:46Z",
+    "updated_at": "2026-08-27T10:53:01Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -50,7 +149,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8148,
-    "updated_at": "2026-08-27T10:45:19Z",
+    "updated_at": "2026-08-27T10:48:46Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -61,24 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T10:33:42Z",
     "url": "https://github.com/Saurabhsds13/ai-customer-support-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T10:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1677,
-    "updated_at": "2026-08-27T10:42:49Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Change the embedding model of your local RAG without deleting the index \u2014 and measure whether it is worth doing.",
@@ -140,7 +221,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7070,
-    "updated_at": "2026-08-27T10:41:11Z",
+    "updated_at": "2026-08-27T10:55:21Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -151,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T10:06:41Z",
     "url": "https://github.com/manav-2812/synapse"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 838,
-    "updated_at": "2026-08-27T10:43:49Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
@@ -266,26 +338,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34220,
-    "updated_at": "2026-08-27T10:34:54Z",
+    "updated_at": "2026-08-27T10:57:14Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-27T09:45:16Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
-    "id": "lingxinmind/vecmindb-sdk",
-    "language": "Python",
-    "name": "lingxinmind/vecmindb-sdk",
-    "stars": 1,
-    "updated_at": "2026-08-27T09:28:32Z",
-    "url": "https://github.com/lingxinmind/vecmindb-sdk"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -293,17 +347,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16754,
-    "updated_at": "2026-08-27T10:43:19Z",
+    "updated_at": "2026-08-27T10:57:21Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35337,
-    "updated_at": "2026-08-27T09:24:59Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Official website and documentation for ParqDB.",
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "vishalChoudhary-git/ai-platform",
     "stars": 0,
-    "updated_at": "2026-08-27T09:16:00Z",
+    "updated_at": "2026-08-27T10:57:28Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 9,
     "updated_at": "2026-08-27T08:37:27Z",
     "url": "https://github.com/pinecone-io/pinecone-api"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12967,
-    "updated_at": "2026-08-27T08:31:52Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Free, open-source collection of latest public API documentations - Update LLM's knowledge base with the latest API doc, ",
-    "id": "in-c0/updAPI",
-    "language": "JavaScript",
-    "name": "in-c0/updAPI",
-    "stars": 25,
-    "updated_at": "2026-08-27T08:26:09Z",
-    "url": "https://github.com/in-c0/updAPI"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30291,
-    "updated_at": "2026-08-27T10:39:07Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 235,
-    "updated_at": "2026-08-27T08:12:33Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
-    "id": "amirhosssein0/ai-platform-lab",
-    "language": "TypeScript",
-    "name": "amirhosssein0/ai-platform-lab",
-    "stars": 4,
-    "updated_at": "2026-08-27T08:11:59Z",
-    "url": "https://github.com/amirhosssein0/ai-platform-lab"
   }
 ]
