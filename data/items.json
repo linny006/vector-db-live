@@ -1,11 +1,128 @@
 [
   {
+    "description": "Change the embedding model of your local RAG without deleting the index \u2014 and measure whether it is worth doing.",
+    "id": "batuhanzorbeyzengin/rebasis",
+    "language": "Python",
+    "name": "batuhanzorbeyzengin/rebasis",
+    "stars": 15,
+    "updated_at": "2026-08-27T10:26:46Z",
+    "url": "https://github.com/batuhanzorbeyzengin/rebasis"
+  },
+  {
+    "description": "Turn any website into clean, LLM-ready data. Open-source web crawler with stealth mode, distributed crawling, real-time ",
+    "id": "GramosoftAI/GcrawlAI",
+    "language": "Python",
+    "name": "GramosoftAI/GcrawlAI",
+    "stars": 50,
+    "updated_at": "2026-08-27T10:25:45Z",
+    "url": "https://github.com/GramosoftAI/GcrawlAI"
+  },
+  {
+    "description": "A lightweight TypeScript SDK for indexing Markdown knowledge bases into vector databases for semantic search and RAG",
+    "id": "sodrooome/knowledge-engine",
+    "language": "TypeScript",
+    "name": "sodrooome/knowledge-engine",
+    "stars": 0,
+    "updated_at": "2026-08-27T10:23:41Z",
+    "url": "https://github.com/sodrooome/knowledge-engine"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-27T10:22:30Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Production-style AI-powered customer support assistant built with Java, Spring Boot, Spring AI, RAG, vector search, and ",
+    "id": "Saurabhsds13/ai-customer-support-assistant",
+    "language": "Java",
+    "name": "Saurabhsds13/ai-customer-support-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-27T10:18:59Z",
+    "url": "https://github.com/Saurabhsds13/ai-customer-support-assistant"
+  },
+  {
+    "description": "Production-grade RAG engine featuring automated hallucination critique, structured entailment verification, and query re",
+    "id": "manugandham27/The-Self-Healing-RAG-Pipeline",
+    "language": "Python",
+    "name": "manugandham27/The-Self-Healing-RAG-Pipeline",
+    "stars": 1,
+    "updated_at": "2026-08-27T10:17:58Z",
+    "url": "https://github.com/manugandham27/The-Self-Healing-RAG-Pipeline"
+  },
+  {
+    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
+    "id": "ankush-poonia007/STARTUP-AI-AGENT",
+    "language": "Python",
+    "name": "ankush-poonia007/STARTUP-AI-AGENT",
+    "stars": 5,
+    "updated_at": "2026-08-27T10:15:33Z",
+    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T10:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T10:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-27T10:23:37Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7070,
+    "updated_at": "2026-08-27T10:25:43Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1677,
+    "updated_at": "2026-08-27T10:28:19Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
+    "id": "manav-2812/synapse",
+    "language": "TypeScript",
+    "name": "manav-2812/synapse",
+    "stars": 1,
+    "updated_at": "2026-08-27T10:06:41Z",
+    "url": "https://github.com/manav-2812/synapse"
+  },
+  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "unohee/OpenSwarm",
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 838,
-    "updated_at": "2026-08-27T10:04:06Z",
+    "updated_at": "2026-08-27T10:28:27Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -23,26 +140,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6219,
-    "updated_at": "2026-08-27T10:00:42Z",
+    "updated_at": "2026-08-27T10:27:33Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T10:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T10:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local RAG semantic search for Obsidian vaults \u2014 Ollama + LanceDB + MCP. Search your markdown vault by meaning, not keywo",
@@ -130,27 +229,9 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34218,
-    "updated_at": "2026-08-27T09:39:38Z",
+    "stars": 34220,
+    "updated_at": "2026-08-27T10:27:56Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1677,
-    "updated_at": "2026-08-27T10:10:12Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
-    "id": "manav-2812/synapse",
-    "language": "TypeScript",
-    "name": "manav-2812/synapse",
-    "stars": 1,
-    "updated_at": "2026-08-27T10:06:41Z",
-    "url": "https://github.com/manav-2812/synapse"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -176,7 +257,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16754,
-    "updated_at": "2026-08-27T09:56:48Z",
+    "updated_at": "2026-08-27T10:22:34Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -216,15 +297,6 @@
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
-    "description": "Production-style AI-powered customer support assistant built with Java, Spring Boot, Spring AI, RAG, vector search, and ",
-    "id": "Saurabhsds13/ai-customer-support-assistant",
-    "language": "Java",
-    "name": "Saurabhsds13/ai-customer-support-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-27T09:12:34Z",
-    "url": "https://github.com/Saurabhsds13/ai-customer-support-assistant"
-  },
-  {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
     "id": "qdrant/skills",
     "language": "Python",
@@ -241,15 +313,6 @@
     "stars": 11292,
     "updated_at": "2026-08-27T10:13:07Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7070,
-    "updated_at": "2026-08-27T10:11:44Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
@@ -338,7 +401,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30291,
-    "updated_at": "2026-08-27T09:57:51Z",
+    "updated_at": "2026-08-27T10:20:17Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -378,15 +441,6 @@
     "url": "https://github.com/Shah91n/weaviate-cluster-webapp"
   },
   {
-    "description": "Change the embedding model of your local RAG without deleting the index \u2014 and measure whether it is worth doing.",
-    "id": "batuhanzorbeyzengin/rebasis",
-    "language": "Python",
-    "name": "batuhanzorbeyzengin/rebasis",
-    "stars": 15,
-    "updated_at": "2026-08-27T10:09:46Z",
-    "url": "https://github.com/batuhanzorbeyzengin/rebasis"
-  },
-  {
     "description": "A small hobby project I built while learning how cosine similarity works. It provides an interactive visualization where",
     "id": "omalmaleesha/cosine-similarity-visualizer",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T07:55:20Z",
     "url": "https://github.com/omalmaleesha/cosine-similarity-visualizer"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 584,
-    "updated_at": "2026-08-27T07:45:10Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-08-27T07:43:09Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-08-27T07:37:41Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-27T07:33:32Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8147,
-    "updated_at": "2026-08-27T09:32:01Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9424,
-    "updated_at": "2026-08-27T09:02:53Z",
-    "url": "https://github.com/databendlabs/databend"
   }
 ]
