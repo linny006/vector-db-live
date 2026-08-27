@@ -1,5 +1,41 @@
 [
   {
+    "description": "Production-style AI-powered customer support assistant built with Java, Spring Boot, Spring AI, RAG, vector search, and ",
+    "id": "Saurabhsds13/ai-customer-support-assistant",
+    "language": "Java",
+    "name": "Saurabhsds13/ai-customer-support-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-27T09:12:34Z",
+    "url": "https://github.com/Saurabhsds13/ai-customer-support-assistant"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7070,
+    "updated_at": "2026-08-27T09:03:41Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15524,
+    "updated_at": "2026-08-27T09:03:16Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T09:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,12 +63,21 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34217,
+    "updated_at": "2026-08-27T08:55:27Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
     "id": "manav-2812/synapse",
     "language": "TypeScript",
     "name": "manav-2812/synapse",
     "stars": 1,
-    "updated_at": "2026-08-27T08:53:13Z",
+    "updated_at": "2026-08-27T09:09:46Z",
     "url": "https://github.com/manav-2812/synapse"
   },
   {
@@ -72,15 +117,6 @@
     "url": "https://github.com/parqdb-io/parqdb-io.github.io"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T08:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "qdrant/skills",
     "stars": 224,
-    "updated_at": "2026-08-27T08:34:41Z",
+    "updated_at": "2026-08-27T09:10:58Z",
     "url": "https://github.com/qdrant/skills"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Python",
     "name": "vishalChoudhary-git/ai-platform",
     "stars": 0,
-    "updated_at": "2026-08-27T08:33:30Z",
+    "updated_at": "2026-08-27T09:15:14Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
@@ -140,17 +176,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6219,
-    "updated_at": "2026-08-27T08:53:43Z",
+    "updated_at": "2026-08-27T09:08:27Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34217,
-    "updated_at": "2026-08-27T08:55:27Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Free, open-source collection of latest public API documentations - Update LLM's knowledge base with the latest API doc, ",
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 4,
-    "updated_at": "2026-08-27T08:07:58Z",
+    "updated_at": "2026-08-27T09:03:32Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
@@ -225,21 +252,12 @@
     "url": "https://github.com/omalmaleesha/cosine-similarity-visualizer"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7070,
-    "updated_at": "2026-08-27T08:40:47Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11292,
-    "updated_at": "2026-08-27T08:49:37Z",
+    "updated_at": "2026-08-27T09:10:55Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9424,
-    "updated_at": "2026-08-27T08:40:05Z",
+    "updated_at": "2026-08-27T09:02:53Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -358,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T06:45:45Z",
     "url": "https://github.com/aizyhe/openwikis"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15523,
-    "updated_at": "2026-08-27T06:37:52Z",
-    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T06:05:42Z",
     "url": "https://github.com/aneeshpatne/Nova"
-  },
-  {
-    "description": "Architecture: Scalable Knowledge Distribution for AI Agent Fleets | Published on omnithium.ai",
-    "id": "ApertaCodex/article-architecture-scalable-knowledge-distribution-for-ai-agent-fl",
-    "language": "\u2014",
-    "name": "ApertaCodex/article-architecture-scalable-knowledge-distribution-for-ai-agent-fl",
-    "stars": 0,
-    "updated_at": "2026-08-27T06:00:22Z",
-    "url": "https://github.com/ApertaCodex/article-architecture-scalable-knowledge-distribution-for-ai-agent-fl"
   }
 ]
