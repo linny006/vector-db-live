@@ -1,5 +1,122 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-27T00:29:09Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
+    "id": "Daubingweirdie414/multimodal-rag",
+    "language": "Python",
+    "name": "Daubingweirdie414/multimodal-rag",
+    "stars": 4,
+    "updated_at": "2026-08-27T00:28:06Z",
+    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
+  },
+  {
+    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
+    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "language": "Python",
+    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "stars": 1,
+    "updated_at": "2026-08-27T00:27:16Z",
+    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-27T00:26:25Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 1,
+    "updated_at": "2026-08-27T00:25:40Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
+  },
+  {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 3,
+    "updated_at": "2026-08-27T00:21:48Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-08-27T00:20:03Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-08-27T00:19:01Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 3,
+    "updated_at": "2026-08-27T00:18:58Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-08-27T00:17:48Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-08-27T00:16:43Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T00:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T00:15:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
     "id": "eliasepro/groq-pdf-chat",
     "language": "Python",
@@ -18,6 +135,24 @@
     "url": "https://github.com/humanhady/DocMine"
   },
   {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 1,
+    "updated_at": "2026-08-27T00:09:25Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 3,
+    "updated_at": "2026-08-27T00:08:47Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
     "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
     "id": "ribagolx10/crossvector",
     "language": "Python",
@@ -32,7 +167,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 70,
-    "updated_at": "2026-08-27T00:14:22Z",
+    "updated_at": "2026-08-27T00:27:40Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -63,22 +198,13 @@
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T00:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T00:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-08-27T00:00:03Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
   },
   {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
@@ -122,7 +248,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9199,
-    "updated_at": "2026-08-27T00:14:43Z",
+    "updated_at": "2026-08-27T00:22:42Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -157,7 +283,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1671,
+    "stars": 1672,
     "updated_at": "2026-08-26T23:49:04Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -169,6 +295,15 @@
     "stars": 45807,
     "updated_at": "2026-08-26T23:48:41Z",
     "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11285,
+    "updated_at": "2026-08-27T00:21:16Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -205,24 +340,6 @@
     "stars": 1613,
     "updated_at": "2026-08-26T23:28:07Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11284,
-    "updated_at": "2026-08-26T23:48:01Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-08-26T23:18:42Z",
-    "url": "https://github.com/ricmed/zettel_app"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -288,15 +405,6 @@
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-27T00:06:42Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
     "id": "MaxFreedomPollard/Compartment",
     "language": "Python",
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-26T22:17:37Z",
     "url": "https://github.com/Rishisharma029/DevIntel-AI"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65256,
-    "updated_at": "2026-08-26T22:13:37Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-26T22:09:59Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-26T22:01:55Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16754,
-    "updated_at": "2026-08-26T21:58:09Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Production-ready RAG system for question-answering over PDF documents with semantic search, strict hallucination prevent",
-    "id": "beyzahiz/PDF-Chat-RAG",
-    "language": "Python",
-    "name": "beyzahiz/PDF-Chat-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-26T21:57:40Z",
-    "url": "https://github.com/beyzahiz/PDF-Chat-RAG"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6861,
-    "updated_at": "2026-08-26T21:55:15Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1347,
-    "updated_at": "2026-08-26T21:52:23Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 3,
-    "updated_at": "2026-08-26T21:45:32Z",
-    "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-26T21:44:59Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1109,
-    "updated_at": "2026-08-26T21:44:04Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A",
-    "id": "writerslogic/holographic-memory",
-    "language": "Rust",
-    "name": "writerslogic/holographic-memory",
-    "stars": 12,
-    "updated_at": "2026-08-26T21:40:06Z",
-    "url": "https://github.com/writerslogic/holographic-memory"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-26T21:24:24Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
