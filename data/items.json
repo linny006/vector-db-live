@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T13:00:22Z",
+    "updated_at": "2026-08-27T13:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-08-27T13:10:48Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-27T13:13:17Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Measure whether an embedding upgrade is worth it, bridge it without reindexing when it is, and migrate safely when you a",
+    "id": "batuhanzorbeyzengin/rebasis",
+    "language": "Python",
+    "name": "batuhanzorbeyzengin/rebasis",
+    "stars": 15,
+    "updated_at": "2026-08-27T13:06:44Z",
+    "url": "https://github.com/batuhanzorbeyzengin/rebasis"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -14,8 +41,44 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 93,
-    "updated_at": "2026-08-27T12:59:34Z",
+    "updated_at": "2026-08-27T13:01:03Z",
     "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T13:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 71,
+    "updated_at": "2026-08-27T13:12:00Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16755,
+    "updated_at": "2026-08-27T13:13:45Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 838,
+    "updated_at": "2026-08-27T12:56:46Z",
+    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -23,7 +86,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1680,
-    "updated_at": "2026-08-27T12:55:07Z",
+    "updated_at": "2026-08-27T13:10:59Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -36,13 +99,13 @@
     "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-27T13:00:04Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34219,
+    "updated_at": "2026-08-27T12:54:05Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -54,16 +117,7 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T12:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Give any AI agent live product data through the Apify MCP server: price, stock, and images from any retailer in the worl",
+    "description": "Wire an AI agent to live product data over the Apify MCP server: price, stock, rating and images as structured fields. R",
     "id": "luispintoapify/ecommerce-agent-starter",
     "language": "Python",
     "name": "luispintoapify/ecommerce-agent-starter",
@@ -117,15 +171,6 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
-    "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-08-27T12:55:33Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11296,
-    "updated_at": "2026-08-27T12:28:23Z",
+    "updated_at": "2026-08-27T13:02:57Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7069,
-    "updated_at": "2026-08-27T12:58:03Z",
+    "updated_at": "2026-08-27T13:14:31Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T12:08:55Z",
     "url": "https://github.com/parqdb-io/parqdb-io.github.io"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 71,
-    "updated_at": "2026-08-27T12:59:23Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -205,24 +241,6 @@
     "stars": 2689,
     "updated_at": "2026-08-27T12:49:36Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Measure whether an embedding upgrade is worth it, bridge it without reindexing when it is, and migrate safely when you a",
-    "id": "batuhanzorbeyzengin/rebasis",
-    "language": "Python",
-    "name": "batuhanzorbeyzengin/rebasis",
-    "stars": 15,
-    "updated_at": "2026-08-27T12:56:50Z",
-    "url": "https://github.com/batuhanzorbeyzengin/rebasis"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16754,
-    "updated_at": "2026-08-27T12:58:31Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -275,7 +293,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-27T12:49:52Z",
+    "updated_at": "2026-08-27T13:05:37Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -283,7 +301,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45822,
+    "stars": 45823,
     "updated_at": "2026-08-27T11:21:26Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -320,7 +338,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6219,
-    "updated_at": "2026-08-27T12:51:15Z",
+    "updated_at": "2026-08-27T13:07:30Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -329,7 +347,7 @@
     "language": "C#",
     "name": "hhblaze/DBreeze",
     "stars": 578,
-    "updated_at": "2026-08-27T11:09:52Z",
+    "updated_at": "2026-08-27T13:03:50Z",
     "url": "https://github.com/hhblaze/DBreeze"
   },
   {
@@ -378,15 +396,6 @@
     "url": "https://github.com/alxxtexxr/arxiv_agent"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34218,
-    "updated_at": "2026-08-27T12:54:05Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
     "id": "lingxinmind/vecmindb-sdk",
     "language": "Python",
@@ -401,7 +410,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 23,
-    "updated_at": "2026-08-27T12:59:56Z",
+    "updated_at": "2026-08-27T13:05:04Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -410,17 +419,8 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35339,
-    "updated_at": "2026-08-27T12:53:04Z",
+    "updated_at": "2026-08-27T13:15:20Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 838,
-    "updated_at": "2026-08-27T12:56:46Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
@@ -446,7 +446,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8148,
-    "updated_at": "2026-08-27T12:51:08Z",
+    "updated_at": "2026-08-27T13:10:41Z",
     "url": "https://github.com/MariaDB/server"
   }
 ]
