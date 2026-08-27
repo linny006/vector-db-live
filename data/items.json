@@ -1,11 +1,74 @@
 [
   {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35344,
+    "updated_at": "2026-08-27T17:57:35Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1109,
+    "updated_at": "2026-08-27T17:56:37Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "ObjectBox is a high-performance, low-footprint, offline-first on-device database with built-in data synchronization and ",
+    "id": "api-evangelist/objectbox",
+    "language": "\u2014",
+    "name": "api-evangelist/objectbox",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:53:32Z",
+    "url": "https://github.com/api-evangelist/objectbox"
+  },
+  {
+    "description": "Nomic AI builds open and accessible AI infrastructure. The company is known for the open-source Nomic Embed family (nomi",
+    "id": "api-evangelist/nomic-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/nomic-ai",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:52:14Z",
+    "url": "https://github.com/api-evangelist/nomic-ai"
+  },
+  {
+    "description": "Mixedbread is a Berlin-based AI search and retrieval platform. It provides embeddings (mxbai-embed, Wholembed v3), reran",
+    "id": "api-evangelist/mixedbread-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/mixedbread-ai",
+    "stars": 1,
+    "updated_at": "2026-08-27T17:46:48Z",
+    "url": "https://github.com/api-evangelist/mixedbread-ai"
+  },
+  {
+    "description": "Milvus is an Apache 2.0 open-source vector database. It exposes a versioned REST API alongside gRPC and language SDKs (P",
+    "id": "api-evangelist/milvus",
+    "language": "\u2014",
+    "name": "api-evangelist/milvus",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:46:03Z",
+    "url": "https://github.com/api-evangelist/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T17:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T17:45:21Z",
+    "updated_at": "2026-08-27T18:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-08-27T17:40:37Z",
+    "updated_at": "2026-08-27T17:57:40Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -54,6 +117,24 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45830,
+    "updated_at": "2026-08-27T17:35:28Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 6,
+    "updated_at": "2026-08-27T17:33:58Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
     "description": "An AI-powered Agentic RAG Research Assistant that answers questions from uploaded research papers using intelligent docu",
     "id": "azqajafardev/agentic-rag-research-assistant",
     "language": "\u2014",
@@ -79,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T17:31:39Z",
     "url": "https://github.com/api-evangelist/ironcore-labs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T17:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production .NET SDK for Alibaba ZVec \u2014 DI, typed ODM, async, SafeHandles, full indexes/FTS, and mobile RIDs. Not a thin ",
@@ -144,6 +216,15 @@
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2692,
+    "updated_at": "2026-08-27T17:10:11Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
     "description": "Official website and documentation for ParqDB.",
     "id": "parqdb-io/parqdb-io.github.io",
     "language": "Astro",
@@ -198,15 +279,6 @@
     "url": "https://github.com/eugen-goebel/smart-doc-qa"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35344,
-    "updated_at": "2026-08-27T16:56:41Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "Chroma (Chroma DB) is an open-source, AI-native vector database (embedding database) for building LLM, RAG, and semantic",
     "id": "api-evangelist/chroma-db",
     "language": "\u2014",
@@ -257,7 +329,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9202,
-    "updated_at": "2026-08-27T17:26:23Z",
+    "updated_at": "2026-08-27T17:51:22Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -277,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T16:45:41Z",
     "url": "https://github.com/api-evangelist/azure-cosmos-db"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2691,
-    "updated_at": "2026-08-27T17:10:11Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
@@ -311,7 +374,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 89,
-    "updated_at": "2026-08-27T17:12:56Z",
+    "updated_at": "2026-08-27T17:48:29Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -364,7 +427,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30296,
+    "stars": 30297,
     "updated_at": "2026-08-27T16:18:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-27T16:14:54Z",
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6221,
-    "updated_at": "2026-08-27T17:41:08Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-08-27T16:10:33Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-27T16:09:51Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-08-27T16:09:42Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Educational project exploring deterministic RAG and tool-using AI agents with FastAPI, PostgreSQL, pgvector, and OpenAI.",
-    "id": "CatalinMo/educational-rag",
-    "language": "Python",
-    "name": "CatalinMo/educational-rag",
-    "stars": 0,
-    "updated_at": "2026-08-27T16:09:07Z",
-    "url": "https://github.com/CatalinMo/educational-rag"
-  },
-  {
-    "description": "LabGuard is a full-stack academic plagiarism detection system that combines LSH, Greedy String Tiling, and Edit Distance",
-    "id": "Chirag16012005/LabGuard",
-    "language": "TypeScript",
-    "name": "Chirag16012005/LabGuard",
-    "stars": 1,
-    "updated_at": "2026-08-27T16:07:16Z",
-    "url": "https://github.com/Chirag16012005/LabGuard"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 251,
-    "updated_at": "2026-08-27T15:53:16Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   }
 ]
