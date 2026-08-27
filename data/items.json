@@ -1,5 +1,68 @@
 [
   {
+    "description": "Local RAG semantic search for Obsidian vaults \u2014 Ollama + LanceDB + MCP. Search your markdown vault by meaning, not keywo",
+    "id": "brodewa369/roowet-semantic-vault-search",
+    "language": "Python",
+    "name": "brodewa369/roowet-semantic-vault-search",
+    "stars": 5,
+    "updated_at": "2026-08-27T09:55:35Z",
+    "url": "https://github.com/brodewa369/roowet-semantic-vault-search"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-27T09:53:03Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje",
+    "id": "karthikbilaspur/ai_learning",
+    "language": "Python",
+    "name": "karthikbilaspur/ai_learning",
+    "stars": 1,
+    "updated_at": "2026-08-27T09:51:04Z",
+    "url": "https://github.com/karthikbilaspur/ai_learning"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6219,
+    "updated_at": "2026-08-27T09:58:49Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 20,
+    "updated_at": "2026-08-27T09:50:05Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T09:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T10:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Benchmark for vector databases.",
     "id": "zilliztech/VectorDBBench",
     "language": "Python",
@@ -9,22 +72,49 @@
     "url": "https://github.com/zilliztech/VectorDBBench"
   },
   {
+    "description": "Business Document Intelligence backend built with Python and FastAPI for structured financial extraction, validation, em",
+    "id": "keshavgupta-max/Agent-Document-Extractor-Financial-Documents-",
+    "language": "Python",
+    "name": "keshavgupta-max/Agent-Document-Extractor-Financial-Documents-",
+    "stars": 0,
+    "updated_at": "2026-08-27T09:42:04Z",
+    "url": "https://github.com/keshavgupta-max/Agent-Document-Extractor-Financial-Documents-"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45820,
+    "updated_at": "2026-08-27T09:41:28Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Multi-modal product catalog platform \u2014 CLIP + BGE embeddings in Qdrant, hybrid retrieval with cross-encoder reranking, a",
+    "id": "Vikas9892/product_intelligence",
+    "language": "Python",
+    "name": "Vikas9892/product_intelligence",
+    "stars": 15,
+    "updated_at": "2026-08-27T09:40:21Z",
+    "url": "https://github.com/Vikas9892/product_intelligence"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34218,
+    "updated_at": "2026-08-27T09:39:38Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1677,
-    "updated_at": "2026-08-27T09:38:01Z",
+    "updated_at": "2026-08-27T09:48:52Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Local RAG semantic search for Obsidian vaults \u2014 Ollama + LanceDB + MCP. Search your markdown vault by meaning, not keywo",
-    "id": "brodewa369/roowet-semantic-vault-search",
-    "language": "Python",
-    "name": "brodewa369/roowet-semantic-vault-search",
-    "stars": 5,
-    "updated_at": "2026-08-27T09:35:12Z",
-    "url": "https://github.com/brodewa369/roowet-semantic-vault-search"
   },
   {
     "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
@@ -45,33 +135,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T09:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T09:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Multi-modal product catalog platform \u2014 CLIP + BGE embeddings in Qdrant, hybrid retrieval with cross-encoder reranking, a",
-    "id": "Vikas9892/product_intelligence",
-    "language": "Python",
-    "name": "Vikas9892/product_intelligence",
-    "stars": 15,
-    "updated_at": "2026-08-27T09:40:21Z",
-    "url": "https://github.com/Vikas9892/product_intelligence"
-  },
-  {
     "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
     "id": "lingxinmind/vecmindb-sdk",
     "language": "Python",
@@ -86,7 +149,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16754,
-    "updated_at": "2026-08-27T09:43:29Z",
+    "updated_at": "2026-08-27T09:56:48Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -158,7 +221,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7070,
-    "updated_at": "2026-08-27T09:39:11Z",
+    "updated_at": "2026-08-27T09:46:53Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -178,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T08:58:40Z",
     "url": "https://github.com/AjitTiwari85/rag-doc-chatbot"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34217,
-    "updated_at": "2026-08-27T09:39:38Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A production-grade, full-stack AI assistant platform for private document fleets \u2014 featuring real-time streaming, intell",
@@ -221,7 +275,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5858,
-    "updated_at": "2026-08-27T09:17:13Z",
+    "updated_at": "2026-08-27T09:53:58Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -234,31 +288,13 @@
     "url": "https://github.com/pinecone-io/pinecone-api"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-27T08:34:37Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 12965,
+    "stars": 12967,
     "updated_at": "2026-08-27T08:31:52Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6219,
-    "updated_at": "2026-08-27T09:44:57Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Free, open-source collection of latest public API documentations - Update LLM's knowledge base with the latest API doc, ",
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30291,
-    "updated_at": "2026-08-27T09:28:42Z",
+    "updated_at": "2026-08-27T09:57:51Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45818,
-    "updated_at": "2026-08-27T09:41:28Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "The documentation for SurrealDB, powered by Astro",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
@@ -421,32 +448,5 @@
     "stars": 1613,
     "updated_at": "2026-08-27T06:52:01Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Open-source authoritative technical guides: Cloud Computing, AI Infrastructure & Embodied Intelligence \u2014 \u4e91\u8ba1\u7b97\u3001AI Infra\u3001\u5177\u8eab",
-    "id": "aizyhe/openwikis",
-    "language": "\u2014",
-    "name": "aizyhe/openwikis",
-    "stars": 1,
-    "updated_at": "2026-08-27T06:45:45Z",
-    "url": "https://github.com/aizyhe/openwikis"
-  },
-  {
-    "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
-    "id": "puffball1567/koutendb",
-    "language": "Nim",
-    "name": "puffball1567/koutendb",
-    "stars": 16,
-    "updated_at": "2026-08-27T07:45:03Z",
-    "url": "https://github.com/puffball1567/koutendb"
-  },
-  {
-    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
-    "id": "kunal-rathore-111/Neptune",
-    "language": "TypeScript",
-    "name": "kunal-rathore-111/Neptune",
-    "stars": 1,
-    "updated_at": "2026-08-27T06:35:27Z",
-    "url": "https://github.com/kunal-rathore-111/Neptune"
   }
 ]
