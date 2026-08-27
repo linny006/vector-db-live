@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T11:00:21Z",
+    "updated_at": "2026-08-27T11:11:17Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
+    "id": "manav-2812/synapse",
+    "language": "TypeScript",
+    "name": "manav-2812/synapse",
+    "stars": 1,
+    "updated_at": "2026-08-27T11:13:54Z",
+    "url": "https://github.com/manav-2812/synapse"
+  },
+  {
+    "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
+    "id": "hippmem/hippmem",
+    "language": "Rust",
+    "name": "hippmem/hippmem",
+    "stars": 2,
+    "updated_at": "2026-08-27T11:06:18Z",
+    "url": "https://github.com/hippmem/hippmem"
+  },
+  {
+    "description": "Official website and documentation for ParqDB.",
+    "id": "parqdb-io/parqdb-io.github.io",
+    "language": "Astro",
+    "name": "parqdb-io/parqdb-io.github.io",
+    "stars": 0,
+    "updated_at": "2026-08-27T11:02:51Z",
+    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T11:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-27T11:00:28Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Embedded on-device vector database for AI agent memory and local RAG \u2014 disk-based HNSW in an LSM-tree, C++/Python, optim",
@@ -27,15 +72,6 @@
     "url": "https://github.com/zilliztech/milvus-operator"
   },
   {
-    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
-    "id": "alxxtexxr/arxiv_agent",
-    "language": "Python",
-    "name": "alxxtexxr/arxiv_agent",
-    "stars": 0,
-    "updated_at": "2026-08-27T10:57:15Z",
-    "url": "https://github.com/alxxtexxr/arxiv_agent"
-  },
-  {
     "description": "- ",
     "id": "Chief-Strategist-J/llm-observability-platform",
     "language": "Python",
@@ -43,6 +79,24 @@
     "stars": 4,
     "updated_at": "2026-08-27T10:58:38Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
+    "language": "Python",
+    "name": "vishalChoudhary-git/ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-27T10:57:28Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-08-27T10:57:15Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -61,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-08-27T10:58:18Z",
     "url": "https://github.com/lingxinmind/vecmindb-sdk"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7070,
+    "updated_at": "2026-08-27T11:09:51Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
@@ -90,15 +153,6 @@
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T10:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
@@ -113,7 +167,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1678,
-    "updated_at": "2026-08-27T10:42:49Z",
+    "updated_at": "2026-08-27T11:01:03Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -131,7 +185,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-27T10:53:01Z",
+    "updated_at": "2026-08-27T11:14:23Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -149,7 +203,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8148,
-    "updated_at": "2026-08-27T10:48:46Z",
+    "updated_at": "2026-08-27T11:04:26Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -167,7 +221,7 @@
     "language": "Python",
     "name": "batuhanzorbeyzengin/rebasis",
     "stars": 15,
-    "updated_at": "2026-08-27T10:33:07Z",
+    "updated_at": "2026-08-27T11:07:55Z",
     "url": "https://github.com/batuhanzorbeyzengin/rebasis"
   },
   {
@@ -207,48 +261,12 @@
     "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-27T10:23:37Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7070,
-    "updated_at": "2026-08-27T10:55:21Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
-    "id": "manav-2812/synapse",
-    "language": "TypeScript",
-    "name": "manav-2812/synapse",
-    "stars": 1,
-    "updated_at": "2026-08-27T10:06:41Z",
-    "url": "https://github.com/manav-2812/synapse"
-  },
-  {
-    "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
-    "id": "hippmem/hippmem",
-    "language": "Rust",
-    "name": "hippmem/hippmem",
-    "stars": 2,
-    "updated_at": "2026-08-27T10:02:32Z",
-    "url": "https://github.com/hippmem/hippmem"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6219,
-    "updated_at": "2026-08-27T10:41:54Z",
+    "updated_at": "2026-08-27T11:11:26Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45822,
-    "updated_at": "2026-08-27T09:41:28Z",
+    "updated_at": "2026-08-27T11:01:26Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -347,17 +365,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16754,
-    "updated_at": "2026-08-27T10:57:21Z",
+    "updated_at": "2026-08-27T11:14:17Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Official website and documentation for ParqDB.",
-    "id": "parqdb-io/parqdb-io.github.io",
-    "language": "Astro",
-    "name": "parqdb-io/parqdb-io.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-27T09:23:08Z",
-    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
   },
   {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
@@ -367,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T09:19:38Z",
     "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
-    "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-27T10:57:28Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
