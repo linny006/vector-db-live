@@ -1,5 +1,50 @@
 [
   {
+    "description": "",
+    "id": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
+    "language": "C#",
+    "name": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:30:20Z",
+    "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1680,
+    "updated_at": "2026-08-27T13:21:13Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "No fuss multi-index hybrid vector database / search engine",
+    "id": "Semafind/semadb",
+    "language": "Go",
+    "name": "Semafind/semadb",
+    "stars": 32,
+    "updated_at": "2026-08-27T13:21:44Z",
+    "url": "https://github.com/Semafind/semadb"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 4,
+    "updated_at": "2026-08-27T13:16:21Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T13:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +54,22 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-08-27T13:10:48Z",
-    "url": "https://github.com/nadeem4/nl2sql"
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-27T13:14:35Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7069,
+    "updated_at": "2026-08-27T13:28:08Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "- ",
@@ -27,33 +81,6 @@
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
-    "description": "Measure whether an embedding upgrade is worth it, bridge it without reindexing when it is, and migrate safely when you a",
-    "id": "batuhanzorbeyzengin/rebasis",
-    "language": "Python",
-    "name": "batuhanzorbeyzengin/rebasis",
-    "stars": 15,
-    "updated_at": "2026-08-27T13:06:44Z",
-    "url": "https://github.com/batuhanzorbeyzengin/rebasis"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 93,
-    "updated_at": "2026-08-27T13:01:03Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T13:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -63,12 +90,57 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
+    "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-08-27T13:10:48Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 342,
+    "updated_at": "2026-08-27T13:07:51Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Measure whether an embedding upgrade is worth it, bridge it without reindexing when it is, and migrate safely when you a",
+    "id": "batuhanzorbeyzengin/rebasis",
+    "language": "Python",
+    "name": "batuhanzorbeyzengin/rebasis",
+    "stars": 15,
+    "updated_at": "2026-08-27T13:06:44Z",
+    "url": "https://github.com/batuhanzorbeyzengin/rebasis"
+  },
+  {
+    "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
+    "id": "hhblaze/DBreeze",
+    "language": "C#",
+    "name": "hhblaze/DBreeze",
+    "stars": 578,
+    "updated_at": "2026-08-27T13:03:50Z",
+    "url": "https://github.com/hhblaze/DBreeze"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 93,
+    "updated_at": "2026-08-27T13:29:17Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16755,
-    "updated_at": "2026-08-27T13:13:45Z",
+    "updated_at": "2026-08-27T13:30:06Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -77,33 +149,15 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 838,
-    "updated_at": "2026-08-27T12:56:46Z",
+    "updated_at": "2026-08-27T13:30:02Z",
     "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1680,
-    "updated_at": "2026-08-27T13:10:59Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "",
-    "id": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
-    "language": "C#",
-    "name": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-27T12:54:38Z",
-    "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34219,
+    "stars": 34220,
     "updated_at": "2026-08-27T12:54:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -176,7 +230,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-27T12:31:32Z",
+    "updated_at": "2026-08-27T13:20:16Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 4,
     "updated_at": "2026-08-27T12:27:10Z",
     "url": "https://github.com/darkzard05/rag-system-ollama"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7069,
-    "updated_at": "2026-08-27T13:14:31Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Official website and documentation for ParqDB.",
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12910,
-    "updated_at": "2026-08-27T11:46:21Z",
+    "updated_at": "2026-08-27T13:16:07Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -293,7 +338,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-27T13:05:37Z",
+    "updated_at": "2026-08-27T13:24:50Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45823,
-    "updated_at": "2026-08-27T11:21:26Z",
+    "updated_at": "2026-08-27T13:23:38Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -338,17 +383,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6219,
-    "updated_at": "2026-08-27T13:07:30Z",
+    "updated_at": "2026-08-27T13:28:05Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
-    "id": "hhblaze/DBreeze",
-    "language": "C#",
-    "name": "hhblaze/DBreeze",
-    "stars": 578,
-    "updated_at": "2026-08-27T13:03:50Z",
-    "url": "https://github.com/hhblaze/DBreeze"
   },
   {
     "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
@@ -412,41 +448,5 @@
     "stars": 23,
     "updated_at": "2026-08-27T13:05:04Z",
     "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35339,
-    "updated_at": "2026-08-27T13:15:20Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5858,
-    "updated_at": "2026-08-27T12:18:49Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
-    "id": "Parth-2004/Historical-AI-Assistant",
-    "language": "Python",
-    "name": "Parth-2004/Historical-AI-Assistant",
-    "stars": 1,
-    "updated_at": "2026-08-27T10:41:48Z",
-    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8148,
-    "updated_at": "2026-08-27T13:10:41Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
