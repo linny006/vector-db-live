@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T07:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7070,
+    "updated_at": "2026-08-27T06:59:54Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
+    "id": "hippmem/hippmem",
+    "language": "Rust",
+    "name": "hippmem/hippmem",
+    "stars": 2,
+    "updated_at": "2026-08-27T06:57:41Z",
+    "url": "https://github.com/hippmem/hippmem"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1613,
+    "updated_at": "2026-08-27T06:52:01Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Benchmark for vector databases.",
+    "id": "zilliztech/VectorDBBench",
+    "language": "Python",
+    "name": "zilliztech/VectorDBBench",
+    "stars": 1166,
+    "updated_at": "2026-08-27T06:50:40Z",
+    "url": "https://github.com/zilliztech/VectorDBBench"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 4,
+    "updated_at": "2026-08-27T06:48:52Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "Open-source authoritative technical guides: Cloud Computing, AI Infrastructure & Embodied Intelligence \u2014 \u4e91\u8ba1\u7b97\u3001AI Infra\u3001\u5177\u8eab",
+    "id": "aizyhe/openwikis",
+    "language": "\u2014",
+    "name": "aizyhe/openwikis",
+    "stars": 1,
+    "updated_at": "2026-08-27T06:45:45Z",
+    "url": "https://github.com/aizyhe/openwikis"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T06:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11292,
+    "updated_at": "2026-08-27T06:44:28Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "The documentation for SurrealDB, powered by Astro",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
@@ -63,39 +144,12 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T06:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T06:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Open-source authoritative technical guides: Cloud Computing, AI Infrastructure & Embodied Intelligence \u2014 \u4e91\u8ba1\u7b97\u3001AI Infra\u3001\u5177\u8eab",
-    "id": "aizyhe/openwikis",
-    "language": "\u2014",
-    "name": "aizyhe/openwikis",
-    "stars": 0,
-    "updated_at": "2026-08-27T06:29:23Z",
-    "url": "https://github.com/aizyhe/openwikis"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30289,
-    "updated_at": "2026-08-27T06:23:22Z",
+    "updated_at": "2026-08-27T06:46:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -162,15 +216,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7070,
-    "updated_at": "2026-08-27T06:45:18Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Architecture: Scalable Knowledge Distribution for AI Agent Fleets | Published on omnithium.ai",
     "id": "ApertaCodex/article-architecture-scalable-knowledge-distribution-for-ai-agent-fl",
     "language": "\u2014",
@@ -214,15 +259,6 @@
     "stars": 4,
     "updated_at": "2026-08-27T05:47:52Z",
     "url": "https://github.com/ThomasJButler/Morpheus"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11291,
-    "updated_at": "2026-08-27T06:44:28Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
@@ -293,7 +329,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6381,
-    "updated_at": "2026-08-27T05:14:23Z",
+    "updated_at": "2026-08-27T06:51:43Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -302,7 +338,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8146,
-    "updated_at": "2026-08-27T06:37:59Z",
+    "updated_at": "2026-08-27T06:54:46Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -346,7 +382,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1678,
+    "stars": 1680,
     "updated_at": "2026-08-27T04:15:26Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T03:10:34Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "AI Shift-Handoff & Discharge Copilot \u2014 turns unstructured clinical notes into cited Discharge Summaries and Shift-Handof",
-    "id": "amolrathod7875/MediSync",
-    "language": "TypeScript",
-    "name": "amolrathod7875/MediSync",
-    "stars": 0,
-    "updated_at": "2026-08-27T03:10:00Z",
-    "url": "https://github.com/amolrathod7875/MediSync"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 8,
-    "updated_at": "2026-08-27T05:35:38Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
-    "id": "hippmem/hippmem",
-    "language": "Rust",
-    "name": "hippmem/hippmem",
-    "stars": 2,
-    "updated_at": "2026-08-27T03:23:35Z",
-    "url": "https://github.com/hippmem/hippmem"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-27T02:55:48Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   }
 ]
