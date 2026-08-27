@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T13:55:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
     "id": "sattyamjjain/mnemo",
     "language": "Rust",
@@ -14,17 +23,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 89,
-    "updated_at": "2026-08-27T13:51:04Z",
+    "updated_at": "2026-08-27T13:56:07Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T13:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -36,6 +36,33 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1680,
+    "updated_at": "2026-08-27T13:44:48Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7069,
+    "updated_at": "2026-08-27T13:44:30Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Measure whether an embedding upgrade is worth it, bridge it without reindexing when it is, and migrate safely when you a",
+    "id": "batuhanzorbeyzengin/rebasis",
+    "language": "Python",
+    "name": "batuhanzorbeyzengin/rebasis",
+    "stars": 15,
+    "updated_at": "2026-08-27T13:44:06Z",
+    "url": "https://github.com/batuhanzorbeyzengin/rebasis"
+  },
+  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -43,6 +70,15 @@
     "stars": 0,
     "updated_at": "2026-08-27T13:43:47Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "The Kubernetes operator for K8ssandra",
+    "id": "k8ssandra/k8ssandra-operator",
+    "language": "Go",
+    "name": "k8ssandra/k8ssandra-operator",
+    "stars": 242,
+    "updated_at": "2026-08-27T13:43:03Z",
+    "url": "https://github.com/k8ssandra/k8ssandra-operator"
   },
   {
     "description": "- ",
@@ -122,17 +158,8 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35340,
-    "updated_at": "2026-08-27T13:37:20Z",
+    "updated_at": "2026-08-27T13:59:18Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7069,
-    "updated_at": "2026-08-27T13:44:30Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
@@ -169,15 +196,6 @@
     "stars": 32,
     "updated_at": "2026-08-27T13:21:44Z",
     "url": "https://github.com/Semafind/semadb"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1680,
-    "updated_at": "2026-08-27T13:44:48Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI-powered RAG assistant with voice and text interaction for intelligent document-based conversations using Gemini, Lang",
@@ -243,15 +261,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Measure whether an embedding upgrade is worth it, bridge it without reindexing when it is, and migrate safely when you a",
-    "id": "batuhanzorbeyzengin/rebasis",
-    "language": "Python",
-    "name": "batuhanzorbeyzengin/rebasis",
-    "stars": 15,
-    "updated_at": "2026-08-27T13:44:06Z",
-    "url": "https://github.com/batuhanzorbeyzengin/rebasis"
-  },
-  {
     "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
     "id": "hhblaze/DBreeze",
     "language": "C#",
@@ -266,7 +275,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16755,
-    "updated_at": "2026-08-27T13:47:33Z",
+    "updated_at": "2026-08-27T13:59:06Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -392,7 +401,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 2689,
-    "updated_at": "2026-08-27T13:49:13Z",
+    "updated_at": "2026-08-27T13:59:11Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T11:18:58Z",
     "url": "https://github.com/fomativeh/RAG-Chatbot"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Python",
-    "name": "qdrant/skills",
-    "stars": 225,
-    "updated_at": "2026-08-27T11:17:23Z",
-    "url": "https://github.com/qdrant/skills"
   }
 ]
