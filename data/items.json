@@ -1,5 +1,50 @@
 [
   {
+    "description": "Open-source authoritative technical guides: Cloud Computing, AI Infrastructure & Embodied Intelligence \u2014 \u4e91\u8ba1\u7b97\u3001AI Infra\u3001\u5177\u8eab",
+    "id": "aizyhe/openwikis",
+    "language": "\u2014",
+    "name": "aizyhe/openwikis",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:29:23Z",
+    "url": "https://github.com/aizyhe/openwikis"
+  },
+  {
+    "description": "RAG-based AI assistant for retrieving and answering questions from enterprise HR policy documents.",
+    "id": "ayushoms/enterprise-hr-rag-assistant",
+    "language": "Jupyter Notebook",
+    "name": "ayushoms/enterprise-hr-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-27T06:21:57Z",
+    "url": "https://github.com/ayushoms/enterprise-hr-rag-assistant"
+  },
+  {
+    "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
+    "id": "lingxinmind/vecmindb-sdk",
+    "language": "Python",
+    "name": "lingxinmind/vecmindb-sdk",
+    "stars": 1,
+    "updated_at": "2026-08-27T06:21:11Z",
+    "url": "https://github.com/lingxinmind/vecmindb-sdk"
+  },
+  {
+    "description": "Persistent memory MCP server for opencode \u2014 Redis facts, ChromaDB semantic search, document storage, power-law memory de",
+    "id": "enkinvsh/crystallized",
+    "language": "Python",
+    "name": "enkinvsh/crystallized",
+    "stars": 3,
+    "updated_at": "2026-08-27T06:17:43Z",
+    "url": "https://github.com/enkinvsh/crystallized"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T06:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,24 +68,15 @@
     "language": "TypeScript",
     "name": "kunal-rathore-111/Neptune",
     "stars": 1,
-    "updated_at": "2026-08-27T06:09:13Z",
+    "updated_at": "2026-08-27T06:30:07Z",
     "url": "https://github.com/kunal-rathore-111/Neptune"
-  },
-  {
-    "description": "Open-source authoritative technical guides: Cloud Computing, AI Infrastructure & Embodied Intelligence \u2014 \u4e91\u8ba1\u7b97\u3001AI Infra\u3001\u5177\u8eab",
-    "id": "aizyhe/openwikis",
-    "language": "\u2014",
-    "name": "aizyhe/openwikis",
-    "stars": 0,
-    "updated_at": "2026-08-27T06:08:42Z",
-    "url": "https://github.com/aizyhe/openwikis"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15521,
+    "stars": 15522,
     "updated_at": "2026-08-27T06:07:11Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -95,17 +131,8 @@
     "language": "Python",
     "name": "HyxiaoGe/fusion-api",
     "stars": 5,
-    "updated_at": "2026-08-27T06:01:02Z",
+    "updated_at": "2026-08-27T06:25:29Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T06:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Architecture: Scalable Knowledge Distribution for AI Agent Fleets | Published on omnithium.ai",
@@ -157,7 +184,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11290,
+    "stars": 11291,
     "updated_at": "2026-08-27T05:42:32Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T05:35:53Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Persistent memory MCP server for opencode \u2014 Redis facts, ChromaDB semantic search, document storage, power-law memory de",
-    "id": "enkinvsh/crystallized",
-    "language": "Python",
-    "name": "enkinvsh/crystallized",
-    "stars": 3,
-    "updated_at": "2026-08-27T05:29:42Z",
-    "url": "https://github.com/enkinvsh/crystallized"
   },
   {
     "description": "Enterprise AI platform built on the Universal Knowledge Graph (UKG), featuring a 17-Axis Knowledge Framework, 10-Layer T",
@@ -221,7 +239,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9424,
-    "updated_at": "2026-08-27T06:05:25Z",
+    "updated_at": "2026-08-27T06:28:41Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -427,26 +445,8 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65263,
+    "stars": 65264,
     "updated_at": "2026-08-27T02:04:41Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 251,
-    "updated_at": "2026-08-27T02:00:17Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "A hybrid graph + vector database engine in Rust \u2014 HNSW ANN + property graph + hybrid query pipeline, SIMD kernels, embed",
-    "id": "dcharlot-physicalai-bmi/hyperdb",
-    "language": "Rust",
-    "name": "dcharlot-physicalai-bmi/hyperdb",
-    "stars": 0,
-    "updated_at": "2026-08-27T01:54:26Z",
-    "url": "https://github.com/dcharlot-physicalai-bmi/hyperdb"
   }
 ]
