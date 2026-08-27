@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T07:00:18Z",
+    "updated_at": "2026-08-27T07:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8147,
+    "updated_at": "2026-08-27T07:11:42Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45814,
+    "updated_at": "2026-08-27T07:07:27Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "The AI search platform",
@@ -14,8 +32,26 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7070,
-    "updated_at": "2026-08-27T06:59:54Z",
+    "updated_at": "2026-08-27T07:04:18Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9424,
+    "updated_at": "2026-08-27T07:14:46Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T07:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
@@ -50,7 +86,7 @@
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 4,
-    "updated_at": "2026-08-27T06:48:52Z",
+    "updated_at": "2026-08-27T07:11:36Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
@@ -61,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T06:45:45Z",
     "url": "https://github.com/aizyhe/openwikis"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T06:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -189,15 +216,6 @@
     "url": "https://github.com/MoTahaAboHeiba/EduMate-RAG"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45813,
-    "updated_at": "2026-08-27T06:06:00Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Private news desk that scrapes public articles, extracts structured stories with LLMs, stores them as semantic memory in",
     "id": "aneeshpatne/Nova",
     "language": "TypeScript",
@@ -212,7 +230,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-27T06:03:02Z",
+    "updated_at": "2026-08-27T07:14:44Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -315,31 +333,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9424,
-    "updated_at": "2026-08-27T06:43:22Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6381,
-    "updated_at": "2026-08-27T06:51:43Z",
+    "updated_at": "2026-08-27T07:02:55Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8146,
-    "updated_at": "2026-08-27T06:54:46Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
