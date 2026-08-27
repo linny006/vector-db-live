@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T17:15:19Z",
+    "updated_at": "2026-08-27T17:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production .NET SDK for Alibaba ZVec \u2014 DI, typed ODM, async, SafeHandles, full indexes/FTS, and mobile RIDs. Not a thin ",
+    "id": "ahmedSamir50/AdamSystems.ZVec.NET",
+    "language": "C#",
+    "name": "ahmedSamir50/AdamSystems.ZVec.NET",
+    "stars": 2,
+    "updated_at": "2026-08-27T17:30:24Z",
+    "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET"
+  },
+  {
+    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-08-27T17:26:57Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:21:25Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
+    "language": "Python",
+    "name": "vishalChoudhary-git/ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:20:40Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
     "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-08-27T17:12:05Z",
+    "updated_at": "2026-08-27T17:29:09Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -23,8 +59,35 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-27T17:00:26Z",
+    "updated_at": "2026-08-27T17:15:26Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-27T17:10:21Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
+    "id": "api-evangelist/datastax",
+    "language": "\u2014",
+    "name": "api-evangelist/datastax",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:04:39Z",
+    "url": "https://github.com/api-evangelist/datastax"
+  },
+  {
+    "description": "Crate.io is the company behind CrateDB, a distributed SQL database engineered for real-time analytics on large volumes o",
+    "id": "api-evangelist/crate-io",
+    "language": "\u2014",
+    "name": "api-evangelist/crate-io",
+    "stars": 0,
+    "updated_at": "2026-08-27T17:02:06Z",
+    "url": "https://github.com/api-evangelist/crate-io"
   },
   {
     "description": "This document is a detailed reference to Contentstack\u2019s Content Delivery API. Retrieve content from your account and del",
@@ -41,26 +104,17 @@
     "language": "Go",
     "name": "marco-spagn/pcmi",
     "stars": 5,
-    "updated_at": "2026-08-27T17:00:15Z",
+    "updated_at": "2026-08-27T17:27:33Z",
     "url": "https://github.com/marco-spagn/pcmi"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-27T17:10:21Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
+    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
+    "id": "eugen-goebel/smart-doc-qa",
     "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
+    "name": "eugen-goebel/smart-doc-qa",
     "stars": 0,
-    "updated_at": "2026-08-27T16:56:39Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
+    "updated_at": "2026-08-27T16:58:39Z",
+    "url": "https://github.com/eugen-goebel/smart-doc-qa"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -81,6 +135,15 @@
     "url": "https://github.com/api-evangelist/chroma-db"
   },
   {
+    "description": "Chroma (Chroma DB) is an open-source AI-native embedding database designed to make it easy to build LLM applications by ",
+    "id": "api-evangelist/chroma",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma",
+    "stars": 0,
+    "updated_at": "2026-08-27T16:56:23Z",
+    "url": "https://github.com/api-evangelist/chroma"
+  },
+  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
@@ -99,12 +162,21 @@
     "url": "https://github.com/dringel/myAI6"
   },
   {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6383,
+    "updated_at": "2026-08-27T16:51:13Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9202,
-    "updated_at": "2026-08-27T17:08:31Z",
+    "updated_at": "2026-08-27T17:26:23Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -148,7 +220,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65288,
+    "stars": 65290,
     "updated_at": "2026-08-27T16:42:20Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -248,7 +320,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6221,
-    "updated_at": "2026-08-27T16:50:43Z",
+    "updated_at": "2026-08-27T17:21:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 1683,
     "updated_at": "2026-08-27T15:27:18Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "",
-    "id": "threefigure-achromia682/ai-memory",
-    "language": "\u2014",
-    "name": "threefigure-achromia682/ai-memory",
-    "stars": 1,
-    "updated_at": "2026-08-27T15:21:11Z",
-    "url": "https://github.com/threefigure-achromia682/ai-memory"
-  },
-  {
-    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
-    "id": "alegameplays14-del/leica-infinity-2026",
-    "language": "\u2014",
-    "name": "alegameplays14-del/leica-infinity-2026",
-    "stars": 0,
-    "updated_at": "2026-08-27T15:20:31Z",
-    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Public OpenAPI specs for Pinecone RESTful APIs and Protobuf definitions",
-    "id": "pinecone-io/pinecone-api",
-    "language": "\u2014",
-    "name": "pinecone-io/pinecone-api",
-    "stars": 9,
-    "updated_at": "2026-08-27T15:20:22Z",
-    "url": "https://github.com/pinecone-io/pinecone-api"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-08-27T15:19:11Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
-    "id": "Wry-letters233/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Wry-letters233/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-08-27T15:18:47Z",
-    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
-  },
-  {
-    "description": "No fuss multi-index hybrid vector database / search engine",
-    "id": "Semafind/semadb",
-    "language": "Go",
-    "name": "Semafind/semadb",
-    "stars": 32,
-    "updated_at": "2026-08-27T15:18:33Z",
-    "url": "https://github.com/Semafind/semadb"
-  },
-  {
-    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
-    "id": "retrograde-prosceniumwall239/ai-search-engine",
-    "language": "Python",
-    "name": "retrograde-prosceniumwall239/ai-search-engine",
-    "stars": 1,
-    "updated_at": "2026-08-27T15:18:33Z",
-    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-08-27T15:15:00Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   }
 ]
