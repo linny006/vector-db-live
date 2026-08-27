@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T02:00:20Z",
+    "updated_at": "2026-08-27T02:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Official website and documentation for ParqDB.",
+    "id": "parqdb-io/parqdb-io.github.io",
+    "language": "Astro",
+    "name": "parqdb-io/parqdb-io.github.io",
+    "stars": 0,
+    "updated_at": "2026-08-27T02:05:30Z",
+    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T02:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 251,
+    "updated_at": "2026-08-27T02:00:17Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -41,7 +68,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 65259,
-    "updated_at": "2026-08-27T01:51:16Z",
+    "updated_at": "2026-08-27T02:04:41Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -49,7 +76,7 @@
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
-    "stars": 6378,
+    "stars": 6380,
     "updated_at": "2026-08-27T01:48:28Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
@@ -59,7 +86,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9200,
-    "updated_at": "2026-08-27T01:57:00Z",
+    "updated_at": "2026-08-27T02:04:45Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -68,17 +95,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8146,
-    "updated_at": "2026-08-27T01:45:49Z",
+    "updated_at": "2026-08-27T02:06:06Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T01:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -86,7 +104,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-27T01:44:10Z",
+    "updated_at": "2026-08-27T02:13:22Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 29,
     "updated_at": "2026-08-27T01:33:52Z",
     "url": "https://github.com/hexxla/hexxladb"
-  },
-  {
-    "description": "Official website and documentation for ParqDB.",
-    "id": "parqdb-io/parqdb-io.github.io",
-    "language": "Astro",
-    "name": "parqdb-io/parqdb-io.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-27T01:32:54Z",
-    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -157,7 +166,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1673,
+    "stars": 1674,
     "updated_at": "2026-08-27T00:44:04Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -315,6 +324,15 @@
     "url": "https://github.com/leo2007960216/deeprecall"
   },
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11286,
+    "updated_at": "2026-08-27T00:21:16Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
     "id": "kirill2911/awesome-vector-search",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T00:00:57Z",
     "url": "https://github.com/britorbs/consciousdb"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-08-27T00:00:46Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
-    "id": "fub05/MCP---Agent-Starter-Kit",
-    "language": "Python",
-    "name": "fub05/MCP---Agent-Starter-Kit",
-    "stars": 6,
-    "updated_at": "2026-08-27T00:00:03Z",
-    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
   }
 ]
