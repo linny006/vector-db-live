@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T18:30:22Z",
+    "updated_at": "2026-08-27T18:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Zilliz Cloud is the managed vector database service built by the Milvus maintainers. It exposes a Control Plane API for ",
+    "id": "api-evangelist/zilliz",
+    "language": "\u2014",
+    "name": "api-evangelist/zilliz",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:42:09Z",
+    "url": "https://github.com/api-evangelist/zilliz"
+  },
+  {
+    "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
+    "id": "api-evangelist/weaviate",
+    "language": "\u2014",
+    "name": "api-evangelist/weaviate",
+    "stars": 1,
+    "updated_at": "2026-08-27T18:37:29Z",
+    "url": "https://github.com/api-evangelist/weaviate"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 90,
+    "updated_at": "2026-08-27T18:37:22Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Vespa is an open-source AI search engine, big-data serving engine, and vector database originally developed inside Yahoo",
+    "id": "api-evangelist/vespa-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/vespa-ai",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:34:56Z",
+    "url": "https://github.com/api-evangelist/vespa-ai"
+  },
+  {
+    "description": "Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds ",
+    "id": "api-evangelist/vectorize-io",
+    "language": "\u2014",
+    "name": "api-evangelist/vectorize-io",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:34:02Z",
+    "url": "https://github.com/api-evangelist/vectorize-io"
+  },
+  {
+    "description": "Upstash provides serverless data platforms including managed Redis, Kafka, QStash messaging, and Vector databases optimi",
+    "id": "api-evangelist/upstash",
+    "language": "\u2014",
+    "name": "api-evangelist/upstash",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:32:46Z",
+    "url": "https://github.com/api-evangelist/upstash"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T18:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -14,8 +77,26 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6383,
-    "updated_at": "2026-08-27T18:26:09Z",
+    "updated_at": "2026-08-27T18:42:04Z",
     "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Self-Healing Academic Knowledge Assistant powered by Agentic RAG, LangGraph, and Gemini.",
+    "id": "yashrajagawane/SentinelRAG",
+    "language": "Python",
+    "name": "yashrajagawane/SentinelRAG",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:25:53Z",
+    "url": "https://github.com/yashrajagawane/SentinelRAG"
+  },
+  {
+    "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
+    "id": "api-evangelist/surrealdb",
+    "language": "\u2014",
+    "name": "api-evangelist/surrealdb",
+    "stars": 0,
+    "updated_at": "2026-08-27T18:23:20Z",
+    "url": "https://github.com/api-evangelist/surrealdb"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -23,8 +104,17 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9202,
-    "updated_at": "2026-08-27T18:22:43Z",
+    "updated_at": "2026-08-27T18:43:30Z",
     "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6882,
+    "updated_at": "2026-08-27T18:20:47Z",
+    "url": "https://github.com/plastic-labs/honcho"
   },
   {
     "description": "Rago - Rag application built entirely in golang and pgvector",
@@ -54,15 +144,6 @@
     "url": "https://github.com/Tanmoy095/Logiflow-platform"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T18:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
     "id": "api-evangelist/sequoiadb",
     "language": "\u2014",
@@ -70,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T18:15:24Z",
     "url": "https://github.com/api-evangelist/sequoiadb"
-  },
-  {
-    "description": "Self-Healing Academic Knowledge Assistant powered by Agentic RAG, LangGraph, and Gemini.",
-    "id": "yashrajagawane/SentinelRAG",
-    "language": "Python",
-    "name": "yashrajagawane/SentinelRAG",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:25:53Z",
-    "url": "https://github.com/yashrajagawane/SentinelRAG"
   },
   {
     "description": "This is a hobby project to build a Graph database in Rust.",
@@ -117,15 +189,6 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6880,
-    "updated_at": "2026-08-27T18:20:47Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
@@ -140,7 +203,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1109,
-    "updated_at": "2026-08-27T18:26:13Z",
+    "updated_at": "2026-08-27T18:35:48Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -178,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T17:49:06Z",
     "url": "https://github.com/api-evangelist/myscale"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 90,
-    "updated_at": "2026-08-27T17:48:29Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Mixedbread is a Berlin-based AI search and retrieval platform. It provides embeddings (mxbai-embed, Wholembed v3), reran",
@@ -346,7 +400,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2692,
+    "stars": 2693,
     "updated_at": "2026-08-27T17:10:11Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -394,59 +448,5 @@
     "stars": 5,
     "updated_at": "2026-08-27T17:45:07Z",
     "url": "https://github.com/marco-spagn/pcmi"
-  },
-  {
-    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
-    "id": "eugen-goebel/smart-doc-qa",
-    "language": "Python",
-    "name": "eugen-goebel/smart-doc-qa",
-    "stars": 0,
-    "updated_at": "2026-08-27T16:58:39Z",
-    "url": "https://github.com/eugen-goebel/smart-doc-qa"
-  },
-  {
-    "description": "Chroma (Chroma DB) is an open-source, AI-native vector database (embedding database) for building LLM, RAG, and semantic",
-    "id": "api-evangelist/chroma-db",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma-db",
-    "stars": 0,
-    "updated_at": "2026-08-27T16:56:23Z",
-    "url": "https://github.com/api-evangelist/chroma-db"
-  },
-  {
-    "description": "Chroma (Chroma DB) is an open-source AI-native embedding database designed to make it easy to build LLM applications by ",
-    "id": "api-evangelist/chroma",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma",
-    "stars": 0,
-    "updated_at": "2026-08-27T16:56:23Z",
-    "url": "https://github.com/api-evangelist/chroma"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12909,
-    "updated_at": "2026-08-27T16:55:49Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Build your own AI assistant: RAG chatbot template with web search, verified citations, conversation compression, and mod",
-    "id": "dringel/myAI6",
-    "language": "TypeScript",
-    "name": "dringel/myAI6",
-    "stars": 0,
-    "updated_at": "2026-08-27T16:51:18Z",
-    "url": "https://github.com/dringel/myAI6"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-27T16:45:47Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   }
 ]
