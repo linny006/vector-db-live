@@ -1,11 +1,38 @@
 [
   {
+    "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
+    "id": "lingxinmind/vecmindb-sdk",
+    "language": "Python",
+    "name": "lingxinmind/vecmindb-sdk",
+    "stars": 1,
+    "updated_at": "2026-08-27T07:19:57Z",
+    "url": "https://github.com/lingxinmind/vecmindb-sdk"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 235,
+    "updated_at": "2026-08-27T07:15:44Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T07:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T07:15:21Z",
+    "updated_at": "2026-08-27T07:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -22,7 +49,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45814,
+    "stars": 45817,
     "updated_at": "2026-08-27T07:07:27Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -32,7 +59,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7070,
-    "updated_at": "2026-08-27T07:04:18Z",
+    "updated_at": "2026-08-27T07:27:59Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -43,15 +70,6 @@
     "stars": 9424,
     "updated_at": "2026-08-27T07:14:46Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T07:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A native associative memory engine for AI agents, written in Rust. Write-time association discovery, spreading-activatio",
@@ -189,15 +207,6 @@
     "url": "https://github.com/ayushoms/enterprise-hr-rag-assistant"
   },
   {
-    "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
-    "id": "lingxinmind/vecmindb-sdk",
-    "language": "Python",
-    "name": "lingxinmind/vecmindb-sdk",
-    "stars": 1,
-    "updated_at": "2026-08-27T06:21:11Z",
-    "url": "https://github.com/lingxinmind/vecmindb-sdk"
-  },
-  {
     "description": "Persistent memory MCP server for opencode \u2014 Redis facts, ChromaDB semantic search, document storage, power-law memory de",
     "id": "enkinvsh/crystallized",
     "language": "Python",
@@ -230,7 +239,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-27T07:14:44Z",
+    "updated_at": "2026-08-27T07:28:35Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -241,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T06:00:22Z",
     "url": "https://github.com/ApertaCodex/article-architecture-scalable-knowledge-distribution-for-ai-agent-fl"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 235,
-    "updated_at": "2026-08-27T05:58:27Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
