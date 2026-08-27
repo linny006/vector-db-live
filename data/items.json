@@ -1,12 +1,84 @@
 [
   {
+    "description": "This is a hobby project to build a Graph database in Rust.",
+    "id": "gmr/dotilla",
+    "language": "Rust",
+    "name": "gmr/dotilla",
+    "stars": 1,
+    "updated_at": "2026-08-27T21:10:14Z",
+    "url": "https://github.com/gmr/dotilla"
+  },
+  {
+    "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
+    "id": "api-evangelist/sequoiadb",
+    "language": "\u2014",
+    "name": "api-evangelist/sequoiadb",
+    "stars": 0,
+    "updated_at": "2026-08-27T21:08:58Z",
+    "url": "https://github.com/api-evangelist/sequoiadb"
+  },
+  {
     "description": "Enterprise-grade GDPR/CCPA Vector Unlearning & PII Oblivion Middleware. Instant O(N\u00b7D) Orthogonal Subspace Projection, N",
     "id": "Toskurim/vector-unforget",
     "language": "Python",
     "name": "Toskurim/vector-unforget",
     "stars": 3,
-    "updated_at": "2026-08-27T20:59:35Z",
+    "updated_at": "2026-08-27T21:10:33Z",
     "url": "https://github.com/Toskurim/vector-unforget"
+  },
+  {
+    "description": "Local knowledge base lifecycle manager for dsh: multi-format import, hybrid search with per-stage debug scores, snapshot",
+    "id": "xiaoshi7915/dsh-kb-manager",
+    "language": "TypeScript",
+    "name": "xiaoshi7915/dsh-kb-manager",
+    "stars": 1,
+    "updated_at": "2026-08-27T21:06:38Z",
+    "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
+  },
+  {
+    "description": "C# SDK for the Weaviate API -- open-source vector database",
+    "id": "tryAGI/Weaviate",
+    "language": "C#",
+    "name": "tryAGI/Weaviate",
+    "stars": 2,
+    "updated_at": "2026-08-27T21:05:46Z",
+    "url": "https://github.com/tryAGI/Weaviate"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-27T21:05:13Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 6,
+    "updated_at": "2026-08-27T21:11:03Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-27T21:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T21:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -25,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T20:56:25Z",
     "url": "https://github.com/North-Shore-AI/embed_ex"
-  },
-  {
-    "description": "Local knowledge base lifecycle manager for dsh: multi-format import, hybrid search with per-stage debug scores, snapshot",
-    "id": "xiaoshi7915/dsh-kb-manager",
-    "language": "TypeScript",
-    "name": "xiaoshi7915/dsh-kb-manager",
-    "stars": 1,
-    "updated_at": "2026-08-27T20:52:35Z",
-    "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
   },
   {
     "description": "Measure whether an embedding upgrade is worth it, bridge it without reindexing when it is, and migrate safely when you a",
@@ -70,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T20:46:12Z",
     "url": "https://github.com/api-evangelist/nomic-ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T20:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-27T20:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -133,15 +178,6 @@
     "stars": 16,
     "updated_at": "2026-08-27T20:39:14Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-27T20:38:28Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Marqo is an open-source, multimodal vector search engine that lets developers index text and images, generate embeddings",
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9204,
-    "updated_at": "2026-08-27T20:58:18Z",
+    "updated_at": "2026-08-27T21:14:11Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -232,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-08-27T20:14:17Z",
     "url": "https://github.com/api-evangelist/gel-data"
-  },
-  {
-    "description": "This is a hobby project to build a Graph database in Rust.",
-    "id": "gmr/dotilla",
-    "language": "Rust",
-    "name": "gmr/dotilla",
-    "stars": 1,
-    "updated_at": "2026-08-27T20:09:59Z",
-    "url": "https://github.com/gmr/dotilla"
   },
   {
     "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
@@ -302,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8149,
-    "updated_at": "2026-08-27T19:43:17Z",
+    "updated_at": "2026-08-27T21:11:35Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11298,
-    "updated_at": "2026-08-27T20:46:33Z",
+    "updated_at": "2026-08-27T21:10:41Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-27T19:10:34Z",
     "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
-    "id": "LuisinTheLegend/ConciergeGraph",
-    "language": "Python",
-    "name": "LuisinTheLegend/ConciergeGraph",
-    "stars": 1,
-    "updated_at": "2026-08-27T19:08:25Z",
-    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1109,
-    "updated_at": "2026-08-27T19:06:42Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-27T19:06:27Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   }
 ]
