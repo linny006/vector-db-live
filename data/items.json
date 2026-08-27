@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T14:45:23Z",
+    "updated_at": "2026-08-27T15:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "High-Performance Engine for Multi-Vector Search",
+    "id": "lightonai/fast-plaid",
+    "language": "Python",
+    "name": "lightonai/fast-plaid",
+    "stars": 280,
+    "updated_at": "2026-08-27T14:59:28Z",
+    "url": "https://github.com/lightonai/fast-plaid"
+  },
+  {
+    "description": "AI Automation Engineer building AI agents, n8n workflows, RAG chatbots, and MCP integrations using Claude AI and ChatGPT",
+    "id": "imkausarbd/imkausarbd",
+    "language": "\u2014",
+    "name": "imkausarbd/imkausarbd",
+    "stars": 0,
+    "updated_at": "2026-08-27T14:58:33Z",
+    "url": "https://github.com/imkausarbd/imkausarbd"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 89,
+    "updated_at": "2026-08-27T14:49:26Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35342,
+    "updated_at": "2026-08-27T15:00:18Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-08-27T14:47:48Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-27T14:46:43Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T14:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Measure whether an embedding upgrade is worth it, bridge it without reindexing when it is, and migrate safely when you a",
+    "id": "batuhanzorbeyzengin/rebasis",
+    "language": "Python",
+    "name": "batuhanzorbeyzengin/rebasis",
+    "stars": 15,
+    "updated_at": "2026-08-27T14:45:19Z",
+    "url": "https://github.com/batuhanzorbeyzengin/rebasis"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-08-27T14:43:43Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
   },
   {
     "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
@@ -18,13 +99,67 @@
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
-    "description": "AI Automation Engineer building AI agents, n8n workflows, RAG chatbots, and MCP integrations using Claude AI and ChatGPT",
-    "id": "imkausarbd/imkausarbd",
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-08-27T14:37:58Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
+    "id": "Shajo777/SupaAI-Framework-Template",
     "language": "\u2014",
-    "name": "imkausarbd/imkausarbd",
+    "name": "Shajo777/SupaAI-Framework-Template",
     "stars": 0,
-    "updated_at": "2026-08-27T14:40:30Z",
-    "url": "https://github.com/imkausarbd/imkausarbd"
+    "updated_at": "2026-08-27T14:35:56Z",
+    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
+  },
+  {
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-08-27T14:35:26Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-27T14:35:08Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Asynchronous task service + RAG document retrieval pipeline in Rust \u2014 axum API, SQLite (WAL) with optimistic concurrency",
+    "id": "erishen/rag-task-service",
+    "language": "Rust",
+    "name": "erishen/rag-task-service",
+    "stars": 0,
+    "updated_at": "2026-08-27T14:32:39Z",
+    "url": "https://github.com/erishen/rag-task-service"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 94,
+    "updated_at": "2026-08-27T14:31:44Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-08-27T14:31:25Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
   },
   {
     "description": "Reconciling memory layer for AI agents. Get only current facts, not stale ones",
@@ -34,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T14:31:07Z",
     "url": "https://github.com/vayl-dev/vayl"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T14:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -63,11 +189,29 @@
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16756,
+    "updated_at": "2026-08-27T14:56:34Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34222,
+    "updated_at": "2026-08-27T14:54:00Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45825,
+    "stars": 45826,
     "updated_at": "2026-08-27T14:23:27Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -77,7 +221,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 2689,
-    "updated_at": "2026-08-27T14:36:20Z",
+    "updated_at": "2026-08-27T14:58:03Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -95,7 +239,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 23,
-    "updated_at": "2026-08-27T14:18:07Z",
+    "updated_at": "2026-08-27T14:58:28Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -126,21 +270,12 @@
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35341,
-    "updated_at": "2026-08-27T14:44:59Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6220,
-    "updated_at": "2026-08-27T14:40:04Z",
+    "updated_at": "2026-08-27T14:48:41Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -207,6 +342,15 @@
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11297,
+    "updated_at": "2026-08-27T13:52:40Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -214,15 +358,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T13:51:07Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 89,
-    "updated_at": "2026-08-27T14:42:26Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
@@ -238,18 +373,9 @@
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
-    "stars": 7070,
-    "updated_at": "2026-08-27T13:44:30Z",
+    "stars": 7071,
+    "updated_at": "2026-08-27T14:58:44Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Measure whether an embedding upgrade is worth it, bridge it without reindexing when it is, and migrate safely when you a",
-    "id": "batuhanzorbeyzengin/rebasis",
-    "language": "Python",
-    "name": "batuhanzorbeyzengin/rebasis",
-    "stars": 15,
-    "updated_at": "2026-08-27T14:45:19Z",
-    "url": "https://github.com/batuhanzorbeyzengin/rebasis"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -311,7 +437,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 838,
-    "updated_at": "2026-08-27T14:41:29Z",
+    "updated_at": "2026-08-27T14:54:28Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 425,
     "updated_at": "2026-08-27T14:28:40Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1109,
-    "updated_at": "2026-08-27T13:26:02Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "No fuss multi-index hybrid vector database / search engine",
-    "id": "Semafind/semadb",
-    "language": "Go",
-    "name": "Semafind/semadb",
-    "stars": 32,
-    "updated_at": "2026-08-27T13:21:44Z",
-    "url": "https://github.com/Semafind/semadb"
-  },
-  {
-    "description": "AI-powered RAG assistant with voice and text interaction for intelligent document-based conversations using Gemini, Lang",
-    "id": "inba-web/enterprise-support-rag",
-    "language": "JavaScript",
-    "name": "inba-web/enterprise-support-rag",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:20:13Z",
-    "url": "https://github.com/inba-web/enterprise-support-rag"
-  },
-  {
-    "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
-    "id": "tryAGI/Turbopuffer",
-    "language": "C#",
-    "name": "tryAGI/Turbopuffer",
-    "stars": 0,
-    "updated_at": "2026-08-27T13:18:36Z",
-    "url": "https://github.com/tryAGI/Turbopuffer"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 4,
-    "updated_at": "2026-08-27T14:38:44Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-27T13:14:35Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 71,
-    "updated_at": "2026-08-27T14:36:11Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8148,
-    "updated_at": "2026-08-27T14:34:56Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
-    "id": "hhblaze/DBreeze",
-    "language": "C#",
-    "name": "hhblaze/DBreeze",
-    "stars": 578,
-    "updated_at": "2026-08-27T13:03:50Z",
-    "url": "https://github.com/hhblaze/DBreeze"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16755,
-    "updated_at": "2026-08-27T14:24:50Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34221,
-    "updated_at": "2026-08-27T14:24:14Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Wire an AI agent to live product data over the Apify MCP server: price, stock, rating and images as structured fields. R",
-    "id": "luispintoapify/ecommerce-agent-starter",
-    "language": "Python",
-    "name": "luispintoapify/ecommerce-agent-starter",
-    "stars": 3,
-    "updated_at": "2026-08-27T12:40:07Z",
-    "url": "https://github.com/luispintoapify/ecommerce-agent-starter"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-27T12:37:16Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "A production-grade Retrieval-Augmented Generation (RAG) agent built to answer customer support questions using company d",
-    "id": "SammedBG/RAG-Customer-support-agent",
-    "language": "Python",
-    "name": "SammedBG/RAG-Customer-support-agent",
-    "stars": 0,
-    "updated_at": "2026-08-27T12:36:47Z",
-    "url": "https://github.com/SammedBG/RAG-Customer-support-agent"
   }
 ]
