@@ -1,5 +1,32 @@
 [
   {
+    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-08-27T13:53:30Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 89,
+    "updated_at": "2026-08-27T13:51:04Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T13:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +36,22 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
-    "id": "tryAGI/Qdrant",
-    "language": "C#",
-    "name": "tryAGI/Qdrant",
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
     "stars": 0,
-    "updated_at": "2026-08-27T13:38:59Z",
-    "url": "https://github.com/tryAGI/Qdrant"
+    "updated_at": "2026-08-27T13:43:47Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-27T13:52:59Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
     "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
@@ -25,6 +61,15 @@
     "stars": 4,
     "updated_at": "2026-08-27T13:39:03Z",
     "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
+    "id": "tryAGI/Qdrant",
+    "language": "C#",
+    "name": "tryAGI/Qdrant",
+    "stars": 0,
+    "updated_at": "2026-08-27T13:38:59Z",
+    "url": "https://github.com/tryAGI/Qdrant"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -41,7 +86,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-27T13:30:59Z",
+    "updated_at": "2026-08-27T13:52:12Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -63,13 +108,13 @@
     "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T13:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 838,
+    "updated_at": "2026-08-27T13:30:02Z",
+    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -112,8 +157,8 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45823,
-    "updated_at": "2026-08-27T13:23:38Z",
+    "stars": 45824,
+    "updated_at": "2026-08-27T13:49:27Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -171,15 +216,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-27T13:41:09Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
     "description": "Fast search engine on object storage, with full text search, vectors, and SQL, natively on Parquet.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -230,17 +266,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16755,
-    "updated_at": "2026-08-27T13:37:43Z",
+    "updated_at": "2026-08-27T13:47:33Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 838,
-    "updated_at": "2026-08-27T13:30:02Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -250,15 +277,6 @@
     "stars": 34220,
     "updated_at": "2026-08-27T12:54:05Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 89,
-    "updated_at": "2026-08-27T13:40:19Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Wire an AI agent to live product data over the Apify MCP server: price, stock, rating and images as structured fields. R",
@@ -338,7 +356,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11296,
-    "updated_at": "2026-08-27T13:02:57Z",
+    "updated_at": "2026-08-27T13:52:40Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -374,7 +392,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 2689,
-    "updated_at": "2026-08-27T13:39:58Z",
+    "updated_at": "2026-08-27T13:49:13Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 225,
     "updated_at": "2026-08-27T11:17:23Z",
     "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
-    "id": "manav-2812/synapse",
-    "language": "TypeScript",
-    "name": "manav-2812/synapse",
-    "stars": 1,
-    "updated_at": "2026-08-27T11:13:54Z",
-    "url": "https://github.com/manav-2812/synapse"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6219,
-    "updated_at": "2026-08-27T13:45:18Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   }
 ]
