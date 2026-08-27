@@ -5,24 +5,141 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-27T20:30:23Z",
+    "updated_at": "2026-08-27T20:45:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "GDPR/CCPA Right-to-be-Forgotten Engine for Vector Databases (ChromaDB, Qdrant, Pgvector) with Global PII Extraction, Dry",
+    "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
+    "id": "marco-spagn/pcmi",
+    "language": "Go",
+    "name": "marco-spagn/pcmi",
+    "stars": 5,
+    "updated_at": "2026-08-27T20:43:37Z",
+    "url": "https://github.com/marco-spagn/pcmi"
+  },
+  {
+    "description": "MyScale is a SQL vector database built on a ClickHouse fork (MyScaleDB), combining high-performance vector search, full-",
+    "id": "api-evangelist/myscale",
+    "language": "\u2014",
+    "name": "api-evangelist/myscale",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:43:31Z",
+    "url": "https://github.com/api-evangelist/myscale"
+  },
+  {
+    "description": "Mixedbread is a Berlin-based AI search and retrieval platform. It provides embeddings (mxbai-embed, Wholembed v3), reran",
+    "id": "api-evangelist/mixedbread-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/mixedbread-ai",
+    "stars": 1,
+    "updated_at": "2026-08-27T20:41:03Z",
+    "url": "https://github.com/api-evangelist/mixedbread-ai"
+  },
+  {
+    "description": "Milvus is an Apache 2.0 open-source vector database. It exposes a versioned REST API alongside gRPC and language SDKs (P",
+    "id": "api-evangelist/milvus",
+    "language": "\u2014",
+    "name": "api-evangelist/milvus",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:40:26Z",
+    "url": "https://github.com/api-evangelist/milvus"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 16,
+    "updated_at": "2026-08-27T20:39:14Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-27T20:38:28Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Marqo is an open-source, multimodal vector search engine that lets developers index text and images, generate embeddings",
+    "id": "api-evangelist/marqo",
+    "language": "\u2014",
+    "name": "api-evangelist/marqo",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:37:06Z",
+    "url": "https://github.com/api-evangelist/marqo"
+  },
+  {
+    "description": "Production-grade RAG pipeline for enterprise knowledge bases",
+    "id": "jinno-ai/enterprise-rag-system",
+    "language": "Python",
+    "name": "jinno-ai/enterprise-rag-system",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:35:18Z",
+    "url": "https://github.com/jinno-ai/enterprise-rag-system"
+  },
+  {
+    "description": "Enterprise-grade GDPR/CCPA Vector Unlearning & PII Oblivion Middleware. Instant O(N\u00b7D) Orthogonal Subspace Projection, N",
     "id": "Toskurim/vector-unforget",
     "language": "Python",
     "name": "Toskurim/vector-unforget",
     "stars": 3,
-    "updated_at": "2026-08-27T20:29:59Z",
+    "updated_at": "2026-08-27T20:33:03Z",
     "url": "https://github.com/Toskurim/vector-unforget"
+  },
+  {
+    "description": "The LF AI & Data Foundation is a Linux Foundation umbrella that advances open source artificial intelligence, machine le",
+    "id": "api-evangelist/lf-ai-and-data",
+    "language": "\u2014",
+    "name": "api-evangelist/lf-ai-and-data",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:32:51Z",
+    "url": "https://github.com/api-evangelist/lf-ai-and-data"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1613,
+    "updated_at": "2026-08-27T20:32:32Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "LanceDB is the AI-Native multimodal lakehouse built on the open-source Lance columnar storage format. It pairs an Apache",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-08-27T20:31:11Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 343,
+    "updated_at": "2026-08-27T20:30:36Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-27T20:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
-    "stars": 9203,
+    "stars": 9204,
     "updated_at": "2026-08-27T20:30:16Z",
     "url": "https://github.com/paradedb/paradedb"
   },
@@ -54,15 +171,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-27T20:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Gel Data (formerly EdgeDB Inc.) builds Gel, an open-source graph-relational database that supercharges PostgreSQL with a",
     "id": "api-evangelist/gel-data",
     "language": "\u2014",
@@ -72,15 +180,6 @@
     "url": "https://github.com/api-evangelist/gel-data"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-08-27T20:13:08Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "This is a hobby project to build a Graph database in Rust.",
     "id": "gmr/dotilla",
     "language": "Rust",
@@ -88,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-27T20:09:59Z",
     "url": "https://github.com/gmr/dotilla"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-27T20:06:30Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "DataStax is the company behind Astra DB, a serverless, multi-cloud database and vector-search platform built on Apache C",
@@ -216,15 +306,6 @@
     "url": "https://github.com/TheFractalyst/PineMCP"
   },
   {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1613,
-    "updated_at": "2026-08-27T19:37:18Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
     "description": "MCP server for MetaTrader MQL4/MQL5 documentation (4853 entries). Provides AI assistants with complete MQL reference for",
     "id": "TheFractalyst/MetatraderMCP",
     "language": "Python",
@@ -266,7 +347,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6886,
-    "updated_at": "2026-08-27T19:21:11Z",
+    "updated_at": "2026-08-27T20:44:54Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -351,6 +432,15 @@
     "url": "https://github.com/keshavgupta-max/Agent-Document-Extractor-Financial-Documents-"
   },
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1683,
+    "updated_at": "2026-08-27T18:47:38Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -358,95 +448,5 @@
     "stars": 45833,
     "updated_at": "2026-08-27T18:45:26Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Zilliz Cloud is the managed vector database service built by the Milvus maintainers. It exposes a Control Plane API for ",
-    "id": "api-evangelist/zilliz",
-    "language": "\u2014",
-    "name": "api-evangelist/zilliz",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:42:09Z",
-    "url": "https://github.com/api-evangelist/zilliz"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6222,
-    "updated_at": "2026-08-27T18:40:50Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-08-27T18:37:29Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 90,
-    "updated_at": "2026-08-27T20:00:43Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Vespa is an open-source AI search engine, big-data serving engine, and vector database originally developed inside Yahoo",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:34:56Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds ",
-    "id": "api-evangelist/vectorize-io",
-    "language": "\u2014",
-    "name": "api-evangelist/vectorize-io",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:34:02Z",
-    "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "Upstash provides serverless data platforms including managed Redis, Kafka, QStash messaging, and Vector databases optimi",
-    "id": "api-evangelist/upstash",
-    "language": "\u2014",
-    "name": "api-evangelist/upstash",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:32:46Z",
-    "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6383,
-    "updated_at": "2026-08-27T20:28:35Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Self-Healing Academic Knowledge Assistant powered by Agentic RAG, LangGraph, and Gemini.",
-    "id": "yashrajagawane/SentinelRAG",
-    "language": "Python",
-    "name": "yashrajagawane/SentinelRAG",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:25:53Z",
-    "url": "https://github.com/yashrajagawane/SentinelRAG"
-  },
-  {
-    "description": "SurrealDB is a multi-model database that unifies documents, graphs, vectors, time-series, full-text search, and relation",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-08-27T18:23:20Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
   }
 ]
