@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-28T03:00:21Z",
+    "updated_at": "2026-08-28T03:30:17Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "GrainVDB: High-performance vector search engine written in native C++ and Metal. Optimized for Apple Silicon Unified Mem",
+    "id": "21e8-miner/grain-vdb",
+    "language": "Python",
+    "name": "21e8-miner/grain-vdb",
+    "stars": 0,
+    "updated_at": "2026-08-28T03:30:15Z",
+    "url": "https://github.com/21e8-miner/grain-vdb"
+  },
+  {
+    "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-08-28T03:19:10Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9204,
+    "updated_at": "2026-08-28T03:18:08Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "keldra-store/keldra",
+    "language": "Rust",
+    "name": "keldra-store/keldra",
+    "stars": 78,
+    "updated_at": "2026-08-28T03:17:29Z",
+    "url": "https://github.com/keldra-store/keldra"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-28T03:11:54Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "This is a hobby project to build a Graph database in Rust.",
+    "id": "gmr/dotilla",
+    "language": "Rust",
+    "name": "gmr/dotilla",
+    "stars": 1,
+    "updated_at": "2026-08-28T03:10:22Z",
+    "url": "https://github.com/gmr/dotilla"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T03:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -27,13 +90,13 @@
     "url": "https://github.com/Faraz6180/Insightpilot-ai"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T02:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45838,
+    "updated_at": "2026-08-28T03:07:26Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Free, open-source collection of latest public API documentations - Update LLM's knowledge base with the latest API doc, ",
@@ -43,15 +106,6 @@
     "stars": 25,
     "updated_at": "2026-08-28T02:53:22Z",
     "url": "https://github.com/in-c0/updAPI"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45837,
-    "updated_at": "2026-08-28T02:45:26Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "",
@@ -72,21 +126,12 @@
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
-    "description": "This is a hobby project to build a Graph database in Rust.",
-    "id": "gmr/dotilla",
-    "language": "Rust",
-    "name": "gmr/dotilla",
-    "stars": 1,
-    "updated_at": "2026-08-28T02:22:32Z",
-    "url": "https://github.com/gmr/dotilla"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1109,
-    "updated_at": "2026-08-28T02:59:43Z",
+    "updated_at": "2026-08-28T03:30:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -95,7 +140,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9424,
-    "updated_at": "2026-08-28T02:25:03Z",
+    "updated_at": "2026-08-28T03:17:42Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11298,
-    "updated_at": "2026-08-28T02:06:07Z",
+    "updated_at": "2026-08-28T03:06:55Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -180,15 +225,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-28T01:41:24Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -202,7 +238,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1687,
+    "stars": 1688,
     "updated_at": "2026-08-28T01:33:23Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -220,7 +256,7 @@
     "id": "oceanbase/oceanbase",
     "language": "C++",
     "name": "oceanbase/oceanbase",
-    "stars": 10256,
+    "stars": 10257,
     "updated_at": "2026-08-28T01:00:47Z",
     "url": "https://github.com/oceanbase/oceanbase"
   },
@@ -238,7 +274,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65308,
+    "stars": 65310,
     "updated_at": "2026-08-28T00:58:39Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -351,15 +387,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9204,
-    "updated_at": "2026-08-28T00:16:57Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Identity and Authorization Service with Vector and AI Integration",
     "id": "StephenCote/AccountManager7",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 37,
     "updated_at": "2026-08-27T22:55:41Z",
     "url": "https://github.com/MADEVAL/FerryAI"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6889,
-    "updated_at": "2026-08-27T22:54:44Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "Search and relevance across four stores -- vector embeddings, graph, full-text and relational -- measuring the ROUTING D",
-    "id": "jkelly-dev1/federated-retrieval-router",
-    "language": "Python",
-    "name": "jkelly-dev1/federated-retrieval-router",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:44:38Z",
-    "url": "https://github.com/jkelly-dev1/federated-retrieval-router"
-  },
-  {
-    "description": "A data-boundary proxy for AI systems that measures what its own controls miss: PII detection with recall below 1.0, egre",
-    "id": "jkelly-dev1/ai-data-boundary-proxy",
-    "language": "Python",
-    "name": "jkelly-dev1/ai-data-boundary-proxy",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:42:12Z",
-    "url": "https://github.com/jkelly-dev1/ai-data-boundary-proxy"
   }
 ]
