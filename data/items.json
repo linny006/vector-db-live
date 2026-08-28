@@ -5,8 +5,44 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 93,
-    "updated_at": "2026-08-28T12:14:24Z",
+    "updated_at": "2026-08-28T12:22:38Z",
     "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
+    "id": "Tanmoy095/Logiflow-platform",
+    "language": "Shell",
+    "name": "Tanmoy095/Logiflow-platform",
+    "stars": 2,
+    "updated_at": "2026-08-28T12:19:30Z",
+    "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "PDF RAG is an end-to-end Retrieval-Augmented Generation system for processing and querying PDF documents. It handles PDF",
+    "id": "UsamaImran/pdf-rag",
+    "language": "TypeScript",
+    "name": "UsamaImran/pdf-rag",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:17:26Z",
+    "url": "https://github.com/UsamaImran/pdf-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T12:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T12:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -14,7 +50,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-28T12:12:37Z",
+    "updated_at": "2026-08-28T12:30:18Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34241,
-    "updated_at": "2026-08-28T12:07:41Z",
+    "updated_at": "2026-08-28T12:26:18Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -52,24 +88,6 @@
     "stars": 936,
     "updated_at": "2026-08-28T12:01:14Z",
     "url": "https://github.com/NirDiamant/Agent_Memory_Techniques"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T12:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T12:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -157,7 +175,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2268,
+    "stars": 2269,
     "updated_at": "2026-08-28T11:37:32Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -288,15 +306,6 @@
     "url": "https://github.com/asimibnakhlaque/teaching-loop"
   },
   {
-    "description": "PDF RAG is an end-to-end Retrieval-Augmented Generation system for processing and querying PDF documents. It handles PDF",
-    "id": "UsamaImran/pdf-rag",
-    "language": "TypeScript",
-    "name": "UsamaImran/pdf-rag",
-    "stars": 0,
-    "updated_at": "2026-08-28T10:55:55Z",
-    "url": "https://github.com/UsamaImran/pdf-rag"
-  },
-  {
     "description": "Mnemosyne \u2014 AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search,",
     "id": "M4F-S/mnemosyne",
     "language": "Python",
@@ -356,17 +365,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6223,
-    "updated_at": "2026-08-28T10:21:59Z",
+    "updated_at": "2026-08-28T12:24:28Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Conversational RAG system built from first principles in .NET 10 (Clean Architecture), Qdrant Vector DB, Ollama, Groq, S",
-    "id": "adarshsince90/rag-dotnet",
-    "language": "C#",
-    "name": "adarshsince90/rag-dotnet",
-    "stars": 0,
-    "updated_at": "2026-08-28T10:16:31Z",
-    "url": "https://github.com/adarshsince90/rag-dotnet"
   },
   {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
@@ -383,7 +383,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1110,
-    "updated_at": "2026-08-28T12:14:49Z",
+    "updated_at": "2026-08-28T12:24:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -437,7 +437,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7073,
-    "updated_at": "2026-08-28T11:40:47Z",
+    "updated_at": "2026-08-28T12:18:17Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
