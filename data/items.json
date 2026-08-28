@@ -1,12 +1,93 @@
 [
   {
-    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
-    "id": "Mid-D-Man/msx",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T18:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 343,
+    "updated_at": "2026-08-28T18:43:13Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-28T18:42:49Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-28T18:41:48Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
     "language": "Rust",
-    "name": "Mid-D-Man/msx",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-28T18:39:47Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1700,
+    "updated_at": "2026-08-28T18:38:16Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Vector database implemented from first principles: HNSW, IVF+Product Quantization, write-ahead logging, and metadata fil",
+    "id": "PPaul14/nanovec",
+    "language": "Python",
+    "name": "PPaul14/nanovec",
     "stars": 0,
-    "updated_at": "2026-08-28T18:27:41Z",
-    "url": "https://github.com/Mid-D-Man/msx"
+    "updated_at": "2026-08-28T18:35:50Z",
+    "url": "https://github.com/PPaul14/nanovec"
+  },
+  {
+    "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-08-28T18:44:55Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 839,
+    "updated_at": "2026-08-28T18:40:30Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T18:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -18,22 +99,13 @@
     "url": "https://github.com/tamnd/yo"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 839,
-    "updated_at": "2026-08-28T18:29:38Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-28T18:20:31Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
+    "description": "Vector graphics format authored in DixScript, compressed with MBFA",
+    "id": "Mid-D-Man/msx",
+    "language": "Rust",
+    "name": "Mid-D-Man/msx",
+    "stars": 0,
+    "updated_at": "2026-08-28T18:27:41Z",
+    "url": "https://github.com/Mid-D-Man/msx"
   },
   {
     "description": "Knowledge Intelligence System for AI Research",
@@ -43,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T18:17:33Z",
     "url": "https://github.com/letuandatt/AI-Radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T18:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T18:15:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -79,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T18:10:44Z",
     "url": "https://github.com/BhanukaJanappriya/RAG-based-customer_support_chatbot-"
-  },
-  {
-    "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-08-28T18:29:28Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -139,7 +184,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65338,
+    "stars": 65339,
     "updated_at": "2026-08-28T17:49:41Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-28T17:16:21Z",
     "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-28T17:15:10Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "Demo integrating Pinecone with Neo4j to analyze and explore Supreme Court cases.",
-    "id": "pinecone-io/pinecone-neo4j-explorer",
-    "language": "TypeScript",
-    "name": "pinecone-io/pinecone-neo4j-explorer",
-    "stars": 10,
-    "updated_at": "2026-08-28T17:16:31Z",
-    "url": "https://github.com/pinecone-io/pinecone-neo4j-explorer"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-08-28T17:13:05Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-08-28T17:11:51Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-08-28T17:11:25Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
   }
 ]
