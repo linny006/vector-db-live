@@ -1,5 +1,23 @@
 [
   {
+    "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
+    "id": "M4F-S/gomaa",
+    "language": "Python",
+    "name": "M4F-S/gomaa",
+    "stars": 28,
+    "updated_at": "2026-08-28T20:44:38Z",
+    "url": "https://github.com/M4F-S/gomaa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T20:30:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,21 +36,12 @@
     "url": "https://github.com/tryAGI/Chroma"
   },
   {
-    "description": "Mnemosyne \u2014 AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search,",
-    "id": "M4F-S/mnemosyne",
-    "language": "Python",
-    "name": "M4F-S/mnemosyne",
-    "stars": 28,
-    "updated_at": "2026-08-28T20:24:46Z",
-    "url": "https://github.com/M4F-S/mnemosyne"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6385,
-    "updated_at": "2026-08-28T20:29:22Z",
+    "updated_at": "2026-08-28T20:31:10Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T20:23:40Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T20:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -185,7 +185,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1111,
-    "updated_at": "2026-08-28T20:26:45Z",
+    "updated_at": "2026-08-28T20:32:06Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -306,6 +306,15 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 851,
+    "updated_at": "2026-08-28T18:12:14Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
     "description": "Fully local RAG customer support chatbot \u2014 Llama 3.2 + LangChain + ChromaDB + FastAPI (SSE streaming) + Streamlit, with ",
     "id": "BhanukaJanappriya/RAG-based-customer_support_chatbot-",
     "language": "Python",
@@ -329,7 +338,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9205,
-    "updated_at": "2026-08-28T20:22:56Z",
+    "updated_at": "2026-08-28T20:37:00Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-28T17:36:58Z",
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45852,
-    "updated_at": "2026-08-28T17:35:33Z",
-    "url": "https://github.com/milvus-io/milvus"
   }
 ]
