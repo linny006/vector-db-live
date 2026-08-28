@@ -5,17 +5,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-28T02:45:19Z",
+    "updated_at": "2026-08-28T03:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Free, open-source collection of latest public API documentations - Update LLM's knowledge base with the latest API doc, ",
-    "id": "in-c0/updAPI",
-    "language": "JavaScript",
-    "name": "in-c0/updAPI",
-    "stars": 25,
-    "updated_at": "2026-08-28T02:34:21Z",
-    "url": "https://github.com/in-c0/updAPI"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -23,8 +14,17 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-28T02:43:54Z",
+    "updated_at": "2026-08-28T02:54:15Z",
     "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
+    "id": "Faraz6180/Insightpilot-ai",
+    "language": "Python",
+    "name": "Faraz6180/Insightpilot-ai",
+    "stars": 0,
+    "updated_at": "2026-08-28T02:53:17Z",
+    "url": "https://github.com/Faraz6180/Insightpilot-ai"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -32,8 +32,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-28T02:30:22Z",
+    "updated_at": "2026-08-28T02:45:25Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Free, open-source collection of latest public API documentations - Update LLM's knowledge base with the latest API doc, ",
+    "id": "in-c0/updAPI",
+    "language": "JavaScript",
+    "name": "in-c0/updAPI",
+    "stars": 25,
+    "updated_at": "2026-08-28T02:53:22Z",
+    "url": "https://github.com/in-c0/updAPI"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -41,7 +50,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45837,
-    "updated_at": "2026-08-28T02:29:27Z",
+    "updated_at": "2026-08-28T02:45:26Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -58,7 +67,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2697,
+    "stars": 2698,
     "updated_at": "2026-08-28T02:28:13Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -77,7 +86,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1109,
-    "updated_at": "2026-08-28T02:41:43Z",
+    "updated_at": "2026-08-28T02:59:43Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T22:42:12Z",
     "url": "https://github.com/jkelly-dev1/ai-data-boundary-proxy"
-  },
-  {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 29254,
-    "updated_at": "2026-08-27T22:40:12Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
   }
 ]
