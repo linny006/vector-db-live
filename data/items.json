@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-28T00:15:18Z",
+    "updated_at": "2026-08-28T00:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-style RAG system for querying AI/ML research papers \u2014 LangChain + LlamaIndex + Groq + Qdrant, with RAGAS eval",
+    "id": "JanaM-10/rag-papers-assistant",
+    "language": "Python",
+    "name": "JanaM-10/rag-papers-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-28T00:19:51Z",
+    "url": "https://github.com/JanaM-10/rag-papers-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T00:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-08-28T00:15:23Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -14,7 +41,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11298,
-    "updated_at": "2026-08-28T00:09:19Z",
+    "updated_at": "2026-08-28T00:26:10Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -32,7 +59,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1109,
-    "updated_at": "2026-08-28T00:10:54Z",
+    "updated_at": "2026-08-28T00:26:57Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -70,24 +97,6 @@
     "stars": 251,
     "updated_at": "2026-08-28T00:03:22Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T00:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-08-28T00:10:48Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -149,7 +158,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9204,
-    "updated_at": "2026-08-27T23:31:04Z",
+    "updated_at": "2026-08-28T00:16:57Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -319,7 +328,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45833,
+    "stars": 45834,
     "updated_at": "2026-08-27T22:15:27Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T22:04:23Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-08-27T22:04:15Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
