@@ -1,21 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T09:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-28T09:27:51Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "unohee/OpenSwarm",
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-28T09:12:18Z",
+    "updated_at": "2026-08-28T09:27:05Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
     "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1910,
-    "updated_at": "2026-08-28T09:06:38Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-28T09:24:28Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11301,
+    "updated_at": "2026-08-28T09:23:51Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-28T09:24:54Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T09:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
@@ -27,6 +72,15 @@
     "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
   },
   {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1910,
+    "updated_at": "2026-08-28T09:06:38Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
     "description": "An Agentic AI teaching platform featuring a human-in-the-loop architecture where teachers can dynamically guide AI tutor",
     "id": "asimibnakhlaque/teaching-loop",
     "language": "Python",
@@ -36,31 +90,13 @@
     "url": "https://github.com/asimibnakhlaque/teaching-loop"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T09:00:29Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T09:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-28T08:50:25Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+    "name": "qdrant/skills",
+    "stars": 226,
+    "updated_at": "2026-08-28T08:51:57Z",
+    "url": "https://github.com/qdrant/skills"
   },
   {
     "description": "AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje",
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T08:50:11Z",
     "url": "https://github.com/karthikbilaspur/ai_learning"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-28T09:08:49Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -194,7 +221,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7072,
-    "updated_at": "2026-08-28T09:10:50Z",
+    "updated_at": "2026-08-28T09:19:44Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -277,15 +304,6 @@
     "stars": 243,
     "updated_at": "2026-08-28T07:07:29Z",
     "url": "https://github.com/deven96/ahnlich"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11301,
-    "updated_at": "2026-08-28T08:44:24Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "AI-powered RAG assistant for Product Managers \u2014 ask natural-language questions across PRDs, meeting notes, and Jira expo",
@@ -391,7 +409,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34239,
+    "stars": 34240,
     "updated_at": "2026-08-28T05:32:45Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T05:08:42Z",
     "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-08-28T05:07:43Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
-    "id": "Wry-letters233/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Wry-letters233/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-08-28T05:07:18Z",
-    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
   }
 ]
