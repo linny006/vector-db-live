@@ -1,12 +1,39 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T21:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 343,
+    "updated_at": "2026-08-28T20:55:08Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
     "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
     "id": "M4F-S/gomaa",
     "language": "Python",
     "name": "M4F-S/gomaa",
     "stars": 28,
-    "updated_at": "2026-08-28T20:44:38Z",
+    "updated_at": "2026-08-28T20:47:56Z",
     "url": "https://github.com/M4F-S/gomaa"
+  },
+  {
+    "description": "GrainVDB: High-performance vector search engine written in native C++ and Metal. Optimized for Apple Silicon Unified Mem",
+    "id": "21e8-miner/grain-vdb",
+    "language": "Python",
+    "name": "21e8-miner/grain-vdb",
+    "stars": 0,
+    "updated_at": "2026-08-28T20:47:36Z",
+    "url": "https://github.com/21e8-miner/grain-vdb"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +41,8 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-28T20:30:34Z",
+    "updated_at": "2026-08-28T20:45:43Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T20:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "C# SDK for the Chroma API -- open-source vector database",
@@ -243,15 +261,6 @@
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-08-28T18:43:13Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
     "id": "EVEDensity/AgentHub",
     "language": "Python",
@@ -311,7 +320,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 851,
-    "updated_at": "2026-08-28T18:12:14Z",
+    "updated_at": "2026-08-28T20:50:38Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -324,21 +333,12 @@
     "url": "https://github.com/BhanukaJanappriya/RAG-based-customer_support_chatbot-"
   },
   {
-    "description": "GrainVDB: High-performance vector search engine written in native C++ and Metal. Optimized for Apple Silicon Unified Mem",
-    "id": "21e8-miner/grain-vdb",
-    "language": "Python",
-    "name": "21e8-miner/grain-vdb",
-    "stars": 0,
-    "updated_at": "2026-08-28T18:03:33Z",
-    "url": "https://github.com/21e8-miner/grain-vdb"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9205,
-    "updated_at": "2026-08-28T20:37:00Z",
+    "updated_at": "2026-08-28T20:54:36Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -364,7 +364,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65342,
+    "stars": 65343,
     "updated_at": "2026-08-28T17:49:41Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
