@@ -1,12 +1,21 @@
 [
   {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1347,
-    "updated_at": "2026-08-28T20:14:57Z",
-    "url": "https://github.com/infinispan/infinispan"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T20:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "C# SDK for the Chroma API -- open-source vector database",
+    "id": "tryAGI/Chroma",
+    "language": "C#",
+    "name": "tryAGI/Chroma",
+    "stars": 1,
+    "updated_at": "2026-08-28T20:24:50Z",
+    "url": "https://github.com/tryAGI/Chroma"
   },
   {
     "description": "Mnemosyne \u2014 AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search,",
@@ -14,7 +23,7 @@
     "language": "Python",
     "name": "M4F-S/mnemosyne",
     "stars": 28,
-    "updated_at": "2026-08-28T20:13:11Z",
+    "updated_at": "2026-08-28T20:24:46Z",
     "url": "https://github.com/M4F-S/mnemosyne"
   },
   {
@@ -23,8 +32,35 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6385,
-    "updated_at": "2026-08-28T20:07:29Z",
+    "updated_at": "2026-08-28T20:29:22Z",
     "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-28T20:23:40Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T20:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1347,
+    "updated_at": "2026-08-28T20:14:57Z",
+    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": "An autonomous, self-learning cognitive engine with 4-tier persistent memory, verified skill synthesis, and closed-world ",
@@ -43,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T20:02:30Z",
     "url": "https://github.com/JanaM-10/rag-papers-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T20:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T20:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -153,15 +171,6 @@
     "url": "https://github.com/swatijreddy/rag-support-agent-ragas-eval"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-28T19:02:17Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
     "id": "nadeem4/nl2sql",
     "language": "Python",
@@ -176,7 +185,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1111,
-    "updated_at": "2026-08-28T19:00:22Z",
+    "updated_at": "2026-08-28T20:26:45Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -320,7 +329,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9205,
-    "updated_at": "2026-08-28T18:54:42Z",
+    "updated_at": "2026-08-28T20:22:56Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 45852,
     "updated_at": "2026-08-28T17:35:33Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-08-28T17:34:11Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
   }
 ]
