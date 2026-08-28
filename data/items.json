@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T02:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Versioned, fast and scalable nearest neighbor search.",
+    "id": "replikativ/proximum",
+    "language": "Clojure",
+    "name": "replikativ/proximum",
+    "stars": 30,
+    "updated_at": "2026-08-28T01:58:09Z",
+    "url": "https://github.com/replikativ/proximum"
+  },
+  {
+    "description": "Free, open-source collection of latest public API documentations - Update LLM's knowledge base with the latest API doc, ",
+    "id": "in-c0/updAPI",
+    "language": "JavaScript",
+    "name": "in-c0/updAPI",
+    "stars": 25,
+    "updated_at": "2026-08-28T01:52:12Z",
+    "url": "https://github.com/in-c0/updAPI"
+  },
+  {
+    "description": "Local knowledge base lifecycle manager for dsh: multi-format import, hybrid search with per-stage debug scores, snapshot",
+    "id": "xiaoshi7915/dsh-kb-manager",
+    "language": "TypeScript",
+    "name": "xiaoshi7915/dsh-kb-manager",
+    "stars": 1,
+    "updated_at": "2026-08-28T01:48:39Z",
+    "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T01:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -32,7 +77,7 @@
     "language": "Python",
     "name": "verygoodplugins/automem",
     "stars": 803,
-    "updated_at": "2026-08-28T01:43:13Z",
+    "updated_at": "2026-08-28T01:59:37Z",
     "url": "https://github.com/verygoodplugins/automem"
   },
   {
@@ -50,7 +95,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 0,
-    "updated_at": "2026-08-28T01:36:22Z",
+    "updated_at": "2026-08-28T01:51:14Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -59,26 +104,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9424,
-    "updated_at": "2026-08-28T01:38:44Z",
+    "updated_at": "2026-08-28T01:59:02Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T01:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T01:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -86,7 +113,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6384,
-    "updated_at": "2026-08-28T01:42:16Z",
+    "updated_at": "2026-08-28T01:46:37Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -97,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-08-28T01:25:02Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45835,
+    "updated_at": "2026-08-28T01:23:26Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -130,7 +166,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65306,
+    "stars": 65307,
     "updated_at": "2026-08-28T00:58:39Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -193,7 +229,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51894,
+    "stars": 51895,
     "updated_at": "2026-08-28T00:11:53Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -212,7 +248,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1109,
-    "updated_at": "2026-08-28T01:45:04Z",
+    "updated_at": "2026-08-28T01:58:50Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -277,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-08-27T23:21:46Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Free, open-source collection of latest public API documentations - Update LLM's knowledge base with the latest API doc, ",
-    "id": "in-c0/updAPI",
-    "language": "JavaScript",
-    "name": "in-c0/updAPI",
-    "stars": 25,
-    "updated_at": "2026-08-27T23:18:44Z",
-    "url": "https://github.com/in-c0/updAPI"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-27T22:15:47Z",
     "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45834,
-    "updated_at": "2026-08-28T01:23:26Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
-    "id": "Wry-letters233/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Wry-letters233/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:15:14Z",
-    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
-  },
-  {
-    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
-    "id": "retrograde-prosceniumwall239/ai-search-engine",
-    "language": "Python",
-    "name": "retrograde-prosceniumwall239/ai-search-engine",
-    "stars": 1,
-    "updated_at": "2026-08-27T22:15:05Z",
-    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
   }
 ]
