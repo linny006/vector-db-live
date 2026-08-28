@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-28 19:26 UTC
+> ⏰ Last updated: 2026-08-28 19:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,18 +42,18 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-28 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-28 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 3 | [vanedb/vanedb-cpp](https://github.com/vanedb/vanedb-cpp) | 4 | C++ | 2026-08-28 | C++ header-only implementation of VaneDB — embeddable vector database for edge AI. See vanedb/vanedb for the Rust crate  |
-| 4 | [Western-1/rag-doc-chat](https://github.com/Western-1/rag-doc-chat) | 1 | Python | 2026-08-28 | Production-grade RAG System: FastAPI, Qdrant & Groq. Features Langfuse observability, Prometheus/Grafana monitoring, W&B |
-| 5 | [swatijreddy/rag-support-agent-ragas-eval](https://github.com/swatijreddy/rag-support-agent-ragas-eval) | 0 | Python | 2026-08-28 | RAGAS evaluation of a n8n RAG support agent — measures faithfulness, context precision, context recall, and answer relev |
-| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-28 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 7 | [nadeem4/nl2sql](https://github.com/nadeem4/nl2sql) | 4 | Python | 2026-08-28 | NL2SQL is an enterprise-grade, multi-agent NL→SQL system that delivers accurate, safe, and deterministic SQL with schema |
-| 8 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1111 | Java | 2026-08-28 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 9 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11306 | Rust | 2026-08-28 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 10 | [swatijreddy/rag-support-agent-pipeline](https://github.com/swatijreddy/rag-support-agent-pipeline) | 0 | — | 2026-08-28 | RAG-based support agent built in n8n using Supabase vector search and Google Gemini, with automatic document sync and er |
-| 11 | [PPaul14/nanovec](https://github.com/PPaul14/nanovec) | 0 | Python | 2026-08-28 | Vector database implemented from first principles: HNSW, IVF+Product Quantization, write-ahead logging, and metadata fil |
-| 12 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-08-28 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 1 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-08-28 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-28 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-28 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [vanedb/vanedb-cpp](https://github.com/vanedb/vanedb-cpp) | 4 | C++ | 2026-08-28 | C++ header-only implementation of VaneDB — embeddable vector database for edge AI. See vanedb/vanedb for the Rust crate  |
+| 5 | [Western-1/rag-doc-chat](https://github.com/Western-1/rag-doc-chat) | 1 | Python | 2026-08-28 | Production-grade RAG System: FastAPI, Qdrant & Groq. Features Langfuse observability, Prometheus/Grafana monitoring, W&B |
+| 6 | [swatijreddy/rag-support-agent-ragas-eval](https://github.com/swatijreddy/rag-support-agent-ragas-eval) | 0 | Python | 2026-08-28 | RAGAS evaluation of a n8n RAG support agent — measures faithfulness, context precision, context recall, and answer relev |
+| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-28 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 8 | [nadeem4/nl2sql](https://github.com/nadeem4/nl2sql) | 4 | Python | 2026-08-28 | NL2SQL is an enterprise-grade, multi-agent NL→SQL system that delivers accurate, safe, and deterministic SQL with schema |
+| 9 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1111 | Java | 2026-08-28 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 10 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11306 | Rust | 2026-08-28 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 11 | [swatijreddy/rag-support-agent-pipeline](https://github.com/swatijreddy/rag-support-agent-pipeline) | 0 | — | 2026-08-28 | RAG-based support agent built in n8n using Supabase vector search and Google Gemini, with automatic document sync and er |
+| 12 | [PPaul14/nanovec](https://github.com/PPaul14/nanovec) | 0 | Python | 2026-08-28 | Vector database implemented from first principles: HNSW, IVF+Product Quantization, write-ahead logging, and metadata fil |
 | 13 | [Andy-randy/rag-telegram-faq-bot](https://github.com/Andy-randy/rag-telegram-faq-bot) | 0 | — | 2026-08-28 | RAG-powered Telegram FAQ assistant with separate ingestion and query workflows using n8n and Supabase. |
 | 14 | [Toskurim/vector-unforget](https://github.com/Toskurim/vector-unforget) | 3 | Python | 2026-08-28 | Enterprise-grade GDPR/CCPA Vector Unlearning & PII Oblivion Middleware. Instant O(N·D) Orthogonal Subspace Projection, N |
 | 15 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 839 | TypeScript | 2026-08-28 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
