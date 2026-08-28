@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-28T21:30:27Z",
+    "updated_at": "2026-08-28T21:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,71 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 65343,
-    "updated_at": "2026-08-28T21:23:07Z",
+    "updated_at": "2026-08-28T21:44:17Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 585,
+    "updated_at": "2026-08-28T21:44:12Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1111,
+    "updated_at": "2026-08-28T21:42:09Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 30,
+    "updated_at": "2026-08-28T21:41:02Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "A Telecom Customer Care chatbot built with RAG using LangChain, Chroma, Hugging Face embeddings, and Groq. Retrieves inf",
+    "id": "saichilukuri96/Telecom_Chatbot",
+    "language": "Python",
+    "name": "saichilukuri96/Telecom_Chatbot",
+    "stars": 0,
+    "updated_at": "2026-08-28T21:39:56Z",
+    "url": "https://github.com/saichilukuri96/Telecom_Chatbot"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 839,
+    "updated_at": "2026-08-28T21:36:56Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-08-28T21:36:52Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T21:30:39Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -36,15 +99,6 @@
     "url": "https://github.com/23skdu/longbow"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1111,
-    "updated_at": "2026-08-28T21:26:26Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -52,15 +106,6 @@
     "stars": 7073,
     "updated_at": "2026-08-28T21:16:42Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T21:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
@@ -86,7 +131,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9205,
-    "updated_at": "2026-08-28T21:28:25Z",
+    "updated_at": "2026-08-28T21:45:20Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -369,15 +414,6 @@
     "url": "https://github.com/Toskurim/vector-unforget"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 839,
-    "updated_at": "2026-08-28T21:24:27Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
     "id": "EVEDensity/AgentHub",
     "language": "Python",
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-28T21:26:52Z",
+    "updated_at": "2026-08-28T21:42:09Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T18:27:41Z",
     "url": "https://github.com/Mid-D-Man/msx"
-  },
-  {
-    "description": "Knowledge Intelligence System for AI Research",
-    "id": "letuandatt/AI-Radar",
-    "language": "Python",
-    "name": "letuandatt/AI-Radar",
-    "stars": 1,
-    "updated_at": "2026-08-28T18:17:33Z",
-    "url": "https://github.com/letuandatt/AI-Radar"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2270,
-    "updated_at": "2026-08-28T18:13:37Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 851,
-    "updated_at": "2026-08-28T21:10:25Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Fully local RAG customer support chatbot \u2014 Llama 3.2 + LangChain + ChromaDB + FastAPI (SSE streaming) + Streamlit, with ",
-    "id": "BhanukaJanappriya/RAG-based-customer_support_chatbot-",
-    "language": "Python",
-    "name": "BhanukaJanappriya/RAG-based-customer_support_chatbot-",
-    "stars": 1,
-    "updated_at": "2026-08-28T18:10:44Z",
-    "url": "https://github.com/BhanukaJanappriya/RAG-based-customer_support_chatbot-"
   }
 ]
