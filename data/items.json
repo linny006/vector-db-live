@@ -1,11 +1,83 @@
 [
   {
+    "description": "This is a hobby project to build a Graph database in Rust.",
+    "id": "gmr/dotilla",
+    "language": "Rust",
+    "name": "gmr/dotilla",
+    "stars": 1,
+    "updated_at": "2026-08-28T03:54:54Z",
+    "url": "https://github.com/gmr/dotilla"
+  },
+  {
+    "description": "Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessi",
+    "id": "verygoodplugins/automem",
+    "language": "Python",
+    "name": "verygoodplugins/automem",
+    "stars": 803,
+    "updated_at": "2026-08-28T03:54:32Z",
+    "url": "https://github.com/verygoodplugins/automem"
+  },
+  {
+    "description": "Search and relevance across four stores -- vector embeddings, graph, full-text and relational -- measuring the ROUTING D",
+    "id": "jkelly-dev1/federated-retrieval-router",
+    "language": "Python",
+    "name": "jkelly-dev1/federated-retrieval-router",
+    "stars": 0,
+    "updated_at": "2026-08-28T03:53:10Z",
+    "url": "https://github.com/jkelly-dev1/federated-retrieval-router"
+  },
+  {
+    "description": "A data-boundary proxy for AI systems that measures what its own controls miss: PII detection with recall below 1.0, egre",
+    "id": "jkelly-dev1/ai-data-boundary-proxy",
+    "language": "Python",
+    "name": "jkelly-dev1/ai-data-boundary-proxy",
+    "stars": 0,
+    "updated_at": "2026-08-28T03:52:35Z",
+    "url": "https://github.com/jkelly-dev1/ai-data-boundary-proxy"
+  },
+  {
+    "description": "Official website and documentation for ParqDB.",
+    "id": "parqdb-io/parqdb-io.github.io",
+    "language": "Astro",
+    "name": "parqdb-io/parqdb-io.github.io",
+    "stars": 0,
+    "updated_at": "2026-08-28T03:50:19Z",
+    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
+  },
+  {
+    "description": "Reconciling memory layer for AI agents. Get only current facts, not stale ones",
+    "id": "vayl-dev/vayl",
+    "language": "Python",
+    "name": "vayl-dev/vayl",
+    "stars": 1,
+    "updated_at": "2026-08-28T03:49:17Z",
+    "url": "https://github.com/vayl-dev/vayl"
+  },
+  {
+    "description": "AI Engineering Specially Topics- Agentic AI & GenAI  Explanation ",
+    "id": "Ratnesh-181998/AI-Engineer",
+    "language": "\u2014",
+    "name": "Ratnesh-181998/AI-Engineer",
+    "stars": 111,
+    "updated_at": "2026-08-28T03:45:46Z",
+    "url": "https://github.com/Ratnesh-181998/AI-Engineer"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T03:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-28T03:45:19Z",
+    "updated_at": "2026-08-28T04:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,30 +90,12 @@
     "url": "https://github.com/21e8-miner/grain-vdb"
   },
   {
-    "description": "AI Engineering Specially Topics- Agentic AI & GenAI  Explanation ",
-    "id": "Ratnesh-181998/AI-Engineer",
-    "language": "\u2014",
-    "name": "Ratnesh-181998/AI-Engineer",
-    "stars": 111,
-    "updated_at": "2026-08-28T03:39:59Z",
-    "url": "https://github.com/Ratnesh-181998/AI-Engineer"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T03:30:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
     "id": "nadeem4/nl2sql",
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-08-28T03:19:10Z",
+    "updated_at": "2026-08-28T03:57:59Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9204,
-    "updated_at": "2026-08-28T03:36:07Z",
+    "updated_at": "2026-08-28T03:48:01Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -72,13 +126,13 @@
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
-    "description": "This is a hobby project to build a Graph database in Rust.",
-    "id": "gmr/dotilla",
-    "language": "Rust",
-    "name": "gmr/dotilla",
-    "stars": 1,
-    "updated_at": "2026-08-28T03:10:22Z",
-    "url": "https://github.com/gmr/dotilla"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45839,
+    "updated_at": "2026-08-28T03:07:26Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -99,13 +153,13 @@
     "url": "https://github.com/Faraz6180/Insightpilot-ai"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45838,
-    "updated_at": "2026-08-28T03:07:26Z",
-    "url": "https://github.com/milvus-io/milvus"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34232,
+    "updated_at": "2026-08-28T02:37:10Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Free, open-source collection of latest public API documentations - Update LLM's knowledge base with the latest API doc, ",
@@ -140,7 +194,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1109,
-    "updated_at": "2026-08-28T03:44:25Z",
+    "updated_at": "2026-08-28T04:00:18Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9424,
-    "updated_at": "2026-08-28T03:31:08Z",
+    "updated_at": "2026-08-28T03:56:41Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -169,15 +223,6 @@
     "stars": 6384,
     "updated_at": "2026-08-28T02:36:53Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessi",
-    "id": "verygoodplugins/automem",
-    "language": "Python",
-    "name": "verygoodplugins/automem",
-    "stars": 803,
-    "updated_at": "2026-08-28T03:43:33Z",
-    "url": "https://github.com/verygoodplugins/automem"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -275,7 +320,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-28T03:44:06Z",
+    "updated_at": "2026-08-28T03:53:43Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -283,7 +328,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65310,
+    "stars": 65311,
     "updated_at": "2026-08-28T00:58:39Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -396,57 +441,12 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-08-27T23:21:46Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-27T23:18:14Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 468,
-    "updated_at": "2026-08-27T23:12:44Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34231,
-    "updated_at": "2026-08-28T02:37:10Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "\ud83d\ude80 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTP",
-    "id": "kossakovsky/selfhost-ai",
-    "language": "Shell",
-    "name": "kossakovsky/selfhost-ai",
-    "stars": 921,
-    "updated_at": "2026-08-27T23:09:19Z",
-    "url": "https://github.com/kossakovsky/selfhost-ai"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 5,
-    "updated_at": "2026-08-27T22:59:08Z",
-    "url": "https://github.com/Yasou13/MESA"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16758,
+    "updated_at": "2026-08-27T23:28:29Z",
+    "url": "https://github.com/weaviate/weaviate"
   }
 ]
