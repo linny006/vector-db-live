@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-28 10:00 UTC
+> ⏰ Last updated: 2026-08-28 10:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,37 +42,37 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1110 | Java | 2026-08-28 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 2 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 839 | TypeScript | 2026-08-28 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
-| 3 | [parqdb-io/parqdb-io.github.io](https://github.com/parqdb-io/parqdb-io.github.io) | 0 | Astro | 2026-08-28 | Official website and documentation for ParqDB. |
-| 4 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-08-28 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 5 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30313 | Python | 2026-08-28 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 6 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-08-28 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
-| 7 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-28 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-28 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-28 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 10 | [Chief-Strategist-J/llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | 4 | Python | 2026-08-28 | -  |
-| 11 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-28 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 12 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6222 | Rust | 2026-08-28 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 13 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1881 | Go | 2026-08-28 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 14 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 25 | Python | 2026-08-28 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
-| 15 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11301 | Rust | 2026-08-28 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 16 | [ankush-poonia007/STARTUP-AI-AGENT](https://github.com/ankush-poonia007/STARTUP-AI-AGENT) | 5 | Python | 2026-08-28 | AI-powered startup intelligence agent — hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde |
-| 17 | [MariaDB/server](https://github.com/MariaDB/server) | 8150 | C++ | 2026-08-28 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 18 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 1910 | Python | 2026-08-28 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
-| 19 | [asimibnakhlaque/teaching-loop](https://github.com/asimibnakhlaque/teaching-loop) | 0 | Python | 2026-08-28 | An Agentic AI teaching platform featuring a human-in-the-loop architecture where teachers can dynamically guide AI tutor |
-| 20 | [qdrant/skills](https://github.com/qdrant/skills) | 226 | Python | 2026-08-28 | Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model  |
-| 21 | [karthikbilaspur/ai_learning](https://github.com/karthikbilaspur/ai_learning) | 1 | TypeScript | 2026-08-28 | AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje |
-| 22 | [redis/redis-vl-python](https://github.com/redis/redis-vl-python) | 424 | Python | 2026-08-28 | Redis Vector Library (RedisVL) -- the AI-native Python client for Redis. |
-| 23 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-08-28 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 24 | [luispintoapify/ecommerce-agent-starter](https://github.com/luispintoapify/ecommerce-agent-starter) | 3 | Python | 2026-08-28 | Wire an AI agent to live product data over the Apify MCP server: price, stock, rating and images as structured fields. R |
-| 25 | [thelastpickle/open-htap-stack](https://github.com/thelastpickle/open-htap-stack) | 3 | Python | 2026-08-28 | Simple scalable low-latency HTAP Data Platform.     Vendor‑neutral Open Source. |
-| 26 | [nishan-paul-hello/cmatrix-agentic-red-team](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team) | 0 | TypeScript | 2026-08-28 | 🛡️ CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern  |
-| 27 | [makralabs/makra](https://github.com/makralabs/makra) | 2 | Python | 2026-08-28 | Makra is a memory layer between the web and your AI agents. It serves real-time structured data from the open web at the |
-| 28 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6385 | TypeScript | 2026-08-28 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
-| 29 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12972 | Java | 2026-08-28 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
-| 30 | [amirhosssein0/ai-platform-lab](https://github.com/amirhosssein0/ai-platform-lab) | 4 | TypeScript | 2026-08-28 | Security-first AI platform on Kubernetes — FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa |
-| 31 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45847 | Go | 2026-08-28 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-28 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6385 | TypeScript | 2026-08-28 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
+| 3 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 839 | TypeScript | 2026-08-28 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
+| 4 | [parqdb-io/parqdb-io.github.io](https://github.com/parqdb-io/parqdb-io.github.io) | 0 | Astro | 2026-08-28 | Official website and documentation for ParqDB. |
+| 5 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-08-28 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 6 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1110 | Java | 2026-08-28 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 7 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45848 | Go | 2026-08-28 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 8 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6222 | Rust | 2026-08-28 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-28 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 10 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-08-28 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 11 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30313 | Python | 2026-08-28 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 12 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-28 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 13 | [Chief-Strategist-J/llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | 4 | Python | 2026-08-28 | -  |
+| 14 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-08-28 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 15 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1881 | Go | 2026-08-28 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 16 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 25 | Python | 2026-08-28 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
+| 17 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11301 | Rust | 2026-08-28 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 18 | [ankush-poonia007/STARTUP-AI-AGENT](https://github.com/ankush-poonia007/STARTUP-AI-AGENT) | 5 | Python | 2026-08-28 | AI-powered startup intelligence agent — hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde |
+| 19 | [MariaDB/server](https://github.com/MariaDB/server) | 8150 | C++ | 2026-08-28 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 20 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 1910 | Python | 2026-08-28 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
+| 21 | [asimibnakhlaque/teaching-loop](https://github.com/asimibnakhlaque/teaching-loop) | 0 | Python | 2026-08-28 | An Agentic AI teaching platform featuring a human-in-the-loop architecture where teachers can dynamically guide AI tutor |
+| 22 | [qdrant/skills](https://github.com/qdrant/skills) | 226 | Python | 2026-08-28 | Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model  |
+| 23 | [karthikbilaspur/ai_learning](https://github.com/karthikbilaspur/ai_learning) | 1 | TypeScript | 2026-08-28 | AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje |
+| 24 | [redis/redis-vl-python](https://github.com/redis/redis-vl-python) | 424 | Python | 2026-08-28 | Redis Vector Library (RedisVL) -- the AI-native Python client for Redis. |
+| 25 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-08-28 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 26 | [luispintoapify/ecommerce-agent-starter](https://github.com/luispintoapify/ecommerce-agent-starter) | 3 | Python | 2026-08-28 | Wire an AI agent to live product data over the Apify MCP server: price, stock, rating and images as structured fields. R |
+| 27 | [thelastpickle/open-htap-stack](https://github.com/thelastpickle/open-htap-stack) | 3 | Python | 2026-08-28 | Simple scalable low-latency HTAP Data Platform.     Vendor‑neutral Open Source. |
+| 28 | [nishan-paul-hello/cmatrix-agentic-red-team](https://github.com/nishan-paul-hello/cmatrix-agentic-red-team) | 0 | TypeScript | 2026-08-28 | 🛡️ CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern  |
+| 29 | [makralabs/makra](https://github.com/makralabs/makra) | 2 | Python | 2026-08-28 | Makra is a memory layer between the web and your AI agents. It serves real-time structured data from the open web at the |
+| 30 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 12972 | Java | 2026-08-28 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
+| 31 | [amirhosssein0/ai-platform-lab](https://github.com/amirhosssein0/ai-platform-lab) | 4 | TypeScript | 2026-08-28 | Security-first AI platform on Kubernetes — FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa |
 | 32 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7072 | Java | 2026-08-28 | The AI search platform |
 | 33 | [Cognipeer/console](https://github.com/Cognipeer/console) | 23 | TypeScript | 2026-08-28 | Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub,  |
 | 34 | [pragmaticcs/trovadb](https://github.com/pragmaticcs/trovadb) | 0 | Python | 2026-08-28 | A minimalistic, pure-Python vector database for semantic search and RAG applications, featuring Vamana graph indexing an |

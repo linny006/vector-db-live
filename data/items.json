@@ -1,12 +1,21 @@
 [
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1110,
-    "updated_at": "2026-08-28T10:00:04Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T10:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6385,
+    "updated_at": "2026-08-28T10:12:19Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -14,7 +23,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-28T09:59:59Z",
+    "updated_at": "2026-08-28T10:07:57Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -23,8 +32,53 @@
     "language": "Astro",
     "name": "parqdb-io/parqdb-io.github.io",
     "stars": 0,
-    "updated_at": "2026-08-28T09:52:47Z",
+    "updated_at": "2026-08-28T10:07:47Z",
     "url": "https://github.com/parqdb-io/parqdb-io.github.io"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-28T10:05:09Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1110,
+    "updated_at": "2026-08-28T10:03:38Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45848,
+    "updated_at": "2026-08-28T10:03:27Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6222,
+    "updated_at": "2026-08-28T10:08:07Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T10:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -45,15 +99,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-28T09:55:55Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -61,24 +106,6 @@
     "stars": 7,
     "updated_at": "2026-08-28T09:46:33Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T09:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T10:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "- ",
@@ -99,15 +126,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6222,
-    "updated_at": "2026-08-28T09:39:15Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "EVEDensity/AgentHub",
     "stars": 25,
-    "updated_at": "2026-08-28T09:24:28Z",
+    "updated_at": "2026-08-28T10:13:39Z",
     "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
@@ -243,21 +261,12 @@
     "url": "https://github.com/makralabs/makra"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6385,
-    "updated_at": "2026-08-28T08:00:02Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 12972,
-    "updated_at": "2026-08-28T07:55:23Z",
+    "updated_at": "2026-08-28T10:07:33Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -268,15 +277,6 @@
     "stars": 4,
     "updated_at": "2026-08-28T07:52:30Z",
     "url": "https://github.com/amirhosssein0/ai-platform-lab"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45847,
-    "updated_at": "2026-08-28T09:43:26Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "The AI search platform",
