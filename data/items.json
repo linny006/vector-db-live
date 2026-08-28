@@ -1,11 +1,74 @@
 [
   {
+    "description": "Milvus vector database security scanner",
+    "id": "sshpie/milvscan",
+    "language": "Go",
+    "name": "sshpie/milvscan",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:11:23Z",
+    "url": "https://github.com/sshpie/milvscan"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-28T23:06:35Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:01:58Z",
+    "url": "https://github.com/api-evangelist/chroma"
+  },
+  {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma-db",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma-db",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:01:56Z",
+    "url": "https://github.com/api-evangelist/chroma-db"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:01:45Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-28T23:00:32Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T23:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-28T23:00:20Z",
+    "updated_at": "2026-08-28T23:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,17 +95,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9206,
-    "updated_at": "2026-08-28T22:59:29Z",
+    "updated_at": "2026-08-28T23:14:18Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T22:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -70,15 +124,6 @@
     "stars": 16,
     "updated_at": "2026-08-28T22:34:14Z",
     "url": "https://github.com/batuhanzorbeyzengin/rebasis"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-28T22:33:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
@@ -171,13 +216,13 @@
     "url": "https://github.com/monaccode/astromesh"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-28T22:01:05Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34249,
+    "updated_at": "2026-08-28T22:05:57Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -194,7 +239,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45853,
-    "updated_at": "2026-08-28T22:25:28Z",
+    "updated_at": "2026-08-28T23:01:27Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -351,15 +396,6 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34248,
-    "updated_at": "2026-08-28T22:05:57Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "An autonomous, self-learning cognitive engine with 4-tier persistent memory, verified skill synthesis, and closed-world ",
     "id": "Teodorsmith/solaris-zarya-engine",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T19:47:14Z",
     "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-28T19:42:22Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "C++ header-only implementation of VaneDB \u2014 embeddable vector database for edge AI. See vanedb/vanedb for the Rust crate ",
-    "id": "vanedb/vanedb-cpp",
-    "language": "C++",
-    "name": "vanedb/vanedb-cpp",
-    "stars": 4,
-    "updated_at": "2026-08-28T19:12:24Z",
-    "url": "https://github.com/vanedb/vanedb-cpp"
-  },
-  {
-    "description": "Production-grade RAG System: FastAPI, Qdrant & Groq. Features Langfuse observability, Prometheus/Grafana monitoring, W&B",
-    "id": "Western-1/rag-doc-chat",
-    "language": "Python",
-    "name": "Western-1/rag-doc-chat",
-    "stars": 1,
-    "updated_at": "2026-08-28T19:12:16Z",
-    "url": "https://github.com/Western-1/rag-doc-chat"
-  },
-  {
-    "description": "RAGAS evaluation of a n8n RAG support agent \u2014 measures faithfulness, context precision, context recall, and answer relev",
-    "id": "swatijreddy/rag-support-agent-ragas-eval",
-    "language": "Python",
-    "name": "swatijreddy/rag-support-agent-ragas-eval",
-    "stars": 0,
-    "updated_at": "2026-08-28T19:09:35Z",
-    "url": "https://github.com/swatijreddy/rag-support-agent-ragas-eval"
   }
 ]
