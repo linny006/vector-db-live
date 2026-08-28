@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-28T10:15:22Z",
+    "updated_at": "2026-08-28T10:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
+    "id": "Parth-2004/Historical-AI-Assistant",
+    "language": "Python",
+    "name": "Parth-2004/Historical-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-08-28T10:26:04Z",
+    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-28T10:18:44Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "An Agentic AI teaching platform featuring a human-in-the-loop architecture where teachers can dynamically guide AI tutor",
+    "id": "asimibnakhlaque/teaching-loop",
+    "language": "Python",
+    "name": "asimibnakhlaque/teaching-loop",
+    "stars": 0,
+    "updated_at": "2026-08-28T10:17:32Z",
+    "url": "https://github.com/asimibnakhlaque/teaching-loop"
+  },
+  {
+    "description": "Official website and documentation for ParqDB.",
+    "id": "parqdb-io/parqdb-io.github.io",
+    "language": "Astro",
+    "name": "parqdb-io/parqdb-io.github.io",
+    "stars": 0,
+    "updated_at": "2026-08-28T10:17:10Z",
+    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 0,
+    "updated_at": "2026-08-28T10:16:07Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T10:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -27,21 +81,12 @@
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
-    "description": "Official website and documentation for ParqDB.",
-    "id": "parqdb-io/parqdb-io.github.io",
-    "language": "Astro",
-    "name": "parqdb-io/parqdb-io.github.io",
-    "stars": 0,
-    "updated_at": "2026-08-28T10:07:47Z",
-    "url": "https://github.com/parqdb-io/parqdb-io.github.io"
-  },
-  {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
     "id": "tamnd/yo",
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-28T10:05:09Z",
+    "updated_at": "2026-08-28T10:26:40Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -68,17 +113,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6222,
-    "updated_at": "2026-08-28T10:08:07Z",
+    "updated_at": "2026-08-28T10:21:59Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T10:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -135,15 +171,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-28T10:13:39Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -167,7 +194,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8150,
-    "updated_at": "2026-08-28T09:14:52Z",
+    "updated_at": "2026-08-28T10:29:52Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -178,15 +205,6 @@
     "stars": 1910,
     "updated_at": "2026-08-28T09:06:38Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "An Agentic AI teaching platform featuring a human-in-the-loop architecture where teachers can dynamically guide AI tutor",
-    "id": "asimibnakhlaque/teaching-loop",
-    "language": "Python",
-    "name": "asimibnakhlaque/teaching-loop",
-    "stars": 0,
-    "updated_at": "2026-08-28T09:47:26Z",
-    "url": "https://github.com/asimibnakhlaque/teaching-loop"
   },
   {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
@@ -256,7 +274,7 @@
     "id": "makralabs/makra",
     "language": "Python",
     "name": "makralabs/makra",
-    "stars": 2,
+    "stars": 7,
     "updated_at": "2026-08-28T08:25:05Z",
     "url": "https://github.com/makralabs/makra"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T06:25:56Z",
     "url": "https://github.com/sodrooome/knowledge-engine"
-  },
-  {
-    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
-    "id": "kichikubeihei/CodeMemoryPrime",
-    "language": "Rust",
-    "name": "kichikubeihei/CodeMemoryPrime",
-    "stars": 0,
-    "updated_at": "2026-08-28T05:53:46Z",
-    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15532,
-    "updated_at": "2026-08-28T05:48:57Z",
-    "url": "https://github.com/alibaba/zvec"
   }
 ]
