@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T19:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "C++ header-only implementation of VaneDB \u2014 embeddable vector database for edge AI. See vanedb/vanedb for the Rust crate ",
+    "id": "vanedb/vanedb-cpp",
+    "language": "C++",
+    "name": "vanedb/vanedb-cpp",
+    "stars": 4,
+    "updated_at": "2026-08-28T19:12:24Z",
+    "url": "https://github.com/vanedb/vanedb-cpp"
+  },
+  {
+    "description": "Production-grade RAG System: FastAPI, Qdrant & Groq. Features Langfuse observability, Prometheus/Grafana monitoring, W&B",
+    "id": "Western-1/rag-doc-chat",
+    "language": "Python",
+    "name": "Western-1/rag-doc-chat",
+    "stars": 1,
+    "updated_at": "2026-08-28T19:12:16Z",
+    "url": "https://github.com/Western-1/rag-doc-chat"
+  },
+  {
+    "description": "RAGAS evaluation of a n8n RAG support agent \u2014 measures faithfulness, context precision, context recall, and answer relev",
+    "id": "swatijreddy/rag-support-agent-ragas-eval",
+    "language": "Python",
+    "name": "swatijreddy/rag-support-agent-ragas-eval",
+    "stars": 0,
+    "updated_at": "2026-08-28T19:09:35Z",
+    "url": "https://github.com/swatijreddy/rag-support-agent-ragas-eval"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-28T19:02:17Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-08-28T19:01:36Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T19:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1111,
+    "updated_at": "2026-08-28T19:00:22Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11306,
+    "updated_at": "2026-08-28T18:57:02Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "RAG-based support agent built in n8n using Supabase vector search and Google Gemini, with automatic document sync and er",
     "id": "swatijreddy/rag-support-agent-pipeline",
     "language": "\u2014",
@@ -23,7 +104,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-28T18:51:44Z",
+    "updated_at": "2026-08-28T19:14:47Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -36,15 +117,6 @@
     "url": "https://github.com/Toskurim/vector-unforget"
   },
   {
-    "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-08-28T18:57:10Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "unohee/OpenSwarm",
     "language": "TypeScript",
@@ -52,24 +124,6 @@
     "stars": 839,
     "updated_at": "2026-08-28T18:48:00Z",
     "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T18:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T19:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-28T17:20:20Z",
     "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3274,
-    "updated_at": "2026-08-28T17:19:44Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-08-28T17:19:31Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6224,
-    "updated_at": "2026-08-28T17:18:30Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
-    "id": "sshisto/mnemo-mcp",
-    "language": "Python",
-    "name": "sshisto/mnemo-mcp",
-    "stars": 2,
-    "updated_at": "2026-08-28T17:18:11Z",
-    "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 2,
-    "updated_at": "2026-08-28T17:18:04Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-08-28T17:17:32Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
   }
 ]
