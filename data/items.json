@@ -1,12 +1,12 @@
 [
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6385,
-    "updated_at": "2026-08-28T16:27:05Z",
-    "url": "https://github.com/genkit-ai/genkit"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T16:45:27Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -14,8 +14,17 @@
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
     "stars": 3274,
-    "updated_at": "2026-08-28T16:25:43Z",
+    "updated_at": "2026-08-28T16:43:12Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Elefante never forgets. The Second Brain for AI Agents. Local-first persistent memory engine via MCP (ChromaDB + Kuzu). ",
+    "id": "ElefanteAI/elefante",
+    "language": "Python",
+    "name": "ElefanteAI/elefante",
+    "stars": 1,
+    "updated_at": "2026-08-28T16:41:53Z",
+    "url": "https://github.com/ElefanteAI/elefante"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -23,8 +32,26 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-28T16:22:38Z",
+    "updated_at": "2026-08-28T16:39:11Z",
     "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-28T16:39:01Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 90,
+    "updated_at": "2026-08-28T16:35:41Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
@@ -32,7 +59,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-08-28T16:16:54Z",
+    "updated_at": "2026-08-28T16:33:18Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -41,17 +68,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-28T16:15:26Z",
+    "updated_at": "2026-08-28T16:30:27Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T16:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6385,
+    "updated_at": "2026-08-28T16:37:16Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Experimental RAG pipeline for semantic search over Portuguese legal documents using the Porto Municipal Regulatory Code,",
@@ -61,15 +88,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T16:14:08Z",
     "url": "https://github.com/ruialexrib/legal-rag-pt"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-28T16:13:00Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -94,7 +112,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2706,
+    "stars": 2707,
     "updated_at": "2026-08-28T16:02:20Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6223,
-    "updated_at": "2026-08-28T16:14:03Z",
+    "updated_at": "2026-08-28T16:39:28Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -247,7 +265,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35364,
+    "stars": 35365,
     "updated_at": "2026-08-28T15:02:48Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -266,7 +284,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4429,
-    "updated_at": "2026-08-28T14:57:23Z",
+    "updated_at": "2026-08-28T16:45:24Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16758,
-    "updated_at": "2026-08-28T15:47:55Z",
+    "updated_at": "2026-08-28T16:36:11Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-28T13:34:43Z",
     "url": "https://github.com/thelastpickle/open-htap-stack"
-  },
-  {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
-    "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-28T13:33:51Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 93,
-    "updated_at": "2026-08-28T13:32:05Z",
-    "url": "https://github.com/topk-io/topk"
   }
 ]
