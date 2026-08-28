@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T12:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-28T11:59:43Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-28T11:58:59Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "An AI-powered legal assistant designed to provide instant answers, section citations, and case precedents for the Pakist",
+    "id": "ahmednadeem18/Ai-legal-Advisor",
+    "language": "Python",
+    "name": "ahmednadeem18/Ai-legal-Advisor",
+    "stars": 0,
+    "updated_at": "2026-08-28T11:57:41Z",
+    "url": "https://github.com/ahmednadeem18/Ai-legal-Advisor"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34241,
+    "updated_at": "2026-08-28T11:54:52Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-08-28T11:54:47Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
+    "id": "RohannShetty/gitbook-downloader",
+    "language": "Python",
+    "name": "RohannShetty/gitbook-downloader",
+    "stars": 2,
+    "updated_at": "2026-08-28T11:50:53Z",
+    "url": "https://github.com/RohannShetty/gitbook-downloader"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-28T11:50:22Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "build vector database extensions over Apache Datafusion and CMU-DB's BusTub system",
+    "id": "skyzh/write-you-a-vector-db",
+    "language": "Rust",
+    "name": "skyzh/write-you-a-vector-db",
+    "stars": 789,
+    "updated_at": "2026-08-28T11:49:40Z",
+    "url": "https://github.com/skyzh/write-you-a-vector-db"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-28T11:46:32Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T11:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
+    "id": "josephkamau32/devintel",
+    "language": "Python",
+    "name": "josephkamau32/devintel",
+    "stars": 7,
+    "updated_at": "2026-08-28T11:44:25Z",
+    "url": "https://github.com/josephkamau32/devintel"
+  },
+  {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
     "id": "theogony-project/theogony",
     "language": "Python",
@@ -16,15 +124,6 @@
     "stars": 29259,
     "updated_at": "2026-08-28T11:41:47Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-28T11:39:58Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -54,15 +153,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
-    "id": "RohannShetty/gitbook-downloader",
-    "language": "Python",
-    "name": "RohannShetty/gitbook-downloader",
-    "stars": 2,
-    "updated_at": "2026-08-28T11:43:11Z",
-    "url": "https://github.com/RohannShetty/gitbook-downloader"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
@@ -72,24 +162,6 @@
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T11:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T11:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -97,15 +169,6 @@
     "stars": 6385,
     "updated_at": "2026-08-28T11:27:59Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-08-28T11:23:40Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
     "description": "Private AI knowledge assistant built with local LLMs, RAG, Qdrant, FastAPI, and Next.js. Ask questions over private docu",
@@ -149,7 +212,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16758,
-    "updated_at": "2026-08-28T11:38:42Z",
+    "updated_at": "2026-08-28T11:58:20Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -187,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T11:04:09Z",
     "url": "https://github.com/TAIPANBOX/engram"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-28T11:32:58Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "An Agentic AI teaching platform featuring a human-in-the-loop architecture where teachers can dynamically guide AI tutor",
@@ -247,7 +301,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30314,
+    "stars": 30315,
     "updated_at": "2026-08-28T10:34:47Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -302,7 +356,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-28T11:45:16Z",
+    "updated_at": "2026-08-28T11:58:06Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -351,15 +405,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-28T11:33:44Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -403,50 +448,5 @@
     "stars": 1912,
     "updated_at": "2026-08-28T09:06:38Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Python",
-    "name": "qdrant/skills",
-    "stars": 226,
-    "updated_at": "2026-08-28T08:51:57Z",
-    "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje",
-    "id": "karthikbilaspur/ai_learning",
-    "language": "TypeScript",
-    "name": "karthikbilaspur/ai_learning",
-    "stars": 1,
-    "updated_at": "2026-08-28T08:50:11Z",
-    "url": "https://github.com/karthikbilaspur/ai_learning"
-  },
-  {
-    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 424,
-    "updated_at": "2026-08-28T08:47:51Z",
-    "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-28T08:39:12Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Wire an AI agent to live product data over the Apify MCP server: price, stock, rating and images as structured fields. R",
-    "id": "luispintoapify/ecommerce-agent-starter",
-    "language": "Python",
-    "name": "luispintoapify/ecommerce-agent-starter",
-    "stars": 3,
-    "updated_at": "2026-08-28T08:38:09Z",
-    "url": "https://github.com/luispintoapify/ecommerce-agent-starter"
   }
 ]
