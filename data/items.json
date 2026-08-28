@@ -1,5 +1,86 @@
 [
   {
+    "description": "PDF RAG is an end-to-end Retrieval-Augmented Generation system for processing and querying PDF documents. It handles PDF",
+    "id": "UsamaImran/pdf-rag",
+    "language": "TypeScript",
+    "name": "UsamaImran/pdf-rag",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:43:27Z",
+    "url": "https://github.com/UsamaImran/pdf-rag"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-28T12:44:40Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
+    "id": "KonNik88/ml-research-radar",
+    "language": "Python",
+    "name": "KonNik88/ml-research-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T12:41:12Z",
+    "url": "https://github.com/KonNik88/ml-research-radar"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:44:57Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12972,
+    "updated_at": "2026-08-28T12:35:56Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Validated, citation-preserving Catholic doctrine and Magisterium corpus for RAG, Catholic AI, research, and theological ",
+    "id": "GibbilyGooo/catholic-doctrine-magisterium-rag-corpus",
+    "language": "Python",
+    "name": "GibbilyGooo/catholic-doctrine-magisterium-rag-corpus",
+    "stars": 0,
+    "updated_at": "2026-08-28T12:33:26Z",
+    "url": "https://github.com/GibbilyGooo/catholic-doctrine-magisterium-rag-corpus"
+  },
+  {
+    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 343,
+    "updated_at": "2026-08-28T12:32:10Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T12:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T12:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "High-quality search for AI-native applications.",
     "id": "topk-io/topk",
     "language": "Rust",
@@ -18,42 +99,6 @@
     "url": "https://github.com/Tanmoy095/Logiflow-platform"
   },
   {
-    "description": "PDF RAG is an end-to-end Retrieval-Augmented Generation system for processing and querying PDF documents. It handles PDF",
-    "id": "UsamaImran/pdf-rag",
-    "language": "TypeScript",
-    "name": "UsamaImran/pdf-rag",
-    "stars": 0,
-    "updated_at": "2026-08-28T12:17:26Z",
-    "url": "https://github.com/UsamaImran/pdf-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T12:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T12:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-28T12:30:18Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "unohee/OpenSwarm",
     "language": "TypeScript",
@@ -68,7 +113,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34241,
-    "updated_at": "2026-08-28T12:26:18Z",
+    "updated_at": "2026-08-28T12:34:52Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -140,17 +185,8 @@
     "language": "Rust",
     "name": "skyzh/write-you-a-vector-db",
     "stars": 790,
-    "updated_at": "2026-08-28T11:49:40Z",
+    "updated_at": "2026-08-28T12:40:22Z",
     "url": "https://github.com/skyzh/write-you-a-vector-db"
-  },
-  {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-28T11:46:32Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
     "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
@@ -167,7 +203,7 @@
     "language": "Python",
     "name": "theogony-project/theogony",
     "stars": 0,
-    "updated_at": "2026-08-28T11:43:40Z",
+    "updated_at": "2026-08-28T12:45:15Z",
     "url": "https://github.com/theogony-project/theogony"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16758,
-    "updated_at": "2026-08-28T11:58:20Z",
+    "updated_at": "2026-08-28T12:39:37Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -265,7 +301,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2704,
+    "stars": 2705,
     "updated_at": "2026-08-28T11:09:50Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -365,7 +401,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6223,
-    "updated_at": "2026-08-28T12:24:28Z",
+    "updated_at": "2026-08-28T12:37:02Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -383,7 +419,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1110,
-    "updated_at": "2026-08-28T12:24:55Z",
+    "updated_at": "2026-08-28T12:44:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-28T09:46:33Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-28T09:39:26Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11301,
-    "updated_at": "2026-08-28T11:01:50Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7073,
-    "updated_at": "2026-08-28T12:18:17Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "AI-powered startup intelligence agent \u2014 hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde",
-    "id": "ankush-poonia007/STARTUP-AI-AGENT",
-    "language": "Python",
-    "name": "ankush-poonia007/STARTUP-AI-AGENT",
-    "stars": 5,
-    "updated_at": "2026-08-28T09:15:21Z",
-    "url": "https://github.com/ankush-poonia007/STARTUP-AI-AGENT"
   }
 ]
