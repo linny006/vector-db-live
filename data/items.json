@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T23:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-28T23:26:49Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
+    "id": "Shitless-jnr3697/rebasis",
+    "language": "Python",
+    "name": "Shitless-jnr3697/rebasis",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:26:47Z",
+    "url": "https://github.com/Shitless-jnr3697/rebasis"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 235,
+    "updated_at": "2026-08-28T23:25:53Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:24:24Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
+    "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
+    "id": "Constraintworthy6058/ai-github-repository-assistant",
+    "language": "TypeScript",
+    "name": "Constraintworthy6058/ai-github-repository-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:20:20Z",
+    "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
+  },
+  {
+    "description": "Weaviate vector database security scanner",
+    "id": "sshpie/weavscan",
+    "language": "Go",
+    "name": "sshpie/weavscan",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:15:58Z",
+    "url": "https://github.com/sshpie/weavscan"
+  },
+  {
+    "description": "Qdrant vector database security scanner",
+    "id": "sshpie/qdrantscan",
+    "language": "Go",
+    "name": "sshpie/qdrantscan",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:15:58Z",
+    "url": "https://github.com/sshpie/qdrantscan"
+  },
+  {
+    "description": "ChromaDB security scanner",
+    "id": "sshpie/chromascan",
+    "language": "Go",
+    "name": "sshpie/chromascan",
+    "stars": 0,
+    "updated_at": "2026-08-28T23:15:58Z",
+    "url": "https://github.com/sshpie/chromascan"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T23:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Milvus vector database security scanner",
     "id": "sshpie/milvscan",
     "language": "Go",
@@ -54,24 +144,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T23:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T23:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -95,7 +167,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9206,
-    "updated_at": "2026-08-28T23:14:18Z",
+    "updated_at": "2026-08-28T23:28:17Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -248,7 +320,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 65344,
-    "updated_at": "2026-08-28T21:44:17Z",
+    "updated_at": "2026-08-28T23:17:27Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T20:47:36Z",
     "url": "https://github.com/21e8-miner/grain-vdb"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6385,
-    "updated_at": "2026-08-28T22:27:16Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16759,
-    "updated_at": "2026-08-28T21:27:23Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "An autonomous, self-learning cognitive engine with 4-tier persistent memory, verified skill synthesis, and closed-world ",
-    "id": "Teodorsmith/solaris-zarya-engine",
-    "language": "Python",
-    "name": "Teodorsmith/solaris-zarya-engine",
-    "stars": 1,
-    "updated_at": "2026-08-28T20:02:51Z",
-    "url": "https://github.com/Teodorsmith/solaris-zarya-engine"
-  },
-  {
-    "description": "Production-style RAG system for querying AI/ML research papers \u2014 LangChain + LlamaIndex + Groq + Qdrant, with RAGAS eval",
-    "id": "JanaM-10/rag-papers-assistant",
-    "language": "Python",
-    "name": "JanaM-10/rag-papers-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-28T20:02:30Z",
-    "url": "https://github.com/JanaM-10/rag-papers-assistant"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8151,
-    "updated_at": "2026-08-28T19:51:45Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-28T19:48:51Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-08-28T19:48:56Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
-    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "language": "Jupyter Notebook",
-    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "stars": 0,
-    "updated_at": "2026-08-28T19:47:14Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
   }
 ]
