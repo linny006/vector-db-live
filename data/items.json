@@ -5,8 +5,125 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-28T16:45:27Z",
+    "updated_at": "2026-08-28T17:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Showcases full-text search with Pinecone and Gemini Embedding 2 (multimodal) over a corpus of ~2,079 North American bird",
+    "id": "pinecone-io/bird-search-example",
+    "language": "Python",
+    "name": "pinecone-io/bird-search-example",
+    "stars": 3,
+    "updated_at": "2026-08-28T16:59:02Z",
+    "url": "https://github.com/pinecone-io/bird-search-example"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-28T16:57:34Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:55:08Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
+    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "language": "Jupyter Notebook",
+    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:55:07Z",
+    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:55:00Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-08-28T16:54:27Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-28T16:51:32Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:51:14Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6385,
+    "updated_at": "2026-08-28T17:00:00Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11302,
+    "updated_at": "2026-08-28T16:56:52Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Hardened Pure NumPy Vector Database",
+    "id": "cibi-dev/numpy-vectordb",
+    "language": "Python",
+    "name": "cibi-dev/numpy-vectordb",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:46:23Z",
+    "url": "https://github.com/cibi-dev/numpy-vectordb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T16:45:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-08-28T16:45:19Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -14,7 +131,7 @@
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
     "stars": 3274,
-    "updated_at": "2026-08-28T16:43:12Z",
+    "updated_at": "2026-08-28T16:55:18Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
@@ -23,17 +140,8 @@
     "language": "Python",
     "name": "ElefanteAI/elefante",
     "stars": 1,
-    "updated_at": "2026-08-28T16:41:53Z",
+    "updated_at": "2026-08-28T17:00:00Z",
     "url": "https://github.com/ElefanteAI/elefante"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-28T16:39:11Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -59,26 +167,8 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-08-28T16:33:18Z",
+    "updated_at": "2026-08-28T16:58:56Z",
     "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T16:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6385,
-    "updated_at": "2026-08-28T16:37:16Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Experimental RAG pipeline for semantic search over Portuguese legal documents using the Porto Municipal Regulatory Code,",
@@ -95,7 +185,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-28T16:09:26Z",
+    "updated_at": "2026-08-28T16:54:59Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -112,7 +202,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2707,
+    "stars": 2708,
     "updated_at": "2026-08-28T16:02:20Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -144,15 +234,6 @@
     "url": "https://github.com/RohannShetty/gitbook-downloader"
   },
   {
-    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
-    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "language": "Jupyter Notebook",
-    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "stars": 0,
-    "updated_at": "2026-08-28T15:50:19Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
-  },
-  {
     "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
     "id": "kichikubeihei/CodeMemoryPrime",
     "language": "Rust",
@@ -167,7 +248,7 @@
     "language": "Rust",
     "name": "agent-ix/ecaz",
     "stars": 3,
-    "updated_at": "2026-08-28T15:46:30Z",
+    "updated_at": "2026-08-28T17:00:19Z",
     "url": "https://github.com/agent-ix/ecaz"
   },
   {
@@ -239,7 +320,7 @@
     "language": "Python",
     "name": "theogony-project/theogony",
     "stars": 0,
-    "updated_at": "2026-08-28T15:15:08Z",
+    "updated_at": "2026-08-28T16:59:35Z",
     "url": "https://github.com/theogony-project/theogony"
   },
   {
@@ -265,18 +346,9 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35365,
+    "stars": 35366,
     "updated_at": "2026-08-28T15:02:48Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-28T15:22:03Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -284,17 +356,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4429,
-    "updated_at": "2026-08-28T16:45:24Z",
+    "updated_at": "2026-08-28T16:59:10Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Showcases full-text search with Pinecone and Gemini Embedding 2 (multimodal) over a corpus of ~2,079 North American bird",
-    "id": "pinecone-io/bird-search-example",
-    "language": "Python",
-    "name": "pinecone-io/bird-search-example",
-    "stars": 3,
-    "updated_at": "2026-08-28T16:16:39Z",
-    "url": "https://github.com/pinecone-io/bird-search-example"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T14:10:07Z",
     "url": "https://github.com/rafael-acerqueira/support-ops"
-  },
-  {
-    "description": "CrateDB provider for LangChain.",
-    "id": "crate/langchain-cratedb",
-    "language": "Python",
-    "name": "crate/langchain-cratedb",
-    "stars": 2,
-    "updated_at": "2026-08-28T16:06:09Z",
-    "url": "https://github.com/crate/langchain-cratedb"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 23,
-    "updated_at": "2026-08-28T14:13:52Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12973,
-    "updated_at": "2026-08-28T13:54:43Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-28T13:54:09Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 7,
-    "updated_at": "2026-08-28T13:51:59Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-08-28T13:48:27Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
-    "id": "thelastpickle/open-htap-stack",
-    "language": "Python",
-    "name": "thelastpickle/open-htap-stack",
-    "stars": 3,
-    "updated_at": "2026-08-28T13:34:43Z",
-    "url": "https://github.com/thelastpickle/open-htap-stack"
   }
 ]
