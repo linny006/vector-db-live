@@ -1,10 +1,46 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T02:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Free, open-source collection of latest public API documentations - Update LLM's knowledge base with the latest API doc, ",
+    "id": "in-c0/updAPI",
+    "language": "JavaScript",
+    "name": "in-c0/updAPI",
+    "stars": 25,
+    "updated_at": "2026-08-28T02:34:21Z",
+    "url": "https://github.com/in-c0/updAPI"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 839,
+    "updated_at": "2026-08-28T02:43:54Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T02:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45836,
+    "stars": 45837,
     "updated_at": "2026-08-28T02:29:27Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -36,39 +72,12 @@
     "url": "https://github.com/gmr/dotilla"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 839,
-    "updated_at": "2026-08-28T02:22:08Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T02:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T02:15:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1109,
-    "updated_at": "2026-08-28T02:29:19Z",
+    "updated_at": "2026-08-28T02:41:43Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -95,7 +104,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6384,
-    "updated_at": "2026-08-28T02:29:44Z",
+    "updated_at": "2026-08-28T02:36:53Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -142,15 +151,6 @@
     "stars": 30,
     "updated_at": "2026-08-28T02:04:32Z",
     "url": "https://github.com/replikativ/proximum"
-  },
-  {
-    "description": "Free, open-source collection of latest public API documentations - Update LLM's knowledge base with the latest API doc, ",
-    "id": "in-c0/updAPI",
-    "language": "JavaScript",
-    "name": "in-c0/updAPI",
-    "stars": 25,
-    "updated_at": "2026-08-28T02:27:07Z",
-    "url": "https://github.com/in-c0/updAPI"
   },
   {
     "description": "Local knowledge base lifecycle manager for dsh: multi-format import, hybrid search with per-stage debug scores, snapshot",
@@ -221,7 +221,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-28T01:30:10Z",
+    "updated_at": "2026-08-28T02:38:01Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -229,7 +229,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65307,
+    "stars": 65308,
     "updated_at": "2026-08-28T00:58:39Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -283,7 +283,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51895,
+    "stars": 51896,
     "updated_at": "2026-08-28T00:11:53Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -383,7 +383,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34231,
-    "updated_at": "2026-08-28T02:26:07Z",
+    "updated_at": "2026-08-28T02:37:10Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
