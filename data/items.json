@@ -1,12 +1,102 @@
 [
   {
+    "description": "Experimental RAG pipeline for semantic search over Portuguese legal documents using the Porto Municipal Regulatory Code,",
+    "id": "ruialexrib/legal-rag-pt",
+    "language": "Jupyter Notebook",
+    "name": "ruialexrib/legal-rag-pt",
+    "stars": 1,
+    "updated_at": "2026-08-28T16:14:08Z",
+    "url": "https://github.com/ruialexrib/legal-rag-pt"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-28T16:13:00Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 839,
+    "updated_at": "2026-08-28T16:09:26Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:09:17Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-28T16:07:16Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2706,
+    "updated_at": "2026-08-28T16:02:20Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "Semantic Vector Memory for Coding Agents - Long-term memory system with vector embeddings for fuzzy retrieval",
+    "id": "WKassebaum/Recall",
+    "language": "Python",
+    "name": "WKassebaum/Recall",
+    "stars": 0,
+    "updated_at": "2026-08-28T16:02:16Z",
+    "url": "https://github.com/WKassebaum/Recall"
+  },
+  {
     "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
     "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
     "language": "Python",
     "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
     "stars": 0,
-    "updated_at": "2026-08-28T15:50:54Z",
+    "updated_at": "2026-08-28T16:00:48Z",
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T16:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T16:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
+    "id": "RohannShetty/gitbook-downloader",
+    "language": "Python",
+    "name": "RohannShetty/gitbook-downloader",
+    "stars": 2,
+    "updated_at": "2026-08-28T15:58:21Z",
+    "url": "https://github.com/RohannShetty/gitbook-downloader"
   },
   {
     "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
@@ -27,15 +117,6 @@
     "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
   },
   {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-28T15:48:29Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
     "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
     "id": "agent-ix/ecaz",
     "language": "Rust",
@@ -43,24 +124,6 @@
     "stars": 3,
     "updated_at": "2026-08-28T15:46:30Z",
     "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T16:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T15:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
@@ -88,15 +151,6 @@
     "stars": 6385,
     "updated_at": "2026-08-28T15:53:25Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
-    "id": "RohannShetty/gitbook-downloader",
-    "language": "Python",
-    "name": "RohannShetty/gitbook-downloader",
-    "stars": 2,
-    "updated_at": "2026-08-28T15:58:21Z",
-    "url": "https://github.com/RohannShetty/gitbook-downloader"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -153,21 +207,12 @@
     "url": "https://github.com/theogony-project/theogony"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-28T15:57:23Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6223,
-    "updated_at": "2026-08-28T15:50:08Z",
+    "updated_at": "2026-08-28T16:14:03Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -178,6 +223,15 @@
     "stars": 34245,
     "updated_at": "2026-08-28T15:03:14Z",
     "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35364,
+    "updated_at": "2026-08-28T15:02:48Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -203,7 +257,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-08-28T16:00:09Z",
+    "updated_at": "2026-08-28T16:12:54Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -297,15 +351,6 @@
     "url": "https://github.com/alxxtexxr/arxiv_agent"
   },
   {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2706,
-    "updated_at": "2026-08-28T15:59:32Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
     "description": "Support operations platform for B2B SaaS teams, featuring ticket triage, versioned knowledge base, grounded response dra",
     "id": "rafael-acerqueira/support-ops",
     "language": "Python",
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "crate/langchain-cratedb",
     "stars": 2,
-    "updated_at": "2026-08-28T15:50:46Z",
+    "updated_at": "2026-08-28T16:06:09Z",
     "url": "https://github.com/crate/langchain-cratedb"
   },
   {
@@ -369,15 +414,6 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 839,
-    "updated_at": "2026-08-28T15:46:21Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
     "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
     "id": "thelastpickle/open-htap-stack",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-28T13:16:30Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1913,
-    "updated_at": "2026-08-28T13:14:44Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "\ud83e\udde0 BrainOS \u2014 The Human Brain as Software Architecture. 8 brain regions documented like codebases. 12 installable AI plugi",
-    "id": "NiravRVaghasiya/BrainOS",
-    "language": "Python",
-    "name": "NiravRVaghasiya/BrainOS",
-    "stars": 0,
-    "updated_at": "2026-08-28T13:09:00Z",
-    "url": "https://github.com/NiravRVaghasiya/BrainOS"
-  },
-  {
-    "description": "TalaDB - The embedded vector database for on-device AI.",
-    "id": "taladb/taladb",
-    "language": "Rust",
-    "name": "taladb/taladb",
-    "stars": 4,
-    "updated_at": "2026-08-28T13:14:25Z",
-    "url": "https://github.com/taladb/taladb"
-  },
-  {
-    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
-    "id": "amirhosssein0/ai-platform-lab",
-    "language": "TypeScript",
-    "name": "amirhosssein0/ai-platform-lab",
-    "stars": 4,
-    "updated_at": "2026-08-28T13:00:14Z",
-    "url": "https://github.com/amirhosssein0/ai-platform-lab"
   }
 ]
