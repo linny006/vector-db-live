@@ -1,11 +1,74 @@
 [
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45836,
+    "updated_at": "2026-08-28T02:29:27Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "",
+    "id": "dkylewillis/vera",
+    "language": "Python",
+    "name": "dkylewillis/vera",
+    "stars": 17,
+    "updated_at": "2026-08-28T02:29:07Z",
+    "url": "https://github.com/dkylewillis/vera"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2697,
+    "updated_at": "2026-08-28T02:28:13Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "This is a hobby project to build a Graph database in Rust.",
+    "id": "gmr/dotilla",
+    "language": "Rust",
+    "name": "gmr/dotilla",
+    "stars": 1,
+    "updated_at": "2026-08-28T02:22:32Z",
+    "url": "https://github.com/gmr/dotilla"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 839,
+    "updated_at": "2026-08-28T02:22:08Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T02:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T02:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1109,
-    "updated_at": "2026-08-28T02:13:46Z",
+    "updated_at": "2026-08-28T02:29:19Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -14,7 +77,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9424,
-    "updated_at": "2026-08-28T02:10:04Z",
+    "updated_at": "2026-08-28T02:25:03Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -32,7 +95,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6384,
-    "updated_at": "2026-08-28T02:08:25Z",
+    "updated_at": "2026-08-28T02:29:44Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -63,15 +126,6 @@
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T02:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
     "id": "vishalChoudhary-git/ai-platform",
     "language": "Python",
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T02:00:24Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T02:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Versioned, fast and scalable nearest neighbor search.",
@@ -104,7 +149,7 @@
     "language": "JavaScript",
     "name": "in-c0/updAPI",
     "stars": 25,
-    "updated_at": "2026-08-28T01:52:12Z",
+    "updated_at": "2026-08-28T02:27:07Z",
     "url": "https://github.com/in-c0/updAPI"
   },
   {
@@ -151,15 +196,6 @@
     "stars": 1687,
     "updated_at": "2026-08-28T01:33:23Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45836,
-    "updated_at": "2026-08-28T01:23:26Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -333,15 +369,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "This is a hobby project to build a Graph database in Rust.",
-    "id": "gmr/dotilla",
-    "language": "Rust",
-    "name": "gmr/dotilla",
-    "stars": 1,
-    "updated_at": "2026-08-27T23:14:14Z",
-    "url": "https://github.com/gmr/dotilla"
-  },
-  {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
@@ -356,7 +383,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34231,
-    "updated_at": "2026-08-27T23:05:14Z",
+    "updated_at": "2026-08-28T02:26:07Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 29254,
     "updated_at": "2026-08-27T22:40:12Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
-    "id": "hhblaze/DBreeze",
-    "language": "C#",
-    "name": "hhblaze/DBreeze",
-    "stars": 578,
-    "updated_at": "2026-08-27T22:20:44Z",
-    "url": "https://github.com/hhblaze/DBreeze"
-  },
-  {
-    "description": "",
-    "id": "threefigure-achromia682/ai-memory",
-    "language": "\u2014",
-    "name": "threefigure-achromia682/ai-memory",
-    "stars": 1,
-    "updated_at": "2026-08-27T22:17:47Z",
-    "url": "https://github.com/threefigure-achromia682/ai-memory"
-  },
-  {
-    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
-    "id": "alegameplays14-del/leica-infinity-2026",
-    "language": "\u2014",
-    "name": "alegameplays14-del/leica-infinity-2026",
-    "stars": 0,
-    "updated_at": "2026-08-27T22:16:55Z",
-    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
   }
 ]
