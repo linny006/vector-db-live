@@ -1,5 +1,68 @@
 [
   {
+    "description": "Multi-assistant AI platform with RAG-driven context, agentic capabilities, tool calling, pluggable LLM providers, voice ",
+    "id": "gaboeremita/laravel-vera",
+    "language": "PHP",
+    "name": "gaboeremita/laravel-vera",
+    "stars": 1,
+    "updated_at": "2026-08-28T22:15:10Z",
+    "url": "https://github.com/gaboeremita/laravel-vera"
+  },
+  {
+    "description": "C# SDK for the Chroma API -- open-source vector database",
+    "id": "tryAGI/Chroma",
+    "language": "C#",
+    "name": "tryAGI/Chroma",
+    "stars": 1,
+    "updated_at": "2026-08-28T22:14:01Z",
+    "url": "https://github.com/tryAGI/Chroma"
+  },
+  {
+    "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
+    "id": "api-evangelist/azure-cosmos-db",
+    "language": "\u2014",
+    "name": "api-evangelist/azure-cosmos-db",
+    "stars": 0,
+    "updated_at": "2026-08-28T22:07:55Z",
+    "url": "https://github.com/api-evangelist/azure-cosmos-db"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 30,
+    "updated_at": "2026-08-28T22:07:01Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-28T22:02:40Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-28T22:01:05Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T22:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-28T21:59:40Z",
+    "updated_at": "2026-08-28T22:15:09Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -23,7 +86,7 @@
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1347,
-    "updated_at": "2026-08-28T21:53:31Z",
+    "updated_at": "2026-08-28T22:05:21Z",
     "url": "https://github.com/infinispan/infinispan"
   },
   {
@@ -31,18 +94,9 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45852,
-    "updated_at": "2026-08-28T21:53:28Z",
+    "stars": 45853,
+    "updated_at": "2026-08-28T22:09:27Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T21:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -70,15 +124,6 @@
     "stars": 1111,
     "updated_at": "2026-08-28T21:42:09Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 30,
-    "updated_at": "2026-08-28T21:57:56Z",
-    "url": "https://github.com/monaccode/astromesh"
   },
   {
     "description": "A Telecom Customer Care chatbot built with RAG using LangChain, Chroma, Hugging Face embeddings, and Groq. Retrieves inf",
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9205,
-    "updated_at": "2026-08-28T21:50:41Z",
+    "updated_at": "2026-08-28T22:14:30Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -216,31 +261,13 @@
     "url": "https://github.com/21e8-miner/grain-vdb"
   },
   {
-    "description": "C# SDK for the Chroma API -- open-source vector database",
-    "id": "tryAGI/Chroma",
-    "language": "C#",
-    "name": "tryAGI/Chroma",
-    "stars": 1,
-    "updated_at": "2026-08-28T20:24:50Z",
-    "url": "https://github.com/tryAGI/Chroma"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6385,
-    "updated_at": "2026-08-28T21:24:59Z",
+    "updated_at": "2026-08-28T22:05:36Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-28T20:23:40Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -257,7 +284,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34248,
-    "updated_at": "2026-08-28T20:04:16Z",
+    "updated_at": "2026-08-28T22:05:57Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -331,15 +358,6 @@
     "stars": 2,
     "updated_at": "2026-08-28T19:42:22Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-28T19:33:33Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "C++ header-only implementation of VaneDB \u2014 embeddable vector database for edge AI. See vanedb/vanedb for the Rust crate ",
@@ -430,23 +448,5 @@
     "stars": 25,
     "updated_at": "2026-08-28T18:42:49Z",
     "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-28T21:51:03Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1702,
-    "updated_at": "2026-08-28T18:38:16Z",
-    "url": "https://github.com/xerj-org/xerj"
   }
 ]
