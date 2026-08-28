@@ -1,12 +1,30 @@
 [
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-28T04:29:59Z",
-    "url": "https://github.com/tamnd/yo"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T04:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Free, open-source collection of latest public API documentations - Update LLM's knowledge base with the latest API doc, ",
+    "id": "in-c0/updAPI",
+    "language": "JavaScript",
+    "name": "in-c0/updAPI",
+    "stars": 25,
+    "updated_at": "2026-08-28T04:44:41Z",
+    "url": "https://github.com/in-c0/updAPI"
+  },
+  {
+    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
+    "id": "ELSAKKK/mnemos-mcp",
+    "language": "Python",
+    "name": "ELSAKKK/mnemos-mcp",
+    "stars": 5,
+    "updated_at": "2026-08-28T04:43:29Z",
+    "url": "https://github.com/ELSAKKK/mnemos-mcp"
   },
   {
     "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
@@ -14,8 +32,125 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-08-28T04:29:06Z",
+    "updated_at": "2026-08-28T04:44:54Z",
     "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
+    "id": "BiggerCap/agentops-hub",
+    "language": "TypeScript",
+    "name": "BiggerCap/agentops-hub",
+    "stars": 2,
+    "updated_at": "2026-08-28T04:42:24Z",
+    "url": "https://github.com/BiggerCap/agentops-hub"
+  },
+  {
+    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
+    "id": "hankamarvanova/unified-db",
+    "language": "Swift",
+    "name": "hankamarvanova/unified-db",
+    "stars": 2,
+    "updated_at": "2026-08-28T04:42:05Z",
+    "url": "https://github.com/hankamarvanova/unified-db"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-28T04:41:30Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
+    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "language": "Python",
+    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "stars": 2,
+    "updated_at": "2026-08-28T04:41:14Z",
+    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-08-28T04:37:14Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-08-28T04:36:48Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 2,
+    "updated_at": "2026-08-28T04:36:43Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-28T04:35:49Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-28T04:35:39Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-08-28T04:32:55Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessi",
+    "id": "verygoodplugins/automem",
+    "language": "Python",
+    "name": "verygoodplugins/automem",
+    "stars": 803,
+    "updated_at": "2026-08-28T04:32:27Z",
+    "url": "https://github.com/verygoodplugins/automem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T04:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-28T04:32:44Z",
+    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
@@ -99,24 +234,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T04:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T04:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Unified multimodal backend for AI data apps",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -131,7 +248,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1109,
-    "updated_at": "2026-08-28T04:27:33Z",
+    "updated_at": "2026-08-28T04:39:01Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -144,6 +261,15 @@
     "url": "https://github.com/paradedb/paradedb"
   },
   {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 51896,
+    "updated_at": "2026-08-28T04:01:49Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
     "description": "This is a hobby project to build a Graph database in Rust.",
     "id": "gmr/dotilla",
     "language": "Rust",
@@ -151,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-08-28T03:54:54Z",
     "url": "https://github.com/gmr/dotilla"
-  },
-  {
-    "description": "Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessi",
-    "id": "verygoodplugins/automem",
-    "language": "Python",
-    "name": "verygoodplugins/automem",
-    "stars": 803,
-    "updated_at": "2026-08-28T04:24:21Z",
-    "url": "https://github.com/verygoodplugins/automem"
   },
   {
     "description": "Search and relevance across four stores -- vector embeddings, graph, full-text and relational -- measuring the ROUTING D",
@@ -270,15 +387,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Free, open-source collection of latest public API documentations - Update LLM's knowledge base with the latest API doc, ",
-    "id": "in-c0/updAPI",
-    "language": "JavaScript",
-    "name": "in-c0/updAPI",
-    "stars": 25,
-    "updated_at": "2026-08-28T04:29:55Z",
-    "url": "https://github.com/in-c0/updAPI"
-  },
-  {
     "description": "",
     "id": "dkylewillis/vera",
     "language": "Python",
@@ -293,7 +401,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9424,
-    "updated_at": "2026-08-28T04:11:45Z",
+    "updated_at": "2026-08-28T04:33:47Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T02:00:24Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
-  },
-  {
-    "description": "Versioned, fast and scalable nearest neighbor search.",
-    "id": "replikativ/proximum",
-    "language": "Clojure",
-    "name": "replikativ/proximum",
-    "stars": 30,
-    "updated_at": "2026-08-28T02:04:32Z",
-    "url": "https://github.com/replikativ/proximum"
-  },
-  {
-    "description": "Local knowledge base lifecycle manager for dsh: multi-format import, hybrid search with per-stage debug scores, snapshot",
-    "id": "xiaoshi7915/dsh-kb-manager",
-    "language": "TypeScript",
-    "name": "xiaoshi7915/dsh-kb-manager",
-    "stars": 1,
-    "updated_at": "2026-08-28T01:48:39Z",
-    "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-28T01:41:39Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-08-28T01:41:18Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1689,
-    "updated_at": "2026-08-28T01:33:23Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-08-28T01:18:44Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "OceanBase is the unified distributed database for the AI era \u2014 open-source, multi-model, one engine for your most demand",
-    "id": "oceanbase/oceanbase",
-    "language": "C++",
-    "name": "oceanbase/oceanbase",
-    "stars": 10258,
-    "updated_at": "2026-08-28T01:00:47Z",
-    "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65312,
-    "updated_at": "2026-08-28T00:58:39Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 251,
-    "updated_at": "2026-08-28T00:41:57Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-08-28T00:35:43Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-08-28T00:32:28Z",
-    "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "Production-style RAG system for querying AI/ML research papers \u2014 LangChain + LlamaIndex + Groq + Qdrant, with RAGAS eval",
-    "id": "JanaM-10/rag-papers-assistant",
-    "language": "Python",
-    "name": "JanaM-10/rag-papers-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-28T00:19:51Z",
-    "url": "https://github.com/JanaM-10/rag-papers-assistant"
   }
 ]
