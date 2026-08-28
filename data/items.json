@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-28T13:30:22Z",
+    "updated_at": "2026-08-28T13:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enterprise-grade GDPR/CCPA Vector Unlearning & PII Oblivion Middleware. Instant O(N\u00b7D) Orthogonal Subspace Projection, N",
+    "id": "Toskurim/vector-unforget",
+    "language": "Python",
+    "name": "Toskurim/vector-unforget",
+    "stars": 3,
+    "updated_at": "2026-08-28T13:43:22Z",
+    "url": "https://github.com/Toskurim/vector-unforget"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-08-28T13:36:14Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-08-28T13:36:30Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
+    "id": "thelastpickle/open-htap-stack",
+    "language": "Python",
+    "name": "thelastpickle/open-htap-stack",
+    "stars": 3,
+    "updated_at": "2026-08-28T13:34:43Z",
+    "url": "https://github.com/thelastpickle/open-htap-stack"
+  },
+  {
+    "description": "Support operations platform for B2B SaaS teams, featuring ticket triage, versioned knowledge base, grounded response dra",
+    "id": "rafael-acerqueira/support-ops",
+    "language": "Python",
+    "name": "rafael-acerqueira/support-ops",
+    "stars": 0,
+    "updated_at": "2026-08-28T13:44:56Z",
+    "url": "https://github.com/rafael-acerqueira/support-ops"
+  },
+  {
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
+    "language": "Python",
+    "name": "vishalChoudhary-git/ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-28T13:33:51Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 93,
+    "updated_at": "2026-08-28T13:32:05Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T13:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -25,15 +97,6 @@
     "stars": 4,
     "updated_at": "2026-08-28T13:16:30Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T13:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -58,7 +121,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2705,
+    "stars": 2706,
     "updated_at": "2026-08-28T13:11:14Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -95,7 +158,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8151,
-    "updated_at": "2026-08-28T13:30:05Z",
+    "updated_at": "2026-08-28T13:45:06Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -198,15 +261,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 93,
-    "updated_at": "2026-08-28T12:22:38Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
     "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
     "id": "Tanmoy095/Logiflow-platform",
     "language": "Shell",
@@ -221,7 +275,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-28T13:15:08Z",
+    "updated_at": "2026-08-28T13:42:30Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -259,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-28T11:57:41Z",
     "url": "https://github.com/ahmednadeem18/Ai-legal-Advisor"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-08-28T13:10:44Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
     "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
@@ -374,7 +419,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9424,
-    "updated_at": "2026-08-28T11:12:25Z",
+    "updated_at": "2026-08-28T13:32:11Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -392,7 +437,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16758,
-    "updated_at": "2026-08-28T13:22:37Z",
+    "updated_at": "2026-08-28T13:45:18Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-28T11:09:19Z",
     "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-08-28T11:08:14Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
-    "id": "TAIPANBOX/engram",
-    "language": "Python",
-    "name": "TAIPANBOX/engram",
-    "stars": 2,
-    "updated_at": "2026-08-28T11:04:09Z",
-    "url": "https://github.com/TAIPANBOX/engram"
-  },
-  {
-    "description": "An Agentic AI teaching platform featuring a human-in-the-loop architecture where teachers can dynamically guide AI tutor",
-    "id": "asimibnakhlaque/teaching-loop",
-    "language": "Python",
-    "name": "asimibnakhlaque/teaching-loop",
-    "stars": 0,
-    "updated_at": "2026-08-28T10:56:57Z",
-    "url": "https://github.com/asimibnakhlaque/teaching-loop"
-  },
-  {
-    "description": "Mnemosyne \u2014 AI Memory Platform. Persistent memory system for AI agents with Obsidian vault integration, semantic search,",
-    "id": "M4F-S/mnemosyne",
-    "language": "Python",
-    "name": "M4F-S/mnemosyne",
-    "stars": 27,
-    "updated_at": "2026-08-28T10:54:54Z",
-    "url": "https://github.com/M4F-S/mnemosyne"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-28T10:39:17Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   }
 ]
