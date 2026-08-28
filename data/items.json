@@ -1,12 +1,39 @@
 [
   {
-    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
-    "id": "kichikubeihei/CodeMemoryPrime",
-    "language": "Rust",
-    "name": "kichikubeihei/CodeMemoryPrime",
-    "stars": 0,
-    "updated_at": "2026-08-28T15:26:55Z",
-    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
+    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
+    "id": "Tanmoy095/Logiflow-platform",
+    "language": "Shell",
+    "name": "Tanmoy095/Logiflow-platform",
+    "stars": 2,
+    "updated_at": "2026-08-28T15:42:39Z",
+    "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 266,
+    "updated_at": "2026-08-28T15:41:43Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6385,
+    "updated_at": "2026-08-28T15:38:39Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
+    "id": "RohannShetty/gitbook-downloader",
+    "language": "Python",
+    "name": "RohannShetty/gitbook-downloader",
+    "stars": 2,
+    "updated_at": "2026-08-28T15:38:04Z",
+    "url": "https://github.com/RohannShetty/gitbook-downloader"
   },
   {
     "description": "Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -14,8 +41,62 @@
     "language": "Python",
     "name": "schmitech/orbit",
     "stars": 343,
-    "updated_at": "2026-08-28T15:24:12Z",
+    "updated_at": "2026-08-28T15:37:27Z",
     "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 51906,
+    "updated_at": "2026-08-28T15:33:53Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1347,
+    "updated_at": "2026-08-28T15:31:57Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Demo integrating Pinecone with Neo4j to analyze and explore Supreme Court cases.",
+    "id": "pinecone-io/pinecone-neo4j-explorer",
+    "language": "TypeScript",
+    "name": "pinecone-io/pinecone-neo4j-explorer",
+    "stars": 10,
+    "updated_at": "2026-08-28T15:31:53Z",
+    "url": "https://github.com/pinecone-io/pinecone-neo4j-explorer"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T15:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-28T15:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
+    "id": "kichikubeihei/CodeMemoryPrime",
+    "language": "Rust",
+    "name": "kichikubeihei/CodeMemoryPrime",
+    "stars": 0,
+    "updated_at": "2026-08-28T15:26:55Z",
+    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -34,24 +115,6 @@
     "stars": 1111,
     "updated_at": "2026-08-28T15:17:38Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T15:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-28T15:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -77,7 +140,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6223,
-    "updated_at": "2026-08-28T15:11:26Z",
+    "updated_at": "2026-08-28T15:33:21Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -88,6 +151,15 @@
     "stars": 0,
     "updated_at": "2026-08-28T15:11:17Z",
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34245,
+    "updated_at": "2026-08-28T15:03:14Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -126,15 +198,6 @@
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 266,
-    "updated_at": "2026-08-28T15:28:40Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
     "description": "Showcases full-text search with Pinecone and Gemini Embedding 2 (multimodal) over a corpus of ~2,079 North American bird",
     "id": "pinecone-io/bird-search-example",
     "language": "Python",
@@ -162,31 +225,13 @@
     "url": "https://github.com/Toskurim/vector-unforget"
   },
   {
-    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
-    "id": "RohannShetty/gitbook-downloader",
-    "language": "Python",
-    "name": "RohannShetty/gitbook-downloader",
-    "stars": 2,
-    "updated_at": "2026-08-28T14:36:30Z",
-    "url": "https://github.com/RohannShetty/gitbook-downloader"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16758,
-    "updated_at": "2026-08-28T14:54:45Z",
+    "updated_at": "2026-08-28T15:43:14Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34243,
-    "updated_at": "2026-08-28T15:03:14Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
@@ -401,52 +446,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8151,
-    "updated_at": "2026-08-28T14:48:24Z",
+    "updated_at": "2026-08-28T15:38:56Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6904,
-    "updated_at": "2026-08-28T12:49:34Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "Configuration-driven, history-aware RAG chatbot engine. One codebase serves any number of bots: each is a YAML profile n",
-    "id": "NabiBukhsh-AI/conversational-rag-engine",
-    "language": "Python",
-    "name": "NabiBukhsh-AI/conversational-rag-engine",
-    "stars": 0,
-    "updated_at": "2026-08-28T12:48:58Z",
-    "url": "https://github.com/NabiBukhsh-AI/conversational-rag-engine"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 73,
-    "updated_at": "2026-08-28T12:43:48Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "PDF RAG is an end-to-end Retrieval-Augmented Generation system for processing and querying PDF documents. It handles PDF",
-    "id": "UsamaImran/pdf-rag",
-    "language": "TypeScript",
-    "name": "UsamaImran/pdf-rag",
-    "stars": 0,
-    "updated_at": "2026-08-28T12:43:27Z",
-    "url": "https://github.com/UsamaImran/pdf-rag"
-  },
-  {
-    "description": "Offline legal RAG Q&A \u2014 Qwen-7B-Chat + Chroma, fully local",
-    "id": "Windyhhh/Offline-Legal-RAG-Qwen",
-    "language": "Python",
-    "name": "Windyhhh/Offline-Legal-RAG-Qwen",
-    "stars": 0,
-    "updated_at": "2026-08-28T12:42:09Z",
-    "url": "https://github.com/Windyhhh/Offline-Legal-RAG-Qwen"
   }
 ]
