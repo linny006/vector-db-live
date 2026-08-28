@@ -1,12 +1,30 @@
 [
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
+    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
+    "id": "siaarzh/scrybe",
+    "language": "TypeScript",
+    "name": "siaarzh/scrybe",
+    "stars": 3,
+    "updated_at": "2026-08-28T05:38:54Z",
+    "url": "https://github.com/siaarzh/scrybe"
+  },
+  {
+    "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
+    "id": "rahulboby/ChatVeritas",
     "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-28T05:23:35Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+    "name": "rahulboby/ChatVeritas",
+    "stars": 0,
+    "updated_at": "2026-08-28T05:34:23Z",
+    "url": "https://github.com/rahulboby/ChatVeritas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-28T05:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -18,22 +36,31 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 839,
+    "updated_at": "2026-08-28T05:30:13Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-28T05:23:35Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
     "description": "DSH local knowledge base plugin: multi-format import, smart chunking, vector index, hybrid search (BM25 + sqlite-vec + R",
     "id": "xiaoshi7915/dsh-kb-manager",
     "language": "TypeScript",
     "name": "xiaoshi7915/dsh-kb-manager",
     "stars": 1,
-    "updated_at": "2026-08-28T05:19:56Z",
+    "updated_at": "2026-08-28T05:35:13Z",
     "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-28T05:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Free, open-source collection of latest public API documentations - Update LLM's knowledge base with the latest API doc, ",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-28T04:21:12Z",
     "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 71,
-    "updated_at": "2026-08-28T04:56:13Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2699,
-    "updated_at": "2026-08-28T04:17:52Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "The Kubernetes Operator of Milvus. ",
-    "id": "zilliztech/milvus-operator",
-    "language": "Go",
-    "name": "zilliztech/milvus-operator",
-    "stars": 127,
-    "updated_at": "2026-08-28T04:18:32Z",
-    "url": "https://github.com/zilliztech/milvus-operator"
   }
 ]
