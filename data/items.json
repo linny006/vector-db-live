@@ -1,21 +1,21 @@
 [
   {
-    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
-    "id": "alxxtexxr/arxiv_agent",
-    "language": "Python",
-    "name": "alxxtexxr/arxiv_agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T19:55:44Z",
-    "url": "https://github.com/alxxtexxr/arxiv_agent"
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 7,
+    "updated_at": "2026-08-29T20:13:18Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T20:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-29T20:07:54Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Agentic RAG system that plans, retrieves, reflects, and verifies across multiple hops \u2014 instead of assuming one retrieva",
@@ -23,7 +23,7 @@
     "language": "Python",
     "name": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
     "stars": 0,
-    "updated_at": "2026-08-29T19:52:48Z",
+    "updated_at": "2026-08-29T20:06:29Z",
     "url": "https://github.com/AdarshBobade/ResX---A-Multi-hop-AI-Agent"
   },
   {
@@ -32,8 +32,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-29T19:45:23Z",
+    "updated_at": "2026-08-29T20:00:24Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T20:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:55:44Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -72,15 +90,6 @@
     "url": "https://github.com/nacre-work/nacre"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-29T19:33:49Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "",
     "id": "AlanMelendez/LinkedinIceBreaker_AI_ChatBot",
     "language": "Python",
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "ricmed/zettel_app",
     "stars": 0,
-    "updated_at": "2026-08-29T19:54:15Z",
+    "updated_at": "2026-08-29T20:07:16Z",
     "url": "https://github.com/ricmed/zettel_app"
   },
   {
@@ -142,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T19:12:23Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 7,
-    "updated_at": "2026-08-29T19:04:49Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
     "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
@@ -203,7 +203,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6225,
-    "updated_at": "2026-08-29T19:31:58Z",
+    "updated_at": "2026-08-29T20:04:19Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -383,7 +383,7 @@
     "language": "Rust",
     "name": "garnizeh/memex",
     "stars": 0,
-    "updated_at": "2026-08-29T19:39:42Z",
+    "updated_at": "2026-08-29T20:15:23Z",
     "url": "https://github.com/garnizeh/memex"
   },
   {
