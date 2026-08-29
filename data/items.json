@@ -1,21 +1,75 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T19:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-29T19:27:36Z",
+    "updated_at": "2026-08-29T19:43:16Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Decoupled, dual-mode AI Discord bot featuring 3-tier model routing, 3-layer pgvector memory, and Docker code sandboxing.",
+    "id": "Muhammad-Hassan12/Zauq",
+    "language": "Python",
+    "name": "Muhammad-Hassan12/Zauq",
+    "stars": 1,
+    "updated_at": "2026-08-29T19:41:00Z",
+    "url": "https://github.com/Muhammad-Hassan12/Zauq"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:37:52Z",
+    "url": "https://github.com/nacre-work/nacre"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-29T19:33:49Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "",
+    "id": "AlanMelendez/LinkedingIceBreaker_AI_ChatBot",
+    "language": "Python",
+    "name": "AlanMelendez/LinkedingIceBreaker_AI_ChatBot",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:33:43Z",
+    "url": "https://github.com/AlanMelendez/LinkedingIceBreaker_AI_ChatBot"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:33:36Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T19:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T19:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Persistent memory for LLM agents \u2014 episodic/semantic/procedural memory, auditable forgetting, and a benchmark proving it",
@@ -54,15 +108,6 @@
     "url": "https://github.com/run-llama/llama_index"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T19:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Agentic RAG system that plans, retrieves, reflects, and verifies across multiple hops \u2014 instead of assuming one retrieva",
     "id": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
     "language": "Python",
@@ -79,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T19:12:23Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-29T19:06:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
@@ -149,7 +185,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6225,
-    "updated_at": "2026-08-29T18:42:13Z",
+    "updated_at": "2026-08-29T19:31:58Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Rust",
     "name": "garnizeh/memex",
     "stars": 0,
-    "updated_at": "2026-08-29T19:24:32Z",
+    "updated_at": "2026-08-29T19:39:42Z",
     "url": "https://github.com/garnizeh/memex"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T17:00:52Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 235,
-    "updated_at": "2026-08-29T16:58:55Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "keldra-store/keldra",
-    "language": "Rust",
-    "name": "keldra-store/keldra",
-    "stars": 78,
-    "updated_at": "2026-08-29T16:55:06Z",
-    "url": "https://github.com/keldra-store/keldra"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 2,
-    "updated_at": "2026-08-29T16:41:05Z",
-    "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
-    "id": "rehan243/RAG-Enterprise-Search",
-    "language": "Python",
-    "name": "rehan243/RAG-Enterprise-Search",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:40:15Z",
-    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
   }
 ]
