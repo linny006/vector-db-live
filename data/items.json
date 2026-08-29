@@ -1,5 +1,77 @@
 [
   {
+    "description": "Decoupled, dual-mode AI Discord bot featuring 3-tier model routing, 3-layer pgvector memory, and Docker code sandboxing.",
+    "id": "Muhammad-Hassan12/Zauq",
+    "language": "Python",
+    "name": "Muhammad-Hassan12/Zauq",
+    "stars": 1,
+    "updated_at": "2026-08-29T16:27:25Z",
+    "url": "https://github.com/Muhammad-Hassan12/Zauq"
+  },
+  {
+    "description": "Advanced local-first RAG system powered by Ollama and LangGraph. Optimized for high-performance sLLM orchestration   fea",
+    "id": "darkzard05/rag-system-ollama",
+    "language": "Python",
+    "name": "darkzard05/rag-system-ollama",
+    "stars": 4,
+    "updated_at": "2026-08-29T16:26:11Z",
+    "url": "https://github.com/darkzard05/rag-system-ollama"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 235,
+    "updated_at": "2026-08-29T16:28:42Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Production-grade RAG knowledge base system in Rust: hybrid retrieval (vector + full-text + knowledge graph), pluggable s",
+    "id": "haibingzhao/easyrag",
+    "language": "Rust",
+    "name": "haibingzhao/easyrag",
+    "stars": 0,
+    "updated_at": "2026-08-29T16:21:56Z",
+    "url": "https://github.com/haibingzhao/easyrag"
+  },
+  {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 243,
+    "updated_at": "2026-08-29T16:20:57Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-29T16:18:11Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 275,
+    "updated_at": "2026-08-29T16:29:01Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T16:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,24 +108,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Decoupled, dual-mode AI Discord bot featuring 3-tier model routing, 3-layer pgvector memory, and Docker code sandboxing.",
-    "id": "Muhammad-Hassan12/Zauq",
-    "language": "Python",
-    "name": "Muhammad-Hassan12/Zauq",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:05:19Z",
-    "url": "https://github.com/Muhammad-Hassan12/Zauq"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T16:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
@@ -61,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-08-29T16:11:46Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-29T15:59:57Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri",
@@ -90,13 +135,13 @@
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
-    "description": "Production-grade RAG knowledge base system in Rust: hybrid retrieval (vector + full-text + knowledge graph), pluggable s",
-    "id": "haibingzhao/easyrag",
-    "language": "Rust",
-    "name": "haibingzhao/easyrag",
-    "stars": 0,
-    "updated_at": "2026-08-29T15:54:26Z",
-    "url": "https://github.com/haibingzhao/easyrag"
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 839,
+    "updated_at": "2026-08-29T15:55:02Z",
+    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
@@ -131,17 +176,8 @@
     "language": "Python",
     "name": "run-llama/llama_index",
     "stars": 51911,
-    "updated_at": "2026-08-29T15:50:04Z",
+    "updated_at": "2026-08-29T16:22:55Z",
     "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 839,
-    "updated_at": "2026-08-29T15:55:02Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -252,6 +288,15 @@
     "url": "https://github.com/GuptaSandip/sandip-portfolio"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30336,
+    "updated_at": "2026-08-29T15:10:20Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
     "id": "alxxtexxr/arxiv_agent",
     "language": "Python",
@@ -268,15 +313,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T15:04:04Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 275,
-    "updated_at": "2026-08-29T15:12:22Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
@@ -324,15 +360,6 @@
     "url": "https://github.com/karthikbilaspur/ai_learning"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30335,
-    "updated_at": "2026-08-29T15:10:20Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
     "id": "amirhosssein0/ai-platform-lab",
     "language": "TypeScript",
@@ -347,17 +374,8 @@
     "language": "Rust",
     "name": "garnizeh/memex",
     "stars": 0,
-    "updated_at": "2026-08-29T15:12:10Z",
+    "updated_at": "2026-08-29T16:21:33Z",
     "url": "https://github.com/garnizeh/memex"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 235,
-    "updated_at": "2026-08-29T16:10:52Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T14:04:56Z",
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:04:51Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 2,
-    "updated_at": "2026-08-29T14:04:06Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   }
 ]
