@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-29T12:45:17Z",
+    "updated_at": "2026-08-29T13:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-08-29T12:59:48Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-29T12:59:03Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-29T12:56:49Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
+    "id": "kichikubeihei/CodeMemoryPrime",
+    "language": "Rust",
+    "name": "kichikubeihei/CodeMemoryPrime",
+    "stars": 0,
+    "updated_at": "2026-08-29T12:54:28Z",
+    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 839,
+    "updated_at": "2026-08-29T12:54:00Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
+    "language": "Python",
+    "name": "vishalChoudhary-git/ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-29T12:53:52Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
+  },
+  {
+    "description": "ResearchPilot is an AI-powered research assistant that lets users upload PDFs, ask grounded questions, and explore answe",
+    "id": "us-utkarshsri07/ResearchPilotAI",
+    "language": "Python",
+    "name": "us-utkarshsri07/ResearchPilotAI",
+    "stars": 0,
+    "updated_at": "2026-08-29T12:53:46Z",
+    "url": "https://github.com/us-utkarshsri07/ResearchPilotAI"
+  },
+  {
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 6,
+    "updated_at": "2026-08-29T12:53:08Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9424,
+    "updated_at": "2026-08-29T12:51:56Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 235,
+    "updated_at": "2026-08-29T12:49:08Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T12:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Knowledge Intelligence System for AI Research",
@@ -36,15 +135,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
-    "id": "kichikubeihei/CodeMemoryPrime",
-    "language": "Rust",
-    "name": "kichikubeihei/CodeMemoryPrime",
-    "stars": 0,
-    "updated_at": "2026-08-29T12:36:59Z",
-    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
-  },
-  {
     "description": "Advanced local-first RAG system powered by Ollama and LangGraph. Optimized for high-performance sLLM orchestration   fea",
     "id": "darkzard05/rag-system-ollama",
     "language": "Python",
@@ -52,6 +142,15 @@
     "stars": 4,
     "updated_at": "2026-08-29T12:35:47Z",
     "url": "https://github.com/darkzard05/rag-system-ollama"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 275,
+    "updated_at": "2026-08-29T12:55:55Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -63,31 +162,13 @@
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T12:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-08-29T12:37:29Z",
+    "updated_at": "2026-08-29T12:53:07Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
-    "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-29T12:27:55Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
     "description": "RAG context engine for retrieval-augmented workflows \u2014 ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe",
@@ -144,24 +225,6 @@
     "url": "https://github.com/deven96/ahnlich"
   },
   {
-    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
-    "id": "alxxtexxr/arxiv_agent",
-    "language": "Python",
-    "name": "alxxtexxr/arxiv_agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T12:16:16Z",
-    "url": "https://github.com/alxxtexxr/arxiv_agent"
-  },
-  {
-    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
-    "id": "varun29ankuS/shodh-redb",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-redb",
-    "stars": 6,
-    "updated_at": "2026-08-29T12:12:16Z",
-    "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
     "id": "EVEDensity/AgentHub",
     "language": "Python",
@@ -169,24 +232,6 @@
     "stars": 25,
     "updated_at": "2026-08-29T12:11:54Z",
     "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-29T12:43:09Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 235,
-    "updated_at": "2026-08-29T12:40:15Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -306,20 +351,11 @@
     "url": "https://github.com/mohitshaky/enterprise-rag-service"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 839,
-    "updated_at": "2026-08-29T11:02:45Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
     "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
     "id": "M4F-S/gomaa",
     "language": "Python",
     "name": "M4F-S/gomaa",
-    "stars": 28,
+    "stars": 29,
     "updated_at": "2026-08-29T11:02:06Z",
     "url": "https://github.com/M4F-S/gomaa"
   },
@@ -405,15 +441,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 276,
-    "updated_at": "2026-08-29T12:33:49Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
     "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
     "id": "api-evangelist/datastax",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T10:05:23Z",
     "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-29T10:03:43Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
-    "id": "api-evangelist/chroma",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma",
-    "stars": 0,
-    "updated_at": "2026-08-29T10:02:07Z",
-    "url": "https://github.com/api-evangelist/chroma"
-  },
-  {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Go",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 2,
-    "updated_at": "2026-08-29T09:55:15Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
   }
 ]
