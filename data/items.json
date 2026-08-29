@@ -1,5 +1,95 @@
 [
   {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-29T18:29:36Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Multi-tenant enterprise RAG knowledge workspace built from scratch with FastAPI, PostgreSQL, Qdrant, custom chunking, em",
+    "id": "batul02/enterprise-ai-workspace",
+    "language": "Python",
+    "name": "batul02/enterprise-ai-workspace",
+    "stars": 0,
+    "updated_at": "2026-08-29T18:28:32Z",
+    "url": "https://github.com/batul02/enterprise-ai-workspace"
+  },
+  {
+    "description": "Vector store and embedding-space exploration over a synthetic BREWELLM coffee catalog",
+    "id": "raghu619/embedding-space-explorer",
+    "language": "Python",
+    "name": "raghu619/embedding-space-explorer",
+    "stars": 0,
+    "updated_at": "2026-08-29T18:27:24Z",
+    "url": "https://github.com/raghu619/embedding-space-explorer"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 467,
+    "updated_at": "2026-08-29T18:24:49Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "RAG-based legal AI assistant for grounded question answering over commercial law and policy documents.",
+    "id": "maelocrowd/commercial-law-assistant",
+    "language": "Python",
+    "name": "maelocrowd/commercial-law-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-29T18:24:48Z",
+    "url": "https://github.com/maelocrowd/commercial-law-assistant"
+  },
+  {
+    "description": "Embedded multi-modal database in Rust \u2014 vector + full-text + filter + graph + geo behind one fluent builder API. A vibe-",
+    "id": "i-rocky/corvid",
+    "language": "Rust",
+    "name": "i-rocky/corvid",
+    "stars": 1,
+    "updated_at": "2026-08-29T18:23:28Z",
+    "url": "https://github.com/i-rocky/corvid"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 7,
+    "updated_at": "2026-08-29T18:23:27Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 275,
+    "updated_at": "2026-08-29T18:22:27Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-29T18:20:28Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T18:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "TypeScript",
     "name": "amirhosssein0/ai-platform-lab",
     "stars": 4,
-    "updated_at": "2026-08-29T18:10:32Z",
+    "updated_at": "2026-08-29T18:19:53Z",
     "url": "https://github.com/amirhosssein0/ai-platform-lab"
   },
   {
@@ -25,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T18:09:45Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "RAG-based legal AI assistant for grounded question answering over commercial law and policy documents.",
-    "id": "maelocrowd/commercial-law-assistant",
-    "language": "Python",
-    "name": "maelocrowd/commercial-law-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-29T18:09:20Z",
-    "url": "https://github.com/maelocrowd/commercial-law-assistant"
   },
   {
     "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
@@ -50,7 +131,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-08-29T18:08:27Z",
+    "updated_at": "2026-08-29T18:16:50Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -81,24 +162,6 @@
     "url": "https://github.com/sohamdas01/NuroDesk"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T18:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-29T18:13:52Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -106,15 +169,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T17:58:11Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 275,
-    "updated_at": "2026-08-29T17:57:59Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
@@ -166,7 +220,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6917,
+    "stars": 6918,
     "updated_at": "2026-08-29T17:35:16Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -306,15 +360,6 @@
     "url": "https://github.com/keldra-store/keldra"
   },
   {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 7,
-    "updated_at": "2026-08-29T17:47:58Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
     "description": "Profile README",
     "id": "rehan243/rehan243",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 839,
     "updated_at": "2026-08-29T15:55:02Z",
     "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16759,
-    "updated_at": "2026-08-29T18:07:09Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 22,
-    "updated_at": "2026-08-29T15:58:11Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "ResearchPilot is an AI-powered research assistant that lets users upload PDFs, ask grounded questions, and explore answe",
-    "id": "us-utkarshsri07/ResearchPilotAI",
-    "language": "Python",
-    "name": "us-utkarshsri07/ResearchPilotAI",
-    "stars": 0,
-    "updated_at": "2026-08-29T15:51:11Z",
-    "url": "https://github.com/us-utkarshsri07/ResearchPilotAI"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-29T15:42:16Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
-    "id": "M4F-S/gomaa",
-    "language": "Python",
-    "name": "M4F-S/gomaa",
-    "stars": 30,
-    "updated_at": "2026-08-29T15:42:00Z",
-    "url": "https://github.com/M4F-S/gomaa"
   }
 ]
