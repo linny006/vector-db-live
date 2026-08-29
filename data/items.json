@@ -1,12 +1,39 @@
 [
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-29T05:19:11Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-29T05:44:41Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "RAG-powered knowledge assistant that ingests documents and web pages, retrieves relevant context with FAISS, and generat",
+    "id": "Mithuna-spec/rag-application-chatbot",
+    "language": "Jupyter Notebook",
+    "name": "Mithuna-spec/rag-application-chatbot",
+    "stars": 0,
+    "updated_at": "2026-08-29T05:37:40Z",
+    "url": "https://github.com/Mithuna-spec/rag-application-chatbot"
+  },
+  {
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
+    "language": "Python",
+    "name": "vishalChoudhary-git/ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-29T05:37:23Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
+  },
+  {
+    "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
+    "id": "api-evangelist/sequoiadb",
+    "language": "\u2014",
+    "name": "api-evangelist/sequoiadb",
+    "stars": 0,
+    "updated_at": "2026-08-29T05:36:45Z",
+    "url": "https://github.com/api-evangelist/sequoiadb"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -14,17 +41,26 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-29T05:19:03Z",
+    "updated_at": "2026-08-29T05:36:21Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
-    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
-    "id": "tryAGI/Qdrant",
-    "language": "C#",
-    "name": "tryAGI/Qdrant",
-    "stars": 0,
-    "updated_at": "2026-08-29T05:18:17Z",
-    "url": "https://github.com/tryAGI/Qdrant"
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-29T05:33:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
+    "id": "M4F-S/gomaa",
+    "language": "Python",
+    "name": "M4F-S/gomaa",
+    "stars": 28,
+    "updated_at": "2026-08-29T05:31:50Z",
+    "url": "https://github.com/M4F-S/gomaa"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -32,7 +68,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-29T05:15:26Z",
+    "updated_at": "2026-08-29T05:30:21Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -43,6 +79,24 @@
     "stars": 3,
     "updated_at": "2026-08-29T05:30:17Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-29T05:19:11Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
+    "id": "tryAGI/Qdrant",
+    "language": "C#",
+    "name": "tryAGI/Qdrant",
+    "stars": 0,
+    "updated_at": "2026-08-29T05:18:17Z",
+    "url": "https://github.com/tryAGI/Qdrant"
   },
   {
     "description": "build vector database extensions over Apache Datafusion and CMU-DB's BusTub system",
@@ -63,21 +117,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-29T05:07:47Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "unohee/OpenSwarm",
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-29T05:29:17Z",
+    "updated_at": "2026-08-29T05:41:57Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -99,15 +144,6 @@
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-29T04:51:01Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -115,15 +151,6 @@
     "stars": 9424,
     "updated_at": "2026-08-29T04:43:02Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
-    "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-29T04:42:41Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
     "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
@@ -214,6 +241,15 @@
     "stars": 9207,
     "updated_at": "2026-08-29T05:22:49Z",
     "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 51910,
+    "updated_at": "2026-08-29T03:43:47Z",
+    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "Nomic AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib",
@@ -412,41 +448,5 @@
     "stars": 791,
     "updated_at": "2026-08-29T03:36:45Z",
     "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 379,
-    "updated_at": "2026-08-29T02:37:44Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
-    "id": "pinecone-io/examples",
-    "language": "Jupyter Notebook",
-    "name": "pinecone-io/examples",
-    "stars": 3039,
-    "updated_at": "2026-08-29T02:09:48Z",
-    "url": "https://github.com/pinecone-io/examples"
-  },
-  {
-    "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
-    "id": "api-evangelist/ironcore-labs",
-    "language": "\u2014",
-    "name": "api-evangelist/ironcore-labs",
-    "stars": 0,
-    "updated_at": "2026-08-29T02:00:52Z",
-    "url": "https://github.com/api-evangelist/ironcore-labs"
-  },
-  {
-    "description": "\u79bb\u7ebf\u6cd5\u5f8b RAG \u95ee\u7b54 \u2014 Qwen-7B-Chat + Chroma \u5168\u672c\u5730\u90e8\u7f72",
-    "id": "Windyhhh/Offline-Legal-RAG-Qwen",
-    "language": "Python",
-    "name": "Windyhhh/Offline-Legal-RAG-Qwen",
-    "stars": 0,
-    "updated_at": "2026-08-29T01:47:13Z",
-    "url": "https://github.com/Windyhhh/Offline-Legal-RAG-Qwen"
   }
 ]
