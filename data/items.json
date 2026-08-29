@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-29T17:00:20Z",
+    "updated_at": "2026-08-29T17:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "sohamdas01/NuroDesk",
+    "language": "JavaScript",
+    "name": "sohamdas01/NuroDesk",
+    "stars": 0,
+    "updated_at": "2026-08-29T17:12:21Z",
+    "url": "https://github.com/sohamdas01/NuroDesk"
+  },
+  {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 790,
+    "updated_at": "2026-08-29T17:10:57Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-08-29T17:10:00Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-29T17:09:47Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Knowledge Intelligence System for AI Research",
+    "id": "letuandatt/AI-Radar",
+    "language": "Python",
+    "name": "letuandatt/AI-Radar",
+    "stars": 1,
+    "updated_at": "2026-08-29T17:15:23Z",
+    "url": "https://github.com/letuandatt/AI-Radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-29T17:06:34Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "PaveDB is an inspectable retrieval database for AI applications: text-backed vector search with source provenance and qu",
+    "id": "rodrigopitanga/pavedb",
+    "language": "Python",
+    "name": "rodrigopitanga/pavedb",
+    "stars": 7,
+    "updated_at": "2026-08-29T17:05:27Z",
+    "url": "https://github.com/rodrigopitanga/pavedb"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-29T17:03:55Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 5,
+    "updated_at": "2026-08-29T17:02:10Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
+    "language": "Python",
+    "name": "vishalChoudhary-git/ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-29T17:00:52Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T17:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -16,15 +115,6 @@
     "stars": 235,
     "updated_at": "2026-08-29T16:58:55Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 790,
-    "updated_at": "2026-08-29T16:55:27Z",
-    "url": "https://github.com/christopherkarani/Wax"
   },
   {
     "description": "Object storage for the AI age",
@@ -45,21 +135,12 @@
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
-    "description": "PaveDB is an inspectable retrieval database for AI applications: text-backed vector search with source provenance and qu",
-    "id": "rodrigopitanga/pavedb",
-    "language": "Python",
-    "name": "rodrigopitanga/pavedb",
-    "stars": 7,
-    "updated_at": "2026-08-29T16:51:47Z",
-    "url": "https://github.com/rodrigopitanga/pavedb"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-08-29T16:50:52Z",
+    "updated_at": "2026-08-29T17:00:53Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -70,15 +151,6 @@
     "stars": 7,
     "updated_at": "2026-08-29T16:52:03Z",
     "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T16:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Profile README",
@@ -97,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T16:40:15Z",
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-29T16:33:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Decoupled, dual-mode AI Discord bot featuring 3-tier model routing, 3-layer pgvector memory, and Docker code sandboxing.",
@@ -158,17 +221,8 @@
     "language": "Python",
     "name": "hseshadr/edgeproc-core",
     "stars": 0,
-    "updated_at": "2026-08-29T16:14:27Z",
+    "updated_at": "2026-08-29T17:03:47Z",
     "url": "https://github.com/hseshadr/edgeproc-core"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-29T16:12:19Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri",
@@ -178,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T15:59:48Z",
     "url": "https://github.com/Tamilmani027/Context-IQ"
-  },
-  {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
-    "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-29T15:58:39Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -223,15 +268,6 @@
     "stars": 51911,
     "updated_at": "2026-08-29T16:22:55Z",
     "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-29T16:37:07Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -295,15 +331,6 @@
     "stars": 56,
     "updated_at": "2026-08-29T15:27:52Z",
     "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 5,
-    "updated_at": "2026-08-29T15:26:09Z",
-    "url": "https://github.com/Yasou13/MESA"
   },
   {
     "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T16:21:33Z",
     "url": "https://github.com/garnizeh/memex"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:14:18Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:10:05Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:08:08Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
   }
 ]
