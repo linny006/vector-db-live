@@ -1,11 +1,47 @@
 [
   {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-29T05:19:11Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-29T05:19:03Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
+    "id": "tryAGI/Qdrant",
+    "language": "C#",
+    "name": "tryAGI/Qdrant",
+    "stars": 0,
+    "updated_at": "2026-08-29T05:18:17Z",
+    "url": "https://github.com/tryAGI/Qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T05:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-29T05:15:21Z",
+    "updated_at": "2026-08-29T05:30:17Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,15 +52,6 @@
     "stars": 790,
     "updated_at": "2026-08-29T05:14:36Z",
     "url": "https://github.com/skyzh/write-you-a-vector-db"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-29T05:10:10Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -50,17 +77,8 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-29T05:00:27Z",
+    "updated_at": "2026-08-29T05:29:17Z",
     "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T05:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A from-scratch Traditional RAG pipeline for document question answering using PDF ingestion, text cleaning, semantic chu",
@@ -180,15 +198,6 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-29T03:56:51Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "ObjectBox \u2014 independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance,",
     "id": "api-evangelist/objectbox",
     "language": "\u2014",
@@ -203,7 +212,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9207,
-    "updated_at": "2026-08-29T04:52:46Z",
+    "updated_at": "2026-08-29T05:22:49Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T01:47:13Z",
     "url": "https://github.com/Windyhhh/Offline-Legal-RAG-Qwen"
-  },
-  {
-    "description": "C# SDK for the Weaviate API -- open-source vector database",
-    "id": "tryAGI/Weaviate",
-    "language": "C#",
-    "name": "tryAGI/Weaviate",
-    "stars": 2,
-    "updated_at": "2026-08-29T01:34:14Z",
-    "url": "https://github.com/tryAGI/Weaviate"
   }
 ]
