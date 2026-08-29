@@ -1,5 +1,104 @@
 [
   {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-08-29T11:30:02Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
+    "language": "Python",
+    "name": "vishalChoudhary-git/ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:29:08Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:28:14Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:27:51Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-29T11:27:43Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "RAG over LLM provider pricing docs, with model evals, a measured prompt-injection rate, and a tool-calling agent \u2014 all o",
+    "id": "acsavenhq/llm-docs-lab",
+    "language": "JavaScript",
+    "name": "acsavenhq/llm-docs-lab",
+    "stars": 1,
+    "updated_at": "2026-08-29T11:26:27Z",
+    "url": "https://github.com/acsavenhq/llm-docs-lab"
+  },
+  {
+    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
+    "id": "Daaboulex/openviking-nix",
+    "language": "Shell",
+    "name": "Daaboulex/openviking-nix",
+    "stars": 3,
+    "updated_at": "2026-08-29T11:26:25Z",
+    "url": "https://github.com/Daaboulex/openviking-nix"
+  },
+  {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 243,
+    "updated_at": "2026-08-29T11:30:09Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
+    "description": "Local, Offline Documentation Context Server (MCP) for LLMs & AI Coding Agents",
+    "id": "garnizeh/memex",
+    "language": "Rust",
+    "name": "garnizeh/memex",
+    "stars": 0,
+    "updated_at": "2026-08-29T11:30:15Z",
+    "url": "https://github.com/garnizeh/memex"
+  },
+  {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 791,
+    "updated_at": "2026-08-29T11:17:42Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T11:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,22 +108,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Local, Offline Documentation Context Server (MCP) for LLMs & AI Coding Agents",
-    "id": "garnizeh/memex",
-    "language": "Rust",
-    "name": "garnizeh/memex",
+    "description": "RAG context engine for retrieval-augmented workflows \u2014 ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe",
+    "id": "RehanIlyas-dev/Omni-Context",
+    "language": "Python",
+    "name": "RehanIlyas-dev/Omni-Context",
     "stars": 0,
-    "updated_at": "2026-08-29T11:14:20Z",
-    "url": "https://github.com/garnizeh/memex"
-  },
-  {
-    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 791,
-    "updated_at": "2026-08-29T11:09:47Z",
-    "url": "https://github.com/christopherkarani/Wax"
+    "updated_at": "2026-08-29T11:14:12Z",
+    "url": "https://github.com/RehanIlyas-dev/Omni-Context"
   },
   {
     "description": "Production-shaped RAG service in Java. Spring AI, pgvector, multi-tenant isolation, grounding guardrails and per-tenant ",
@@ -63,15 +153,6 @@
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-29T11:05:01Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "unohee/OpenSwarm",
     "language": "TypeScript",
@@ -97,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T11:01:36Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T11:00:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -171,15 +243,6 @@
     "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
   },
   {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-29T10:32:40Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
     "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
     "id": "liliang-cn/cortexdb",
     "language": "Go",
@@ -196,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T10:30:06Z",
     "url": "https://github.com/Mid-D-Man/msx"
-  },
-  {
-    "description": "RAG context engine for retrieval-augmented workflows \u2014 ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe",
-    "id": "RehanIlyas-dev/Omni-Context",
-    "language": "Python",
-    "name": "RehanIlyas-dev/Omni-Context",
-    "stars": 0,
-    "updated_at": "2026-08-29T11:14:12Z",
-    "url": "https://github.com/RehanIlyas-dev/Omni-Context"
   },
   {
     "description": "RAG app for chatting with local documents. LangChain + ChromaDB + Streamlit + Gemini, with page-level citations and loca",
@@ -230,7 +284,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 276,
-    "updated_at": "2026-08-29T11:09:48Z",
+    "updated_at": "2026-08-29T11:20:31Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 16,
     "updated_at": "2026-08-29T08:22:15Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Rebuild AI building blocks from scratch for learning: transformer, tokenizer, agent, RAG, vector DB. \u4ece\u96f6\u5b9e\u73b0 AI \u76f8\u5173\u7684\u5de5\u5177\u4e0e\u6846\u67b6",
-    "id": "xbsheng/ai-from-scratch",
-    "language": "Python",
-    "name": "xbsheng/ai-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-08-29T08:14:30Z",
-    "url": "https://github.com/xbsheng/ai-from-scratch"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-29T08:14:13Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
-    "id": "TAIPANBOX/engram",
-    "language": "Python",
-    "name": "TAIPANBOX/engram",
-    "stars": 2,
-    "updated_at": "2026-08-29T08:12:50Z",
-    "url": "https://github.com/TAIPANBOX/engram"
-  },
-  {
-    "description": "Private news desk that scrapes public articles, extracts structured stories with LLMs, stores them as semantic memory in",
-    "id": "aneeshpatne/Nova",
-    "language": "TypeScript",
-    "name": "aneeshpatne/Nova",
-    "stars": 1,
-    "updated_at": "2026-08-29T08:08:41Z",
-    "url": "https://github.com/aneeshpatne/Nova"
-  },
-  {
-    "description": "Intelligent RAG system for querying documents and PostgreSQL databases using LangChain, FastAPI, Ollama, FAISS, and loca",
-    "id": "SadiqCodex/Smart-Rag-Engine",
-    "language": "Python",
-    "name": "SadiqCodex/Smart-Rag-Engine",
-    "stars": 0,
-    "updated_at": "2026-08-29T07:58:53Z",
-    "url": "https://github.com/SadiqCodex/Smart-Rag-Engine"
-  },
-  {
-    "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
-    "id": "api-evangelist/zilliz",
-    "language": "\u2014",
-    "name": "api-evangelist/zilliz",
-    "stars": 0,
-    "updated_at": "2026-08-29T07:46:17Z",
-    "url": "https://github.com/api-evangelist/zilliz"
   }
 ]
