@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-29 03:00 UTC
+> ⏰ Last updated: 2026-08-29 03:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,55 +43,55 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-29 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [muhammad-hameed-ai/saudi-vision-2030-rag](https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag) | 0 | Python | 2026-08-29 | Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2) |
-| 3 | [api-evangelist/marqo](https://github.com/api-evangelist/marqo) | 0 | — | 2026-08-29 | Marqo — independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal  |
-| 4 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1881 | Go | 2026-08-29 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 5 | [21e8-miner/grain-vdb](https://github.com/21e8-miner/grain-vdb) | 0 | Python | 2026-08-29 | GrainVDB: High-performance vector search engine written in native C++ and Metal. Optimized for Apple Silicon Unified Mem |
-| 6 | [sanju1098/ai-rag-backend](https://github.com/sanju1098/ai-rag-backend) | 0 | TypeScript | 2026-08-29 | A robust backend application for Retrieval-Augmented Generation (RAG) that processes PDF documents, extracts text, creat |
-| 7 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-29 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-29 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [api-evangelist/lf-ai-and-data](https://github.com/api-evangelist/lf-ai-and-data) | 0 | — | 2026-08-29 | LF AI and Data — independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation |
-| 10 | [gaboeremita/laravel-vera](https://github.com/gaboeremita/laravel-vera) | 1 | PHP | 2026-08-29 | Multi-assistant AI platform with RAG-driven context, agentic capabilities, tool calling, pluggable LLM providers, voice  |
-| 11 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-29 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 12 | [schmitech/orbit](https://github.com/schmitech/orbit) | 343 | Python | 2026-08-29 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 13 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-29 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 14 | [api-evangelist/lancedb](https://github.com/api-evangelist/lancedb) | 0 | — | 2026-08-29 | LanceDB — independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda |
-| 15 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-08-29 | Identity and Authorization Service with Vector and AI Integration |
-| 16 | [christopherkarani/Wax](https://github.com/christopherkarani/Wax) | 791 | Swift | 2026-08-29 | Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N |
-| 17 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 839 | TypeScript | 2026-08-29 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
-| 18 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 467 | TypeScript | 2026-08-29 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
-| 19 | [zilliztech/knowhere](https://github.com/zilliztech/knowhere) | 379 | C++ | 2026-08-29 | Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN. |
-| 20 | [pinecone-io/examples](https://github.com/pinecone-io/examples) | 3039 | Jupyter Notebook | 2026-08-29 | Jupyter Notebooks to help you get hands-on with Pinecone vector databases |
-| 21 | [api-evangelist/ironcore-labs](https://github.com/api-evangelist/ironcore-labs) | 0 | — | 2026-08-29 | IronCore Labs — independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica |
-| 22 | [Windyhhh/Offline-Legal-RAG-Qwen](https://github.com/Windyhhh/Offline-Legal-RAG-Qwen) | 0 | Python | 2026-08-29 | 离线法律 RAG 问答 — Qwen-7B-Chat + Chroma 全本地部署 |
-| 23 | [tryAGI/Weaviate](https://github.com/tryAGI/Weaviate) | 2 | C# | 2026-08-29 | C# SDK for the Weaviate API -- open-source vector database |
-| 24 | [tryAGI/Milvus](https://github.com/tryAGI/Milvus) | 0 | C# | 2026-08-29 | C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management |
-| 25 | [tryAGI/Chroma](https://github.com/tryAGI/Chroma) | 1 | C# | 2026-08-29 | C# SDK for the Chroma API -- open-source vector database |
-| 26 | [perforate-org/gleaph](https://github.com/perforate-org/gleaph) | 1 | Rust | 2026-08-29 | Decentralized Graph Database with Integrated Vector Search |
-| 27 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | 1347 | Java | 2026-08-29 | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. |
-| 28 | [A3S-Lab/Vec](https://github.com/A3S-Lab/Vec) | 0 | Rust | 2026-08-29 | Native Rust vector and full-text engine |
-| 29 | [jkelly-dev1/federated-retrieval-router](https://github.com/jkelly-dev1/federated-retrieval-router) | 0 | Python | 2026-08-29 | Search and relevance across four stores -- vector embeddings, graph, full-text and relational -- measuring the ROUTING D |
-| 30 | [jkelly-dev1/ai-data-boundary-proxy](https://github.com/jkelly-dev1/ai-data-boundary-proxy) | 0 | Python | 2026-08-29 | A data-boundary proxy for AI systems that measures what its own controls miss: PII detection with recall below 1.0, egre |
-| 31 | [lopadova/AskMyDocs](https://github.com/lopadova/AskMyDocs) | 7 | PHP | 2026-08-29 | AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge. |
-| 32 | [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) | 10257 | C++ | 2026-08-29 | OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demand |
-| 33 | [api-evangelist/gel-data](https://github.com/api-evangelist/gel-data) | 0 | — | 2026-08-29 | Gel Data — independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b |
-| 34 | [ricmed/zettel_app](https://github.com/ricmed/zettel_app) | 0 | Python | 2026-08-29 | Adaptação do Método Zettelkasten, de gestão de conhecimento, para o mundo digital |
-| 35 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 65345 | JavaScript | 2026-08-29 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 36 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 235 | Rust | 2026-08-29 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 37 | [Shitless-jnr3697/rebasis](https://github.com/Shitless-jnr3697/rebasis) | 0 | Python | 2026-08-29 | Measure, bridge, and migrate embedding upgrades safely without reindexing—know when it's worth it and do it without down |
-| 38 | [boulif781/enterprise-knowledge-assistant](https://github.com/boulif781/enterprise-knowledge-assistant) | 0 | — | 2026-08-29 | Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources. |
-| 39 | [tryAGI/Turbopuffer](https://github.com/tryAGI/Turbopuffer) | 0 | C# | 2026-08-29 | C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval |
-| 40 | [tryAGI/Qdrant](https://github.com/tryAGI/Qdrant) | 0 | C# | 2026-08-29 | C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management |
-| 41 | [Alkaloiddolichocephaly898/agentic-ai-tutorial](https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial) | 1 | Jupyter Notebook | 2026-08-29 | Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows. |
-| 42 | [tryAGI/Pinecone](https://github.com/tryAGI/Pinecone) | 8 | C# | 2026-08-29 | C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference |
-| 43 | [Bekhbekh7821/CanopyOps](https://github.com/Bekhbekh7821/CanopyOps) | 1 | — | 2026-08-29 | Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups. |
-| 44 | [doriapt53/spring-manifold-next-gen](https://github.com/doriapt53/spring-manifold-next-gen) | 0 | TypeScript | 2026-08-29 | Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25 |
-| 45 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-08-29 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
-| 46 | [jefffergunson118-beep/smara](https://github.com/jefffergunson118-beep/smara) | 1 | — | 2026-08-29 | Sync persistent memory across your AI tools and agents using a unified MCP server. |
-| 47 | [Twentyeight-lawnchair711/AlayaRenderer](https://github.com/Twentyeight-lawnchair711/AlayaRenderer) | 0 | — | 2026-08-29 | Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing |
-| 48 | [Deafened-vascularstructure846/pageindex-rag](https://github.com/Deafened-vascularstructure846/pageindex-rag) | 1 | Python | 2026-08-29 | Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store |
-| 49 | [Uncomfortable-filagree112/OpenViking](https://github.com/Uncomfortable-filagree112/OpenViking) | 0 | — | 2026-08-29 | Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks. |
-| 50 | [cornellebivalved856/example-multimodal-rag](https://github.com/cornellebivalved856/example-multimodal-rag) | 0 | Python | 2026-08-29 | Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and  |
+| 2 | [api-evangelist/milvus](https://github.com/api-evangelist/milvus) | 0 | — | 2026-08-29 | Milvus is an Apache 2.0 open-source vector database. It exposes a versioned REST API alongside gRPC and language SDKs (P |
+| 3 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-08-29 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 4 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 25 | Python | 2026-08-29 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
+| 5 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-08-29 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-29 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 7 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1706 | Rust | 2026-08-29 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 8 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-29 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
+| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-29 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 10 | [muhammad-hameed-ai/saudi-vision-2030-rag](https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag) | 0 | Python | 2026-08-29 | Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2) |
+| 11 | [api-evangelist/marqo](https://github.com/api-evangelist/marqo) | 0 | — | 2026-08-29 | Marqo — independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal  |
+| 12 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1881 | Go | 2026-08-29 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 13 | [21e8-miner/grain-vdb](https://github.com/21e8-miner/grain-vdb) | 0 | Python | 2026-08-29 | GrainVDB: High-performance vector search engine written in native C++ and Metal. Optimized for Apple Silicon Unified Mem |
+| 14 | [sanju1098/ai-rag-backend](https://github.com/sanju1098/ai-rag-backend) | 0 | TypeScript | 2026-08-29 | A robust backend application for Retrieval-Augmented Generation (RAG) that processes PDF documents, extracts text, creat |
+| 15 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-08-29 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 16 | [api-evangelist/lf-ai-and-data](https://github.com/api-evangelist/lf-ai-and-data) | 0 | — | 2026-08-29 | LF AI and Data — independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation |
+| 17 | [gaboeremita/laravel-vera](https://github.com/gaboeremita/laravel-vera) | 1 | PHP | 2026-08-29 | Multi-assistant AI platform with RAG-driven context, agentic capabilities, tool calling, pluggable LLM providers, voice  |
+| 18 | [schmitech/orbit](https://github.com/schmitech/orbit) | 343 | Python | 2026-08-29 | Self-hosted, OpenAI-compatible AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 19 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-29 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 20 | [api-evangelist/lancedb](https://github.com/api-evangelist/lancedb) | 0 | — | 2026-08-29 | LanceDB — independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda |
+| 21 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-08-29 | Identity and Authorization Service with Vector and AI Integration |
+| 22 | [christopherkarani/Wax](https://github.com/christopherkarani/Wax) | 791 | Swift | 2026-08-29 | Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N |
+| 23 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 839 | TypeScript | 2026-08-29 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
+| 24 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 467 | TypeScript | 2026-08-29 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 25 | [zilliztech/knowhere](https://github.com/zilliztech/knowhere) | 379 | C++ | 2026-08-29 | Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN. |
+| 26 | [pinecone-io/examples](https://github.com/pinecone-io/examples) | 3039 | Jupyter Notebook | 2026-08-29 | Jupyter Notebooks to help you get hands-on with Pinecone vector databases |
+| 27 | [api-evangelist/ironcore-labs](https://github.com/api-evangelist/ironcore-labs) | 0 | — | 2026-08-29 | IronCore Labs — independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica |
+| 28 | [Windyhhh/Offline-Legal-RAG-Qwen](https://github.com/Windyhhh/Offline-Legal-RAG-Qwen) | 0 | Python | 2026-08-29 | 离线法律 RAG 问答 — Qwen-7B-Chat + Chroma 全本地部署 |
+| 29 | [tryAGI/Weaviate](https://github.com/tryAGI/Weaviate) | 2 | C# | 2026-08-29 | C# SDK for the Weaviate API -- open-source vector database |
+| 30 | [tryAGI/Milvus](https://github.com/tryAGI/Milvus) | 0 | C# | 2026-08-29 | C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management |
+| 31 | [tryAGI/Chroma](https://github.com/tryAGI/Chroma) | 1 | C# | 2026-08-29 | C# SDK for the Chroma API -- open-source vector database |
+| 32 | [perforate-org/gleaph](https://github.com/perforate-org/gleaph) | 1 | Rust | 2026-08-29 | Decentralized Graph Database with Integrated Vector Search |
+| 33 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | 1347 | Java | 2026-08-29 | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. |
+| 34 | [A3S-Lab/Vec](https://github.com/A3S-Lab/Vec) | 0 | Rust | 2026-08-29 | Native Rust vector and full-text engine |
+| 35 | [jkelly-dev1/federated-retrieval-router](https://github.com/jkelly-dev1/federated-retrieval-router) | 0 | Python | 2026-08-29 | Search and relevance across four stores -- vector embeddings, graph, full-text and relational -- measuring the ROUTING D |
+| 36 | [jkelly-dev1/ai-data-boundary-proxy](https://github.com/jkelly-dev1/ai-data-boundary-proxy) | 0 | Python | 2026-08-29 | A data-boundary proxy for AI systems that measures what its own controls miss: PII detection with recall below 1.0, egre |
+| 37 | [lopadova/AskMyDocs](https://github.com/lopadova/AskMyDocs) | 7 | PHP | 2026-08-29 | AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge. |
+| 38 | [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) | 10257 | C++ | 2026-08-29 | OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demand |
+| 39 | [api-evangelist/gel-data](https://github.com/api-evangelist/gel-data) | 0 | — | 2026-08-29 | Gel Data — independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b |
+| 40 | [ricmed/zettel_app](https://github.com/ricmed/zettel_app) | 0 | Python | 2026-08-29 | Adaptação do Método Zettelkasten, de gestão de conhecimento, para o mundo digital |
+| 41 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 65347 | JavaScript | 2026-08-29 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 42 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 235 | Rust | 2026-08-29 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 43 | [Shitless-jnr3697/rebasis](https://github.com/Shitless-jnr3697/rebasis) | 0 | Python | 2026-08-29 | Measure, bridge, and migrate embedding upgrades safely without reindexing—know when it's worth it and do it without down |
+| 44 | [boulif781/enterprise-knowledge-assistant](https://github.com/boulif781/enterprise-knowledge-assistant) | 0 | — | 2026-08-29 | Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources. |
+| 45 | [tryAGI/Turbopuffer](https://github.com/tryAGI/Turbopuffer) | 0 | C# | 2026-08-29 | C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval |
+| 46 | [tryAGI/Qdrant](https://github.com/tryAGI/Qdrant) | 0 | C# | 2026-08-29 | C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management |
+| 47 | [Alkaloiddolichocephaly898/agentic-ai-tutorial](https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial) | 1 | Jupyter Notebook | 2026-08-29 | Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows. |
+| 48 | [tryAGI/Pinecone](https://github.com/tryAGI/Pinecone) | 8 | C# | 2026-08-29 | C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference |
+| 49 | [Bekhbekh7821/CanopyOps](https://github.com/Bekhbekh7821/CanopyOps) | 1 | — | 2026-08-29 | Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups. |
+| 50 | [doriapt53/spring-manifold-next-gen](https://github.com/doriapt53/spring-manifold-next-gen) | 0 | TypeScript | 2026-08-29 | Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25 |
 <!-- TRACKER_TABLE_END -->
 
 ---
