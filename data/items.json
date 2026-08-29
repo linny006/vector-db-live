@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T07:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
+    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "language": "Jupyter Notebook",
+    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
+    "stars": 0,
+    "updated_at": "2026-08-29T07:44:32Z",
+    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-29T07:42:06Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
+    "id": "project-david-ai/projectdavid-platform",
+    "language": "Python",
+    "name": "project-david-ai/projectdavid-platform",
+    "stars": 1,
+    "updated_at": "2026-08-29T07:39:50Z",
+    "url": "https://github.com/project-david-ai/projectdavid-platform"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-08-29T07:36:23Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-29T07:33:28Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-29T07:42:43Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
     "description": "AI-powered PDF chat application using RAG (Retrieval-Augmented Generation) that enables users to upload documents, gener",
     "id": "aashutosh585/chatpdf",
     "language": "JavaScript",
     "name": "aashutosh585/chatpdf",
     "stars": 0,
-    "updated_at": "2026-08-29T07:29:20Z",
+    "updated_at": "2026-08-29T07:30:39Z",
     "url": "https://github.com/aashutosh585/chatpdf"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T07:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Weaviate is an open-source, AI-native vector database that enables developers to build semantic search and AI-powered ap",
@@ -72,15 +144,6 @@
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-29T07:19:55Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
     "id": "Bekhbekh7821/CanopyOps",
     "language": "\u2014",
@@ -90,21 +153,12 @@
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-29T07:19:38Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 235,
-    "updated_at": "2026-08-29T07:17:57Z",
+    "updated_at": "2026-08-29T07:39:33Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -124,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T07:15:29Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T07:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T07:15:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -198,7 +234,7 @@
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   },
   {
-    "description": "Vectorize is a RAG (retrieval-augmented generation) pipeline platform that ingests unstructured data, chunks and embeds ",
+    "description": "Vectorize \u2014 independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au",
     "id": "api-evangelist/vectorize-io",
     "language": "\u2014",
     "name": "api-evangelist/vectorize-io",
@@ -214,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T07:09:03Z",
     "url": "https://github.com/jkelly-dev1/federated-retrieval-router"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-29T07:07:55Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
@@ -279,7 +306,7 @@
     "url": "https://github.com/FIRE-hub911/citation-assistant"
   },
   {
-    "description": "Upstash provides serverless data platforms including managed Redis, Kafka, QStash messaging, and Vector databases optimi",
+    "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
     "id": "api-evangelist/upstash",
     "language": "\u2014",
     "name": "api-evangelist/upstash",
@@ -322,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T07:01:10Z",
     "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
-    "id": "theogony-project/theogony",
-    "language": "Python",
-    "name": "theogony-project/theogony",
-    "stars": 0,
-    "updated_at": "2026-08-29T07:00:57Z",
-    "url": "https://github.com/theogony-project/theogony"
   },
   {
     "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-29T06:44:43Z",
     "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
-    "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-29T06:43:34Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2726,
-    "updated_at": "2026-08-29T06:41:29Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   }
 ]
