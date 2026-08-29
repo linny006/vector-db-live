@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-29T04:45:20Z",
+    "updated_at": "2026-08-29T05:00:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A from-scratch Traditional RAG pipeline for document question answering using PDF ingestion, text cleaning, semantic chu",
+    "id": "Bhanu-danda/traditional-rag-v1",
+    "language": "Jupyter Notebook",
+    "name": "Bhanu-danda/traditional-rag-v1",
+    "stars": 1,
+    "updated_at": "2026-08-29T04:54:29Z",
+    "url": "https://github.com/Bhanu-danda/traditional-rag-v1"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -14,8 +23,35 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-29T04:44:02Z",
+    "updated_at": "2026-08-29T04:52:57Z",
     "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-08-29T04:51:36Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-29T04:51:01Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T04:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -54,15 +90,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T04:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -86,7 +113,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-29T04:21:56Z",
+    "updated_at": "2026-08-29T04:52:56Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -126,15 +153,6 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-29T04:05:44Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
     "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
     "id": "liliang-cn/cortexdb",
     "language": "Go",
@@ -162,6 +180,15 @@
     "url": "https://github.com/api-evangelist/objectbox"
   },
   {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9207,
+    "updated_at": "2026-08-29T04:52:46Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
     "description": "Nomic AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib",
     "id": "api-evangelist/nomic-ai",
     "language": "\u2014",
@@ -178,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T03:41:47Z",
     "url": "https://github.com/xbsheng/ai-from-scratch"
-  },
-  {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-08-29T03:40:18Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -265,7 +283,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1706,
+    "stars": 1707,
     "updated_at": "2026-08-29T03:04:56Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T01:31:31Z",
     "url": "https://github.com/tryAGI/Milvus"
-  },
-  {
-    "description": "C# SDK for the Chroma API -- open-source vector database",
-    "id": "tryAGI/Chroma",
-    "language": "C#",
-    "name": "tryAGI/Chroma",
-    "stars": 1,
-    "updated_at": "2026-08-29T01:31:27Z",
-    "url": "https://github.com/tryAGI/Chroma"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 1,
-    "updated_at": "2026-08-29T01:30:45Z",
-    "url": "https://github.com/perforate-org/gleaph"
   }
 ]
