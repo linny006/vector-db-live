@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:55:44Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T20:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Agentic RAG system that plans, retrieves, reflects, and verifies across multiple hops \u2014 instead of assuming one retrieva",
+    "id": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
+    "language": "Python",
+    "name": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:52:48Z",
+    "url": "https://github.com/AdarshBobade/ResX---A-Multi-hop-AI-Agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T19:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -7,6 +43,15 @@
     "stars": 1881,
     "updated_at": "2026-08-29T19:43:16Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-29T19:43:01Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "Decoupled, dual-mode AI Discord bot featuring 3-tier model routing, 3-layer pgvector memory, and Docker code sandboxing.",
@@ -37,12 +82,12 @@
   },
   {
     "description": "",
-    "id": "AlanMelendez/LinkedingIceBreaker_AI_ChatBot",
+    "id": "AlanMelendez/LinkedinIceBreaker_AI_ChatBot",
     "language": "Python",
-    "name": "AlanMelendez/LinkedingIceBreaker_AI_ChatBot",
+    "name": "AlanMelendez/LinkedinIceBreaker_AI_ChatBot",
     "stars": 0,
     "updated_at": "2026-08-29T19:33:43Z",
-    "url": "https://github.com/AlanMelendez/LinkedingIceBreaker_AI_ChatBot"
+    "url": "https://github.com/AlanMelendez/LinkedinIceBreaker_AI_ChatBot"
   },
   {
     "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
@@ -50,26 +95,8 @@
     "language": "Python",
     "name": "ricmed/zettel_app",
     "stars": 0,
-    "updated_at": "2026-08-29T19:33:36Z",
+    "updated_at": "2026-08-29T19:54:15Z",
     "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T19:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T19:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Persistent memory for LLM agents \u2014 episodic/semantic/procedural memory, auditable forgetting, and a benchmark proving it",
@@ -103,18 +130,9 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51912,
+    "stars": 51913,
     "updated_at": "2026-08-29T19:16:16Z",
     "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Agentic RAG system that plans, retrieves, reflects, and verifies across multiple hops \u2014 instead of assuming one retrieva",
-    "id": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
-    "language": "Python",
-    "name": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
-    "stars": 0,
-    "updated_at": "2026-08-29T19:12:33Z",
-    "url": "https://github.com/AdarshBobade/ResX---A-Multi-hop-AI-Agent"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -346,7 +364,7 @@
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
-    "stars": 6918,
+    "stars": 6919,
     "updated_at": "2026-08-29T17:35:16Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
@@ -383,7 +401,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34258,
-    "updated_at": "2026-08-29T17:23:45Z",
+    "updated_at": "2026-08-29T19:58:31Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T17:03:55Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 5,
-    "updated_at": "2026-08-29T17:02:10Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
-    "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-29T17:00:52Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
   }
 ]
