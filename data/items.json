@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T09:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-29T09:11:32Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 4,
+    "updated_at": "2026-08-29T09:09:52Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 6,
+    "updated_at": "2026-08-29T09:09:32Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-29T09:07:49Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-29T09:15:18Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T09:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
@@ -16,24 +79,6 @@
     "stars": 839,
     "updated_at": "2026-08-29T08:59:12Z",
     "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-29T09:00:08Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-29T08:56:19Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -54,48 +99,12 @@
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T08:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T08:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-29T08:35:39Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-29T08:35:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 235,
-    "updated_at": "2026-08-29T08:59:45Z",
+    "updated_at": "2026-08-29T09:11:09Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T07:07:05Z",
     "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "A data-boundary proxy for AI systems that measures what its own controls miss: PII detection with recall below 1.0, egre",
-    "id": "jkelly-dev1/ai-data-boundary-proxy",
-    "language": "Python",
-    "name": "jkelly-dev1/ai-data-boundary-proxy",
-    "stars": 0,
-    "updated_at": "2026-08-29T07:06:58Z",
-    "url": "https://github.com/jkelly-dev1/ai-data-boundary-proxy"
   }
 ]
