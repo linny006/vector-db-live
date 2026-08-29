@@ -1,5 +1,77 @@
 [
   {
+    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
+    "id": "Tanmoy095/Logiflow-platform",
+    "language": "Go",
+    "name": "Tanmoy095/Logiflow-platform",
+    "stars": 2,
+    "updated_at": "2026-08-29T09:55:15Z",
+    "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-29T09:54:54Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI-powered Retrieval-Augmented Generation (RAG) engine for intelligent document understanding and natural-language datab",
+    "id": "SadiqCodex/Agentic-AI-Learning",
+    "language": "Python",
+    "name": "SadiqCodex/Agentic-AI-Learning",
+    "stars": 0,
+    "updated_at": "2026-08-29T09:55:56Z",
+    "url": "https://github.com/SadiqCodex/Agentic-AI-Learning"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-29T09:51:18Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
+    "id": "tryAGI/Milvus",
+    "language": "C#",
+    "name": "tryAGI/Milvus",
+    "stars": 0,
+    "updated_at": "2026-08-29T09:49:01Z",
+    "url": "https://github.com/tryAGI/Milvus"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 252,
+    "updated_at": "2026-08-29T09:46:29Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T09:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T10:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "C# SDK for the Weaviate API -- open-source vector database",
     "id": "tryAGI/Weaviate",
     "language": "C#",
@@ -36,6 +108,15 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2729,
+    "updated_at": "2026-08-29T09:36:14Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -63,33 +144,6 @@
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-29T09:30:36Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T09:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T09:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -108,21 +162,12 @@
     "url": "https://github.com/MostafaSensei106/Waffle-DB"
   },
   {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 252,
-    "updated_at": "2026-08-29T09:27:28Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
     "id": "tamnd/yo",
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-29T09:42:16Z",
+    "updated_at": "2026-08-29T09:58:35Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T08:12:50Z",
     "url": "https://github.com/TAIPANBOX/engram"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2728,
-    "updated_at": "2026-08-29T09:36:14Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "Private news desk that scrapes public articles, extracts structured stories with LLMs, stores them as semantic memory in",
@@ -405,15 +441,6 @@
     "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-29T07:15:06Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
     "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
     "id": "api-evangelist/vespa-ai",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-29T07:14:22Z",
     "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "AI-powered RAG assistant for Product Managers \u2014 ask natural-language questions across PRDs, meeting notes, and Jira expo",
-    "id": "SkJishan04/AI-PM-Assistant-using-RAG",
-    "language": "Python",
-    "name": "SkJishan04/AI-PM-Assistant-using-RAG",
-    "stars": 1,
-    "updated_at": "2026-08-29T07:13:49Z",
-    "url": "https://github.com/SkJishan04/AI-PM-Assistant-using-RAG"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-08-29T07:13:15Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-08-29T07:12:16Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
   }
 ]
