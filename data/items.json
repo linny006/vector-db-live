@@ -1,12 +1,57 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T06:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 839,
+    "updated_at": "2026-08-29T06:00:07Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
     "description": "- ",
     "id": "Chief-Strategist-J/llm-observability-platform",
     "language": "Python",
     "name": "Chief-Strategist-J/llm-observability-platform",
     "stars": 4,
-    "updated_at": "2026-08-29T05:44:41Z",
+    "updated_at": "2026-08-29T05:56:00Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
+    "id": "M4F-S/gomaa",
+    "language": "Python",
+    "name": "M4F-S/gomaa",
+    "stars": 28,
+    "updated_at": "2026-08-29T05:53:11Z",
+    "url": "https://github.com/M4F-S/gomaa"
+  },
+  {
+    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
+    "id": "tryAGI/Pinecone",
+    "language": "C#",
+    "name": "tryAGI/Pinecone",
+    "stars": 8,
+    "updated_at": "2026-08-29T05:45:40Z",
+    "url": "https://github.com/tryAGI/Pinecone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T05:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG-powered knowledge assistant that ingests documents and web pages, retrieves relevant context with FAISS, and generat",
@@ -27,7 +72,7 @@
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
   },
   {
-    "description": "SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distributed, document-oriented NoSQL database built for financial-grade workloads and widely depl",
+    "description": "SequoiaDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distribut",
     "id": "api-evangelist/sequoiadb",
     "language": "\u2014",
     "name": "api-evangelist/sequoiadb",
@@ -52,33 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T05:33:29Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
-    "id": "M4F-S/gomaa",
-    "language": "Python",
-    "name": "M4F-S/gomaa",
-    "stars": 28,
-    "updated_at": "2026-08-29T05:31:50Z",
-    "url": "https://github.com/M4F-S/gomaa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T05:30:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T05:30:17Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -115,15 +133,6 @@
     "stars": 1881,
     "updated_at": "2026-08-29T05:09:14Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 839,
-    "updated_at": "2026-08-29T05:41:57Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "A from-scratch Traditional RAG pipeline for document question answering using PDF ingestion, text cleaning, semantic chu",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-29T02:26:31Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 791,
-    "updated_at": "2026-08-29T03:36:45Z",
-    "url": "https://github.com/christopherkarani/Wax"
   }
 ]
