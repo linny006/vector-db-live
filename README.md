@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-29 10:00 UTC
+> ⏰ Last updated: 2026-08-29 10:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Tanmoy095/Logiflow-platform](https://github.com/Tanmoy095/Logiflow-platform) | 2 | Go | 2026-08-29 | Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te |
-| 2 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1881 | Go | 2026-08-29 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 3 | [SadiqCodex/Agentic-AI-Learning](https://github.com/SadiqCodex/Agentic-AI-Learning) | 0 | Python | 2026-08-29 | AI-powered Retrieval-Augmented Generation (RAG) engine for intelligent document understanding and natural-language datab |
-| 4 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 25 | Python | 2026-08-29 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
-| 5 | [tryAGI/Milvus](https://github.com/tryAGI/Milvus) | 0 | C# | 2026-08-29 | C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management |
-| 6 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | 252 | Go | 2026-08-29 | A pure-Go, single-file AI memory and knowledge graph library and plugin. |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-29 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-29 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 9 | [tryAGI/Weaviate](https://github.com/tryAGI/Weaviate) | 2 | C# | 2026-08-29 | C# SDK for the Weaviate API -- open-source vector database |
-| 10 | [Chief-Strategist-J/llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | 4 | Python | 2026-08-29 | -  |
-| 11 | [batul02/enterprise-ai-workspace](https://github.com/batul02/enterprise-ai-workspace) | 0 | Python | 2026-08-29 | Multi-tenant enterprise RAG knowledge workspace built from scratch with FastAPI, PostgreSQL, Qdrant, custom chunking, em |
-| 12 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1110 | Java | 2026-08-29 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 13 | [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) | 2729 | Python | 2026-08-29 | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. |
-| 14 | [infino-ai/infino](https://github.com/infino-ai/infino) | 74 | Rust | 2026-08-29 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
-| 15 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-29 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 16 | [muhammad-hameed-ai/saudi-vision-2030-rag](https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag) | 0 | Python | 2026-08-29 | Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2) |
-| 17 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-29 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 18 | [MostafaSensei106/Waffle-DB](https://github.com/MostafaSensei106/Waffle-DB) | 4 | Dart | 2026-08-29 | An advanced, high performance local vector database for Flutter, powered by Rust and HNSW graph indexing. |
-| 19 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-08-29 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
-| 20 | [inlaySQL/inlaysql](https://github.com/inlaySQL/inlaysql) | 2 | Rust | 2026-08-29 | An embedded, serverless SQL database in Rust — one file, no server, MVCC concurrent writers, native vector + BM25 hybrid |
-| 21 | [varun29ankuS/shodh-redb](https://github.com/varun29ankuS/shodh-redb) | 6 | Rust | 2026-08-29 | Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel,  |
-| 22 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30332 | Python | 2026-08-29 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 23 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 29266 | Jupyter Notebook | 2026-08-29 | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h |
-| 24 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 839 | TypeScript | 2026-08-29 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
-| 25 | [theogony-project/theogony](https://github.com/theogony-project/theogony) | 0 | Python | 2026-08-29 | An open, democratic World-Brain — the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one,  |
-| 26 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 235 | Rust | 2026-08-29 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 27 | [i-rocky/corvid](https://github.com/i-rocky/corvid) | 1 | Rust | 2026-08-29 | Embedded multi-modal database in Rust — vector + full-text + filter + graph + geo behind one fluent builder API. A vibe- |
-| 28 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-29 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
-| 29 | [xbsheng/ai-from-scratch](https://github.com/xbsheng/ai-from-scratch) | 0 | Python | 2026-08-29 | Rebuild AI building blocks from scratch for learning: transformer, tokenizer, agent, RAG, vector DB. 从零实现 AI 相关的工具与框架 |
-| 30 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-29 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 31 | [TAIPANBOX/engram](https://github.com/TAIPANBOX/engram) | 2 | Python | 2026-08-29 | SQLite of agent memory — single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi |
-| 32 | [aneeshpatne/Nova](https://github.com/aneeshpatne/Nova) | 1 | TypeScript | 2026-08-29 | Private news desk that scrapes public articles, extracts structured stories with LLMs, stores them as semantic memory in |
-| 33 | [mohitshaky/enterprise-rag-service](https://github.com/mohitshaky/enterprise-rag-service) | 0 | Java | 2026-08-29 | Production-shaped RAG service in Java. Spring AI, pgvector, multi-tenant isolation, grounding guardrails and per-tenant  |
-| 34 | [SadiqCodex/Smart-Rag-Engine](https://github.com/SadiqCodex/Smart-Rag-Engine) | 0 | Python | 2026-08-29 | Intelligent RAG system for querying documents and PostgreSQL databases using LangChain, FastAPI, Ollama, FAISS, and loca |
-| 35 | [RehanIlyas-dev/Omni-Context](https://github.com/RehanIlyas-dev/Omni-Context) | 0 | Python | 2026-08-29 | RAG context engine for retrieval-augmented workflows — ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe |
-| 36 | [api-evangelist/zilliz](https://github.com/api-evangelist/zilliz) | 0 | — | 2026-08-29 | Zilliz — independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector  |
-| 37 | [CogKnowEdge-Solutions/Context-Memory-Layer](https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer) | 0 | Jupyter Notebook | 2026-08-29 | A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e |
-| 38 | [project-david-ai/projectdavid-platform](https://github.com/project-david-ai/projectdavid-platform) | 1 | Python | 2026-08-29 | A single pip installed package will orchestrate a production ready instance of the AI stack in any environment |
-| 39 | [aashutosh585/chatpdf](https://github.com/aashutosh585/chatpdf) | 0 | JavaScript | 2026-08-29 | AI-powered PDF chat application using RAG (Retrieval-Augmented Generation) that enables users to upload documents, gener |
-| 40 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-08-29 | Weaviate — independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na |
-| 41 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | 1347 | Java | 2026-08-29 | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. |
-| 42 | [Artemon-line/ai-memory-hub](https://github.com/Artemon-line/ai-memory-hub) | 2 | Python | 2026-08-29 | Local-first shared memory for AI agents, with MCP and HTTP APIs. |
-| 43 | [Shitless-jnr3697/rebasis](https://github.com/Shitless-jnr3697/rebasis) | 0 | Python | 2026-08-29 | Measure, bridge, and migrate embedding upgrades safely without reindexing—know when it's worth it and do it without down |
-| 44 | [boulif781/enterprise-knowledge-assistant](https://github.com/boulif781/enterprise-knowledge-assistant) | 0 | — | 2026-08-29 | Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources. |
-| 45 | [tryAGI/LangChain.Databases](https://github.com/tryAGI/LangChain.Databases) | 12 | C# | 2026-08-29 | Part of the LangChain.NET project. Has separate abstractions, does not contain dependencies on the main project and can  |
-| 46 | [Alkaloiddolichocephaly898/agentic-ai-tutorial](https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial) | 1 | Jupyter Notebook | 2026-08-29 | Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows. |
-| 47 | [Bekhbekh7821/CanopyOps](https://github.com/Bekhbekh7821/CanopyOps) | 1 | — | 2026-08-29 | Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups. |
-| 48 | [doriapt53/spring-manifold-next-gen](https://github.com/doriapt53/spring-manifold-next-gen) | 0 | TypeScript | 2026-08-29 | Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25 |
-| 49 | [jourdaninorder609/mind-query](https://github.com/jourdaninorder609/mind-query) | 0 | TypeScript | 2026-08-29 | Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag |
-| 50 | [api-evangelist/vespa-ai](https://github.com/api-evangelist/vespa-ai) | 0 | — | 2026-08-29 | Vespa — independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-29 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [Mid-D-Man/msx](https://github.com/Mid-D-Man/msx) | 0 | Rust | 2026-08-29 | Vector graphics format authored in DixScript, compressed with MBFA |
+| 3 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30331 | Python | 2026-08-29 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 4 | [varun29ankuS/shodh-memory](https://github.com/varun29ankuS/shodh-memory) | 276 | Rust | 2026-08-29 | Local, LLM-free memory for AI agents. A single offline Rust binary — deterministic and auditable — that learns from use, |
+| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-29 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 6 | [api-evangelist/datastax](https://github.com/api-evangelist/datastax) | 0 | — | 2026-08-29 | DataStax — independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As |
+| 7 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-08-29 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 8 | [api-evangelist/chroma](https://github.com/api-evangelist/chroma) | 0 | — | 2026-08-29 | Chroma — independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc |
+| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-29 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 10 | [Tanmoy095/Logiflow-platform](https://github.com/Tanmoy095/Logiflow-platform) | 2 | Go | 2026-08-29 | Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te |
+| 11 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1881 | Go | 2026-08-29 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 12 | [SadiqCodex/Agentic-AI-Learning](https://github.com/SadiqCodex/Agentic-AI-Learning) | 0 | Python | 2026-08-29 | AI-powered Retrieval-Augmented Generation (RAG) engine for intelligent document understanding and natural-language datab |
+| 13 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 25 | Python | 2026-08-29 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
+| 14 | [tryAGI/Milvus](https://github.com/tryAGI/Milvus) | 0 | C# | 2026-08-29 | C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management |
+| 15 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | 252 | Go | 2026-08-29 | A pure-Go, single-file AI memory and knowledge graph library and plugin. |
+| 16 | [tryAGI/Weaviate](https://github.com/tryAGI/Weaviate) | 2 | C# | 2026-08-29 | C# SDK for the Weaviate API -- open-source vector database |
+| 17 | [Chief-Strategist-J/llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | 4 | Python | 2026-08-29 | -  |
+| 18 | [batul02/enterprise-ai-workspace](https://github.com/batul02/enterprise-ai-workspace) | 0 | Python | 2026-08-29 | Multi-tenant enterprise RAG knowledge workspace built from scratch with FastAPI, PostgreSQL, Qdrant, custom chunking, em |
+| 19 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1110 | Java | 2026-08-29 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 20 | [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) | 2729 | Python | 2026-08-29 | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. |
+| 21 | [infino-ai/infino](https://github.com/infino-ai/infino) | 74 | Rust | 2026-08-29 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
+| 22 | [muhammad-hameed-ai/saudi-vision-2030-rag](https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag) | 0 | Python | 2026-08-29 | Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2) |
+| 23 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-08-29 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 24 | [MostafaSensei106/Waffle-DB](https://github.com/MostafaSensei106/Waffle-DB) | 4 | Dart | 2026-08-29 | An advanced, high performance local vector database for Flutter, powered by Rust and HNSW graph indexing. |
+| 25 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-08-29 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 26 | [inlaySQL/inlaysql](https://github.com/inlaySQL/inlaysql) | 2 | Rust | 2026-08-29 | An embedded, serverless SQL database in Rust — one file, no server, MVCC concurrent writers, native vector + BM25 hybrid |
+| 27 | [varun29ankuS/shodh-redb](https://github.com/varun29ankuS/shodh-redb) | 6 | Rust | 2026-08-29 | Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel,  |
+| 28 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 29266 | Jupyter Notebook | 2026-08-29 | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h |
+| 29 | [unohee/OpenSwarm](https://github.com/unohee/OpenSwarm) | 839 | TypeScript | 2026-08-29 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
+| 30 | [theogony-project/theogony](https://github.com/theogony-project/theogony) | 0 | Python | 2026-08-29 | An open, democratic World-Brain — the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one,  |
+| 31 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 235 | Rust | 2026-08-29 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 32 | [i-rocky/corvid](https://github.com/i-rocky/corvid) | 1 | Rust | 2026-08-29 | Embedded multi-modal database in Rust — vector + full-text + filter + graph + geo behind one fluent builder API. A vibe- |
+| 33 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 16 | TypeScript | 2026-08-29 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
+| 34 | [xbsheng/ai-from-scratch](https://github.com/xbsheng/ai-from-scratch) | 0 | Python | 2026-08-29 | Rebuild AI building blocks from scratch for learning: transformer, tokenizer, agent, RAG, vector DB. 从零实现 AI 相关的工具与框架 |
+| 35 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-08-29 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 36 | [TAIPANBOX/engram](https://github.com/TAIPANBOX/engram) | 2 | Python | 2026-08-29 | SQLite of agent memory — single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi |
+| 37 | [aneeshpatne/Nova](https://github.com/aneeshpatne/Nova) | 1 | TypeScript | 2026-08-29 | Private news desk that scrapes public articles, extracts structured stories with LLMs, stores them as semantic memory in |
+| 38 | [mohitshaky/enterprise-rag-service](https://github.com/mohitshaky/enterprise-rag-service) | 0 | Java | 2026-08-29 | Production-shaped RAG service in Java. Spring AI, pgvector, multi-tenant isolation, grounding guardrails and per-tenant  |
+| 39 | [SadiqCodex/Smart-Rag-Engine](https://github.com/SadiqCodex/Smart-Rag-Engine) | 0 | Python | 2026-08-29 | Intelligent RAG system for querying documents and PostgreSQL databases using LangChain, FastAPI, Ollama, FAISS, and loca |
+| 40 | [RehanIlyas-dev/Omni-Context](https://github.com/RehanIlyas-dev/Omni-Context) | 0 | Python | 2026-08-29 | RAG context engine for retrieval-augmented workflows — ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe |
+| 41 | [api-evangelist/zilliz](https://github.com/api-evangelist/zilliz) | 0 | — | 2026-08-29 | Zilliz — independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector  |
+| 42 | [CogKnowEdge-Solutions/Context-Memory-Layer](https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer) | 0 | Jupyter Notebook | 2026-08-29 | A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e |
+| 43 | [project-david-ai/projectdavid-platform](https://github.com/project-david-ai/projectdavid-platform) | 1 | Python | 2026-08-29 | A single pip installed package will orchestrate a production ready instance of the AI stack in any environment |
+| 44 | [aashutosh585/chatpdf](https://github.com/aashutosh585/chatpdf) | 0 | JavaScript | 2026-08-29 | AI-powered PDF chat application using RAG (Retrieval-Augmented Generation) that enables users to upload documents, gener |
+| 45 | [api-evangelist/weaviate](https://github.com/api-evangelist/weaviate) | 1 | — | 2026-08-29 | Weaviate — independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na |
+| 46 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | 1347 | Java | 2026-08-29 | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. |
+| 47 | [Artemon-line/ai-memory-hub](https://github.com/Artemon-line/ai-memory-hub) | 2 | Python | 2026-08-29 | Local-first shared memory for AI agents, with MCP and HTTP APIs. |
+| 48 | [Shitless-jnr3697/rebasis](https://github.com/Shitless-jnr3697/rebasis) | 0 | Python | 2026-08-29 | Measure, bridge, and migrate embedding upgrades safely without reindexing—know when it's worth it and do it without down |
+| 49 | [boulif781/enterprise-knowledge-assistant](https://github.com/boulif781/enterprise-knowledge-assistant) | 0 | — | 2026-08-29 | Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources. |
+| 50 | [tryAGI/LangChain.Databases](https://github.com/tryAGI/LangChain.Databases) | 12 | C# | 2026-08-29 | Part of the LangChain.NET project. Has separate abstractions, does not contain dependencies on the main project and can  |
 <!-- TRACKER_TABLE_END -->
 
 ---
