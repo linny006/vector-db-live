@@ -1,5 +1,41 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-29T02:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-29T01:58:47Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "\u79bb\u7ebf\u6cd5\u5f8b RAG \u95ee\u7b54 \u2014 Qwen-7B-Chat + Chroma \u5168\u672c\u5730\u90e8\u7f72",
+    "id": "Windyhhh/Offline-Legal-RAG-Qwen",
+    "language": "Python",
+    "name": "Windyhhh/Offline-Legal-RAG-Qwen",
+    "stars": 0,
+    "updated_at": "2026-08-29T01:47:13Z",
+    "url": "https://github.com/Windyhhh/Offline-Legal-RAG-Qwen"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T01:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -54,24 +90,6 @@
     "url": "https://github.com/perforate-org/gleaph"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-29T01:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T01:30:19Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -106,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T01:17:44Z",
     "url": "https://github.com/jkelly-dev1/ai-data-boundary-proxy"
-  },
-  {
-    "description": "\u79bb\u7ebf\u6cd5\u5f8b RAG \u95ee\u7b54 \u2014 Qwen-7B-Chat + Chroma \u5168\u672c\u5730\u90e8\u7f72",
-    "id": "Windyhhh/Offline-Legal-RAG-Qwen",
-    "language": "Python",
-    "name": "Windyhhh/Offline-Legal-RAG-Qwen",
-    "stars": 0,
-    "updated_at": "2026-08-29T01:17:32Z",
-    "url": "https://github.com/Windyhhh/Offline-Legal-RAG-Qwen"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -419,7 +428,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-29T00:01:36Z",
+    "updated_at": "2026-08-29T01:49:33Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-28T23:59:42Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-08-28T23:55:08Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
   }
 ]
