@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-29T19:15:20Z",
+    "updated_at": "2026-08-29T19:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-29T19:27:36Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Persistent memory for LLM agents \u2014 episodic/semantic/procedural memory, auditable forgetting, and a benchmark proving it",
+    "id": "vishalbanwari26/mnemos",
+    "language": "Python",
+    "name": "vishalbanwari26/mnemos",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:23:32Z",
+    "url": "https://github.com/vishalbanwari26/mnemos"
+  },
+  {
+    "description": "Multi-assistant AI platform with RAG-driven context, agentic capabilities, tool calling, pluggable LLM providers, voice ",
+    "id": "gaboeremita/laravel-vera",
+    "language": "PHP",
+    "name": "gaboeremita/laravel-vera",
+    "stars": 1,
+    "updated_at": "2026-08-29T19:18:43Z",
+    "url": "https://github.com/gaboeremita/laravel-vera"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-29T19:17:30Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 51912,
+    "updated_at": "2026-08-29T19:16:16Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T19:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Agentic RAG system that plans, retrieves, reflects, and verifies across multiple hops \u2014 instead of assuming one retrieva",
@@ -52,15 +106,6 @@
     "stars": 719,
     "updated_at": "2026-08-29T19:00:43Z",
     "url": "https://github.com/neonwatty/meme-search"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T19:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -243,21 +288,12 @@
     "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
   },
   {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 51912,
-    "updated_at": "2026-08-29T19:15:09Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1110,
-    "updated_at": "2026-08-29T17:45:15Z",
+    "updated_at": "2026-08-29T19:28:05Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Rust",
     "name": "garnizeh/memex",
     "stars": 0,
-    "updated_at": "2026-08-29T19:12:10Z",
+    "updated_at": "2026-08-29T19:24:32Z",
     "url": "https://github.com/garnizeh/memex"
   },
   {
@@ -322,15 +358,6 @@
     "stars": 25,
     "updated_at": "2026-08-29T17:18:09Z",
     "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-29T17:17:32Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T16:40:15Z",
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "Decoupled, dual-mode AI Discord bot featuring 3-tier model routing, 3-layer pgvector memory, and Docker code sandboxing.",
-    "id": "Muhammad-Hassan12/Zauq",
-    "language": "Python",
-    "name": "Muhammad-Hassan12/Zauq",
-    "stars": 1,
-    "updated_at": "2026-08-29T16:27:25Z",
-    "url": "https://github.com/Muhammad-Hassan12/Zauq"
-  },
-  {
-    "description": "Advanced local-first RAG system powered by Ollama and LangGraph. Optimized for high-performance sLLM orchestration   fea",
-    "id": "darkzard05/rag-system-ollama",
-    "language": "Python",
-    "name": "darkzard05/rag-system-ollama",
-    "stars": 4,
-    "updated_at": "2026-08-29T16:26:11Z",
-    "url": "https://github.com/darkzard05/rag-system-ollama"
-  },
-  {
-    "description": "Production-grade RAG knowledge base system in Rust: hybrid retrieval (vector + full-text + knowledge graph), pluggable s",
-    "id": "haibingzhao/easyrag",
-    "language": "Rust",
-    "name": "haibingzhao/easyrag",
-    "stars": 0,
-    "updated_at": "2026-08-29T16:21:56Z",
-    "url": "https://github.com/haibingzhao/easyrag"
   }
 ]
