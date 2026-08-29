@@ -1,5 +1,32 @@
 [
   {
+    "description": "Production-grade RAG knowledge base system in Rust: hybrid retrieval (vector + full-text + knowledge graph), pluggable s",
+    "id": "haibingzhao/easyrag",
+    "language": "Rust",
+    "name": "haibingzhao/easyrag",
+    "stars": 0,
+    "updated_at": "2026-08-29T14:44:30Z",
+    "url": "https://github.com/haibingzhao/easyrag"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-29T14:41:07Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T14:37:54Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Asynchronous document processing pipeline with BullMQ, Redis, Ollama, embeddings and RAG retrieval.",
     "id": "harshxframe/ai-document-processing-engine",
     "language": "JavaScript",
@@ -14,17 +41,8 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-29T14:35:58Z",
+    "updated_at": "2026-08-29T14:43:51Z",
     "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Production-grade RAG knowledge base system in Rust: hybrid retrieval (vector + full-text + knowledge graph), pluggable s",
-    "id": "haibingzhao/easyrag",
-    "language": "Rust",
-    "name": "haibingzhao/easyrag",
-    "stars": 0,
-    "updated_at": "2026-08-29T14:34:29Z",
-    "url": "https://github.com/haibingzhao/easyrag"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -43,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T14:32:17Z",
     "url": "https://github.com/karthikbilaspur/ai_learning"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T14:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -178,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-29T14:05:51Z",
     "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-08-29T14:05:18Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
