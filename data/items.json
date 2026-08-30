@@ -1,5 +1,50 @@
 [
   {
+    "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
+    "id": "onlyarnav/nimbus-db",
+    "language": "Go",
+    "name": "onlyarnav/nimbus-db",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:24:41Z",
+    "url": "https://github.com/onlyarnav/nimbus-db"
+  },
+  {
+    "description": "Local, Offline Documentation Context Server (MCP) for LLMs & AI Coding Agents",
+    "id": "garnizeh/memex",
+    "language": "Rust",
+    "name": "garnizeh/memex",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:24:07Z",
+    "url": "https://github.com/garnizeh/memex"
+  },
+  {
+    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
+    "id": "api-evangelist/crate-io",
+    "language": "\u2014",
+    "name": "api-evangelist/crate-io",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:21:14Z",
+    "url": "https://github.com/api-evangelist/crate-io"
+  },
+  {
+    "description": "A hybrid search system for financial intelligence combining BM25, dense, and sparse vectors with Qdrant to improve retri",
+    "id": "satyam671/financial-hybrid-search-qdrant",
+    "language": "Python",
+    "name": "satyam671/financial-hybrid-search-qdrant",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:19:48Z",
+    "url": "https://github.com/satyam671/financial-hybrid-search-qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +52,15 @@
     "stars": 3,
     "updated_at": "2026-08-30T16:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-assistant AI platform with RAG-driven context, agentic capabilities, tool calling, pluggable LLM providers, voice ",
+    "id": "gaboeremita/laravel-vera",
+    "language": "PHP",
+    "name": "gaboeremita/laravel-vera",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:15:04Z",
+    "url": "https://github.com/gaboeremita/laravel-vera"
   },
   {
     "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
@@ -43,15 +97,6 @@
     "stars": 30,
     "updated_at": "2026-08-30T16:07:59Z",
     "url": "https://github.com/M4F-S/gomaa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T16:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
@@ -104,7 +149,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2071,
-    "updated_at": "2026-08-30T15:49:38Z",
+    "updated_at": "2026-08-30T16:24:16Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11313,
-    "updated_at": "2026-08-30T15:26:17Z",
+    "updated_at": "2026-08-30T16:21:13Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1111,
-    "updated_at": "2026-08-30T15:53:20Z",
+    "updated_at": "2026-08-30T16:23:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -283,7 +328,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45881,
+    "stars": 45882,
     "updated_at": "2026-08-30T14:47:34Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -392,7 +437,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-30T16:14:41Z",
+    "updated_at": "2026-08-30T16:28:44Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T13:46:46Z",
     "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "Agentic AI platform that transforms fragmented healthcare touchpoints into a seamless, empathetic care flow. Using multi",
-    "id": "dhakksinesh/healthlink",
-    "language": "Python",
-    "name": "dhakksinesh/healthlink",
-    "stars": 0,
-    "updated_at": "2026-08-30T13:44:53Z",
-    "url": "https://github.com/dhakksinesh/healthlink"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 16,
-    "updated_at": "2026-08-30T14:06:41Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "Local, Offline Documentation Context Server (MCP) for LLMs & AI Coding Agents",
-    "id": "garnizeh/memex",
-    "language": "Rust",
-    "name": "garnizeh/memex",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:52:50Z",
-    "url": "https://github.com/garnizeh/memex"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-30T13:33:39Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 10,
-    "updated_at": "2026-08-30T13:29:05Z",
-    "url": "https://github.com/rostamlabs/rostam"
   }
 ]
