@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-30T10:45:21Z",
+    "updated_at": "2026-08-30T11:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-08-30T11:00:12Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
+    "id": "M4F-S/gomaa",
+    "language": "Python",
+    "name": "M4F-S/gomaa",
+    "stars": 30,
+    "updated_at": "2026-08-30T10:51:21Z",
+    "url": "https://github.com/M4F-S/gomaa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T10:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
@@ -43,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T10:31:33Z",
     "url": "https://github.com/Yougal17/rbi-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T10:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -194,7 +212,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6225,
-    "updated_at": "2026-08-30T10:38:43Z",
+    "updated_at": "2026-08-30T10:48:34Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -221,17 +239,8 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-08-30T09:13:51Z",
+    "updated_at": "2026-08-30T10:56:05Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
-    "id": "M4F-S/gomaa",
-    "language": "Python",
-    "name": "M4F-S/gomaa",
-    "stars": 30,
-    "updated_at": "2026-08-30T09:09:37Z",
-    "url": "https://github.com/M4F-S/gomaa"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T06:17:47Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "An Eggdrop IRC bot script that pipes LLM intelligence into classic chat",
-    "id": "splinesreticulating/eggdrop-ai",
-    "language": "TypeScript",
-    "name": "splinesreticulating/eggdrop-ai",
-    "stars": 3,
-    "updated_at": "2026-08-30T06:07:37Z",
-    "url": "https://github.com/splinesreticulating/eggdrop-ai"
   }
 ]
