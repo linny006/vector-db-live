@@ -5,17 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-30T12:00:22Z",
+    "updated_at": "2026-08-30T12:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-30T12:11:44Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-30T12:08:06Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
+    "id": "manav-2812/synapse",
+    "language": "TypeScript",
+    "name": "manav-2812/synapse",
+    "stars": 1,
+    "updated_at": "2026-08-30T12:06:18Z",
+    "url": "https://github.com/manav-2812/synapse"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T11:59:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1456,
+    "updated_at": "2026-08-30T12:04:54Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "\u2696\ufe0f AI-powered legal document Q&A system using RAG (Retrieval-Augmented Generation)",
@@ -23,8 +50,35 @@
     "language": "Python",
     "name": "Bharanikumar55/Legal-Question-Answer-System-using-RAG",
     "stars": 3,
-    "updated_at": "2026-08-30T11:56:44Z",
+    "updated_at": "2026-08-30T12:03:44Z",
     "url": "https://github.com/Bharanikumar55/Legal-Question-Answer-System-using-RAG"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-08-30T12:03:02Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-30T12:01:55Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T12:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
@@ -49,18 +103,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1725,
+    "stars": 1726,
     "updated_at": "2026-08-30T11:51:52Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-30T11:50:39Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
@@ -142,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T11:40:02Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1456,
-    "updated_at": "2026-08-30T11:39:15Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
@@ -239,17 +275,8 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-30T11:35:09Z",
+    "updated_at": "2026-08-30T12:14:13Z",
     "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-30T11:33:48Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
@@ -277,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T11:32:42Z",
     "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
-    "id": "manav-2812/synapse",
-    "language": "TypeScript",
-    "name": "manav-2812/synapse",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:29:25Z",
-    "url": "https://github.com/manav-2812/synapse"
   },
   {
     "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
@@ -322,15 +340,6 @@
     "stars": 3,
     "updated_at": "2026-08-30T11:26:34Z",
     "url": "https://github.com/thelastpickle/open-htap-stack"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-30T11:26:15Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T11:12:16Z",
     "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "Production .NET SDK for Alibaba ZVec \u2014 DI, typed ODM, async, SafeHandles, full indexes/FTS, and mobile RIDs. Not a thin ",
-    "id": "ahmedSamir50/AdamSystems.ZVec.NET",
-    "language": "C#",
-    "name": "ahmedSamir50/AdamSystems.ZVec.NET",
-    "stars": 2,
-    "updated_at": "2026-08-30T11:07:28Z",
-    "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET"
   }
 ]
