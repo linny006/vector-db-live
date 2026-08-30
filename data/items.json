@@ -1,11 +1,47 @@
 [
   {
+    "description": "Local, Offline Documentation Context Server (MCP) for LLMs & AI Coding Agents",
+    "id": "garnizeh/memex",
+    "language": "Rust",
+    "name": "garnizeh/memex",
+    "stars": 0,
+    "updated_at": "2026-08-30T00:09:59Z",
+    "url": "https://github.com/garnizeh/memex"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-30T00:07:11Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-08-30T00:15:16Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-08-30T00:04:20Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-29T23:45:26Z",
+    "updated_at": "2026-08-30T00:00:26Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-30T00:00:22Z",
+    "updated_at": "2026-08-30T00:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 16,
     "updated_at": "2026-08-29T23:44:50Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-08-29T23:49:34Z",
-    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
@@ -126,6 +153,15 @@
     "url": "https://github.com/hivellm/vectorizer"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34260,
+    "updated_at": "2026-08-29T22:48:51Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Zero-dep Rust engine for SQ8 scalar quantization \u2014 Big-Endian 32B header, 4\u00d7 compression, zero-alloc seeks, Send+Sync re",
     "id": "TheElephantCoder/bit-compact",
     "language": "Rust",
@@ -180,15 +216,6 @@
     "url": "https://github.com/MostafaSensei106/Waffle-DB"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34261,
-    "updated_at": "2026-08-29T22:48:51Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "RAG-based legal AI assistant for grounded question answering over commercial law and policy documents.",
     "id": "maelocrowd/commercial-law-assistant",
     "language": "Python",
@@ -196,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T22:10:56Z",
     "url": "https://github.com/maelocrowd/commercial-law-assistant"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-29T22:10:09Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T21:32:29Z",
     "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-08-29T21:32:11Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": " RAG pipeline with Qdrant, Ollama, and BentoML \u2014 MLflow-tracked eval harness with a CI regression gate",
-    "id": "goshipra/rag-mlops-pipeline",
-    "language": "Python",
-    "name": "goshipra/rag-mlops-pipeline",
-    "stars": 0,
-    "updated_at": "2026-08-29T21:32:00Z",
-    "url": "https://github.com/goshipra/rag-mlops-pipeline"
   }
 ]
