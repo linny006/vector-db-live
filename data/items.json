@@ -1,11 +1,20 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-29T23:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-29T23:45:22Z",
+    "updated_at": "2026-08-30T00:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +32,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-08-29T23:41:30Z",
+    "updated_at": "2026-08-29T23:49:34Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -43,15 +52,6 @@
     "stars": 2,
     "updated_at": "2026-08-29T23:33:48Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-29T23:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -140,7 +140,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 7,
-    "updated_at": "2026-08-29T22:39:02Z",
+    "updated_at": "2026-08-29T23:51:33Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {

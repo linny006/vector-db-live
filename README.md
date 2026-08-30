@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-08-29 23:45 UTC
+> ⏰ Last updated: 2026-08-30 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-29 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [integrallis/vectors](https://github.com/integrallis/vectors) | 16 | Java | 2026-08-29 | The Ultimate Vectors Library for Java |
-| 3 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-08-29 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 4 | [lancedb/docs](https://github.com/lancedb/docs) | 11 | Python | 2026-08-29 | Documentation for LanceDB, the Multimodal Lakehouse for AI |
-| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-29 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-29 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-08-29 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-08-30 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [integrallis/vectors](https://github.com/integrallis/vectors) | 16 | Java | 2026-08-29 | The Ultimate Vectors Library for Java |
+| 4 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-08-29 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 5 | [lancedb/docs](https://github.com/lancedb/docs) | 11 | Python | 2026-08-29 | Documentation for LanceDB, the Multimodal Lakehouse for AI |
+| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-08-29 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 7 | [FraiseHQ/fraise](https://github.com/FraiseHQ/fraise) | 3 | Go | 2026-08-29 | In-memory knowledge store for AI agents |
 | 8 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-08-29 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
 | 9 | [MasihMoafi/Elpis](https://github.com/MasihMoafi/Elpis) | 41 | Rust | 2026-08-29 | You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend. |
