@@ -1,12 +1,93 @@
 [
   {
+    "description": "ResearchPilot is an AI-powered research assistant that lets users upload PDFs, ask grounded questions, and explore answe",
+    "id": "us-utkarshsri07/ResearchPilotAI",
+    "language": "Python",
+    "name": "us-utkarshsri07/ResearchPilotAI",
+    "stars": 0,
+    "updated_at": "2026-08-30T15:12:00Z",
+    "url": "https://github.com/us-utkarshsri07/ResearchPilotAI"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-30T15:11:41Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-30T15:11:12Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11313,
+    "updated_at": "2026-08-30T15:10:10Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-30T15:07:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 343,
+    "updated_at": "2026-08-30T15:04:27Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
+    "id": "api-evangelist/azure-cosmos-db",
+    "language": "\u2014",
+    "name": "api-evangelist/azure-cosmos-db",
+    "stars": 0,
+    "updated_at": "2026-08-30T15:04:21Z",
+    "url": "https://github.com/api-evangelist/azure-cosmos-db"
+  },
+  {
     "description": "Multi-PDF conversational RAG chatbot \u2014 FastAPI + ChromaDB + LangChain, with citation-backed answers",
     "id": "shinaycore/RAG",
     "language": "Python",
     "name": "shinaycore/RAG",
     "stars": 0,
-    "updated_at": "2026-08-30T14:59:04Z",
+    "updated_at": "2026-08-30T15:01:21Z",
     "url": "https://github.com/shinaycore/RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T15:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T15:00:27Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "",
@@ -32,7 +113,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1111,
-    "updated_at": "2026-08-30T14:56:36Z",
+    "updated_at": "2026-08-30T15:07:15Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -63,15 +144,6 @@
     "url": "https://github.com/Saurabhsds13/ai-customer-support-assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T14:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
     "id": "manav-2812/synapse",
     "language": "TypeScript",
@@ -79,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T14:45:21Z",
     "url": "https://github.com/manav-2812/synapse"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T14:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-powered PDF chat application using RAG (Retrieval-Augmented Generation) that enables users to upload documents, gener",
@@ -99,15 +162,6 @@
     "url": "https://github.com/aashutosh585/chatpdf"
   },
   {
-    "description": "ResearchPilot is an AI-powered research assistant that lets users upload PDFs, ask grounded questions, and explore answe",
-    "id": "us-utkarshsri07/ResearchPilotAI",
-    "language": "Python",
-    "name": "us-utkarshsri07/ResearchPilotAI",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:39:24Z",
-    "url": "https://github.com/us-utkarshsri07/ResearchPilotAI"
-  },
-  {
     "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
     "id": "AkashKundu114/COPPER",
     "language": "Python",
@@ -115,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T14:34:36Z",
     "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-30T14:33:31Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1725,
-    "updated_at": "2026-08-30T14:49:58Z",
+    "updated_at": "2026-08-30T15:14:57Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -212,7 +257,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-30T13:49:04Z",
+    "updated_at": "2026-08-30T15:02:39Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6225,
-    "updated_at": "2026-08-30T14:05:04Z",
+    "updated_at": "2026-08-30T15:15:18Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -378,24 +423,6 @@
     "url": "https://github.com/RehanIlyas-dev/Omni-Context"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-30T12:08:06Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11313,
-    "updated_at": "2026-08-30T12:06:17Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 30,
     "updated_at": "2026-08-30T11:55:56Z",
     "url": "https://github.com/ldclabs/anda-db"
-  },
-  {
-    "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
-    "id": "Constraintworthy6058/ai-github-repository-assistant",
-    "language": "TypeScript",
-    "name": "Constraintworthy6058/ai-github-repository-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:50:27Z",
-    "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
-  },
-  {
-    "description": "",
-    "id": "threefigure-achromia682/ai-memory",
-    "language": "\u2014",
-    "name": "threefigure-achromia682/ai-memory",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:49:02Z",
-    "url": "https://github.com/threefigure-achromia682/ai-memory"
-  },
-  {
-    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
-    "id": "alegameplays14-del/leica-infinity-2026",
-    "language": "\u2014",
-    "name": "alegameplays14-del/leica-infinity-2026",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:48:07Z",
-    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
   }
 ]
