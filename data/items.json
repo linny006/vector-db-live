@@ -1,12 +1,57 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T06:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-30T06:26:11Z",
+    "updated_at": "2026-08-30T06:42:46Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Pai Chat - A personal chat app",
+    "id": "sadanandpai/paichat",
+    "language": "TypeScript",
+    "name": "sadanandpai/paichat",
+    "stars": 2,
+    "updated_at": "2026-08-30T06:34:43Z",
+    "url": "https://github.com/sadanandpai/paichat"
+  },
+  {
+    "description": "Native Rust vector and full-text engine",
+    "id": "A3S-Lab/Vec",
+    "language": "Rust",
+    "name": "A3S-Lab/Vec",
+    "stars": 0,
+    "updated_at": "2026-08-30T06:32:11Z",
+    "url": "https://github.com/A3S-Lab/Vec"
+  },
+  {
+    "description": "Contracts and schemas for a multi-repo knowledge pipeline: events, sessions, summaries, digests, and publishing buses.",
+    "id": "matuteiglesias/kb-contracts",
+    "language": "TypeScript",
+    "name": "matuteiglesias/kb-contracts",
+    "stars": 1,
+    "updated_at": "2026-08-30T06:32:02Z",
+    "url": "https://github.com/matuteiglesias/kb-contracts"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T06:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ARM-first in-memory columnar database with exact vector search. SQL, NEON-accelerated kNN, WAL + snapshots, replication,",
@@ -32,7 +77,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-30T06:23:09Z",
+    "updated_at": "2026-08-30T06:42:47Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -41,7 +86,7 @@
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 16,
-    "updated_at": "2026-08-30T06:22:25Z",
+    "updated_at": "2026-08-30T06:39:45Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
@@ -50,7 +95,7 @@
     "language": "Rust",
     "name": "skyzh/write-you-a-vector-db",
     "stars": 790,
-    "updated_at": "2026-08-30T06:22:24Z",
+    "updated_at": "2026-08-30T06:37:11Z",
     "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
@@ -61,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T06:17:47Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T06:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T06:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -124,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T06:00:57Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Native Rust vector and full-text engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 0,
-    "updated_at": "2026-08-30T05:57:31Z",
-    "url": "https://github.com/A3S-Lab/Vec"
   },
   {
     "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T04:32:00Z",
     "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-08-30T04:30:58Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-08-30T04:29:39Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
   }
 ]
