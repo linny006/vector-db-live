@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T22:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-30T22:27:20Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 2,
+    "updated_at": "2026-08-30T22:20:20Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "Agent Retrieval Memory Engine for Mac, PC (AMD64 and ARM64)",
+    "id": "defai-digital/akidb",
+    "language": "Rust",
+    "name": "defai-digital/akidb",
+    "stars": 1,
+    "updated_at": "2026-08-30T22:18:54Z",
+    "url": "https://github.com/defai-digital/akidb"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 16,
+    "updated_at": "2026-08-30T22:21:31Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "A distributed ML platform composing a Raft engine, an HNSW vector index, and a distributed training framework, with cros",
+    "id": "abho7/ml-infra-platform",
+    "language": "HTML",
+    "name": "abho7/ml-infra-platform",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:17:45Z",
+    "url": "https://github.com/abho7/ml-infra-platform"
+  },
+  {
+    "description": "Local-first MCP server for persistent semantic memory, backed by an HNSW vector index and an on-device ONNX embedder",
+    "id": "abho7/mcp-memory-server",
+    "language": "Python",
+    "name": "abho7/mcp-memory-server",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:17:43Z",
+    "url": "https://github.com/abho7/mcp-memory-server"
+  },
+  {
+    "description": "HNSW (Hierarchical Navigable Small World) vector index built from scratch in Python/NumPy: no FAISS, no hnswlib. recall@",
+    "id": "abho7/vectordb-hnsw",
+    "language": "Python",
+    "name": "abho7/vectordb-hnsw",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:16:52Z",
+    "url": "https://github.com/abho7/vectordb-hnsw"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T22:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "SequoiaDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distribut",
     "id": "api-evangelist/sequoiadb",
     "language": "\u2014",
@@ -25,24 +106,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T22:07:45Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T22:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T22:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
@@ -86,7 +149,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-08-30T21:33:45Z",
+    "updated_at": "2026-08-30T22:15:25Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -221,7 +284,7 @@
     "language": "Go",
     "name": "everstacklabs/everstack",
     "stars": 0,
-    "updated_at": "2026-08-30T21:30:35Z",
+    "updated_at": "2026-08-30T22:18:05Z",
     "url": "https://github.com/everstacklabs/everstack"
   },
   {
@@ -311,7 +374,7 @@
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 3,
-    "updated_at": "2026-08-30T22:14:28Z",
+    "updated_at": "2026-08-30T22:29:59Z",
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T19:37:19Z",
     "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
-    "id": "retrograde-prosceniumwall239/ai-search-engine",
-    "language": "Python",
-    "name": "retrograde-prosceniumwall239/ai-search-engine",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:36:56Z",
-    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
-    "id": "Wry-letters233/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Wry-letters233/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:36:51Z",
-    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
-  },
-  {
-    "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
-    "id": "api-evangelist/marqo",
-    "language": "\u2014",
-    "name": "api-evangelist/marqo",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:34:11Z",
-    "url": "https://github.com/api-evangelist/marqo"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:33:21Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1729,
-    "updated_at": "2026-08-30T22:08:09Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:30:20Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-08-30T19:29:03Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
   }
 ]
