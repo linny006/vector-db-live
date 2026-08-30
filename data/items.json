@@ -1,11 +1,83 @@
 [
   {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 839,
+    "updated_at": "2026-08-30T12:29:42Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
+    "id": "is-leeroy-jenkins/Boo",
+    "language": "Jupyter Notebook",
+    "name": "is-leeroy-jenkins/Boo",
+    "stars": 3,
+    "updated_at": "2026-08-30T12:28:38Z",
+    "url": "https://github.com/is-leeroy-jenkins/Boo"
+  },
+  {
+    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
+    "id": "Tanmoy095/Logiflow-platform",
+    "language": "Go",
+    "name": "Tanmoy095/Logiflow-platform",
+    "stars": 2,
+    "updated_at": "2026-08-30T12:28:07Z",
+    "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-08-30T12:25:42Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-30T12:24:27Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-30T12:22:04Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "RAG context engine for retrieval-augmented workflows \u2014 ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe",
+    "id": "RehanIlyas-dev/Omni-Context",
+    "language": "Python",
+    "name": "RehanIlyas-dev/Omni-Context",
+    "stars": 0,
+    "updated_at": "2026-08-30T12:15:32Z",
+    "url": "https://github.com/RehanIlyas-dev/Omni-Context"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T12:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-30T12:15:18Z",
+    "updated_at": "2026-08-30T12:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -34,6 +106,15 @@
     "stars": 1,
     "updated_at": "2026-08-30T12:06:18Z",
     "url": "https://github.com/manav-2812/synapse"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11312,
+    "updated_at": "2026-08-30T12:06:17Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -72,15 +153,6 @@
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T12:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
     "id": "ldclabs/anda-db",
     "language": "Rust",
@@ -88,15 +160,6 @@
     "stars": 30,
     "updated_at": "2026-08-30T11:55:56Z",
     "url": "https://github.com/ldclabs/anda-db"
-  },
-  {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Go",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 2,
-    "updated_at": "2026-08-30T11:53:08Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -270,15 +333,6 @@
     "url": "https://github.com/okeidontlike/Awareness-Local"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 839,
-    "updated_at": "2026-08-30T12:14:13Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
     "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
     "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 235,
     "updated_at": "2026-08-30T11:19:09Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "ARIA (AI for Risk Identification & Anticipation) is an agentic supply-chain risk assistant. Specialist agents map a prod",
-    "id": "NeelPatel31/ARIA-AI-for-Risk-Identification-Anticipation",
-    "language": "Python",
-    "name": "NeelPatel31/ARIA-AI-for-Risk-Identification-Anticipation",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:17:27Z",
-    "url": "https://github.com/NeelPatel31/ARIA-AI-for-Risk-Identification-Anticipation"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-08-30T11:16:45Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:16:16Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
-    "id": "leitoooatr/PythonVectorDB",
-    "language": "Python",
-    "name": "leitoooatr/PythonVectorDB",
-    "stars": 2,
-    "updated_at": "2026-08-30T11:16:09Z",
-    "url": "https://github.com/leitoooatr/PythonVectorDB"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
-    "id": "Jeroflo88/Self-Corrective-RAG",
-    "language": "Python",
-    "name": "Jeroflo88/Self-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:15:13Z",
-    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:12:16Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
   }
 ]
