@@ -1,11 +1,56 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-30T22:58:22Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:56:06Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "Reproducible benchmark comparing full catalog context with metadata-filtered semantic retrieval using Amazon S3 Vectors ",
+    "id": "AlejandroMorgante/semantic-layer-with-s3-vectors",
+    "language": "Python",
+    "name": "AlejandroMorgante/semantic-layer-with-s3-vectors",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:51:31Z",
+    "url": "https://github.com/AlejandroMorgante/semantic-layer-with-s3-vectors"
+  },
+  {
+    "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
+    "id": "api-evangelist/surrealdb",
+    "language": "\u2014",
+    "name": "api-evangelist/surrealdb",
+    "stars": 0,
+    "updated_at": "2026-08-30T22:49:44Z",
+    "url": "https://github.com/api-evangelist/surrealdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T22:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-30T22:45:20Z",
+    "updated_at": "2026-08-30T23:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +68,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 16,
-    "updated_at": "2026-08-30T22:39:05Z",
+    "updated_at": "2026-08-30T23:00:08Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T22:33:26Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T22:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -256,7 +292,7 @@
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16759,
+    "stars": 16760,
     "updated_at": "2026-08-30T20:53:17Z",
     "url": "https://github.com/weaviate/weaviate"
   },
@@ -342,15 +378,6 @@
     "url": "https://github.com/vpeetla-ai/enterprise_rag_platform"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-08-30T20:11:10Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -410,7 +437,7 @@
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 3,
-    "updated_at": "2026-08-30T22:33:29Z",
+    "updated_at": "2026-08-30T22:59:31Z",
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-30T19:53:41Z",
     "url": "https://github.com/api-evangelist/mixedbread-ai"
-  },
-  {
-    "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
-    "id": "api-evangelist/milvus",
-    "language": "\u2014",
-    "name": "api-evangelist/milvus",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:50:56Z",
-    "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
-    "id": "Constraintworthy6058/ai-github-repository-assistant",
-    "language": "TypeScript",
-    "name": "Constraintworthy6058/ai-github-repository-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-30T19:40:38Z",
-    "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9215,
-    "updated_at": "2026-08-30T21:58:41Z",
-    "url": "https://github.com/paradedb/paradedb"
   }
 ]
