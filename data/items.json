@@ -5,8 +5,116 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-30T01:00:17Z",
+    "updated_at": "2026-08-30T01:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
+    "id": "srimon12/qql-rs",
+    "language": "Rust",
+    "name": "srimon12/qql-rs",
+    "stars": 3,
+    "updated_at": "2026-08-30T01:14:45Z",
+    "url": "https://github.com/srimon12/qql-rs"
+  },
+  {
+    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
+    "id": "api-evangelist/datastax",
+    "language": "\u2014",
+    "name": "api-evangelist/datastax",
+    "stars": 0,
+    "updated_at": "2026-08-30T01:14:29Z",
+    "url": "https://github.com/api-evangelist/datastax"
+  },
+  {
+    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
+    "id": "api-evangelist/crate-io",
+    "language": "\u2014",
+    "name": "api-evangelist/crate-io",
+    "stars": 0,
+    "updated_at": "2026-08-30T01:12:26Z",
+    "url": "https://github.com/api-evangelist/crate-io"
+  },
+  {
+    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-08-30T01:11:18Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-30T01:09:41Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma-db",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma-db",
+    "stars": 0,
+    "updated_at": "2026-08-30T01:08:03Z",
+    "url": "https://github.com/api-evangelist/chroma-db"
+  },
+  {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma",
+    "stars": 0,
+    "updated_at": "2026-08-30T01:08:03Z",
+    "url": "https://github.com/api-evangelist/chroma"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-08-30T01:07:45Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Demo project. Semantic audio search for journalists",
+    "id": "hordiales/audio-semantic-search-for-journalists",
+    "language": "Python",
+    "name": "hordiales/audio-semantic-search-for-journalists",
+    "stars": 0,
+    "updated_at": "2026-08-30T01:05:57Z",
+    "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-08-30T01:03:40Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "This is a hobby project to build a Graph database in Rust.",
+    "id": "gmr/dotilla",
+    "language": "Rust",
+    "name": "gmr/dotilla",
+    "stars": 1,
+    "updated_at": "2026-08-30T01:02:56Z",
+    "url": "https://github.com/gmr/dotilla"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T01:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
@@ -16,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T00:59:49Z",
     "url": "https://github.com/api-evangelist/azure-cosmos-db"
-  },
-  {
-    "description": "This is a hobby project to build a Graph database in Rust.",
-    "id": "gmr/dotilla",
-    "language": "Rust",
-    "name": "gmr/dotilla",
-    "stars": 1,
-    "updated_at": "2026-08-30T00:59:36Z",
-    "url": "https://github.com/gmr/dotilla"
   },
   {
     "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
@@ -41,7 +140,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-08-30T00:53:40Z",
+    "updated_at": "2026-08-30T01:02:49Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -72,15 +171,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T00:45:54Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI.",
     "id": "stackitcloud/rag-template",
     "language": "Python",
@@ -88,15 +178,6 @@
     "stars": 86,
     "updated_at": "2026-08-30T00:41:24Z",
     "url": "https://github.com/stackitcloud/rag-template"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-30T00:25:55Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Local, Offline Documentation Context Server (MCP) for LLMs & AI Coding Agents",
@@ -221,7 +302,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 7,
-    "updated_at": "2026-08-30T00:59:11Z",
+    "updated_at": "2026-08-30T01:13:47Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -232,24 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-29T22:26:02Z",
     "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-29T22:21:46Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-29T22:15:56Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "An advanced,local vector database for Flutter, powered by Rust and HNSW graph indexing.",
@@ -385,68 +448,5 @@
     "stars": 4,
     "updated_at": "2026-08-29T21:49:11Z",
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-08-29T21:48:17Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-08-29T21:46:58Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 4,
-    "updated_at": "2026-08-29T21:43:27Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1724,
-    "updated_at": "2026-08-29T21:42:17Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-08-29T21:41:57Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 3,
-    "updated_at": "2026-08-29T21:41:06Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-08-29T21:40:04Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
   }
 ]
