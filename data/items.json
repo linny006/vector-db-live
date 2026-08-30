@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-30T00:30:21Z",
+    "updated_at": "2026-08-30T00:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
+    "id": "hivellm/vectorizer",
+    "language": "Rust",
+    "name": "hivellm/vectorizer",
+    "stars": 27,
+    "updated_at": "2026-08-30T00:39:36Z",
+    "url": "https://github.com/hivellm/vectorizer"
+  },
+  {
+    "description": "Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI.",
+    "id": "stackitcloud/rag-template",
+    "language": "Python",
+    "name": "stackitcloud/rag-template",
+    "stars": 86,
+    "updated_at": "2026-08-30T00:41:24Z",
+    "url": "https://github.com/stackitcloud/rag-template"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T00:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -25,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T00:15:54Z",
     "url": "https://github.com/garnizeh/memex"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T00:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -144,15 +162,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
-    "id": "hivellm/vectorizer",
-    "language": "Rust",
-    "name": "hivellm/vectorizer",
-    "stars": 27,
-    "updated_at": "2026-08-29T22:52:48Z",
-    "url": "https://github.com/hivellm/vectorizer"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -176,7 +185,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 7,
-    "updated_at": "2026-08-29T23:51:33Z",
+    "updated_at": "2026-08-30T00:37:38Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -373,7 +382,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1723,
+    "stars": 1724,
     "updated_at": "2026-08-29T21:42:17Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-29T21:32:57Z",
     "url": "https://github.com/gmr/dotilla"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 1,
-    "updated_at": "2026-08-29T21:32:29Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
   }
 ]
