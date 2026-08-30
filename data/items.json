@@ -5,17 +5,8 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-30T16:45:20Z",
+    "updated_at": "2026-08-30T17:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
-    "id": "RohannShetty/gitbook-downloader",
-    "language": "Python",
-    "name": "RohannShetty/gitbook-downloader",
-    "stars": 2,
-    "updated_at": "2026-08-30T16:44:48Z",
-    "url": "https://github.com/RohannShetty/gitbook-downloader"
   },
   {
     "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
@@ -23,8 +14,53 @@
     "language": "TypeScript",
     "name": "amirhosssein0/ai-platform-lab",
     "stars": 4,
-    "updated_at": "2026-08-30T16:44:11Z",
+    "updated_at": "2026-08-30T16:58:35Z",
     "url": "https://github.com/amirhosssein0/ai-platform-lab"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-30T16:56:05Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "AI-powered PDF chat application using RAG (Retrieval-Augmented Generation) that enables users to upload documents, gener",
+    "id": "aashutosh585/chatpdf",
+    "language": "JavaScript",
+    "name": "aashutosh585/chatpdf",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:54:18Z",
+    "url": "https://github.com/aashutosh585/chatpdf"
+  },
+  {
+    "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
+    "id": "onlyarnav/nimbus-db",
+    "language": "Go",
+    "name": "onlyarnav/nimbus-db",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:48:41Z",
+    "url": "https://github.com/onlyarnav/nimbus-db"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
+    "id": "RohannShetty/gitbook-downloader",
+    "language": "Python",
+    "name": "RohannShetty/gitbook-downloader",
+    "stars": 2,
+    "updated_at": "2026-08-30T16:52:48Z",
+    "url": "https://github.com/RohannShetty/gitbook-downloader"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -72,24 +108,6 @@
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T16:34:38Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
-    "id": "onlyarnav/nimbus-db",
-    "language": "Go",
-    "name": "onlyarnav/nimbus-db",
-    "stars": 1,
-    "updated_at": "2026-08-30T16:34:26Z",
-    "url": "https://github.com/onlyarnav/nimbus-db"
-  },
-  {
     "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
     "id": "api-evangelist/datastax",
     "language": "\u2014",
@@ -108,12 +126,21 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8157,
+    "updated_at": "2026-08-30T16:27:56Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Local, Offline Documentation Context Server (MCP) for LLMs & AI Coding Agents",
     "id": "garnizeh/memex",
     "language": "Rust",
     "name": "garnizeh/memex",
     "stars": 0,
-    "updated_at": "2026-08-30T16:37:06Z",
+    "updated_at": "2026-08-30T16:54:36Z",
     "url": "https://github.com/garnizeh/memex"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1111,
-    "updated_at": "2026-08-30T16:37:39Z",
+    "updated_at": "2026-08-30T16:49:05Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Go",
     "name": "everstacklabs/everstack",
     "stars": 0,
-    "updated_at": "2026-08-30T16:43:04Z",
+    "updated_at": "2026-08-30T16:53:14Z",
     "url": "https://github.com/everstacklabs/everstack"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/manav-2812/synapse"
   },
   {
-    "description": "AI-powered PDF chat application using RAG (Retrieval-Augmented Generation) that enables users to upload documents, gener",
-    "id": "aashutosh585/chatpdf",
-    "language": "JavaScript",
-    "name": "aashutosh585/chatpdf",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:43:45Z",
-    "url": "https://github.com/aashutosh585/chatpdf"
-  },
-  {
     "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
     "id": "AkashKundu114/COPPER",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-30T14:32:44Z",
     "url": "https://github.com/Tanmoy095/Logiflow-platform"
-  },
-  {
-    "description": "C# SDK for the Chroma API -- open-source vector database",
-    "id": "tryAGI/Chroma",
-    "language": "C#",
-    "name": "tryAGI/Chroma",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:24:01Z",
-    "url": "https://github.com/tryAGI/Chroma"
-  },
-  {
-    "description": "Fast, thread-safe, and persistent vector database engine implemented in Go.",
-    "id": "prism0-go/AgentVec",
-    "language": "Go",
-    "name": "prism0-go/AgentVec",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:21:57Z",
-    "url": "https://github.com/prism0-go/AgentVec"
   }
 ]
