@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
+    "id": "RohannShetty/gitbook-downloader",
+    "language": "Python",
+    "name": "RohannShetty/gitbook-downloader",
+    "stars": 2,
+    "updated_at": "2026-08-30T16:44:48Z",
+    "url": "https://github.com/RohannShetty/gitbook-downloader"
+  },
+  {
+    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
+    "id": "amirhosssein0/ai-platform-lab",
+    "language": "TypeScript",
+    "name": "amirhosssein0/ai-platform-lab",
+    "stars": 4,
+    "updated_at": "2026-08-30T16:44:11Z",
+    "url": "https://github.com/amirhosssein0/ai-platform-lab"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-08-30T16:37:34Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 2,
+    "updated_at": "2026-08-30T16:36:39Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-30T16:36:19Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "AI-powered PDF Question Answering System using RAG, Gemini, LangChain, and ChromaDB.",
+    "id": "Mahee-Jain123/Ai-study-assistant",
+    "language": "JavaScript",
+    "name": "Mahee-Jain123/Ai-study-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:35:46Z",
+    "url": "https://github.com/Mahee-Jain123/Ai-study-assistant"
+  },
+  {
+    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
+    "id": "rehan243/RAG-Enterprise-Search",
+    "language": "Python",
+    "name": "rehan243/RAG-Enterprise-Search",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:35:44Z",
+    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:34:38Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
+    "id": "onlyarnav/nimbus-db",
+    "language": "Go",
+    "name": "onlyarnav/nimbus-db",
+    "stars": 1,
+    "updated_at": "2026-08-30T16:34:26Z",
+    "url": "https://github.com/onlyarnav/nimbus-db"
+  },
+  {
     "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
     "id": "api-evangelist/datastax",
     "language": "\u2014",
@@ -18,39 +108,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T16:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T16:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
-    "id": "onlyarnav/nimbus-db",
-    "language": "Go",
-    "name": "onlyarnav/nimbus-db",
-    "stars": 1,
-    "updated_at": "2026-08-30T16:34:26Z",
-    "url": "https://github.com/onlyarnav/nimbus-db"
-  },
-  {
     "description": "Local, Offline Documentation Context Server (MCP) for LLMs & AI Coding Agents",
     "id": "garnizeh/memex",
     "language": "Rust",
     "name": "garnizeh/memex",
     "stars": 0,
-    "updated_at": "2026-08-30T16:24:07Z",
+    "updated_at": "2026-08-30T16:37:06Z",
     "url": "https://github.com/garnizeh/memex"
   },
   {
@@ -88,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T16:14:32Z",
     "url": "https://github.com/api-evangelist/contentstack"
-  },
-  {
-    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
-    "id": "RohannShetty/gitbook-downloader",
-    "language": "Python",
-    "name": "RohannShetty/gitbook-downloader",
-    "stars": 2,
-    "updated_at": "2026-08-30T16:13:54Z",
-    "url": "https://github.com/RohannShetty/gitbook-downloader"
   },
   {
     "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
@@ -140,7 +194,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 90,
-    "updated_at": "2026-08-30T15:50:04Z",
+    "updated_at": "2026-08-30T16:41:30Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -158,7 +212,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2071,
-    "updated_at": "2026-08-30T16:33:11Z",
+    "updated_at": "2026-08-30T16:39:08Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -320,7 +374,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1111,
-    "updated_at": "2026-08-30T16:32:39Z",
+    "updated_at": "2026-08-30T16:37:39Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -329,7 +383,7 @@
     "language": "Go",
     "name": "everstacklabs/everstack",
     "stars": 0,
-    "updated_at": "2026-08-30T14:48:37Z",
+    "updated_at": "2026-08-30T16:43:04Z",
     "url": "https://github.com/everstacklabs/everstack"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T14:21:57Z",
     "url": "https://github.com/prism0-go/AgentVec"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 3,
-    "updated_at": "2026-08-30T14:39:02Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "This project implements a Retrieval-Augmented Generation (RAG) chatbot that can answer medical questions based on upload",
-    "id": "Dinesh-Sharma2004/Medical_chatbot",
-    "language": "Python",
-    "name": "Dinesh-Sharma2004/Medical_chatbot",
-    "stars": 5,
-    "updated_at": "2026-08-30T14:15:47Z",
-    "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot"
-  },
-  {
-    "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
-    "id": "api-evangelist/aerospike",
-    "language": "\u2014",
-    "name": "api-evangelist/aerospike",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:15:05Z",
-    "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-30T14:12:04Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-08-30T13:57:30Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 839,
-    "updated_at": "2026-08-30T16:28:44Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   }
 ]
