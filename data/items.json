@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-08-30T16:14:32Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
+    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
+    "id": "RohannShetty/gitbook-downloader",
+    "language": "Python",
+    "name": "RohannShetty/gitbook-downloader",
+    "stars": 2,
+    "updated_at": "2026-08-30T16:13:54Z",
+    "url": "https://github.com/RohannShetty/gitbook-downloader"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-30T16:08:11Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
+    "id": "M4F-S/gomaa",
+    "language": "Python",
+    "name": "M4F-S/gomaa",
+    "stars": 30,
+    "updated_at": "2026-08-30T16:07:59Z",
+    "url": "https://github.com/M4F-S/gomaa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T16:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
     "id": "api-evangelist/chroma",
     "language": "\u2014",
@@ -27,15 +81,6 @@
     "url": "https://github.com/Saurabhsds13/ai-customer-support-assistant"
   },
   {
-    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
-    "id": "RohannShetty/gitbook-downloader",
-    "language": "Python",
-    "name": "RohannShetty/gitbook-downloader",
-    "stars": 2,
-    "updated_at": "2026-08-30T15:47:40Z",
-    "url": "https://github.com/RohannShetty/gitbook-downloader"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -52,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T15:45:28Z",
     "url": "https://github.com/jkelly-dev1/federated-retrieval-router"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T15:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T15:45:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
@@ -118,21 +145,21 @@
   },
   {
     "description": "Production-ready FastAPI backend for document intelligence with RAG, semantic search, JWT authentication, MongoDB, vecto",
-    "id": "yuvakumar1234/AI_Doc_Reader_Backend-main",
+    "id": "yuvakumar1234/AI-Doc-Reader-Backend",
     "language": "Python",
-    "name": "yuvakumar1234/AI_Doc_Reader_Backend-main",
+    "name": "yuvakumar1234/AI-Doc-Reader-Backend",
     "stars": 0,
     "updated_at": "2026-08-30T15:36:33Z",
-    "url": "https://github.com/yuvakumar1234/AI_Doc_Reader_Backend-main"
+    "url": "https://github.com/yuvakumar1234/AI-Doc-Reader-Backend"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-30T15:33:48Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1726,
+    "updated_at": "2026-08-30T15:31:33Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "ResearchPilot is an AI-powered research assistant that lets users upload PDFs, ask grounded questions, and explore answe",
@@ -297,15 +324,6 @@
     "url": "https://github.com/Tanmoy095/Logiflow-platform"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1725,
-    "updated_at": "2026-08-30T15:31:33Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "C# SDK for the Chroma API -- open-source vector database",
     "id": "tryAGI/Chroma",
     "language": "C#",
@@ -374,7 +392,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-30T15:53:20Z",
+    "updated_at": "2026-08-30T16:14:41Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-30T13:29:05Z",
     "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
-    "id": "thelastpickle/open-htap-stack",
-    "language": "Python",
-    "name": "thelastpickle/open-htap-stack",
-    "stars": 3,
-    "updated_at": "2026-08-30T13:26:36Z",
-    "url": "https://github.com/thelastpickle/open-htap-stack"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T13:25:04Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
   }
 ]
