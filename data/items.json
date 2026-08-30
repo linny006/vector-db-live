@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-30T14:30:23Z",
+    "updated_at": "2026-08-30T14:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-powered PDF chat application using RAG (Retrieval-Augmented Generation) that enables users to upload documents, gener",
+    "id": "aashutosh585/chatpdf",
+    "language": "JavaScript",
+    "name": "aashutosh585/chatpdf",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:43:45Z",
+    "url": "https://github.com/aashutosh585/chatpdf"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45880,
+    "updated_at": "2026-08-30T14:40:06Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "ResearchPilot is an AI-powered research assistant that lets users upload PDFs, ask grounded questions, and explore answe",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "us-utkarshsri07/ResearchPilotAI",
     "stars": 0,
-    "updated_at": "2026-08-30T14:30:16Z",
+    "updated_at": "2026-08-30T14:39:24Z",
     "url": "https://github.com/us-utkarshsri07/ResearchPilotAI"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-08-30T14:34:36Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-30T14:33:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
+    "id": "Tanmoy095/Logiflow-platform",
+    "language": "Go",
+    "name": "Tanmoy095/Logiflow-platform",
+    "stars": 2,
+    "updated_at": "2026-08-30T14:32:44Z",
+    "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1725,
+    "updated_at": "2026-08-30T14:31:49Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T14:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -36,7 +99,7 @@
     "url": "https://github.com/tryAGI/Chroma"
   },
   {
-    "description": "",
+    "description": "Fast, thread-safe, and persistent vector database engine implemented in Go.",
     "id": "prism0-go/AgentVec",
     "language": "Go",
     "name": "prism0-go/AgentVec",
@@ -50,7 +113,7 @@
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 3,
-    "updated_at": "2026-08-30T14:19:55Z",
+    "updated_at": "2026-08-30T14:39:02Z",
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-08-30T14:15:47Z",
     "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T14:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
@@ -97,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-08-30T14:12:04Z",
     "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-30T14:07:21Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -270,15 +315,6 @@
     "url": "https://github.com/is-leeroy-jenkins/Boo"
   },
   {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Go",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 2,
-    "updated_at": "2026-08-30T12:28:07Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -320,7 +356,7 @@
     "language": "TypeScript",
     "name": "manav-2812/synapse",
     "stars": 1,
-    "updated_at": "2026-08-30T12:06:18Z",
+    "updated_at": "2026-08-30T14:45:21Z",
     "url": "https://github.com/manav-2812/synapse"
   },
   {
@@ -328,7 +364,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11312,
+    "stars": 11313,
     "updated_at": "2026-08-30T12:06:17Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -358,15 +394,6 @@
     "stars": 30,
     "updated_at": "2026-08-30T11:55:56Z",
     "url": "https://github.com/ldclabs/anda-db"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1725,
-    "updated_at": "2026-08-30T14:29:52Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T11:46:34Z",
     "url": "https://github.com/Wry-letters233/notes-quiz-agent"
-  },
-  {
-    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
-    "id": "retrograde-prosceniumwall239/ai-search-engine",
-    "language": "Python",
-    "name": "retrograde-prosceniumwall239/ai-search-engine",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:46:30Z",
-    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:42:57Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-08-30T11:40:02Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
   }
 ]
