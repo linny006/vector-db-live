@@ -1,5 +1,86 @@
 [
   {
+    "description": "Multi-PDF conversational RAG chatbot \u2014 FastAPI + ChromaDB + LangChain, with citation-backed answers",
+    "id": "shinaycore/RAG",
+    "language": "Python",
+    "name": "shinaycore/RAG",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:59:04Z",
+    "url": "https://github.com/shinaycore/RAG"
+  },
+  {
+    "description": "",
+    "id": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
+    "language": "C#",
+    "name": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:55:01Z",
+    "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:53:13Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1111,
+    "updated_at": "2026-08-30T14:56:36Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Open-source AI infrastructure for model routing, agents, sandboxes, memory, MCP, workflows, and observability.",
+    "id": "everstacklabs/everstack",
+    "language": "Go",
+    "name": "everstacklabs/everstack",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:48:37Z",
+    "url": "https://github.com/everstacklabs/everstack"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45880,
+    "updated_at": "2026-08-30T14:47:34Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Production-style AI-powered customer support assistant built with Java, Spring Boot, Spring AI, RAG, vector search, and ",
+    "id": "Saurabhsds13/ai-customer-support-assistant",
+    "language": "Java",
+    "name": "Saurabhsds13/ai-customer-support-assistant",
+    "stars": 0,
+    "updated_at": "2026-08-30T14:46:34Z",
+    "url": "https://github.com/Saurabhsds13/ai-customer-support-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T14:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
+    "id": "manav-2812/synapse",
+    "language": "TypeScript",
+    "name": "manav-2812/synapse",
+    "stars": 1,
+    "updated_at": "2026-08-30T14:45:21Z",
+    "url": "https://github.com/manav-2812/synapse"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T14:43:45Z",
     "url": "https://github.com/aashutosh585/chatpdf"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45880,
-    "updated_at": "2026-08-30T14:40:06Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "ResearchPilot is an AI-powered research assistant that lets users upload PDFs, ask grounded questions, and explore answe",
@@ -68,26 +140,8 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1725,
-    "updated_at": "2026-08-30T14:31:49Z",
+    "updated_at": "2026-08-30T14:49:58Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T14:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1111,
-    "updated_at": "2026-08-30T14:25:08Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "C# SDK for the Chroma API -- open-source vector database",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-08-30T14:15:05Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
-    "id": "alxxtexxr/arxiv_agent",
-    "language": "Python",
-    "name": "alxxtexxr/arxiv_agent",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:12:13Z",
-    "url": "https://github.com/alxxtexxr/arxiv_agent"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "garnizeh/memex",
     "stars": 0,
-    "updated_at": "2026-08-30T13:58:09Z",
+    "updated_at": "2026-08-30T14:52:50Z",
     "url": "https://github.com/garnizeh/memex"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
-    "description": "",
-    "id": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
-    "language": "C#",
-    "name": "ahmedSamir50/AdamSystems.ZVec.NET-RAG",
-    "stars": 0,
-    "updated_at": "2026-08-30T12:57:18Z",
-    "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -351,15 +387,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
-    "id": "manav-2812/synapse",
-    "language": "TypeScript",
-    "name": "manav-2812/synapse",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:45:21Z",
-    "url": "https://github.com/manav-2812/synapse"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T11:48:07Z",
     "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:47:04Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-30T11:46:50Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
-    "id": "Wry-letters233/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Wry-letters233/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-08-30T11:46:34Z",
-    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
   }
 ]
