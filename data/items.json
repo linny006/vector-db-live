@@ -1,12 +1,57 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-30T17:14:01Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
     "stars": 3,
-    "updated_at": "2026-08-30T17:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-08-30T17:12:14Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "Vector DB implementation in Mojo",
+    "id": "bewaffnete/MojoVec",
+    "language": "Mojo",
+    "name": "bewaffnete/MojoVec",
+    "stars": 9,
+    "updated_at": "2026-08-30T17:10:47Z",
+    "url": "https://github.com/bewaffnete/MojoVec"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-30T17:06:42Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2276,
+    "updated_at": "2026-08-30T17:05:32Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Mnema \u2014 one memory for every AI agent. Shared memory, RAG and project maps over MCP + REST; SQLite hybrid search, multi-",
+    "id": "fthsrbst/mnema",
+    "language": "TypeScript",
+    "name": "fthsrbst/mnema",
+    "stars": 2,
+    "updated_at": "2026-08-30T17:03:16Z",
+    "url": "https://github.com/fthsrbst/mnema"
   },
   {
     "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
@@ -14,8 +59,35 @@
     "language": "TypeScript",
     "name": "amirhosssein0/ai-platform-lab",
     "stars": 4,
-    "updated_at": "2026-08-30T16:58:35Z",
+    "updated_at": "2026-08-30T17:01:34Z",
     "url": "https://github.com/amirhosssein0/ai-platform-lab"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-30T17:01:30Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T17:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T17:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "",
@@ -36,6 +108,15 @@
     "url": "https://github.com/aashutosh585/chatpdf"
   },
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1112,
+    "updated_at": "2026-08-30T17:13:43Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "A distributed, AI-native cloud database platform featuring a Go-based control plane, custom capacity-weighted scheduler,",
     "id": "onlyarnav/nimbus-db",
     "language": "Go",
@@ -43,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T16:48:41Z",
     "url": "https://github.com/onlyarnav/nimbus-db"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T16:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
@@ -81,15 +153,6 @@
     "url": "https://github.com/rehan243/rehan243"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-30T16:36:19Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "AI-powered PDF Question Answering System using RAG, Gemini, LangChain, and ChromaDB.",
     "id": "Mahee-Jain123/Ai-study-assistant",
     "language": "JavaScript",
@@ -117,13 +180,13 @@
     "url": "https://github.com/api-evangelist/datastax"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-30T16:33:32Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5871,
+    "updated_at": "2026-08-30T16:31:32Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -239,7 +302,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2071,
-    "updated_at": "2026-08-30T16:39:08Z",
+    "updated_at": "2026-08-30T17:14:38Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T14:55:01Z",
     "url": "https://github.com/ahmedSamir50/AdamSystems.ZVec.NET-RAG"
-  },
-  {
-    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
-    "id": "alxxtexxr/arxiv_agent",
-    "language": "Python",
-    "name": "alxxtexxr/arxiv_agent",
-    "stars": 0,
-    "updated_at": "2026-08-30T14:53:13Z",
-    "url": "https://github.com/alxxtexxr/arxiv_agent"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1111,
-    "updated_at": "2026-08-30T16:49:05Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Open-source AI infrastructure for model routing, agents, sandboxes, memory, MCP, workflows, and observability.",
-    "id": "everstacklabs/everstack",
-    "language": "Go",
-    "name": "everstacklabs/everstack",
-    "stars": 0,
-    "updated_at": "2026-08-30T16:53:14Z",
-    "url": "https://github.com/everstacklabs/everstack"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45882,
-    "updated_at": "2026-08-30T14:47:34Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "RAG-based study assistant \u2014 chat with your notes with cited sources, auto-generated quizzes/notes, SM-2 flashcards, and ",
-    "id": "manav-2812/synapse",
-    "language": "TypeScript",
-    "name": "manav-2812/synapse",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:45:21Z",
-    "url": "https://github.com/manav-2812/synapse"
-  },
-  {
-    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 1,
-    "updated_at": "2026-08-30T14:34:36Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Go",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 2,
-    "updated_at": "2026-08-30T14:32:44Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
   }
 ]
