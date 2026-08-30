@@ -1,12 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-30T09:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
+    "id": "dhanoliya-ji/DocMinds",
+    "language": "Python",
+    "name": "dhanoliya-ji/DocMinds",
+    "stars": 0,
+    "updated_at": "2026-08-30T09:14:11Z",
+    "url": "https://github.com/dhanoliya-ji/DocMinds"
+  },
+  {
     "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
     "id": "iberi22/xavier",
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-08-30T08:59:02Z",
+    "updated_at": "2026-08-30T09:13:51Z",
     "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
+    "language": "Python",
+    "name": "vishalChoudhary-git/ai-platform",
+    "stars": 0,
+    "updated_at": "2026-08-30T09:10:55Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
+  },
+  {
+    "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
+    "id": "M4F-S/gomaa",
+    "language": "Python",
+    "name": "M4F-S/gomaa",
+    "stars": 30,
+    "updated_at": "2026-08-30T09:09:37Z",
+    "url": "https://github.com/M4F-S/gomaa"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-30T09:08:12Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T09:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -58,18 +112,9 @@
     "id": "rostamlabs/rostam",
     "language": "Go",
     "name": "rostamlabs/rostam",
-    "stars": 9,
+    "stars": 10,
     "updated_at": "2026-08-30T08:47:57Z",
     "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T08:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -77,7 +122,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1111,
-    "updated_at": "2026-08-30T08:45:24Z",
+    "updated_at": "2026-08-30T09:06:10Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 791,
     "updated_at": "2026-08-30T08:45:21Z",
     "url": "https://github.com/skyzh/write-you-a-vector-db"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-30T08:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
@@ -117,15 +153,6 @@
     "url": "https://github.com/batuhanzorbeyzengin/rebasis"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-30T08:36:02Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Native Rust vector and full-text engine",
     "id": "A3S-Lab/Vec",
     "language": "Rust",
@@ -135,20 +162,11 @@
     "url": "https://github.com/A3S-Lab/Vec"
   },
   {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
-    "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
-    "stars": 0,
-    "updated_at": "2026-08-30T08:23:35Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11313,
+    "stars": 11312,
     "updated_at": "2026-08-30T08:16:57Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -212,7 +230,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-30T07:33:24Z",
+    "updated_at": "2026-08-30T09:11:35Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -286,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-08-30T06:32:02Z",
     "url": "https://github.com/matuteiglesias/kb-contracts"
-  },
-  {
-    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
-    "id": "dhanoliya-ji/Enterprise-Document-Intelligence-Assistant",
-    "language": "Python",
-    "name": "dhanoliya-ji/Enterprise-Document-Intelligence-Assistant",
-    "stars": 0,
-    "updated_at": "2026-08-30T06:23:50Z",
-    "url": "https://github.com/dhanoliya-ji/Enterprise-Document-Intelligence-Assistant"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -400,7 +409,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2750,
+    "stars": 2751,
     "updated_at": "2026-08-30T05:13:27Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T04:53:29Z",
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-08-30T04:49:29Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
   }
 ]
