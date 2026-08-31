@@ -1,5 +1,104 @@
 [
   {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-08-31T12:27:45Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
+    "id": "infiniflow/infinity",
+    "language": "C++",
+    "name": "infiniflow/infinity",
+    "stars": 4691,
+    "updated_at": "2026-08-31T12:26:02Z",
+    "url": "https://github.com/infiniflow/infinity"
+  },
+  {
+    "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
+    "id": "thelastpickle/open-htap-stack",
+    "language": "Python",
+    "name": "thelastpickle/open-htap-stack",
+    "stars": 3,
+    "updated_at": "2026-08-31T12:24:28Z",
+    "url": "https://github.com/thelastpickle/open-htap-stack"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-31T12:28:04Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3276,
+    "updated_at": "2026-08-31T12:19:38Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "This project implements a Retrieval-Augmented Generation (RAG) chatbot that can answer medical questions based on upload",
+    "id": "Dinesh-Sharma2004/Medical_chatbot",
+    "language": "Python",
+    "name": "Dinesh-Sharma2004/Medical_chatbot",
+    "stars": 5,
+    "updated_at": "2026-08-31T12:19:30Z",
+    "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T12:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T12:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-31T12:14:10Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30368,
+    "updated_at": "2026-08-31T12:11:41Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "An enterprise-grade AI Contract Analyzer powered by an optimized RAG (Retrieval-Augmented Generation) pipeline, utilizin",
+    "id": "Amca20/Ai-Contract-Analyzer-using-RAG-and-LLM",
+    "language": "Python",
+    "name": "Amca20/Ai-Contract-Analyzer-using-RAG-and-LLM",
+    "stars": 0,
+    "updated_at": "2026-08-31T12:11:23Z",
+    "url": "https://github.com/Amca20/Ai-Contract-Analyzer-using-RAG-and-LLM"
+  },
+  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -18,40 +117,22 @@
     "url": "https://github.com/tamnd/yo"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-31T12:03:18Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4433,
-    "updated_at": "2026-08-31T12:10:43Z",
+    "updated_at": "2026-08-31T12:25:54Z",
     "url": "https://github.com/crate/crate"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T12:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T12:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45903,
+    "updated_at": "2026-08-31T11:59:28Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -59,7 +140,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 93,
-    "updated_at": "2026-08-31T12:02:36Z",
+    "updated_at": "2026-08-31T12:27:01Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -86,8 +167,17 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7071,
-    "updated_at": "2026-08-31T11:49:43Z",
+    "updated_at": "2026-08-31T12:16:06Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34292,
+    "updated_at": "2026-08-31T11:48:27Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
@@ -149,35 +239,8 @@
     "language": "Python",
     "name": "HyxiaoGe/fusion-api",
     "stars": 5,
-    "updated_at": "2026-08-31T11:36:27Z",
+    "updated_at": "2026-08-31T12:26:02Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34290,
-    "updated_at": "2026-08-31T11:48:27Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-31T12:14:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45902,
-    "updated_at": "2026-08-31T11:59:28Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "C# SDK for the Weaviate API -- open-source vector database",
@@ -279,21 +342,12 @@
     "url": "https://github.com/deven96/ahnlich"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30367,
-    "updated_at": "2026-08-31T12:11:41Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-31T12:12:27Z",
+    "updated_at": "2026-08-31T12:22:49Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -320,7 +374,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1745,
-    "updated_at": "2026-08-31T11:52:04Z",
+    "updated_at": "2026-08-31T12:30:15Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -338,7 +392,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9427,
-    "updated_at": "2026-08-31T11:03:17Z",
+    "updated_at": "2026-08-31T12:21:59Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -369,15 +423,6 @@
     "url": "https://github.com/erishen/rag-task-service"
   },
   {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3276,
-    "updated_at": "2026-08-31T10:53:43Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
     "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
     "id": "AkashKundu114/COPPER",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 12984,
     "updated_at": "2026-08-31T10:26:21Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 236,
-    "updated_at": "2026-08-31T10:22:56Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system",
-    "id": "skyzh/write-you-a-vector-db",
-    "language": "Rust",
-    "name": "skyzh/write-you-a-vector-db",
-    "stars": 792,
-    "updated_at": "2026-08-31T10:15:42Z",
-    "url": "https://github.com/skyzh/write-you-a-vector-db"
-  },
-  {
-    "description": "An risk prediction LLMs system that analyzes 31 multi-dimensional domain signal.",
-    "id": "Danish08654/AI-Powered-Supplier-Risk-Intelligence-Engine",
-    "language": "Python",
-    "name": "Danish08654/AI-Powered-Supplier-Risk-Intelligence-Engine",
-    "stars": 3,
-    "updated_at": "2026-08-31T10:13:21Z",
-    "url": "https://github.com/Danish08654/AI-Powered-Supplier-Risk-Intelligence-Engine"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11318,
-    "updated_at": "2026-08-31T10:03:41Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 75,
-    "updated_at": "2026-08-31T09:54:09Z",
-    "url": "https://github.com/infino-ai/infino"
   }
 ]
