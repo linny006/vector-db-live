@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-31T14:30:23Z",
+    "updated_at": "2026-08-31T14:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 24,
+    "updated_at": "2026-08-31T14:36:36Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Support operations platform for B2B SaaS teams, featuring ticket triage, versioned knowledge base, grounded response dra",
+    "id": "rafael-acerqueira/support-ops",
+    "language": "Python",
+    "name": "rafael-acerqueira/support-ops",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:32:35Z",
+    "url": "https://github.com/rafael-acerqueira/support-ops"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7071,
+    "updated_at": "2026-08-31T14:32:02Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Document-first sqlite3+faiss vector database",
@@ -14,8 +41,26 @@
     "language": "Python",
     "name": "thomas-villani/localvectordb",
     "stars": 2,
-    "updated_at": "2026-08-31T14:29:23Z",
+    "updated_at": "2026-08-31T14:31:44Z",
     "url": "https://github.com/thomas-villani/localvectordb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T14:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1744,
+    "updated_at": "2026-08-31T14:41:08Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -27,13 +72,22 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Support operations platform for B2B SaaS teams, featuring ticket triage, versioned knowledge base, grounded response dra",
-    "id": "rafael-acerqueira/support-ops",
-    "language": "Python",
-    "name": "rafael-acerqueira/support-ops",
-    "stars": 0,
-    "updated_at": "2026-08-31T14:25:48Z",
-    "url": "https://github.com/rafael-acerqueira/support-ops"
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-08-31T14:26:25Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-31T14:34:32Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
@@ -41,8 +95,26 @@
     "language": "Python",
     "name": "structured-world/coordinode-python",
     "stars": 0,
-    "updated_at": "2026-08-31T14:23:55Z",
+    "updated_at": "2026-08-31T14:37:23Z",
     "url": "https://github.com/structured-world/coordinode-python"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:40:20Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-31T14:22:04Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "Vector Database Qdrant for semantic search,  including data loading similarity matching, natural language search. Build ",
@@ -59,7 +131,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 2783,
-    "updated_at": "2026-08-31T14:19:16Z",
+    "updated_at": "2026-08-31T14:32:43Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -68,7 +140,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11319,
-    "updated_at": "2026-08-31T14:17:13Z",
+    "updated_at": "2026-08-31T14:34:36Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -81,21 +153,12 @@
     "url": "https://github.com/HHHFFF-HHHFFF/CleanPilot-AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T14:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16769,
-    "updated_at": "2026-08-31T14:18:13Z",
+    "updated_at": "2026-08-31T14:44:49Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -122,7 +185,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-31T14:10:04Z",
+    "updated_at": "2026-08-31T14:36:22Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -131,7 +194,7 @@
     "language": "Python",
     "name": "marlon-costa-dc/hermes-weaviate-memory",
     "stars": 0,
-    "updated_at": "2026-08-31T14:06:01Z",
+    "updated_at": "2026-08-31T14:33:11Z",
     "url": "https://github.com/marlon-costa-dc/hermes-weaviate-memory"
   },
   {
@@ -180,24 +243,6 @@
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1744,
-    "updated_at": "2026-08-31T14:29:09Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-31T14:22:23Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
     "id": "Daaboulex/openviking-nix",
     "language": "Shell",
@@ -214,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T13:43:03Z",
     "url": "https://github.com/adventurewave-labs/aria"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 24,
-    "updated_at": "2026-08-31T14:28:27Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "ocal, privacy-compliant document structuring pipeline and multimodal VLM RAG system (Qwen3-VL, GLM-OCR, Gemma-4). Extrac",
@@ -257,7 +293,7 @@
     "language": "Rust",
     "name": "inlaySQL/inlaysql",
     "stars": 2,
-    "updated_at": "2026-08-31T13:16:58Z",
+    "updated_at": "2026-08-31T14:45:22Z",
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 6,
-    "updated_at": "2026-08-31T13:48:47Z",
+    "updated_at": "2026-08-31T14:42:27Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-31T12:24:28Z",
     "url": "https://github.com/thelastpickle/open-htap-stack"
-  },
-  {
-    "description": "The holographic core for leOS",
-    "id": "AnOversizedMooseWithSocks/leCore",
-    "language": "Python",
-    "name": "AnOversizedMooseWithSocks/leCore",
-    "stars": 11,
-    "updated_at": "2026-08-31T12:22:52Z",
-    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-31T12:28:04Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3276,
-    "updated_at": "2026-08-31T12:19:38Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "An enterprise-grade AI Contract Analyzer powered by an optimized RAG (Retrieval-Augmented Generation) pipeline, utilizin",
-    "id": "Amca20/Ai-Contract-Analyzer-using-RAG-and-LLM",
-    "language": "Python",
-    "name": "Amca20/Ai-Contract-Analyzer-using-RAG-and-LLM",
-    "stars": 0,
-    "updated_at": "2026-08-31T12:11:23Z",
-    "url": "https://github.com/Amca20/Ai-Contract-Analyzer-using-RAG-and-LLM"
   }
 ]
