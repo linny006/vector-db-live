@@ -1,12 +1,93 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T05:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-31T05:43:39Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-31T05:41:45Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "RAG knowledge assistant \u2014 FastAPI + LangChain + ChromaDB with API-key auth, structured logging, CORS allowlist.",
+    "id": "adventurewave-labs/aria",
+    "language": "Python",
+    "name": "adventurewave-labs/aria",
+    "stars": 1,
+    "updated_at": "2026-08-31T05:38:27Z",
+    "url": "https://github.com/adventurewave-labs/aria"
+  },
+  {
     "description": "Self-Healing Academic Knowledge Assistant powered by Agentic RAG, LangGraph, and Gemini.",
     "id": "yashrajagawane/SentinelRAG",
     "language": "Python",
     "name": "yashrajagawane/SentinelRAG",
     "stars": 1,
-    "updated_at": "2026-08-31T05:30:09Z",
+    "updated_at": "2026-08-31T05:37:22Z",
     "url": "https://github.com/yashrajagawane/SentinelRAG"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-31T05:35:49Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AWS Bedrock RAG tutorial: Build a Q&A agent with Knowledge Bases and S3 Vectors (preview). Includes CDK deployment, web ",
+    "id": "PatrickWiloak/bedrock-agents-rag-s3-tutorial",
+    "language": "TypeScript",
+    "name": "PatrickWiloak/bedrock-agents-rag-s3-tutorial",
+    "stars": 4,
+    "updated_at": "2026-08-31T05:31:20Z",
+    "url": "https://github.com/PatrickWiloak/bedrock-agents-rag-s3-tutorial"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1738,
+    "updated_at": "2026-08-31T05:30:48Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T05:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-08-31T05:38:23Z",
+    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
@@ -54,42 +135,6 @@
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T05:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T05:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-31T05:09:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "AWS Bedrock RAG tutorial: Build a Q&A agent with Knowledge Bases and S3 Vectors (preview). Includes CDK deployment, web ",
-    "id": "PatrickWiloak/bedrock-agents-rag-s3-tutorial",
-    "language": "TypeScript",
-    "name": "PatrickWiloak/bedrock-agents-rag-s3-tutorial",
-    "stars": 4,
-    "updated_at": "2026-08-31T05:03:57Z",
-    "url": "https://github.com/PatrickWiloak/bedrock-agents-rag-s3-tutorial"
-  },
-  {
     "description": "AI-powered investment intelligence platform for Indian equities, combining explainable sentiment analysis, semantic fina",
     "id": "abhishek24-06/Vector-Wealth-AI-Investment-Intelligence-Platform",
     "language": "Python",
@@ -97,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-08-31T04:54:39Z",
     "url": "https://github.com/abhishek24-06/Vector-Wealth-AI-Investment-Intelligence-Platform"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6226,
+    "updated_at": "2026-08-31T04:54:04Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
@@ -115,15 +169,6 @@
     "stars": 45892,
     "updated_at": "2026-08-31T04:50:17Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1737,
-    "updated_at": "2026-08-31T05:29:26Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -169,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T04:20:21Z",
     "url": "https://github.com/i-rocky/corvid"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-31T05:02:52Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T02:20:19Z",
     "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-08-31T02:20:07Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 4,
-    "updated_at": "2026-08-31T02:19:24Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Document-first sqlite3+faiss vector database",
-    "id": "thomas-villani/localvectordb",
-    "language": "Python",
-    "name": "thomas-villani/localvectordb",
-    "stars": 2,
-    "updated_at": "2026-08-31T02:28:43Z",
-    "url": "https://github.com/thomas-villani/localvectordb"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-08-31T02:18:45Z",
-    "url": "https://github.com/aziz5971/TalentLens"
   }
 ]
