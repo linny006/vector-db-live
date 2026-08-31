@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-31T08:15:20Z",
+    "updated_at": "2026-08-31T08:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35442,
+    "updated_at": "2026-08-31T08:28:32Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30367,
+    "updated_at": "2026-08-31T08:26:20Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Embedded on-device vector database for AI agent memory and local RAG \u2014 disk-based HNSW in an LSM-tree, C++/Python, optim",
+    "id": "NTU-Siqiang-Group/AsterVec",
+    "language": "C++",
+    "name": "NTU-Siqiang-Group/AsterVec",
+    "stars": 37,
+    "updated_at": "2026-08-31T08:26:01Z",
+    "url": "https://github.com/NTU-Siqiang-Group/AsterVec"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -14,8 +41,62 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-31T08:13:05Z",
+    "updated_at": "2026-08-31T08:23:13Z",
     "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-31T08:18:48Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T08:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-31T08:13:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Deprecated historical repo. Superlinked now develops SIE, a self-hosted inference engine for embeddings, reranking, OCR,",
+    "id": "superlinked/VectorHub",
+    "language": "Jupyter Notebook",
+    "name": "superlinked/VectorHub",
+    "stars": 529,
+    "updated_at": "2026-08-31T08:13:45Z",
+    "url": "https://github.com/superlinked/VectorHub"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-31T08:13:09Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8161,
+    "updated_at": "2026-08-31T08:13:07Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
@@ -25,24 +106,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T08:08:18Z",
     "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35442,
-    "updated_at": "2026-08-31T08:07:25Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T08:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -61,15 +124,6 @@
     "stars": 840,
     "updated_at": "2026-08-31T07:56:12Z",
     "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30366,
-    "updated_at": "2026-08-31T08:12:22Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -126,15 +180,6 @@
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-31T08:13:50Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Self-Healing Academic Knowledge Assistant powered by Agentic RAG, LangGraph, and Gemini.",
     "id": "yashrajagawane/SentinelRAG",
     "language": "Python",
@@ -158,7 +203,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6226,
-    "updated_at": "2026-08-31T08:04:59Z",
+    "updated_at": "2026-08-31T08:30:12Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 235,
-    "updated_at": "2026-08-31T07:18:01Z",
+    "updated_at": "2026-08-31T08:30:33Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -383,7 +428,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16766,
-    "updated_at": "2026-08-31T07:27:50Z",
+    "updated_at": "2026-08-31T08:23:55Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T05:38:27Z",
     "url": "https://github.com/adventurewave-labs/aria"
-  },
-  {
-    "description": "AWS Bedrock RAG tutorial: Build a Q&A agent with Knowledge Bases and S3 Vectors (preview). Includes CDK deployment, web ",
-    "id": "PatrickWiloak/bedrock-agents-rag-s3-tutorial",
-    "language": "TypeScript",
-    "name": "PatrickWiloak/bedrock-agents-rag-s3-tutorial",
-    "stars": 4,
-    "updated_at": "2026-08-31T05:31:20Z",
-    "url": "https://github.com/PatrickWiloak/bedrock-agents-rag-s3-tutorial"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1473,
-    "updated_at": "2026-08-31T05:30:51Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
-    "id": "fewshot-works/academy",
-    "language": "TypeScript",
-    "name": "fewshot-works/academy",
-    "stars": 4,
-    "updated_at": "2026-08-31T05:28:57Z",
-    "url": "https://github.com/fewshot-works/academy"
-  },
-  {
-    "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
-    "id": "rmednitzer/core-graph",
-    "language": "Python",
-    "name": "rmednitzer/core-graph",
-    "stars": 1,
-    "updated_at": "2026-08-31T05:25:45Z",
-    "url": "https://github.com/rmednitzer/core-graph"
-  },
-  {
-    "description": "Native Rust vector and full-text engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 1,
-    "updated_at": "2026-08-31T05:24:09Z",
-    "url": "https://github.com/A3S-Lab/Vec"
   }
 ]
