@@ -1,5 +1,95 @@
 [
   {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:58:39Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 790,
+    "updated_at": "2026-08-31T19:57:58Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:52:24Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-08-31T19:57:21Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "Agentic RAG system that plans, retrieves, reflects, and verifies across multiple hops \u2014 instead of assuming one retrieva",
+    "id": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
+    "language": "Python",
+    "name": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
+    "stars": 1,
+    "updated_at": "2026-08-31T19:49:01Z",
+    "url": "https://github.com/AdarshBobade/ResX---A-Multi-hop-AI-Agent"
+  },
+  {
+    "description": "Embedded multi-modal database in Rust \u2014 vector + full-text + filter + graph + geo behind one fluent builder API. A vibe-",
+    "id": "i-rocky/corvid",
+    "language": "Rust",
+    "name": "i-rocky/corvid",
+    "stars": 1,
+    "updated_at": "2026-08-31T19:47:23Z",
+    "url": "https://github.com/i-rocky/corvid"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:45:34Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T19:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T19:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-31T19:50:56Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
     "description": "Sentinel-SRE: An AI-native Root Cause Analysis (RCA) platform that unifies deterministic SRE logic with feedback-aware R",
     "id": "sujalmeena7/sentinel-sre",
     "language": "Python",
@@ -23,17 +113,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1115,
-    "updated_at": "2026-08-31T19:43:29Z",
+    "updated_at": "2026-08-31T20:00:05Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Agentic RAG system that plans, retrieves, reflects, and verifies across multiple hops \u2014 instead of assuming one retrieva",
-    "id": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
-    "language": "Python",
-    "name": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
-    "stars": 1,
-    "updated_at": "2026-08-31T19:38:08Z",
-    "url": "https://github.com/AdarshBobade/ResX---A-Multi-hop-AI-Agent"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -54,15 +135,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-31T19:42:52Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
     "id": "ZenSystemAI/Zengram",
     "language": "JavaScript",
@@ -70,24 +142,6 @@
     "stars": 60,
     "updated_at": "2026-08-31T19:32:02Z",
     "url": "https://github.com/ZenSystemAI/Zengram"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T19:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T19:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\u26a1 Ultra-high-throughput GPU Vector Search Engine with Warp-Cooperative HNSW, Stride-257 Shared-Memory IVF-PQ ADC, Rust h",
@@ -113,7 +167,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-08-31T19:13:04Z",
+    "updated_at": "2026-08-31T19:59:12Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -121,7 +175,7 @@
     "id": "vector-index-bench/vibe",
     "language": "Python",
     "name": "vector-index-bench/vibe",
-    "stars": 57,
+    "stars": 58,
     "updated_at": "2026-08-31T19:08:42Z",
     "url": "https://github.com/vector-index-bench/vibe"
   },
@@ -133,6 +187,15 @@
     "stars": 2,
     "updated_at": "2026-08-31T19:08:01Z",
     "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11323,
+    "updated_at": "2026-08-31T19:04:24Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Vector database implemented from first principles: HNSW, IVF+Product Quantization, write-ahead logging, and metadata fil",
@@ -180,31 +243,13 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
-    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 1,
-    "updated_at": "2026-08-31T18:43:27Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65433,
+    "stars": 65432,
     "updated_at": "2026-08-31T18:41:29Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
-    "id": "alxxtexxr/arxiv_agent",
-    "language": "Python",
-    "name": "alxxtexxr/arxiv_agent",
-    "stars": 0,
-    "updated_at": "2026-08-31T18:41:01Z",
-    "url": "https://github.com/alxxtexxr/arxiv_agent"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -239,7 +284,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9215,
-    "updated_at": "2026-08-31T19:26:19Z",
+    "updated_at": "2026-08-31T19:57:44Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -342,21 +387,12 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11322,
-    "updated_at": "2026-08-31T19:04:24Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": " Memory library for building stateful agents",
     "id": "plastic-labs/honcho",
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6965,
-    "updated_at": "2026-08-31T19:41:26Z",
+    "updated_at": "2026-08-31T19:53:45Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2788,
     "updated_at": "2026-08-31T18:48:26Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:27:50Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:25:04Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:23:14Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Demo integrating Pinecone with Neo4j to analyze and explore Supreme Court cases.",
-    "id": "pinecone-io/pinecone-neo4j-explorer",
-    "language": "TypeScript",
-    "name": "pinecone-io/pinecone-neo4j-explorer",
-    "stars": 10,
-    "updated_at": "2026-08-31T17:21:26Z",
-    "url": "https://github.com/pinecone-io/pinecone-neo4j-explorer"
   }
 ]
