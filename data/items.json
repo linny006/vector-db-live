@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-31T05:09:28Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AWS Bedrock RAG tutorial: Build a Q&A agent with Knowledge Bases and S3 Vectors (preview). Includes CDK deployment, web ",
+    "id": "PatrickWiloak/bedrock-agents-rag-s3-tutorial",
+    "language": "TypeScript",
+    "name": "PatrickWiloak/bedrock-agents-rag-s3-tutorial",
+    "stars": 4,
+    "updated_at": "2026-08-31T05:03:57Z",
+    "url": "https://github.com/PatrickWiloak/bedrock-agents-rag-s3-tutorial"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T05:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T05:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-powered investment intelligence platform for Indian equities, combining explainable sentiment analysis, semantic fina",
     "id": "abhishek24-06/Vector-Wealth-AI-Investment-Intelligence-Platform",
     "language": "Python",
@@ -22,27 +58,9 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45891,
+    "stars": 45892,
     "updated_at": "2026-08-31T04:50:17Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T04:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T04:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
@@ -54,21 +72,12 @@
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-31T04:39:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1737,
-    "updated_at": "2026-08-31T04:59:12Z",
+    "updated_at": "2026-08-31T05:13:48Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -95,7 +104,7 @@
     "language": "Python",
     "name": "AnOversizedMooseWithSocks/leCore",
     "stars": 11,
-    "updated_at": "2026-08-31T04:30:58Z",
+    "updated_at": "2026-08-31T05:10:42Z",
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
@@ -122,7 +131,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-31T04:54:39Z",
+    "updated_at": "2026-08-31T05:02:52Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -185,7 +194,7 @@
     "language": "Python",
     "name": "dkylewillis/vera",
     "stars": 17,
-    "updated_at": "2026-08-31T03:26:58Z",
+    "updated_at": "2026-08-31T05:13:52Z",
     "url": "https://github.com/dkylewillis/vera"
   },
   {
@@ -202,7 +211,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2773,
+    "stars": 2774,
     "updated_at": "2026-08-31T03:16:21Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T02:15:27Z",
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-08-31T02:15:00Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
   }
 ]
