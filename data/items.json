@@ -5,8 +5,116 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-31T06:45:22Z",
+    "updated_at": "2026-08-31T07:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-31T06:58:01Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-31T06:57:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-08-31T06:56:32Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45893,
+    "updated_at": "2026-08-31T06:53:27Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
+    "id": "iharshkaran/HyperAI",
+    "language": "TypeScript",
+    "name": "iharshkaran/HyperAI",
+    "stars": 2,
+    "updated_at": "2026-08-31T06:50:46Z",
+    "url": "https://github.com/iharshkaran/HyperAI"
+  },
+  {
+    "description": "Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data",
+    "id": "NGT-labs/NGT",
+    "language": "C++",
+    "name": "NGT-labs/NGT",
+    "stars": 1370,
+    "updated_at": "2026-08-31T06:50:08Z",
+    "url": "https://github.com/NGT-labs/NGT"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59145,
+    "updated_at": "2026-08-31T06:49:33Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-31T06:56:37Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
+    "id": "Tanmoy095/Logiflow-platform",
+    "language": "Go",
+    "name": "Tanmoy095/Logiflow-platform",
+    "stars": 2,
+    "updated_at": "2026-08-31T06:46:41Z",
+    "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "Self-Healing Academic Knowledge Assistant powered by Agentic RAG, LangGraph, and Gemini.",
+    "id": "yashrajagawane/SentinelRAG",
+    "language": "Python",
+    "name": "yashrajagawane/SentinelRAG",
+    "stars": 1,
+    "updated_at": "2026-08-31T06:46:37Z",
+    "url": "https://github.com/yashrajagawane/SentinelRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T06:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1739,
+    "updated_at": "2026-08-31T06:45:04Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
@@ -16,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-08-31T06:43:06Z",
     "url": "https://github.com/codelined-ag/Extracto"
-  },
-  {
-    "description": "Self-Healing Academic Knowledge Assistant powered by Agentic RAG, LangGraph, and Gemini.",
-    "id": "yashrajagawane/SentinelRAG",
-    "language": "Python",
-    "name": "yashrajagawane/SentinelRAG",
-    "stars": 1,
-    "updated_at": "2026-08-31T06:41:57Z",
-    "url": "https://github.com/yashrajagawane/SentinelRAG"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -45,24 +144,6 @@
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
-    "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
-    "id": "iharshkaran/HyperAI",
-    "language": "TypeScript",
-    "name": "iharshkaran/HyperAI",
-    "stars": 2,
-    "updated_at": "2026-08-31T06:39:53Z",
-    "url": "https://github.com/iharshkaran/HyperAI"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-08-31T06:37:11Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -72,15 +153,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T06:30:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -88,24 +160,6 @@
     "stars": 1881,
     "updated_at": "2026-08-31T06:27:40Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-31T06:23:33Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-31T06:19:12Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T06:18:17Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-31T06:44:56Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -160,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T06:15:34Z",
     "url": "https://github.com/SkJishan04/AI-PM-Assistant-using-RAG"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1739,
-    "updated_at": "2026-08-31T06:45:04Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Official one-command installer for Semurg. Downloads and runs the released Semurg engine \u2014 your first node is always fre",
@@ -257,7 +293,7 @@
     "language": "Python",
     "name": "HyxiaoGe/fusion-api",
     "stars": 5,
-    "updated_at": "2026-08-31T05:20:48Z",
+    "updated_at": "2026-08-31T06:59:25Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6226,
-    "updated_at": "2026-08-31T06:38:55Z",
+    "updated_at": "2026-08-31T06:57:34Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 60,
     "updated_at": "2026-08-31T04:53:51Z",
     "url": "https://github.com/ZenSystemAI/Zengram"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45893,
-    "updated_at": "2026-08-31T04:50:17Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T03:03:22Z",
     "url": "https://github.com/adwitiyashukla/embedded-vector-database"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-08-31T02:54:40Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
-    "id": "musabbozkurt/oauth2-authorization-server",
-    "language": "Java",
-    "name": "musabbozkurt/oauth2-authorization-server",
-    "stars": 6,
-    "updated_at": "2026-08-31T02:43:57Z",
-    "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "Python",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-08-31T02:40:26Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
   }
 ]
