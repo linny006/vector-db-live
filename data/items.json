@@ -1,11 +1,110 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T12:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
+    "id": "structured-world/coordinode-python",
+    "language": "Python",
+    "name": "structured-world/coordinode-python",
+    "stars": 0,
+    "updated_at": "2026-08-31T12:45:11Z",
+    "url": "https://github.com/structured-world/coordinode-python"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1457,
+    "updated_at": "2026-08-31T12:37:36Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35449,
+    "updated_at": "2026-08-31T12:35:45Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-31T12:34:55Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 6,
+    "updated_at": "2026-08-31T12:34:00Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
+  },
+  {
+    "description": "This project implements a Retrieval-Augmented Generation (RAG) chatbot that can answer medical questions based on upload",
+    "id": "Dinesh-Sharma2004/Medical_chatbot",
+    "language": "Python",
+    "name": "Dinesh-Sharma2004/Medical_chatbot",
+    "stars": 5,
+    "updated_at": "2026-08-31T12:32:46Z",
+    "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot"
+  },
+  {
+    "description": "Corrective-RAG onboarding copilot built as a LangGraph state machine - LLM relevance grading of retrieved chunks, query ",
+    "id": "gauravsinha12/SETU",
+    "language": "JavaScript",
+    "name": "gauravsinha12/SETU",
+    "stars": 0,
+    "updated_at": "2026-08-31T12:32:23Z",
+    "url": "https://github.com/gauravsinha12/SETU"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1742,
+    "updated_at": "2026-08-31T12:31:10Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34293,
+    "updated_at": "2026-08-31T12:40:22Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T12:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-08-31T12:27:45Z",
+    "updated_at": "2026-08-31T12:36:23Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -27,6 +126,15 @@
     "url": "https://github.com/thelastpickle/open-htap-stack"
   },
   {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 11,
+    "updated_at": "2026-08-31T12:22:52Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -45,39 +153,12 @@
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
-    "description": "This project implements a Retrieval-Augmented Generation (RAG) chatbot that can answer medical questions based on upload",
-    "id": "Dinesh-Sharma2004/Medical_chatbot",
-    "language": "Python",
-    "name": "Dinesh-Sharma2004/Medical_chatbot",
-    "stars": 5,
-    "updated_at": "2026-08-31T12:19:30Z",
-    "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T12:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T12:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-31T12:14:10Z",
+    "updated_at": "2026-08-31T12:43:55Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -122,7 +203,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4433,
-    "updated_at": "2026-08-31T12:25:54Z",
+    "updated_at": "2026-08-31T12:41:03Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -153,15 +234,6 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-31T11:52:38Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -171,21 +243,12 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34292,
-    "updated_at": "2026-08-31T11:48:27Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 2782,
-    "updated_at": "2026-08-31T11:43:08Z",
+    "updated_at": "2026-08-31T12:44:31Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "HyxiaoGe/fusion-api",
     "stars": 5,
-    "updated_at": "2026-08-31T12:26:02Z",
+    "updated_at": "2026-08-31T12:44:14Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
@@ -347,7 +410,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-31T12:22:49Z",
+    "updated_at": "2026-08-31T12:42:28Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -369,15 +432,6 @@
     "url": "https://github.com/enkinvsh/crystallized"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1745,
-    "updated_at": "2026-08-31T12:30:15Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "In-memory knowledge store for AI agents",
     "id": "FraiseHQ/fraise",
     "language": "Go",
@@ -392,61 +446,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9427,
-    "updated_at": "2026-08-31T12:21:59Z",
+    "updated_at": "2026-08-31T12:42:34Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35447,
-    "updated_at": "2026-08-31T11:00:02Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
-    "id": "Parth-2004/Historical-AI-Assistant",
-    "language": "Python",
-    "name": "Parth-2004/Historical-AI-Assistant",
-    "stars": 1,
-    "updated_at": "2026-08-31T10:59:01Z",
-    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
-  },
-  {
-    "description": "Asynchronous task service + RAG document retrieval pipeline in Rust \u2014 axum API, SQLite (WAL) with optimistic concurrency",
-    "id": "erishen/rag-task-service",
-    "language": "Rust",
-    "name": "erishen/rag-task-service",
-    "stars": 0,
-    "updated_at": "2026-08-31T10:55:49Z",
-    "url": "https://github.com/erishen/rag-task-service"
-  },
-  {
-    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 1,
-    "updated_at": "2026-08-31T10:35:05Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-08-31T10:33:20Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12984,
-    "updated_at": "2026-08-31T10:26:21Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   }
 ]
