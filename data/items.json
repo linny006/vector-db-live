@@ -1,5 +1,23 @@
 [
   {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 275,
+    "updated_at": "2026-08-31T05:57:56Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T05:54:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
     "id": "siaarzh/scrybe",
     "language": "TypeScript",
@@ -16,15 +34,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T05:50:40Z",
     "url": "https://github.com/SkJishan04/AI-PM-Assistant-using-RAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T05:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -144,15 +153,6 @@
     "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 275,
-    "updated_at": "2026-08-31T05:17:59Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
     "description": "AI-powered investment intelligence platform for Indian equities, combining explainable sentiment analysis, semantic fina",
     "id": "abhishek24-06/Vector-Wealth-AI-Investment-Intelligence-Platform",
     "language": "Python",
@@ -167,7 +167,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6226,
-    "updated_at": "2026-08-31T04:54:04Z",
+    "updated_at": "2026-08-31T05:56:44Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -221,7 +221,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-08-31T04:23:52Z",
+    "updated_at": "2026-08-31T06:00:09Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
