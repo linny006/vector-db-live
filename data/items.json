@@ -1,21 +1,48 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T19:15:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-31T19:15:23Z",
+    "updated_at": "2026-08-31T19:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u26a1 Ultra-high-throughput GPU Vector Search Engine with Warp-Cooperative HNSW, Stride-257 Shared-Memory IVF-PQ ADC, Rust h",
+    "id": "Sadik00789/FlashVector-GPU",
+    "language": "Rust",
+    "name": "Sadik00789/FlashVector-GPU",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:28:54Z",
+    "url": "https://github.com/Sadik00789/FlashVector-GPU"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T19:23:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 6,
+    "updated_at": "2026-08-31T19:21:17Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
+  },
+  {
+    "description": "Agentic RAG system that plans, retrieves, reflects, and verifies across multiple hops \u2014 instead of assuming one retrieva",
+    "id": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
+    "language": "Python",
+    "name": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
+    "stars": 1,
+    "updated_at": "2026-08-31T19:19:52Z",
+    "url": "https://github.com/AdarshBobade/ResX---A-Multi-hop-AI-Agent"
   },
   {
     "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
@@ -72,15 +99,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Agentic RAG system that plans, retrieves, reflects, and verifies across multiple hops \u2014 instead of assuming one retrieva",
-    "id": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
-    "language": "Python",
-    "name": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
-    "stars": 1,
-    "updated_at": "2026-08-31T19:19:52Z",
-    "url": "https://github.com/AdarshBobade/ResX---A-Multi-hop-AI-Agent"
-  },
-  {
     "description": "Vector database implemented from first principles: HNSW, IVF+Product Quantization, write-ahead logging, and metadata fil",
     "id": "PPaul14/nanovec",
     "language": "Python",
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6390,
-    "updated_at": "2026-08-31T19:01:54Z",
+    "updated_at": "2026-08-31T19:29:22Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -144,20 +162,11 @@
     "url": "https://github.com/AkashKundu114/COPPER"
   },
   {
-    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
-    "id": "varun29ankuS/shodh-redb",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-redb",
-    "stars": 6,
-    "updated_at": "2026-08-31T19:21:17Z",
-    "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65431,
+    "stars": 65433,
     "updated_at": "2026-08-31T18:41:29Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -185,7 +194,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1115,
-    "updated_at": "2026-08-31T19:15:25Z",
+    "updated_at": "2026-08-31T19:30:00Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -203,7 +212,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9215,
-    "updated_at": "2026-08-31T19:17:02Z",
+    "updated_at": "2026-08-31T19:26:19Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -212,7 +221,7 @@
     "language": "JavaScript",
     "name": "ZenSystemAI/Zengram",
     "stars": 60,
-    "updated_at": "2026-08-31T18:12:05Z",
+    "updated_at": "2026-08-31T19:27:41Z",
     "url": "https://github.com/ZenSystemAI/Zengram"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T17:20:45Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:19:34Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
   }
 ]
