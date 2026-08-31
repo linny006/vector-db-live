@@ -1,57 +1,21 @@
 [
   {
-    "description": "\u9762\u5411\u667a\u80fd\u6e05\u6d01\u8bbe\u5907\u552e\u524d\u3001\u6545\u969c\u8bca\u65ad\u4e0e\u7528\u6237\u8fd0\u8425\u7684\u4f01\u4e1a\u7ea7\u591a\u667a\u80fd\u4f53\u670d\u52a1\u5e73\u53f0\u3002\u57fa\u4e8e LangChain/LangGraph\u3001\u901a\u4e49\u5343\u95ee\u3001Chroma RAG\u3001FastAPI\u3001React \u4e0e SQLite\uff0c\u652f\u6301\u8c03\u5ea6 Agent \u534f\u4f5c\u3001\u77e5\u8bc6\u5e93\u5b89\u5168\u8fd0\u8425\u3001\u8d26\u6237\u7ea7",
-    "id": "HHHFFF-HHHFFF/CleanPilot-AI",
-    "language": "Python",
-    "name": "HHHFFF-HHHFFF/CleanPilot-AI",
-    "stars": 5,
-    "updated_at": "2026-08-31T15:43:37Z",
-    "url": "https://github.com/HHHFFF-HHHFFF/CleanPilot-AI"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34294,
-    "updated_at": "2026-08-31T15:45:22Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
     "id": "kleberbernardo/rag_agent",
     "language": "Python",
     "name": "kleberbernardo/rag_agent",
     "stars": 1,
-    "updated_at": "2026-08-31T15:39:32Z",
+    "updated_at": "2026-08-31T15:58:52Z",
     "url": "https://github.com/kleberbernardo/rag_agent"
   },
   {
-    "description": "Hybrid PCB repair platform combining YOLO-based defect/component detection with a RAG pipeline for retrieving technical ",
-    "id": "yashjangra29333/RepairHub",
-    "language": "\u2014",
-    "name": "yashjangra29333/RepairHub",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:38:37Z",
-    "url": "https://github.com/yashjangra29333/RepairHub"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
+    "description": "Enterprise Knowledge Platform using Retrieval-Augmented Generation (RAG), Machine Learning, LangChain, ChromaDB, and loc",
+    "id": "TejasTomar28/the-raven-ai",
     "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 24,
-    "updated_at": "2026-08-31T15:37:02Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9215,
-    "updated_at": "2026-08-31T15:37:31Z",
-    "url": "https://github.com/paradedb/paradedb"
+    "name": "TejasTomar28/the-raven-ai",
+    "stars": 0,
+    "updated_at": "2026-08-31T15:52:09Z",
+    "url": "https://github.com/TejasTomar28/the-raven-ai"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -59,7 +23,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-31T15:30:27Z",
+    "updated_at": "2026-08-31T15:45:27Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -72,6 +36,105 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
+    "id": "structured-world/coordinode-python",
+    "language": "Python",
+    "name": "structured-world/coordinode-python",
+    "stars": 0,
+    "updated_at": "2026-08-31T15:44:00Z",
+    "url": "https://github.com/structured-world/coordinode-python"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u6e05\u6d01\u8bbe\u5907\u552e\u524d\u3001\u6545\u969c\u8bca\u65ad\u4e0e\u7528\u6237\u8fd0\u8425\u7684\u4f01\u4e1a\u7ea7\u591a\u667a\u80fd\u4f53\u670d\u52a1\u5e73\u53f0\u3002\u57fa\u4e8e LangChain/LangGraph\u3001\u901a\u4e49\u5343\u95ee\u3001Chroma RAG\u3001FastAPI\u3001React \u4e0e SQLite\uff0c\u652f\u6301\u8c03\u5ea6 Agent \u534f\u4f5c\u3001\u77e5\u8bc6\u5e93\u5b89\u5168\u8fd0\u8425\u3001\u8d26\u6237\u7ea7",
+    "id": "HHHFFF-HHHFFF/CleanPilot-AI",
+    "language": "Python",
+    "name": "HHHFFF-HHHFFF/CleanPilot-AI",
+    "stars": 5,
+    "updated_at": "2026-08-31T15:43:37Z",
+    "url": "https://github.com/HHHFFF-HHHFFF/CleanPilot-AI"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-08-31T15:54:35Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34294,
+    "updated_at": "2026-08-31T15:45:22Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Hybrid PCB repair platform combining YOLO-based defect/component detection with a RAG pipeline for retrieving technical ",
+    "id": "yashjangra29333/RepairHub",
+    "language": "Python",
+    "name": "yashjangra29333/RepairHub",
+    "stars": 0,
+    "updated_at": "2026-08-31T15:38:37Z",
+    "url": "https://github.com/yashjangra29333/RepairHub"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 24,
+    "updated_at": "2026-08-31T15:51:32Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-08-31T15:35:30Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-31T15:35:14Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 6,
+    "updated_at": "2026-08-31T15:33:03Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9215,
+    "updated_at": "2026-08-31T15:58:49Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Redis Vector Library (RedisVL) -- the AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 424,
+    "updated_at": "2026-08-31T15:27:13Z",
+    "url": "https://github.com/redis/redis-vl-python"
+  },
+  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
@@ -79,6 +142,15 @@
     "stars": 6226,
     "updated_at": "2026-08-31T15:27:12Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45906,
+    "updated_at": "2026-08-31T15:21:30Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -97,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T15:11:08Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-31T15:35:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -207,20 +270,11 @@
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
-    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
-    "id": "varun29ankuS/shodh-redb",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-redb",
-    "stars": 6,
-    "updated_at": "2026-08-31T15:33:03Z",
-    "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11319,
+    "stars": 11321,
     "updated_at": "2026-08-31T14:34:36Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -229,7 +283,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2784,
+    "stars": 2785,
     "updated_at": "2026-08-31T14:32:43Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -293,26 +347,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-31T15:44:26Z",
+    "updated_at": "2026-08-31T15:48:51Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
-    "id": "structured-world/coordinode-python",
-    "language": "Python",
-    "name": "structured-world/coordinode-python",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:44:00Z",
-    "url": "https://github.com/structured-world/coordinode-python"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-08-31T15:42:56Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "Vector Database Qdrant for semantic search,  including data loading similarity matching, natural language search. Build ",
@@ -329,7 +365,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9428,
-    "updated_at": "2026-08-31T15:30:11Z",
+    "updated_at": "2026-08-31T15:52:27Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-08-31T14:10:27Z",
+    "updated_at": "2026-08-31T15:52:12Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 343,
     "updated_at": "2026-08-31T13:19:21Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 22,
-    "updated_at": "2026-08-31T15:22:15Z",
-    "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
-    "id": "edwardtay/awesome-ai",
-    "language": "\u2014",
-    "name": "edwardtay/awesome-ai",
-    "stars": 4,
-    "updated_at": "2026-08-31T12:59:42Z",
-    "url": "https://github.com/edwardtay/awesome-ai"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 275,
-    "updated_at": "2026-08-31T15:42:59Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45904,
-    "updated_at": "2026-08-31T15:21:30Z",
-    "url": "https://github.com/milvus-io/milvus"
   }
 ]
