@@ -1,11 +1,65 @@
 [
   {
+    "description": "\u9762\u5411\u667a\u80fd\u6e05\u6d01\u8bbe\u5907\u552e\u524d\u3001\u6545\u969c\u8bca\u65ad\u4e0e\u7528\u6237\u8fd0\u8425\u7684\u4f01\u4e1a\u7ea7\u591a\u667a\u80fd\u4f53\u670d\u52a1\u5e73\u53f0\u3002\u57fa\u4e8e LangChain/LangGraph\u3001\u901a\u4e49\u5343\u95ee\u3001Chroma RAG\u3001FastAPI\u3001React \u4e0e SQLite\uff0c\u652f\u6301\u8c03\u5ea6 Agent \u534f\u4f5c\u3001\u77e5\u8bc6\u5e93\u5b89\u5168\u8fd0\u8425\u3001\u8d26\u6237\u7ea7",
+    "id": "HHHFFF-HHHFFF/CleanPilot-AI",
+    "language": "Python",
+    "name": "HHHFFF-HHHFFF/CleanPilot-AI",
+    "stars": 5,
+    "updated_at": "2026-08-31T15:43:37Z",
+    "url": "https://github.com/HHHFFF-HHHFFF/CleanPilot-AI"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34294,
+    "updated_at": "2026-08-31T15:45:22Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
+    "id": "kleberbernardo/rag_agent",
+    "language": "Python",
+    "name": "kleberbernardo/rag_agent",
+    "stars": 1,
+    "updated_at": "2026-08-31T15:39:32Z",
+    "url": "https://github.com/kleberbernardo/rag_agent"
+  },
+  {
+    "description": "Hybrid PCB repair platform combining YOLO-based defect/component detection with a RAG pipeline for retrieving technical ",
+    "id": "yashjangra29333/RepairHub",
+    "language": "\u2014",
+    "name": "yashjangra29333/RepairHub",
+    "stars": 0,
+    "updated_at": "2026-08-31T15:38:37Z",
+    "url": "https://github.com/yashjangra29333/RepairHub"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 24,
+    "updated_at": "2026-08-31T15:37:02Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9215,
+    "updated_at": "2026-08-31T15:37:31Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
     "id": "linny006/vector-db-live",
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-31T15:15:30Z",
+    "updated_at": "2026-08-31T15:30:27Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -14,8 +68,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-31T15:30:24Z",
+    "updated_at": "2026-08-31T15:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6226,
+    "updated_at": "2026-08-31T15:27:12Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1747,
+    "updated_at": "2026-08-31T15:19:59Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-31T15:11:08Z",
+    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -23,7 +104,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-31T15:08:57Z",
+    "updated_at": "2026-08-31T15:35:14Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -41,7 +122,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16770,
-    "updated_at": "2026-08-31T15:28:39Z",
+    "updated_at": "2026-08-31T15:36:48Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -52,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-08-31T15:05:59Z",
     "url": "https://github.com/ayushoms/enterprise-hr-rag-assistant"
+  },
+  {
+    "description": "AI developer assistant for the Kalisio ecosystem",
+    "id": "kalisio/knowledge",
+    "language": "Python",
+    "name": "kalisio/knowledge",
+    "stars": 2,
+    "updated_at": "2026-08-31T15:02:16Z",
+    "url": "https://github.com/kalisio/knowledge"
   },
   {
     "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
@@ -81,15 +171,6 @@
     "url": "https://github.com/AkashKundu114/COPPER"
   },
   {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 24,
-    "updated_at": "2026-08-31T15:26:15Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
     "description": "Layered Weaviate memory provider for Hermes Agent \u2014 collection per domain, tenant per user, admin_list or RBAC. Local Ol",
     "id": "marlon-costa-dc/hermes-weaviate-memory",
     "language": "Python",
@@ -97,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T14:50:44Z",
     "url": "https://github.com/marlon-costa-dc/hermes-weaviate-memory"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-31T15:11:08Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "ocal, privacy-compliant document structuring pipeline and multimodal VLM RAG system (Qwen3-VL, GLM-OCR, Gemma-4). Extrac",
@@ -140,17 +212,8 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 6,
-    "updated_at": "2026-08-31T14:42:27Z",
+    "updated_at": "2026-08-31T15:33:03Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1745,
-    "updated_at": "2026-08-31T15:19:59Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -211,7 +274,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35455,
+    "stars": 35454,
     "updated_at": "2026-08-31T14:27:54Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -230,7 +293,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-31T15:21:47Z",
+    "updated_at": "2026-08-31T15:44:26Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "structured-world/coordinode-python",
     "stars": 0,
-    "updated_at": "2026-08-31T15:25:59Z",
+    "updated_at": "2026-08-31T15:44:00Z",
     "url": "https://github.com/structured-world/coordinode-python"
   },
   {
@@ -248,7 +311,7 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-08-31T15:23:42Z",
+    "updated_at": "2026-08-31T15:42:56Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -259,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T14:21:13Z",
     "url": "https://github.com/fvreys/AI_VectorDatabasewithQdrant"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u6e05\u6d01\u8bbe\u5907\u552e\u524d\u3001\u6545\u969c\u8bca\u65ad\u4e0e\u7528\u6237\u8fd0\u8425\u7684\u4f01\u4e1a\u7ea7\u591a\u667a\u80fd\u4f53\u670d\u52a1\u5e73\u53f0\u3002\u57fa\u4e8e LangChain/LangGraph\u3001\u901a\u4e49\u5343\u95ee\u3001Chroma RAG\u3001FastAPI\u3001React \u4e0e SQLite\uff0c\u652f\u6301\u8c03\u5ea6 Agent \u534f\u4f5c\u3001\u77e5\u8bc6\u5e93\u5b89\u5168\u8fd0\u8425\u3001\u8d26\u6237\u7ea7",
-    "id": "HHHFFF-HHHFFF/CleanPilot-AI",
-    "language": "Python",
-    "name": "HHHFFF-HHHFFF/CleanPilot-AI",
-    "stars": 5,
-    "updated_at": "2026-08-31T14:16:06Z",
-    "url": "https://github.com/HHHFFF-HHHFFF/CleanPilot-AI"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -322,15 +376,6 @@
     "stars": 7,
     "updated_at": "2026-08-31T14:03:00Z",
     "url": "https://github.com/feather-store/feather"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6225,
-    "updated_at": "2026-08-31T15:27:12Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
@@ -392,7 +437,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 275,
-    "updated_at": "2026-08-31T13:03:50Z",
+    "updated_at": "2026-08-31T15:42:59Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 45904,
     "updated_at": "2026-08-31T15:21:30Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30369,
-    "updated_at": "2026-08-31T12:49:49Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-08-31T12:44:14Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1458,
-    "updated_at": "2026-08-31T12:37:36Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 7,
-    "updated_at": "2026-08-31T14:52:35Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "This project implements a Retrieval-Augmented Generation (RAG) chatbot that can answer medical questions based on upload",
-    "id": "Dinesh-Sharma2004/Medical_chatbot",
-    "language": "Python",
-    "name": "Dinesh-Sharma2004/Medical_chatbot",
-    "stars": 5,
-    "updated_at": "2026-08-31T12:32:46Z",
-    "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot"
   }
 ]
