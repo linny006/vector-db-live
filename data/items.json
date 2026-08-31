@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T07:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-31T07:11:16Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -14,8 +14,53 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-31T06:58:01Z",
+    "updated_at": "2026-08-31T07:08:57Z",
     "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30364,
+    "updated_at": "2026-08-31T07:05:43Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-08-31T07:04:57Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T07:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T07:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-08-31T06:59:25Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -27,13 +72,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-08-31T06:56:32Z",
-    "url": "https://github.com/structured-world/coordinode"
+    "description": "AI | ML | Python | LangChain | LangGraph | Gen AI | Agentic | Data | Vector DB | Full Stack | API | LLM | GPT",
+    "id": "ankitkumarsharma/ai-ml-learning",
+    "language": "Python",
+    "name": "ankitkumarsharma/ai-ml-learning",
+    "stars": 0,
+    "updated_at": "2026-08-31T06:57:14Z",
+    "url": "https://github.com/ankitkumarsharma/ai-ml-learning"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -41,7 +86,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45893,
-    "updated_at": "2026-08-31T06:53:27Z",
+    "updated_at": "2026-08-31T07:09:28Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -72,13 +117,13 @@
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-31T06:56:37Z",
-    "url": "https://github.com/makr-code/ThemisDB"
+    "description": "Enterprise Agentic Corrective RAG (CRAG) & Self-RAG platform powered by LangGraph cyclic state machine, IBM Docling tabl",
+    "id": "Spandan228/Lynx",
+    "language": "Python",
+    "name": "Spandan228/Lynx",
+    "stars": 0,
+    "updated_at": "2026-08-31T06:48:24Z",
+    "url": "https://github.com/Spandan228/Lynx"
   },
   {
     "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
@@ -99,20 +144,11 @@
     "url": "https://github.com/yashrajagawane/SentinelRAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T06:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1739,
+    "stars": 1740,
     "updated_at": "2026-08-31T06:45:04Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -193,7 +229,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35436,
+    "stars": 35439,
     "updated_at": "2026-08-31T06:16:35Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -221,7 +257,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16766,
-    "updated_at": "2026-08-31T06:04:40Z",
+    "updated_at": "2026-08-31T07:06:52Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -261,6 +297,15 @@
     "url": "https://github.com/PatrickWiloak/bedrock-agents-rag-s3-tutorial"
   },
   {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1473,
+    "updated_at": "2026-08-31T05:30:51Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
     "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
     "id": "fewshot-works/academy",
     "language": "TypeScript",
@@ -286,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T05:24:09Z",
     "url": "https://github.com/A3S-Lab/Vec"
-  },
-  {
-    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-08-31T06:59:25Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
   },
   {
     "description": "AI-powered investment intelligence platform for Indian equities, combining explainable sentiment analysis, semantic fina",
@@ -412,41 +448,5 @@
     "stars": 17,
     "updated_at": "2026-08-31T05:23:44Z",
     "url": "https://github.com/dkylewillis/vera"
-  },
-  {
-    "description": "Run-it-yourself benchmarks comparing Semurg to leading open-source databases across eleven data domains - on your own ha",
-    "id": "One-Semurg/Semurg-Benchmark-Suite",
-    "language": "Shell",
-    "name": "One-Semurg/Semurg-Benchmark-Suite",
-    "stars": 0,
-    "updated_at": "2026-08-31T03:19:40Z",
-    "url": "https://github.com/One-Semurg/Semurg-Benchmark-Suite"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2775,
-    "updated_at": "2026-08-31T03:16:21Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-08-31T03:15:44Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Embedded vector database in Python. HNSW index written from scratch, write ahead log, atomic snapshots, crash recovery a",
-    "id": "adwitiyashukla/embedded-vector-database",
-    "language": "Python",
-    "name": "adwitiyashukla/embedded-vector-database",
-    "stars": 0,
-    "updated_at": "2026-08-31T03:03:22Z",
-    "url": "https://github.com/adwitiyashukla/embedded-vector-database"
   }
 ]
