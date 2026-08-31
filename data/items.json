@@ -1,12 +1,39 @@
 [
   {
-    "description": "Embedded vector database in Python. HNSW index written from scratch, write ahead log, atomic snapshots, crash recovery a",
-    "id": "adwitiyashukla/embedded-vector-database",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45887,
+    "updated_at": "2026-08-31T03:13:28Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "",
+    "id": "dkylewillis/vera",
     "language": "Python",
-    "name": "adwitiyashukla/embedded-vector-database",
-    "stars": 0,
-    "updated_at": "2026-08-31T02:59:40Z",
-    "url": "https://github.com/adwitiyashukla/embedded-vector-database"
+    "name": "dkylewillis/vera",
+    "stars": 17,
+    "updated_at": "2026-08-31T03:13:05Z",
+    "url": "https://github.com/dkylewillis/vera"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-31T03:11:30Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
+    "id": "codelined-ag/Extracto",
+    "language": "TypeScript",
+    "name": "codelined-ag/Extracto",
+    "stars": 5,
+    "updated_at": "2026-08-31T03:09:58Z",
+    "url": "https://github.com/codelined-ag/Extracto"
   },
   {
     "description": "The holographic core for leOS",
@@ -14,8 +41,53 @@
     "language": "Python",
     "name": "AnOversizedMooseWithSocks/leCore",
     "stars": 11,
-    "updated_at": "2026-08-31T02:59:31Z",
+    "updated_at": "2026-08-31T03:06:33Z",
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-08-31T03:06:33Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-31T03:02:23Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T03:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T03:00:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded vector database in Python. HNSW index written from scratch, write ahead log, atomic snapshots, crash recovery a",
+    "id": "adwitiyashukla/embedded-vector-database",
+    "language": "Python",
+    "name": "adwitiyashukla/embedded-vector-database",
+    "stars": 0,
+    "updated_at": "2026-08-31T03:03:22Z",
+    "url": "https://github.com/adwitiyashukla/embedded-vector-database"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -36,24 +108,6 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T02:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T02:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
     "id": "musabbozkurt/oauth2-authorization-server",
     "language": "Java",
@@ -61,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-08-31T02:43:57Z",
     "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-31T02:41:39Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
@@ -81,15 +126,6 @@
     "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
-    "description": "",
-    "id": "dkylewillis/vera",
-    "language": "Python",
-    "name": "dkylewillis/vera",
-    "stars": 17,
-    "updated_at": "2026-08-31T02:57:27Z",
-    "url": "https://github.com/dkylewillis/vera"
-  },
-  {
     "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
     "id": "Constraintworthy6058/ai-github-repository-assistant",
     "language": "TypeScript",
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T02:31:33Z",
     "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45885,
-    "updated_at": "2026-08-31T02:31:28Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "",
@@ -169,6 +196,15 @@
     "stars": 0,
     "updated_at": "2026-08-31T02:24:35Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2769,
+    "updated_at": "2026-08-31T02:22:14Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
@@ -315,15 +351,6 @@
     "url": "https://github.com/a258huit58/claude-memory"
   },
   {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2768,
-    "updated_at": "2026-08-31T02:22:14Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
     "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
     "id": "Anonymousforareason111/hybrid-orchestrator",
     "language": "Python",
@@ -383,7 +410,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8160,
-    "updated_at": "2026-08-31T01:59:24Z",
+    "updated_at": "2026-08-31T03:13:05Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T01:55:24Z",
     "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-08-31T01:50:04Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti",
-    "id": "rvarun03/ARIOS",
-    "language": "Python",
-    "name": "rvarun03/ARIOS",
-    "stars": 0,
-    "updated_at": "2026-08-31T01:50:03Z",
-    "url": "https://github.com/rvarun03/ARIOS"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-08-31T01:48:08Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
   }
 ]
