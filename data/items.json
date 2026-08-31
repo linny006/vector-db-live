@@ -1,5 +1,50 @@
 [
   {
+    "description": "Layered Weaviate memory provider for Hermes Agent \u2014 collection per domain, tenant per user, admin_list or RBAC. Local Ol",
+    "id": "marlon-costa-dc/hermes-weaviate-memory",
+    "language": "Python",
+    "name": "marlon-costa-dc/hermes-weaviate-memory",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:50:44Z",
+    "url": "https://github.com/marlon-costa-dc/hermes-weaviate-memory"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:49:24Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "ocal, privacy-compliant document structuring pipeline and multimodal VLM RAG system (Qwen3-VL, GLM-OCR, Gemma-4). Extrac",
+    "id": "DannyWhyze/doc-vlm-rag",
+    "language": "Python",
+    "name": "DannyWhyze/doc-vlm-rag",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:49:03Z",
+    "url": "https://github.com/DannyWhyze/doc-vlm-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T14:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-31T14:45:22Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +54,49 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 6,
+    "updated_at": "2026-08-31T14:42:27Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1745,
+    "updated_at": "2026-08-31T14:41:08Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
     "id": "EVEDensity/AgentHub",
     "language": "Python",
     "name": "EVEDensity/AgentHub",
     "stars": 24,
-    "updated_at": "2026-08-31T14:36:36Z",
+    "updated_at": "2026-08-31T14:52:19Z",
     "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-31T14:36:22Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11319,
+    "updated_at": "2026-08-31T14:34:36Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Support operations platform for B2B SaaS teams, featuring ticket triage, versioned knowledge base, grounded response dra",
@@ -45,24 +126,6 @@
     "url": "https://github.com/thomas-villani/localvectordb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T14:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1744,
-    "updated_at": "2026-08-31T14:41:08Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -77,7 +140,7 @@
     "language": "JavaScript",
     "name": "StephenCote/AccountManager7",
     "stars": 2,
-    "updated_at": "2026-08-31T14:26:25Z",
+    "updated_at": "2026-08-31T14:45:28Z",
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
@@ -95,17 +158,8 @@
     "language": "Python",
     "name": "structured-world/coordinode-python",
     "stars": 0,
-    "updated_at": "2026-08-31T14:37:23Z",
+    "updated_at": "2026-08-31T14:45:57Z",
     "url": "https://github.com/structured-world/coordinode-python"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-31T14:40:20Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "",
@@ -135,15 +189,6 @@
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11319,
-    "updated_at": "2026-08-31T14:34:36Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u6e05\u6d01\u8bbe\u5907\u552e\u524d\u3001\u6545\u969c\u8bca\u65ad\u4e0e\u7528\u6237\u8fd0\u8425\u7684\u4f01\u4e1a\u7ea7\u591a\u667a\u80fd\u4f53\u670d\u52a1\u5e73\u53f0\u3002\u57fa\u4e8e LangChain/LangGraph\u3001\u901a\u4e49\u5343\u95ee\u3001Chroma RAG\u3001FastAPI\u3001React \u4e0e SQLite\uff0c\u652f\u6301\u8c03\u5ea6 Agent \u534f\u4f5c\u3001\u77e5\u8bc6\u5e93\u5b89\u5168\u8fd0\u8425\u3001\u8d26\u6237\u7ea7",
     "id": "HHHFFF-HHHFFF/CleanPilot-AI",
     "language": "Python",
@@ -158,7 +203,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16769,
-    "updated_at": "2026-08-31T14:44:49Z",
+    "updated_at": "2026-08-31T14:55:43Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9428,
-    "updated_at": "2026-08-31T14:13:15Z",
+    "updated_at": "2026-08-31T14:51:20Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -178,24 +223,6 @@
     "stars": 8,
     "updated_at": "2026-08-31T14:10:27Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-31T14:36:22Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Layered Weaviate memory provider for Hermes Agent \u2014 collection per domain, tenant per user, admin_list or RBAC. Local Ol",
-    "id": "marlon-costa-dc/hermes-weaviate-memory",
-    "language": "Python",
-    "name": "marlon-costa-dc/hermes-weaviate-memory",
-    "stars": 0,
-    "updated_at": "2026-08-31T14:33:11Z",
-    "url": "https://github.com/marlon-costa-dc/hermes-weaviate-memory"
   },
   {
     "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6225,
-    "updated_at": "2026-08-31T14:06:21Z",
+    "updated_at": "2026-08-31T14:58:44Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -261,15 +288,6 @@
     "url": "https://github.com/adventurewave-labs/aria"
   },
   {
-    "description": "ocal, privacy-compliant document structuring pipeline and multimodal VLM RAG system (Qwen3-VL, GLM-OCR, Gemma-4). Extrac",
-    "id": "DannyWhyze/doc-vlm-rag",
-    "language": "Python",
-    "name": "DannyWhyze/doc-vlm-rag",
-    "stars": 0,
-    "updated_at": "2026-08-31T13:34:25Z",
-    "url": "https://github.com/DannyWhyze/doc-vlm-rag"
-  },
-  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -288,24 +306,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-31T14:45:22Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
-    "id": "varun29ankuS/shodh-redb",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-redb",
-    "stars": 6,
-    "updated_at": "2026-08-31T14:42:27Z",
-    "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
     "id": "rostamlabs/rostam",
     "language": "Go",
@@ -320,7 +320,7 @@
     "language": "Ruby",
     "name": "neonwatty/meme-search",
     "stars": 719,
-    "updated_at": "2026-08-31T13:13:18Z",
+    "updated_at": "2026-08-31T14:55:43Z",
     "url": "https://github.com/neonwatty/meme-search"
   },
   {
@@ -392,7 +392,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 7,
-    "updated_at": "2026-08-31T13:27:13Z",
+    "updated_at": "2026-08-31T14:52:35Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -419,7 +419,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34293,
-    "updated_at": "2026-08-31T14:29:05Z",
+    "updated_at": "2026-08-31T15:00:14Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
