@@ -1,5 +1,41 @@
 [
   {
+    "description": "An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match",
+    "id": "Tibab222/cvMaker",
+    "language": "TypeScript",
+    "name": "Tibab222/cvMaker",
+    "stars": 3,
+    "updated_at": "2026-08-31T21:59:19Z",
+    "url": "https://github.com/Tibab222/cvMaker"
+  },
+  {
+    "description": "The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne",
+    "id": "angrysky56/emotion_ai",
+    "language": "Python",
+    "name": "angrysky56/emotion_ai",
+    "stars": 11,
+    "updated_at": "2026-08-31T21:49:03Z",
+    "url": "https://github.com/angrysky56/emotion_ai"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6391,
+    "updated_at": "2026-08-31T21:51:25Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T21:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +43,15 @@
     "stars": 3,
     "updated_at": "2026-08-31T21:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-08-31T21:49:06Z",
+    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -72,30 +117,12 @@
     "url": "https://github.com/i-rocky/corvid"
   },
   {
-    "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-08-31T21:45:16Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T21:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1115,
-    "updated_at": "2026-08-31T21:29:56Z",
+    "updated_at": "2026-08-31T21:56:35Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -104,17 +131,8 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 65437,
-    "updated_at": "2026-08-31T21:44:57Z",
+    "updated_at": "2026-08-31T22:00:15Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6391,
-    "updated_at": "2026-08-31T21:28:35Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
@@ -149,7 +167,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16772,
-    "updated_at": "2026-08-31T21:43:02Z",
+    "updated_at": "2026-08-31T21:46:17Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-31T18:45:40Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 3,
-    "updated_at": "2026-08-31T18:40:11Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Go",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 2,
-    "updated_at": "2026-08-31T18:32:28Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
   }
 ]
