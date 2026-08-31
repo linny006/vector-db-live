@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-31T16:30:21Z",
+    "updated_at": "2026-08-31T16:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:42:06Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-08-31T16:41:30Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-31T16:35:35Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-31T16:35:07Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
+    "id": "kleberbernardo/rag_agent",
+    "language": "Python",
+    "name": "kleberbernardo/rag_agent",
+    "stars": 1,
+    "updated_at": "2026-08-31T16:31:37Z",
+    "url": "https://github.com/kleberbernardo/rag_agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T16:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 51941,
+    "updated_at": "2026-08-31T16:29:09Z",
+    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -18,6 +81,24 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-31T16:42:46Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6390,
+    "updated_at": "2026-08-31T16:41:08Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
     "id": "CaviraOSS/LongMemory",
     "language": "TypeScript",
@@ -25,24 +106,6 @@
     "stars": 4478,
     "updated_at": "2026-08-31T16:18:42Z",
     "url": "https://github.com/CaviraOSS/LongMemory"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-31T16:16:57Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T16:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -54,21 +117,12 @@
     "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
-    "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
-    "id": "kleberbernardo/rag_agent",
-    "language": "Python",
-    "name": "kleberbernardo/rag_agent",
-    "stars": 1,
-    "updated_at": "2026-08-31T16:12:31Z",
-    "url": "https://github.com/kleberbernardo/rag_agent"
-  },
-  {
     "description": "- ",
     "id": "Chief-Strategist-J/llm-observability-platform",
     "language": "Python",
     "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 4,
-    "updated_at": "2026-08-31T16:07:46Z",
+    "stars": 5,
+    "updated_at": "2026-08-31T16:43:12Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
@@ -85,8 +139,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30371,
-    "updated_at": "2026-08-31T16:06:48Z",
+    "stars": 30372,
+    "updated_at": "2026-08-31T16:40:44Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "structured-world/coordinode-python",
     "stars": 0,
-    "updated_at": "2026-08-31T16:06:28Z",
+    "updated_at": "2026-08-31T16:46:55Z",
     "url": "https://github.com/structured-world/coordinode-python"
   },
   {
@@ -106,6 +160,15 @@
     "stars": 0,
     "updated_at": "2026-08-31T16:05:11Z",
     "url": "https://github.com/garnizeh/memex"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35455,
+    "updated_at": "2026-08-31T16:03:45Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Enterprise Knowledge Platform using Retrieval-Augmented Generation (RAG), Machine Learning, LangChain, ChromaDB, and loc",
@@ -135,15 +198,6 @@
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6390,
-    "updated_at": "2026-08-31T16:22:23Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
@@ -151,24 +205,6 @@
     "stars": 8,
     "updated_at": "2026-08-31T15:52:12Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 51941,
-    "updated_at": "2026-08-31T16:29:09Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-31T16:24:02Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "\u9762\u5411\u667a\u80fd\u6e05\u6d01\u8bbe\u5907\u552e\u524d\u3001\u6545\u969c\u8bca\u65ad\u4e0e\u7528\u6237\u8fd0\u8425\u7684\u4f01\u4e1a\u7ea7\u591a\u667a\u80fd\u4f53\u670d\u52a1\u5e73\u53f0\u3002\u57fa\u4e8e LangChain/LangGraph\u3001\u901a\u4e49\u5343\u95ee\u3001Chroma RAG\u3001FastAPI\u3001React \u4e0e SQLite\uff0c\u652f\u6301\u8c03\u5ea6 Agent \u534f\u4f5c\u3001\u77e5\u8bc6\u5e93\u5b89\u5168\u8fd0\u8425\u3001\u8d26\u6237\u7ea7",
@@ -194,7 +230,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34294,
-    "updated_at": "2026-08-31T15:45:22Z",
+    "updated_at": "2026-08-31T16:37:14Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -216,15 +252,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-31T16:09:31Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
     "id": "varun29ankuS/shodh-redb",
     "language": "Rust",
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9215,
-    "updated_at": "2026-08-31T16:19:55Z",
+    "updated_at": "2026-08-31T16:41:53Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7071,
-    "updated_at": "2026-08-31T15:21:39Z",
+    "updated_at": "2026-08-31T16:45:28Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -347,7 +374,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1115,
-    "updated_at": "2026-08-31T16:22:02Z",
+    "updated_at": "2026-08-31T16:45:43Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -392,7 +419,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11322,
-    "updated_at": "2026-08-31T16:26:19Z",
+    "updated_at": "2026-08-31T16:46:07Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -400,7 +427,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2785,
+    "stars": 2787,
     "updated_at": "2026-08-31T14:32:43Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T14:28:37Z",
     "url": "https://github.com/theogony-project/theogony"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35454,
-    "updated_at": "2026-08-31T16:03:45Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-08-31T14:26:59Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Vector Database Qdrant for semantic search,  including data loading similarity matching, natural language search. Build ",
-    "id": "fvreys/AI_VectorDatabasewithQdrant",
-    "language": "Python",
-    "name": "fvreys/AI_VectorDatabasewithQdrant",
-    "stars": 1,
-    "updated_at": "2026-08-31T14:21:13Z",
-    "url": "https://github.com/fvreys/AI_VectorDatabasewithQdrant"
   }
 ]
