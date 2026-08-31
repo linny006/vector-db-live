@@ -1,11 +1,56 @@
 [
   {
+    "description": "Support operations platform for B2B SaaS teams, featuring ticket triage, versioned knowledge base, grounded response dra",
+    "id": "rafael-acerqueira/support-ops",
+    "language": "Python",
+    "name": "rafael-acerqueira/support-ops",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:11:19Z",
+    "url": "https://github.com/rafael-acerqueira/support-ops"
+  },
+  {
+    "description": "Layered Weaviate memory provider for Hermes Agent \u2014 collection per domain, tenant per user, admin_list or RBAC. Local Ol",
+    "id": "marlon-costa-dc/hermes-weaviate-memory",
+    "language": "\u2014",
+    "name": "marlon-costa-dc/hermes-weaviate-memory",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:06:01Z",
+    "url": "https://github.com/marlon-costa-dc/hermes-weaviate-memory"
+  },
+  {
+    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-08-31T14:04:20Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "Rebuild AI building blocks from scratch for learning: transformer, tokenizer, agent, RAG, vector DB. \u4ece\u96f6\u5b9e\u73b0 AI \u76f8\u5173\u7684\u5de5\u5177\u4e0e\u6846\u67b6",
+    "id": "xbsheng/ai-from-scratch",
+    "language": "Python",
+    "name": "xbsheng/ai-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:02:23Z",
+    "url": "https://github.com/xbsheng/ai-from-scratch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T14:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-31T14:00:26Z",
+    "updated_at": "2026-08-31T14:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,21 +63,12 @@
     "url": "https://github.com/HHHFFF-HHHFFF/Autonomous-Cleaning-Support-Agent"
   },
   {
-    "description": "Support operations platform for B2B SaaS teams, featuring ticket triage, versioned knowledge base, grounded response dra",
-    "id": "rafael-acerqueira/support-ops",
-    "language": "Python",
-    "name": "rafael-acerqueira/support-ops",
-    "stars": 0,
-    "updated_at": "2026-08-31T14:00:14Z",
-    "url": "https://github.com/rafael-acerqueira/support-ops"
-  },
-  {
     "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
     "id": "feather-store/feather",
     "language": "Python",
     "name": "feather-store/feather",
     "stars": 7,
-    "updated_at": "2026-08-31T13:54:50Z",
+    "updated_at": "2026-08-31T14:03:00Z",
     "url": "https://github.com/feather-store/feather"
   },
   {
@@ -41,7 +77,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6225,
-    "updated_at": "2026-08-31T13:54:12Z",
+    "updated_at": "2026-08-31T14:06:21Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -50,7 +86,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1744,
-    "updated_at": "2026-08-31T13:54:06Z",
+    "updated_at": "2026-08-31T14:11:32Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -59,8 +95,17 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-31T13:49:30Z",
+    "updated_at": "2026-08-31T14:08:54Z",
     "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
+    "id": "Daaboulex/openviking-nix",
+    "language": "Shell",
+    "name": "Daaboulex/openviking-nix",
+    "stars": 3,
+    "updated_at": "2026-08-31T13:45:49Z",
+    "url": "https://github.com/Daaboulex/openviking-nix"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -70,15 +115,6 @@
     "stars": 11319,
     "updated_at": "2026-08-31T13:45:43Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T13:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG knowledge assistant \u2014 FastAPI + LangChain + ChromaDB with API-key auth, structured logging, CORS allowlist.",
@@ -104,7 +140,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-08-31T13:35:46Z",
+    "updated_at": "2026-08-31T14:10:04Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -122,7 +158,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4433,
-    "updated_at": "2026-08-31T13:54:57Z",
+    "updated_at": "2026-08-31T14:01:54Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16768,
-    "updated_at": "2026-08-31T13:57:07Z",
+    "updated_at": "2026-08-31T14:15:03Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9428,
-    "updated_at": "2026-08-31T13:51:01Z",
+    "updated_at": "2026-08-31T14:13:15Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 2782,
-    "updated_at": "2026-08-31T13:57:48Z",
+    "updated_at": "2026-08-31T14:14:33Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -229,7 +265,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45903,
+    "stars": 45904,
     "updated_at": "2026-08-31T12:55:29Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "structured-world/coordinode-python",
     "stars": 0,
-    "updated_at": "2026-08-31T13:56:42Z",
+    "updated_at": "2026-08-31T14:13:53Z",
     "url": "https://github.com/structured-world/coordinode-python"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34293,
-    "updated_at": "2026-08-31T13:59:52Z",
+    "updated_at": "2026-08-31T14:02:11Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 93,
-    "updated_at": "2026-08-31T13:58:30Z",
+    "updated_at": "2026-08-31T14:14:53Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -401,7 +437,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7071,
-    "updated_at": "2026-08-31T13:58:04Z",
+    "updated_at": "2026-08-31T14:13:11Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 5876,
     "updated_at": "2026-08-31T11:41:15Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "AWS Bedrock RAG tutorial: Build a Q&A agent with Knowledge Bases and S3 Vectors (preview). Includes CDK deployment, web ",
-    "id": "PatrickWiloak/bedrock-agents-rag-s3-tutorial",
-    "language": "TypeScript",
-    "name": "PatrickWiloak/bedrock-agents-rag-s3-tutorial",
-    "stars": 4,
-    "updated_at": "2026-08-31T11:40:06Z",
-    "url": "https://github.com/PatrickWiloak/bedrock-agents-rag-s3-tutorial"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-08-31T12:01:53Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "C# SDK for the Weaviate API -- open-source vector database",
-    "id": "tryAGI/Weaviate",
-    "language": "C#",
-    "name": "tryAGI/Weaviate",
-    "stars": 2,
-    "updated_at": "2026-08-31T11:32:09Z",
-    "url": "https://github.com/tryAGI/Weaviate"
-  },
-  {
-    "description": "A hierarchical, self-distilling memory system for long-term AI Agents. Features L0-L3 storage architecture, multi-tenant",
-    "id": "DingdongMatch/mems",
-    "language": "Python",
-    "name": "DingdongMatch/mems",
-    "stars": 2,
-    "updated_at": "2026-08-31T11:31:55Z",
-    "url": "https://github.com/DingdongMatch/mems"
   }
 ]
