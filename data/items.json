@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-31T06:30:22Z",
+    "updated_at": "2026-08-31T06:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
+    "id": "codelined-ag/Extracto",
+    "language": "TypeScript",
+    "name": "codelined-ag/Extracto",
+    "stars": 5,
+    "updated_at": "2026-08-31T06:43:06Z",
+    "url": "https://github.com/codelined-ag/Extracto"
+  },
+  {
+    "description": "Self-Healing Academic Knowledge Assistant powered by Agentic RAG, LangGraph, and Gemini.",
+    "id": "yashrajagawane/SentinelRAG",
+    "language": "Python",
+    "name": "yashrajagawane/SentinelRAG",
+    "stars": 1,
+    "updated_at": "2026-08-31T06:41:57Z",
+    "url": "https://github.com/yashrajagawane/SentinelRAG"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-31T06:41:49Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 11,
+    "updated_at": "2026-08-31T06:39:56Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "A production-style AI assistant with real-time streaming, semantic memory (STM + LTM), and contextual conversations powe",
+    "id": "iharshkaran/HyperAI",
+    "language": "TypeScript",
+    "name": "iharshkaran/HyperAI",
+    "stars": 2,
+    "updated_at": "2026-08-31T06:39:53Z",
+    "url": "https://github.com/iharshkaran/HyperAI"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-08-31T06:37:11Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11315,
+    "updated_at": "2026-08-31T06:33:30Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T06:30:36Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -59,7 +131,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-31T06:26:12Z",
+    "updated_at": "2026-08-31T06:44:56Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -76,7 +148,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35434,
+    "stars": 35436,
     "updated_at": "2026-08-31T06:16:35Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -90,21 +162,12 @@
     "url": "https://github.com/SkJishan04/AI-PM-Assistant-using-RAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T06:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1739,
-    "updated_at": "2026-08-31T06:05:30Z",
+    "updated_at": "2026-08-31T06:45:04Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -115,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-08-31T06:04:53Z",
     "url": "https://github.com/One-Semurg/Semurg-Install"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16766,
+    "updated_at": "2026-08-31T06:04:40Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
@@ -144,15 +216,6 @@
     "url": "https://github.com/adventurewave-labs/aria"
   },
   {
-    "description": "Self-Healing Academic Knowledge Assistant powered by Agentic RAG, LangGraph, and Gemini.",
-    "id": "yashrajagawane/SentinelRAG",
-    "language": "Python",
-    "name": "yashrajagawane/SentinelRAG",
-    "stars": 1,
-    "updated_at": "2026-08-31T05:37:22Z",
-    "url": "https://github.com/yashrajagawane/SentinelRAG"
-  },
-  {
     "description": "AWS Bedrock RAG tutorial: Build a Q&A agent with Knowledge Bases and S3 Vectors (preview). Includes CDK deployment, web ",
     "id": "PatrickWiloak/bedrock-agents-rag-s3-tutorial",
     "language": "TypeScript",
@@ -160,15 +223,6 @@
     "stars": 4,
     "updated_at": "2026-08-31T05:31:20Z",
     "url": "https://github.com/PatrickWiloak/bedrock-agents-rag-s3-tutorial"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-08-31T05:38:23Z",
-    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
@@ -221,7 +275,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6226,
-    "updated_at": "2026-08-31T06:22:06Z",
+    "updated_at": "2026-08-31T06:38:55Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -259,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T04:32:34Z",
     "url": "https://github.com/allup2d8/trends"
-  },
-  {
-    "description": "The holographic core for leOS",
-    "id": "AnOversizedMooseWithSocks/leCore",
-    "language": "Python",
-    "name": "AnOversizedMooseWithSocks/leCore",
-    "stars": 11,
-    "updated_at": "2026-08-31T06:04:03Z",
-    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
     "description": "Embedded multi-modal database in Rust \u2014 vector + full-text + filter + graph + geo behind one fluent builder API. A vibe-",
@@ -369,15 +414,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
-    "id": "codelined-ag/Extracto",
-    "language": "TypeScript",
-    "name": "codelined-ag/Extracto",
-    "stars": 5,
-    "updated_at": "2026-08-31T03:09:58Z",
-    "url": "https://github.com/codelined-ag/Extracto"
-  },
-  {
     "description": "Embedded vector database in Python. HNSW index written from scratch, write ahead log, atomic snapshots, crash recovery a",
     "id": "adwitiyashukla/embedded-vector-database",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-08-31T02:40:26Z",
     "url": "https://github.com/qtuanph/chatbot-rag"
-  },
-  {
-    "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
-    "id": "Constraintworthy6058/ai-github-repository-assistant",
-    "language": "TypeScript",
-    "name": "Constraintworthy6058/ai-github-repository-assistant",
-    "stars": 0,
-    "updated_at": "2026-08-31T02:31:33Z",
-    "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
-  },
-  {
-    "description": "",
-    "id": "threefigure-achromia682/ai-memory",
-    "language": "\u2014",
-    "name": "threefigure-achromia682/ai-memory",
-    "stars": 1,
-    "updated_at": "2026-08-31T02:30:15Z",
-    "url": "https://github.com/threefigure-achromia682/ai-memory"
-  },
-  {
-    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
-    "id": "alegameplays14-del/leica-infinity-2026",
-    "language": "\u2014",
-    "name": "alegameplays14-del/leica-infinity-2026",
-    "stars": 0,
-    "updated_at": "2026-08-31T02:29:22Z",
-    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-08-31T02:28:22Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
   }
 ]
