@@ -1,12 +1,48 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T23:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Versioned, fast and scalable nearest neighbor search.",
+    "id": "replikativ/proximum",
+    "language": "Clojure",
+    "name": "replikativ/proximum",
+    "stars": 31,
+    "updated_at": "2026-08-31T23:29:14Z",
+    "url": "https://github.com/replikativ/proximum"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-08-31T23:25:37Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
     "id": "tamnd/yo",
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-31T23:15:43Z",
+    "updated_at": "2026-08-31T23:25:02Z",
     "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-08-31T23:19:56Z",
+    "url": "https://github.com/ricmed/zettel_app"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +50,8 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-31T23:15:29Z",
+    "updated_at": "2026-08-31T23:16:48Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T23:15:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match",
@@ -34,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-08-31T23:15:38Z",
     "url": "https://github.com/Tibab222/cvMaker"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-08-31T23:15:54Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -113,7 +131,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16771,
-    "updated_at": "2026-08-31T22:52:45Z",
+    "updated_at": "2026-08-31T23:29:26Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -151,6 +169,15 @@
     "stars": 8,
     "updated_at": "2026-08-31T22:23:38Z",
     "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8164,
+    "updated_at": "2026-08-31T22:21:23Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -301,7 +328,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51944,
+    "stars": 51945,
     "updated_at": "2026-08-31T21:25:03Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -349,15 +376,6 @@
     "stars": 1750,
     "updated_at": "2026-08-31T20:53:53Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8164,
-    "updated_at": "2026-08-31T22:21:23Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -423,15 +441,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:52:24Z",
-    "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -439,14 +448,5 @@
     "stars": 7,
     "updated_at": "2026-08-31T20:22:05Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Agentic RAG system that plans, retrieves, reflects, and verifies across multiple hops \u2014 instead of assuming one retrieva",
-    "id": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
-    "language": "Python",
-    "name": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
-    "stars": 1,
-    "updated_at": "2026-08-31T19:49:01Z",
-    "url": "https://github.com/AdarshBobade/ResX---A-Multi-hop-AI-Agent"
   }
 ]
