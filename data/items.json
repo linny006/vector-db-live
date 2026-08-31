@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-31T01:15:19Z",
+    "updated_at": "2026-08-31T01:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-08-31T01:24:54Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 839,
+    "updated_at": "2026-08-31T01:24:23Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T01:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 343,
+    "updated_at": "2026-08-31T01:15:16Z",
+    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -41,17 +77,8 @@
     "language": "Python",
     "name": "thomas-villani/localvectordb",
     "stars": 2,
-    "updated_at": "2026-08-31T01:03:03Z",
+    "updated_at": "2026-08-31T01:28:19Z",
     "url": "https://github.com/thomas-villani/localvectordb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T01:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -79,15 +106,6 @@
     "stars": 2277,
     "updated_at": "2026-08-31T00:45:35Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 839,
-    "updated_at": "2026-08-31T01:12:31Z",
-    "url": "https://github.com/unohee/OpenSwarm"
   },
   {
     "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
@@ -148,7 +166,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1732,
+    "stars": 1733,
     "updated_at": "2026-08-31T00:27:14Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -324,15 +342,6 @@
     "url": "https://github.com/api-evangelist/gel-data"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-08-31T01:15:16Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
     "id": "api-evangelist/datastax",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-30T22:56:06Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "Reproducible benchmark comparing full catalog context with metadata-filtered semantic retrieval using Amazon S3 Vectors ",
-    "id": "AlejandroMorgante/semantic-layer-with-s3-vectors",
-    "language": "Python",
-    "name": "AlejandroMorgante/semantic-layer-with-s3-vectors",
-    "stars": 0,
-    "updated_at": "2026-08-30T22:51:31Z",
-    "url": "https://github.com/AlejandroMorgante/semantic-layer-with-s3-vectors"
   }
 ]
