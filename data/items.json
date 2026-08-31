@@ -1,12 +1,48 @@
 [
   {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T06:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-powered RAG assistant for Product Managers \u2014 ask natural-language questions across PRDs, meeting notes, and Jira expo",
+    "id": "SkJishan04/AI-PM-Assistant-using-RAG",
+    "language": "Python",
+    "name": "SkJishan04/AI-PM-Assistant-using-RAG",
+    "stars": 1,
+    "updated_at": "2026-08-31T06:14:19Z",
+    "url": "https://github.com/SkJishan04/AI-PM-Assistant-using-RAG"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
     "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 275,
-    "updated_at": "2026-08-31T05:57:56Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
+    "name": "xerj-org/xerj",
+    "stars": 1738,
+    "updated_at": "2026-08-31T06:05:30Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-31T06:05:07Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Official one-command installer for Semurg. Downloads and runs the released Semurg engine \u2014 your first node is always fre",
+    "id": "One-Semurg/Semurg-Install",
+    "language": "Shell",
+    "name": "One-Semurg/Semurg-Install",
+    "stars": 0,
+    "updated_at": "2026-08-31T06:04:53Z",
+    "url": "https://github.com/One-Semurg/Semurg-Install"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +50,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-08-31T05:54:28Z",
+    "updated_at": "2026-08-31T06:00:28Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 275,
+    "updated_at": "2026-08-31T06:11:39Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
@@ -27,39 +72,12 @@
     "url": "https://github.com/siaarzh/scrybe"
   },
   {
-    "description": "AI-powered RAG assistant for Product Managers \u2014 ask natural-language questions across PRDs, meeting notes, and Jira expo",
-    "id": "SkJishan04/AI-PM-Assistant-using-RAG",
-    "language": "Python",
-    "name": "SkJishan04/AI-PM-Assistant-using-RAG",
-    "stars": 1,
-    "updated_at": "2026-08-31T05:50:40Z",
-    "url": "https://github.com/SkJishan04/AI-PM-Assistant-using-RAG"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T05:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-31T05:43:39Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-08-31T05:52:40Z",
+    "updated_at": "2026-08-31T06:14:21Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -97,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-08-31T05:31:20Z",
     "url": "https://github.com/PatrickWiloak/bedrock-agents-rag-s3-tutorial"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1738,
-    "updated_at": "2026-08-31T05:30:48Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -167,7 +176,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6226,
-    "updated_at": "2026-08-31T05:56:44Z",
+    "updated_at": "2026-08-31T06:10:36Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -212,7 +221,7 @@
     "language": "Python",
     "name": "AnOversizedMooseWithSocks/leCore",
     "stars": 11,
-    "updated_at": "2026-08-31T05:49:59Z",
+    "updated_at": "2026-08-31T06:04:03Z",
     "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
   },
   {
@@ -322,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T03:15:44Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Official one-command installer for Semurg. Downloads and runs the released Semurg engine \u2014 your first node is always fre",
-    "id": "One-Semurg/Semurg-Install",
-    "language": "Shell",
-    "name": "One-Semurg/Semurg-Install",
-    "stars": 0,
-    "updated_at": "2026-08-31T03:09:59Z",
-    "url": "https://github.com/One-Semurg/Semurg-Install"
   },
   {
     "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
