@@ -5,8 +5,125 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-30T23:45:22Z",
+    "updated_at": "2026-08-31T00:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fully local vector memory plugin for DeepSeek Harness: local embeddings, SQLite storage, automatic recall injection, ded",
+    "id": "liangxiaobing520/dsh-local-vector-memory",
+    "language": "JavaScript",
+    "name": "liangxiaobing520/dsh-local-vector-memory",
+    "stars": 0,
+    "updated_at": "2026-08-30T23:57:24Z",
+    "url": "https://github.com/liangxiaobing520/dsh-local-vector-memory"
+  },
+  {
+    "description": "ObjectBox \u2014 independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance,",
+    "id": "api-evangelist/objectbox",
+    "language": "\u2014",
+    "name": "api-evangelist/objectbox",
+    "stars": 0,
+    "updated_at": "2026-08-30T23:56:47Z",
+    "url": "https://github.com/api-evangelist/objectbox"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 3,
+    "updated_at": "2026-08-30T23:56:24Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "Nomic AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib",
+    "id": "api-evangelist/nomic-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/nomic-ai",
+    "stars": 0,
+    "updated_at": "2026-08-30T23:55:40Z",
+    "url": "https://github.com/api-evangelist/nomic-ai"
+  },
+  {
+    "description": "A distributed ML platform composing a Raft engine, an HNSW vector index, and a distributed training framework, with cros",
+    "id": "abho7/ml-infra-platform",
+    "language": "Python",
+    "name": "abho7/ml-infra-platform",
+    "stars": 0,
+    "updated_at": "2026-08-30T23:56:49Z",
+    "url": "https://github.com/abho7/ml-infra-platform"
+  },
+  {
+    "description": "MyScale \u2014 independent third-party profile of a public API surface, by API Evangelist. MyScale is a SQL vector database b",
+    "id": "api-evangelist/myscale",
+    "language": "\u2014",
+    "name": "api-evangelist/myscale",
+    "stars": 0,
+    "updated_at": "2026-08-30T23:53:26Z",
+    "url": "https://github.com/api-evangelist/myscale"
+  },
+  {
+    "description": "Mixedbread \u2014 independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI",
+    "id": "api-evangelist/mixedbread-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/mixedbread-ai",
+    "stars": 1,
+    "updated_at": "2026-08-30T23:51:40Z",
+    "url": "https://github.com/api-evangelist/mixedbread-ai"
+  },
+  {
+    "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
+    "id": "api-evangelist/milvus",
+    "language": "\u2014",
+    "name": "api-evangelist/milvus",
+    "stars": 0,
+    "updated_at": "2026-08-30T23:51:13Z",
+    "url": "https://github.com/api-evangelist/milvus"
+  },
+  {
+    "description": "Voice-first note-taking app with AI transcription, embeddings, and Qdrant-powered semantic search.",
+    "id": "Goldmanski/voice-recall",
+    "language": "Python",
+    "name": "Goldmanski/voice-recall",
+    "stars": 0,
+    "updated_at": "2026-08-30T23:48:27Z",
+    "url": "https://github.com/Goldmanski/voice-recall"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 24,
+    "updated_at": "2026-08-30T23:47:38Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+  },
+  {
+    "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
+    "id": "api-evangelist/marqo",
+    "language": "\u2014",
+    "name": "api-evangelist/marqo",
+    "stars": 0,
+    "updated_at": "2026-08-30T23:47:36Z",
+    "url": "https://github.com/api-evangelist/marqo"
+  },
+  {
+    "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
+    "id": "edumgt/docker-class",
+    "language": "Python",
+    "name": "edumgt/docker-class",
+    "stars": 5,
+    "updated_at": "2026-08-30T23:47:23Z",
+    "url": "https://github.com/edumgt/docker-class"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-30T23:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "LF AI and Data \u2014 independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation",
@@ -54,15 +171,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-30T23:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
     "id": "api-evangelist/gel-data",
     "language": "\u2014",
@@ -81,15 +189,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Fully local vector memory plugin for DeepSeek Harness: local embeddings, SQLite storage, automatic recall injection, ded",
-    "id": "liangxiaobing520/dsh-local-vector-memory",
-    "language": "JavaScript",
-    "name": "liangxiaobing520/dsh-local-vector-memory",
-    "stars": 0,
-    "updated_at": "2026-08-30T23:26:11Z",
-    "url": "https://github.com/liangxiaobing520/dsh-local-vector-memory"
-  },
-  {
     "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
     "id": "api-evangelist/datastax",
     "language": "\u2014",
@@ -104,7 +203,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 839,
-    "updated_at": "2026-08-30T23:17:11Z",
+    "updated_at": "2026-08-30T23:56:20Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -131,7 +230,7 @@
     "language": "Rust",
     "name": "hivellm/vectorizer",
     "stars": 27,
-    "updated_at": "2026-08-30T23:15:13Z",
+    "updated_at": "2026-08-30T23:55:19Z",
     "url": "https://github.com/hivellm/vectorizer"
   },
   {
@@ -288,21 +387,12 @@
     "url": "https://github.com/defai-digital/akidb"
   },
   {
-    "description": "A distributed ML platform composing a Raft engine, an HNSW vector index, and a distributed training framework, with cros",
-    "id": "abho7/ml-infra-platform",
-    "language": "HTML",
-    "name": "abho7/ml-infra-platform",
-    "stars": 0,
-    "updated_at": "2026-08-30T22:17:45Z",
-    "url": "https://github.com/abho7/ml-infra-platform"
-  },
-  {
     "description": "Local-first MCP server for persistent semantic memory, backed by an HNSW vector index and an on-device ONNX embedder",
     "id": "abho7/mcp-memory-server",
     "language": "Python",
     "name": "abho7/mcp-memory-server",
     "stars": 0,
-    "updated_at": "2026-08-30T22:17:43Z",
+    "updated_at": "2026-08-30T23:57:32Z",
     "url": "https://github.com/abho7/mcp-memory-server"
   },
   {
@@ -311,7 +401,7 @@
     "language": "Python",
     "name": "abho7/vectordb-hnsw",
     "stars": 0,
-    "updated_at": "2026-08-30T22:16:52Z",
+    "updated_at": "2026-08-30T23:57:08Z",
     "url": "https://github.com/abho7/vectordb-hnsw"
   },
   {
@@ -351,15 +441,6 @@
     "url": "https://github.com/kleberbernardo/rag_agent"
   },
   {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 24,
-    "updated_at": "2026-08-30T21:57:18Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -367,86 +448,5 @@
     "stars": 34273,
     "updated_at": "2026-08-30T21:40:33Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 90,
-    "updated_at": "2026-08-30T21:37:13Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-08-30T22:15:25Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7071,
-    "updated_at": "2026-08-30T21:25:13Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "A full-stack RAG chatbot for querying personal documents, built with FastAPI, LangChain, Groq, PyMuPDF4LLM, FastEmbed, C",
-    "id": "AliShahbazzz/meet-shahbaz-ai",
-    "language": "TypeScript",
-    "name": "AliShahbazzz/meet-shahbaz-ai",
-    "stars": 0,
-    "updated_at": "2026-08-30T21:25:02Z",
-    "url": "https://github.com/AliShahbazzz/meet-shahbaz-ai"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 5,
-    "updated_at": "2026-08-30T21:24:05Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-08-30T21:22:57Z",
-    "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-08-30T21:05:14Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "Sentinel-SRE: An AI-native Root Cause Analysis (RCA) platform that unifies deterministic SRE logic with feedback-aware R",
-    "id": "sujalmeena7/sentinel-sre",
-    "language": "TypeScript",
-    "name": "sujalmeena7/sentinel-sre",
-    "stars": 1,
-    "updated_at": "2026-08-30T20:59:34Z",
-    "url": "https://github.com/sujalmeena7/sentinel-sre"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-08-30T20:55:20Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
