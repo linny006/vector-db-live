@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-31T21:30:22Z",
+    "updated_at": "2026-08-31T21:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-08-31T21:44:53Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Simple scalable low-latency HTAP\u00a0Data\u00a0Platform.  \u00a0  Vendor\u2011neutral\u00a0Open\u00a0Source.",
+    "id": "thelastpickle/open-htap-stack",
+    "language": "Python",
+    "name": "thelastpickle/open-htap-stack",
+    "stars": 3,
+    "updated_at": "2026-08-31T21:44:50Z",
+    "url": "https://github.com/thelastpickle/open-htap-stack"
+  },
+  {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 790,
+    "updated_at": "2026-08-31T21:41:28Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "A suite of WAL-based embedded data stores. RDBMS, KV Store, GraphStore, VectorStore, Columnar and more",
+    "id": "openpeeps/boogie",
+    "language": "Nim",
+    "name": "openpeeps/boogie",
+    "stars": 6,
+    "updated_at": "2026-08-31T21:43:43Z",
+    "url": "https://github.com/openpeeps/boogie"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-31T21:33:37Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Official one-command installer for Semurg. Downloads and runs the released Semurg engine \u2014 your first node is always fre",
+    "id": "One-Semurg/Semurg-Install",
+    "language": "Shell",
+    "name": "One-Semurg/Semurg-Install",
+    "stars": 0,
+    "updated_at": "2026-08-31T21:31:39Z",
+    "url": "https://github.com/One-Semurg/Semurg-Install"
+  },
+  {
+    "description": "Embedded multi-modal database in Rust \u2014 vector + full-text + filter + graph + geo behind one fluent builder API. A vibe-",
+    "id": "i-rocky/corvid",
+    "language": "Rust",
+    "name": "i-rocky/corvid",
+    "stars": 1,
+    "updated_at": "2026-08-31T21:30:55Z",
+    "url": "https://github.com/i-rocky/corvid"
+  },
+  {
+    "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-08-31T21:45:16Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T21:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -23,17 +104,8 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 65437,
-    "updated_at": "2026-08-31T21:29:20Z",
+    "updated_at": "2026-08-31T21:44:57Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Official one-command installer for Semurg. Downloads and runs the released Semurg engine \u2014 your first node is always fre",
-    "id": "One-Semurg/Semurg-Install",
-    "language": "Shell",
-    "name": "One-Semurg/Semurg-Install",
-    "stars": 0,
-    "updated_at": "2026-08-31T21:28:50Z",
-    "url": "https://github.com/One-Semurg/Semurg-Install"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -77,7 +149,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16772,
-    "updated_at": "2026-08-31T21:27:16Z",
+    "updated_at": "2026-08-31T21:43:02Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -88,24 +160,6 @@
     "stars": 6,
     "updated_at": "2026-08-31T21:19:37Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-08-31T21:30:10Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T21:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
@@ -122,7 +176,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9217,
-    "updated_at": "2026-08-31T21:22:32Z",
+    "updated_at": "2026-08-31T21:43:15Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T21:09:55Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-31T21:07:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
@@ -158,7 +203,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11322,
-    "updated_at": "2026-08-31T21:02:43Z",
+    "updated_at": "2026-08-31T21:43:24Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -198,15 +243,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Embedded multi-modal database in Rust \u2014 vector + full-text + filter + graph + geo behind one fluent builder API. A vibe-",
-    "id": "i-rocky/corvid",
-    "language": "Rust",
-    "name": "i-rocky/corvid",
-    "stars": 1,
-    "updated_at": "2026-08-31T20:51:58Z",
-    "url": "https://github.com/i-rocky/corvid"
-  },
-  {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
@@ -232,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-08-31T20:39:04Z",
     "url": "https://github.com/tryAGI/Chroma"
-  },
-  {
-    "description": "A suite of WAL-based embedded data stores. RDBMS, KV Store, GraphStore, VectorStore, Columnar and more",
-    "id": "openpeeps/boogie",
-    "language": "Nim",
-    "name": "openpeeps/boogie",
-    "stars": 6,
-    "updated_at": "2026-08-31T20:41:17Z",
-    "url": "https://github.com/openpeeps/boogie"
   },
   {
     "description": " Memory library for building stateful agents",
@@ -277,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T20:17:19Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 790,
-    "updated_at": "2026-08-31T21:29:35Z",
-    "url": "https://github.com/christopherkarani/Wax"
   },
   {
     "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-08-31T18:32:28Z",
     "url": "https://github.com/Tanmoy095/Logiflow-platform"
-  },
-  {
-    "description": "This project implements a Retrieval-Augmented Generation (RAG) chatbot that can answer medical questions based on upload",
-    "id": "Dinesh-Sharma2004/Medical_chatbot",
-    "language": "Python",
-    "name": "Dinesh-Sharma2004/Medical_chatbot",
-    "stars": 5,
-    "updated_at": "2026-08-31T18:07:11Z",
-    "url": "https://github.com/Dinesh-Sharma2004/Medical_chatbot"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-31T18:01:06Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
   }
 ]
