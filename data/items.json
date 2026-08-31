@@ -1,5 +1,86 @@
 [
   {
+    "description": "Sentinel-SRE: An AI-native Root Cause Analysis (RCA) platform that unifies deterministic SRE logic with feedback-aware R",
+    "id": "sujalmeena7/sentinel-sre",
+    "language": "Python",
+    "name": "sujalmeena7/sentinel-sre",
+    "stars": 1,
+    "updated_at": "2026-08-31T19:40:13Z",
+    "url": "https://github.com/sujalmeena7/sentinel-sre"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:39:12Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1115,
+    "updated_at": "2026-08-31T19:43:29Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Agentic RAG system that plans, retrieves, reflects, and verifies across multiple hops \u2014 instead of assuming one retrieva",
+    "id": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
+    "language": "Python",
+    "name": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
+    "stars": 1,
+    "updated_at": "2026-08-31T19:38:08Z",
+    "url": "https://github.com/AdarshBobade/ResX---A-Multi-hop-AI-Agent"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1750,
+    "updated_at": "2026-08-31T19:34:11Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-31T19:33:42Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-08-31T19:42:52Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
+    "id": "ZenSystemAI/Zengram",
+    "language": "JavaScript",
+    "name": "ZenSystemAI/Zengram",
+    "stars": 60,
+    "updated_at": "2026-08-31T19:32:02Z",
+    "url": "https://github.com/ZenSystemAI/Zengram"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T19:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,15 +99,6 @@
     "url": "https://github.com/Sadik00789/FlashVector-GPU"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T19:23:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
     "id": "varun29ankuS/shodh-redb",
     "language": "Rust",
@@ -36,15 +108,6 @@
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
-    "description": "Agentic RAG system that plans, retrieves, reflects, and verifies across multiple hops \u2014 instead of assuming one retrieva",
-    "id": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
-    "language": "Python",
-    "name": "AdarshBobade/ResX---A-Multi-hop-AI-Agent",
-    "stars": 1,
-    "updated_at": "2026-08-31T19:19:52Z",
-    "url": "https://github.com/AdarshBobade/ResX---A-Multi-hop-AI-Agent"
-  },
-  {
     "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
     "id": "iberi22/xavier",
     "language": "Rust",
@@ -52,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T19:13:04Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-08-31T19:11:48Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-31T19:10:06Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
@@ -88,15 +133,6 @@
     "stars": 2,
     "updated_at": "2026-08-31T19:08:01Z",
     "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-31T19:06:47Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Vector database implemented from first principles: HNSW, IVF+Product Quantization, write-ahead logging, and metadata fil",
@@ -133,15 +169,6 @@
     "stars": 9,
     "updated_at": "2026-08-31T18:59:08Z",
     "url": "https://github.com/devopam/MCPg"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1750,
-    "updated_at": "2026-08-31T18:57:53Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -189,13 +216,13 @@
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1115,
-    "updated_at": "2026-08-31T19:30:00Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16771,
+    "updated_at": "2026-08-31T18:33:43Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
@@ -214,15 +241,6 @@
     "stars": 9215,
     "updated_at": "2026-08-31T19:26:19Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
-    "id": "ZenSystemAI/Zengram",
-    "language": "JavaScript",
-    "name": "ZenSystemAI/Zengram",
-    "stars": 60,
-    "updated_at": "2026-08-31T19:27:41Z",
-    "url": "https://github.com/ZenSystemAI/Zengram"
   },
   {
     "description": "This project implements a Retrieval-Augmented Generation (RAG) chatbot that can answer medical questions based on upload",
@@ -297,15 +315,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Sentinel-SRE: An AI-native Root Cause Analysis (RCA) platform that unifies deterministic SRE logic with feedback-aware R",
-    "id": "sujalmeena7/sentinel-sre",
-    "language": "Python",
-    "name": "sujalmeena7/sentinel-sre",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:50:37Z",
-    "url": "https://github.com/sujalmeena7/sentinel-sre"
-  },
-  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
@@ -347,7 +356,7 @@
     "language": "Python",
     "name": "plastic-labs/honcho",
     "stars": 6965,
-    "updated_at": "2026-08-31T17:32:47Z",
+    "updated_at": "2026-08-31T19:41:26Z",
     "url": "https://github.com/plastic-labs/honcho"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 10,
     "updated_at": "2026-08-31T17:21:26Z",
     "url": "https://github.com/pinecone-io/pinecone-neo4j-explorer"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:20:45Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
   }
 ]
