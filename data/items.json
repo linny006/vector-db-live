@@ -1,17 +1,134 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T14:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Document-first sqlite3+faiss vector database",
+    "id": "thomas-villani/localvectordb",
+    "language": "Python",
+    "name": "thomas-villani/localvectordb",
+    "stars": 2,
+    "updated_at": "2026-08-31T14:29:23Z",
+    "url": "https://github.com/thomas-villani/localvectordb"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-08-31T14:26:59Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
     "description": "Support operations platform for B2B SaaS teams, featuring ticket triage, versioned knowledge base, grounded response dra",
     "id": "rafael-acerqueira/support-ops",
     "language": "Python",
     "name": "rafael-acerqueira/support-ops",
     "stars": 0,
-    "updated_at": "2026-08-31T14:11:19Z",
+    "updated_at": "2026-08-31T14:25:48Z",
     "url": "https://github.com/rafael-acerqueira/support-ops"
+  },
+  {
+    "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
+    "id": "structured-world/coordinode-python",
+    "language": "Python",
+    "name": "structured-world/coordinode-python",
+    "stars": 0,
+    "updated_at": "2026-08-31T14:23:55Z",
+    "url": "https://github.com/structured-world/coordinode-python"
+  },
+  {
+    "description": "Vector Database Qdrant for semantic search,  including data loading similarity matching, natural language search. Build ",
+    "id": "fvreys/AI_VectorDatabasewithQdrant",
+    "language": "Python",
+    "name": "fvreys/AI_VectorDatabasewithQdrant",
+    "stars": 1,
+    "updated_at": "2026-08-31T14:21:13Z",
+    "url": "https://github.com/fvreys/AI_VectorDatabasewithQdrant"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2783,
+    "updated_at": "2026-08-31T14:19:16Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11319,
+    "updated_at": "2026-08-31T14:17:13Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "\u9762\u5411\u667a\u80fd\u6e05\u6d01\u8bbe\u5907\u552e\u524d\u3001\u6545\u969c\u8bca\u65ad\u4e0e\u7528\u6237\u8fd0\u8425\u7684\u4f01\u4e1a\u7ea7\u591a\u667a\u80fd\u4f53\u670d\u52a1\u5e73\u53f0\u3002\u57fa\u4e8e LangChain/LangGraph\u3001\u901a\u4e49\u5343\u95ee\u3001Chroma RAG\u3001FastAPI\u3001React \u4e0e SQLite\uff0c\u652f\u6301\u8c03\u5ea6 Agent \u534f\u4f5c\u3001\u77e5\u8bc6\u5e93\u5b89\u5168\u8fd0\u8425\u3001\u8d26\u6237\u7ea7",
+    "id": "HHHFFF-HHHFFF/CleanPilot-AI",
+    "language": "Python",
+    "name": "HHHFFF-HHHFFF/CleanPilot-AI",
+    "stars": 5,
+    "updated_at": "2026-08-31T14:16:06Z",
+    "url": "https://github.com/HHHFFF-HHHFFF/CleanPilot-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T14:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16769,
+    "updated_at": "2026-08-31T14:18:13Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9428,
+    "updated_at": "2026-08-31T14:13:15Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-08-31T14:10:27Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-31T14:10:04Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Layered Weaviate memory provider for Hermes Agent \u2014 collection per domain, tenant per user, admin_list or RBAC. Local Ol",
     "id": "marlon-costa-dc/hermes-weaviate-memory",
-    "language": "\u2014",
+    "language": "Python",
     "name": "marlon-costa-dc/hermes-weaviate-memory",
     "stars": 0,
     "updated_at": "2026-08-31T14:06:01Z",
@@ -36,31 +153,13 @@
     "url": "https://github.com/xbsheng/ai-from-scratch"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T14:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T14:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\u9762\u5411\u626b\u5730\u673a\u5668\u4eba\u552e\u524d\u3001\u552e\u540e\u4e0e\u4f7f\u7528\u62a5\u544a\u7684\u591a\u5de5\u5177\u667a\u80fd\u5ba2\u670d Agent\uff1a\u57fa\u4e8e LangChain/LangGraph\u3001\u901a\u4e49\u5343\u95ee\u3001Chroma RAG\u3001SQLite \u4e0e Streamlit\uff0c\u96c6\u6210\u77e5\u8bc6\u5e93\u5b89\u5168\u5165\u5e93\u3001\u6d4f\u89c8\u5668\u5b9a\u4f4d\u3001\u5b9e\u65f6\u5929\u6c14\u3001\u4f1a\u8bdd\u7528\u6237\u53ca\u8bbe\u5907\u4f7f\u7528",
-    "id": "HHHFFF-HHHFFF/Autonomous-Cleaning-Support-Agent",
-    "language": "Python",
-    "name": "HHHFFF-HHHFFF/Autonomous-Cleaning-Support-Agent",
-    "stars": 5,
-    "updated_at": "2026-08-31T13:57:51Z",
-    "url": "https://github.com/HHHFFF-HHHFFF/Autonomous-Cleaning-Support-Agent"
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4433,
+    "updated_at": "2026-08-31T14:01:54Z",
+    "url": "https://github.com/crate/crate"
   },
   {
     "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
@@ -86,7 +185,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1744,
-    "updated_at": "2026-08-31T14:11:32Z",
+    "updated_at": "2026-08-31T14:29:09Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -95,7 +194,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-31T14:08:54Z",
+    "updated_at": "2026-08-31T14:22:23Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -106,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-08-31T13:45:49Z",
     "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11319,
-    "updated_at": "2026-08-31T13:45:43Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "RAG knowledge assistant \u2014 FastAPI + LangChain + ChromaDB with API-key auth, structured logging, CORS allowlist.",
@@ -131,17 +221,8 @@
     "language": "Python",
     "name": "EVEDensity/AgentHub",
     "stars": 24,
-    "updated_at": "2026-08-31T13:41:12Z",
+    "updated_at": "2026-08-31T14:28:27Z",
     "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-31T14:10:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "ocal, privacy-compliant document structuring pipeline and multimodal VLM RAG system (Qwen3-VL, GLM-OCR, Gemma-4). Extrac",
@@ -151,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-08-31T13:34:25Z",
     "url": "https://github.com/DannyWhyze/doc-vlm-rag"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4433,
-    "updated_at": "2026-08-31T14:01:54Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -202,7 +274,7 @@
     "id": "rostamlabs/rostam",
     "language": "Go",
     "name": "rostamlabs/rostam",
-    "stars": 21,
+    "stars": 22,
     "updated_at": "2026-08-31T13:15:46Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
@@ -216,24 +288,6 @@
     "url": "https://github.com/neonwatty/meme-search"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16768,
-    "updated_at": "2026-08-31T14:15:03Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9428,
-    "updated_at": "2026-08-31T14:13:15Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
     "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
     "id": "edwardtay/awesome-ai",
     "language": "\u2014",
@@ -241,15 +295,6 @@
     "stars": 4,
     "updated_at": "2026-08-31T12:59:42Z",
     "url": "https://github.com/edwardtay/awesome-ai"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2782,
-    "updated_at": "2026-08-31T14:14:33Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
@@ -274,8 +319,8 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35452,
-    "updated_at": "2026-08-31T12:54:34Z",
+    "stars": 35453,
+    "updated_at": "2026-08-31T14:27:54Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -295,15 +340,6 @@
     "stars": 5,
     "updated_at": "2026-08-31T12:44:14Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
-    "id": "structured-world/coordinode-python",
-    "language": "Python",
-    "name": "structured-world/coordinode-python",
-    "stars": 0,
-    "updated_at": "2026-08-31T14:13:53Z",
-    "url": "https://github.com/structured-world/coordinode-python"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -347,7 +383,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34293,
-    "updated_at": "2026-08-31T14:02:11Z",
+    "updated_at": "2026-08-31T14:29:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T12:11:23Z",
     "url": "https://github.com/Amca20/Ai-Contract-Analyzer-using-RAG-and-LLM"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-08-31T12:09:54Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 93,
-    "updated_at": "2026-08-31T14:14:53Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7071,
-    "updated_at": "2026-08-31T14:13:11Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "HelixDB is an OLTP graph-vector database built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5876,
-    "updated_at": "2026-08-31T11:41:15Z",
-    "url": "https://github.com/HelixDB/helix-db"
   }
 ]
