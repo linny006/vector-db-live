@@ -1,11 +1,56 @@
 [
   {
+    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
+    "id": "neonwatty/meme-search",
+    "language": "Ruby",
+    "name": "neonwatty/meme-search",
+    "stars": 719,
+    "updated_at": "2026-08-31T13:13:18Z",
+    "url": "https://github.com/neonwatty/meme-search"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-08-31T13:09:55Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16768,
+    "updated_at": "2026-08-31T13:07:15Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-08-31T13:01:40Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T13:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-08-31T13:00:23Z",
+    "updated_at": "2026-08-31T13:15:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,6 +61,15 @@
     "stars": 4,
     "updated_at": "2026-08-31T12:59:42Z",
     "url": "https://github.com/edwardtay/awesome-ai"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-08-31T13:11:37Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 275,
-    "updated_at": "2026-08-31T12:56:26Z",
+    "updated_at": "2026-08-31T13:03:50Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -49,7 +103,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35450,
+    "stars": 35452,
     "updated_at": "2026-08-31T12:54:34Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -59,17 +113,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9427,
-    "updated_at": "2026-08-31T12:47:18Z",
+    "updated_at": "2026-08-31T13:02:53Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T12:46:46Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
@@ -79,15 +124,6 @@
     "stars": 5,
     "updated_at": "2026-08-31T12:44:14Z",
     "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-08-31T12:43:55Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -104,7 +140,7 @@
     "language": "Python",
     "name": "structured-world/coordinode-python",
     "stars": 0,
-    "updated_at": "2026-08-31T12:56:10Z",
+    "updated_at": "2026-08-31T13:03:19Z",
     "url": "https://github.com/structured-world/coordinode-python"
   },
   {
@@ -126,21 +162,12 @@
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-08-31T12:56:44Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
     "id": "varun29ankuS/shodh-redb",
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 6,
-    "updated_at": "2026-08-31T12:34:00Z",
+    "updated_at": "2026-08-31T13:07:26Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1742,
-    "updated_at": "2026-08-31T12:31:10Z",
+    "updated_at": "2026-08-31T13:11:38Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34293,
-    "updated_at": "2026-08-31T12:40:22Z",
+    "updated_at": "2026-08-31T13:04:50Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -261,15 +288,6 @@
     "url": "https://github.com/sergiunicoara/Generative-AI"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-08-31T12:08:46Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
@@ -284,17 +302,8 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 93,
-    "updated_at": "2026-08-31T12:27:01Z",
+    "updated_at": "2026-08-31T13:06:05Z",
     "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16768,
-    "updated_at": "2026-08-31T11:56:17Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "The AI search platform",
@@ -347,7 +356,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6225,
-    "updated_at": "2026-08-31T12:47:44Z",
+    "updated_at": "2026-08-31T13:14:09Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-08-31T11:11:25Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
-    "id": "deven96/ahnlich",
-    "language": "Rust",
-    "name": "deven96/ahnlich",
-    "stars": 243,
-    "updated_at": "2026-08-31T11:14:35Z",
-    "url": "https://github.com/deven96/ahnlich"
   }
 ]
