@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-08-31T19:00:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vector database implemented from first principles: HNSW, IVF+Product Quantization, write-ahead logging, and metadata fil",
+    "id": "PPaul14/nanovec",
+    "language": "Python",
+    "name": "PPaul14/nanovec",
+    "stars": 0,
+    "updated_at": "2026-08-31T19:00:14Z",
+    "url": "https://github.com/PPaul14/nanovec"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6390,
+    "updated_at": "2026-08-31T18:48:17Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Postgres MCP Server",
+    "id": "devopam/MCPg",
+    "language": "Python",
+    "name": "devopam/MCPg",
+    "stars": 9,
+    "updated_at": "2026-08-31T18:59:08Z",
+    "url": "https://github.com/devopam/MCPg"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1750,
+    "updated_at": "2026-08-31T18:57:53Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-08-31T18:45:40Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-08-31T18:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
     "id": "AkashKundu114/COPPER",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 1,
     "updated_at": "2026-08-31T18:43:27Z",
     "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 6,
+    "updated_at": "2026-08-31T18:41:59Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -18,13 +90,13 @@
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1115,
-    "updated_at": "2026-08-31T18:43:05Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-08-31T18:41:01Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -34,6 +106,15 @@
     "stars": 3,
     "updated_at": "2026-08-31T18:40:11Z",
     "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1115,
+    "updated_at": "2026-08-31T18:53:26Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -54,30 +135,12 @@
     "url": "https://github.com/Tanmoy095/Logiflow-platform"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-08-31T18:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-08-31T18:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9215,
-    "updated_at": "2026-08-31T18:44:12Z",
+    "updated_at": "2026-08-31T19:00:24Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -95,7 +158,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-08-31T18:17:53Z",
+    "updated_at": "2026-08-31T19:00:18Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -126,22 +189,13 @@
     "url": "https://github.com/nadeem4/codewithnk-playground"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1750,
-    "updated_at": "2026-08-31T18:04:43Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
-    "id": "varun29ankuS/shodh-redb",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-redb",
-    "stars": 6,
-    "updated_at": "2026-08-31T18:41:59Z",
-    "url": "https://github.com/varun29ankuS/shodh-redb"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8162,
+    "updated_at": "2026-08-31T18:04:11Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -293,7 +347,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 2788,
-    "updated_at": "2026-08-31T17:28:14Z",
+    "updated_at": "2026-08-31T18:48:26Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -374,7 +428,7 @@
     "language": "Ruby",
     "name": "neonwatty/meme-search",
     "stars": 719,
-    "updated_at": "2026-08-31T17:16:46Z",
+    "updated_at": "2026-08-31T18:52:44Z",
     "url": "https://github.com/neonwatty/meme-search"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-08-31T17:13:56Z",
     "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:13:35Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-08-31T17:13:21Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:10:07Z",
-    "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-08-31T17:09:39Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-08-31T17:08:53Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-08-31T17:08:44Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
   }
 ]
