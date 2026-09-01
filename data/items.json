@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-01T17:30:20Z",
+    "updated_at": "2026-09-01T17:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
+    "id": "RoxyAPI/ai-spiritual-companion",
+    "language": "TypeScript",
+    "name": "RoxyAPI/ai-spiritual-companion",
+    "stars": 0,
+    "updated_at": "2026-09-01T17:44:52Z",
+    "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
+  },
+  {
+    "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
+    "id": "kleberbernardo/rag_agent",
+    "language": "Python",
+    "name": "kleberbernardo/rag_agent",
+    "stars": 1,
+    "updated_at": "2026-09-01T17:42:09Z",
+    "url": "https://github.com/kleberbernardo/rag_agent"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
@@ -14,17 +32,44 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2079,
-    "updated_at": "2026-09-01T17:19:55Z",
+    "updated_at": "2026-09-01T17:36:51Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
-    "description": "Free AI spiritual companion with persistent memory. Next.js, Supabase, pgvector. The natal chart is cached once and the ",
-    "id": "RoxyAPI/ai-spiritual-companion",
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T17:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "TypeScript",
-    "name": "RoxyAPI/ai-spiritual-companion",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-09-01T17:18:12Z",
-    "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
+    "updated_at": "2026-09-01T17:42:33Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-09-01T17:27:16Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1348,
+    "updated_at": "2026-09-01T17:20:00Z",
+    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -36,15 +81,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T17:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -52,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-09-01T17:15:18Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "",
+    "id": "techplanshetyapps/ai-application-layer",
+    "language": "Jupyter Notebook",
+    "name": "techplanshetyapps/ai-application-layer",
+    "stars": 0,
+    "updated_at": "2026-09-01T17:15:04Z",
+    "url": "https://github.com/techplanshetyapps/ai-application-layer"
   },
   {
     "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
@@ -104,17 +149,8 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-09-01T17:07:22Z",
+    "updated_at": "2026-09-01T17:33:50Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
-    "id": "kleberbernardo/rag_agent",
-    "language": "Python",
-    "name": "kleberbernardo/rag_agent",
-    "stars": 1,
-    "updated_at": "2026-09-01T17:08:41Z",
-    "url": "https://github.com/kleberbernardo/rag_agent"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -122,7 +158,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 65471,
-    "updated_at": "2026-09-01T17:00:44Z",
+    "updated_at": "2026-09-01T17:35:35Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -162,15 +198,6 @@
     "url": "https://github.com/vicquick/nobrainr"
   },
   {
-    "description": "",
-    "id": "techplanshetyapps/ai-application-layer",
-    "language": "Jupyter Notebook",
-    "name": "techplanshetyapps/ai-application-layer",
-    "stars": 0,
-    "updated_at": "2026-09-01T17:15:04Z",
-    "url": "https://github.com/techplanshetyapps/ai-application-layer"
-  },
-  {
     "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
     "id": "mirkobozzetto/flowflow",
     "language": "Rust",
@@ -189,15 +216,6 @@
     "url": "https://github.com/structured-world/coordinode"
   },
   {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-01T17:30:18Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
     "description": "A simple Docker Compose setup for self-hosting the Qdrant vector database. Includes persistent storage, management scrip",
     "id": "AiratTop/qdrant-self-hosted",
     "language": "Shell",
@@ -212,7 +230,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59167,
-    "updated_at": "2026-09-01T16:43:01Z",
+    "updated_at": "2026-09-01T17:33:24Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-01T17:27:39Z",
+    "updated_at": "2026-09-01T17:42:35Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -293,7 +311,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9219,
-    "updated_at": "2026-09-01T16:19:03Z",
+    "updated_at": "2026-09-01T17:36:31Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -329,7 +347,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34320,
-    "updated_at": "2026-09-01T17:27:00Z",
+    "updated_at": "2026-09-01T17:43:07Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Rust",
     "name": "inlaySQL/inlaysql",
     "stars": 2,
-    "updated_at": "2026-09-01T15:54:49Z",
+    "updated_at": "2026-09-01T17:41:55Z",
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 23,
     "updated_at": "2026-09-01T15:42:51Z",
     "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-09-01T15:41:30Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-09-01T15:41:15Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   }
 ]
