@@ -1,12 +1,84 @@
 [
   {
+    "description": "A local-first looking glass for Claude Code and Codex JSONL histories, powered by LanceDB.",
+    "id": "Soul-Brews-Studio/lanceglass",
+    "language": "TypeScript",
+    "name": "Soul-Brews-Studio/lanceglass",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:55:39Z",
+    "url": "https://github.com/Soul-Brews-Studio/lanceglass"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2804,
+    "updated_at": "2026-09-01T07:53:55Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-09-01T07:52:35Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 12988,
+    "updated_at": "2026-09-01T07:50:17Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Production-ready async RAG microservice built with FastAPI, Qdrant vector database, Groq LLM, and Pydantic validation. I",
+    "id": "sueshahtunn2002-dev/async-rag-fastapi",
+    "language": "Python",
+    "name": "sueshahtunn2002-dev/async-rag-fastapi",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:48:24Z",
+    "url": "https://github.com/sueshahtunn2002-dev/async-rag-fastapi"
+  },
+  {
+    "description": "Multi-source RAG assistant for querying PDF, DOCX, TXT, and CSV documents using semantic search, ChromaDB, Ollama, and S",
+    "id": "seyfe2023/AI-MultiSource-RAG",
+    "language": "Python",
+    "name": "seyfe2023/AI-MultiSource-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:45:51Z",
+    "url": "https://github.com/seyfe2023/AI-MultiSource-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T07:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-01T07:45:24Z",
+    "updated_at": "2026-09-01T08:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1619,
+    "updated_at": "2026-09-01T07:43:00Z",
+    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -18,6 +90,15 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 75,
+    "updated_at": "2026-09-01T07:39:40Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -25,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-09-01T07:37:28Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T07:35:55Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -68,7 +140,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-01T07:33:25Z",
+    "updated_at": "2026-09-01T07:47:30Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -95,7 +167,7 @@
     "language": "TypeScript",
     "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-09-01T07:29:27Z",
+    "updated_at": "2026-09-01T07:58:44Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
@@ -122,7 +194,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7073,
-    "updated_at": "2026-09-01T07:35:12Z",
+    "updated_at": "2026-09-01T07:48:44Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -187,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T07:17:09Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "A local-first looking glass for Claude Code and Codex JSONL histories, powered by LanceDB.",
-    "id": "Soul-Brews-Studio/lanceglass",
-    "language": "TypeScript",
-    "name": "Soul-Brews-Studio/lanceglass",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:16:03Z",
-    "url": "https://github.com/Soul-Brews-Studio/lanceglass"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T06:56:05Z",
     "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "Postgres MCP Server",
-    "id": "devopam/MCPg",
-    "language": "Python",
-    "name": "devopam/MCPg",
-    "stars": 9,
-    "updated_at": "2026-09-01T06:54:25Z",
-    "url": "https://github.com/devopam/MCPg"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-01T06:53:41Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-09-01T06:52:28Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-01T06:51:02Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 90,
-    "updated_at": "2026-09-01T06:56:38Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-01T06:49:26Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-09-01T06:48:05Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   }
 ]
