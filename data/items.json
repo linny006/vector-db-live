@@ -1,12 +1,75 @@
 [
   {
+    "description": "A ready-to-use RAG chatbot workflow for n8n \u2014 upload your documents and let an AI agent answer questions from them. Uses",
+    "id": "aasiasattar/ragchatbot",
+    "language": "\u2014",
+    "name": "aasiasattar/ragchatbot",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:14:04Z",
+    "url": "https://github.com/aasiasattar/ragchatbot"
+  },
+  {
+    "description": "Native Rust vector and full-text engine",
+    "id": "A3S-Lab/Vec",
+    "language": "Rust",
+    "name": "A3S-Lab/Vec",
+    "stars": 1,
+    "updated_at": "2026-09-01T14:10:13Z",
+    "url": "https://github.com/A3S-Lab/Vec"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6975,
+    "updated_at": "2026-09-01T14:05:22Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "Free AI spiritual companion with persistent memory. Next.js, Supabase, pgvector. The natal chart is cached once and the ",
+    "id": "RoxyAPI/ai-spiritual-companion",
+    "language": "\u2014",
+    "name": "RoxyAPI/ai-spiritual-companion",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:04:45Z",
+    "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35471,
+    "updated_at": "2026-09-01T14:00:43Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T14:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-01T14:00:25Z",
+    "updated_at": "2026-09-01T14:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-01T13:52:20Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -27,31 +90,13 @@
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "Free AI spiritual companion with persistent memory. Next.js, Supabase, pgvector. The natal chart is cached once and the ",
-    "id": "RoxyAPI/ai-spiritual-companion",
-    "language": "\u2014",
-    "name": "RoxyAPI/ai-spiritual-companion",
+    "description": "\ud83e\udde0 Intelligent, strictly-grounded RAG knowledge assistant for personal Obsidian vaults with source citations and zero hal",
+    "id": "rohanpawar0006/vaultmind-rag",
+    "language": "Python",
+    "name": "rohanpawar0006/vaultmind-rag",
     "stars": 0,
-    "updated_at": "2026-09-01T13:48:34Z",
-    "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
-  },
-  {
-    "description": " Memory library for building stateful agents",
-    "id": "plastic-labs/honcho",
-    "language": "Python",
-    "name": "plastic-labs/honcho",
-    "stars": 6974,
-    "updated_at": "2026-09-01T13:48:23Z",
-    "url": "https://github.com/plastic-labs/honcho"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T13:45:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-09-01T13:44:32Z",
+    "url": "https://github.com/rohanpawar0006/vaultmind-rag"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -59,8 +104,17 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34316,
-    "updated_at": "2026-09-01T13:40:06Z",
+    "updated_at": "2026-09-01T14:06:36Z",
     "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11327,
+    "updated_at": "2026-09-01T13:39:23Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Samples showcasing Spanner multi model capabilities - across relational, key/value, vector, full-text search and graph",
@@ -81,12 +135,21 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:06:42Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-09-01T13:35:27Z",
+    "updated_at": "2026-09-01T14:09:10Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -95,7 +158,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-01T13:57:44Z",
+    "updated_at": "2026-09-01T14:13:05Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "\ud83e\udde0 Intelligent, strictly-grounded RAG knowledge assistant for personal Obsidian vaults with source citations and zero hal",
-    "id": "rohanpawar0006/vaultmind-rag",
-    "language": "Python",
-    "name": "rohanpawar0006/vaultmind-rag",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:44:32Z",
-    "url": "https://github.com/rohanpawar0006/vaultmind-rag"
-  },
-  {
     "description": "AI developer assistant for the Kalisio ecosystem",
     "id": "kalisio/knowledge",
     "language": "Python",
@@ -126,15 +180,6 @@
     "url": "https://github.com/kalisio/knowledge"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:35:31Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
     "id": "VectorDB-NTU/RaBitQ-Library",
     "language": "C++",
@@ -142,6 +187,15 @@
     "stars": 267,
     "updated_at": "2026-09-01T13:25:44Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 5,
+    "updated_at": "2026-09-01T13:25:39Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
     "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
@@ -167,7 +221,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9431,
-    "updated_at": "2026-09-01T13:52:26Z",
+    "updated_at": "2026-09-01T14:02:52Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -176,17 +230,8 @@
     "language": "Jupyter Notebook",
     "name": "techplanshetyapps/ai-application-layer",
     "stars": 0,
-    "updated_at": "2026-09-01T13:16:09Z",
+    "updated_at": "2026-09-01T14:07:13Z",
     "url": "https://github.com/techplanshetyapps/ai-application-layer"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11326,
-    "updated_at": "2026-09-01T13:39:23Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -203,17 +248,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30389,
-    "updated_at": "2026-09-01T13:51:28Z",
+    "updated_at": "2026-09-01T14:14:57Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 5,
-    "updated_at": "2026-09-01T13:25:39Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -239,7 +275,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7073,
-    "updated_at": "2026-09-01T13:54:21Z",
+    "updated_at": "2026-09-01T14:10:12Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -270,15 +306,6 @@
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-01T13:52:20Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "DocuBase is a RAG chatbot which can ingests multi-format documents and performs semantic search based on the query of us",
     "id": "AdiXjaiswal/DocuBase",
     "language": "Jupyter Notebook",
@@ -302,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8169,
-    "updated_at": "2026-09-01T13:42:06Z",
+    "updated_at": "2026-09-01T14:04:34Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -329,17 +356,8 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45920,
-    "updated_at": "2026-09-01T12:38:35Z",
+    "updated_at": "2026-09-01T14:09:26Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35470,
-    "updated_at": "2026-09-01T13:47:30Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -355,7 +373,7 @@
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 3275,
+    "stars": 3276,
     "updated_at": "2026-09-01T12:28:44Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-01T12:07:16Z",
     "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "The open-source visual git-diff for vector embeddings\u2014detect semantic drift and search regression before changing your e",
-    "id": "shunvel/diffvector",
-    "language": "Python",
-    "name": "shunvel/diffvector",
-    "stars": 0,
-    "updated_at": "2026-09-01T12:02:06Z",
-    "url": "https://github.com/shunvel/diffvector"
-  },
-  {
-    "description": "\ud83e\udd16 Enterprise Multi-Agent RAG Chatbot powered by Qdrant Vector Store, NeMo Guardrails, FlashRank Reranking, and Streamlit",
-    "id": "Slack-Hacker/Agentic-RAG-Based-Chatbot",
-    "language": "Jupyter Notebook",
-    "name": "Slack-Hacker/Agentic-RAG-Based-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-09-01T11:54:53Z",
-    "url": "https://github.com/Slack-Hacker/Agentic-RAG-Based-Chatbot"
   }
 ]
