@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T21:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 8,
+    "updated_at": "2026-09-01T21:13:03Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-01T21:07:41Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 51971,
+    "updated_at": "2026-09-01T21:07:21Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-01T21:06:37Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T21:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -7,6 +61,15 @@
     "stars": 1117,
     "updated_at": "2026-09-01T20:56:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 789,
+    "updated_at": "2026-09-01T20:55:21Z",
+    "url": "https://github.com/christopherkarani/Wax"
   },
   {
     "description": "ObjectBox \u2014 independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance,",
@@ -36,6 +99,15 @@
     "url": "https://github.com/api-evangelist/nomic-ai"
   },
   {
+    "description": "MyScale \u2014 independent third-party profile of a public API surface, by API Evangelist. MyScale is a SQL vector database b",
+    "id": "api-evangelist/myscale",
+    "language": "\u2014",
+    "name": "api-evangelist/myscale",
+    "stars": 0,
+    "updated_at": "2026-09-01T20:49:32Z",
+    "url": "https://github.com/api-evangelist/myscale"
+  },
+  {
     "description": "Mixedbread \u2014 independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI",
     "id": "api-evangelist/mixedbread-ai",
     "language": "\u2014",
@@ -63,24 +135,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T20:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T21:00:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
     "id": "api-evangelist/marqo",
     "language": "\u2014",
@@ -95,7 +149,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-09-01T20:42:56Z",
+    "updated_at": "2026-09-01T21:15:16Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -144,15 +198,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-01T20:35:12Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35477,
-    "updated_at": "2026-09-01T20:28:38Z",
+    "updated_at": "2026-09-01T21:11:01Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -196,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-09-01T20:56:34Z",
     "url": "https://github.com/tuned-org-uk/genegraph-storage"
-  },
-  {
-    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 789,
-    "updated_at": "2026-09-01T20:55:21Z",
-    "url": "https://github.com/christopherkarani/Wax"
   },
   {
     "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
@@ -232,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T21:00:07Z",
     "url": "https://github.com/structured-world/coordinode-python"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-01T20:12:59Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Elefante never forgets. The Second Brain for AI Agents. Local-first persistent memory engine via MCP (ChromaDB + Kuzu). ",
@@ -275,7 +302,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-09-01T20:06:46Z",
+    "updated_at": "2026-09-01T21:07:44Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 6,
-    "updated_at": "2026-09-01T20:01:52Z",
+    "updated_at": "2026-09-01T21:03:56Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30398,
-    "updated_at": "2026-09-01T20:55:13Z",
+    "updated_at": "2026-09-01T21:06:07Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -392,7 +419,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6391,
-    "updated_at": "2026-09-01T19:54:05Z",
+    "updated_at": "2026-09-01T21:08:22Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -403,15 +430,6 @@
     "stars": 3277,
     "updated_at": "2026-09-01T19:40:28Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 8,
-    "updated_at": "2026-09-01T19:41:52Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -430,23 +448,5 @@
     "stars": 9433,
     "updated_at": "2026-09-01T20:29:51Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7075,
-    "updated_at": "2026-09-01T19:30:43Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Self-hostable RAG for companies that can't send data to a third-party API. OpenAI-compatible, runs on your own infrastru",
-    "id": "debashisn94/local-rag-companion",
-    "language": "Python",
-    "name": "debashisn94/local-rag-companion",
-    "stars": 0,
-    "updated_at": "2026-09-01T19:23:40Z",
-    "url": "https://github.com/debashisn94/local-rag-companion"
   }
 ]
