@@ -1,11 +1,83 @@
 [
   {
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
+    "language": "Python",
+    "name": "vishalChoudhary-git/ai-platform",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:41:14Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-01T03:40:37Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1116,
+    "updated_at": "2026-09-01T03:40:15Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-01T03:39:52Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Native Rust vector and full-text engine",
+    "id": "A3S-Lab/Vec",
+    "language": "Rust",
+    "name": "A3S-Lab/Vec",
+    "stars": 1,
+    "updated_at": "2026-09-01T03:36:14Z",
+    "url": "https://github.com/A3S-Lab/Vec"
+  },
+  {
+    "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
+    "id": "piyalidas10/AI",
+    "language": "Python",
+    "name": "piyalidas10/AI",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:32:07Z",
+    "url": "https://github.com/piyalidas10/AI"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:31:14Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T03:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-01T03:30:21Z",
+    "updated_at": "2026-09-01T03:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45911,
-    "updated_at": "2026-09-01T03:29:21Z",
+    "updated_at": "2026-09-01T03:39:03Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -45,15 +117,6 @@
     "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-01T03:20:48Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "Demo project. Semantic audio search for journalists",
     "id": "hordiales/audio-semantic-search-for-journalists",
     "language": "Python",
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T03:19:10Z",
     "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T03:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti",
@@ -81,21 +135,12 @@
     "url": "https://github.com/rvarun03/ARIOS"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-01T03:11:43Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16772,
-    "updated_at": "2026-09-01T02:59:48Z",
+    "updated_at": "2026-09-01T03:38:54Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T02:46:42Z",
     "url": "https://github.com/dilumdarshana/ai-concepts"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-01T02:45:34Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -167,7 +203,7 @@
     "language": "Shell",
     "name": "One-Semurg/Semurg-Benchmark-Suite",
     "stars": 0,
-    "updated_at": "2026-09-01T02:32:05Z",
+    "updated_at": "2026-09-01T03:44:34Z",
     "url": "https://github.com/One-Semurg/Semurg-Benchmark-Suite"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 13,
     "updated_at": "2026-09-01T02:17:05Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "Native Rust vector and full-text engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 1,
-    "updated_at": "2026-09-01T02:16:41Z",
-    "url": "https://github.com/A3S-Lab/Vec"
   },
   {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
@@ -351,15 +378,6 @@
     "url": "https://github.com/ricmed/zettel_app"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1115,
-    "updated_at": "2026-09-01T02:20:00Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -383,7 +401,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 8,
-    "updated_at": "2026-09-01T02:37:58Z",
+    "updated_at": "2026-09-01T03:35:05Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T00:22:58Z",
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:20:20Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:18:33Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
   }
 ]
