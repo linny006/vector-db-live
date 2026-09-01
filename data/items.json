@@ -1,5 +1,86 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1117,
+    "updated_at": "2026-09-01T20:56:11Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "ObjectBox \u2014 independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance,",
+    "id": "api-evangelist/objectbox",
+    "language": "\u2014",
+    "name": "api-evangelist/objectbox",
+    "stars": 0,
+    "updated_at": "2026-09-01T20:53:20Z",
+    "url": "https://github.com/api-evangelist/objectbox"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-01T20:52:48Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Nomic AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib",
+    "id": "api-evangelist/nomic-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/nomic-ai",
+    "stars": 0,
+    "updated_at": "2026-09-01T20:52:02Z",
+    "url": "https://github.com/api-evangelist/nomic-ai"
+  },
+  {
+    "description": "Mixedbread \u2014 independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI",
+    "id": "api-evangelist/mixedbread-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/mixedbread-ai",
+    "stars": 1,
+    "updated_at": "2026-09-01T20:47:41Z",
+    "url": "https://github.com/api-evangelist/mixedbread-ai"
+  },
+  {
+    "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
+    "id": "api-evangelist/milvus",
+    "language": "\u2014",
+    "name": "api-evangelist/milvus",
+    "stars": 0,
+    "updated_at": "2026-09-01T20:47:10Z",
+    "url": "https://github.com/api-evangelist/milvus"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-01T20:46:51Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T20:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T21:00:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
     "id": "api-evangelist/marqo",
     "language": "\u2014",
@@ -7,6 +88,15 @@
     "stars": 0,
     "updated_at": "2026-09-01T20:44:07Z",
     "url": "https://github.com/api-evangelist/marqo"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-09-01T20:42:56Z",
+    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
@@ -50,7 +140,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 90,
-    "updated_at": "2026-09-01T20:37:55Z",
+    "updated_at": "2026-09-01T21:00:09Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -81,24 +171,6 @@
     "url": "https://github.com/api-evangelist/ironcore-labs"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T20:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T20:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
@@ -122,7 +194,7 @@
     "language": "Rust",
     "name": "tuned-org-uk/genegraph-storage",
     "stars": 2,
-    "updated_at": "2026-09-01T20:27:41Z",
+    "updated_at": "2026-09-01T20:56:34Z",
     "url": "https://github.com/tuned-org-uk/genegraph-storage"
   },
   {
@@ -131,7 +203,7 @@
     "language": "Swift",
     "name": "christopherkarani/Wax",
     "stars": 789,
-    "updated_at": "2026-09-01T20:24:23Z",
+    "updated_at": "2026-09-01T20:55:21Z",
     "url": "https://github.com/christopherkarani/Wax"
   },
   {
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "structured-world/coordinode-python",
     "stars": 0,
-    "updated_at": "2026-09-01T20:22:56Z",
+    "updated_at": "2026-09-01T21:00:07Z",
     "url": "https://github.com/structured-world/coordinode-python"
   },
   {
@@ -256,18 +328,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30397,
-    "updated_at": "2026-09-01T20:01:36Z",
+    "stars": 30398,
+    "updated_at": "2026-09-01T20:55:13Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-09-01T20:42:56Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "",
@@ -333,6 +396,15 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3277,
+    "updated_at": "2026-09-01T19:40:28Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T19:23:40Z",
     "url": "https://github.com/debashisn94/local-rag-companion"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-01T19:23:26Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2080,
-    "updated_at": "2026-09-01T19:22:02Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-01T19:21:39Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1348,
-    "updated_at": "2026-09-01T19:19:29Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-01T18:56:02Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11328,
-    "updated_at": "2026-09-01T18:54:56Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
-    "id": "M4F-S/gomaa",
-    "language": "Python",
-    "name": "M4F-S/gomaa",
-    "stars": 30,
-    "updated_at": "2026-09-01T18:46:35Z",
-    "url": "https://github.com/M4F-S/gomaa"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9219,
-    "updated_at": "2026-09-01T19:09:22Z",
-    "url": "https://github.com/paradedb/paradedb"
   }
 ]
