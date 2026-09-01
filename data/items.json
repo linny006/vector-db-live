@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T10:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 90,
+    "updated_at": "2026-09-01T10:27:12Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-09-01T10:24:28Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
     "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "TypeScript",
     "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-09-01T10:14:40Z",
+    "updated_at": "2026-09-01T10:21:58Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-01T10:16:56Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-01T10:16:38Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T10:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-01T10:09:37Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-01T10:05:00Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Local, Offline Documentation Context Server (MCP) for LLMs & AI Coding Agents",
@@ -27,40 +99,13 @@
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-01T10:01:52Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
     "id": "qdrant/skills",
     "language": "Python",
     "name": "qdrant/skills",
     "stars": 229,
-    "updated_at": "2026-09-01T10:00:35Z",
+    "updated_at": "2026-09-01T10:24:00Z",
     "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T10:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T10:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "- ",
@@ -81,12 +126,21 @@
     "url": "https://github.com/oracle/ai-optimizer"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45915,
+    "updated_at": "2026-09-01T10:19:45Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-09-01T09:56:47Z",
+    "updated_at": "2026-09-01T10:25:02Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -126,15 +180,6 @@
     "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-01T10:05:00Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -149,7 +194,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7073,
-    "updated_at": "2026-09-01T09:43:45Z",
+    "updated_at": "2026-09-01T10:25:47Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -157,7 +202,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2806,
+    "stars": 2807,
     "updated_at": "2026-09-01T09:42:06Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -169,33 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T09:41:45Z",
     "url": "https://github.com/MuhammadMurtuzaZafar/Qdrant-MCP-Server"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 90,
-    "updated_at": "2026-09-01T09:40:41Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-01T10:09:37Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-01T10:10:57Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "\u1ee8ng d\u1ee5ng tr\u1ee3 l\u00fd AI t\u01b0 v\u1ea5n lu\u1eadt giao th\u00f4ng \u0111\u01b0\u1eddng b\u1ed9 d\u00e0nh cho desktop Windows ch\u1ea1y 100% offline",
@@ -229,7 +247,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35469,
+    "stars": 35470,
     "updated_at": "2026-09-01T09:33:15Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -239,7 +257,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34310,
-    "updated_at": "2026-09-01T10:02:05Z",
+    "updated_at": "2026-09-01T10:21:22Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 275,
-    "updated_at": "2026-09-01T09:30:09Z",
+    "updated_at": "2026-09-01T10:16:25Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -286,15 +304,6 @@
     "stars": 1348,
     "updated_at": "2026-09-01T09:15:18Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45914,
-    "updated_at": "2026-09-01T09:57:05Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "GameCrew AI: a game publishing AI team for multi-agent orchestration, vector knowledge memory and high-quality delivery",
@@ -365,7 +374,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 8,
-    "updated_at": "2026-09-01T08:34:24Z",
+    "updated_at": "2026-09-01T10:29:18Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1117,
-    "updated_at": "2026-09-01T10:08:00Z",
+    "updated_at": "2026-09-01T10:23:03Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T08:02:57Z",
     "url": "https://github.com/lekli-1/ai-chatbot"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 12990,
-    "updated_at": "2026-09-01T08:02:06Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   }
 ]
