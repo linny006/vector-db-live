@@ -1,21 +1,66 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T19:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-01T19:45:20Z",
+    "updated_at": "2026-09-01T20:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-09-01T19:58:58Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "",
+    "id": "techplanshetyapps/ai-application-layer",
+    "language": "Jupyter Notebook",
+    "name": "techplanshetyapps/ai-application-layer",
+    "stars": 0,
+    "updated_at": "2026-09-01T19:56:27Z",
+    "url": "https://github.com/techplanshetyapps/ai-application-layer"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-01T19:53:41Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Demo project. Semantic audio search for journalists",
+    "id": "hordiales/audio-semantic-search-for-journalists",
+    "language": "Python",
+    "name": "hordiales/audio-semantic-search-for-journalists",
+    "stars": 0,
+    "updated_at": "2026-09-01T19:51:55Z",
+    "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-09-01T19:51:38Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T19:48:16Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T19:45:07Z",
     "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "Demo project. Semantic audio search for journalists",
-    "id": "hordiales/audio-semantic-search-for-journalists",
-    "language": "Python",
-    "name": "hordiales/audio-semantic-search-for-journalists",
-    "stars": 0,
-    "updated_at": "2026-09-01T19:44:47Z",
-    "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
   },
   {
     "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
@@ -50,7 +86,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6391,
-    "updated_at": "2026-09-01T19:45:22Z",
+    "updated_at": "2026-09-01T19:54:05Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -81,15 +117,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-01T19:46:47Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
     "id": "christopherkarani/Wax",
     "language": "Swift",
@@ -97,15 +124,6 @@
     "stars": 789,
     "updated_at": "2026-09-01T19:32:39Z",
     "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-09-01T19:32:19Z",
-    "url": "https://github.com/23skdu/longbow"
   },
   {
     "description": "The AI search platform",
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30394,
-    "updated_at": "2026-09-01T19:34:28Z",
+    "updated_at": "2026-09-01T19:58:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -256,7 +274,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8167,
+    "stars": 8168,
     "updated_at": "2026-09-01T18:30:41Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -301,7 +319,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34321,
+    "stars": 34322,
     "updated_at": "2026-09-01T18:12:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -414,15 +432,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "",
-    "id": "techplanshetyapps/ai-application-layer",
-    "language": "Jupyter Notebook",
-    "name": "techplanshetyapps/ai-application-layer",
-    "stars": 0,
-    "updated_at": "2026-09-01T17:15:04Z",
-    "url": "https://github.com/techplanshetyapps/ai-application-layer"
-  },
-  {
     "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
     "id": "tuned-org-uk/arrowspace-rs",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-01T17:11:20Z",
     "url": "https://github.com/amirhosssein0/ai-platform-lab"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-09-01T17:07:32Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
