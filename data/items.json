@@ -1,5 +1,59 @@
 [
   {
+    "description": "Agentic RAG in Python: LangChain, LangGraph and pgvector, with hybrid retrieval, guardrails and a graded evaluation suit",
+    "id": "kleberbernardo/rag_agent",
+    "language": "Python",
+    "name": "kleberbernardo/rag_agent",
+    "stars": 1,
+    "updated_at": "2026-09-01T18:09:16Z",
+    "url": "https://github.com/kleberbernardo/rag_agent"
+  },
+  {
+    "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-01T18:03:36Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Self-hostable RAG for companies that can't send data to a third-party API. OpenAI-compatible, runs on your own infrastru",
+    "id": "debashisn94/local-rag-companion",
+    "language": "Python",
+    "name": "debashisn94/local-rag-companion",
+    "stars": 0,
+    "updated_at": "2026-09-01T18:02:14Z",
+    "url": "https://github.com/debashisn94/local-rag-companion"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T18:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T18:00:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 17,
+    "updated_at": "2026-09-01T17:58:33Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -9,22 +63,22 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
-    "id": "deven96/ahnlich",
-    "language": "Rust",
-    "name": "deven96/ahnlich",
-    "stars": 243,
-    "updated_at": "2026-09-01T17:52:46Z",
-    "url": "https://github.com/deven96/ahnlich"
+    "description": "Production-grade Natural Language to T-SQL assistant for complex relational databases (AdventureWorks). Combines Qdrant ",
+    "id": "mubashir-sohail-dev/omniquery-ai",
+    "language": "Python",
+    "name": "mubashir-sohail-dev/omniquery-ai",
+    "stars": 0,
+    "updated_at": "2026-09-01T17:57:33Z",
+    "url": "https://github.com/mubashir-sohail-dev/omniquery-ai"
   },
   {
-    "description": "Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type",
-    "id": "corvid-db/corvid",
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
     "language": "Rust",
-    "name": "corvid-db/corvid",
-    "stars": 1,
-    "updated_at": "2026-09-01T17:56:32Z",
-    "url": "https://github.com/corvid-db/corvid"
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-01T17:56:06Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "The AI search platform",
@@ -36,12 +90,57 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 243,
+    "updated_at": "2026-09-01T17:52:46Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
+    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
+    "id": "IronCoreLabs/ironcore-alloy",
+    "language": "Rust",
+    "name": "IronCoreLabs/ironcore-alloy",
+    "stars": 30,
+    "updated_at": "2026-09-01T18:15:06Z",
+    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
+  },
+  {
+    "description": "AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje",
+    "id": "karthikbilaspur/ai_learning",
+    "language": "TypeScript",
+    "name": "karthikbilaspur/ai_learning",
+    "stars": 2,
+    "updated_at": "2026-09-01T17:50:47Z",
+    "url": "https://github.com/karthikbilaspur/ai_learning"
+  },
+  {
+    "description": "Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type",
+    "id": "corvid-db/corvid",
+    "language": "Rust",
+    "name": "corvid-db/corvid",
+    "stars": 1,
+    "updated_at": "2026-09-01T17:56:32Z",
+    "url": "https://github.com/corvid-db/corvid"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45919,
+    "updated_at": "2026-09-01T17:49:31Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-01T17:46:19Z",
+    "updated_at": "2026-09-01T18:05:53Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -54,24 +153,6 @@
     "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T17:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T17:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
     "id": "RoxyAPI/ai-spiritual-companion",
     "language": "TypeScript",
@@ -81,15 +162,6 @@
     "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
   },
   {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 17,
-    "updated_at": "2026-09-01T17:58:33Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
     "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "TypeScript",
@@ -97,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T17:42:33Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-01T17:56:06Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
-    "id": "kleberbernardo/rag_agent",
-    "language": "Python",
-    "name": "kleberbernardo/rag_agent",
-    "stars": 1,
-    "updated_at": "2026-09-01T17:42:09Z",
-    "url": "https://github.com/kleberbernardo/rag_agent"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -148,7 +202,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65474,
+    "stars": 65475,
     "updated_at": "2026-09-01T17:35:35Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -158,7 +212,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-09-01T17:33:50Z",
+    "updated_at": "2026-09-01T18:11:33Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -214,15 +268,6 @@
     "stars": 4,
     "updated_at": "2026-09-01T17:11:20Z",
     "url": "https://github.com/amirhosssein0/ai-platform-lab"
-  },
-  {
-    "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-01T17:58:57Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -356,7 +401,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11328,
-    "updated_at": "2026-09-01T17:24:50Z",
+    "updated_at": "2026-09-01T18:08:40Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -374,7 +419,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9219,
-    "updated_at": "2026-09-01T17:50:32Z",
+    "updated_at": "2026-09-01T18:08:44Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 8168,
     "updated_at": "2026-09-01T17:52:57Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34320,
-    "updated_at": "2026-09-01T17:43:07Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1117,
-    "updated_at": "2026-09-01T16:17:31Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
-    "id": "api-evangelist/zilliz",
-    "language": "\u2014",
-    "name": "api-evangelist/zilliz",
-    "stars": 0,
-    "updated_at": "2026-09-01T15:55:37Z",
-    "url": "https://github.com/api-evangelist/zilliz"
-  },
-  {
-    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-09-01T15:51:36Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-09-01T15:49:20Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
   }
 ]
