@@ -1,11 +1,83 @@
 [
   {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-01T23:42:16Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-01T23:37:48Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Demo project. Semantic audio search for journalists",
+    "id": "hordiales/audio-semantic-search-for-journalists",
+    "language": "Python",
+    "name": "hordiales/audio-semantic-search-for-journalists",
+    "stars": 0,
+    "updated_at": "2026-09-01T23:36:09Z",
+    "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-01T23:33:30Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
+    "id": "tuned-org-uk/arrowspace-rs",
+    "language": "Rust",
+    "name": "tuned-org-uk/arrowspace-rs",
+    "stars": 42,
+    "updated_at": "2026-09-01T23:42:35Z",
+    "url": "https://github.com/tuned-org-uk/arrowspace-rs"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11328,
+    "updated_at": "2026-09-01T23:32:04Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T23:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T23:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
     "id": "rostamlabs/rostam",
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 25,
-    "updated_at": "2026-09-01T23:28:18Z",
+    "updated_at": "2026-09-01T23:41:05Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -45,22 +117,13 @@
     "url": "https://github.com/monaccode/astromesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T23:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T23:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "VectifyAI/PageIndex",
+    "stars": 35479,
+    "updated_at": "2026-09-01T23:15:39Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -68,7 +131,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9219,
-    "updated_at": "2026-09-01T23:20:18Z",
+    "updated_at": "2026-09-01T23:42:10Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -88,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T23:08:29Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-01T23:07:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-01T23:06:11Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -142,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T23:01:15Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35478,
-    "updated_at": "2026-09-01T23:15:39Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Unified multimodal backend for AI data apps",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T22:16:56Z",
     "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45920,
-    "updated_at": "2026-09-01T22:16:14Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-01T22:14:52Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-09-01T22:14:19Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
-    "id": "infiniflow/infinity",
-    "language": "C++",
-    "name": "infiniflow/infinity",
-    "stars": 4694,
-    "updated_at": "2026-09-01T22:13:08Z",
-    "url": "https://github.com/infiniflow/infinity"
   }
 ]
