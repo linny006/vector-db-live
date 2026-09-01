@@ -1,11 +1,101 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T10:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system",
+    "id": "skyzh/write-you-a-vector-db",
+    "language": "Rust",
+    "name": "skyzh/write-you-a-vector-db",
+    "stars": 793,
+    "updated_at": "2026-09-01T09:56:00Z",
+    "url": "https://github.com/skyzh/write-you-a-vector-db"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 840,
+    "updated_at": "2026-09-01T09:50:33Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
+    "id": "amirhosssein0/ai-platform-lab",
+    "language": "TypeScript",
+    "name": "amirhosssein0/ai-platform-lab",
+    "stars": 4,
+    "updated_at": "2026-09-01T09:50:33Z",
+    "url": "https://github.com/amirhosssein0/ai-platform-lab"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-09-01T09:47:52Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-01T10:00:07Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3276,
+    "updated_at": "2026-09-01T09:46:16Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-01T09:46:05Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T09:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7073,
+    "updated_at": "2026-09-01T09:43:45Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-09-01T09:42:20Z",
+    "updated_at": "2026-09-01T09:56:47Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -27,13 +117,22 @@
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
+    "description": "Generic Qdrant MCP server -- store/find/list/delete over any collection, using a plain (unnamed) vector so it matches co",
+    "id": "MuhammadMurtuzaZafar/Qdrant-MCP-Server",
+    "language": "Python",
+    "name": "MuhammadMurtuzaZafar/Qdrant-MCP-Server",
     "stars": 0,
-    "updated_at": "2026-09-01T09:40:55Z",
-    "url": "https://github.com/tamnd/yo"
+    "updated_at": "2026-09-01T09:41:45Z",
+    "url": "https://github.com/MuhammadMurtuzaZafar/Qdrant-MCP-Server"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 90,
+    "updated_at": "2026-09-01T09:40:41Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -52,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-09-01T09:37:09Z",
     "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3276,
-    "updated_at": "2026-09-01T09:37:02Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
     "description": "\u1ee8ng d\u1ee5ng tr\u1ee3 l\u00fd AI t\u01b0 v\u1ea5n lu\u1eadt giao th\u00f4ng \u0111\u01b0\u1eddng b\u1ed9 d\u00e0nh cho desktop Windows ch\u1ea1y 100% offline",
@@ -90,6 +180,15 @@
     "url": "https://github.com/xbsheng/ai-from-scratch"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34310,
+    "updated_at": "2026-09-01T09:58:17Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
     "id": "feather-store/feather",
     "language": "Python",
@@ -99,22 +198,13 @@
     "url": "https://github.com/feather-store/feather"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T09:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T09:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 275,
+    "updated_at": "2026-09-01T09:30:09Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "Native Rust vector and full-text engine",
@@ -126,15 +216,6 @@
     "url": "https://github.com/A3S-Lab/Vec"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "unohee/OpenSwarm",
-    "language": "TypeScript",
-    "name": "unohee/OpenSwarm",
-    "stars": 840,
-    "updated_at": "2026-09-01T09:40:47Z",
-    "url": "https://github.com/unohee/OpenSwarm"
-  },
-  {
     "description": "Vector db working in peer 2 peer, with minimal dependencies and resource requirement",
     "id": "cenkcorapci/Aster",
     "language": "C++",
@@ -142,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-09-01T09:19:07Z",
     "url": "https://github.com/cenkcorapci/Aster"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7073,
-    "updated_at": "2026-09-01T09:43:45Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -167,7 +239,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45914,
-    "updated_at": "2026-09-01T09:05:27Z",
+    "updated_at": "2026-09-01T09:57:05Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -196,15 +268,6 @@
     "stars": 3,
     "updated_at": "2026-09-01T09:06:59Z",
     "url": "https://github.com/pardnchiu/ToriiDB"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 90,
-    "updated_at": "2026-09-01T09:40:41Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -248,7 +311,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9430,
-    "updated_at": "2026-09-01T09:12:39Z",
+    "updated_at": "2026-09-01T09:45:51Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -259,15 +322,6 @@
     "stars": 6390,
     "updated_at": "2026-09-01T09:01:52Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
-    "id": "amirhosssein0/ai-platform-lab",
-    "language": "TypeScript",
-    "name": "amirhosssein0/ai-platform-lab",
-    "stars": 4,
-    "updated_at": "2026-09-01T08:25:39Z",
-    "url": "https://github.com/amirhosssein0/ai-platform-lab"
   },
   {
     "description": "Benchmark for vector databases.",
@@ -293,7 +347,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1117,
-    "updated_at": "2026-09-01T09:40:54Z",
+    "updated_at": "2026-09-01T09:46:35Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -320,7 +374,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-01T09:23:14Z",
+    "updated_at": "2026-09-01T09:47:48Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 75,
     "updated_at": "2026-09-01T09:42:30Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Open-source RAG backend for document ingestion and AI-powered chat with on-premise LLMs",
-    "id": "ExMachinaSAGL/cosmo42-open",
-    "language": "Java",
-    "name": "ExMachinaSAGL/cosmo42-open",
-    "stars": 4,
-    "updated_at": "2026-09-01T07:34:17Z",
-    "url": "https://github.com/ExMachinaSAGL/cosmo42-open"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:32:18Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-09-01T07:24:54Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-01T07:23:48Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
-    "id": "Shitless-jnr3697/rebasis",
-    "language": "Python",
-    "name": "Shitless-jnr3697/rebasis",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:22:50Z",
-    "url": "https://github.com/Shitless-jnr3697/rebasis"
-  },
-  {
-    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
-    "id": "boulif781/enterprise-knowledge-assistant",
-    "language": "\u2014",
-    "name": "boulif781/enterprise-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:20:50Z",
-    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
   }
 ]
