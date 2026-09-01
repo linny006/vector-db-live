@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-01T19:15:21Z",
+    "updated_at": "2026-09-01T19:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-01T19:30:06Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30394,
+    "updated_at": "2026-09-01T19:25:40Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-01T19:23:26Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 789,
+    "updated_at": "2026-09-01T19:30:18Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1348,
+    "updated_at": "2026-09-01T19:19:29Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T19:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-01T19:07:47Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A minimal storage layer for storing large matrices and embeddings",
@@ -16,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-09-01T19:15:07Z",
     "url": "https://github.com/tuned-org-uk/genegraph-storage"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T19:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -54,15 +108,6 @@
     "url": "https://github.com/structured-world/coordinode"
   },
   {
-    "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-01T19:04:25Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
     "id": "M4F-S/gomaa",
     "language": "Python",
@@ -79,15 +124,6 @@
     "stars": 9219,
     "updated_at": "2026-09-01T19:09:22Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-01T19:07:47Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -176,8 +212,17 @@
     "language": "Python",
     "name": "debashisn94/local-rag-companion",
     "stars": 0,
-    "updated_at": "2026-09-01T19:14:50Z",
+    "updated_at": "2026-09-01T19:23:40Z",
     "url": "https://github.com/debashisn94/local-rag-companion"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34321,
+    "updated_at": "2026-09-01T18:12:05Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -185,7 +230,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-01T18:49:15Z",
+    "updated_at": "2026-09-01T19:21:39Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T17:57:33Z",
     "url": "https://github.com/mubashir-sohail-dev/omniquery-ai"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-01T17:56:06Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "The AI search platform",
@@ -302,7 +338,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2079,
-    "updated_at": "2026-09-01T17:36:51Z",
+    "updated_at": "2026-09-01T19:22:02Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -329,17 +365,8 @@
     "language": "Go",
     "name": "23skdu/longbow",
     "stars": 13,
-    "updated_at": "2026-09-01T17:27:16Z",
+    "updated_at": "2026-09-01T19:27:12Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1348,
-    "updated_at": "2026-09-01T19:10:12Z",
-    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -378,15 +405,6 @@
     "url": "https://github.com/amirhosssein0/ai-platform-lab"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30395,
-    "updated_at": "2026-09-01T19:11:32Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -400,7 +418,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51969,
+    "stars": 51970,
     "updated_at": "2026-09-01T16:58:06Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -430,23 +448,5 @@
     "stars": 166,
     "updated_at": "2026-09-01T16:49:47Z",
     "url": "https://github.com/mirkobozzetto/flowflow"
-  },
-  {
-    "description": "A simple Docker Compose setup for self-hosting the Qdrant vector database. Includes persistent storage, management scrip",
-    "id": "AiratTop/qdrant-self-hosted",
-    "language": "Shell",
-    "name": "AiratTop/qdrant-self-hosted",
-    "stars": 3,
-    "updated_at": "2026-09-01T16:44:05Z",
-    "url": "https://github.com/AiratTop/qdrant-self-hosted"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59167,
-    "updated_at": "2026-09-01T17:33:24Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   }
 ]
