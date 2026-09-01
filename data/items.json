@@ -1,5 +1,41 @@
 [
   {
+    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
+    "id": "kichikubeihei/CodeMemoryPrime",
+    "language": "Rust",
+    "name": "kichikubeihei/CodeMemoryPrime",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:59:38Z",
+    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
+  },
+  {
+    "description": "",
+    "id": "techplanshetyapps/ai-application-layer",
+    "language": "Jupyter Notebook",
+    "name": "techplanshetyapps/ai-application-layer",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:58:05Z",
+    "url": "https://github.com/techplanshetyapps/ai-application-layer"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 267,
+    "updated_at": "2026-09-01T14:54:36Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T14:45:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -25,6 +61,15 @@
     "stars": 0,
     "updated_at": "2026-09-01T14:41:01Z",
     "url": "https://github.com/sjtan2302/chat-with-your-docs"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-01T14:36:30Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
@@ -54,31 +99,13 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T14:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35472,
+    "stars": 35473,
     "updated_at": "2026-09-01T14:24:00Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "",
-    "id": "techplanshetyapps/ai-application-layer",
-    "language": "Jupyter Notebook",
-    "name": "techplanshetyapps/ai-application-layer",
-    "stars": 0,
-    "updated_at": "2026-09-01T14:22:13Z",
-    "url": "https://github.com/techplanshetyapps/ai-application-layer"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -86,8 +113,26 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-01T14:21:52Z",
+    "updated_at": "2026-09-01T14:46:19Z",
     "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
+    "id": "vishalChoudhary-git/ai-platform",
+    "language": "Python",
+    "name": "vishalChoudhary-git/ai-platform",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:19:41Z",
+    "url": "https://github.com/vishalChoudhary-git/ai-platform"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2809,
+    "updated_at": "2026-09-01T14:18:55Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "The AI search platform",
@@ -97,6 +142,24 @@
     "stars": 7073,
     "updated_at": "2026-09-01T14:18:43Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
+    "id": "varun29ankuS/shodh-redb",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-redb",
+    "stars": 6,
+    "updated_at": "2026-09-01T14:18:27Z",
+    "url": "https://github.com/varun29ankuS/shodh-redb"
+  },
+  {
+    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
+    "id": "api-evangelist/crate-io",
+    "language": "\u2014",
+    "name": "api-evangelist/crate-io",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:17:15Z",
+    "url": "https://github.com/api-evangelist/crate-io"
   },
   {
     "description": "A ready-to-use RAG chatbot workflow for n8n \u2014 upload your documents and let an AI agent answer questions from them. Uses",
@@ -117,13 +180,31 @@
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
+    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:15:56Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30390,
-    "updated_at": "2026-09-01T14:33:39Z",
+    "updated_at": "2026-09-01T14:47:04Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 16,
+    "updated_at": "2026-09-01T14:14:07Z",
+    "url": "https://github.com/integrallis/vectors"
   },
   {
     "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
@@ -135,6 +216,15 @@
     "url": "https://github.com/api-evangelist/chroma"
   },
   {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma-db",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma-db",
+    "stars": 0,
+    "updated_at": "2026-09-01T14:11:45Z",
+    "url": "https://github.com/api-evangelist/chroma-db"
+  },
+  {
     "description": "Native Rust vector and full-text engine",
     "id": "A3S-Lab/Vec",
     "language": "Rust",
@@ -142,6 +232,15 @@
     "stars": 1,
     "updated_at": "2026-09-01T14:10:13Z",
     "url": "https://github.com/A3S-Lab/Vec"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45920,
+    "updated_at": "2026-09-01T14:55:27Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -216,21 +315,12 @@
     "url": "https://github.com/nekozzz94/NekoAI-agents"
   },
   {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2808,
-    "updated_at": "2026-09-01T14:18:55Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
     "id": "inlaySQL/inlaysql",
     "language": "Rust",
     "name": "inlaySQL/inlaysql",
     "stars": 2,
-    "updated_at": "2026-09-01T13:52:20Z",
+    "updated_at": "2026-09-01T14:51:05Z",
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
@@ -284,7 +374,7 @@
     "language": "C++",
     "name": "zilliztech/knowhere",
     "stars": 379,
-    "updated_at": "2026-09-01T13:43:20Z",
+    "updated_at": "2026-09-01T14:57:33Z",
     "url": "https://github.com/zilliztech/knowhere"
   },
   {
@@ -311,17 +401,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16776,
-    "updated_at": "2026-09-01T14:27:22Z",
+    "updated_at": "2026-09-01T14:56:43Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-01T14:36:30Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -329,7 +410,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-01T14:42:08Z",
+    "updated_at": "2026-09-01T14:55:25Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -360,15 +441,6 @@
     "url": "https://github.com/Sugumaran-Balasubramaniyan/enterprise-agentic-rag"
   },
   {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 267,
-    "updated_at": "2026-09-01T14:23:59Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
     "description": "- ",
     "id": "Chief-Strategist-J/llm-observability-platform",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-01T13:25:39Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T13:22:19Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9431,
-    "updated_at": "2026-09-01T14:41:06Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-09-01T14:29:25Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2279,
-    "updated_at": "2026-09-01T13:11:59Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-01T13:10:54Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-01T13:06:28Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-01T13:00:34Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 4,
-    "updated_at": "2026-09-01T12:58:39Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
   }
 ]
