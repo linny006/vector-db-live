@@ -1,5 +1,59 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-01T10:14:40Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Local, Offline Documentation Context Server (MCP) for LLMs & AI Coding Agents",
+    "id": "garnizeh/memex",
+    "language": "Rust",
+    "name": "garnizeh/memex",
+    "stars": 0,
+    "updated_at": "2026-09-01T10:04:27Z",
+    "url": "https://github.com/garnizeh/memex"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3276,
+    "updated_at": "2026-09-01T10:02:37Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-01T10:01:52Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 229,
+    "updated_at": "2026-09-01T10:00:35Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T10:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +61,33 @@
     "stars": 3,
     "updated_at": "2026-09-01T10:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 5,
+    "updated_at": "2026-09-01T09:59:53Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
+    "id": "oracle/ai-optimizer",
+    "language": "Python",
+    "name": "oracle/ai-optimizer",
+    "stars": 100,
+    "updated_at": "2026-09-01T09:58:32Z",
+    "url": "https://github.com/oracle/ai-optimizer"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-09-01T09:56:47Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system",
@@ -45,22 +126,13 @@
     "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-01T10:00:07Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3276,
-    "updated_at": "2026-09-01T09:46:16Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-01T10:05:00Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -72,15 +144,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T09:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -90,31 +153,13 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-09-01T09:56:47Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2805,
+    "stars": 2806,
     "updated_at": "2026-09-01T09:42:06Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-01T09:41:47Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
     "description": "Generic Qdrant MCP server -- store/find/list/delete over any collection, using a plain (unnamed) vector so it matches co",
@@ -140,7 +185,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-09-01T09:37:27Z",
+    "updated_at": "2026-09-01T10:09:37Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "inlaySQL/inlaysql",
     "stars": 2,
-    "updated_at": "2026-09-01T09:37:09Z",
+    "updated_at": "2026-09-01T10:10:57Z",
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
@@ -180,12 +225,21 @@
     "url": "https://github.com/xbsheng/ai-from-scratch"
   },
   {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35469,
+    "updated_at": "2026-09-01T09:33:15Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34310,
-    "updated_at": "2026-09-01T09:58:17Z",
+    "updated_at": "2026-09-01T10:02:05Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -270,6 +324,15 @@
     "url": "https://github.com/pardnchiu/ToriiDB"
   },
   {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6228,
+    "updated_at": "2026-09-01T08:47:18Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -338,7 +401,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8167,
-    "updated_at": "2026-09-01T08:21:59Z",
+    "updated_at": "2026-09-01T10:09:53Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -347,7 +410,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1117,
-    "updated_at": "2026-09-01T09:46:35Z",
+    "updated_at": "2026-09-01T10:08:00Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -369,15 +432,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-01T09:47:48Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Customer service RAG chatbot to provide accurate answers to questions using a knowledge base, which is a vector database",
     "id": "lekli-1/ai-chatbot",
     "language": "Python",
@@ -387,15 +441,6 @@
     "url": "https://github.com/lekli-1/ai-chatbot"
   },
   {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35468,
-    "updated_at": "2026-09-01T09:33:15Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -403,50 +448,5 @@
     "stars": 12990,
     "updated_at": "2026-09-01T08:02:06Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "A local-first looking glass for Claude Code and Codex JSONL histories, powered by LanceDB.",
-    "id": "Soul-Brews-Studio/lanceglass",
-    "language": "TypeScript",
-    "name": "Soul-Brews-Studio/lanceglass",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:55:39Z",
-    "url": "https://github.com/Soul-Brews-Studio/lanceglass"
-  },
-  {
-    "description": "Production-ready async RAG microservice built with FastAPI, Qdrant vector database, Groq LLM, and Pydantic validation. I",
-    "id": "sueshahtunn2002-dev/async-rag-fastapi",
-    "language": "Python",
-    "name": "sueshahtunn2002-dev/async-rag-fastapi",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:48:24Z",
-    "url": "https://github.com/sueshahtunn2002-dev/async-rag-fastapi"
-  },
-  {
-    "description": "Multi-source RAG assistant for querying PDF, DOCX, TXT, and CSV documents using semantic search, ChromaDB, Ollama, and S",
-    "id": "seyfe2023/AI-MultiSource-RAG",
-    "language": "Python",
-    "name": "seyfe2023/AI-MultiSource-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:45:51Z",
-    "url": "https://github.com/seyfe2023/AI-MultiSource-RAG"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1619,
-    "updated_at": "2026-09-01T07:43:00Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 75,
-    "updated_at": "2026-09-01T09:42:30Z",
-    "url": "https://github.com/infino-ai/infino"
   }
 ]
