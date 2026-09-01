@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T19:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +16,15 @@
     "stars": 3,
     "updated_at": "2026-09-01T19:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-09-01T19:45:07Z",
+    "url": "https://github.com/api-evangelist/aerospike"
   },
   {
     "description": "Demo project. Semantic audio search for journalists",
@@ -50,7 +68,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-09-01T19:38:00Z",
+    "updated_at": "2026-09-01T19:46:25Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -68,7 +86,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-01T19:33:22Z",
+    "updated_at": "2026-09-01T19:46:47Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -97,15 +115,6 @@
     "stars": 7075,
     "updated_at": "2026-09-01T19:30:43Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T19:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -247,7 +256,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8168,
+    "stars": 8167,
     "updated_at": "2026-09-01T18:30:41Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -439,14 +448,5 @@
     "stars": 1881,
     "updated_at": "2026-09-01T17:07:32Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 51970,
-    "updated_at": "2026-09-01T16:58:06Z",
-    "url": "https://github.com/run-llama/llama_index"
   }
 ]
