@@ -1,5 +1,68 @@
 [
   {
+    "description": "Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type",
+    "id": "corvid-db/corvid",
+    "language": "Rust",
+    "name": "corvid-db/corvid",
+    "stars": 1,
+    "updated_at": "2026-09-01T04:14:22Z",
+    "url": "https://github.com/corvid-db/corvid"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-01T04:11:02Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-01T04:10:32Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1459,
+    "updated_at": "2026-09-01T04:08:31Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Demo project. Semantic audio search for journalists",
+    "id": "hordiales/audio-semantic-search-for-journalists",
+    "language": "Python",
+    "name": "hordiales/audio-semantic-search-for-journalists",
+    "stars": 0,
+    "updated_at": "2026-09-01T04:05:54Z",
+    "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
+  },
+  {
+    "description": "The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne",
+    "id": "angrysky56/emotion_ai",
+    "language": "Python",
+    "name": "angrysky56/emotion_ai",
+    "stars": 11,
+    "updated_at": "2026-09-01T04:03:22Z",
+    "url": "https://github.com/angrysky56/emotion_ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T04:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -72,15 +135,6 @@
     "url": "https://github.com/supremeloki/vector-db-adapter"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T03:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI-powered search engine over course subtitles (SRT/VTT) using Advanced RAG patterns (HyDE, Step-Back, Parallel Fan-Out,",
     "id": "PuneetShivaay/CourseAI",
     "language": "JavaScript",
@@ -115,15 +169,6 @@
     "stars": 1116,
     "updated_at": "2026-09-01T03:53:48Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-01T03:39:52Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Native Rust vector and full-text engine",
@@ -189,15 +234,6 @@
     "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
   },
   {
-    "description": "Demo project. Semantic audio search for journalists",
-    "id": "hordiales/audio-semantic-search-for-journalists",
-    "language": "Python",
-    "name": "hordiales/audio-semantic-search-for-journalists",
-    "stars": 0,
-    "updated_at": "2026-09-01T03:19:10Z",
-    "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
-  },
-  {
     "description": "AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti",
     "id": "rvarun03/ARIOS",
     "language": "Python",
@@ -212,7 +248,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16772,
-    "updated_at": "2026-09-01T03:58:54Z",
+    "updated_at": "2026-09-01T04:12:36Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 6,
-    "updated_at": "2026-09-01T01:51:36Z",
+    "updated_at": "2026-09-01T04:14:05Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T01:01:15Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "OceanBase is the unified distributed database for the AI era \u2014 open-source, multi-model, one engine for your most demand",
-    "id": "oceanbase/oceanbase",
-    "language": "C++",
-    "name": "oceanbase/oceanbase",
-    "stars": 10259,
-    "updated_at": "2026-09-01T01:01:11Z",
-    "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:57:21Z",
-    "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-01T00:51:19Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Postgres MCP Server",
-    "id": "devopam/MCPg",
-    "language": "Python",
-    "name": "devopam/MCPg",
-    "stars": 9,
-    "updated_at": "2026-09-01T00:38:32Z",
-    "url": "https://github.com/devopam/MCPg"
   }
 ]
