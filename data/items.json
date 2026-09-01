@@ -1,5 +1,32 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T18:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45919,
+    "updated_at": "2026-09-01T18:23:25Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T18:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Agentic RAG in Python: LangChain, LangGraph and pgvector, with hybrid retrieval, guardrails and a graded evaluation suit",
     "id": "kleberbernardo/rag_agent",
     "language": "Python",
@@ -7,6 +34,15 @@
     "stars": 1,
     "updated_at": "2026-09-01T18:09:16Z",
     "url": "https://github.com/kleberbernardo/rag_agent"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-01T18:05:53Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
@@ -23,26 +59,8 @@
     "language": "Python",
     "name": "debashisn94/local-rag-companion",
     "stars": 0,
-    "updated_at": "2026-09-01T18:02:14Z",
+    "updated_at": "2026-09-01T18:17:09Z",
     "url": "https://github.com/debashisn94/local-rag-companion"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T18:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T18:00:28Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -50,7 +68,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-01T17:58:33Z",
+    "updated_at": "2026-09-01T18:23:09Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -86,7 +104,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7075,
-    "updated_at": "2026-09-01T17:56:04Z",
+    "updated_at": "2026-09-01T18:30:08Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -126,24 +144,6 @@
     "url": "https://github.com/corvid-db/corvid"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45919,
-    "updated_at": "2026-09-01T17:49:31Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-01T18:05:53Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Demo project. Semantic audio search for journalists",
     "id": "hordiales/audio-semantic-search-for-journalists",
     "language": "Python",
@@ -167,7 +167,7 @@
     "language": "TypeScript",
     "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-09-01T17:42:33Z",
+    "updated_at": "2026-09-01T18:27:43Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
@@ -202,7 +202,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65475,
+    "stars": 65476,
     "updated_at": "2026-09-01T17:35:35Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -274,7 +274,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30394,
+    "stars": 30395,
     "updated_at": "2026-09-01T17:09:16Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -311,7 +311,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 6,
-    "updated_at": "2026-09-01T17:58:10Z",
+    "updated_at": "2026-09-01T18:29:16Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
@@ -419,7 +419,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9219,
-    "updated_at": "2026-09-01T18:08:44Z",
+    "updated_at": "2026-09-01T18:27:32Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -428,7 +428,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9432,
-    "updated_at": "2026-09-01T17:59:05Z",
+    "updated_at": "2026-09-01T18:22:26Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
