@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T04:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "techplanshetyapps/ai-application-layer",
+    "language": "JavaScript",
+    "name": "techplanshetyapps/ai-application-layer",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:56:33Z",
+    "url": "https://github.com/techplanshetyapps/ai-application-layer"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65446,
+    "updated_at": "2026-09-01T03:54:55Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 275,
+    "updated_at": "2026-09-01T03:58:57Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "Run-it-yourself benchmarks comparing Semurg to leading open-source databases across eleven data domains - on your own ha",
+    "id": "One-Semurg/Semurg-Benchmark-Suite",
+    "language": "Shell",
+    "name": "One-Semurg/Semurg-Benchmark-Suite",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:52:54Z",
+    "url": "https://github.com/One-Semurg/Semurg-Benchmark-Suite"
+  },
+  {
+    "description": "AI BootCamp & Support Ops Copilot",
+    "id": "mashal-shakeel/tech",
+    "language": "\u2014",
+    "name": "mashal-shakeel/tech",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:51:53Z",
+    "url": "https://github.com/mashal-shakeel/tech"
+  },
+  {
+    "description": "Official one-command installer for Semurg. Downloads and runs the released Semurg engine \u2014 your first node is always fre",
+    "id": "One-Semurg/Semurg-Install",
+    "language": "Shell",
+    "name": "One-Semurg/Semurg-Install",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:49:38Z",
+    "url": "https://github.com/One-Semurg/Semurg-Install"
+  },
+  {
+    "description": "",
+    "id": "supremeloki/vector-db-adapter",
+    "language": "Python",
+    "name": "supremeloki/vector-db-adapter",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:45:26Z",
+    "url": "https://github.com/supremeloki/vector-db-adapter"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T03:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-powered search engine over course subtitles (SRT/VTT) using Advanced RAG patterns (HyDE, Step-Back, Parallel Fan-Out,",
+    "id": "PuneetShivaay/CourseAI",
+    "language": "JavaScript",
+    "name": "PuneetShivaay/CourseAI",
+    "stars": 0,
+    "updated_at": "2026-09-01T03:45:11Z",
+    "url": "https://github.com/PuneetShivaay/CourseAI"
+  },
+  {
     "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
     "id": "vishalChoudhary-git/ai-platform",
     "language": "Python",
@@ -23,7 +113,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1116,
-    "updated_at": "2026-09-01T03:40:15Z",
+    "updated_at": "2026-09-01T03:53:48Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -54,6 +144,15 @@
     "url": "https://github.com/piyalidas10/AI"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34304,
+    "updated_at": "2026-09-01T03:31:57Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
     "id": "tamnd/yo",
     "language": "Rust",
@@ -61,33 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T03:31:14Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T03:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T03:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65445,
-    "updated_at": "2026-09-01T03:27:18Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -140,7 +212,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16772,
-    "updated_at": "2026-09-01T03:38:54Z",
+    "updated_at": "2026-09-01T03:58:54Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -180,31 +252,13 @@
     "url": "https://github.com/frogdb/frogdb"
   },
   {
-    "description": "",
-    "id": "techplanshetyapps/ai-application-layer",
-    "language": "\u2014",
-    "name": "techplanshetyapps/ai-application-layer",
-    "stars": 0,
-    "updated_at": "2026-09-01T02:40:09Z",
-    "url": "https://github.com/techplanshetyapps/ai-application-layer"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9429,
-    "updated_at": "2026-09-01T03:23:37Z",
+    "updated_at": "2026-09-01T03:49:51Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Run-it-yourself benchmarks comparing Semurg to leading open-source databases across eleven data domains - on your own ha",
-    "id": "One-Semurg/Semurg-Benchmark-Suite",
-    "language": "Shell",
-    "name": "One-Semurg/Semurg-Benchmark-Suite",
-    "stars": 0,
-    "updated_at": "2026-09-01T03:44:34Z",
-    "url": "https://github.com/One-Semurg/Semurg-Benchmark-Suite"
   },
   {
     "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
@@ -275,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8165,
-    "updated_at": "2026-09-01T01:51:40Z",
+    "updated_at": "2026-09-01T03:46:28Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 9,
     "updated_at": "2026-09-01T00:38:32Z",
     "url": "https://github.com/devopam/MCPg"
-  },
-  {
-    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 8,
-    "updated_at": "2026-09-01T03:35:05Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "Modular RAG pipeline: ingestion \u2192 chunking \u2192 embeddings \u2192 vectordb \u2192 retrieval \u2192 llm \u2192 api",
-    "id": "Zekiog/rag-project",
-    "language": "Python",
-    "name": "Zekiog/rag-project",
-    "stars": 2,
-    "updated_at": "2026-09-01T00:33:07Z",
-    "url": "https://github.com/Zekiog/rag-project"
-  },
-  {
-    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
-    "id": "Shitless-jnr3697/rebasis",
-    "language": "Python",
-    "name": "Shitless-jnr3697/rebasis",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:27:21Z",
-    "url": "https://github.com/Shitless-jnr3697/rebasis"
-  },
-  {
-    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
-    "id": "boulif781/enterprise-knowledge-assistant",
-    "language": "\u2014",
-    "name": "boulif781/enterprise-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-01T00:25:57Z",
-    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 1,
-    "updated_at": "2026-09-01T00:23:23Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-09-01T00:22:58Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
   }
 ]
