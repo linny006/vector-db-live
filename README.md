@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-01 01:57 UTC
+> ⏰ Last updated: 2026-09-01 02:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45911 | Go | 2026-09-01 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 2 | [One-Semurg/Semurg-Benchmark-Suite](https://github.com/One-Semurg/Semurg-Benchmark-Suite) | 0 | Shell | 2026-09-01 | Run-it-yourself benchmarks comparing Semurg to leading open-source databases across eleven data domains - on your own ha |
-| 3 | [varun29ankuS/shodh-redb](https://github.com/varun29ankuS/shodh-redb) | 6 | Rust | 2026-09-01 | Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel,  |
-| 4 | [NGT-labs/NGT](https://github.com/NGT-labs/NGT) | 1370 | C++ | 2026-09-01 | Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data |
-| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-09-01 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 6 | [OmniBioAI/omnibioai-dev-hub](https://github.com/OmniBioAI/omnibioai-dev-hub) | 1 | Python | 2026-09-01 | Multi-repo AI intelligence hub for OmniBioAI — hybrid retrieval system combining vector search, knowledge graph traversa |
-| 7 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-01 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 8 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16771 | Go | 2026-09-01 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
-| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-01 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 10 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-01 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 11 | [schwichtgit/ai-resume](https://github.com/schwichtgit/ai-resume) | 5 | Python | 2026-09-01 | AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv |
-| 12 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-09-01 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 13 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-01 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
-| 14 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 65440 | JavaScript | 2026-09-01 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 15 | [inlaySQL/inlaysql](https://github.com/inlaySQL/inlaysql) | 2 | Rust | 2026-09-01 | An embedded, serverless SQL database in Rust — one file, no server, MVCC concurrent writers, native vector + BM25 hybrid |
-| 16 | [rvarun03/ARIOS](https://github.com/rvarun03/ARIOS) | 0 | Python | 2026-09-01 | AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti |
-| 17 | [A3S-Lab/Vec](https://github.com/A3S-Lab/Vec) | 1 | Rust | 2026-09-01 | Native Rust vector and full-text engine |
-| 18 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 90 | Rust | 2026-09-01 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 19 | [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) | 166 | Rust | 2026-09-01 | Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite |
-| 20 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 8 | Rust | 2026-09-01 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
-| 21 | [iberi22/xavier](https://github.com/iberi22/xavier) | 0 | Rust | 2026-09-01 | Xavier — fast Rust vector memory & communal context runtime for AI agents (HTTP · CLI · MCP) |
+| 1 | [iberi22/xavier](https://github.com/iberi22/xavier) | 0 | Rust | 2026-09-01 | Xavier — fast Rust vector memory & communal context runtime for AI agents (HTTP · CLI · MCP) |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-01 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45911 | Go | 2026-09-01 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 4 | [One-Semurg/Semurg-Benchmark-Suite](https://github.com/One-Semurg/Semurg-Benchmark-Suite) | 0 | Shell | 2026-09-01 | Run-it-yourself benchmarks comparing Semurg to leading open-source databases across eleven data domains - on your own ha |
+| 5 | [varun29ankuS/shodh-redb](https://github.com/varun29ankuS/shodh-redb) | 6 | Rust | 2026-09-01 | Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel,  |
+| 6 | [NGT-labs/NGT](https://github.com/NGT-labs/NGT) | 1370 | C++ | 2026-09-01 | Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data |
+| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-09-01 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 8 | [OmniBioAI/omnibioai-dev-hub](https://github.com/OmniBioAI/omnibioai-dev-hub) | 1 | Python | 2026-09-01 | Multi-repo AI intelligence hub for OmniBioAI — hybrid retrieval system combining vector search, knowledge graph traversa |
+| 9 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-01 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 10 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 16771 | Go | 2026-09-01 | Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector  |
+| 11 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-01 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 12 | [schwichtgit/ai-resume](https://github.com/schwichtgit/ai-resume) | 5 | Python | 2026-09-01 | AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv |
+| 13 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-09-01 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 14 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-01 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 15 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 65441 | JavaScript | 2026-09-01 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 16 | [inlaySQL/inlaysql](https://github.com/inlaySQL/inlaysql) | 2 | Rust | 2026-09-01 | An embedded, serverless SQL database in Rust — one file, no server, MVCC concurrent writers, native vector + BM25 hybrid |
+| 17 | [rvarun03/ARIOS](https://github.com/rvarun03/ARIOS) | 0 | Python | 2026-09-01 | AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti |
+| 18 | [A3S-Lab/Vec](https://github.com/A3S-Lab/Vec) | 1 | Rust | 2026-09-01 | Native Rust vector and full-text engine |
+| 19 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 90 | Rust | 2026-09-01 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 20 | [mirkobozzetto/flowflow](https://github.com/mirkobozzetto/flowflow) | 166 | Rust | 2026-09-01 | Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite |
+| 21 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 8 | Rust | 2026-09-01 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
 | 22 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-09-01 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 23 | [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) | 10259 | C++ | 2026-09-01 | OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demand |
 | 24 | [ricmed/zettel_app](https://github.com/ricmed/zettel_app) | 0 | Python | 2026-09-01 | Adaptação do Método Zettelkasten, de gestão de conhecimento, para o mundo digital |
