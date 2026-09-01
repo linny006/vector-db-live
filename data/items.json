@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-09-01T13:02:25Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-09-01T13:15:04Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-01T13:00:34Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T13:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T13:15:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
     "id": "sattyamjjain/mnemo",
     "language": "Rust",
@@ -9,6 +54,33 @@
     "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-01T13:11:19Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-01T12:55:58Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "DocuBase is a RAG chatbot which can ingests multi-format documents and performs semantic search based on the query of us",
+    "id": "AdiXjaiswal/DocuBase",
+    "language": "Jupyter Notebook",
+    "name": "AdiXjaiswal/DocuBase",
+    "stars": 0,
+    "updated_at": "2026-09-01T12:55:44Z",
+    "url": "https://github.com/AdiXjaiswal/DocuBase"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -16,6 +88,15 @@
     "stars": 7,
     "updated_at": "2026-09-01T12:52:05Z",
     "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
+    "id": "neonwatty/meme-search",
+    "language": "Ruby",
+    "name": "neonwatty/meme-search",
+    "stars": 719,
+    "updated_at": "2026-09-01T12:51:35Z",
+    "url": "https://github.com/neonwatty/meme-search"
   },
   {
     "description": "Framework for benchmarking vector search engines",
@@ -36,33 +117,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-09-01T12:48:08Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T12:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T12:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI agent code examples",
     "id": "nekozzz94/NekoAI-agents",
     "language": "Python",
@@ -77,7 +131,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-09-01T12:43:11Z",
+    "updated_at": "2026-09-01T13:09:11Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -86,7 +140,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30388,
-    "updated_at": "2026-09-01T12:41:44Z",
+    "updated_at": "2026-09-01T13:14:40Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -112,7 +166,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45918,
+    "stars": 45919,
     "updated_at": "2026-09-01T12:38:35Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -131,7 +185,7 @@
     "language": "Jupyter Notebook",
     "name": "techplanshetyapps/ai-application-layer",
     "stars": 0,
-    "updated_at": "2026-09-01T12:32:29Z",
+    "updated_at": "2026-09-01T13:15:05Z",
     "url": "https://github.com/techplanshetyapps/ai-application-layer"
   },
   {
@@ -157,18 +211,9 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34313,
+    "stars": 34314,
     "updated_at": "2026-09-01T12:22:13Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-09-01T12:20:38Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "RAGFlow \u2014 independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev",
@@ -212,7 +257,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 2808,
-    "updated_at": "2026-09-01T12:59:29Z",
+    "updated_at": "2026-09-01T13:07:56Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11326,
-    "updated_at": "2026-09-01T12:08:50Z",
+    "updated_at": "2026-09-01T13:05:05Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -243,20 +288,11 @@
     "url": "https://github.com/Daaboulex/openviking-nix"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-01T12:58:25Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59162,
+    "stars": 59163,
     "updated_at": "2026-09-01T12:04:53Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "Chief-Strategist-J/llm-observability-platform",
     "stars": 5,
-    "updated_at": "2026-09-01T11:55:39Z",
+    "updated_at": "2026-09-01T13:13:09Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16776,
-    "updated_at": "2026-09-01T12:53:58Z",
+    "updated_at": "2026-09-01T13:14:14Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -355,18 +391,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1774,
+    "stars": 1775,
     "updated_at": "2026-09-01T11:35:44Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-01T12:55:58Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -392,7 +419,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6390,
-    "updated_at": "2026-09-01T12:57:48Z",
+    "updated_at": "2026-09-01T13:02:22Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T10:56:29Z",
     "url": "https://github.com/MASJV/gen-ai-fundamentals"
-  },
-  {
-    "description": "Advanced local-first RAG system powered by Ollama and LangGraph. Optimized for high-performance sLLM orchestration   fea",
-    "id": "darkzard05/rag-system-ollama",
-    "language": "Python",
-    "name": "darkzard05/rag-system-ollama",
-    "stars": 4,
-    "updated_at": "2026-09-01T10:48:03Z",
-    "url": "https://github.com/darkzard05/rag-system-ollama"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1117,
-    "updated_at": "2026-09-01T12:58:43Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "An AI-powered conversational application built with Next.js, LangChain, LangGraph, and OpenAI, featuring an agent-based ",
-    "id": "PalwinderSinghPaali/langchain-integrated-ai-chatbot",
-    "language": "JavaScript",
-    "name": "PalwinderSinghPaali/langchain-integrated-ai-chatbot",
-    "stars": 0,
-    "updated_at": "2026-09-01T10:45:33Z",
-    "url": "https://github.com/PalwinderSinghPaali/langchain-integrated-ai-chatbot"
   }
 ]
