@@ -1,5 +1,95 @@
 [
   {
+    "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
+    "id": "api-evangelist/marqo",
+    "language": "\u2014",
+    "name": "api-evangelist/marqo",
+    "stars": 0,
+    "updated_at": "2026-09-01T20:44:07Z",
+    "url": "https://github.com/api-evangelist/marqo"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 8,
+    "updated_at": "2026-09-01T20:41:23Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-01T20:40:50Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "LF AI and Data \u2014 independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation",
+    "id": "api-evangelist/lf-ai-and-data",
+    "language": "\u2014",
+    "name": "api-evangelist/lf-ai-and-data",
+    "stars": 0,
+    "updated_at": "2026-09-01T20:40:36Z",
+    "url": "https://github.com/api-evangelist/lf-ai-and-data"
+  },
+  {
+    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-09-01T20:39:17Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 90,
+    "updated_at": "2026-09-01T20:37:55Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-01T20:35:12Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-01T20:34:48Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
+    "id": "api-evangelist/ironcore-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ironcore-labs",
+    "stars": 0,
+    "updated_at": "2026-09-01T20:34:34Z",
+    "url": "https://github.com/api-evangelist/ironcore-labs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T20:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -72,15 +162,6 @@
     "url": "https://github.com/structured-world/coordinode-python"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T20:15:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
@@ -106,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T20:10:26Z",
     "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-01T20:08:51Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
@@ -184,7 +256,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30395,
+    "stars": 30397,
     "updated_at": "2026-09-01T20:01:36Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -194,7 +266,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-09-01T20:23:52Z",
+    "updated_at": "2026-09-01T20:42:56Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 9219,
     "updated_at": "2026-09-01T19:09:22Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-01T18:36:56Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Agentic RAG in Python: LangChain, LangGraph and pgvector, with hybrid retrieval, guardrails and a graded evaluation suit",
-    "id": "kleberbernardo/rag_agent",
-    "language": "Python",
-    "name": "kleberbernardo/rag_agent",
-    "stars": 1,
-    "updated_at": "2026-09-01T18:34:40Z",
-    "url": "https://github.com/kleberbernardo/rag_agent"
-  },
-  {
-    "description": "A comprehensive, production-focused guide to acing AI/ML system design interviews at top tech companies.",
-    "id": "ather-techie/ai-system-design-interview",
-    "language": "\u2014",
-    "name": "ather-techie/ai-system-design-interview",
-    "stars": 23,
-    "updated_at": "2026-09-01T18:32:54Z",
-    "url": "https://github.com/ather-techie/ai-system-design-interview"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (603 questions & 52 RAG types), system design scenarios, archi",
-    "id": "ather-techie/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "ather-techie/rag-interview-system",
-    "stars": 137,
-    "updated_at": "2026-09-01T18:31:15Z",
-    "url": "https://github.com/ather-techie/rag-interview-system"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8168,
-    "updated_at": "2026-09-01T18:30:41Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1117,
-    "updated_at": "2026-09-01T20:29:56Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45919,
-    "updated_at": "2026-09-01T20:09:59Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 17,
-    "updated_at": "2026-09-01T18:23:09Z",
-    "url": "https://github.com/mmnto-ai/totem"
   }
 ]
