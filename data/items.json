@@ -1,11 +1,119 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-09-01T09:42:20Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2805,
+    "updated_at": "2026-09-01T09:42:06Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-01T09:41:47Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-01T09:40:55Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-01T09:37:27Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-01T09:37:09Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3276,
+    "updated_at": "2026-09-01T09:37:02Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "\u1ee8ng d\u1ee5ng tr\u1ee3 l\u00fd AI t\u01b0 v\u1ea5n lu\u1eadt giao th\u00f4ng \u0111\u01b0\u1eddng b\u1ed9 d\u00e0nh cho desktop Windows ch\u1ea1y 100% offline",
+    "id": "UyTran0610/Traffic-Legal-Assistant",
+    "language": "Python",
+    "name": "UyTran0610/Traffic-Legal-Assistant",
+    "stars": 0,
+    "updated_at": "2026-09-01T09:35:59Z",
+    "url": "https://github.com/UyTran0610/Traffic-Legal-Assistant"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-09-01T09:36:07Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
+    "id": "xbsheng/ai-from-scratch",
+    "language": "Python",
+    "name": "xbsheng/ai-from-scratch",
+    "stars": 0,
+    "updated_at": "2026-09-01T09:35:37Z",
+    "url": "https://github.com/xbsheng/ai-from-scratch"
+  },
+  {
+    "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
+    "id": "feather-store/feather",
+    "language": "Python",
+    "name": "feather-store/feather",
+    "stars": 7,
+    "updated_at": "2026-09-01T09:30:52Z",
+    "url": "https://github.com/feather-store/feather"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T09:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-01T09:30:21Z",
+    "updated_at": "2026-09-01T09:45:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,13 +126,22 @@
     "url": "https://github.com/A3S-Lab/Vec"
   },
   {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2805,
-    "updated_at": "2026-09-01T09:25:12Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "unohee/OpenSwarm",
+    "language": "TypeScript",
+    "name": "unohee/OpenSwarm",
+    "stars": 840,
+    "updated_at": "2026-09-01T09:40:47Z",
+    "url": "https://github.com/unohee/OpenSwarm"
+  },
+  {
+    "description": "Vector db working in peer 2 peer, with minimal dependencies and resource requirement",
+    "id": "cenkcorapci/Aster",
+    "language": "C++",
+    "name": "cenkcorapci/Aster",
+    "stars": 2,
+    "updated_at": "2026-09-01T09:19:07Z",
+    "url": "https://github.com/cenkcorapci/Aster"
   },
   {
     "description": "The AI search platform",
@@ -32,17 +149,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7073,
-    "updated_at": "2026-09-01T09:22:11Z",
+    "updated_at": "2026-09-01T09:43:45Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T09:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -54,60 +162,6 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-09-01T09:12:17Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-01T09:11:37Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-09-01T09:27:45Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-01T09:10:43Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3276,
-    "updated_at": "2026-09-01T09:09:35Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-01T09:07:09Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -117,15 +171,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-01T09:03:25Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "GameCrew AI: a game publishing AI team for multi-agent orchestration, vector knowledge memory and high-quality delivery",
     "id": "realxuekun-commits/gamecrew-ai",
     "language": "JavaScript",
@@ -133,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-01T09:00:24Z",
     "url": "https://github.com/realxuekun-commits/gamecrew-ai"
-  },
-  {
-    "description": "Vector db working in peer 2 peer, with minimal dependencies and resource requirement",
-    "id": "cenkcorapci/Aster",
-    "language": "C++",
-    "name": "cenkcorapci/Aster",
-    "stars": 2,
-    "updated_at": "2026-09-01T09:19:07Z",
-    "url": "https://github.com/cenkcorapci/Aster"
   },
   {
     "description": "AI developer assistant for the Kalisio ecosystem",
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 90,
-    "updated_at": "2026-09-01T08:55:39Z",
+    "updated_at": "2026-09-01T09:40:41Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -225,15 +261,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
-    "id": "xbsheng/ai-from-scratch",
-    "language": "Python",
-    "name": "xbsheng/ai-from-scratch",
-    "stars": 0,
-    "updated_at": "2026-09-01T08:25:55Z",
-    "url": "https://github.com/xbsheng/ai-from-scratch"
-  },
-  {
     "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
     "id": "amirhosssein0/ai-platform-lab",
     "language": "TypeScript",
@@ -266,7 +293,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1117,
-    "updated_at": "2026-09-01T08:15:14Z",
+    "updated_at": "2026-09-01T09:40:54Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11326,
-    "updated_at": "2026-09-01T08:54:24Z",
+    "updated_at": "2026-09-01T09:32:31Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35468,
-    "updated_at": "2026-09-01T08:02:45Z",
+    "updated_at": "2026-09-01T09:33:15Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -365,7 +392,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 75,
-    "updated_at": "2026-09-01T07:39:40Z",
+    "updated_at": "2026-09-01T09:42:30Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T07:20:50Z",
     "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Production-ready PDF RAG chatbot built with Gemini 2.5 Flash, FAISS, and Streamlit",
-    "id": "swikarb69/pdf-rag-chatbot",
-    "language": "Python",
-    "name": "swikarb69/pdf-rag-chatbot",
-    "stars": 0,
-    "updated_at": "2026-09-01T07:18:45Z",
-    "url": "https://github.com/swikarb69/pdf-rag-chatbot"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 1,
-    "updated_at": "2026-09-01T07:18:44Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-09-01T07:18:20Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
   }
 ]
