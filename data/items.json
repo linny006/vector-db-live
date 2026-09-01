@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T12:00:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 5,
+    "updated_at": "2026-09-01T11:55:39Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "\ud83e\udd16 Enterprise Multi-Agent RAG Chatbot powered by Qdrant Vector Store, NeMo Guardrails, FlashRank Reranking, and Streamlit",
+    "id": "Slack-Hacker/Agentic-RAG-Based-Chatbot",
+    "language": "Jupyter Notebook",
+    "name": "Slack-Hacker/Agentic-RAG-Based-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-09-01T11:54:53Z",
+    "url": "https://github.com/Slack-Hacker/Agentic-RAG-Based-Chatbot"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-01T11:50:07Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "The open-source visual git-diff for vector embeddings\u2014detect semantic drift and search regression before changing your e",
+    "id": "shunvel/diffvector",
+    "language": "Python",
+    "name": "shunvel/diffvector",
+    "stars": 0,
+    "updated_at": "2026-09-01T11:49:28Z",
+    "url": "https://github.com/shunvel/diffvector"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-01T11:48:55Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30389,
+    "updated_at": "2026-09-01T11:54:50Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4432,
+    "updated_at": "2026-09-01T11:47:45Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T11:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -7,6 +88,15 @@
     "stars": 75,
     "updated_at": "2026-09-01T11:43:04Z",
     "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1348,
+    "updated_at": "2026-09-01T11:42:49Z",
+    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
@@ -23,8 +113,17 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 840,
-    "updated_at": "2026-09-01T11:41:04Z",
+    "updated_at": "2026-09-01T11:52:29Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "AI agent code examples",
+    "id": "nekozzz94/NekoAI-agents",
+    "language": "Python",
+    "name": "nekozzz94/NekoAI-agents",
+    "stars": 16,
+    "updated_at": "2026-09-01T12:00:24Z",
+    "url": "https://github.com/nekozzz94/NekoAI-agents"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -63,49 +162,13 @@
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T11:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T11:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "",
     "id": "techplanshetyapps/ai-application-layer",
     "language": "Jupyter Notebook",
     "name": "techplanshetyapps/ai-application-layer",
     "stars": 0,
-    "updated_at": "2026-09-01T11:30:02Z",
+    "updated_at": "2026-09-01T12:00:30Z",
     "url": "https://github.com/techplanshetyapps/ai-application-layer"
-  },
-  {
-    "description": "\ud83e\udd16 Enterprise Multi-Agent RAG Chatbot powered by Qdrant Vector Store, NeMo Guardrails, FlashRank Reranking, and Streamlit",
-    "id": "Slack-Hacker/RAG-based-Chatbot",
-    "language": "Jupyter Notebook",
-    "name": "Slack-Hacker/RAG-based-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-09-01T11:25:57Z",
-    "url": "https://github.com/Slack-Hacker/RAG-based-Chatbot"
-  },
-  {
-    "description": "The open-source visual git-diff for vector embeddings\u2014detect semantic drift and search regression before changing your e",
-    "id": "shunvel/diffvector",
-    "language": "Python",
-    "name": "shunvel/diffvector",
-    "stars": 0,
-    "updated_at": "2026-09-01T11:17:17Z",
-    "url": "https://github.com/shunvel/diffvector"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -130,7 +193,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45916,
+    "stars": 45917,
     "updated_at": "2026-09-01T11:09:26Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -167,7 +230,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8168,
-    "updated_at": "2026-09-01T11:26:09Z",
+    "updated_at": "2026-09-01T11:56:19Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -216,15 +279,6 @@
     "url": "https://github.com/PalwinderSinghPaali/langchain-integrated-ai-chatbot"
   },
   {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-01T10:44:54Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
     "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
     "id": "feather-store/feather",
     "language": "Python",
@@ -232,15 +286,6 @@
     "stars": 7,
     "updated_at": "2026-09-01T10:43:46Z",
     "url": "https://github.com/feather-store/feather"
-  },
-  {
-    "description": "AI agent code examples",
-    "id": "nekozzz94/NekoAI-agents",
-    "language": "Python",
-    "name": "nekozzz94/NekoAI-agents",
-    "stars": 16,
-    "updated_at": "2026-09-01T11:40:26Z",
-    "url": "https://github.com/nekozzz94/NekoAI-agents"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -333,24 +378,6 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30388,
-    "updated_at": "2026-09-01T11:36:06Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-01T11:41:06Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -387,15 +414,6 @@
     "url": "https://github.com/qdrant/skills"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 5,
-    "updated_at": "2026-09-01T09:59:53Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
     "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
     "id": "oracle/ai-optimizer",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-01T09:47:52Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-01T09:46:05Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7073,
-    "updated_at": "2026-09-01T11:44:29Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
