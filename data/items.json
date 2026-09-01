@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-01T12:15:23Z",
+    "updated_at": "2026-09-01T12:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent code examples",
+    "id": "nekozzz94/NekoAI-agents",
+    "language": "Python",
+    "name": "nekozzz94/NekoAI-agents",
+    "stars": 16,
+    "updated_at": "2026-09-01T12:30:04Z",
+    "url": "https://github.com/nekozzz94/NekoAI-agents"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3276,
+    "updated_at": "2026-09-01T12:28:44Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34312,
+    "updated_at": "2026-09-01T12:22:13Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "RAGFlow \u2014 independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev",
+    "id": "api-evangelist/ragflow",
+    "language": "\u2014",
+    "name": "api-evangelist/ragflow",
+    "stars": 0,
+    "updated_at": "2026-09-01T12:16:22Z",
+    "url": "https://github.com/api-evangelist/ragflow"
+  },
+  {
+    "description": "A is a high-performance, cloud-native multimodal AI tutor grounding Llama-3.3 in textbook facts via Zilliz Cloud. It del",
+    "id": "Omen-bit/WCEHackathon2026_NeuroNauts",
+    "language": "Python",
+    "name": "Omen-bit/WCEHackathon2026_NeuroNauts",
+    "stars": 2,
+    "updated_at": "2026-09-01T12:29:59Z",
+    "url": "https://github.com/Omen-bit/WCEHackathon2026_NeuroNauts"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T12:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Official Java client for Qdrant ",
+    "id": "qdrant/java-client",
+    "language": "Java",
+    "name": "qdrant/java-client",
+    "stars": 96,
+    "updated_at": "2026-09-01T12:15:06Z",
+    "url": "https://github.com/qdrant/java-client"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-01T12:21:46Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-01T12:13:34Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Postgres MCP Server",
@@ -18,6 +99,15 @@
     "url": "https://github.com/devopam/MCPg"
   },
   {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2808,
+    "updated_at": "2026-09-01T12:12:01Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -27,13 +117,22 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-01T12:14:36Z",
-    "url": "https://github.com/makr-code/ThemisDB"
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11326,
+    "updated_at": "2026-09-01T12:08:50Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
+    "id": "Daaboulex/openviking-nix",
+    "language": "Shell",
+    "name": "Daaboulex/openviking-nix",
+    "stars": 3,
+    "updated_at": "2026-09-01T12:07:16Z",
+    "url": "https://github.com/Daaboulex/openviking-nix"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -41,17 +140,8 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-01T12:06:09Z",
+    "updated_at": "2026-09-01T12:23:17Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2808,
-    "updated_at": "2026-09-01T12:12:01Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "",
@@ -70,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T12:02:06Z",
     "url": "https://github.com/shunvel/diffvector"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T12:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "- ",
@@ -113,7 +194,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30389,
-    "updated_at": "2026-09-01T11:54:50Z",
+    "updated_at": "2026-09-01T12:27:50Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -122,7 +203,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4432,
-    "updated_at": "2026-09-01T12:08:02Z",
+    "updated_at": "2026-09-01T12:24:29Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -153,15 +234,6 @@
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
-    "description": "AI agent code examples",
-    "id": "nekozzz94/NekoAI-agents",
-    "language": "Python",
-    "name": "nekozzz94/NekoAI-agents",
-    "stars": 16,
-    "updated_at": "2026-09-01T12:00:24Z",
-    "url": "https://github.com/nekozzz94/NekoAI-agents"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -171,6 +243,15 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16776,
+    "updated_at": "2026-09-01T12:28:36Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -178,15 +259,6 @@
     "stars": 1774,
     "updated_at": "2026-09-01T11:35:44Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-01T12:13:34Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -230,7 +302,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6390,
-    "updated_at": "2026-09-01T11:39:37Z",
+    "updated_at": "2026-09-01T12:24:58Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -257,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8168,
-    "updated_at": "2026-09-01T12:06:59Z",
+    "updated_at": "2026-09-01T12:28:20Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -275,7 +347,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-09-01T10:51:02Z",
+    "updated_at": "2026-09-01T12:20:28Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -322,15 +394,6 @@
     "stars": 2,
     "updated_at": "2026-09-01T10:39:08Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34313,
-    "updated_at": "2026-09-01T12:15:22Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Chat with your PDFs and get answers grounded strictly in the document \u2014 MMR retrieval over Chroma + Qwen 2.5 7B, FastAPI",
@@ -385,68 +448,5 @@
     "stars": 90,
     "updated_at": "2026-09-01T11:12:19Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-09-01T10:24:28Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-09-01T10:22:33Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Local, Offline Documentation Context Server (MCP) for LLMs & AI Coding Agents",
-    "id": "garnizeh/memex",
-    "language": "Rust",
-    "name": "garnizeh/memex",
-    "stars": 0,
-    "updated_at": "2026-09-01T10:04:27Z",
-    "url": "https://github.com/garnizeh/memex"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3276,
-    "updated_at": "2026-09-01T10:02:37Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Python",
-    "name": "qdrant/skills",
-    "stars": 229,
-    "updated_at": "2026-09-01T12:06:14Z",
-    "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 100,
-    "updated_at": "2026-09-01T09:58:32Z",
-    "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": "build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system",
-    "id": "skyzh/write-you-a-vector-db",
-    "language": "Rust",
-    "name": "skyzh/write-you-a-vector-db",
-    "stars": 793,
-    "updated_at": "2026-09-01T09:56:00Z",
-    "url": "https://github.com/skyzh/write-you-a-vector-db"
   }
 ]
