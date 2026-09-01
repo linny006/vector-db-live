@@ -1,12 +1,75 @@
 [
   {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-09-01T18:48:21Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-01T18:48:16Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "A minimal storage layer for storing large matrices and embeddings",
+    "id": "tuned-org-uk/genegraph-storage",
+    "language": "Rust",
+    "name": "tuned-org-uk/genegraph-storage",
+    "stars": 2,
+    "updated_at": "2026-09-01T18:46:36Z",
+    "url": "https://github.com/tuned-org-uk/genegraph-storage"
+  },
+  {
+    "description": "Gomaa \u2014 Autonomous Agent Memory OS. Persistent memory system for AI agents with Obsidian vault integration, hybrid RRF s",
+    "id": "M4F-S/gomaa",
+    "language": "Python",
+    "name": "M4F-S/gomaa",
+    "stars": 30,
+    "updated_at": "2026-09-01T18:46:35Z",
+    "url": "https://github.com/M4F-S/gomaa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T18:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T18:45:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9219,
-    "updated_at": "2026-09-01T18:45:12Z",
+    "updated_at": "2026-09-01T18:50:24Z",
     "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-01T18:38:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -36,7 +99,7 @@
     "url": "https://github.com/ather-techie/ai-system-design-interview"
   },
   {
-    "description": "A complete collection of RAG interview questions, answers (548 questions & 41 RAG types), system design scenarios, archi",
+    "description": "A complete collection of RAG interview questions, answers (603 questions & 52 RAG types), system design scenarios, archi",
     "id": "ather-techie/rag-interview-system",
     "language": "Jupyter Notebook",
     "name": "ather-techie/rag-interview-system",
@@ -45,22 +108,13 @@
     "url": "https://github.com/ather-techie/rag-interview-system"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T18:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T18:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8169,
+    "updated_at": "2026-09-01T18:30:41Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -68,7 +122,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1117,
-    "updated_at": "2026-09-01T18:29:25Z",
+    "updated_at": "2026-09-01T18:50:10Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -108,31 +162,13 @@
     "url": "https://github.com/debashisn94/local-rag-companion"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-01T18:38:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-01T18:05:53Z",
+    "updated_at": "2026-09-01T18:49:15Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-01T18:03:36Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -234,6 +270,15 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6976,
+    "updated_at": "2026-09-01T17:38:41Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
     "id": "neuron-core/neuron-ai",
     "language": "PHP",
@@ -275,7 +320,7 @@
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1348,
-    "updated_at": "2026-09-01T17:20:00Z",
+    "updated_at": "2026-09-01T18:51:45Z",
     "url": "https://github.com/infinispan/infinispan"
   },
   {
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30395,
-    "updated_at": "2026-09-01T17:09:16Z",
+    "updated_at": "2026-09-01T18:56:19Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -337,7 +382,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51968,
+    "stars": 51969,
     "updated_at": "2026-09-01T16:58:06Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -367,15 +412,6 @@
     "stars": 166,
     "updated_at": "2026-09-01T16:49:47Z",
     "url": "https://github.com/mirkobozzetto/flowflow"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-09-01T18:39:52Z",
-    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "A simple Docker Compose setup for self-hosting the Qdrant vector database. Includes persistent storage, management scrip",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T16:32:39Z",
     "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "The open source Meme Search Engine and Finder.  Free and built to self-host locally with Python, Ruby, and Docker.",
-    "id": "meme-search/meme-search",
-    "language": "Ruby",
-    "name": "meme-search/meme-search",
-    "stars": 719,
-    "updated_at": "2026-09-01T16:29:20Z",
-    "url": "https://github.com/meme-search/meme-search"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2811,
-    "updated_at": "2026-09-01T16:28:19Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11328,
-    "updated_at": "2026-09-01T18:08:40Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-09-01T16:23:21Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   }
 ]
