@@ -1,30 +1,30 @@
 [
   {
+    "description": "DSH local knowledge base plugin: multi-format import, smart chunking, vector index, hybrid search (BM25 + sqlite-vec + R",
+    "id": "xiaoshi7915/dsh-kb-manager",
+    "language": "JavaScript",
+    "name": "xiaoshi7915/dsh-kb-manager",
+    "stars": 1,
+    "updated_at": "2026-09-01T02:45:23Z",
+    "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-01T02:30:20Z",
+    "updated_at": "2026-09-01T02:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2795,
-    "updated_at": "2026-09-01T02:27:42Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-09-01T02:26:33Z",
-    "url": "https://github.com/structured-world/coordinode"
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-01T02:41:46Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -32,8 +32,53 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45911,
-    "updated_at": "2026-09-01T02:26:43Z",
+    "updated_at": "2026-09-01T02:41:24Z",
     "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2796,
+    "updated_at": "2026-09-01T02:44:59Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "Run-it-yourself benchmarks comparing Semurg to leading open-source databases across eleven data domains - on your own ha",
+    "id": "One-Semurg/Semurg-Benchmark-Suite",
+    "language": "Shell",
+    "name": "One-Semurg/Semurg-Benchmark-Suite",
+    "stars": 0,
+    "updated_at": "2026-09-01T02:32:05Z",
+    "url": "https://github.com/One-Semurg/Semurg-Benchmark-Suite"
+  },
+  {
+    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
+    "id": "OmniBioAI/omnibioai-dev-hub",
+    "language": "Python",
+    "name": "OmniBioAI/omnibioai-dev-hub",
+    "stars": 1,
+    "updated_at": "2026-09-01T02:31:22Z",
+    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T02:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-09-01T02:37:00Z",
+    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "Xavier \u2014 fast Rust vector memory & communal context runtime for AI agents (HTTP \u00b7 CLI \u00b7 MCP)",
@@ -50,7 +95,7 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 8,
-    "updated_at": "2026-09-01T02:22:56Z",
+    "updated_at": "2026-09-01T02:45:12Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -59,7 +104,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9429,
-    "updated_at": "2026-09-01T02:21:57Z",
+    "updated_at": "2026-09-01T02:38:19Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -108,33 +153,6 @@
     "url": "https://github.com/A3S-Lab/Vec"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T02:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
-    "id": "OmniBioAI/omnibioai-dev-hub",
-    "language": "Python",
-    "name": "OmniBioAI/omnibioai-dev-hub",
-    "stars": 1,
-    "updated_at": "2026-09-01T02:27:42Z",
-    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-01T02:14:12Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
     "id": "AliZahiri/ai-rag-platform-blueprint",
     "language": "Python",
@@ -151,24 +169,6 @@
     "stars": 3,
     "updated_at": "2026-09-01T02:13:00Z",
     "url": "https://github.com/Tibab222/cvMaker"
-  },
-  {
-    "description": "DSH local knowledge base plugin: multi-format import, smart chunking, vector index, hybrid search (BM25 + sqlite-vec + R",
-    "id": "xiaoshi7915/dsh-kb-manager",
-    "language": "JavaScript",
-    "name": "xiaoshi7915/dsh-kb-manager",
-    "stars": 1,
-    "updated_at": "2026-09-01T02:09:54Z",
-    "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
-  },
-  {
-    "description": "Run-it-yourself benchmarks comparing Semurg to leading open-source databases across eleven data domains - on your own ha",
-    "id": "One-Semurg/Semurg-Benchmark-Suite",
-    "language": "Shell",
-    "name": "One-Semurg/Semurg-Benchmark-Suite",
-    "stars": 0,
-    "updated_at": "2026-09-01T02:07:04Z",
-    "url": "https://github.com/One-Semurg/Semurg-Benchmark-Suite"
   },
   {
     "description": "A dual-language workspace of AI/LLM projects in TypeScript and Python \u2014 LangChain, LangGraph, RAG, vector stores, MCP, a",
@@ -212,7 +212,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16771,
-    "updated_at": "2026-09-01T02:30:15Z",
+    "updated_at": "2026-09-01T02:41:52Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -338,7 +338,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 8,
-    "updated_at": "2026-09-01T00:33:29Z",
+    "updated_at": "2026-09-01T02:37:58Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
