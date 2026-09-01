@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-01T10:30:25Z",
+    "updated_at": "2026-09-01T10:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent code examples",
+    "id": "nekozzz94/NekoAI-agents",
+    "language": "Python",
+    "name": "nekozzz94/NekoAI-agents",
+    "stars": 16,
+    "updated_at": "2026-09-01T10:39:50Z",
+    "url": "https://github.com/nekozzz94/NekoAI-agents"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34312,
+    "updated_at": "2026-09-01T10:36:45Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-01T10:36:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Chat with your PDFs and get answers grounded strictly in the document \u2014 MMR retrieval over Chroma + Qwen 2.5 7B, FastAPI",
+    "id": "daivraval/neura-rag-chat",
+    "language": "Python",
+    "name": "daivraval/neura-rag-chat",
+    "stars": 0,
+    "updated_at": "2026-09-01T10:36:20Z",
+    "url": "https://github.com/daivraval/neura-rag-chat"
+  },
+  {
+    "description": "Pure-Rust vector database for the Nubster Data Plane: ANN similarity search, single binary, edge-ready.",
+    "id": "nubster-opensources/eidosdb",
+    "language": "Rust",
+    "name": "nubster-opensources/eidosdb",
+    "stars": 0,
+    "updated_at": "2026-09-01T10:43:47Z",
+    "url": "https://github.com/nubster-opensources/eidosdb"
+  },
+  {
+    "description": "Rest client for Qdrant vector database",
+    "id": "quarkiverse/quarkus-qdrant",
+    "language": "Java",
+    "name": "quarkiverse/quarkus-qdrant",
+    "stars": 2,
+    "updated_at": "2026-09-01T10:31:00Z",
+    "url": "https://github.com/quarkiverse/quarkus-qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T10:30:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A modular RAG search engine built with Qdrant vector database, Whisper audio transcription, and LLMs",
+    "id": "sandeshsachan054-tech/qdrant-rag-engine",
+    "language": "Python",
+    "name": "sandeshsachan054-tech/qdrant-rag-engine",
+    "stars": 0,
+    "updated_at": "2026-09-01T10:30:15Z",
+    "url": "https://github.com/sandeshsachan054-tech/qdrant-rag-engine"
+  },
+  {
+    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
+    "id": "Parth-2004/Historical-AI-Assistant",
+    "language": "Python",
+    "name": "Parth-2004/Historical-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-09-01T10:29:56Z",
+    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-09-01T10:29:41Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -18,6 +108,15 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-09-01T10:25:02Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
     "id": "AliZahiri/ai-rag-platform-blueprint",
     "language": "Python",
@@ -27,13 +126,31 @@
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-09-01T10:22:33Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
     "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "TypeScript",
     "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-09-01T10:21:58Z",
+    "updated_at": "2026-09-01T10:44:54Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45916,
+    "updated_at": "2026-09-01T10:19:45Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -52,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T10:16:38Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T10:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-01T10:09:37Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -126,24 +225,6 @@
     "url": "https://github.com/oracle/ai-optimizer"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45915,
-    "updated_at": "2026-09-01T10:19:45Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-09-01T10:25:02Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system",
     "id": "skyzh/write-you-a-vector-db",
     "language": "Rust",
@@ -158,7 +239,7 @@
     "language": "TypeScript",
     "name": "unohee/OpenSwarm",
     "stars": 840,
-    "updated_at": "2026-09-01T09:50:33Z",
+    "updated_at": "2026-09-01T10:41:24Z",
     "url": "https://github.com/unohee/OpenSwarm"
   },
   {
@@ -252,21 +333,12 @@
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34310,
-    "updated_at": "2026-09-01T10:21:22Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
     "id": "feather-store/feather",
     "language": "Python",
     "name": "feather-store/feather",
     "stars": 7,
-    "updated_at": "2026-09-01T09:30:52Z",
+    "updated_at": "2026-09-01T10:43:46Z",
     "url": "https://github.com/feather-store/feather"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-01T10:29:18Z",
     "url": "https://github.com/lopadova/AskMyDocs"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9430,
-    "updated_at": "2026-09-01T09:45:51Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6390,
-    "updated_at": "2026-09-01T09:01:52Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Benchmark for vector databases.",
-    "id": "zilliztech/VectorDBBench",
-    "language": "Python",
-    "name": "zilliztech/VectorDBBench",
-    "stars": 1173,
-    "updated_at": "2026-09-01T08:23:44Z",
-    "url": "https://github.com/zilliztech/VectorDBBench"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8167,
-    "updated_at": "2026-09-01T10:09:53Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1117,
-    "updated_at": "2026-09-01T10:23:03Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "DSH local knowledge base plugin: multi-format import, smart chunking, vector index, hybrid search (BM25 + sqlite-vec + R",
-    "id": "xiaoshi7915/dsh-kb-manager",
-    "language": "JavaScript",
-    "name": "xiaoshi7915/dsh-kb-manager",
-    "stars": 1,
-    "updated_at": "2026-09-01T08:14:58Z",
-    "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11326,
-    "updated_at": "2026-09-01T09:32:31Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Customer service RAG chatbot to provide accurate answers to questions using a knowledge base, which is a vector database",
-    "id": "lekli-1/ai-chatbot",
-    "language": "Python",
-    "name": "lekli-1/ai-chatbot",
-    "stars": 0,
-    "updated_at": "2026-09-01T08:02:57Z",
-    "url": "https://github.com/lekli-1/ai-chatbot"
   }
 ]
