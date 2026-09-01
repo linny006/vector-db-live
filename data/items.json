@@ -1,5 +1,77 @@
 [
   {
+    "description": "Manual Master: CLI tool to build local RAG knowledge bases from docs (PDF, HTML, XML, TXT). Scans dirs/files, creates em",
+    "id": "asaeles/manual-master",
+    "language": "Python",
+    "name": "asaeles/manual-master",
+    "stars": 0,
+    "updated_at": "2026-09-01T04:59:27Z",
+    "url": "https://github.com/asaeles/manual-master"
+  },
+  {
+    "description": "AI agent code examples",
+    "id": "nekozzz94/NekoAI-agents",
+    "language": "Python",
+    "name": "nekozzz94/NekoAI-agents",
+    "stars": 16,
+    "updated_at": "2026-09-01T04:58:06Z",
+    "url": "https://github.com/nekozzz94/NekoAI-agents"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-01T04:54:18Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
+    "id": "caoergou/dify-installer",
+    "language": "Shell",
+    "name": "caoergou/dify-installer",
+    "stars": 2,
+    "updated_at": "2026-09-01T04:51:13Z",
+    "url": "https://github.com/caoergou/dify-installer"
+  },
+  {
+    "description": "Run-it-yourself benchmarks comparing Semurg to leading open-source databases across eleven data domains - on your own ha",
+    "id": "One-Semurg/Semurg-Benchmark-Suite",
+    "language": "Shell",
+    "name": "One-Semurg/Semurg-Benchmark-Suite",
+    "stars": 0,
+    "updated_at": "2026-09-01T04:50:24Z",
+    "url": "https://github.com/One-Semurg/Semurg-Benchmark-Suite"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-01T04:57:05Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T04:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-01T04:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -27,15 +99,6 @@
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T04:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Advanced local-first RAG system powered by Ollama and LangGraph. Optimized for high-performance sLLM orchestration   fea",
     "id": "darkzard05/rag-system-ollama",
     "language": "Python",
@@ -45,24 +108,6 @@
     "url": "https://github.com/darkzard05/rag-system-ollama"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-01T04:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent code examples",
-    "id": "nekozzz94/NekoAI-agents",
-    "language": "Python",
-    "name": "nekozzz94/NekoAI-agents",
-    "stars": 16,
-    "updated_at": "2026-09-01T04:28:50Z",
-    "url": "https://github.com/nekozzz94/NekoAI-agents"
-  },
-  {
     "description": "Postgres MCP Server",
     "id": "devopam/MCPg",
     "language": "Python",
@@ -70,15 +115,6 @@
     "stars": 9,
     "updated_at": "2026-09-01T04:28:20Z",
     "url": "https://github.com/devopam/MCPg"
-  },
-  {
-    "description": "Run-it-yourself benchmarks comparing Semurg to leading open-source databases across eleven data domains - on your own ha",
-    "id": "One-Semurg/Semurg-Benchmark-Suite",
-    "language": "Shell",
-    "name": "One-Semurg/Semurg-Benchmark-Suite",
-    "stars": 0,
-    "updated_at": "2026-09-01T04:24:47Z",
-    "url": "https://github.com/One-Semurg/Semurg-Benchmark-Suite"
   },
   {
     "description": "Official one-command installer for Semurg. Downloads and runs the released Semurg engine \u2014 your first node is always fre",
@@ -122,7 +158,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16773,
-    "updated_at": "2026-09-01T04:30:22Z",
+    "updated_at": "2026-09-01T04:59:37Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -140,7 +176,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-01T04:11:02Z",
+    "updated_at": "2026-09-01T04:57:57Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -270,15 +306,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-01T04:42:36Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -310,7 +337,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2797,
+    "stars": 2798,
     "updated_at": "2026-09-01T03:20:14Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -421,32 +448,5 @@
     "stars": 8165,
     "updated_at": "2026-09-01T03:46:28Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel, ",
-    "id": "varun29ankuS/shodh-redb",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-redb",
-    "stars": 6,
-    "updated_at": "2026-09-01T04:23:03Z",
-    "url": "https://github.com/varun29ankuS/shodh-redb"
-  },
-  {
-    "description": "Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data",
-    "id": "NGT-labs/NGT",
-    "language": "C++",
-    "name": "NGT-labs/NGT",
-    "stars": 1370,
-    "updated_at": "2026-09-01T02:04:32Z",
-    "url": "https://github.com/NGT-labs/NGT"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-01T01:50:23Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   }
 ]
