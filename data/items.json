@@ -1,5 +1,41 @@
 [
   {
+    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
+    "id": "amirhosssein0/ai-platform-lab",
+    "language": "TypeScript",
+    "name": "amirhosssein0/ai-platform-lab",
+    "stars": 4,
+    "updated_at": "2026-09-01T12:39:35Z",
+    "url": "https://github.com/amirhosssein0/ai-platform-lab"
+  },
+  {
+    "description": "",
+    "id": "techplanshetyapps/ai-application-layer",
+    "language": "Jupyter Notebook",
+    "name": "techplanshetyapps/ai-application-layer",
+    "stars": 0,
+    "updated_at": "2026-09-01T12:32:29Z",
+    "url": "https://github.com/techplanshetyapps/ai-application-layer"
+  },
+  {
+    "description": "AI agent code examples",
+    "id": "nekozzz94/NekoAI-agents",
+    "language": "Python",
+    "name": "nekozzz94/NekoAI-agents",
+    "stars": 16,
+    "updated_at": "2026-09-01T12:31:54Z",
+    "url": "https://github.com/nekozzz94/NekoAI-agents"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T12:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,22 +45,22 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "AI agent code examples",
-    "id": "nekozzz94/NekoAI-agents",
-    "language": "Python",
-    "name": "nekozzz94/NekoAI-agents",
-    "stars": 16,
-    "updated_at": "2026-09-01T12:30:04Z",
-    "url": "https://github.com/nekozzz94/NekoAI-agents"
-  },
-  {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 3276,
+    "stars": 3275,
     "updated_at": "2026-09-01T12:28:44Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-09-01T12:24:23Z",
+    "url": "https://github.com/weaviate/weaviate-io"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -34,6 +70,24 @@
     "stars": 34312,
     "updated_at": "2026-09-01T12:22:13Z",
     "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-09-01T12:20:38Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-09-01T12:20:28Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "RAGFlow \u2014 independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev",
@@ -54,15 +108,6 @@
     "url": "https://github.com/Omen-bit/WCEHackathon2026_NeuroNauts"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T12:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Official Java client for Qdrant ",
     "id": "qdrant/java-client",
     "language": "Java",
@@ -77,7 +122,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-01T12:21:46Z",
+    "updated_at": "2026-09-01T12:32:56Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -86,7 +131,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-09-01T12:13:34Z",
+    "updated_at": "2026-09-01T12:43:11Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -144,13 +189,13 @@
     "url": "https://github.com/tamnd/yo"
   },
   {
-    "description": "",
-    "id": "techplanshetyapps/ai-application-layer",
-    "language": "Jupyter Notebook",
-    "name": "techplanshetyapps/ai-application-layer",
-    "stars": 0,
-    "updated_at": "2026-09-01T12:03:47Z",
-    "url": "https://github.com/techplanshetyapps/ai-application-layer"
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59162,
+    "updated_at": "2026-09-01T12:04:53Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "The open-source visual git-diff for vector embeddings\u2014detect semantic drift and search regression before changing your e",
@@ -194,7 +239,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30389,
-    "updated_at": "2026-09-01T12:27:50Z",
+    "updated_at": "2026-09-01T12:41:44Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -284,7 +329,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45917,
-    "updated_at": "2026-09-01T12:11:01Z",
+    "updated_at": "2026-09-01T12:38:35Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -293,7 +338,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35470,
-    "updated_at": "2026-09-01T11:09:03Z",
+    "updated_at": "2026-09-01T12:37:39Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -302,7 +347,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6390,
-    "updated_at": "2026-09-01T12:24:58Z",
+    "updated_at": "2026-09-01T12:42:01Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -329,7 +374,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8168,
-    "updated_at": "2026-09-01T12:28:20Z",
+    "updated_at": "2026-09-01T12:38:44Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -340,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T10:56:29Z",
     "url": "https://github.com/MASJV/gen-ai-fundamentals"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-09-01T12:20:28Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Advanced local-first RAG system powered by Ollama and LangGraph. Optimized for high-performance sLLM orchestration   fea",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T10:31:00Z",
     "url": "https://github.com/quarkiverse/quarkus-qdrant"
-  },
-  {
-    "description": "A modular RAG search engine built with Qdrant vector database, Whisper audio transcription, and LLMs",
-    "id": "sandeshsachan054-tech/qdrant-rag-engine",
-    "language": "Python",
-    "name": "sandeshsachan054-tech/qdrant-rag-engine",
-    "stars": 0,
-    "updated_at": "2026-09-01T10:30:15Z",
-    "url": "https://github.com/sandeshsachan054-tech/qdrant-rag-engine"
-  },
-  {
-    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
-    "id": "Parth-2004/Historical-AI-Assistant",
-    "language": "Python",
-    "name": "Parth-2004/Historical-AI-Assistant",
-    "stars": 1,
-    "updated_at": "2026-09-01T10:29:56Z",
-    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-09-01T10:29:41Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 90,
-    "updated_at": "2026-09-01T11:12:19Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   }
 ]
