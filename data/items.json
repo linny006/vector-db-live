@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-01T12:00:27Z",
+    "updated_at": "2026-09-01T12:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Postgres MCP Server",
+    "id": "devopam/MCPg",
+    "language": "Python",
+    "name": "devopam/MCPg",
+    "stars": 9,
+    "updated_at": "2026-09-01T12:12:20Z",
+    "url": "https://github.com/devopam/MCPg"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 75,
+    "updated_at": "2026-09-01T12:09:46Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-01T12:14:36Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-01T12:06:09Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2808,
+    "updated_at": "2026-09-01T12:12:01Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "",
+    "id": "techplanshetyapps/ai-application-layer",
+    "language": "Jupyter Notebook",
+    "name": "techplanshetyapps/ai-application-layer",
+    "stars": 0,
+    "updated_at": "2026-09-01T12:03:47Z",
+    "url": "https://github.com/techplanshetyapps/ai-application-layer"
+  },
+  {
+    "description": "The open-source visual git-diff for vector embeddings\u2014detect semantic drift and search regression before changing your e",
+    "id": "shunvel/diffvector",
+    "language": "Python",
+    "name": "shunvel/diffvector",
+    "stars": 0,
+    "updated_at": "2026-09-01T12:02:06Z",
+    "url": "https://github.com/shunvel/diffvector"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T12:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "- ",
@@ -25,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T11:54:53Z",
     "url": "https://github.com/Slack-Hacker/Agentic-RAG-Based-Chatbot"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-01T11:50:07Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "The open-source visual git-diff for vector embeddings\u2014detect semantic drift and search regression before changing your e",
-    "id": "shunvel/diffvector",
-    "language": "Python",
-    "name": "shunvel/diffvector",
-    "stars": 0,
-    "updated_at": "2026-09-01T11:49:28Z",
-    "url": "https://github.com/shunvel/diffvector"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -68,26 +122,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4432,
-    "updated_at": "2026-09-01T11:47:45Z",
+    "updated_at": "2026-09-01T12:08:02Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T11:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 75,
-    "updated_at": "2026-09-01T11:43:04Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -149,26 +185,8 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-09-01T11:33:33Z",
+    "updated_at": "2026-09-01T12:13:34Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2808,
-    "updated_at": "2026-09-01T11:31:41Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "",
-    "id": "techplanshetyapps/ai-application-layer",
-    "language": "Jupyter Notebook",
-    "name": "techplanshetyapps/ai-application-layer",
-    "stars": 0,
-    "updated_at": "2026-09-01T12:00:30Z",
-    "url": "https://github.com/techplanshetyapps/ai-application-layer"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -194,8 +212,17 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45917,
-    "updated_at": "2026-09-01T11:09:26Z",
+    "updated_at": "2026-09-01T12:11:01Z",
     "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35470,
+    "updated_at": "2026-09-01T11:09:03Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -230,7 +257,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8168,
-    "updated_at": "2026-09-01T11:56:19Z",
+    "updated_at": "2026-09-01T12:06:59Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34313,
-    "updated_at": "2026-09-01T11:21:11Z",
+    "updated_at": "2026-09-01T12:15:22Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -378,15 +405,6 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-01T11:45:10Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Local, Offline Documentation Context Server (MCP) for LLMs & AI Coding Agents",
     "id": "garnizeh/memex",
     "language": "Rust",
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "qdrant/skills",
     "stars": 229,
-    "updated_at": "2026-09-01T10:24:00Z",
+    "updated_at": "2026-09-01T12:06:14Z",
     "url": "https://github.com/qdrant/skills"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 793,
     "updated_at": "2026-09-01T09:56:00Z",
     "url": "https://github.com/skyzh/write-you-a-vector-db"
-  },
-  {
-    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
-    "id": "amirhosssein0/ai-platform-lab",
-    "language": "TypeScript",
-    "name": "amirhosssein0/ai-platform-lab",
-    "stars": 4,
-    "updated_at": "2026-09-01T09:50:33Z",
-    "url": "https://github.com/amirhosssein0/ai-platform-lab"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-09-01T09:47:52Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
   }
 ]
