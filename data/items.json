@@ -1,5 +1,50 @@
 [
   {
+    "description": "GameCrew AI: a game publishing AI team for multi-agent orchestration, vector knowledge memory and high-quality delivery",
+    "id": "realxuekun-commits/gamecrew-ai",
+    "language": "JavaScript",
+    "name": "realxuekun-commits/gamecrew-ai",
+    "stars": 1,
+    "updated_at": "2026-09-01T09:00:24Z",
+    "url": "https://github.com/realxuekun-commits/gamecrew-ai"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45913,
+    "updated_at": "2026-09-01T08:51:26Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Vector db working in peer 2 peer, with minimal dependencies and resource requirement",
+    "id": "cenkcorapci/Aster",
+    "language": "C++",
+    "name": "cenkcorapci/Aster",
+    "stars": 2,
+    "updated_at": "2026-09-01T08:59:35Z",
+    "url": "https://github.com/cenkcorapci/Aster"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 90,
+    "updated_at": "2026-09-01T08:55:39Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T08:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,12 +54,30 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-01T08:41:14Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 8,
+    "updated_at": "2026-09-01T08:41:07Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
     "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
     "id": "musabbozkurt/oauth2-authorization-server",
     "language": "Java",
     "name": "musabbozkurt/oauth2-authorization-server",
     "stars": 6,
-    "updated_at": "2026-09-01T08:36:07Z",
+    "updated_at": "2026-09-01T08:57:17Z",
     "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9430,
-    "updated_at": "2026-09-01T08:41:52Z",
+    "updated_at": "2026-09-01T08:57:55Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -50,17 +113,8 @@
     "language": "Python",
     "name": "kalisio/knowledge",
     "stars": 2,
-    "updated_at": "2026-09-01T08:30:25Z",
+    "updated_at": "2026-09-01T08:59:06Z",
     "url": "https://github.com/kalisio/knowledge"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T08:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -77,17 +131,8 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-01T08:27:06Z",
+    "updated_at": "2026-09-01T08:57:22Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "GameCrew AI: a game publishing AI team for multi-agent orchestration, vector knowledge memory and high-quality delivery",
-    "id": "realxuekun-commits/gamecrew-ai",
-    "language": "JavaScript",
-    "name": "realxuekun-commits/gamecrew-ai",
-    "stars": 1,
-    "updated_at": "2026-09-01T08:27:04Z",
-    "url": "https://github.com/realxuekun-commits/gamecrew-ai"
   },
   {
     "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
@@ -144,30 +189,12 @@
     "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
   },
   {
-    "description": "Vector db working in peer 2 peer, with minimal dependencies and resource requirement",
-    "id": "cenkcorapci/Aster",
-    "language": "C++",
-    "name": "cenkcorapci/Aster",
-    "stars": 2,
-    "updated_at": "2026-09-01T08:14:57Z",
-    "url": "https://github.com/cenkcorapci/Aster"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-01T08:41:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11326,
-    "updated_at": "2026-09-01T08:11:41Z",
+    "updated_at": "2026-09-01T08:54:24Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -176,7 +203,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-01T08:23:33Z",
+    "updated_at": "2026-09-01T08:57:29Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7073,
-    "updated_at": "2026-09-01T07:48:44Z",
+    "updated_at": "2026-09-01T09:00:09Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -405,15 +432,6 @@
     "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45913,
-    "updated_at": "2026-09-01T08:27:26Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Agentic AI Portfolio Chatbot An intelligent chatbot that represents me on this portfolio. Built with LLM, RAG via Pineco",
     "id": "GuptaSandip/sandip-portfolio",
     "language": "TypeScript",
@@ -428,25 +446,7 @@
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1348,
-    "updated_at": "2026-09-01T07:33:25Z",
+    "updated_at": "2026-09-01T08:50:54Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "A distributed Key-Value Storage using Raft",
-    "id": "dingodb/dingo-store",
-    "language": "C++",
-    "name": "dingodb/dingo-store",
-    "stars": 162,
-    "updated_at": "2026-09-01T07:11:58Z",
-    "url": "https://github.com/dingodb/dingo-store"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-09-01T07:11:22Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
   }
 ]
