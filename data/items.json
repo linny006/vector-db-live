@@ -5,8 +5,152 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-01T07:15:24Z",
+    "updated_at": "2026-09-01T07:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-09-01T07:24:54Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:29:27Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7073,
+    "updated_at": "2026-09-01T07:23:51Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-01T07:23:48Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
+    "id": "Shitless-jnr3697/rebasis",
+    "language": "Python",
+    "name": "Shitless-jnr3697/rebasis",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:22:50Z",
+    "url": "https://github.com/Shitless-jnr3697/rebasis"
+  },
+  {
+    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
+    "id": "boulif781/enterprise-knowledge-assistant",
+    "language": "\u2014",
+    "name": "boulif781/enterprise-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:20:50Z",
+    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
+  },
+  {
+    "description": "Production-ready PDF RAG chatbot built with Gemini 2.5 Flash, FAISS, and Streamlit",
+    "id": "swikarb69/pdf-rag-chatbot",
+    "language": "Python",
+    "name": "swikarb69/pdf-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:18:45Z",
+    "url": "https://github.com/swikarb69/pdf-rag-chatbot"
+  },
+  {
+    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
+    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "language": "Jupyter Notebook",
+    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "stars": 1,
+    "updated_at": "2026-09-01T07:18:44Z",
+    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
+  },
+  {
+    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
+    "id": "Bekhbekh7821/CanopyOps",
+    "language": "\u2014",
+    "name": "Bekhbekh7821/CanopyOps",
+    "stars": 1,
+    "updated_at": "2026-09-01T07:18:20Z",
+    "url": "https://github.com/Bekhbekh7821/CanopyOps"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-01T07:17:09Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "A local-first looking glass for Claude Code and Codex JSONL histories, powered by LanceDB.",
+    "id": "Soul-Brews-Studio/lanceglass",
+    "language": "TypeScript",
+    "name": "Soul-Brews-Studio/lanceglass",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:16:03Z",
+    "url": "https://github.com/Soul-Brews-Studio/lanceglass"
+  },
+  {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:15:35Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-01T07:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:14:17Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "Agentic AI Portfolio Chatbot An intelligent chatbot that represents me on this portfolio. Built with LLM, RAG via Pineco",
+    "id": "GuptaSandip/sandip-portfolio",
+    "language": "TypeScript",
+    "name": "GuptaSandip/sandip-portfolio",
+    "stars": 0,
+    "updated_at": "2026-09-01T07:13:47Z",
+    "url": "https://github.com/GuptaSandip/sandip-portfolio"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1348,
+    "updated_at": "2026-09-01T07:13:37Z",
+    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": "A distributed Key-Value Storage using Raft",
@@ -23,7 +167,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-01T07:11:49Z",
+    "updated_at": "2026-09-01T07:28:32Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -135,15 +279,6 @@
     "url": "https://github.com/FIRE-hub911/citation-assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-01T07:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
     "id": "K3Tamaa/Vector-Forge",
     "language": "\u2014",
@@ -151,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-01T07:00:25Z",
     "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "A local-first looking glass for Claude Code and Codex JSONL histories, powered by LanceDB.",
-    "id": "Soul-Brews-Studio/lanceglass",
-    "language": "TypeScript",
-    "name": "Soul-Brews-Studio/lanceglass",
-    "stars": 0,
-    "updated_at": "2026-09-01T06:59:22Z",
-    "url": "https://github.com/Soul-Brews-Studio/lanceglass"
   },
   {
     "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
@@ -322,131 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-01T06:38:59Z",
     "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "An LLM-powered Documentation Intelligence Platform leveraging RAG, LangChain, Pinecone VectorDB, and Tavily Search to pr",
-    "id": "abirmazumdar03/Documentation-Intelligence",
-    "language": "Python",
-    "name": "abirmazumdar03/Documentation-Intelligence",
-    "stars": 0,
-    "updated_at": "2026-09-01T06:38:54Z",
-    "url": "https://github.com/abirmazumdar03/Documentation-Intelligence"
-  },
-  {
-    "description": "Agentic RAG in Python: LangChain, LangGraph and ChromaDB, with semantic retrieval, tool calling and source citation.",
-    "id": "kleberbernardo/rag_agent",
-    "language": "Python",
-    "name": "kleberbernardo/rag_agent",
-    "stars": 1,
-    "updated_at": "2026-09-01T06:41:40Z",
-    "url": "https://github.com/kleberbernardo/rag_agent"
-  },
-  {
-    "description": "cho-Engram is a production-grade Retrieval-Augmented Generation (RAG) full-stack application. It ingests PDFs and images",
-    "id": "Rudra-PT/Echo-Engram",
-    "language": "Python",
-    "name": "Rudra-PT/Echo-Engram",
-    "stars": 0,
-    "updated_at": "2026-09-01T06:35:50Z",
-    "url": "https://github.com/Rudra-PT/Echo-Engram"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-09-01T06:35:15Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-09-01T06:35:09Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
-    "id": "ermermermermidk/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ermermermermidk/mcp-ai-memory",
-    "stars": 1,
-    "updated_at": "2026-09-01T06:34:30Z",
-    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1116,
-    "updated_at": "2026-09-01T06:33:51Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "A modular RAG search engine built with Qdrant vector database, Whisper audio transcription, and LLMs",
-    "id": "sandeshsachan054-tech/qdrant-rag-engine",
-    "language": "Python",
-    "name": "sandeshsachan054-tech/qdrant-rag-engine",
-    "stars": 0,
-    "updated_at": "2026-09-01T06:32:43Z",
-    "url": "https://github.com/sandeshsachan054-tech/qdrant-rag-engine"
-  },
-  {
-    "description": "GameCrew AI: a game publishing AI team for multi-agent orchestration, vector knowledge memory and high-quality delivery",
-    "id": "realxuekun-commits/gamecrew-ai",
-    "language": "\u2014",
-    "name": "realxuekun-commits/gamecrew-ai",
-    "stars": 1,
-    "updated_at": "2026-09-01T06:20:33Z",
-    "url": "https://github.com/realxuekun-commits/gamecrew-ai"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34307,
-    "updated_at": "2026-09-01T06:11:28Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45912,
-    "updated_at": "2026-09-01T07:14:15Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 75,
-    "updated_at": "2026-09-01T06:07:55Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "AI agent code examples",
-    "id": "nekozzz94/NekoAI-agents",
-    "language": "Python",
-    "name": "nekozzz94/NekoAI-agents",
-    "stars": 16,
-    "updated_at": "2026-09-01T06:00:14Z",
-    "url": "https://github.com/nekozzz94/NekoAI-agents"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-01T07:13:59Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   }
 ]
