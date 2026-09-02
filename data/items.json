@@ -1,5 +1,77 @@
 [
   {
+    "description": "Native Rust vector and full-text engine",
+    "id": "A3S-Lab/Vec",
+    "language": "Rust",
+    "name": "A3S-Lab/Vec",
+    "stars": 1,
+    "updated_at": "2026-09-02T03:23:58Z",
+    "url": "https://github.com/A3S-Lab/Vec"
+  },
+  {
+    "description": "Enterprise multi-source RAG platform with multimodal embedding, hybrid vector/BM25 retrieval, MCP & RBAC support",
+    "id": "Today-Hbw/rag-platform",
+    "language": "Python",
+    "name": "Today-Hbw/rag-platform",
+    "stars": 12,
+    "updated_at": "2026-09-02T03:22:32Z",
+    "url": "https://github.com/Today-Hbw/rag-platform"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-02T03:21:31Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 841,
+    "updated_at": "2026-09-02T03:20:55Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65487,
+    "updated_at": "2026-09-02T03:19:36Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Project OverviewThe Canal Monitoring System is an AI-ready web interface designed for real-time surveillance and monitor",
+    "id": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
+    "language": "Python",
+    "name": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
+    "stars": 0,
+    "updated_at": "2026-09-02T03:18:02Z",
+    "url": "https://github.com/ussamasaeed/AI_Powered_Canals_Monitoring_System"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-02T03:17:02Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T03:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -54,13 +126,13 @@
     "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
   },
   {
-    "description": "Enterprise multi-source RAG platform with multimodal embedding, hybrid vector/BM25 retrieval, MCP & RBAC support",
-    "id": "Today-Hbw/rag-platform",
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
     "language": "Python",
-    "name": "Today-Hbw/rag-platform",
-    "stars": 12,
-    "updated_at": "2026-09-02T03:06:47Z",
-    "url": "https://github.com/Today-Hbw/rag-platform"
+    "name": "Ontos-AI/knowhere",
+    "stars": 2818,
+    "updated_at": "2026-09-02T03:05:46Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -99,15 +171,6 @@
     "url": "https://github.com/ntnhan19/DocMentor"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T03:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -117,21 +180,12 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Native Rust vector and full-text engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 1,
-    "updated_at": "2026-09-02T02:58:26Z",
-    "url": "https://github.com/A3S-Lab/Vec"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1118,
-    "updated_at": "2026-09-02T02:54:11Z",
+    "updated_at": "2026-09-02T03:23:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -149,7 +203,7 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 121,
-    "updated_at": "2026-09-02T02:41:24Z",
+    "updated_at": "2026-09-02T03:27:11Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -178,24 +232,6 @@
     "stars": 1619,
     "updated_at": "2026-09-02T02:30:20Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 841,
-    "updated_at": "2026-09-02T02:24:36Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2817,
-    "updated_at": "2026-09-02T03:05:46Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -250,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-09-02T01:43:32Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65486,
-    "updated_at": "2026-09-02T01:38:31Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
@@ -347,7 +374,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 6,
-    "updated_at": "2026-09-02T01:50:03Z",
+    "updated_at": "2026-09-02T03:26:50Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
@@ -364,7 +391,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34326,
+    "stars": 34327,
     "updated_at": "2026-09-02T00:26:49Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -400,7 +427,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11332,
+    "stars": 11333,
     "updated_at": "2026-09-02T00:02:13Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -414,15 +441,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-02T00:00:28Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -430,23 +448,5 @@
     "stars": 8167,
     "updated_at": "2026-09-01T23:34:09Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 25,
-    "updated_at": "2026-09-01T23:41:05Z",
-    "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-09-01T23:26:43Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   }
 ]
