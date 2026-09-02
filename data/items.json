@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-02T01:45:26Z",
+    "updated_at": "2026-09-02T02:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 8,
+    "updated_at": "2026-09-02T02:00:09Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
+    "id": "xbsheng/ai-from-scratch",
+    "language": "Python",
+    "name": "xbsheng/ai-from-scratch",
+    "stars": 1,
+    "updated_at": "2026-09-02T01:53:51Z",
+    "url": "https://github.com/xbsheng/ai-from-scratch"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-02T01:51:08Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T01:45:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -23,8 +59,17 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 841,
-    "updated_at": "2026-09-02T01:41:34Z",
+    "updated_at": "2026-09-02T01:59:26Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65481,
+    "updated_at": "2026-09-02T01:38:31Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
@@ -50,17 +95,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9219,
-    "updated_at": "2026-09-02T01:32:06Z",
+    "updated_at": "2026-09-02T02:00:15Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T01:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type",
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T01:26:39Z",
     "url": "https://github.com/corvid-db/corvid"
-  },
-  {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 8,
-    "updated_at": "2026-09-02T01:27:31Z",
-    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "Embeddable vector database for Rust and Python. HNSW indexing, metadata filtering, hybrid search, and snapshots. The SQL",
@@ -117,15 +144,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-02T01:06:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "tuned-org-uk/genegraph-storage",
     "stars": 2,
-    "updated_at": "2026-09-02T01:02:36Z",
+    "updated_at": "2026-09-02T01:57:36Z",
     "url": "https://github.com/tuned-org-uk/genegraph-storage"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1117,
-    "updated_at": "2026-09-02T01:33:03Z",
+    "updated_at": "2026-09-02T01:59:32Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 76,
-    "updated_at": "2026-09-02T00:46:19Z",
+    "updated_at": "2026-09-02T02:00:15Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-redb",
     "stars": 6,
-    "updated_at": "2026-09-02T01:45:21Z",
+    "updated_at": "2026-09-02T01:50:03Z",
     "url": "https://github.com/varun29ankuS/shodh-redb"
   },
   {
@@ -274,7 +292,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45921,
+    "stars": 45922,
     "updated_at": "2026-09-01T23:42:01Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -328,7 +346,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51973,
+    "stars": 51974,
     "updated_at": "2026-09-01T23:18:37Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -337,7 +355,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35479,
+    "stars": 35480,
     "updated_at": "2026-09-01T23:15:39Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-01T22:41:44Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 3,
-    "updated_at": "2026-09-01T22:40:14Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:39:59Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
   }
 ]
