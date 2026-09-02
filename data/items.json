@@ -1,30 +1,12 @@
 [
   {
-    "description": "PDF research assistant \u2014 upload any PDF, ask questions, get cited answers",
-    "id": "breakingthebot/langchain-pdf-research-assistant-build96",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "breakingthebot/langchain-pdf-research-assistant-build96",
-    "stars": 0,
-    "updated_at": "2026-09-02T22:43:35Z",
-    "url": "https://github.com/breakingthebot/langchain-pdf-research-assistant-build96"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 590,
-    "updated_at": "2026-09-02T22:39:10Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-02T22:38:57Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-09-02T23:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -32,8 +14,17 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-02T22:37:20Z",
+    "updated_at": "2026-09-02T22:58:25Z",
     "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 590,
+    "updated_at": "2026-09-02T22:56:28Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
     "description": "Read-only, empirical, offline auditor for vector indexes (LanceDB, Qdrant, pgvector).",
@@ -41,8 +32,53 @@
     "language": "Python",
     "name": "hbauzan/vhecfsck",
     "stars": 1,
-    "updated_at": "2026-09-02T22:36:44Z",
+    "updated_at": "2026-09-02T22:56:28Z",
     "url": "https://github.com/hbauzan/vhecfsck"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:54:14Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 9,
+    "updated_at": "2026-09-02T22:53:23Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "PDF research assistant \u2014 upload any PDF, ask questions, get cited answers",
+    "id": "breakingthebot/langchain-pdf-research-assistant-build96",
+    "language": "Python",
+    "name": "breakingthebot/langchain-pdf-research-assistant-build96",
+    "stars": 0,
+    "updated_at": "2026-09-02T22:52:52Z",
+    "url": "https://github.com/breakingthebot/langchain-pdf-research-assistant-build96"
+  },
+  {
+    "description": "DSH local knowledge base plugin: multi-format import, smart chunking, vector index, hybrid search (BM25 + sqlite-vec + R",
+    "id": "xiaoshi7915/dsh-kb-manager",
+    "language": "JavaScript",
+    "name": "xiaoshi7915/dsh-kb-manager",
+    "stars": 1,
+    "updated_at": "2026-09-02T22:52:45Z",
+    "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T22:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-agent AI academic advisor. Parses a university transcript PDF, then generates a validated 4-year course plan via a",
@@ -70,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T22:32:06Z",
     "url": "https://github.com/A3S-Lab/Vec"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T22:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -113,17 +140,8 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 8,
-    "updated_at": "2026-09-02T22:35:04Z",
+    "updated_at": "2026-09-02T22:47:26Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-02T22:39:26Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
@@ -414,15 +432,6 @@
     "url": "https://github.com/sarcosomebankcheck694/coordinode"
   },
   {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 9,
-    "updated_at": "2026-09-02T21:20:44Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
     "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
     "id": "cornelablastular720/dbdb-index",
     "language": "Go",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-02T20:46:30Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-09-02T20:45:44Z",
-    "url": "https://github.com/aziz5971/TalentLens"
   }
 ]
