@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-02T08:45:21Z",
+    "updated_at": "2026-09-02T09:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13004,
+    "updated_at": "2026-09-02T08:58:46Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI Native Vector and Full-text engine",
+    "id": "A3S-Lab/Vec",
+    "language": "Rust",
+    "name": "A3S-Lab/Vec",
+    "stars": 1,
+    "updated_at": "2026-09-02T08:58:29Z",
+    "url": "https://github.com/A3S-Lab/Vec"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 269,
+    "updated_at": "2026-09-02T08:57:39Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Redis Vector Library. The AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 424,
+    "updated_at": "2026-09-02T08:59:01Z",
+    "url": "https://github.com/redis/redis-vl-python"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1120,
+    "updated_at": "2026-09-02T08:46:05Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T08:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
@@ -14,8 +68,17 @@
     "language": "Python",
     "name": "oracle/ai-optimizer",
     "stars": 100,
-    "updated_at": "2026-09-02T08:44:58Z",
+    "updated_at": "2026-09-02T08:55:17Z",
     "url": "https://github.com/oracle/ai-optimizer"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-02T08:42:52Z",
+    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
@@ -45,15 +108,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 269,
-    "updated_at": "2026-09-02T08:39:43Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
     "description": "\u9762\u5411\u667a\u80fd\u6e05\u6d01\u8bbe\u5907\u552e\u524d\u54a8\u8be2\u3001\u6545\u969c\u8bca\u65ad\u4e0e\u7528\u6237\u8fd0\u8425\u7684\u4f01\u4e1a\u7ea7\u591a\u667a\u80fd\u4f53\u670d\u52a1\u5e73\u53f0\u3002\u57fa\u4e8e LangChain/LangGraph\u3001\u901a\u4e49\u5343\u95ee\u3001Chroma RAG\u3001FastAPI\u3001React \u4e0e SQLite\uff0c\u96c6\u6210\u8c03\u5ea6 Agent\u3001\u53d7\u63a7 Skill\u3001\u77e5\u8bc6\u5e93",
     "id": "HHHFFF-HHHFFF/CleanPilot-AI",
     "language": "Python",
@@ -77,7 +131,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16779,
-    "updated_at": "2026-09-02T08:42:59Z",
+    "updated_at": "2026-09-02T08:59:56Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -86,8 +140,17 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4432,
-    "updated_at": "2026-09-02T08:36:35Z",
+    "updated_at": "2026-09-02T08:52:30Z",
     "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34333,
+    "updated_at": "2026-09-02T08:36:23Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -113,17 +176,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7075,
-    "updated_at": "2026-09-02T08:30:30Z",
+    "updated_at": "2026-09-02T08:49:56Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T08:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -140,7 +194,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-02T08:28:31Z",
+    "updated_at": "2026-09-02T08:51:12Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30411,
-    "updated_at": "2026-09-02T08:30:08Z",
+    "updated_at": "2026-09-02T08:55:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -166,7 +220,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45930,
+    "stars": 45931,
     "updated_at": "2026-09-02T08:25:11Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -194,7 +248,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-09-02T08:21:56Z",
+    "updated_at": "2026-09-02T08:47:07Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -212,7 +266,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6228,
-    "updated_at": "2026-09-02T08:44:06Z",
+    "updated_at": "2026-09-02T08:51:04Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -234,15 +288,6 @@
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13002,
-    "updated_at": "2026-09-02T08:28:08Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "- ",
     "id": "Chief-Strategist-J/llm-observability-platform",
     "language": "Python",
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-02T08:43:24Z",
+    "updated_at": "2026-09-02T08:56:36Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -313,24 +358,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T07:37:43Z",
     "url": "https://github.com/tryAGI/Chroma"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1119,
-    "updated_at": "2026-09-02T08:45:22Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI Native Vector and Full-text engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 1,
-    "updated_at": "2026-09-02T07:36:39Z",
-    "url": "https://github.com/A3S-Lab/Vec"
   },
   {
     "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
@@ -421,32 +448,5 @@
     "stars": 17,
     "updated_at": "2026-09-02T07:16:41Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
-    "id": "lancedb/docs",
-    "language": "Python",
-    "name": "lancedb/docs",
-    "stars": 11,
-    "updated_at": "2026-09-02T08:24:32Z",
-    "url": "https://github.com/lancedb/docs"
-  },
-  {
-    "description": "DSH local knowledge base plugin: multi-format import, smart chunking, vector index, hybrid search (BM25 + sqlite-vec + R",
-    "id": "xiaoshi7915/dsh-kb-manager",
-    "language": "JavaScript",
-    "name": "xiaoshi7915/dsh-kb-manager",
-    "stars": 1,
-    "updated_at": "2026-09-02T07:14:38Z",
-    "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-02T07:14:18Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   }
 ]
