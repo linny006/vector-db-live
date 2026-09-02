@@ -1,5 +1,50 @@
 [
   {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1348,
+    "updated_at": "2026-09-02T15:27:29Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1121,
+    "updated_at": "2026-09-02T15:25:49Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12918,
+    "updated_at": "2026-09-02T15:25:23Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-02T15:17:47Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T15:15:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +52,33 @@
     "stars": 3,
     "updated_at": "2026-09-02T15:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9223,
+    "updated_at": "2026-09-02T15:14:24Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30415,
+    "updated_at": "2026-09-02T15:26:21Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-09-02T15:12:30Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -36,6 +108,15 @@
     "url": "https://github.com/Daaboulex/openviking-nix"
   },
   {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-02T15:04:13Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
     "description": "Agentic RAG in Python: LangChain, LangGraph and pgvector, with hybrid retrieval, guardrails and a graded evaluation suit",
     "id": "kleberbernardo/rag_agent",
     "language": "Python",
@@ -43,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T15:02:18Z",
     "url": "https://github.com/kleberbernardo/rag_agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T15:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type",
@@ -68,17 +140,17 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34340,
-    "updated_at": "2026-09-02T14:54:38Z",
+    "updated_at": "2026-09-02T15:29:50Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-09-02T15:12:30Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8171,
+    "updated_at": "2026-09-02T14:53:46Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -113,7 +185,7 @@
     "language": "Rust",
     "name": "A3S-Lab/Vec",
     "stars": 1,
-    "updated_at": "2026-09-02T15:07:48Z",
+    "updated_at": "2026-09-02T15:24:33Z",
     "url": "https://github.com/A3S-Lab/Vec"
   },
   {
@@ -124,15 +196,6 @@
     "stars": 5882,
     "updated_at": "2026-09-02T14:38:23Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30416,
-    "updated_at": "2026-09-02T15:12:42Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -198,21 +261,12 @@
     "url": "https://github.com/tamnd/yo"
   },
   {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1348,
-    "updated_at": "2026-09-02T14:49:41Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-02T15:12:24Z",
+    "updated_at": "2026-09-02T15:20:52Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -311,7 +365,7 @@
     "language": "TypeScript",
     "name": "IBazylchuk/paparats-mcp",
     "stars": 10,
-    "updated_at": "2026-09-02T13:48:44Z",
+    "updated_at": "2026-09-02T15:18:36Z",
     "url": "https://github.com/IBazylchuk/paparats-mcp"
   },
   {
@@ -340,15 +394,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T13:45:46Z",
     "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1121,
-    "updated_at": "2026-09-02T15:03:03Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T13:41:56Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-02T13:41:49Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-09-02T13:41:00Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-09-02T13:39:51Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-09-02T13:39:14Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-09-02T13:39:01Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
   }
 ]
