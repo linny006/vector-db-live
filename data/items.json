@@ -1,11 +1,47 @@
 [
   {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 94,
+    "updated_at": "2026-09-02T20:03:37Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-02T20:03:15Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-09-02T20:03:11Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T20:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-02T19:58:33Z",
+    "updated_at": "2026-09-02T20:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T19:54:32Z",
     "url": "https://github.com/hbauzan/vhecfsck"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-02T19:57:58Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Un chatbot inmobiliario basado en arquitectura RAG (Retrieval-Augmented Generation). Combina b\u00fasqueda sem\u00e1ntica con Open",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T19:46:35Z",
     "url": "https://github.com/nenedesign/nenedesign"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T19:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -149,7 +167,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1122,
-    "updated_at": "2026-09-02T19:44:49Z",
+    "updated_at": "2026-09-02T20:02:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6394,
-    "updated_at": "2026-09-02T19:44:29Z",
+    "updated_at": "2026-09-02T20:05:55Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -302,7 +320,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8172,
-    "updated_at": "2026-09-02T19:56:41Z",
+    "updated_at": "2026-09-02T20:03:29Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-02T17:53:18Z",
     "url": "https://github.com/Dakera-AI/dakera-go"
-  },
-  {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 9,
-    "updated_at": "2026-09-02T17:48:17Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Go",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 2,
-    "updated_at": "2026-09-02T17:46:58Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
   }
 ]
