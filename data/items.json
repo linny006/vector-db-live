@@ -1,11 +1,83 @@
 [
   {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-02T10:43:36Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
+    "id": "tryAGI/Pinecone",
+    "language": "C#",
+    "name": "tryAGI/Pinecone",
+    "stars": 8,
+    "updated_at": "2026-09-02T10:42:28Z",
+    "url": "https://github.com/tryAGI/Pinecone"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-09-02T10:45:02Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-02T10:36:36Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-02T10:31:56Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T10:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T10:45:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34337,
+    "updated_at": "2026-09-02T10:30:17Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type",
     "id": "corvid-db/corvid",
     "language": "Rust",
     "name": "corvid-db/corvid",
     "stars": 1,
-    "updated_at": "2026-09-02T10:28:37Z",
+    "updated_at": "2026-09-02T10:34:51Z",
     "url": "https://github.com/corvid-db/corvid"
   },
   {
@@ -59,7 +131,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16779,
-    "updated_at": "2026-09-02T10:24:07Z",
+    "updated_at": "2026-09-02T10:42:09Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -86,7 +158,7 @@
     "language": "Go",
     "name": "k8ssandra/k8ssandra-operator",
     "stars": 242,
-    "updated_at": "2026-09-02T10:16:12Z",
+    "updated_at": "2026-09-02T10:45:13Z",
     "url": "https://github.com/k8ssandra/k8ssandra-operator"
   },
   {
@@ -95,35 +167,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30412,
-    "updated_at": "2026-09-02T10:29:58Z",
+    "updated_at": "2026-09-02T10:43:09Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T10:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T10:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-02T10:14:28Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "AI Native Vector and Full-text engine",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "qdrant/skills",
     "stars": 230,
-    "updated_at": "2026-09-02T10:21:17Z",
+    "updated_at": "2026-09-02T10:40:37Z",
     "url": "https://github.com/qdrant/skills"
   },
   {
@@ -153,30 +198,12 @@
     "url": "https://github.com/Jainex17/PaperTalk"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-02T10:09:51Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34338,
-    "updated_at": "2026-09-02T10:30:17Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1120,
-    "updated_at": "2026-09-02T10:08:42Z",
+    "updated_at": "2026-09-02T10:42:12Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -194,8 +221,17 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7075,
-    "updated_at": "2026-09-02T10:20:54Z",
+    "updated_at": "2026-09-02T10:42:12Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13003,
+    "updated_at": "2026-09-02T10:05:14Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -203,7 +239,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-09-02T10:30:12Z",
+    "updated_at": "2026-09-02T10:31:10Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T10:00:06Z",
     "url": "https://github.com/xiaoshi7915/dsh-kb-manager"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13004,
-    "updated_at": "2026-09-02T10:05:14Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
@@ -266,7 +293,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45929,
-    "updated_at": "2026-09-02T10:21:25Z",
+    "updated_at": "2026-09-02T10:43:28Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-02T10:08:10Z",
+    "updated_at": "2026-09-02T10:39:25Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 59167,
     "updated_at": "2026-09-02T09:52:39Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
-    "id": "lingxinmind/vecmindb-sdk",
-    "language": "Python",
-    "name": "lingxinmind/vecmindb-sdk",
-    "stars": 1,
-    "updated_at": "2026-09-02T08:32:12Z",
-    "url": "https://github.com/lingxinmind/vecmindb-sdk"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-02T08:29:38Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Open-source RAG platform for pluggable document ingestion, multimodal indexing, hybrid search, tenant-isolated APIs, RBA",
-    "id": "Today-Hbw/rag-platform",
-    "language": "Python",
-    "name": "Today-Hbw/rag-platform",
-    "stars": 12,
-    "updated_at": "2026-09-02T08:25:13Z",
-    "url": "https://github.com/Today-Hbw/rag-platform"
   }
 ]
