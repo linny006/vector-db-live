@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-02 22:30 UTC
+> ⏰ Last updated: 2026-09-02 22:38 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-02 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
-| 3 | [MaxFreedomPollard/Compartment](https://github.com/MaxFreedomPollard/Compartment) | 590 | Python | 2026-09-02 | Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati |
-| 4 | [breakingthebot/langchain-pdf-research-assistant-build96](https://github.com/breakingthebot/langchain-pdf-research-assistant-build96) | 0 | Python | 2026-09-02 | PDF research assistant — upload any PDF, ask questions, get cited answers |
-| 5 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9224 | Rust | 2026-09-02 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 6 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-09-02 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 7 | [neuml/txtai](https://github.com/neuml/txtai) | 12919 | Python | 2026-09-02 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
-| 8 | [hbauzan/vhecfsck](https://github.com/hbauzan/vhecfsck) | 1 | Python | 2026-09-02 | Read-only, empirical, offline auditor for vector indexes (LanceDB, Qdrant, pgvector). |
-| 9 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 8 | Rust | 2026-09-02 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [iberi22/xavier](https://github.com/iberi22/xavier) | 0 | Rust | 2026-09-02 | Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context |
-| 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-09-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 13 | [ricmed/zettel_app](https://github.com/ricmed/zettel_app) | 0 | Python | 2026-09-02 | Adaptação do Método Zettelkasten, de gestão de conhecimento, para o mundo digital |
-| 14 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-02 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 15 | [MansurTiyes/project_warszawa](https://github.com/MansurTiyes/project_warszawa) | 0 | Python | 2026-09-02 | Multi-agent AI academic advisor. Parses a university transcript PDF, then generates a validated 4-year course plan via a |
-| 16 | [A3S-Lab/Vec](https://github.com/A3S-Lab/Vec) | 1 | Rust | 2026-09-02 | AI Native Vector and Full-text engine |
+| 1 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-02 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 2 | [hbauzan/vhecfsck](https://github.com/hbauzan/vhecfsck) | 1 | Python | 2026-09-02 | Read-only, empirical, offline auditor for vector indexes (LanceDB, Qdrant, pgvector). |
+| 3 | [MansurTiyes/project_warszawa](https://github.com/MansurTiyes/project_warszawa) | 0 | Python | 2026-09-02 | Multi-agent AI academic advisor. Parses a university transcript PDF, then generates a validated 4-year course plan via a |
+| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-09-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 5 | [A3S-Lab/Vec](https://github.com/A3S-Lab/Vec) | 1 | Rust | 2026-09-02 | AI Native Vector and Full-text engine |
+| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 8 | [MaxFreedomPollard/Compartment](https://github.com/MaxFreedomPollard/Compartment) | 590 | Python | 2026-09-02 | Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati |
+| 9 | [breakingthebot/langchain-pdf-research-assistant-build96](https://github.com/breakingthebot/langchain-pdf-research-assistant-build96) | 0 | Python | 2026-09-02 | PDF research assistant — upload any PDF, ask questions, get cited answers |
+| 10 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9224 | Rust | 2026-09-02 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 11 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-09-02 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 12 | [neuml/txtai](https://github.com/neuml/txtai) | 12919 | Python | 2026-09-02 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
+| 13 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 8 | Rust | 2026-09-02 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
+| 14 | [iberi22/xavier](https://github.com/iberi22/xavier) | 0 | Rust | 2026-09-02 | Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context |
+| 15 | [ricmed/zettel_app](https://github.com/ricmed/zettel_app) | 0 | Python | 2026-09-02 | Adaptação do Método Zettelkasten, de gestão de conhecimento, para o mundo digital |
+| 16 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-02 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 17 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6228 | Rust | 2026-09-02 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
 | 18 | [IronCoreLabs/ironcore-alloy](https://github.com/IronCoreLabs/ironcore-alloy) | 30 | Rust | 2026-09-02 | A unified SDK for IronCore encryption operations including vector encryption for AI data |
 | 19 | [tuned-org-uk/genegraph-storage](https://github.com/tuned-org-uk/genegraph-storage) | 2 | Rust | 2026-09-02 | A minimal storage layer for storing large matrices and embeddings |
