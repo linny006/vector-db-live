@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T12:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-09-02T12:22:22Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-09-02T12:19:56Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T12:15:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-02T12:13:33Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
     "id": "inlaySQL/inlaysql",
     "language": "Rust",
@@ -7,6 +52,15 @@
     "stars": 2,
     "updated_at": "2026-09-02T12:13:27Z",
     "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 28,
+    "updated_at": "2026-09-02T12:13:11Z",
+    "url": "https://github.com/rostamlabs/rostam"
   },
   {
     "description": "AI Native Vector and Full-text engine",
@@ -41,7 +95,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13003,
-    "updated_at": "2026-09-02T12:03:02Z",
+    "updated_at": "2026-09-02T12:25:26Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16779,
-    "updated_at": "2026-09-02T12:14:02Z",
+    "updated_at": "2026-09-02T12:26:18Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -61,33 +115,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T12:00:41Z",
     "url": "https://github.com/tryAGI/Chroma"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T12:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T12:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-09-02T11:57:40Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30414,
-    "updated_at": "2026-09-02T12:10:08Z",
+    "updated_at": "2026-09-02T12:25:40Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -205,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T11:36:58Z",
     "url": "https://github.com/Lujain-ALghamdi/RAG-PDF-QA-Assistant"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-02T12:13:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
@@ -239,7 +257,7 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 841,
-    "updated_at": "2026-09-02T11:26:20Z",
+    "updated_at": "2026-09-02T12:23:41Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-09-02T11:12:47Z",
+    "updated_at": "2026-09-02T12:26:05Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-09-02T11:47:43Z",
+    "updated_at": "2026-09-02T12:28:11Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 242,
     "updated_at": "2026-09-02T11:28:30Z",
     "url": "https://github.com/k8ssandra/k8ssandra-operator"
-  },
-  {
-    "description": "upload multiple documents (PDF, DOCX, TXT) and ask questions about them",
-    "id": "Jainex17/PaperTalk",
-    "language": "Python",
-    "name": "Jainex17/PaperTalk",
-    "stars": 1,
-    "updated_at": "2026-09-02T10:11:31Z",
-    "url": "https://github.com/Jainex17/PaperTalk"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1120,
-    "updated_at": "2026-09-02T11:46:46Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
