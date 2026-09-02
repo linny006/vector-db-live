@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T15:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Agentic chatbot project that utilizes LangChain and LangGraph to create a specialized banking agent chatbot focused on c",
+    "id": "arthur-A-Costa/LLM_Agentic_Chat",
+    "language": "Python",
+    "name": "arthur-A-Costa/LLM_Agentic_Chat",
+    "stars": 0,
+    "updated_at": "2026-09-02T15:43:54Z",
+    "url": "https://github.com/arthur-A-Costa/LLM_Agentic_Chat"
+  },
+  {
+    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
+    "id": "IronCoreLabs/ironcore-alloy",
+    "language": "Rust",
+    "name": "IronCoreLabs/ironcore-alloy",
+    "stars": 30,
+    "updated_at": "2026-09-02T15:38:41Z",
+    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
+  },
+  {
+    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
+    "id": "IBazylchuk/paparats-mcp",
+    "language": "TypeScript",
+    "name": "IBazylchuk/paparats-mcp",
+    "stars": 10,
+    "updated_at": "2026-09-02T15:42:01Z",
+    "url": "https://github.com/IBazylchuk/paparats-mcp"
+  },
+  {
+    "description": "Minimal local-first multimodal RAG library powered by SQLite + sqlite-vec.",
+    "id": "JulioPeixoto/softrag",
+    "language": "Python",
+    "name": "JulioPeixoto/softrag",
+    "stars": 20,
+    "updated_at": "2026-09-02T15:31:25Z",
+    "url": "https://github.com/JulioPeixoto/softrag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T15:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4432,
+    "updated_at": "2026-09-02T15:38:24Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -14,7 +77,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1121,
-    "updated_at": "2026-09-02T15:25:49Z",
+    "updated_at": "2026-09-02T15:41:18Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -27,31 +90,22 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
+    "description": "AI Native Vector and Full-text engine",
+    "id": "A3S-Lab/Vec",
+    "language": "Rust",
+    "name": "A3S-Lab/Vec",
+    "stars": 1,
+    "updated_at": "2026-09-02T15:24:33Z",
+    "url": "https://github.com/A3S-Lab/Vec"
+  },
+  {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
     "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "TypeScript",
     "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-09-02T15:17:47Z",
+    "updated_at": "2026-09-02T15:37:29Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T15:15:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T15:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -59,7 +113,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9223,
-    "updated_at": "2026-09-02T15:14:24Z",
+    "updated_at": "2026-09-02T15:33:28Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -68,7 +122,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30415,
-    "updated_at": "2026-09-02T15:26:21Z",
+    "updated_at": "2026-09-02T15:44:31Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -79,6 +133,15 @@
     "stars": 1881,
     "updated_at": "2026-09-02T15:12:30Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
+    "id": "jihadkhawaja/mem0sharp",
+    "language": "C#",
+    "name": "jihadkhawaja/mem0sharp",
+    "stars": 16,
+    "updated_at": "2026-09-02T15:12:17Z",
+    "url": "https://github.com/jihadkhawaja/mem0sharp"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -106,6 +169,15 @@
     "stars": 3,
     "updated_at": "2026-09-02T15:06:24Z",
     "url": "https://github.com/Daaboulex/openviking-nix"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-02T15:05:17Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -140,7 +212,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34340,
-    "updated_at": "2026-09-02T15:29:50Z",
+    "updated_at": "2026-09-02T15:31:47Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -149,7 +221,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8171,
-    "updated_at": "2026-09-02T14:53:46Z",
+    "updated_at": "2026-09-02T15:36:08Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -180,15 +252,6 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
-    "description": "AI Native Vector and Full-text engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 1,
-    "updated_at": "2026-09-02T15:24:33Z",
-    "url": "https://github.com/A3S-Lab/Vec"
-  },
-  {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
@@ -196,15 +259,6 @@
     "stars": 5882,
     "updated_at": "2026-09-02T14:38:23Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-02T15:05:17Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI college assistant that routes student queries to academic/fee RAG pipelines or general chat, built with LangGraph, Gr",
@@ -266,7 +320,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-02T15:20:52Z",
+    "updated_at": "2026-09-02T15:43:02Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -360,15 +414,6 @@
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "Local\u2011first MCP server for multi\u2011repository semantic code search with Qdrant and llama. Turns your entire workspace into",
-    "id": "IBazylchuk/paparats-mcp",
-    "language": "TypeScript",
-    "name": "IBazylchuk/paparats-mcp",
-    "stars": 10,
-    "updated_at": "2026-09-02T15:18:36Z",
-    "url": "https://github.com/IBazylchuk/paparats-mcp"
-  },
-  {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
     "id": "constancywoodsy286/agentic-rag-for-practice",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T13:45:29Z",
     "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 4,
-    "updated_at": "2026-09-02T13:44:36Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-09-02T13:43:46Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-09-02T13:43:00Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-09-02T13:42:13Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-09-02T13:41:56Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
