@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-02T18:15:26Z",
+    "updated_at": "2026-09-02T18:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A dual-language workspace of AI/LLM projects in TypeScript and Python \u2014 LangChain, LangGraph, RAG, vector stores, MCP, a",
+    "id": "dilumdarshana/ai-concepts",
+    "language": "TypeScript",
+    "name": "dilumdarshana/ai-concepts",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:27:55Z",
+    "url": "https://github.com/dilumdarshana/ai-concepts"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-09-02T18:26:16Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:23:02Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "A minimal storage layer for storing large matrices and embeddings",
+    "id": "tuned-org-uk/genegraph-storage",
+    "language": "Rust",
+    "name": "tuned-org-uk/genegraph-storage",
+    "stars": 2,
+    "updated_at": "2026-09-02T18:22:48Z",
+    "url": "https://github.com/tuned-org-uk/genegraph-storage"
+  },
+  {
+    "description": "Moved to github.com/vanedb/vanedb (cpp/) \u2014 archived",
+    "id": "vanedb/vanedb-cpp",
+    "language": "C++",
+    "name": "vanedb/vanedb-cpp",
+    "stars": 4,
+    "updated_at": "2026-09-02T18:22:07Z",
+    "url": "https://github.com/vanedb/vanedb-cpp"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-09-02T18:19:59Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Full-stack AI sports analytics chatbot \u2014 RAG pipeline with LangChain + ChromaDB + Llama 3.2, FastAPI backend, custom Sla",
+    "id": "Boatengs/sports-rag-chatbot-",
+    "language": "Jupyter Notebook",
+    "name": "Boatengs/sports-rag-chatbot-",
+    "stars": 1,
+    "updated_at": "2026-09-02T18:16:25Z",
+    "url": "https://github.com/Boatengs/sports-rag-chatbot-"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T18:15:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30417,
+    "updated_at": "2026-09-02T18:28:14Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -54,15 +135,6 @@
     "url": "https://github.com/tamnd/yo"
   },
   {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-09-02T18:08:37Z",
-    "url": "https://github.com/23skdu/longbow"
-  },
-  {
     "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
     "id": "fewshot-works/academy",
     "language": "TypeScript",
@@ -70,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-09-02T18:00:43Z",
     "url": "https://github.com/fewshot-works/academy"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T18:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -115,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T17:53:15Z",
     "url": "https://github.com/Dakera-AI/dakera-js"
-  },
-  {
-    "description": "A minimal storage layer for storing large matrices and embeddings",
-    "id": "tuned-org-uk/genegraph-storage",
-    "language": "Rust",
-    "name": "tuned-org-uk/genegraph-storage",
-    "stars": 2,
-    "updated_at": "2026-09-02T18:14:07Z",
-    "url": "https://github.com/tuned-org-uk/genegraph-storage"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -203,7 +257,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9223,
-    "updated_at": "2026-09-02T18:13:52Z",
+    "updated_at": "2026-09-02T18:30:24Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -223,15 +277,6 @@
     "stars": 8173,
     "updated_at": "2026-09-02T18:13:11Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-09-02T17:21:10Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -277,15 +322,6 @@
     "stars": 16,
     "updated_at": "2026-09-02T17:10:00Z",
     "url": "https://github.com/jihadkhawaja/mem0sharp"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30416,
-    "updated_at": "2026-09-02T18:12:34Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -412,41 +448,5 @@
     "stars": 13005,
     "updated_at": "2026-09-02T16:05:11Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 51983,
-    "updated_at": "2026-09-02T16:02:32Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34342,
-    "updated_at": "2026-09-02T15:57:29Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
-    "id": "IronCoreLabs/ironcore-alloy",
-    "language": "Rust",
-    "name": "IronCoreLabs/ironcore-alloy",
-    "stars": 30,
-    "updated_at": "2026-09-02T15:55:39Z",
-    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59170,
-    "updated_at": "2026-09-02T17:40:06Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   }
 ]
