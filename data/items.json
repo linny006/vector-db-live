@@ -1,5 +1,86 @@
 [
   {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-02T19:45:14Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Official n8n creator | Production-ready automation workflows \u2014 Agentic RAG, multi-KB AI agents, AI governance, and priva",
+    "id": "nenedesign/n8n-workflows",
+    "language": "\u2014",
+    "name": "nenedesign/n8n-workflows",
+    "stars": 0,
+    "updated_at": "2026-09-02T19:44:42Z",
+    "url": "https://github.com/nenedesign/n8n-workflows"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-02T19:42:17Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
+    "id": "fewshot-works/academy",
+    "language": "TypeScript",
+    "name": "fewshot-works/academy",
+    "stars": 4,
+    "updated_at": "2026-09-02T19:40:30Z",
+    "url": "https://github.com/fewshot-works/academy"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1619,
+    "updated_at": "2026-09-02T19:40:23Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-02T19:42:58Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-02T19:34:19Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 343,
+    "updated_at": "2026-09-02T19:32:02Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T19:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,12 +90,21 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2282,
+    "updated_at": "2026-09-02T19:28:18Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1122,
-    "updated_at": "2026-09-02T19:30:09Z",
+    "updated_at": "2026-09-02T19:44:49Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -32,7 +122,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12918,
-    "updated_at": "2026-09-02T19:25:19Z",
+    "updated_at": "2026-09-02T19:32:01Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -52,6 +142,15 @@
     "stars": 52,
     "updated_at": "2026-09-02T19:21:27Z",
     "url": "https://github.com/rustic-ai/uni-db"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-02T19:18:46Z",
+    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -81,15 +180,6 @@
     "url": "https://github.com/A3S-Lab/Vec"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T19:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -104,26 +194,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6394,
-    "updated_at": "2026-09-02T19:23:58Z",
+    "updated_at": "2026-09-02T19:44:29Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-02T19:07:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2282,
-    "updated_at": "2026-09-02T19:28:18Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "Mithra Life OS is a production-grade, AI-native personal operating system that consolidates task management, habit track",
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "hbauzan/vhecfsck",
     "stars": 1,
-    "updated_at": "2026-09-02T19:08:02Z",
+    "updated_at": "2026-09-02T19:44:48Z",
     "url": "https://github.com/hbauzan/vhecfsck"
   },
   {
@@ -167,7 +239,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9433,
-    "updated_at": "2026-09-02T19:04:18Z",
+    "updated_at": "2026-09-02T19:44:28Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -216,39 +288,12 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-02T18:37:10Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-02T19:18:46Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-09-02T18:33:10Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9223,
-    "updated_at": "2026-09-02T19:24:33Z",
+    "updated_at": "2026-09-02T19:40:00Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -342,15 +387,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
-    "id": "fewshot-works/academy",
-    "language": "TypeScript",
-    "name": "fewshot-works/academy",
-    "stars": 4,
-    "updated_at": "2026-09-02T19:26:45Z",
-    "url": "https://github.com/fewshot-works/academy"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
     "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "TypeScript",
@@ -376,15 +412,6 @@
     "stars": 7,
     "updated_at": "2026-09-02T17:53:18Z",
     "url": "https://github.com/Dakera-AI/dakera-go"
-  },
-  {
-    "description": "Official n8n creator | Production-ready automation workflows \u2014 Agentic RAG, multi-KB AI agents, AI governance, and priva",
-    "id": "nenedesign/n8n-workflows",
-    "language": "\u2014",
-    "name": "nenedesign/n8n-workflows",
-    "stars": 0,
-    "updated_at": "2026-09-02T17:52:02Z",
-    "url": "https://github.com/nenedesign/n8n-workflows"
   },
   {
     "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-02T17:46:25Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Fully local RAG customer support chatbot \u2014 Llama 3.2 + LangChain + ChromaDB + FastAPI (SSE streaming) + Streamlit, with ",
-    "id": "BhanukaJanappriya/RAG-based-customer_support_chatbot-",
-    "language": "Python",
-    "name": "BhanukaJanappriya/RAG-based-customer_support_chatbot-",
-    "stars": 1,
-    "updated_at": "2026-09-02T17:43:26Z",
-    "url": "https://github.com/BhanukaJanappriya/RAG-based-customer_support_chatbot-"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-02T17:39:57Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45933,
-    "updated_at": "2026-09-02T17:25:30Z",
-    "url": "https://github.com/milvus-io/milvus"
   }
 ]
