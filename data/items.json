@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T03:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-02T03:12:41Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-02T03:08:39Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-02T03:08:11Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45925,
+    "updated_at": "2026-09-02T03:07:28Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh",
+    "id": "dangkhoa2016/Qdrant-Native-Portable",
+    "language": "Shell",
+    "name": "dangkhoa2016/Qdrant-Native-Portable",
+    "stars": 0,
+    "updated_at": "2026-09-02T03:06:53Z",
+    "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
+  },
+  {
+    "description": "Enterprise multi-source RAG platform with multimodal embedding, hybrid vector/BM25 retrieval, MCP & RBAC support",
+    "id": "Today-Hbw/rag-platform",
+    "language": "Python",
+    "name": "Today-Hbw/rag-platform",
+    "stars": 12,
+    "updated_at": "2026-09-02T03:06:47Z",
+    "url": "https://github.com/Today-Hbw/rag-platform"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-02T03:04:59Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": " Memory library for building stateful agents",
+    "id": "plastic-labs/honcho",
+    "language": "Python",
+    "name": "plastic-labs/honcho",
+    "stars": 6979,
+    "updated_at": "2026-09-02T03:03:48Z",
+    "url": "https://github.com/plastic-labs/honcho"
+  },
+  {
+    "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
+    "id": "tuned-org-uk/arrowspace-rs",
+    "language": "Rust",
+    "name": "tuned-org-uk/arrowspace-rs",
+    "stars": 42,
+    "updated_at": "2026-09-02T03:02:39Z",
+    "url": "https://github.com/tuned-org-uk/arrowspace-rs"
+  },
+  {
+    "description": "AI-powered document assistant with RAG, Q&A, summaries, quizzes & analytics. Full-stack: React 19 + FastAPI + PostgreSQL",
+    "id": "ntnhan19/DocMentor",
+    "language": "TypeScript",
+    "name": "ntnhan19/DocMentor",
+    "stars": 1,
+    "updated_at": "2026-09-02T03:00:33Z",
+    "url": "https://github.com/ntnhan19/DocMentor"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T03:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -16,33 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T02:58:26Z",
     "url": "https://github.com/A3S-Lab/Vec"
-  },
-  {
-    "description": "Enterprise multi-source RAG platform with multimodal embedding, hybrid vector/BM25 retrieval, MCP & RBAC support",
-    "id": "Today-Hbw/rag-platform",
-    "language": "Python",
-    "name": "Today-Hbw/rag-platform",
-    "stars": 12,
-    "updated_at": "2026-09-02T02:58:00Z",
-    "url": "https://github.com/Today-Hbw/rag-platform"
-  },
-  {
-    "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
-    "id": "tuned-org-uk/arrowspace-rs",
-    "language": "Rust",
-    "name": "tuned-org-uk/arrowspace-rs",
-    "stars": 42,
-    "updated_at": "2026-09-02T02:58:34Z",
-    "url": "https://github.com/tuned-org-uk/arrowspace-rs"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-02T02:55:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -63,24 +144,6 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T02:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T02:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The documentation for SurrealDB, powered by Astro",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
@@ -97,15 +160,6 @@
     "stars": 75,
     "updated_at": "2026-09-02T02:40:59Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh",
-    "id": "dangkhoa2016/Qdrant-Native-Portable",
-    "language": "Shell",
-    "name": "dangkhoa2016/Qdrant-Native-Portable",
-    "stars": 0,
-    "updated_at": "2026-09-02T02:40:15Z",
-    "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
   },
   {
     "description": "Demo project. Semantic audio search for journalists",
@@ -126,24 +180,6 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45924,
-    "updated_at": "2026-09-02T02:23:26Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-02T02:23:10Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "Intrect-io/OpenSwarm",
     "language": "TypeScript",
@@ -157,8 +193,8 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2816,
-    "updated_at": "2026-09-02T02:13:50Z",
+    "stars": 2817,
+    "updated_at": "2026-09-02T03:05:46Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -169,15 +205,6 @@
     "stars": 8,
     "updated_at": "2026-09-02T02:03:32Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-02T02:02:06Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
@@ -229,7 +256,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65485,
+    "stars": 65486,
     "updated_at": "2026-09-02T01:38:31Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -257,7 +284,7 @@
     "language": "Rust",
     "name": "PhilipJohnBasile/vecstore",
     "stars": 16,
-    "updated_at": "2026-09-02T02:59:49Z",
+    "updated_at": "2026-09-02T03:01:53Z",
     "url": "https://github.com/PhilipJohnBasile/vecstore"
   },
   {
@@ -400,7 +427,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8168,
+    "stars": 8167,
     "updated_at": "2026-09-01T23:34:09Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-01T23:26:43Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "LlamaIndex is the leading document agent and OCR platform",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 51973,
-    "updated_at": "2026-09-01T23:18:37Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35480,
-    "updated_at": "2026-09-01T23:15:39Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3278,
-    "updated_at": "2026-09-01T23:05:44Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
   }
 ]
