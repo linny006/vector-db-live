@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-02T23:15:21Z",
+    "updated_at": "2026-09-02T23:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,62 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-02T23:13:07Z",
+    "updated_at": "2026-09-02T23:29:07Z",
     "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "AI Native Vector and Full-text engine",
+    "id": "A3S-Lab/Vec",
+    "language": "Rust",
+    "name": "A3S-Lab/Vec",
+    "stars": 1,
+    "updated_at": "2026-09-02T23:28:23Z",
+    "url": "https://github.com/A3S-Lab/Vec"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 590,
+    "updated_at": "2026-09-02T23:26:29Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-02T23:20:06Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-02T23:19:13Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-09-02T23:16:57Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T23:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Read-only, empirical, offline auditor for vector indexes (LanceDB, Qdrant, pgvector).",
@@ -25,15 +79,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T23:13:06Z",
     "url": "https://github.com/hbauzan/vhecfsck"
-  },
-  {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 590,
-    "updated_at": "2026-09-02T23:12:22Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -81,24 +126,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T23:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-02T22:58:25Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
     "id": "K2alyan/aksharaMD",
     "language": "Python",
@@ -135,21 +162,12 @@
     "url": "https://github.com/MansurTiyes/project_warszawa"
   },
   {
-    "description": "AI Native Vector and Full-text engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 1,
-    "updated_at": "2026-09-02T22:32:06Z",
-    "url": "https://github.com/A3S-Lab/Vec"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9224,
-    "updated_at": "2026-09-02T23:08:35Z",
+    "updated_at": "2026-09-02T23:22:09Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -257,7 +275,7 @@
     "language": "TypeScript",
     "name": "Tibab222/cvMaker",
     "stars": 3,
-    "updated_at": "2026-09-02T22:01:28Z",
+    "updated_at": "2026-09-02T23:27:56Z",
     "url": "https://github.com/Tibab222/cvMaker"
   },
   {
@@ -313,15 +331,6 @@
     "stars": 45934,
     "updated_at": "2026-09-02T21:09:30Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-02T21:03:15Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T20:47:28Z",
     "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:47:27Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
   }
 ]
