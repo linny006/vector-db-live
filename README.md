@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-02 00:23 UTC
+> ⏰ Last updated: 2026-09-02 00:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [corvid-db/corvid](https://github.com/corvid-db/corvid) | 1 | Rust | 2026-09-02 | Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type |
-| 2 | [tuned-org-uk/genegraph-storage](https://github.com/tuned-org-uk/genegraph-storage) | 2 | Rust | 2026-09-02 | A minimal storage layer for storing large matrices and embeddings |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-09-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 5 | [Intrect-io/OpenSwarm](https://github.com/Intrect-io/OpenSwarm) | 841 | TypeScript | 2026-09-02 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
-| 6 | [neuml/txtai](https://github.com/neuml/txtai) | 12918 | Python | 2026-09-02 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
-| 7 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 8 | Rust | 2026-09-02 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
-| 8 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-09-02 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 9 | [edumgt/docker-class](https://github.com/edumgt/docker-class) | 5 | Python | 2026-09-02 | Windows WSL2부터 Docker·Compose, 온프레미스 DevSecOps, Ollama·RAG 기반 AI 애플리케이션 개발까지 다루는 한국어 실습 교육 자료 |
-| 10 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1881 | Go | 2026-09-02 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 11 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-02 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
-| 12 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 853 | Go | 2026-09-01 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 13 | [ahmed-hashim-pro/rag-knowledge-agent](https://github.com/ahmed-hashim-pro/rag-knowledge-agent) | 0 | Python | 2026-09-01 | CLI RAG agent over a local corpus: cited answers, confidence gating that refuses without evidence, prompt-injection defe |
-| 14 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-01 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 15 | [hordiales/audio-semantic-search-for-journalists](https://github.com/hordiales/audio-semantic-search-for-journalists) | 0 | Python | 2026-09-01 | Demo project. Semantic audio search for journalists |
-| 16 | [MariaDB/server](https://github.com/MariaDB/server) | 8168 | C++ | 2026-09-01 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 17 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-09-01 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 4 | [corvid-db/corvid](https://github.com/corvid-db/corvid) | 1 | Rust | 2026-09-02 | Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type |
+| 5 | [tuned-org-uk/genegraph-storage](https://github.com/tuned-org-uk/genegraph-storage) | 2 | Rust | 2026-09-02 | A minimal storage layer for storing large matrices and embeddings |
+| 6 | [Intrect-io/OpenSwarm](https://github.com/Intrect-io/OpenSwarm) | 841 | TypeScript | 2026-09-02 | OpenSwarm — Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti |
+| 7 | [neuml/txtai](https://github.com/neuml/txtai) | 12918 | Python | 2026-09-02 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
+| 8 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 8 | Rust | 2026-09-02 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
+| 9 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 76 | Python | 2026-09-02 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 10 | [edumgt/docker-class](https://github.com/edumgt/docker-class) | 5 | Python | 2026-09-02 | Windows WSL2부터 Docker·Compose, 온프레미스 DevSecOps, Ollama·RAG 기반 AI 애플리케이션 개발까지 다루는 한국어 실습 교육 자료 |
+| 11 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1881 | Go | 2026-09-02 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 12 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-02 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 13 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 853 | Go | 2026-09-01 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
+| 14 | [ahmed-hashim-pro/rag-knowledge-agent](https://github.com/ahmed-hashim-pro/rag-knowledge-agent) | 0 | Python | 2026-09-01 | CLI RAG agent over a local corpus: cited answers, confidence gating that refuses without evidence, prompt-injection defe |
+| 15 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-01 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 16 | [hordiales/audio-semantic-search-for-journalists](https://github.com/hordiales/audio-semantic-search-for-journalists) | 0 | Python | 2026-09-01 | Demo project. Semantic audio search for journalists |
+| 17 | [MariaDB/server](https://github.com/MariaDB/server) | 8168 | C++ | 2026-09-01 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 18 | [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) | 42 | Rust | 2026-09-01 | Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri |
 | 19 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11329 | Rust | 2026-09-02 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 20 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 25 | Go | 2026-09-01 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
@@ -70,7 +70,7 @@ expired items removed — so you can rely on what you see being current.
 | 26 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9219 | Rust | 2026-09-02 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
 | 27 | [varun29ankuS/shodh-redb](https://github.com/varun29ankuS/shodh-redb) | 6 | Rust | 2026-09-02 | Multi-modal embedded database in pure Rust -- native vector search, blob store, TTL, merge operators, CDC, time-travel,  |
 | 28 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-01 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 29 | [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) | 3277 | TypeScript | 2026-09-01 | Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem |
+| 29 | [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) | 3278 | TypeScript | 2026-09-01 | Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem |
 | 30 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-09-01 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
 | 31 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-09-01 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
 | 32 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-09-01 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |

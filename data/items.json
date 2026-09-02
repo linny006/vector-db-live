@@ -1,11 +1,38 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T00:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-02T00:24:03Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T00:23:57Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type",
     "id": "corvid-db/corvid",
     "language": "Rust",
     "name": "corvid-db/corvid",
     "stars": 1,
-    "updated_at": "2026-09-02T00:22:41Z",
+    "updated_at": "2026-09-02T00:26:30Z",
     "url": "https://github.com/corvid-db/corvid"
   },
   {
@@ -14,26 +41,8 @@
     "language": "Rust",
     "name": "tuned-org-uk/genegraph-storage",
     "stars": 2,
-    "updated_at": "2026-09-02T00:17:44Z",
+    "updated_at": "2026-09-02T00:30:06Z",
     "url": "https://github.com/tuned-org-uk/genegraph-storage"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T00:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T00:15:28Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -41,7 +50,7 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 841,
-    "updated_at": "2026-09-02T00:16:46Z",
+    "updated_at": "2026-09-02T00:28:05Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
@@ -144,15 +153,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-01T23:33:30Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
     "id": "tuned-org-uk/arrowspace-rs",
     "language": "Rust",
@@ -194,7 +194,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34323,
-    "updated_at": "2026-09-02T00:19:49Z",
+    "updated_at": "2026-09-02T00:26:49Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -256,7 +256,7 @@
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 3277,
+    "stars": 3278,
     "updated_at": "2026-09-01T23:05:44Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
