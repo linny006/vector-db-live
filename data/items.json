@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-02T12:30:23Z",
+    "updated_at": "2026-09-02T12:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-02T12:42:41Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 6,
+    "updated_at": "2026-09-02T12:42:07Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Redis Vector Library. The AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 424,
+    "updated_at": "2026-09-02T12:36:00Z",
+    "url": "https://github.com/redis/redis-vl-python"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-02T12:33:51Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI college assistant that routes student queries to academic/fee RAG pipelines or general chat, built with LangGraph, Gr",
+    "id": "venom312004/college-assistant-rag-langgraph",
+    "language": "Python",
+    "name": "venom312004/college-assistant-rag-langgraph",
+    "stars": 1,
+    "updated_at": "2026-09-02T12:33:37Z",
+    "url": "https://github.com/venom312004/college-assistant-rag-langgraph"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T12:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30413,
+    "updated_at": "2026-09-02T12:25:40Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 841,
+    "updated_at": "2026-09-02T12:39:34Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -27,31 +99,13 @@
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T12:15:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-09-02T12:13:33Z",
+    "updated_at": "2026-09-02T12:44:35Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-02T12:13:27Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
@@ -76,18 +130,9 @@
     "id": "sdslabs/VortexDB",
     "language": "Rust",
     "name": "sdslabs/VortexDB",
-    "stars": 18,
+    "stars": 20,
     "updated_at": "2026-09-02T12:08:18Z",
     "url": "https://github.com/sdslabs/VortexDB"
-  },
-  {
-    "description": "AI college assistant that routes student queries to academic/fee RAG pipelines or general chat, built with LangGraph, Gr",
-    "id": "venom312004/college-assistant-rag-langgraph",
-    "language": "Python",
-    "name": "venom312004/college-assistant-rag-langgraph",
-    "stars": 0,
-    "updated_at": "2026-09-02T12:07:09Z",
-    "url": "https://github.com/venom312004/college-assistant-rag-langgraph"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -104,7 +149,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16779,
-    "updated_at": "2026-09-02T12:26:18Z",
+    "updated_at": "2026-09-02T12:38:33Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -162,6 +207,15 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1121,
+    "updated_at": "2026-09-02T11:46:46Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -176,7 +230,7 @@
     "language": "Rust",
     "name": "tuned-org-uk/arrowspace-rs",
     "stars": 42,
-    "updated_at": "2026-09-02T11:45:43Z",
+    "updated_at": "2026-09-02T12:32:23Z",
     "url": "https://github.com/tuned-org-uk/arrowspace-rs"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 35491,
     "updated_at": "2026-09-02T11:39:38Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30414,
-    "updated_at": "2026-09-02T12:25:40Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "An embedded vector database written from scratch in C++ \u2014 HNSW index, WAL-backed storage, benchmarked against Qdrant and",
@@ -252,15 +297,6 @@
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 841,
-    "updated_at": "2026-09-02T12:23:41Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
     "id": "weaviate/docs",
     "language": "Python",
@@ -268,15 +304,6 @@
     "stars": 20,
     "updated_at": "2026-09-02T11:41:28Z",
     "url": "https://github.com/weaviate/docs"
-  },
-  {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 6,
-    "updated_at": "2026-09-02T11:23:05Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
     "description": "Website for the Weaviate vector database",
@@ -302,7 +329,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-09-02T12:26:05Z",
+    "updated_at": "2026-09-02T12:40:23Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-09-02T12:28:11Z",
+    "updated_at": "2026-09-02T12:38:04Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T10:25:22Z",
     "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 75,
-    "updated_at": "2026-09-02T10:20:45Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "A multi-agent, fully automated vector database testing system in the form of a Claude Code plugin.",
-    "id": "yihui504/TestVDB",
-    "language": "Python",
-    "name": "yihui504/TestVDB",
-    "stars": 0,
-    "updated_at": "2026-09-02T10:17:00Z",
-    "url": "https://github.com/yihui504/TestVDB"
-  },
-  {
-    "description": "The Kubernetes operator for K8ssandra",
-    "id": "k8ssandra/k8ssandra-operator",
-    "language": "Go",
-    "name": "k8ssandra/k8ssandra-operator",
-    "stars": 242,
-    "updated_at": "2026-09-02T11:28:30Z",
-    "url": "https://github.com/k8ssandra/k8ssandra-operator"
   }
 ]
