@@ -1,5 +1,77 @@
 [
   {
+    "description": "C# SDK for the Weaviate API -- open-source vector database",
+    "id": "tryAGI/Weaviate",
+    "language": "C#",
+    "name": "tryAGI/Weaviate",
+    "stars": 2,
+    "updated_at": "2026-09-02T10:55:05Z",
+    "url": "https://github.com/tryAGI/Weaviate"
+  },
+  {
+    "description": "Object storage for the AI age",
+    "id": "keldra-store/keldra",
+    "language": "Rust",
+    "name": "keldra-store/keldra",
+    "stars": 78,
+    "updated_at": "2026-09-02T10:54:24Z",
+    "url": "https://github.com/keldra-store/keldra"
+  },
+  {
+    "description": "AI Native Vector and Full-text engine",
+    "id": "A3S-Lab/Vec",
+    "language": "Rust",
+    "name": "A3S-Lab/Vec",
+    "stars": 1,
+    "updated_at": "2026-09-02T10:54:07Z",
+    "url": "https://github.com/A3S-Lab/Vec"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-09-02T10:53:39Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-02T10:49:59Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "TypeScript/JavaScript SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge grap",
+    "id": "Dakera-AI/dakera-js",
+    "language": "TypeScript",
+    "name": "Dakera-AI/dakera-js",
+    "stars": 1,
+    "updated_at": "2026-09-02T10:48:45Z",
+    "url": "https://github.com/Dakera-AI/dakera-js"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T10:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T11:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -18,15 +90,6 @@
     "url": "https://github.com/tryAGI/Pinecone"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-09-02T10:45:02Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -41,26 +104,8 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-02T10:31:56Z",
+    "updated_at": "2026-09-02T10:55:46Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T10:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T10:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -104,7 +149,7 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 841,
-    "updated_at": "2026-09-02T10:25:43Z",
+    "updated_at": "2026-09-02T10:55:27Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16779,
-    "updated_at": "2026-09-02T10:42:09Z",
+    "updated_at": "2026-09-02T10:59:32Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Go",
     "name": "k8ssandra/k8ssandra-operator",
     "stars": 242,
-    "updated_at": "2026-09-02T10:45:13Z",
+    "updated_at": "2026-09-02T10:46:03Z",
     "url": "https://github.com/k8ssandra/k8ssandra-operator"
   },
   {
@@ -167,17 +212,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30412,
-    "updated_at": "2026-09-02T10:43:09Z",
+    "updated_at": "2026-09-02T10:46:47Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI Native Vector and Full-text engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 1,
-    "updated_at": "2026-09-02T10:14:19Z",
-    "url": "https://github.com/A3S-Lab/Vec"
   },
   {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
@@ -203,7 +239,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1120,
-    "updated_at": "2026-09-02T10:42:12Z",
+    "updated_at": "2026-09-02T10:46:33Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -221,7 +257,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7075,
-    "updated_at": "2026-09-02T10:42:12Z",
+    "updated_at": "2026-09-02T10:48:05Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45929,
-    "updated_at": "2026-09-02T10:43:28Z",
+    "updated_at": "2026-09-02T10:52:10Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-02T10:39:25Z",
+    "updated_at": "2026-09-02T10:56:58Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -333,12 +369,21 @@
     "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6394,
+    "updated_at": "2026-09-02T09:36:48Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8169,
-    "updated_at": "2026-09-02T10:14:56Z",
+    "updated_at": "2026-09-02T10:50:25Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -356,7 +401,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4432,
-    "updated_at": "2026-09-02T10:08:09Z",
+    "updated_at": "2026-09-02T10:50:46Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -400,53 +445,8 @@
     "id": "VectorDB-NTU/RaBitQ-Library",
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 269,
+    "stars": 270,
     "updated_at": "2026-09-02T08:57:39Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Redis Vector Library. The AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 424,
-    "updated_at": "2026-09-02T08:59:01Z",
-    "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 100,
-    "updated_at": "2026-09-02T08:55:17Z",
-    "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 18,
-    "updated_at": "2026-09-02T08:41:39Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "\u9762\u5411\u667a\u80fd\u6e05\u6d01\u8bbe\u5907\u552e\u524d\u54a8\u8be2\u3001\u6545\u969c\u8bca\u65ad\u4e0e\u7528\u6237\u8fd0\u8425\u7684\u4f01\u4e1a\u7ea7\u591a\u667a\u80fd\u4f53\u670d\u52a1\u5e73\u53f0\u3002\u57fa\u4e8e LangChain/LangGraph\u3001\u901a\u4e49\u5343\u95ee\u3001Chroma RAG\u3001FastAPI\u3001React \u4e0e SQLite\uff0c\u96c6\u6210\u8c03\u5ea6 Agent\u3001\u53d7\u63a7 Skill\u3001\u77e5\u8bc6\u5e93",
-    "id": "HHHFFF-HHHFFF/CleanPilot-AI",
-    "language": "Python",
-    "name": "HHHFFF-HHHFFF/CleanPilot-AI",
-    "stars": 6,
-    "updated_at": "2026-09-02T08:37:10Z",
-    "url": "https://github.com/HHHFFF-HHHFFF/CleanPilot-AI"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59167,
-    "updated_at": "2026-09-02T09:52:39Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   }
 ]
