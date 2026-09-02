@@ -1,12 +1,30 @@
 [
   {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-09-02T07:30:07Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6228,
+    "updated_at": "2026-09-02T07:43:18Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 6,
+    "updated_at": "2026-09-02T07:43:11Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "C# SDK for the Chroma API -- open-source vector database",
+    "id": "tryAGI/Chroma",
+    "language": "C#",
+    "name": "tryAGI/Chroma",
+    "stars": 1,
+    "updated_at": "2026-09-02T07:37:43Z",
+    "url": "https://github.com/tryAGI/Chroma"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,8 +32,98 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1119,
-    "updated_at": "2026-09-02T07:28:27Z",
+    "updated_at": "2026-09-02T07:39:24Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-02T07:37:16Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Native Rust vector and full-text engine",
+    "id": "A3S-Lab/Vec",
+    "language": "Rust",
+    "name": "A3S-Lab/Vec",
+    "stars": 1,
+    "updated_at": "2026-09-02T07:36:39Z",
+    "url": "https://github.com/A3S-Lab/Vec"
+  },
+  {
+    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
+    "id": "tryAGI/Qdrant",
+    "language": "C#",
+    "name": "tryAGI/Qdrant",
+    "stars": 0,
+    "updated_at": "2026-09-02T07:36:30Z",
+    "url": "https://github.com/tryAGI/Qdrant"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13001,
+    "updated_at": "2026-09-02T07:37:48Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45930,
+    "updated_at": "2026-09-02T07:35:07Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1881,
+    "updated_at": "2026-09-02T07:34:30Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-02T07:34:26Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T07:45:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T07:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-09-02T07:30:07Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -34,15 +142,6 @@
     "stars": 25,
     "updated_at": "2026-09-02T07:27:48Z",
     "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45929,
-    "updated_at": "2026-09-02T07:27:29Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
@@ -99,24 +198,6 @@
     "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 6,
-    "updated_at": "2026-09-02T07:21:32Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "Native Rust vector and full-text engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 1,
-    "updated_at": "2026-09-02T07:16:58Z",
-    "url": "https://github.com/A3S-Lab/Vec"
-  },
-  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
@@ -131,7 +212,7 @@
     "language": "Python",
     "name": "lancedb/docs",
     "stars": 11,
-    "updated_at": "2026-09-02T07:21:52Z",
+    "updated_at": "2026-09-02T07:38:32Z",
     "url": "https://github.com/lancedb/docs"
   },
   {
@@ -142,24 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T07:15:33Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T07:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T07:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "DSH local knowledge base plugin: multi-format import, smart chunking, vector index, hybrid search (BM25 + sqlite-vec + R",
@@ -198,15 +261,6 @@
     "url": "https://github.com/keldra-store/keldra"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-02T07:10:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "Intrect-io/OpenSwarm",
     "language": "TypeScript",
@@ -214,24 +268,6 @@
     "stars": 841,
     "updated_at": "2026-09-02T07:10:27Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-02T07:08:58Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1881,
-    "updated_at": "2026-09-02T07:06:43Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
@@ -248,17 +284,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34332,
-    "updated_at": "2026-09-02T06:51:07Z",
+    "updated_at": "2026-09-02T07:39:37Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13001,
-    "updated_at": "2026-09-02T07:25:06Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -266,7 +293,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30409,
-    "updated_at": "2026-09-02T06:45:20Z",
+    "updated_at": "2026-09-02T07:34:16Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9222,
-    "updated_at": "2026-09-02T07:02:26Z",
+    "updated_at": "2026-09-02T07:45:07Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T05:36:22Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 2,
-    "updated_at": "2026-09-02T05:35:29Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-02T05:34:41Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 4,
-    "updated_at": "2026-09-02T05:32:32Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
