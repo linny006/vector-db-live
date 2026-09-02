@@ -1,12 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T02:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-09-02T02:41:24Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 75,
+    "updated_at": "2026-09-02T02:40:59Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Portable native Qdrant for Linux, Colab, Kaggle, Codespaces, CodeSandbox and cloud deployments, with secure auth, snapsh",
+    "id": "dangkhoa2016/Qdrant-Native-Portable",
+    "language": "Shell",
+    "name": "dangkhoa2016/Qdrant-Native-Portable",
+    "stars": 0,
+    "updated_at": "2026-09-02T02:40:15Z",
+    "url": "https://github.com/dangkhoa2016/Qdrant-Native-Portable"
+  },
+  {
     "description": "Demo project. Semantic audio search for journalists",
     "id": "hordiales/audio-semantic-search-for-journalists",
     "language": "Python",
     "name": "hordiales/audio-semantic-search-for-journalists",
     "stars": 0,
-    "updated_at": "2026-09-02T02:28:01Z",
+    "updated_at": "2026-09-02T02:40:10Z",
     "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T02:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Unified multimodal backend for AI data apps",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1619,
+    "updated_at": "2026-09-02T02:30:20Z",
+    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -16,6 +70,15 @@
     "stars": 2,
     "updated_at": "2026-09-02T02:24:48Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45923,
+    "updated_at": "2026-09-02T02:23:26Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -34,24 +97,6 @@
     "stars": 841,
     "updated_at": "2026-09-02T02:24:36Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T02:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T02:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
@@ -95,7 +140,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9221,
-    "updated_at": "2026-09-02T02:00:15Z",
+    "updated_at": "2026-09-02T02:35:44Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -130,7 +175,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65482,
+    "stars": 65484,
     "updated_at": "2026-09-02T01:38:31Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -207,15 +252,6 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-09-02T01:32:56Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -239,7 +275,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1117,
-    "updated_at": "2026-09-02T02:24:58Z",
+    "updated_at": "2026-09-02T02:36:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -248,7 +284,7 @@
     "language": "TypeScript",
     "name": "Tibab222/cvMaker",
     "stars": 3,
-    "updated_at": "2026-09-02T00:49:31Z",
+    "updated_at": "2026-09-02T02:34:56Z",
     "url": "https://github.com/Tibab222/cvMaker"
   },
   {
@@ -277,6 +313,15 @@
     "stars": 34325,
     "updated_at": "2026-09-02T00:26:49Z",
     "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "The only Java AI framework with a complete Dev \u2192 Test \u2192 Prod prompt lifecycle, featuring multi-agent orchestration and b",
+    "id": "driftkit-ai/driftkit-framework",
+    "language": "Java",
+    "name": "driftkit-ai/driftkit-framework",
+    "stars": 46,
+    "updated_at": "2026-09-02T00:16:05Z",
+    "url": "https://github.com/driftkit-ai/driftkit-framework"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -324,15 +369,6 @@
     "url": "https://github.com/tamnd/yo"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45922,
-    "updated_at": "2026-09-02T02:23:26Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -347,7 +383,7 @@
     "language": "Rust",
     "name": "tuned-org-uk/arrowspace-rs",
     "stars": 42,
-    "updated_at": "2026-09-01T23:42:35Z",
+    "updated_at": "2026-09-02T02:45:06Z",
     "url": "https://github.com/tuned-org-uk/arrowspace-rs"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T23:01:15Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
-    "id": "HyxiaoGe/fusion-api",
-    "language": "Python",
-    "name": "HyxiaoGe/fusion-api",
-    "stars": 5,
-    "updated_at": "2026-09-01T23:00:20Z",
-    "url": "https://github.com/HyxiaoGe/fusion-api"
-  },
-  {
-    "description": "Unified multimodal backend for AI data apps",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1619,
-    "updated_at": "2026-09-02T02:30:20Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:48:42Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-09-01T22:48:15Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
