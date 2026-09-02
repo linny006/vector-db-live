@@ -1,12 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T15:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-09-02T15:09:57Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
     "description": "Official n8n creator | Production-ready automation workflows \u2014 Agentic RAG, multi-KB AI agents, AI governance, and priva",
     "id": "nenedesign/n8n-workflows",
     "language": "\u2014",
     "name": "nenedesign/n8n-workflows",
     "stars": 0,
-    "updated_at": "2026-09-02T14:57:50Z",
+    "updated_at": "2026-09-02T15:07:18Z",
     "url": "https://github.com/nenedesign/n8n-workflows"
+  },
+  {
+    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
+    "id": "Daaboulex/openviking-nix",
+    "language": "Shell",
+    "name": "Daaboulex/openviking-nix",
+    "stars": 3,
+    "updated_at": "2026-09-02T15:06:24Z",
+    "url": "https://github.com/Daaboulex/openviking-nix"
+  },
+  {
+    "description": "Agentic RAG in Python: LangChain, LangGraph and pgvector, with hybrid retrieval, guardrails and a graded evaluation suit",
+    "id": "kleberbernardo/rag_agent",
+    "language": "Python",
+    "name": "kleberbernardo/rag_agent",
+    "stars": 1,
+    "updated_at": "2026-09-02T15:02:18Z",
+    "url": "https://github.com/kleberbernardo/rag_agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T15:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type",
+    "id": "corvid-db/corvid",
+    "language": "Rust",
+    "name": "corvid-db/corvid",
+    "stars": 1,
+    "updated_at": "2026-09-02T14:57:39Z",
+    "url": "https://github.com/corvid-db/corvid"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -23,7 +77,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1881,
-    "updated_at": "2026-09-02T14:51:26Z",
+    "updated_at": "2026-09-02T15:12:30Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -31,27 +85,9 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45931,
+    "stars": 45932,
     "updated_at": "2026-09-02T14:45:30Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T14:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T14:45:28Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -77,7 +113,7 @@
     "language": "Rust",
     "name": "A3S-Lab/Vec",
     "stars": 1,
-    "updated_at": "2026-09-02T14:39:13Z",
+    "updated_at": "2026-09-02T15:07:48Z",
     "url": "https://github.com/A3S-Lab/Vec"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30416,
-    "updated_at": "2026-09-02T14:37:23Z",
+    "updated_at": "2026-09-02T15:12:42Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -104,17 +140,8 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-09-02T14:36:43Z",
+    "updated_at": "2026-09-02T15:05:17Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type",
-    "id": "corvid-db/corvid",
-    "language": "Rust",
-    "name": "corvid-db/corvid",
-    "stars": 1,
-    "updated_at": "2026-09-02T14:57:39Z",
-    "url": "https://github.com/corvid-db/corvid"
   },
   {
     "description": "AI college assistant that routes student queries to academic/fee RAG pipelines or general chat, built with LangGraph, Gr",
@@ -185,7 +212,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-02T14:44:08Z",
+    "updated_at": "2026-09-02T15:12:24Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1121,
-    "updated_at": "2026-09-02T14:44:14Z",
+    "updated_at": "2026-09-02T15:03:03Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-02T13:39:01Z",
     "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 94,
-    "updated_at": "2026-09-02T14:54:23Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16780,
-    "updated_at": "2026-09-02T15:00:01Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-09-02T13:34:24Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
   }
 ]
