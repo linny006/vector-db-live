@@ -5,17 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-02T18:45:25Z",
+    "updated_at": "2026-09-02T19:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6394,
-    "updated_at": "2026-09-02T18:39:40Z",
-    "url": "https://github.com/genkit-ai/genkit"
+    "description": "AI Native Vector and Full-text engine",
+    "id": "A3S-Lab/Vec",
+    "language": "Rust",
+    "name": "A3S-Lab/Vec",
+    "stars": 1,
+    "updated_at": "2026-09-02T19:00:11Z",
+    "url": "https://github.com/A3S-Lab/Vec"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -23,8 +23,98 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-02T18:38:34Z",
+    "updated_at": "2026-09-02T18:57:18Z",
     "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 853,
+    "updated_at": "2026-09-02T18:54:32Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6394,
+    "updated_at": "2026-09-02T18:53:46Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Mithra Life OS is a production-grade, AI-native personal operating system that consolidates task management, habit track",
+    "id": "hemasaivattikuti25/Mithra-AI-life-os",
+    "language": "JavaScript",
+    "name": "hemasaivattikuti25/Mithra-AI-life-os",
+    "stars": 6,
+    "updated_at": "2026-09-02T19:00:24Z",
+    "url": "https://github.com/hemasaivattikuti25/Mithra-AI-life-os"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:51:51Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-09-02T18:49:45Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "TypeScript/JavaScript SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge grap",
+    "id": "Dakera-AI/dakera-js",
+    "language": "TypeScript",
+    "name": "Dakera-AI/dakera-js",
+    "stars": 1,
+    "updated_at": "2026-09-02T18:49:59Z",
+    "url": "https://github.com/Dakera-AI/dakera-js"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8172,
+    "updated_at": "2026-09-02T18:48:10Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T18:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34343,
+    "updated_at": "2026-09-02T18:39:51Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-02T18:38:53Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -72,13 +162,13 @@
     "url": "https://github.com/corvid-db/corvid"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T18:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9223,
+    "updated_at": "2026-09-02T18:59:46Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "A dual-language workspace of AI/LLM projects in TypeScript and Python \u2014 LangChain, LangGraph, RAG, vector stores, MCP, a",
@@ -88,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T18:27:55Z",
     "url": "https://github.com/dilumdarshana/ai-concepts"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-09-02T18:26:16Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
@@ -149,8 +230,17 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30417,
-    "updated_at": "2026-09-02T18:28:14Z",
+    "updated_at": "2026-09-02T18:58:26Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6227,
+    "updated_at": "2026-09-02T18:12:34Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Read-only, empirical, offline auditor for vector indexes (LanceDB, Qdrant, pgvector).",
@@ -158,7 +248,7 @@
     "language": "Python",
     "name": "hbauzan/vhecfsck",
     "stars": 1,
-    "updated_at": "2026-09-02T18:10:30Z",
+    "updated_at": "2026-09-02T18:51:05Z",
     "url": "https://github.com/hbauzan/vhecfsck"
   },
   {
@@ -214,15 +304,6 @@
     "stars": 7,
     "updated_at": "2026-09-02T17:53:18Z",
     "url": "https://github.com/Dakera-AI/dakera-go"
-  },
-  {
-    "description": "TypeScript/JavaScript SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge grap",
-    "id": "Dakera-AI/dakera-js",
-    "language": "TypeScript",
-    "name": "Dakera-AI/dakera-js",
-    "stars": 1,
-    "updated_at": "2026-09-02T17:53:15Z",
-    "url": "https://github.com/Dakera-AI/dakera-js"
   },
   {
     "description": "Official n8n creator | Production-ready automation workflows \u2014 Agentic RAG, multi-KB AI agents, AI governance, and priva",
@@ -288,31 +369,22 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9223,
-    "updated_at": "2026-09-02T18:30:24Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45932,
+    "stars": 45933,
     "updated_at": "2026-09-02T17:25:30Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8173,
-    "updated_at": "2026-09-02T18:13:11Z",
-    "url": "https://github.com/MariaDB/server"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16781,
+    "updated_at": "2026-09-02T17:19:31Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -376,77 +448,5 @@
     "stars": 4432,
     "updated_at": "2026-09-02T17:35:18Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-02T16:59:49Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "AI Native Vector and Full-text engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 1,
-    "updated_at": "2026-09-02T16:57:38Z",
-    "url": "https://github.com/A3S-Lab/Vec"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-02T16:56:50Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "End-to-end RAG + Agentic Analytics demo using OpenAI, Chroma, SQL, grounded answers, guardrails, and RAG evaluation metr",
-    "id": "ravichaurasia09/nuvetric-rag-agent-demo",
-    "language": "Python",
-    "name": "ravichaurasia09/nuvetric-rag-agent-demo",
-    "stars": 1,
-    "updated_at": "2026-09-02T16:50:03Z",
-    "url": "https://github.com/ravichaurasia09/nuvetric-rag-agent-demo"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-02T16:49:37Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "\u57fa\u65bc FastAPI \u975e\u540c\u6b65\u67b6\u69cb\u7684\u591a\u6a21\u614b AI \u5f8c\u7aef\uff1a\u6574\u5408 BLIP \u8996\u89ba\u8a9e\u610f\u8207 PaddleOCR \u96d9\u7ba1\u7dda\u4e92\u88dc\u8fa8\u8b58\uff0c\u642d\u914d Google \u5373\u6642\u641c\u5c0b\u589e\u5f37\uff1b\u4ee5\u539f\u751f SSE \u4e32\u6d41\u5c0d\u63a5 Ollama \u672c\u6a5f\u6a21\u578b\uff0c\u517c\u9867\u9ad8\u4f75\u767c\u8207\u672c\u6a5f\u8cc7\u6599\u96b1\u79c1\u3002",
-    "id": "JeffLin0225/ChatBot_JAXI_Backend",
-    "language": "Python",
-    "name": "JeffLin0225/ChatBot_JAXI_Backend",
-    "stars": 0,
-    "updated_at": "2026-09-02T16:32:27Z",
-    "url": "https://github.com/JeffLin0225/ChatBot_JAXI_Backend"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 2,
-    "updated_at": "2026-09-02T16:29:51Z",
-    "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
-    "id": "litegraphdb/litegraph",
-    "language": "C#",
-    "name": "litegraphdb/litegraph",
-    "stars": 130,
-    "updated_at": "2026-09-02T16:27:47Z",
-    "url": "https://github.com/litegraphdb/litegraph"
   }
 ]
