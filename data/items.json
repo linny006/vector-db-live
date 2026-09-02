@@ -1,5 +1,122 @@
 [
   {
+    "description": "Official n8n creator | Production-ready automation workflows \u2014 Agentic RAG, multi-KB AI agents, AI governance, and priva",
+    "id": "nenedesign/nenedesign",
+    "language": "\u2014",
+    "name": "nenedesign/nenedesign",
+    "stars": 0,
+    "updated_at": "2026-09-02T17:56:34Z",
+    "url": "https://github.com/nenedesign/nenedesign"
+  },
+  {
+    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
+    "id": "2B-4G10/NoLockQS",
+    "language": "Kotlin",
+    "name": "2B-4G10/NoLockQS",
+    "stars": 0,
+    "updated_at": "2026-09-02T17:58:58Z",
+    "url": "https://github.com/2B-4G10/NoLockQS"
+  },
+  {
+    "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
+    "id": "Dakera-AI/dakera-go",
+    "language": "Go",
+    "name": "Dakera-AI/dakera-go",
+    "stars": 7,
+    "updated_at": "2026-09-02T17:53:18Z",
+    "url": "https://github.com/Dakera-AI/dakera-go"
+  },
+  {
+    "description": "TypeScript/JavaScript SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge grap",
+    "id": "Dakera-AI/dakera-js",
+    "language": "TypeScript",
+    "name": "Dakera-AI/dakera-js",
+    "stars": 1,
+    "updated_at": "2026-09-02T17:53:15Z",
+    "url": "https://github.com/Dakera-AI/dakera-js"
+  },
+  {
+    "description": "A minimal storage layer for storing large matrices and embeddings",
+    "id": "tuned-org-uk/genegraph-storage",
+    "language": "Rust",
+    "name": "tuned-org-uk/genegraph-storage",
+    "stars": 2,
+    "updated_at": "2026-09-02T18:00:05Z",
+    "url": "https://github.com/tuned-org-uk/genegraph-storage"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-02T17:52:30Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Official n8n creator | Production-ready automation workflows \u2014 Agentic RAG, multi-KB AI agents, AI governance, and priva",
+    "id": "nenedesign/n8n-workflows",
+    "language": "\u2014",
+    "name": "nenedesign/n8n-workflows",
+    "stars": 0,
+    "updated_at": "2026-09-02T17:52:02Z",
+    "url": "https://github.com/nenedesign/n8n-workflows"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 9,
+    "updated_at": "2026-09-02T17:48:17Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
+    "id": "Tanmoy095/Logiflow-platform",
+    "language": "Go",
+    "name": "Tanmoy095/Logiflow-platform",
+    "stars": 2,
+    "updated_at": "2026-09-02T17:46:58Z",
+    "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "Telegram-\u0431\u043e\u0442 v2 \u043d\u0430 Haystack: \u043c\u043e\u0434\u0443\u043b\u044c\u043d\u044b\u0435 \u043f\u0430\u0439\u043f\u043b\u0430\u0439\u043d\u044b, \u0440\u0430\u0437\u0431\u043e\u0440 PDF/DOCX \u0447\u0435\u0440\u0435\u0437 Docling, \u0447\u0430\u043d\u043a\u0438 \u0432 Pinecone \u0438 \u043e\u0442\u0432\u0435\u0442\u044b \u043f\u043e \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u043c",
+    "id": "PavelKoff2025/TG_Bot_with_Docling",
+    "language": "Python",
+    "name": "PavelKoff2025/TG_Bot_with_Docling",
+    "stars": 0,
+    "updated_at": "2026-09-02T17:46:54Z",
+    "url": "https://github.com/PavelKoff2025/TG_Bot_with_Docling"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 4,
+    "updated_at": "2026-09-02T17:46:25Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-02T17:57:05Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T17:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,22 +135,13 @@
     "url": "https://github.com/BhanukaJanappriya/RAG-based-customer_support_chatbot-"
   },
   {
-    "description": "Telegram-\u0431\u043e\u0442 v2 \u043d\u0430 Haystack: \u043c\u043e\u0434\u0443\u043b\u044c\u043d\u044b\u0435 \u043f\u0430\u0439\u043f\u043b\u0430\u0439\u043d\u044b, \u0440\u0430\u0437\u0431\u043e\u0440 PDF/DOCX \u0447\u0435\u0440\u0435\u0437 Docling, \u0447\u0430\u043d\u043a\u0438 \u0432 Pinecone \u0438 \u043e\u0442\u0432\u0435\u0442\u044b \u043f\u043e \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u043c",
-    "id": "PavelKoff2025/TG_Bot_with_Docling",
-    "language": "Python",
-    "name": "PavelKoff2025/TG_Bot_with_Docling",
-    "stars": 0,
-    "updated_at": "2026-09-02T17:40:24Z",
-    "url": "https://github.com/PavelKoff2025/TG_Bot_with_Docling"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T17:36:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-02T17:39:57Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -50,7 +158,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9223,
-    "updated_at": "2026-09-02T17:45:12Z",
+    "updated_at": "2026-09-02T18:00:12Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -108,15 +216,6 @@
     "url": "https://github.com/gabaoun/Project-Aether"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-02T17:16:12Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "Local LLM server with 32M token context. Run any GGUF model on your own machine with a memory far larger than its window",
     "id": "Veloresearch/VLS-32M-Context-Local-LLM",
     "language": "\u2014",
@@ -151,15 +250,6 @@
     "stars": 30416,
     "updated_at": "2026-09-02T17:07:27Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 4,
-    "updated_at": "2026-09-02T17:39:21Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -207,15 +297,6 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-02T16:54:13Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
     "description": "End-to-end RAG + Agentic Analytics demo using OpenAI, Chroma, SQL, grounded answers, guardrails, and RAG evaluation metr",
     "id": "ravichaurasia09/nuvetric-rag-agent-demo",
     "language": "Python",
@@ -241,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T16:32:27Z",
     "url": "https://github.com/JeffLin0225/ChatBot_JAXI_Backend"
-  },
-  {
-    "description": "A minimal storage layer for storing large matrices and embeddings",
-    "id": "tuned-org-uk/genegraph-storage",
-    "language": "Rust",
-    "name": "tuned-org-uk/genegraph-storage",
-    "stars": 2,
-    "updated_at": "2026-09-02T17:43:40Z",
-    "url": "https://github.com/tuned-org-uk/genegraph-storage"
   },
   {
     "description": "Profile README",
@@ -304,15 +376,6 @@
     "stars": 13005,
     "updated_at": "2026-09-02T16:05:11Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Official n8n creator | Production-ready automation workflows \u2014 Agentic RAG, multi-KB AI agents, AI governance, and priva",
-    "id": "nenedesign/n8n-workflows",
-    "language": "\u2014",
-    "name": "nenedesign/n8n-workflows",
-    "stars": 0,
-    "updated_at": "2026-09-02T16:04:05Z",
-    "url": "https://github.com/nenedesign/n8n-workflows"
   },
   {
     "description": "LlamaIndex is the leading document agent and OCR platform",
@@ -385,68 +448,5 @@
     "stars": 20,
     "updated_at": "2026-09-02T15:31:25Z",
     "url": "https://github.com/JulioPeixoto/softrag"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-02T15:28:24Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1348,
-    "updated_at": "2026-09-02T15:27:29Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
-    "id": "Daaboulex/openviking-nix",
-    "language": "Shell",
-    "name": "Daaboulex/openviking-nix",
-    "stars": 3,
-    "updated_at": "2026-09-02T15:06:24Z",
-    "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-02T15:04:13Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Agentic RAG in Python: LangChain, LangGraph and pgvector, with hybrid retrieval, guardrails and a graded evaluation suit",
-    "id": "kleberbernardo/rag_agent",
-    "language": "Python",
-    "name": "kleberbernardo/rag_agent",
-    "stars": 1,
-    "updated_at": "2026-09-02T15:02:18Z",
-    "url": "https://github.com/kleberbernardo/rag_agent"
-  },
-  {
-    "description": "Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type",
-    "id": "corvid-db/corvid",
-    "language": "Rust",
-    "name": "corvid-db/corvid",
-    "stars": 1,
-    "updated_at": "2026-09-02T14:57:39Z",
-    "url": "https://github.com/corvid-db/corvid"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-02T14:43:44Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   }
 ]
