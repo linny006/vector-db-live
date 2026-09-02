@@ -1,5 +1,50 @@
 [
   {
+    "description": "Demo project. Semantic audio search for journalists",
+    "id": "hordiales/audio-semantic-search-for-journalists",
+    "language": "Python",
+    "name": "hordiales/audio-semantic-search-for-journalists",
+    "stars": 0,
+    "updated_at": "2026-09-02T02:28:01Z",
+    "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-02T02:24:48Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-02T02:23:10Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 841,
+    "updated_at": "2026-09-02T02:24:36Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T02:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,15 +81,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 841,
-    "updated_at": "2026-09-02T02:02:06Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -52,15 +88,6 @@
     "stars": 15591,
     "updated_at": "2026-09-02T02:01:58Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T02:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -77,7 +104,7 @@
     "language": "Rust",
     "name": "tuned-org-uk/genegraph-storage",
     "stars": 2,
-    "updated_at": "2026-09-02T02:15:20Z",
+    "updated_at": "2026-09-02T02:24:14Z",
     "url": "https://github.com/tuned-org-uk/genegraph-storage"
   },
   {
@@ -88,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T01:53:51Z",
     "url": "https://github.com/xbsheng/ai-from-scratch"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-02T01:51:08Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -221,7 +239,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1117,
-    "updated_at": "2026-09-02T02:14:41Z",
+    "updated_at": "2026-09-02T02:24:58Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -283,7 +301,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11330,
+    "stars": 11331,
     "updated_at": "2026-09-02T00:02:13Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -311,17 +329,8 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45922,
-    "updated_at": "2026-09-01T23:42:01Z",
+    "updated_at": "2026-09-02T02:23:26Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Demo project. Semantic audio search for journalists",
-    "id": "hordiales/audio-semantic-search-for-journalists",
-    "language": "Python",
-    "name": "hordiales/audio-semantic-search-for-journalists",
-    "stars": 0,
-    "updated_at": "2026-09-01T23:36:09Z",
-    "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -419,7 +428,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1619,
-    "updated_at": "2026-09-02T01:28:54Z",
+    "updated_at": "2026-09-02T02:30:20Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 343,
     "updated_at": "2026-09-01T22:48:15Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:44:03Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
   }
 ]
