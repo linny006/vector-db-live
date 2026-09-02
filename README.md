@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-02 09:15 UTC
+> ⏰ Last updated: 2026-09-02 09:18 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-09-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 2 | [xiaoshi7915/dsh-kb-manager](https://github.com/xiaoshi7915/dsh-kb-manager) | 1 | JavaScript | 2026-09-02 | DSH local knowledge base plugin: multi-format import, smart chunking, vector index, hybrid search (BM25 + sqlite-vec + R |
-| 3 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34335 | Rust | 2026-09-02 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
-| 4 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-02 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
-| 5 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 90 | Rust | 2026-09-02 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 7 | [structured-world/coordinode-python](https://github.com/structured-world/coordinode-python) | 0 | Python | 2026-09-02 | Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode — AI-native graph + vector + full-text  |
-| 8 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 13004 | Java | 2026-09-02 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
-| 9 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7075 | Java | 2026-09-02 | The AI search platform |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 2 | HTML | 2026-09-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 4 | [xiaoshi7915/dsh-kb-manager](https://github.com/xiaoshi7915/dsh-kb-manager) | 1 | JavaScript | 2026-09-02 | DSH local knowledge base plugin: multi-format import, smart chunking, vector index, hybrid search (BM25 + sqlite-vec + R |
+| 5 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34335 | Rust | 2026-09-02 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 6 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-02 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 7 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 90 | Rust | 2026-09-02 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 8 | [structured-world/coordinode-python](https://github.com/structured-world/coordinode-python) | 0 | Python | 2026-09-02 | Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode — AI-native graph + vector + full-text  |
+| 9 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 13004 | Java | 2026-09-02 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
+| 10 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7075 | Java | 2026-09-02 | The AI search platform |
 | 11 | [A3S-Lab/Vec](https://github.com/A3S-Lab/Vec) | 1 | Rust | 2026-09-02 | AI Native Vector and Full-text engine |
 | 12 | [VectorDB-NTU/RaBitQ-Library](https://github.com/VectorDB-NTU/RaBitQ-Library) | 269 | C++ | 2026-09-02 | An official lightweight library for the RaBitQ algorithm and its applications in vector search. |
 | 13 | [redis/redis-vl-python](https://github.com/redis/redis-vl-python) | 424 | Python | 2026-09-02 | Redis Vector Library. The AI-native Python client for Redis. |
