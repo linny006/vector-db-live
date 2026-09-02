@@ -1,12 +1,39 @@
 [
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6394,
-    "updated_at": "2026-09-02T19:10:51Z",
-    "url": "https://github.com/genkit-ai/genkit"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T19:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1122,
+    "updated_at": "2026-09-02T19:30:09Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Beyond Vector Search: Hybrid Vector/Knowledge Graph Query Engine for Enhanced Data Retrieval",
+    "id": "zyang37/beyond_vector_search",
+    "language": "Jupyter Notebook",
+    "name": "zyang37/beyond_vector_search",
+    "stars": 1,
+    "updated_at": "2026-09-02T19:26:27Z",
+    "url": "https://github.com/zyang37/beyond_vector_search"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12918,
+    "updated_at": "2026-09-02T19:25:19Z",
+    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -14,8 +41,71 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 853,
-    "updated_at": "2026-09-02T19:10:29Z",
+    "updated_at": "2026-09-02T19:29:31Z",
     "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
+    "id": "rustic-ai/uni-db",
+    "language": "Rust",
+    "name": "rustic-ai/uni-db",
+    "stars": 52,
+    "updated_at": "2026-09-02T19:21:27Z",
+    "url": "https://github.com/rustic-ai/uni-db"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-09-02T19:18:00Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-09-02T19:16:12Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "AI Native Vector and Full-text engine",
+    "id": "A3S-Lab/Vec",
+    "language": "Rust",
+    "name": "A3S-Lab/Vec",
+    "stars": 1,
+    "updated_at": "2026-09-02T19:15:55Z",
+    "url": "https://github.com/A3S-Lab/Vec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T19:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-02T19:14:44Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6394,
+    "updated_at": "2026-09-02T19:23:58Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -32,7 +122,7 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2282,
-    "updated_at": "2026-09-02T19:07:28Z",
+    "updated_at": "2026-09-02T19:28:18Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
@@ -54,15 +144,6 @@
     "url": "https://github.com/corvid-db/corvid"
   },
   {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-09-02T19:14:43Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
     "description": "Read-only, empirical, offline auditor for vector indexes (LanceDB, Qdrant, pgvector).",
     "id": "hbauzan/vhecfsck",
     "language": "Python",
@@ -79,42 +160,6 @@
     "stars": 2,
     "updated_at": "2026-09-02T19:01:15Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T19:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T19:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI Native Vector and Full-text engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 1,
-    "updated_at": "2026-09-02T19:00:11Z",
-    "url": "https://github.com/A3S-Lab/Vec"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-02T19:14:44Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -149,7 +194,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8172,
-    "updated_at": "2026-09-02T19:03:26Z",
+    "updated_at": "2026-09-02T19:22:50Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-02T18:36:41Z",
+    "updated_at": "2026-09-02T19:18:46Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -203,7 +248,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9223,
-    "updated_at": "2026-09-02T19:04:17Z",
+    "updated_at": "2026-09-02T19:24:33Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30417,
-    "updated_at": "2026-09-02T19:06:31Z",
+    "updated_at": "2026-09-02T19:26:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -302,7 +347,7 @@
     "language": "TypeScript",
     "name": "fewshot-works/academy",
     "stars": 4,
-    "updated_at": "2026-09-02T18:00:43Z",
+    "updated_at": "2026-09-02T19:26:45Z",
     "url": "https://github.com/fewshot-works/academy"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 45933,
     "updated_at": "2026-09-02T17:25:30Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16781,
-    "updated_at": "2026-09-02T17:19:31Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1122,
-    "updated_at": "2026-09-02T17:18:07Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "A playground for LangChain.js, LangGraph, NewRelic GraphQL, Sentry, Slack, Model Context Protocol (MCP) and other LLM-re",
-    "id": "chrisleekr/langchain-playground",
-    "language": "TypeScript",
-    "name": "chrisleekr/langchain-playground",
-    "stars": 6,
-    "updated_at": "2026-09-02T17:29:04Z",
-    "url": "https://github.com/chrisleekr/langchain-playground"
-  },
-  {
-    "description": "RAG search engine using LlamaIndex, Redis, and PII masking.",
-    "id": "gabaoun/Project-Aether",
-    "language": "Python",
-    "name": "gabaoun/Project-Aether",
-    "stars": 2,
-    "updated_at": "2026-09-02T17:16:57Z",
-    "url": "https://github.com/gabaoun/Project-Aether"
-  },
-  {
-    "description": "Local LLM server with 32M token context. Run any GGUF model on your own machine with a memory far larger than its window",
-    "id": "Veloresearch/VLS-32M-Context-Local-LLM",
-    "language": "\u2014",
-    "name": "Veloresearch/VLS-32M-Context-Local-LLM",
-    "stars": 1,
-    "updated_at": "2026-09-02T17:14:00Z",
-    "url": "https://github.com/Veloresearch/VLS-32M-Context-Local-LLM"
   }
 ]
