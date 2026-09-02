@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-02T21:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A portfolio of end-to-end AI systems spanning Computer Vision, Machine Learning, Deep Learning, NLP, and RAG.",
+    "id": "Raafat-Nagy/AI-Projects-Hub",
+    "language": "\u2014",
+    "name": "Raafat-Nagy/AI-Projects-Hub",
+    "stars": 0,
+    "updated_at": "2026-09-02T21:15:16Z",
+    "url": "https://github.com/Raafat-Nagy/AI-Projects-Hub"
+  },
+  {
+    "description": "Multi-agent AI academic advisor. Parses a university transcript PDF, then generates a validated 4-year course plan via a",
+    "id": "MansurTiyes/project_warszawa",
+    "language": "Python",
+    "name": "MansurTiyes/project_warszawa",
+    "stars": 0,
+    "updated_at": "2026-09-02T21:14:22Z",
+    "url": "https://github.com/MansurTiyes/project_warszawa"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-02T21:07:53Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-09-02T21:07:22Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
+    "id": "mirkobozzetto/flowflow",
+    "language": "Rust",
+    "name": "mirkobozzetto/flowflow",
+    "stars": 166,
+    "updated_at": "2026-09-02T21:15:20Z",
+    "url": "https://github.com/mirkobozzetto/flowflow"
+  },
+  {
+    "description": "Read-only, empirical, offline auditor for vector indexes (LanceDB, Qdrant, pgvector).",
+    "id": "hbauzan/vhecfsck",
+    "language": "Python",
+    "name": "hbauzan/vhecfsck",
+    "stars": 1,
+    "updated_at": "2026-09-02T21:03:39Z",
+    "url": "https://github.com/hbauzan/vhecfsck"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-02T21:03:15Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T21:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
     "id": "Constraintworthy6058/ai-github-repository-assistant",
     "language": "TypeScript",
@@ -9,13 +90,31 @@
     "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
   },
   {
+    "description": "",
+    "id": "threefigure-achromia682/ai-memory",
+    "language": "\u2014",
+    "name": "threefigure-achromia682/ai-memory",
+    "stars": 1,
+    "updated_at": "2026-09-02T20:58:31Z",
+    "url": "https://github.com/threefigure-achromia682/ai-memory"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1122,
-    "updated_at": "2026-09-02T20:58:11Z",
+    "updated_at": "2026-09-02T21:06:56Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
+    "id": "alegameplays14-del/leica-infinity-2026",
+    "language": "\u2014",
+    "name": "alegameplays14-del/leica-infinity-2026",
+    "stars": 0,
+    "updated_at": "2026-09-02T20:57:36Z",
+    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
   },
   {
     "description": "The AI search platform",
@@ -27,13 +126,13 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Read-only, empirical, offline auditor for vector indexes (LanceDB, Qdrant, pgvector).",
-    "id": "hbauzan/vhecfsck",
-    "language": "Python",
-    "name": "hbauzan/vhecfsck",
-    "stars": 1,
-    "updated_at": "2026-09-02T20:59:06Z",
-    "url": "https://github.com/hbauzan/vhecfsck"
+    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
+    "id": "Divine-vision-visiondivine21/less-tokens",
+    "language": "\u2014",
+    "name": "Divine-vision-visiondivine21/less-tokens",
+    "stars": 0,
+    "updated_at": "2026-09-02T20:56:30Z",
+    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
   },
   {
     "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
@@ -68,7 +167,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-02T20:54:29Z",
+    "updated_at": "2026-09-02T21:09:23Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -153,24 +252,6 @@
     "url": "https://github.com/aziz5971/TalentLens"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T20:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T20:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
     "id": "lannyfervent952/fastapi-agent-blueprint",
     "language": "Python",
@@ -252,15 +333,6 @@
     "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
   },
   {
-    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:56:10Z",
-    "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
     "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
     "id": "a258huit58/claude-memory",
     "language": "JavaScript",
@@ -268,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-02T20:36:02Z",
     "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-02T20:35:43Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-02T20:24:38Z",
     "url": "https://github.com/tuned-org-uk/genegraph-storage"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-09-02T20:23:42Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
-    "id": "leitoooatr/PythonVectorDB",
-    "language": "Python",
-    "name": "leitoooatr/PythonVectorDB",
-    "stars": 2,
-    "updated_at": "2026-09-02T20:23:22Z",
-    "url": "https://github.com/leitoooatr/PythonVectorDB"
-  },
-  {
-    "description": "A verified, structured guide to Retrieval-Augmented Generation (RAG) \u2014 one of the most important AI architectures. Inclu",
-    "id": "Flynntaggart26/learn-rag",
-    "language": "\u2014",
-    "name": "Flynntaggart26/learn-rag",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:22:41Z",
-    "url": "https://github.com/Flynntaggart26/learn-rag"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
-    "id": "Jeroflo88/Self-Corrective-RAG",
-    "language": "Python",
-    "name": "Jeroflo88/Self-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:22:21Z",
-    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "A personal knowledge base RAG app \u2014 upload documents, ask questions, get answers grounded in your own notes via Claude, ",
-    "id": "TapadiptaRoy/chatbot_rag",
-    "language": "Python",
-    "name": "TapadiptaRoy/chatbot_rag",
-    "stars": 0,
-    "updated_at": "2026-09-02T20:21:32Z",
-    "url": "https://github.com/TapadiptaRoy/chatbot_rag"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-09-02T20:19:09Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30417,
-    "updated_at": "2026-09-02T20:12:59Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
