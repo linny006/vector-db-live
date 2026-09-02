@@ -1,21 +1,30 @@
 [
   {
-    "description": "CLI RAG agent over a local corpus: cited answers, confidence gating that refuses without evidence, prompt-injection defe",
-    "id": "ahmed-hashim-pro/rag-knowledge-agent",
-    "language": "Python",
-    "name": "ahmed-hashim-pro/rag-knowledge-agent",
-    "stars": 0,
-    "updated_at": "2026-09-02T01:15:20Z",
-    "url": "https://github.com/ahmed-hashim-pro/rag-knowledge-agent"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-02T01:15:20Z",
+    "updated_at": "2026-09-02T01:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type",
+    "id": "corvid-db/corvid",
+    "language": "Rust",
+    "name": "corvid-db/corvid",
+    "stars": 1,
+    "updated_at": "2026-09-02T01:26:39Z",
+    "url": "https://github.com/corvid-db/corvid"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 8,
+    "updated_at": "2026-09-02T01:27:31Z",
+    "url": "https://github.com/frogdb/frogdb"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -23,8 +32,44 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 841,
-    "updated_at": "2026-09-02T01:13:33Z",
+    "updated_at": "2026-09-02T01:24:25Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "Embeddable vector database for Rust and Python. HNSW indexing, metadata filtering, hybrid search, and snapshots. The SQL",
+    "id": "PhilipJohnBasile/vecstore",
+    "language": "Rust",
+    "name": "PhilipJohnBasile/vecstore",
+    "stars": 16,
+    "updated_at": "2026-09-02T01:18:18Z",
+    "url": "https://github.com/PhilipJohnBasile/vecstore"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 853,
+    "updated_at": "2026-09-02T01:17:20Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-02T01:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "CLI RAG agent over a local corpus: cited answers, confidence gating that refuses without evidence, prompt-injection defe",
+    "id": "ahmed-hashim-pro/rag-knowledge-agent",
+    "language": "Python",
+    "name": "ahmed-hashim-pro/rag-knowledge-agent",
+    "stars": 0,
+    "updated_at": "2026-09-02T01:15:20Z",
+    "url": "https://github.com/ahmed-hashim-pro/rag-knowledge-agent"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -59,7 +104,7 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 121,
-    "updated_at": "2026-09-02T01:02:42Z",
+    "updated_at": "2026-09-02T01:29:51Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -90,15 +135,6 @@
     "url": "https://github.com/oceanbase/oceanbase"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T01:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -106,15 +142,6 @@
     "stars": 1117,
     "updated_at": "2026-09-02T01:01:59Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type",
-    "id": "corvid-db/corvid",
-    "language": "Rust",
-    "name": "corvid-db/corvid",
-    "stars": 1,
-    "updated_at": "2026-09-02T00:50:00Z",
-    "url": "https://github.com/corvid-db/corvid"
   },
   {
     "description": "An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match",
@@ -153,20 +180,11 @@
     "url": "https://github.com/monaccode/astromesh"
   },
   {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 8,
-    "updated_at": "2026-09-02T00:34:06Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34324,
+    "stars": 34325,
     "updated_at": "2026-09-02T00:26:49Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -189,6 +207,15 @@
     "url": "https://github.com/edumgt/docker-class"
   },
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11330,
+    "updated_at": "2026-09-02T00:02:13Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -207,13 +234,13 @@
     "url": "https://github.com/tamnd/yo"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
     "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 853,
-    "updated_at": "2026-09-01T23:58:01Z",
-    "url": "https://github.com/orneryd/NornicDB"
+    "name": "milvus-io/milvus",
+    "stars": 45921,
+    "updated_at": "2026-09-01T23:42:01Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -252,15 +279,6 @@
     "url": "https://github.com/tuned-org-uk/arrowspace-rs"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11329,
-    "updated_at": "2026-09-02T00:02:13Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
     "id": "rostamlabs/rostam",
     "language": "Go",
@@ -283,7 +301,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 51972,
+    "stars": 51973,
     "updated_at": "2026-09-01T23:18:37Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -333,12 +351,21 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
+    "description": "Fusion \u540e\u7aef\uff1a\u7edf\u4e00\u591a\u6a21\u578b\u63a5\u5165\uff0c\u63d0\u4f9b Agent \u5bf9\u8bdd\u3001\u6587\u4ef6\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u4e0e\u77e5\u8bc6\u5e93\u80fd\u529b\u3002",
+    "id": "HyxiaoGe/fusion-api",
+    "language": "Python",
+    "name": "HyxiaoGe/fusion-api",
+    "stars": 5,
+    "updated_at": "2026-09-01T23:00:20Z",
+    "url": "https://github.com/HyxiaoGe/fusion-api"
+  },
+  {
     "description": "Unified multimodal backend for AI data apps",
     "id": "pixeltable/pixeltable",
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1619,
-    "updated_at": "2026-09-01T22:59:49Z",
+    "updated_at": "2026-09-02T01:28:54Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-01T22:38:31Z",
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-09-01T22:38:21Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 2,
-    "updated_at": "2026-09-01T22:37:26Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65481,
-    "updated_at": "2026-09-01T22:36:26Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   }
 ]
