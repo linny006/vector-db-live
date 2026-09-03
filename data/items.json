@@ -1,10 +1,100 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T14:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-09-03T14:41:35Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6397,
+    "updated_at": "2026-09-03T14:40:38Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 19,
+    "updated_at": "2026-09-03T14:37:36Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-03T14:36:19Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 94,
+    "updated_at": "2026-09-03T14:36:02Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:34:37Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "Official Python SDK for the Pinecone vector database",
+    "id": "pinecone-io/python-sdk",
+    "language": "Python",
+    "name": "pinecone-io/python-sdk",
+    "stars": 449,
+    "updated_at": "2026-09-03T14:31:34Z",
+    "url": "https://github.com/pinecone-io/python-sdk"
+  },
+  {
+    "description": "Support operations platform for B2B SaaS teams, featuring ticket triage, versioned knowledge base, grounded response dra",
+    "id": "rafael-acerqueira/support-ops",
+    "language": "Python",
+    "name": "rafael-acerqueira/support-ops",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:31:23Z",
+    "url": "https://github.com/rafael-acerqueira/support-ops"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T14:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
-    "stars": 236,
+    "stars": 237,
     "updated_at": "2026-09-03T14:26:51Z",
     "url": "https://github.com/codecoradev/uteke"
   },
@@ -23,7 +113,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 77,
-    "updated_at": "2026-09-03T14:19:29Z",
+    "updated_at": "2026-09-03T14:39:23Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -45,58 +135,13 @@
     "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
-    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 1,
-    "updated_at": "2026-09-03T14:16:52Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-09-03T14:16:14Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T14:15:46Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T14:15:30Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1123,
-    "updated_at": "2026-09-03T14:20:14Z",
+    "updated_at": "2026-09-03T14:39:57Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 19,
-    "updated_at": "2026-09-03T14:13:21Z",
-    "url": "https://github.com/opencrawling/opencrawling"
   },
   {
     "description": "Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type",
@@ -106,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T14:11:04Z",
     "url": "https://github.com/corvid-db/corvid"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-03T14:09:23Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -171,15 +207,6 @@
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
-    "description": "Official Python SDK for the Pinecone vector database",
-    "id": "pinecone-io/python-sdk",
-    "language": "Python",
-    "name": "pinecone-io/python-sdk",
-    "stars": 449,
-    "updated_at": "2026-09-03T13:56:04Z",
-    "url": "https://github.com/pinecone-io/python-sdk"
-  },
-  {
     "description": "AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje",
     "id": "karthikbilaspur/ai_learning",
     "language": "Python",
@@ -212,7 +239,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7076,
-    "updated_at": "2026-09-03T14:18:01Z",
+    "updated_at": "2026-09-03T14:39:07Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -230,7 +257,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-03T14:20:22Z",
+    "updated_at": "2026-09-03T14:43:25Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -248,7 +275,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59174,
-    "updated_at": "2026-09-03T13:32:37Z",
+    "updated_at": "2026-09-03T14:33:30Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Python",
     "name": "pinecone-io/pulumi-pinecone-byoc",
     "stars": 13,
-    "updated_at": "2026-09-03T13:51:42Z",
+    "updated_at": "2026-09-03T14:42:59Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
@@ -340,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-09-03T12:50:44Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6397,
-    "updated_at": "2026-09-03T12:56:39Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -385,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T12:29:06Z",
     "url": "https://github.com/Yigtwxx/OracleX"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 94,
-    "updated_at": "2026-09-03T14:07:13Z",
-    "url": "https://github.com/topk-io/topk"
   },
   {
     "description": "Self-hostable RAG platform - document ingestion, embedding, and vector search behind a simple REST API",
@@ -437,16 +446,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30433,
-    "updated_at": "2026-09-03T14:25:07Z",
+    "updated_at": "2026-09-03T14:33:30Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "You put an agent into an Elpis, and it becomes Elpis; Be Elpis my friend.",
-    "id": "MasihMoafi/Elpis",
-    "language": "Rust",
-    "name": "MasihMoafi/Elpis",
-    "stars": 41,
-    "updated_at": "2026-09-03T13:16:45Z",
-    "url": "https://github.com/MasihMoafi/Elpis"
   }
 ]
