@@ -1,21 +1,12 @@
 [
   {
-    "description": "An advanced,local vector database for Flutter, powered by Rust and HNSW graph indexing.",
-    "id": "MostafaSensei106/Waffle-DB",
-    "language": "Dart",
-    "name": "MostafaSensei106/Waffle-DB",
-    "stars": 4,
-    "updated_at": "2026-09-03T13:59:13Z",
-    "url": "https://github.com/MostafaSensei106/Waffle-DB"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 854,
-    "updated_at": "2026-09-03T13:59:10Z",
-    "url": "https://github.com/orneryd/NornicDB"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T14:05:38Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -23,8 +14,62 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1882,
-    "updated_at": "2026-09-03T13:56:18Z",
+    "updated_at": "2026-09-03T14:02:34Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13012,
+    "updated_at": "2026-09-03T14:02:20Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "An advanced,local vector database for Flutter, powered by Rust and HNSW graph indexing.",
+    "id": "MostafaSensei106/Waffle-DB",
+    "language": "Dart",
+    "name": "MostafaSensei106/Waffle-DB",
+    "stars": 4,
+    "updated_at": "2026-09-03T14:01:23Z",
+    "url": "https://github.com/MostafaSensei106/Waffle-DB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T14:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:00:19Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 19,
+    "updated_at": "2026-09-03T13:59:51Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 854,
+    "updated_at": "2026-09-03T14:03:25Z",
+    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Official Python SDK for the Pinecone vector database",
@@ -81,30 +126,12 @@
     "url": "https://github.com/A3S-Lab/Vec"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T13:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T13:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16784,
-    "updated_at": "2026-09-03T13:54:46Z",
+    "updated_at": "2026-09-03T14:06:36Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -113,7 +140,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1123,
-    "updated_at": "2026-09-03T13:43:58Z",
+    "updated_at": "2026-09-03T14:08:15Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -122,7 +149,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-03T13:43:30Z",
+    "updated_at": "2026-09-03T14:02:54Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -196,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T13:18:39Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-03T14:00:19Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
     "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
@@ -288,15 +306,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 19,
-    "updated_at": "2026-09-03T13:59:51Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -320,17 +329,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34362,
-    "updated_at": "2026-09-03T13:51:41Z",
+    "updated_at": "2026-09-03T14:02:51Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13012,
-    "updated_at": "2026-09-03T14:00:19Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -365,7 +365,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 94,
-    "updated_at": "2026-09-03T13:28:47Z",
+    "updated_at": "2026-09-03T14:07:13Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
