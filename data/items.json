@@ -1,12 +1,48 @@
 [
   {
-    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
-    "id": "eugen-goebel/smart-doc-qa",
-    "language": "Python",
-    "name": "eugen-goebel/smart-doc-qa",
-    "stars": 0,
-    "updated_at": "2026-09-03T08:49:40Z",
-    "url": "https://github.com/eugen-goebel/smart-doc-qa"
+    "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
+    "id": "Dakera-AI/dakera-cli",
+    "language": "Rust",
+    "name": "Dakera-AI/dakera-cli",
+    "stars": 8,
+    "updated_at": "2026-09-03T09:12:11Z",
+    "url": "https://github.com/Dakera-AI/dakera-cli"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-09-03T09:11:07Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "Zilliz Cloud plugin for Claude Code & OpenAI Codex \u2014 manage clusters, collections, vector search, backups, and more thro",
+    "id": "zilliztech/zilliz-plugin",
+    "language": "\u2014",
+    "name": "zilliztech/zilliz-plugin",
+    "stars": 3,
+    "updated_at": "2026-09-03T09:10:55Z",
+    "url": "https://github.com/zilliztech/zilliz-plugin"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1473,
+    "updated_at": "2026-09-03T09:04:23Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-03T09:04:06Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "The AI search platform",
@@ -14,8 +50,80 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7075,
-    "updated_at": "2026-09-03T08:49:21Z",
+    "updated_at": "2026-09-03T09:08:33Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "TypeScript",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-09-03T09:03:03Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
+    "id": "amirhosssein0/ai-platform-lab",
+    "language": "TypeScript",
+    "name": "amirhosssein0/ai-platform-lab",
+    "stars": 5,
+    "updated_at": "2026-09-03T09:15:01Z",
+    "url": "https://github.com/amirhosssein0/ai-platform-lab"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34356,
+    "updated_at": "2026-09-03T09:01:10Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T09:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T09:00:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13010,
+    "updated_at": "2026-09-03T09:03:57Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "MemoryOS is a universal, enterprise-grade, persistent AI workspace that remembers project history, decisions, and shared",
+    "id": "PulkitChugh21/MemoryOS",
+    "language": "Python",
+    "name": "PulkitChugh21/MemoryOS",
+    "stars": 0,
+    "updated_at": "2026-09-03T08:57:44Z",
+    "url": "https://github.com/PulkitChugh21/MemoryOS"
+  },
+  {
+    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
+    "id": "eugen-goebel/smart-doc-qa",
+    "language": "Python",
+    "name": "eugen-goebel/smart-doc-qa",
+    "stars": 0,
+    "updated_at": "2026-09-03T08:49:40Z",
+    "url": "https://github.com/eugen-goebel/smart-doc-qa"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -34,42 +142,6 @@
     "stars": 5,
     "updated_at": "2026-09-03T08:47:37Z",
     "url": "https://github.com/edumgt/docker-class"
-  },
-  {
-    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
-    "id": "amirhosssein0/ai-platform-lab",
-    "language": "TypeScript",
-    "name": "amirhosssein0/ai-platform-lab",
-    "stars": 5,
-    "updated_at": "2026-09-03T08:58:11Z",
-    "url": "https://github.com/amirhosssein0/ai-platform-lab"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T08:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T08:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34355,
-    "updated_at": "2026-09-03T08:44:01Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
@@ -95,7 +167,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-09-03T08:41:04Z",
+    "updated_at": "2026-09-03T09:10:13Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -104,7 +176,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45946,
-    "updated_at": "2026-09-03T08:39:30Z",
+    "updated_at": "2026-09-03T09:01:30Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -131,7 +203,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35502,
-    "updated_at": "2026-09-03T08:44:57Z",
+    "updated_at": "2026-09-03T09:08:48Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -149,7 +221,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 270,
-    "updated_at": "2026-09-03T08:28:02Z",
+    "updated_at": "2026-09-03T09:04:06Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -214,15 +286,6 @@
     "stars": 2283,
     "updated_at": "2026-09-03T08:09:14Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13010,
-    "updated_at": "2026-09-03T09:00:20Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -333,15 +396,6 @@
     "url": "https://github.com/k8ssandra/k8ssandra-operator"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-03T07:28:12Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "Knowledge Intelligence System for AI Research",
     "id": "letuandatt/AI-Radar",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T07:00:04Z",
     "url": "https://github.com/RonnyTome/cube-memory-sdk"
-  },
-  {
-    "description": "Samples showcasing Spanner multi model capabilities - across relational, key/value, vector, full-text search and graph",
-    "id": "GoogleCloudPlatform/spanner-bb-samples",
-    "language": "Python",
-    "name": "GoogleCloudPlatform/spanner-bb-samples",
-    "stars": 6,
-    "updated_at": "2026-09-03T06:58:07Z",
-    "url": "https://github.com/GoogleCloudPlatform/spanner-bb-samples"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15674,
-    "updated_at": "2026-09-03T06:54:23Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1473,
-    "updated_at": "2026-09-03T06:50:39Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-09-03T06:45:15Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-03T06:44:44Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 24,
-    "updated_at": "2026-09-03T06:43:05Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
   }
 ]
