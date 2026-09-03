@@ -1,5 +1,86 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-03T18:11:16Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1124,
+    "updated_at": "2026-09-03T18:10:32Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-03T18:10:05Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1348,
+    "updated_at": "2026-09-03T18:09:30Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
+    "id": "kichikubeihei/CodeMemoryPrime",
+    "language": "Rust",
+    "name": "kichikubeihei/CodeMemoryPrime",
+    "stars": 0,
+    "updated_at": "2026-09-03T18:07:50Z",
+    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
+  },
+  {
+    "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
+    "id": "RoxyAPI/ai-spiritual-companion",
+    "language": "TypeScript",
+    "name": "RoxyAPI/ai-spiritual-companion",
+    "stars": 0,
+    "updated_at": "2026-09-03T18:06:18Z",
+    "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 22,
+    "updated_at": "2026-09-03T18:04:49Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-03T18:13:49Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T18:00:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +90,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
+    "id": "Shitless-jnr3697/rebasis",
+    "language": "Python",
+    "name": "Shitless-jnr3697/rebasis",
     "stars": 0,
-    "updated_at": "2026-09-03T17:54:13Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+    "updated_at": "2026-09-03T17:55:59Z",
+    "url": "https://github.com/Shitless-jnr3697/rebasis"
   },
   {
     "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
@@ -72,15 +153,6 @@
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T17:51:56Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
     "id": "Bekhbekh7821/CanopyOps",
     "language": "\u2014",
@@ -88,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T17:51:34Z",
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:54:48Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -115,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-09-03T17:47:06Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5886,
+    "updated_at": "2026-09-03T17:46:49Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -230,7 +302,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-09-03T17:34:15Z",
+    "updated_at": "2026-09-03T18:11:07Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -338,7 +410,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7075,
-    "updated_at": "2026-09-03T17:21:05Z",
+    "updated_at": "2026-09-03T18:11:37Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-03T17:14:59Z",
     "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
-    "id": "IronCoreLabs/ironcore-alloy",
-    "language": "Rust",
-    "name": "IronCoreLabs/ironcore-alloy",
-    "stars": 30,
-    "updated_at": "2026-09-03T17:14:25Z",
-    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1882,
-    "updated_at": "2026-09-03T17:12:43Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:12:14Z",
-    "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30434,
-    "updated_at": "2026-09-03T17:38:28Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:08:26Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:08:18Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
-    "id": "ermermermermidk/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ermermermermidk/mcp-ai-memory",
-    "stars": 1,
-    "updated_at": "2026-09-03T17:07:47Z",
-    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "A dual-language workspace of AI/LLM projects in TypeScript and Python \u2014 LangChain, LangGraph, RAG, vector stores, MCP, a",
-    "id": "dilumdarshana/ai-concepts",
-    "language": "TypeScript",
-    "name": "dilumdarshana/ai-concepts",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:04:51Z",
-    "url": "https://github.com/dilumdarshana/ai-concepts"
   }
 ]
