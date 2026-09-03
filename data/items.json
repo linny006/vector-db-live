@@ -1,5 +1,77 @@
 [
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13010,
+    "updated_at": "2026-09-03T07:41:02Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1882,
+    "updated_at": "2026-09-03T07:40:46Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
+    "id": "ldclabs/anda-db",
+    "language": "Rust",
+    "name": "ldclabs/anda-db",
+    "stars": 30,
+    "updated_at": "2026-09-03T07:40:02Z",
+    "url": "https://github.com/ldclabs/anda-db"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35500,
+    "updated_at": "2026-09-03T07:38:48Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1123,
+    "updated_at": "2026-09-03T07:37:42Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-03T07:36:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self-hostable RAG platform - document ingestion, embedding, and vector search behind a simple REST API",
+    "id": "bigint/rag.computer",
+    "language": "Python",
+    "name": "bigint/rag.computer",
+    "stars": 99,
+    "updated_at": "2026-09-03T07:34:05Z",
+    "url": "https://github.com/bigint/rag.computer"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T07:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +81,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
     "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1123,
-    "updated_at": "2026-09-03T07:30:24Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "name": "vespa-engine/vespa",
+    "stars": 7075,
+    "updated_at": "2026-09-03T07:36:57Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "The Kubernetes operator for K8ssandra",
@@ -34,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-09-03T07:28:12Z",
     "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7075,
-    "updated_at": "2026-09-03T07:30:03Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Knowledge Intelligence System for AI Research",
@@ -70,24 +133,6 @@
     "stars": 17,
     "updated_at": "2026-09-03T07:15:50Z",
     "url": "https://github.com/ankushchhabra02/vortex"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T07:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-03T07:10:09Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "",
@@ -121,7 +166,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15660,
+    "stars": 15661,
     "updated_at": "2026-09-03T06:54:23Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -171,15 +216,6 @@
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
-    "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
-    "id": "ldclabs/anda-db",
-    "language": "Rust",
-    "name": "ldclabs/anda-db",
-    "stars": 30,
-    "updated_at": "2026-09-03T06:42:14Z",
-    "url": "https://github.com/ldclabs/anda-db"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
     "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "TypeScript",
@@ -202,27 +238,9 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2845,
+    "stars": 2846,
     "updated_at": "2026-09-03T06:36:21Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1882,
-    "updated_at": "2026-09-03T06:42:14Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35499,
-    "updated_at": "2026-09-03T07:27:58Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Documentation for LanceDB, the Multimodal Lakehouse for AI",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T04:12:50Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
-  },
-  {
-    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
-    "id": "caoergou/dify-installer",
-    "language": "Shell",
-    "name": "caoergou/dify-installer",
-    "stars": 2,
-    "updated_at": "2026-09-03T04:08:01Z",
-    "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45940,
-    "updated_at": "2026-09-03T04:05:58Z",
-    "url": "https://github.com/milvus-io/milvus"
   }
 ]
