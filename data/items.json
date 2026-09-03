@@ -1,12 +1,66 @@
 [
   {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 16,
-    "updated_at": "2026-09-02T23:56:27Z",
-    "url": "https://github.com/integrallis/vectors"
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-03T00:15:20Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-03T00:12:53Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Read-only, empirical, offline auditor for vector indexes (LanceDB, Qdrant, pgvector).",
+    "id": "hbauzan/vhecfsck",
+    "language": "Python",
+    "name": "hbauzan/vhecfsck",
+    "stars": 1,
+    "updated_at": "2026-09-03T00:11:43Z",
+    "url": "https://github.com/hbauzan/vhecfsck"
+  },
+  {
+    "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
+    "id": "mirkobozzetto/flowflow",
+    "language": "Rust",
+    "name": "mirkobozzetto/flowflow",
+    "stars": 166,
+    "updated_at": "2026-09-03T00:14:58Z",
+    "url": "https://github.com/mirkobozzetto/flowflow"
+  },
+  {
+    "description": "AI Native Vector and Full-text engine",
+    "id": "A3S-Lab/Vec",
+    "language": "Rust",
+    "name": "A3S-Lab/Vec",
+    "stars": 1,
+    "updated_at": "2026-09-03T00:09:41Z",
+    "url": "https://github.com/A3S-Lab/Vec"
+  },
+  {
+    "description": "A minimal storage layer for storing large matrices and embeddings",
+    "id": "tuned-org-uk/genegraph-storage",
+    "language": "Rust",
+    "name": "tuned-org-uk/genegraph-storage",
+    "stars": 2,
+    "updated_at": "2026-09-03T00:08:32Z",
+    "url": "https://github.com/tuned-org-uk/genegraph-storage"
+  },
+  {
+    "description": "Open standard and reference CLI for portable, self-describing AI embedding vector metadata.",
+    "id": "saworbit/vector_passport",
+    "language": "Python",
+    "name": "saworbit/vector_passport",
+    "stars": 0,
+    "updated_at": "2026-09-03T00:04:56Z",
+    "url": "https://github.com/saworbit/vector_passport"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -14,8 +68,35 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-02T23:55:01Z",
+    "updated_at": "2026-09-03T00:02:52Z",
     "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T00:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T00:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 16,
+    "updated_at": "2026-09-02T23:56:27Z",
+    "url": "https://github.com/integrallis/vectors"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -27,33 +108,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Read-only, empirical, offline auditor for vector indexes (LanceDB, Qdrant, pgvector).",
-    "id": "hbauzan/vhecfsck",
-    "language": "Python",
-    "name": "hbauzan/vhecfsck",
-    "stars": 1,
-    "updated_at": "2026-09-02T23:53:49Z",
-    "url": "https://github.com/hbauzan/vhecfsck"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-02T23:51:05Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "AI Native Vector and Full-text engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 1,
-    "updated_at": "2026-09-02T23:47:54Z",
-    "url": "https://github.com/A3S-Lab/Vec"
-  },
-  {
     "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
     "id": "liliang-cn/cortexdb",
     "language": "Go",
@@ -61,24 +115,6 @@
     "stars": 254,
     "updated_at": "2026-09-02T23:46:56Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-02T23:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-02T23:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9224,
-    "updated_at": "2026-09-02T23:57:23Z",
+    "updated_at": "2026-09-03T00:10:02Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -261,22 +297,13 @@
     "url": "https://github.com/IronCoreLabs/ironcore-alloy"
   },
   {
-    "description": "A minimal storage layer for storing large matrices and embeddings",
-    "id": "tuned-org-uk/genegraph-storage",
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
     "language": "Rust",
-    "name": "tuned-org-uk/genegraph-storage",
-    "stars": 2,
-    "updated_at": "2026-09-02T21:48:27Z",
-    "url": "https://github.com/tuned-org-uk/genegraph-storage"
-  },
-  {
-    "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
-    "id": "mirkobozzetto/flowflow",
-    "language": "Rust",
-    "name": "mirkobozzetto/flowflow",
-    "stars": 166,
-    "updated_at": "2026-09-02T22:30:47Z",
-    "url": "https://github.com/mirkobozzetto/flowflow"
+    "name": "qdrant/qdrant",
+    "stars": 34347,
+    "updated_at": "2026-09-02T21:45:38Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "RAG-based n8n assistant that retrieves demo company knowledge from Supabase and produces grounded OpenAI answers.",
@@ -286,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-02T21:43:13Z",
     "url": "https://github.com/stlt-n8n/ai-company-knowledge-rag"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-02T21:40:07Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -369,15 +387,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34347,
-    "updated_at": "2026-09-02T21:45:38Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
     "id": "Constraintworthy6058/ai-github-repository-assistant",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T20:55:42Z",
     "url": "https://github.com/Wry-letters233/notes-quiz-agent"
-  },
-  {
-    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
-    "id": "retrograde-prosceniumwall239/ai-search-engine",
-    "language": "Python",
-    "name": "retrograde-prosceniumwall239/ai-search-engine",
-    "stars": 1,
-    "updated_at": "2026-09-02T20:55:33Z",
-    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
   }
 ]
