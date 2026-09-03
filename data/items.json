@@ -1,5 +1,32 @@
 [
   {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-03T22:48:25Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1882,
+    "updated_at": "2026-09-03T22:45:49Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T22:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,7 +59,7 @@
     "language": "TypeScript",
     "name": "chrisleekr/langchain-playground",
     "stars": 6,
-    "updated_at": "2026-09-03T22:36:26Z",
+    "updated_at": "2026-09-03T22:47:19Z",
     "url": "https://github.com/chrisleekr/langchain-playground"
   },
   {
@@ -43,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-09-03T22:33:14Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T22:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
@@ -270,15 +288,6 @@
     "url": "https://github.com/hugoagreda/EstateAI"
   },
   {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-03T20:49:26Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
     "description": "Business Document Intelligence backend built with Python and FastAPI for structured financial extraction, validation, em",
     "id": "keshavgupta-max/Agent-Document-Extractor-Financial-Documents-",
     "language": "Python",
@@ -320,7 +329,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9225,
-    "updated_at": "2026-09-03T22:34:04Z",
+    "updated_at": "2026-09-03T22:48:09Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 13012,
     "updated_at": "2026-09-03T19:30:14Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1907,
-    "updated_at": "2026-09-03T19:21:49Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
   }
 ]
