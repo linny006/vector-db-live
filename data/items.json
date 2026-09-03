@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T04:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "TalaDB - The embedded vector and document database for on-device AI.",
+    "id": "taladb/taladb",
+    "language": "Rust",
+    "name": "taladb/taladb",
+    "stars": 4,
+    "updated_at": "2026-09-03T04:27:56Z",
+    "url": "https://github.com/taladb/taladb"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 590,
+    "updated_at": "2026-09-03T04:26:37Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-03T04:26:00Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "A minimal storage layer for storing large matrices and embeddings",
+    "id": "tuned-org-uk/genegraph-storage",
+    "language": "Rust",
+    "name": "tuned-org-uk/genegraph-storage",
+    "stars": 2,
+    "updated_at": "2026-09-03T04:23:44Z",
+    "url": "https://github.com/tuned-org-uk/genegraph-storage"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "Python",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-09-03T04:21:02Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T04:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
     "id": "vishalChoudhary-git/ai-platform",
     "language": "Python",
@@ -32,7 +95,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1122,
-    "updated_at": "2026-09-03T04:08:03Z",
+    "updated_at": "2026-09-03T04:28:13Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -54,15 +117,6 @@
     "url": "https://github.com/A3S-Lab/Vec"
   },
   {
-    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
-    "id": "MaxFreedomPollard/Compartment",
-    "language": "Python",
-    "name": "MaxFreedomPollard/Compartment",
-    "stars": 590,
-    "updated_at": "2026-09-03T04:05:21Z",
-    "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
     "description": "Migrate vector DBs to a new embedding model without re-embedding. Linear maps from ~2K calibration texts, ~87-91% retrie",
     "id": "krish1925/isotrieve",
     "language": "Python",
@@ -79,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T04:01:43Z",
     "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T04:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T04:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "",
@@ -302,17 +338,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1882,
-    "updated_at": "2026-09-03T03:43:17Z",
+    "updated_at": "2026-09-03T04:15:30Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-03T04:08:52Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-03T03:28:19Z",
     "url": "https://github.com/BiggerCap/agentops-hub"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-03T03:27:21Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-03T03:22:59Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-09-03T03:22:59Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
   }
 ]
