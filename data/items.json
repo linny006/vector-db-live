@@ -1,5 +1,59 @@
 [
   {
+    "description": "Persistent AI memory with crossover \u2014 your AI at home shares the same memory as your AI at work. What one LLM learns, al",
+    "id": "RonnyTome/cube-memory-sdk",
+    "language": "Python",
+    "name": "RonnyTome/cube-memory-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-03T07:00:04Z",
+    "url": "https://github.com/RonnyTome/cube-memory-sdk"
+  },
+  {
+    "description": "Samples showcasing Spanner multi model capabilities - across relational, key/value, vector, full-text search and graph",
+    "id": "GoogleCloudPlatform/spanner-bb-samples",
+    "language": "Python",
+    "name": "GoogleCloudPlatform/spanner-bb-samples",
+    "stars": 6,
+    "updated_at": "2026-09-03T06:58:07Z",
+    "url": "https://github.com/GoogleCloudPlatform/spanner-bb-samples"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15655,
+    "updated_at": "2026-09-03T06:54:23Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1473,
+    "updated_at": "2026-09-03T06:50:39Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-03T06:48:36Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T06:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +61,24 @@
     "stars": 3,
     "updated_at": "2026-09-03T06:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-09-03T06:45:15Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-03T06:44:44Z",
+    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
@@ -45,22 +117,22 @@
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
+    "description": "",
+    "id": "techplanshetyapps/clinscreen-pro",
+    "language": "\u2014",
+    "name": "techplanshetyapps/clinscreen-pro",
     "stars": 0,
-    "updated_at": "2026-09-03T06:44:44Z",
-    "url": "https://github.com/tamnd/yo"
+    "updated_at": "2026-09-03T06:37:10Z",
+    "url": "https://github.com/techplanshetyapps/clinscreen-pro"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T06:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "Ontos-AI/knowhere",
+    "stars": 2845,
+    "updated_at": "2026-09-03T06:36:21Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -108,15 +180,6 @@
     "url": "https://github.com/realxuekun-commits/gamecrew-ai"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-03T06:15:49Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
@@ -131,7 +194,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-03T06:42:59Z",
+    "updated_at": "2026-09-03T06:55:56Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -169,15 +232,6 @@
     "stars": 62,
     "updated_at": "2026-09-03T05:57:00Z",
     "url": "https://github.com/oceanbase/pyseekdb"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1473,
-    "updated_at": "2026-09-03T05:40:45Z",
-    "url": "https://github.com/datalevin/datalevin"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -346,7 +400,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45937,
+    "stars": 45938,
     "updated_at": "2026-09-03T04:05:58Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-03T03:58:07Z",
     "url": "https://github.com/mattmre/CHELATEDAI"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-09-03T03:57:53Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Python SDK for Milvus Vector Database",
-    "id": "milvus-io/pymilvus",
-    "language": "Python",
-    "name": "milvus-io/pymilvus",
-    "stars": 1409,
-    "updated_at": "2026-09-03T03:57:22Z",
-    "url": "https://github.com/milvus-io/pymilvus"
-  },
-  {
-    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
-    "id": "Wry-letters233/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Wry-letters233/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-09-03T03:57:04Z",
-    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
-  },
-  {
-    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
-    "id": "retrograde-prosceniumwall239/ai-search-engine",
-    "language": "Python",
-    "name": "retrograde-prosceniumwall239/ai-search-engine",
-    "stars": 1,
-    "updated_at": "2026-09-03T03:56:50Z",
-    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-09-03T03:53:06Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-09-03T03:49:33Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
   }
 ]
