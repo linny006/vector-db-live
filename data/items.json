@@ -1,30 +1,75 @@
 [
   {
-    "description": "Multi-agent AI academic advisor. Parses a university transcript PDF, then generates a validated 4-year course plan via a",
-    "id": "MansurTiyes/project_warszawa",
-    "language": "Python",
-    "name": "MansurTiyes/project_warszawa",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:51:22Z",
-    "url": "https://github.com/MansurTiyes/project_warszawa"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:50:38Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-03T17:50:32Z",
+    "updated_at": "2026-09-03T18:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-03T17:54:13Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
+    "id": "boulif781/enterprise-knowledge-assistant",
+    "language": "\u2014",
+    "name": "boulif781/enterprise-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-03T17:54:05Z",
+    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12923,
+    "updated_at": "2026-09-03T17:59:44Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-03T17:52:33Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Multi-agent AI academic advisor. Parses a university transcript PDF, then generates a validated 4-year course plan via a",
+    "id": "MansurTiyes/project_warszawa",
+    "language": "Python",
+    "name": "MansurTiyes/project_warszawa",
+    "stars": 0,
+    "updated_at": "2026-09-03T17:52:31Z",
+    "url": "https://github.com/MansurTiyes/project_warszawa"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-09-03T17:52:17Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
+    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "language": "Jupyter Notebook",
+    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "stars": 1,
+    "updated_at": "2026-09-03T17:52:01Z",
+    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -32,8 +77,44 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-09-03T17:45:32Z",
+    "updated_at": "2026-09-03T17:51:56Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
+    "id": "Bekhbekh7821/CanopyOps",
+    "language": "\u2014",
+    "name": "Bekhbekh7821/CanopyOps",
+    "stars": 1,
+    "updated_at": "2026-09-03T17:51:34Z",
+    "url": "https://github.com/Bekhbekh7821/CanopyOps"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-03T17:54:48Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-09-03T17:48:55Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
+    "stars": 0,
+    "updated_at": "2026-09-03T17:47:06Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -52,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T17:43:47Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:42:58Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
@@ -315,15 +387,6 @@
     "url": "https://github.com/IronCoreLabs/ironcore-alloy"
   },
   {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:14:13Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -378,15 +441,6 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12923,
-    "updated_at": "2026-09-03T17:12:39Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
     "description": "A dual-language workspace of AI/LLM projects in TypeScript and Python \u2014 LangChain, LangGraph, RAG, vector stores, MCP, a",
     "id": "dilumdarshana/ai-concepts",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T17:04:51Z",
     "url": "https://github.com/dilumdarshana/ai-concepts"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1348,
-    "updated_at": "2026-09-03T17:02:44Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 22,
-    "updated_at": "2026-09-03T17:01:48Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "Agentic customer support platform \u2014 hand-written agent loop, RAG, human-in-the-loop approvals, multi-agent specialists, ",
-    "id": "Akshay-professor/helpdesk-copilot",
-    "language": "JavaScript",
-    "name": "Akshay-professor/helpdesk-copilot",
-    "stars": 0,
-    "updated_at": "2026-09-03T16:50:56Z",
-    "url": "https://github.com/Akshay-professor/helpdesk-copilot"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-09-03T16:50:22Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Detect and fix oversized vector DB metadata before upsert. CLI for Pinecone, Chroma, Qdrant, Weaviate.",
-    "id": "Achal13jain/vectormeta",
-    "language": "Python",
-    "name": "Achal13jain/vectormeta",
-    "stars": 0,
-    "updated_at": "2026-09-03T17:03:43Z",
-    "url": "https://github.com/Achal13jain/vectormeta"
-  },
-  {
-    "description": "A distributed Key-Value Storage using Raft",
-    "id": "dingodb/dingo-store",
-    "language": "C++",
-    "name": "dingodb/dingo-store",
-    "stars": 162,
-    "updated_at": "2026-09-03T16:46:19Z",
-    "url": "https://github.com/dingodb/dingo-store"
   }
 ]
