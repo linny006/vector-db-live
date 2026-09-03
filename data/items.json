@@ -1,5 +1,95 @@
 [
   {
+    "description": "\u26a1\ufe0fLightning fast in-memory VectorDB written in rust\ud83e\udd80",
+    "id": "KevKibe/memvectordb",
+    "language": "Rust",
+    "name": "KevKibe/memvectordb",
+    "stars": 31,
+    "updated_at": "2026-09-03T09:27:40Z",
+    "url": "https://github.com/KevKibe/memvectordb"
+  },
+  {
+    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
+    "id": "amirhosssein0/ai-platform-lab",
+    "language": "TypeScript",
+    "name": "amirhosssein0/ai-platform-lab",
+    "stars": 5,
+    "updated_at": "2026-09-03T09:28:32Z",
+    "url": "https://github.com/amirhosssein0/ai-platform-lab"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34357,
+    "updated_at": "2026-09-03T09:30:20Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "MemoryOS is a universal, enterprise-grade, persistent AI workspace that remembers project history, decisions, and shared",
+    "id": "PulkitChugh21/MemoryOS",
+    "language": "Python",
+    "name": "PulkitChugh21/MemoryOS",
+    "stars": 0,
+    "updated_at": "2026-09-03T09:23:42Z",
+    "url": "https://github.com/PulkitChugh21/MemoryOS"
+  },
+  {
+    "description": "Agent skill that teaches AI agents how to manage Zilliz Cloud vector databases through zilliz-cli",
+    "id": "zilliztech/zilliz-skill",
+    "language": "\u2014",
+    "name": "zilliztech/zilliz-skill",
+    "stars": 5,
+    "updated_at": "2026-09-03T09:20:42Z",
+    "url": "https://github.com/zilliztech/zilliz-skill"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 254,
+    "updated_at": "2026-09-03T09:20:30Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-03T09:17:53Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35503,
+    "updated_at": "2026-09-03T09:17:26Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T09:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T09:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
     "id": "Dakera-AI/dakera-cli",
     "language": "Rust",
@@ -27,12 +117,21 @@
     "url": "https://github.com/zilliztech/zilliz-plugin"
   },
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-03T09:10:13Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "A simple, fast and versatile Datalog database",
     "id": "datalevin/datalevin",
     "language": "Clojure",
     "name": "datalevin/datalevin",
     "stars": 1473,
-    "updated_at": "2026-09-03T09:04:23Z",
+    "updated_at": "2026-09-03T09:21:30Z",
     "url": "https://github.com/datalevin/datalevin"
   },
   {
@@ -63,42 +162,6 @@
     "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
-    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
-    "id": "amirhosssein0/ai-platform-lab",
-    "language": "TypeScript",
-    "name": "amirhosssein0/ai-platform-lab",
-    "stars": 5,
-    "updated_at": "2026-09-03T09:15:01Z",
-    "url": "https://github.com/amirhosssein0/ai-platform-lab"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34356,
-    "updated_at": "2026-09-03T09:01:10Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T09:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T09:00:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -106,15 +169,6 @@
     "stars": 13010,
     "updated_at": "2026-09-03T09:03:57Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "MemoryOS is a universal, enterprise-grade, persistent AI workspace that remembers project history, decisions, and shared",
-    "id": "PulkitChugh21/MemoryOS",
-    "language": "Python",
-    "name": "PulkitChugh21/MemoryOS",
-    "stars": 0,
-    "updated_at": "2026-09-03T08:57:44Z",
-    "url": "https://github.com/PulkitChugh21/MemoryOS"
   },
   {
     "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
@@ -126,15 +180,6 @@
     "url": "https://github.com/eugen-goebel/smart-doc-qa"
   },
   {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-03T08:48:42Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
     "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
     "id": "edumgt/docker-class",
     "language": "Python",
@@ -144,15 +189,6 @@
     "url": "https://github.com/edumgt/docker-class"
   },
   {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 254,
-    "updated_at": "2026-09-03T08:43:40Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
     "id": "Dakera-AI/dakera-deploy",
     "language": "JavaScript",
@@ -160,15 +196,6 @@
     "stars": 18,
     "updated_at": "2026-09-03T08:42:39Z",
     "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-03T09:10:13Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -196,15 +223,6 @@
     "stars": 25,
     "updated_at": "2026-09-03T08:37:00Z",
     "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35502,
-    "updated_at": "2026-09-03T09:08:48Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Pinecone BYOC",
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30431,
-    "updated_at": "2026-09-03T08:02:00Z",
+    "updated_at": "2026-09-03T09:23:32Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -311,7 +329,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9433,
-    "updated_at": "2026-09-03T08:36:44Z",
+    "updated_at": "2026-09-03T09:27:49Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -356,7 +374,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8173,
-    "updated_at": "2026-09-03T08:36:38Z",
+    "updated_at": "2026-09-03T09:19:01Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 9225,
     "updated_at": "2026-09-03T07:09:46Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "",
-    "id": "techplanshetyapps/clinscreen-pro",
-    "language": "\u2014",
-    "name": "techplanshetyapps/clinscreen-pro",
-    "stars": 0,
-    "updated_at": "2026-09-03T07:06:58Z",
-    "url": "https://github.com/techplanshetyapps/clinscreen-pro"
-  },
-  {
-    "description": "Persistent AI memory with crossover \u2014 your AI at home shares the same memory as your AI at work. What one LLM learns, al",
-    "id": "RonnyTome/cube-memory-sdk",
-    "language": "Python",
-    "name": "RonnyTome/cube-memory-sdk",
-    "stars": 0,
-    "updated_at": "2026-09-03T07:00:04Z",
-    "url": "https://github.com/RonnyTome/cube-memory-sdk"
   }
 ]
