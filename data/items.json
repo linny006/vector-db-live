@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-03T22:08:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Full-stack medical RAG system - FastAPI, React, Google Gemini, FAISS vector search, local OCR for scanned PDFs. Answers ",
+    "id": "sanzizlohar/medical-rag",
+    "language": "Python",
+    "name": "sanzizlohar/medical-rag",
+    "stars": 0,
+    "updated_at": "2026-09-03T22:07:01Z",
+    "url": "https://github.com/sanzizlohar/medical-rag"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-09-03T22:06:18Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T22:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T22:15:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -36,24 +81,6 @@
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T21:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T22:00:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -72,15 +99,6 @@
     "url": "https://github.com/tamnd/yo"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-03T21:33:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -95,7 +113,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-03T21:56:32Z",
+    "updated_at": "2026-09-03T22:14:35Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30440,
-    "updated_at": "2026-09-03T21:06:00Z",
+    "updated_at": "2026-09-03T22:10:07Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T21:04:07Z",
     "url": "https://github.com/RonnyTome/cube-memory-sdk"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-09-03T21:03:50Z",
-    "url": "https://github.com/23skdu/longbow"
   },
   {
     "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
@@ -239,7 +248,7 @@
     "language": "Swift",
     "name": "christopherkarani/Wax",
     "stars": 790,
-    "updated_at": "2026-09-03T20:42:23Z",
+    "updated_at": "2026-09-03T22:13:41Z",
     "url": "https://github.com/christopherkarani/Wax"
   },
   {
@@ -275,7 +284,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-03T21:47:34Z",
+    "updated_at": "2026-09-03T22:07:28Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -437,16 +446,7 @@
     "language": "Jupyter Notebook",
     "name": "pinecone-io/examples",
     "stars": 3040,
-    "updated_at": "2026-09-03T19:00:02Z",
+    "updated_at": "2026-09-03T22:10:46Z",
     "url": "https://github.com/pinecone-io/examples"
-  },
-  {
-    "description": "The official Pinecone marketplace for Claude Code Plugins",
-    "id": "pinecone-io/pinecone-claude-code-plugin",
-    "language": "Python",
-    "name": "pinecone-io/pinecone-claude-code-plugin",
-    "stars": 68,
-    "updated_at": "2026-09-03T18:59:54Z",
-    "url": "https://github.com/pinecone-io/pinecone-claude-code-plugin"
   }
 ]
