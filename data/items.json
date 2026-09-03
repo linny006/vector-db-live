@@ -5,8 +5,71 @@
     "language": "Rust",
     "name": "KevKibe/memvectordb",
     "stars": 31,
-    "updated_at": "2026-09-03T09:27:40Z",
+    "updated_at": "2026-09-03T09:43:35Z",
     "url": "https://github.com/KevKibe/memvectordb"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-03T09:42:57Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-09-03T09:40:15Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "Gemini CLI extension for driving Zilliz Cloud via zilliz-cli.",
+    "id": "zilliztech/gemini-cli-extension",
+    "language": "JavaScript",
+    "name": "zilliztech/gemini-cli-extension",
+    "stars": 0,
+    "updated_at": "2026-09-03T09:39:14Z",
+    "url": "https://github.com/zilliztech/gemini-cli-extension"
+  },
+  {
+    "description": "Pinecone BYOC",
+    "id": "pinecone-io/pulumi-pinecone-byoc",
+    "language": "Python",
+    "name": "pinecone-io/pulumi-pinecone-byoc",
+    "stars": 13,
+    "updated_at": "2026-09-03T09:37:29Z",
+    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-03T09:36:59Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 90,
+    "updated_at": "2026-09-03T09:35:30Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2087,
+    "updated_at": "2026-09-03T09:43:29Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
     "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
@@ -14,8 +77,35 @@
     "language": "TypeScript",
     "name": "amirhosssein0/ai-platform-lab",
     "stars": 5,
-    "updated_at": "2026-09-03T09:28:32Z",
+    "updated_at": "2026-09-03T09:32:05Z",
     "url": "https://github.com/amirhosssein0/ai-platform-lab"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T09:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T09:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-09-03T09:30:13Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -23,7 +113,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34357,
-    "updated_at": "2026-09-03T09:30:20Z",
+    "updated_at": "2026-09-03T09:43:02Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -72,24 +162,6 @@
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T09:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T09:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "dk \u2014 CLI for Dakera self-hosted AI agent memory. Manage memories, namespaces, vectors, knowledge graphs, and sessions.",
     "id": "Dakera-AI/dakera-cli",
     "language": "Rust",
@@ -117,15 +189,6 @@
     "url": "https://github.com/zilliztech/zilliz-plugin"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-03T09:10:13Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A simple, fast and versatile Datalog database",
     "id": "datalevin/datalevin",
     "language": "Clojure",
@@ -133,15 +196,6 @@
     "stars": 1473,
     "updated_at": "2026-09-03T09:21:30Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-03T09:04:06Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "The AI search platform",
@@ -194,7 +248,7 @@
     "language": "JavaScript",
     "name": "Dakera-AI/dakera-deploy",
     "stars": 18,
-    "updated_at": "2026-09-03T08:42:39Z",
+    "updated_at": "2026-09-03T09:37:45Z",
     "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
   {
@@ -223,15 +277,6 @@
     "stars": 25,
     "updated_at": "2026-09-03T08:37:00Z",
     "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "Pinecone BYOC",
-    "id": "pinecone-io/pulumi-pinecone-byoc",
-    "language": "Python",
-    "name": "pinecone-io/pulumi-pinecone-byoc",
-    "stars": 13,
-    "updated_at": "2026-09-03T08:33:10Z",
-    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -320,7 +365,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1123,
-    "updated_at": "2026-09-03T08:52:12Z",
+    "updated_at": "2026-09-03T09:37:39Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -340,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T07:57:20Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 90,
-    "updated_at": "2026-09-03T08:36:09Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Agentic AI-powered Enterprise Knowledge Assistant using RAG, LangGraph, ChromaDB, Hugging Face embeddings, Groq/Ollama, ",
@@ -374,7 +410,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8173,
-    "updated_at": "2026-09-03T09:19:01Z",
+    "updated_at": "2026-09-03T09:41:32Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 242,
     "updated_at": "2026-09-03T07:28:20Z",
     "url": "https://github.com/k8ssandra/k8ssandra-operator"
-  },
-  {
-    "description": "Knowledge Intelligence System for AI Research",
-    "id": "letuandatt/AI-Radar",
-    "language": "Python",
-    "name": "letuandatt/AI-Radar",
-    "stars": 1,
-    "updated_at": "2026-09-03T07:26:08Z",
-    "url": "https://github.com/letuandatt/AI-Radar"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-09-03T07:22:14Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
-  },
-  {
-    "description": "Vortex is a self-hosted RAG (Retrieval-Augmented Generation) application that lets you chat with your documents using an",
-    "id": "ankushchhabra02/vortex",
-    "language": "TypeScript",
-    "name": "ankushchhabra02/vortex",
-    "stars": 17,
-    "updated_at": "2026-09-03T07:15:50Z",
-    "url": "https://github.com/ankushchhabra02/vortex"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9225,
-    "updated_at": "2026-09-03T07:09:46Z",
-    "url": "https://github.com/paradedb/paradedb"
   }
 ]
