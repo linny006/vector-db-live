@@ -1,11 +1,74 @@
 [
   {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 243,
+    "updated_at": "2026-09-03T13:12:57Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-03T13:09:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
+    "id": "aadityansha06/vecdb",
+    "language": "C",
+    "name": "aadityansha06/vecdb",
+    "stars": 3,
+    "updated_at": "2026-09-03T13:08:21Z",
+    "url": "https://github.com/aadityansha06/vecdb"
+  },
+  {
+    "description": "Agentic AI Portfolio Chatbot An intelligent chatbot that represents me on this portfolio. Built with LLM, RAG via Pineco",
+    "id": "GuptaSandip/sandip-portfolio",
+    "language": "TypeScript",
+    "name": "GuptaSandip/sandip-portfolio",
+    "stars": 0,
+    "updated_at": "2026-09-03T13:07:40Z",
+    "url": "https://github.com/GuptaSandip/sandip-portfolio"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T13:00:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T13:00:31Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1348,
+    "updated_at": "2026-09-03T13:00:07Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
     "description": "Pinecone BYOC",
     "id": "pinecone-io/pulumi-pinecone-byoc",
     "language": "Python",
     "name": "pinecone-io/pulumi-pinecone-byoc",
     "stars": 13,
-    "updated_at": "2026-09-03T12:56:34Z",
+    "updated_at": "2026-09-03T13:00:53Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
@@ -32,7 +95,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16784,
-    "updated_at": "2026-09-03T13:00:22Z",
+    "updated_at": "2026-09-03T13:11:11Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7076,
-    "updated_at": "2026-09-03T12:51:29Z",
+    "updated_at": "2026-09-03T13:11:46Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -63,24 +126,6 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T13:00:31Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T12:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
     "id": "opencrawling/opencrawling",
     "language": "Java",
@@ -90,21 +135,12 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-03T12:44:55Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 77,
-    "updated_at": "2026-09-03T12:43:58Z",
+    "updated_at": "2026-09-03T13:01:54Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-03T12:43:25Z",
+    "updated_at": "2026-09-03T13:11:38Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -139,7 +175,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45950,
+    "stars": 45951,
     "updated_at": "2026-09-03T12:39:30Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "ricmed/zettel_app",
     "stars": 0,
-    "updated_at": "2026-09-03T13:00:31Z",
+    "updated_at": "2026-09-03T13:12:20Z",
     "url": "https://github.com/ricmed/zettel_app"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30433,
-    "updated_at": "2026-09-03T12:25:38Z",
+    "updated_at": "2026-09-03T13:13:36Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 41,
-    "updated_at": "2026-09-03T12:38:33Z",
+    "updated_at": "2026-09-03T13:07:07Z",
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
@@ -337,7 +373,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2850,
+    "stars": 2851,
     "updated_at": "2026-09-03T11:40:36Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -392,7 +428,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9433,
-    "updated_at": "2026-09-03T12:36:32Z",
+    "updated_at": "2026-09-03T13:11:50Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T10:58:51Z",
     "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 1,
-    "updated_at": "2026-09-03T10:56:51Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-09-03T10:56:23Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-09-03T10:53:47Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "PostgreSQL TurboQuant Index for PGVector",
-    "id": "mayflower/pg_turboquant",
-    "language": "C",
-    "name": "mayflower/pg_turboquant",
-    "stars": 14,
-    "updated_at": "2026-09-03T10:52:45Z",
-    "url": "https://github.com/mayflower/pg_turboquant"
   }
 ]
