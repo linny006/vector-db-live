@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T17:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-03T16:58:16Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6396,
+    "updated_at": "2026-09-03T16:55:38Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Agentic customer support platform \u2014 hand-written agent loop, RAG, human-in-the-loop approvals, multi-agent specialists, ",
+    "id": "Akshay-professor/helpdesk-copilot",
+    "language": "JavaScript",
+    "name": "Akshay-professor/helpdesk-copilot",
+    "stars": 0,
+    "updated_at": "2026-09-03T16:50:56Z",
+    "url": "https://github.com/Akshay-professor/helpdesk-copilot"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 343,
+    "updated_at": "2026-09-03T16:50:22Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Detect and fix oversized vector DB metadata before upsert. CLI for Pinecone, Chroma, Qdrant, Weaviate.",
+    "id": "Achal13jain/vectormeta",
+    "language": "Python",
+    "name": "Achal13jain/vectormeta",
+    "stars": 0,
+    "updated_at": "2026-09-03T16:52:26Z",
+    "url": "https://github.com/Achal13jain/vectormeta"
+  },
+  {
+    "description": "A distributed Key-Value Storage using Raft",
+    "id": "dingodb/dingo-store",
+    "language": "C++",
+    "name": "dingodb/dingo-store",
+    "stars": 162,
+    "updated_at": "2026-09-03T16:46:19Z",
+    "url": "https://github.com/dingodb/dingo-store"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T16:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
     "id": "SynapseKit/SynapseKit",
     "language": "Python",
@@ -18,15 +90,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6396,
-    "updated_at": "2026-09-03T16:41:47Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
     "stars": 0,
-    "updated_at": "2026-09-03T16:35:48Z",
+    "updated_at": "2026-09-03T16:58:39Z",
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   },
   {
@@ -50,7 +113,7 @@
     "language": "Rust",
     "name": "MasihMoafi/Elpis",
     "stars": 41,
-    "updated_at": "2026-09-03T16:41:42Z",
+    "updated_at": "2026-09-03T16:47:24Z",
     "url": "https://github.com/MasihMoafi/Elpis"
   },
   {
@@ -72,24 +135,6 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T16:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T16:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -104,7 +149,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-03T16:29:54Z",
+    "updated_at": "2026-09-03T17:00:09Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1882,
-    "updated_at": "2026-09-03T16:27:09Z",
+    "updated_at": "2026-09-03T16:58:18Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -266,7 +311,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-03T16:01:35Z",
+    "updated_at": "2026-09-03T16:53:40Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -304,15 +349,6 @@
     "stars": 3040,
     "updated_at": "2026-09-03T15:34:18Z",
     "url": "https://github.com/pinecone-io/examples"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-03T15:33:29Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
     "description": "Conversational RAG system built from first principles in .NET 10 (Clean Architecture), Qdrant Vector DB, Ollama, Groq, S",
@@ -412,41 +448,5 @@
     "stars": 6230,
     "updated_at": "2026-09-03T15:06:39Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-03T15:06:16Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4432,
-    "updated_at": "2026-09-03T15:26:39Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "MemoryOS is a universal, enterprise-grade, persistent AI workspace that remembers project history, decisions, and shared",
-    "id": "PulkitChugh21/MemoryOS",
-    "language": "Python",
-    "name": "PulkitChugh21/MemoryOS",
-    "stars": 0,
-    "updated_at": "2026-09-03T14:59:51Z",
-    "url": "https://github.com/PulkitChugh21/MemoryOS"
-  },
-  {
-    "description": "Redis Vector Library. The AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 425,
-    "updated_at": "2026-09-03T14:57:20Z",
-    "url": "https://github.com/redis/redis-vl-python"
   }
 ]
