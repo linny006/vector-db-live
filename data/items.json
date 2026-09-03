@@ -1,11 +1,110 @@
 [
   {
+    "description": "An advanced,local vector database for Flutter, powered by Rust and HNSW graph indexing.",
+    "id": "MostafaSensei106/Waffle-DB",
+    "language": "Dart",
+    "name": "MostafaSensei106/Waffle-DB",
+    "stars": 4,
+    "updated_at": "2026-09-03T13:59:13Z",
+    "url": "https://github.com/MostafaSensei106/Waffle-DB"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 854,
+    "updated_at": "2026-09-03T13:59:10Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1882,
+    "updated_at": "2026-09-03T13:56:18Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Official Python SDK for the Pinecone vector database",
+    "id": "pinecone-io/python-sdk",
+    "language": "Python",
+    "name": "pinecone-io/python-sdk",
+    "stars": 449,
+    "updated_at": "2026-09-03T13:56:04Z",
+    "url": "https://github.com/pinecone-io/python-sdk"
+  },
+  {
+    "description": "AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje",
+    "id": "karthikbilaspur/ai_learning",
+    "language": "Python",
+    "name": "karthikbilaspur/ai_learning",
+    "stars": 2,
+    "updated_at": "2026-09-03T13:54:03Z",
+    "url": "https://github.com/karthikbilaspur/ai_learning"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-09-03T13:52:25Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 243,
+    "updated_at": "2026-09-03T14:00:22Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7076,
+    "updated_at": "2026-09-03T13:48:29Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI Native Vector and Full-text engine",
+    "id": "A3S-Lab/Vec",
+    "language": "Rust",
+    "name": "A3S-Lab/Vec",
+    "stars": 1,
+    "updated_at": "2026-09-03T13:48:19Z",
+    "url": "https://github.com/A3S-Lab/Vec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T13:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T13:45:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16784,
-    "updated_at": "2026-09-03T13:45:15Z",
+    "updated_at": "2026-09-03T13:54:46Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -25,15 +124,6 @@
     "stars": 7,
     "updated_at": "2026-09-03T13:43:30Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-09-03T13:42:09Z",
-    "url": "https://github.com/ricmed/zettel_app"
   },
   {
     "description": "The Kubernetes operator for K8ssandra",
@@ -72,15 +162,6 @@
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   },
   {
-    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
-    "id": "deven96/ahnlich",
-    "language": "Rust",
-    "name": "deven96/ahnlich",
-    "stars": 243,
-    "updated_at": "2026-09-03T13:35:23Z",
-    "url": "https://github.com/deven96/ahnlich"
-  },
-  {
     "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
     "id": "AkashKundu114/COPPER",
     "language": "Python",
@@ -97,24 +178,6 @@
     "stars": 59172,
     "updated_at": "2026-09-03T13:32:37Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T13:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T13:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -135,31 +198,13 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7076,
-    "updated_at": "2026-09-03T13:43:56Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
     "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "TypeScript",
     "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-09-03T13:16:25Z",
+    "updated_at": "2026-09-03T14:00:19Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1882,
-    "updated_at": "2026-09-03T13:16:23Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
@@ -198,15 +243,6 @@
     "url": "https://github.com/GuptaSandip/sandip-portfolio"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 854,
-    "updated_at": "2026-09-03T13:07:31Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -221,7 +257,7 @@
     "language": "Python",
     "name": "pinecone-io/pulumi-pinecone-byoc",
     "stars": 13,
-    "updated_at": "2026-09-03T13:40:23Z",
+    "updated_at": "2026-09-03T13:51:42Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
@@ -257,7 +293,7 @@
     "language": "Java",
     "name": "opencrawling/opencrawling",
     "stars": 19,
-    "updated_at": "2026-09-03T13:42:30Z",
+    "updated_at": "2026-09-03T13:59:51Z",
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
@@ -268,15 +304,6 @@
     "stars": 77,
     "updated_at": "2026-09-03T13:01:54Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "AI Native Vector and Full-text engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 1,
-    "updated_at": "2026-09-03T12:40:10Z",
-    "url": "https://github.com/A3S-Lab/Vec"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -293,7 +320,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34362,
-    "updated_at": "2026-09-03T12:38:30Z",
+    "updated_at": "2026-09-03T13:51:41Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13012,
-    "updated_at": "2026-09-03T12:36:00Z",
+    "updated_at": "2026-09-03T14:00:19Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30433,
-    "updated_at": "2026-09-03T13:24:53Z",
+    "updated_at": "2026-09-03T13:55:18Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 101,
     "updated_at": "2026-09-03T11:59:19Z",
     "url": "https://github.com/weaviate/typescript-client"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-09-03T11:52:29Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "An embedded vector database written from scratch in C++ \u2014 HNSW index, WAL-backed storage, benchmarked against Qdrant and",
-    "id": "amankarki151/lattice",
-    "language": "C++",
-    "name": "amankarki151/lattice",
-    "stars": 0,
-    "updated_at": "2026-09-03T11:51:06Z",
-    "url": "https://github.com/amankarki151/lattice"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2853,
-    "updated_at": "2026-09-03T11:40:36Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   }
 ]
