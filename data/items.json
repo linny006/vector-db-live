@@ -1,5 +1,41 @@
 [
   {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "TypeScript",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-09-03T09:48:02Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T09:47:48Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Transform-domain representation enabling 3\u20134\u00d7 storage reduction with direct ANN search and novel multi-resolution signal",
+    "id": "UnrealJon/DTDR",
+    "language": "Jupyter Notebook",
+    "name": "UnrealJon/DTDR",
+    "stars": 0,
+    "updated_at": "2026-09-03T09:46:56Z",
+    "url": "https://github.com/UnrealJon/DTDR"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T09:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\u26a1\ufe0fLightning fast in-memory VectorDB written in rust\ud83e\udd80",
     "id": "KevKibe/memvectordb",
     "language": "Rust",
@@ -41,7 +77,7 @@
     "language": "Python",
     "name": "pinecone-io/pulumi-pinecone-byoc",
     "stars": 13,
-    "updated_at": "2026-09-03T09:37:29Z",
+    "updated_at": "2026-09-03T09:47:20Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
@@ -68,7 +104,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2087,
-    "updated_at": "2026-09-03T09:43:29Z",
+    "updated_at": "2026-09-03T09:46:14Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -79,24 +115,6 @@
     "stars": 5,
     "updated_at": "2026-09-03T09:32:05Z",
     "url": "https://github.com/amirhosssein0/ai-platform-lab"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T09:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T09:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
@@ -205,15 +223,6 @@
     "stars": 7075,
     "updated_at": "2026-09-03T09:08:33Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "TypeScript",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-09-03T09:03:03Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -356,7 +365,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30431,
-    "updated_at": "2026-09-03T09:23:32Z",
+    "updated_at": "2026-09-03T09:48:37Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 99,
     "updated_at": "2026-09-03T07:34:05Z",
     "url": "https://github.com/bigint/rag.computer"
-  },
-  {
-    "description": "The Kubernetes operator for K8ssandra",
-    "id": "k8ssandra/k8ssandra-operator",
-    "language": "Go",
-    "name": "k8ssandra/k8ssandra-operator",
-    "stars": 242,
-    "updated_at": "2026-09-03T07:28:20Z",
-    "url": "https://github.com/k8ssandra/k8ssandra-operator"
   }
 ]
