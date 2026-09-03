@@ -5,8 +5,116 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-03T03:00:20Z",
+    "updated_at": "2026-09-03T03:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1882,
+    "updated_at": "2026-09-03T03:15:13Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
+    "id": "project-david-ai/projectdavid-platform",
+    "language": "Python",
+    "name": "project-david-ai/projectdavid-platform",
+    "stars": 1,
+    "updated_at": "2026-09-03T03:14:10Z",
+    "url": "https://github.com/project-david-ai/projectdavid-platform"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-09-03T03:11:38Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
+    "id": "Shajo777/SupaAI-Framework-Template",
+    "language": "\u2014",
+    "name": "Shajo777/SupaAI-Framework-Template",
+    "stars": 0,
+    "updated_at": "2026-09-03T03:09:12Z",
+    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
+  },
+  {
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-09-03T03:08:55Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 841,
+    "updated_at": "2026-09-03T03:14:11Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "Memory-Augmented Tensor Hybrid with Intelligent Routing",
+    "id": "sil3d/MATHIR",
+    "language": "Python",
+    "name": "sil3d/MATHIR",
+    "stars": 2,
+    "updated_at": "2026-09-03T03:05:57Z",
+    "url": "https://github.com/sil3d/MATHIR"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 51986,
+    "updated_at": "2026-09-03T03:05:30Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 94,
+    "updated_at": "2026-09-03T03:04:25Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-09-03T03:04:02Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-03T03:03:43Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T03:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source RAG platform for pluggable document ingestion, multimodal indexing, hybrid search, tenant-isolated APIs, RBA",
@@ -36,30 +144,12 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 841,
-    "updated_at": "2026-09-03T02:59:00Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "Memory-Augmented Tensor Hybrid with Intelligent Routing",
-    "id": "sil3d/MATHIR",
-    "language": "Python",
-    "name": "sil3d/MATHIR",
-    "stars": 2,
-    "updated_at": "2026-09-03T02:48:46Z",
-    "url": "https://github.com/sil3d/MATHIR"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45937,
-    "updated_at": "2026-09-03T02:47:29Z",
+    "updated_at": "2026-09-03T03:13:30Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -99,13 +189,13 @@
     "url": "https://github.com/Dakera-AI/dakera-py"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T02:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 77,
+    "updated_at": "2026-09-03T03:15:01Z",
+    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Rust client.",
@@ -113,7 +203,7 @@
     "language": "Rust",
     "name": "MontyGovernance/montycat_rust",
     "stars": 1,
-    "updated_at": "2026-09-03T02:43:00Z",
+    "updated_at": "2026-09-03T03:07:33Z",
     "url": "https://github.com/MontyGovernance/montycat_rust"
   },
   {
@@ -122,7 +212,7 @@
     "language": "TypeScript",
     "name": "MontyGovernance/montycat_node",
     "stars": 2,
-    "updated_at": "2026-09-03T02:42:55Z",
+    "updated_at": "2026-09-03T03:08:33Z",
     "url": "https://github.com/MontyGovernance/montycat_node"
   },
   {
@@ -140,8 +230,17 @@
     "language": "Python",
     "name": "MontyGovernance/montycat_python",
     "stars": 12,
-    "updated_at": "2026-09-03T02:42:37Z",
+    "updated_at": "2026-09-03T03:09:00Z",
     "url": "https://github.com/MontyGovernance/montycat_python"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8172,
+    "updated_at": "2026-09-03T02:41:08Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -151,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T02:34:06Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-03T02:32:55Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -176,7 +266,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1122,
-    "updated_at": "2026-09-03T02:58:06Z",
+    "updated_at": "2026-09-03T03:02:59Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -203,7 +293,7 @@
     "language": "Python",
     "name": "mattmre/CHELATEDAI",
     "stars": 2,
-    "updated_at": "2026-09-03T02:47:13Z",
+    "updated_at": "2026-09-03T03:14:41Z",
     "url": "https://github.com/mattmre/CHELATEDAI"
   },
   {
@@ -212,7 +302,7 @@
     "language": "Rust",
     "name": "inlaySQL/inlaysql",
     "stars": 2,
-    "updated_at": "2026-09-03T02:18:32Z",
+    "updated_at": "2026-09-03T03:14:22Z",
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
@@ -261,15 +351,6 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
-    "id": "project-david-ai/projectdavid-platform",
-    "language": "Python",
-    "name": "project-david-ai/projectdavid-platform",
-    "stars": 1,
-    "updated_at": "2026-09-03T01:48:10Z",
-    "url": "https://github.com/project-david-ai/projectdavid-platform"
-  },
-  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -284,7 +365,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9224,
-    "updated_at": "2026-09-03T02:16:57Z",
+    "updated_at": "2026-09-03T03:11:16Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -302,7 +383,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9433,
-    "updated_at": "2026-09-03T02:53:45Z",
+    "updated_at": "2026-09-03T03:06:18Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T00:57:07Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-03T00:47:33Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65534,
-    "updated_at": "2026-09-03T00:42:42Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Read-only, empirical, offline auditor for vector indexes (LanceDB, Qdrant, pgvector).",
-    "id": "hbauzan/vhecfsck",
-    "language": "Python",
-    "name": "hbauzan/vhecfsck",
-    "stars": 1,
-    "updated_at": "2026-09-03T00:41:43Z",
-    "url": "https://github.com/hbauzan/vhecfsck"
-  },
-  {
-    "description": "AI-powered fleet management assistant using RAG to query vehicle telemetry data with natural language. Ask questions lik",
-    "id": "MalTarDesigns/fleet-telemetry-rag",
-    "language": "Python",
-    "name": "MalTarDesigns/fleet-telemetry-rag",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:27:39Z",
-    "url": "https://github.com/MalTarDesigns/fleet-telemetry-rag"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30424,
-    "updated_at": "2026-09-03T00:22:31Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-09-03T00:19:03Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 90,
-    "updated_at": "2026-09-03T00:20:32Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
-    "id": "mirkobozzetto/flowflow",
-    "language": "Rust",
-    "name": "mirkobozzetto/flowflow",
-    "stars": 166,
-    "updated_at": "2026-09-03T00:14:58Z",
-    "url": "https://github.com/mirkobozzetto/flowflow"
-  },
-  {
-    "description": "Open standard and reference CLI for portable, self-describing AI embedding vector metadata.",
-    "id": "saworbit/vector_passport",
-    "language": "Python",
-    "name": "saworbit/vector_passport",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:04:56Z",
-    "url": "https://github.com/saworbit/vector_passport"
   }
 ]
