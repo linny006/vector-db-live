@@ -1,5 +1,86 @@
 [
   {
+    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
+    "id": "mattmre/CHELATEDAI",
+    "language": "Python",
+    "name": "mattmre/CHELATEDAI",
+    "stars": 2,
+    "updated_at": "2026-09-03T08:13:17Z",
+    "url": "https://github.com/mattmre/CHELATEDAI"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 841,
+    "updated_at": "2026-09-03T08:12:17Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "High-performance, declarative SQL-like query language engine for Qdrant and local edge vector databases. Multi-vector de",
+    "id": "srimon12/qql-rs",
+    "language": "Rust",
+    "name": "srimon12/qql-rs",
+    "stars": 4,
+    "updated_at": "2026-09-03T08:14:03Z",
+    "url": "https://github.com/srimon12/qql-rs"
+  },
+  {
+    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
+    "id": "oracle/ai-optimizer",
+    "language": "Python",
+    "name": "oracle/ai-optimizer",
+    "stars": 100,
+    "updated_at": "2026-09-03T08:11:11Z",
+    "url": "https://github.com/oracle/ai-optimizer"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1882,
+    "updated_at": "2026-09-03T08:09:24Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2283,
+    "updated_at": "2026-09-03T08:09:14Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13010,
+    "updated_at": "2026-09-03T08:09:12Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30430,
+    "updated_at": "2026-09-03T08:02:00Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T08:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -50,7 +131,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35501,
-    "updated_at": "2026-09-03T07:52:23Z",
+    "updated_at": "2026-09-03T08:14:06Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -77,17 +158,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8173,
-    "updated_at": "2026-09-03T07:46:07Z",
+    "updated_at": "2026-09-03T08:04:49Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T07:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -97,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T07:43:55Z",
     "url": "https://github.com/techplanshetyapps/semantic-search-app"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13010,
-    "updated_at": "2026-09-03T07:41:02Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1882,
-    "updated_at": "2026-09-03T07:40:46Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
@@ -131,7 +185,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 2,
-    "updated_at": "2026-09-03T07:36:50Z",
+    "updated_at": "2026-09-03T08:12:34Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -229,7 +283,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15663,
+    "stars": 15669,
     "updated_at": "2026-09-03T06:54:23Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -241,15 +295,6 @@
     "stars": 1473,
     "updated_at": "2026-09-03T06:50:39Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30429,
-    "updated_at": "2026-09-03T07:58:59Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -328,7 +373,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34353,
+    "stars": 34354,
     "updated_at": "2026-09-03T06:14:48Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -340,15 +385,6 @@
     "stars": 7,
     "updated_at": "2026-09-03T06:55:56Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2283,
-    "updated_at": "2026-09-03T06:13:41Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -367,15 +403,6 @@
     "stars": 62,
     "updated_at": "2026-09-03T05:57:00Z",
     "url": "https://github.com/oceanbase/pyseekdb"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 841,
-    "updated_at": "2026-09-03T07:59:55Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
     "description": "ZIM-based retrieval augmented proxy for OpenAI-compatible AI",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T05:07:40Z",
     "url": "https://github.com/vivekkhillar/RAG-APPLICATION"
-  },
-  {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 7,
-    "updated_at": "2026-09-03T04:53:48Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type",
-    "id": "corvid-db/corvid",
-    "language": "Rust",
-    "name": "corvid-db/corvid",
-    "stars": 1,
-    "updated_at": "2026-09-03T04:53:46Z",
-    "url": "https://github.com/corvid-db/corvid"
-  },
-  {
-    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
-    "id": "xbsheng/ai-from-scratch",
-    "language": "Python",
-    "name": "xbsheng/ai-from-scratch",
-    "stars": 1,
-    "updated_at": "2026-09-03T04:53:21Z",
-    "url": "https://github.com/xbsheng/ai-from-scratch"
   }
 ]
