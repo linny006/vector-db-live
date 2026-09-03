@@ -1,12 +1,48 @@
 [
   {
-    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
-    "id": "deven96/ahnlich",
-    "language": "Rust",
-    "name": "deven96/ahnlich",
-    "stars": 243,
-    "updated_at": "2026-09-03T13:29:15Z",
-    "url": "https://github.com/deven96/ahnlich"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16784,
+    "updated_at": "2026-09-03T13:45:15Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1123,
+    "updated_at": "2026-09-03T13:43:58Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-03T13:43:30Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-09-03T13:42:09Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "The Kubernetes operator for K8ssandra",
+    "id": "k8ssandra/k8ssandra-operator",
+    "language": "Go",
+    "name": "k8ssandra/k8ssandra-operator",
+    "stars": 242,
+    "updated_at": "2026-09-03T13:41:05Z",
+    "url": "https://github.com/k8ssandra/k8ssandra-operator"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -14,8 +50,71 @@
     "language": "Python",
     "name": "EVEDensity/AgentHub",
     "stars": 25,
-    "updated_at": "2026-09-03T13:28:55Z",
+    "updated_at": "2026-09-03T13:37:39Z",
     "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-03T13:35:58Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-09-03T13:35:44Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 243,
+    "updated_at": "2026-09-03T13:35:23Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-09-03T13:33:20Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59172,
+    "updated_at": "2026-09-03T13:32:37Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T13:30:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T13:45:25Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -36,21 +135,12 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-03T13:18:09Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7076,
-    "updated_at": "2026-09-03T13:26:14Z",
+    "updated_at": "2026-09-03T13:43:56Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -70,24 +160,6 @@
     "stars": 1882,
     "updated_at": "2026-09-03T13:16:23Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T13:15:31Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T13:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
@@ -149,7 +221,7 @@
     "language": "Python",
     "name": "pinecone-io/pulumi-pinecone-byoc",
     "stars": 13,
-    "updated_at": "2026-09-03T13:00:53Z",
+    "updated_at": "2026-09-03T13:40:23Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
@@ -160,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-03T12:55:33Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16784,
-    "updated_at": "2026-09-03T13:22:46Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -194,7 +257,7 @@
     "language": "Java",
     "name": "opencrawling/opencrawling",
     "stars": 19,
-    "updated_at": "2026-09-03T12:53:27Z",
+    "updated_at": "2026-09-03T13:42:30Z",
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
@@ -205,15 +268,6 @@
     "stars": 77,
     "updated_at": "2026-09-03T13:01:54Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 1,
-    "updated_at": "2026-09-03T12:41:25Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
   },
   {
     "description": "AI Native Vector and Full-text engine",
@@ -261,15 +315,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-09-03T12:31:59Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
-  },
-  {
     "description": "Vortex is a self-hosted RAG (Retrieval-Augmented Generation) application that lets you chat with your documents using an",
     "id": "ankushchhabra02/vortex",
     "language": "TypeScript",
@@ -286,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T12:29:06Z",
     "url": "https://github.com/Yigtwxx/OracleX"
-  },
-  {
-    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-09-03T13:16:45Z",
-    "url": "https://github.com/ricmed/zettel_app"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -409,44 +445,8 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2852,
+    "stars": 2853,
     "updated_at": "2026-09-03T11:40:36Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Interactive RAG assistant for YouTube videos with multi-tier transcript extraction, FAISS vector search, and streamed Q&",
-    "id": "SwayamAg/VidSense-Semantic-Video-Intelligence",
-    "language": "TypeScript",
-    "name": "SwayamAg/VidSense-Semantic-Video-Intelligence",
-    "stars": 0,
-    "updated_at": "2026-09-03T11:37:01Z",
-    "url": "https://github.com/SwayamAg/VidSense-Semantic-Video-Intelligence"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 90,
-    "updated_at": "2026-09-03T11:23:32Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-03T11:16:33Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9226,
-    "updated_at": "2026-09-03T13:22:53Z",
-    "url": "https://github.com/paradedb/paradedb"
   }
 ]
