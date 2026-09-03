@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T01:30:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45934,
+    "updated_at": "2026-09-03T01:29:34Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI Native Vector and Full-text engine",
+    "id": "A3S-Lab/Vec",
+    "language": "Rust",
+    "name": "A3S-Lab/Vec",
+    "stars": 1,
+    "updated_at": "2026-09-03T01:27:18Z",
+    "url": "https://github.com/A3S-Lab/Vec"
+  },
+  {
+    "description": "This is a hobby project to build a Graph database in Rust.",
+    "id": "gmr/dotilla",
+    "language": "Rust",
+    "name": "gmr/dotilla",
+    "stars": 1,
+    "updated_at": "2026-09-03T01:26:54Z",
+    "url": "https://github.com/gmr/dotilla"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1473,
+    "updated_at": "2026-09-03T01:25:30Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-03T01:21:48Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-03T01:17:32Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T01:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -41,7 +113,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9224,
-    "updated_at": "2026-09-03T01:10:37Z",
+    "updated_at": "2026-09-03T01:21:06Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -54,24 +126,6 @@
     "url": "https://github.com/oceanbase/oceanbase"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T01:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T01:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -79,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-03T00:57:07Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-03T00:52:49Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -112,7 +157,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65528,
+    "stars": 65530,
     "updated_at": "2026-09-03T00:42:42Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -180,15 +225,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "AI Native Vector and Full-text engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 1,
-    "updated_at": "2026-09-03T00:17:40Z",
-    "url": "https://github.com/A3S-Lab/Vec"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -239,7 +275,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6394,
-    "updated_at": "2026-09-03T00:45:57Z",
+    "updated_at": "2026-09-03T01:28:26Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -256,7 +292,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11344,
+    "stars": 11345,
     "updated_at": "2026-09-02T23:34:02Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -268,15 +304,6 @@
     "stars": 590,
     "updated_at": "2026-09-02T23:35:16Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-02T23:19:13Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -295,15 +322,6 @@
     "stars": 841,
     "updated_at": "2026-09-02T23:06:09Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1473,
-    "updated_at": "2026-09-02T23:05:15Z",
-    "url": "https://github.com/datalevin/datalevin"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-02T21:32:22Z",
     "url": "https://github.com/badripaudel77/ai-companion"
-  },
-  {
-    "description": "Pragmatic AI Engineering Skills Library for LLMs, RAG, Agents, MCP & Spring AI",
-    "id": "jihedbfr-art/ai-skills",
-    "language": "Python",
-    "name": "jihedbfr-art/ai-skills",
-    "stars": 0,
-    "updated_at": "2026-09-02T21:23:12Z",
-    "url": "https://github.com/jihedbfr-art/ai-skills"
-  },
-  {
-    "description": "A portfolio of end-to-end AI systems spanning Computer Vision, Machine Learning, Deep Learning, NLP, and RAG.",
-    "id": "Raafat-Nagy/AI-Projects-Hub",
-    "language": "\u2014",
-    "name": "Raafat-Nagy/AI-Projects-Hub",
-    "stars": 0,
-    "updated_at": "2026-09-02T21:15:16Z",
-    "url": "https://github.com/Raafat-Nagy/AI-Projects-Hub"
   }
 ]
