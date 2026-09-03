@@ -1,5 +1,95 @@
 [
   {
+    "description": "A high-performance, SIMD-accelerated vector search engine in Rust with Python bindings, using an incrementally-built pro",
+    "id": "Bluewraith04/vector_search",
+    "language": "Rust",
+    "name": "Bluewraith04/vector_search",
+    "stars": 0,
+    "updated_at": "2026-09-03T15:15:23Z",
+    "url": "https://github.com/Bluewraith04/vector_search"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34366,
+    "updated_at": "2026-09-03T15:11:43Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6397,
+    "updated_at": "2026-09-03T15:10:19Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 24,
+    "updated_at": "2026-09-03T15:10:06Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-03T15:08:51Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-03T15:06:16Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9433,
+    "updated_at": "2026-09-03T15:06:12Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4432,
+    "updated_at": "2026-09-03T15:04:49Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16784,
+    "updated_at": "2026-09-03T15:09:36Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T15:00:38Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +97,15 @@
     "stars": 3,
     "updated_at": "2026-09-03T15:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MemoryOS is a universal, enterprise-grade, persistent AI workspace that remembers project history, decisions, and shared",
+    "id": "PulkitChugh21/MemoryOS",
+    "language": "Python",
+    "name": "PulkitChugh21/MemoryOS",
+    "stars": 0,
+    "updated_at": "2026-09-03T14:59:51Z",
+    "url": "https://github.com/PulkitChugh21/MemoryOS"
   },
   {
     "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
@@ -81,15 +180,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T14:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Local-first encrypted memory for AI agents",
     "id": "yp3y5akh0v/citadel",
     "language": "Rust",
@@ -126,15 +216,6 @@
     "url": "https://github.com/AkashKundu114/COPPER"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6397,
-    "updated_at": "2026-09-03T14:55:12Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
     "id": "opencrawling/opencrawling",
     "language": "Java",
@@ -142,15 +223,6 @@
     "stars": 19,
     "updated_at": "2026-09-03T14:37:36Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-03T14:36:19Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -225,6 +297,15 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
+    "description": "\ud83d\ude80 Hands-on GenAI engineering \u2014 prompt engineering, RAG pipelines, and production-ready AI agents with tool-calling & mul",
+    "id": "SharmaAtul12/Gen-AI",
+    "language": "JavaScript",
+    "name": "SharmaAtul12/Gen-AI",
+    "stars": 1,
+    "updated_at": "2026-09-03T14:12:26Z",
+    "url": "https://github.com/SharmaAtul12/Gen-AI"
+  },
+  {
     "description": "Embedded multi-modal data store for AI applications: vector + full-text + graph + geo behind one fluent Rust API, a type",
     "id": "corvid-db/corvid",
     "language": "Rust",
@@ -243,15 +324,6 @@
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34365,
-    "updated_at": "2026-09-03T14:02:51Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -266,7 +338,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13012,
-    "updated_at": "2026-09-03T14:25:43Z",
+    "updated_at": "2026-09-03T15:05:12Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -313,15 +385,6 @@
     "stars": 7076,
     "updated_at": "2026-09-03T14:39:07Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16784,
-    "updated_at": "2026-09-03T14:10:22Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T13:11:38Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
-    "id": "aadityansha06/vecdb",
-    "language": "C",
-    "name": "aadityansha06/vecdb",
-    "stars": 3,
-    "updated_at": "2026-09-03T13:08:21Z",
-    "url": "https://github.com/aadityansha06/vecdb"
-  },
-  {
-    "description": "Agentic AI Portfolio Chatbot An intelligent chatbot that represents me on this portfolio. Built with LLM, RAG via Pineco",
-    "id": "GuptaSandip/sandip-portfolio",
-    "language": "TypeScript",
-    "name": "GuptaSandip/sandip-portfolio",
-    "stars": 0,
-    "updated_at": "2026-09-03T13:07:40Z",
-    "url": "https://github.com/GuptaSandip/sandip-portfolio"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1348,
-    "updated_at": "2026-09-03T13:00:07Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-03T12:55:33Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-09-03T12:50:44Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45951,
-    "updated_at": "2026-09-03T12:39:30Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-09-03T12:32:49Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
