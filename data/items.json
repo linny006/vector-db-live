@@ -1,12 +1,93 @@
 [
   {
+    "description": "companion.ai: Craft and converse with personalized AI companions for engaging chats and insightful discussions.",
+    "id": "Akash4510/ai-companion",
+    "language": "TypeScript",
+    "name": "Akash4510/ai-companion",
+    "stars": 7,
+    "updated_at": "2026-09-03T16:25:06Z",
+    "url": "https://github.com/Akash4510/ai-companion"
+  },
+  {
+    "description": "AI Engineering Specially Topics- Agentic AI & GenAI  Explanation ",
+    "id": "Ratnesh-181998/AI-Engineer",
+    "language": "\u2014",
+    "name": "Ratnesh-181998/AI-Engineer",
+    "stars": 112,
+    "updated_at": "2026-09-03T16:23:59Z",
+    "url": "https://github.com/Ratnesh-181998/AI-Engineer"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 2,
+    "updated_at": "2026-09-03T16:19:43Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-09-03T16:18:33Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "An embedded vector database written from scratch in C++ \u2014 HNSW index, WAL-backed storage, benchmarked against Qdrant and",
+    "id": "amankarki151/lattice",
+    "language": "C++",
+    "name": "amankarki151/lattice",
+    "stars": 0,
+    "updated_at": "2026-09-03T16:18:25Z",
+    "url": "https://github.com/amankarki151/lattice"
+  },
+  {
+    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
+    "id": "rehan243/RAG-Enterprise-Search",
+    "language": "Python",
+    "name": "rehan243/RAG-Enterprise-Search",
+    "stars": 1,
+    "updated_at": "2026-09-03T16:18:09Z",
+    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
+  },
+  {
     "description": "Shared, persistent memory for AI agents. Self-hosted MCP server with semantic search, vector RAG, and live updates. Work",
     "id": "MontyGovernance/montycat-mcp",
     "language": "Python",
     "name": "MontyGovernance/montycat-mcp",
     "stars": 13,
-    "updated_at": "2026-09-03T16:14:32Z",
+    "updated_at": "2026-09-03T16:17:29Z",
     "url": "https://github.com/MontyGovernance/montycat-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T16:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T16:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Conversation-aware RAG PDF agent with LangGraph, ChromaDB, semantic retrieval, relevance guard, and source citations.",
+    "id": "miliufo/ai-rag-pdf-agent",
+    "language": "Python",
+    "name": "miliufo/ai-rag-pdf-agent",
+    "stars": 0,
+    "updated_at": "2026-09-03T16:13:45Z",
+    "url": "https://github.com/miliufo/ai-rag-pdf-agent"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -45,24 +126,6 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T16:00:39Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T16:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
     "id": "xDarkicex/openclaw-memory-libravdb",
     "language": "TypeScript",
@@ -95,7 +158,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1882,
-    "updated_at": "2026-09-03T15:51:23Z",
+    "updated_at": "2026-09-03T16:27:09Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -171,21 +234,12 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-09-03T15:38:15Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1124,
-    "updated_at": "2026-09-03T15:42:20Z",
+    "updated_at": "2026-09-03T16:30:14Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -194,7 +248,7 @@
     "language": "Rust",
     "name": "SeekStorm/SeekStorm",
     "stars": 1907,
-    "updated_at": "2026-09-03T15:37:03Z",
+    "updated_at": "2026-09-03T16:22:02Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
   },
   {
@@ -248,7 +302,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6396,
-    "updated_at": "2026-09-03T15:24:03Z",
+    "updated_at": "2026-09-03T16:18:29Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-03T14:45:38Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Local-first encrypted memory for AI agents",
-    "id": "yp3y5akh0v/citadel",
-    "language": "Rust",
-    "name": "yp3y5akh0v/citadel",
-    "stars": 3,
-    "updated_at": "2026-09-03T16:06:13Z",
-    "url": "https://github.com/yp3y5akh0v/citadel"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 23,
-    "updated_at": "2026-09-03T14:44:25Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Pinecone BYOC",
-    "id": "pinecone-io/pulumi-pinecone-byoc",
-    "language": "Python",
-    "name": "pinecone-io/pulumi-pinecone-byoc",
-    "stars": 13,
-    "updated_at": "2026-09-03T14:42:59Z",
-    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
-  },
-  {
-    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 1,
-    "updated_at": "2026-09-03T14:41:35Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7075,
-    "updated_at": "2026-09-03T14:39:07Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 19,
-    "updated_at": "2026-09-03T14:37:36Z",
-    "url": "https://github.com/opencrawling/opencrawling"
   }
 ]
