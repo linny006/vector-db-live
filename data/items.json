@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-03T07:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 2,
+    "updated_at": "2026-09-03T07:10:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "",
+    "id": "techplanshetyapps/clinscreen-pro",
+    "language": "\u2014",
+    "name": "techplanshetyapps/clinscreen-pro",
+    "stars": 0,
+    "updated_at": "2026-09-03T07:06:58Z",
+    "url": "https://github.com/techplanshetyapps/clinscreen-pro"
+  },
+  {
+    "description": "Vortex is a self-hosted RAG (Retrieval-Augmented Generation) application that lets you chat with your documents using an",
+    "id": "ankushchhabra02/vortex",
+    "language": "TypeScript",
+    "name": "ankushchhabra02/vortex",
+    "stars": 17,
+    "updated_at": "2026-09-03T07:03:51Z",
+    "url": "https://github.com/ankushchhabra02/vortex"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-03T07:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Persistent AI memory with crossover \u2014 your AI at home shares the same memory as your AI at work. What one LLM learns, al",
     "id": "RonnyTome/cube-memory-sdk",
     "language": "Python",
@@ -22,7 +67,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15655,
+    "stars": 15657,
     "updated_at": "2026-09-03T06:54:23Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -36,31 +81,13 @@
     "url": "https://github.com/datalevin/datalevin"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-03T06:48:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T06:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T06:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "topoteretes/cognee",
+    "stars": 30429,
+    "updated_at": "2026-09-03T07:14:45Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -117,15 +144,6 @@
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
-    "description": "",
-    "id": "techplanshetyapps/clinscreen-pro",
-    "language": "\u2014",
-    "name": "techplanshetyapps/clinscreen-pro",
-    "stars": 0,
-    "updated_at": "2026-09-03T06:37:10Z",
-    "url": "https://github.com/techplanshetyapps/clinscreen-pro"
-  },
-  {
     "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
     "id": "Ontos-AI/knowhere",
     "language": "Python",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35499,
-    "updated_at": "2026-09-03T06:29:28Z",
+    "updated_at": "2026-09-03T07:01:49Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -184,7 +202,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34351,
+    "stars": 34353,
     "updated_at": "2026-09-03T06:14:48Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -400,7 +418,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45938,
+    "stars": 45940,
     "updated_at": "2026-09-03T04:05:58Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-03T04:00:04Z",
     "url": "https://github.com/threefigure-achromia682/ai-memory"
-  },
-  {
-    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
-    "id": "alegameplays14-del/leica-infinity-2026",
-    "language": "\u2014",
-    "name": "alegameplays14-del/leica-infinity-2026",
-    "stars": 0,
-    "updated_at": "2026-09-03T03:59:01Z",
-    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
-    "id": "mattmre/CHELATEDAI",
-    "language": "Python",
-    "name": "mattmre/CHELATEDAI",
-    "stars": 2,
-    "updated_at": "2026-09-03T03:58:07Z",
-    "url": "https://github.com/mattmre/CHELATEDAI"
   }
 ]
