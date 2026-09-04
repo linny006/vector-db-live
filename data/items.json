@@ -1,12 +1,93 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-04T02:39:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-04T02:38:08Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:38:03Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
+    "id": "tryAGI/Qdrant",
+    "language": "C#",
+    "name": "tryAGI/Qdrant",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:36:00Z",
+    "url": "https://github.com/tryAGI/Qdrant"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 120,
+    "updated_at": "2026-09-04T02:44:51Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 98,
+    "updated_at": "2026-09-04T02:34:42Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
     "id": "inlaySQL/inlaysql",
     "language": "Rust",
     "name": "inlaySQL/inlaysql",
     "stars": 2,
-    "updated_at": "2026-09-04T02:24:19Z",
+    "updated_at": "2026-09-04T02:35:55Z",
     "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-04T02:30:57Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T02:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T02:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The Best GUI for Milvus",
@@ -36,24 +117,6 @@
     "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T02:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T02:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -61,15 +124,6 @@
     "stars": 90,
     "updated_at": "2026-09-04T02:14:24Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-04T02:12:23Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -113,7 +167,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-04T02:22:22Z",
+    "updated_at": "2026-09-04T02:41:03Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -211,7 +265,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15738,
+    "stars": 15739,
     "updated_at": "2026-09-04T01:38:00Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -392,61 +446,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-04T01:13:05Z",
+    "updated_at": "2026-09-04T02:39:54Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-04T01:12:21Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-09-04T01:10:24Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:30:54Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:09:58Z",
-    "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 4,
-    "updated_at": "2026-09-04T01:09:08Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-09-04T01:03:04Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
   }
 ]
