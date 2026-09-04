@@ -1,11 +1,65 @@
 [
   {
+    "description": "Redis Vector Library. The AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 425,
+    "updated_at": "2026-09-04T12:44:54Z",
+    "url": "https://github.com/redis/redis-vl-python"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2087,
+    "updated_at": "2026-09-04T12:44:45Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-04T12:39:29Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-04T12:37:14Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-09-04T12:31:59Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T12:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-04T12:30:22Z",
+    "updated_at": "2026-09-04T12:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12926,
-    "updated_at": "2026-09-04T12:28:03Z",
+    "updated_at": "2026-09-04T12:32:27Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -43,15 +97,6 @@
     "stars": 5887,
     "updated_at": "2026-09-04T12:17:57Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T12:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG context engine for retrieval-augmented workflows \u2014 ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe",
@@ -68,17 +113,8 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 3,
-    "updated_at": "2026-09-04T12:13:18Z",
+    "updated_at": "2026-09-04T12:43:37Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-09-04T12:11:34Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
@@ -108,6 +144,15 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13017,
+    "updated_at": "2026-09-04T12:02:38Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -117,13 +162,13 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13018,
-    "updated_at": "2026-09-04T12:02:38Z",
-    "url": "https://github.com/langchain4j/langchain4j"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34381,
+    "updated_at": "2026-09-04T11:58:47Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "\u041b\u043e\u043a\u0430\u043b\u044c\u043d\u0430\u044f RAG-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u0434\u043b\u044f \u043f\u043e\u0438\u0441\u043a\u0430 \u043f\u043e \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u043c \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u043c \u0441 \u0441\u0441\u044b\u043b\u043a\u0430\u043c\u0438 \u043d\u0430 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0438.",
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 23,
-    "updated_at": "2026-09-04T12:09:19Z",
+    "updated_at": "2026-09-04T12:39:07Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T11:39:25Z",
     "url": "https://github.com/keshavgupta-max/Agent-Document-Extractor-Financial-Documents-"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-04T11:36:08Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
@@ -212,7 +248,7 @@
     "language": "Python",
     "name": "pinecone-io/pulumi-pinecone-byoc",
     "stars": 13,
-    "updated_at": "2026-09-04T12:20:43Z",
+    "updated_at": "2026-09-04T12:35:26Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 3,
     "updated_at": "2026-09-04T11:20:59Z",
     "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-04T11:15:40Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -313,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T10:48:27Z",
     "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
-  },
-  {
-    "description": "Redis Vector Library. The AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 425,
-    "updated_at": "2026-09-04T12:16:16Z",
-    "url": "https://github.com/redis/redis-vl-python"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -430,23 +448,5 @@
     "stars": 4701,
     "updated_at": "2026-09-04T09:54:44Z",
     "url": "https://github.com/infiniflow/infinity"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-09-04T09:48:03Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6402,
-    "updated_at": "2026-09-04T09:47:17Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
