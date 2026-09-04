@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T17:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 7,
+    "updated_at": "2026-09-04T17:28:54Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-09-04T17:28:42Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 848,
+    "updated_at": "2026-09-04T17:27:26Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "Large document Q&A agent using RAG",
+    "id": "djleamen/doc-reader",
+    "language": "Python",
+    "name": "djleamen/doc-reader",
+    "stars": 3,
+    "updated_at": "2026-09-04T17:24:38Z",
+    "url": "https://github.com/djleamen/doc-reader"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-04T17:24:07Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-04T17:22:04Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30463,
+    "updated_at": "2026-09-04T17:19:19Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-09-04T17:24:00Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Agentive Solutions interactive book \u2014 AI automation courses starting with n8n Mastery",
+    "id": "Shahzain-Ali/agentive-solutions-book",
+    "language": "Python",
+    "name": "Shahzain-Ali/agentive-solutions-book",
+    "stars": 0,
+    "updated_at": "2026-09-04T17:17:15Z",
+    "url": "https://github.com/Shahzain-Ali/agentive-solutions-book"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T17:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system",
     "id": "skyzh/write-you-a-vector-db",
     "language": "Rust",
@@ -9,12 +108,21 @@
     "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6231,
+    "updated_at": "2026-09-04T17:13:44Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
     "id": "tamnd/yo",
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-04T17:13:13Z",
+    "updated_at": "2026-09-04T17:25:18Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -45,24 +153,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T17:05:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Large document Q&A agent using RAG",
-    "id": "djleamen/doc-reader",
-    "language": "Python",
-    "name": "djleamen/doc-reader",
-    "stars": 3,
-    "updated_at": "2026-09-04T17:03:09Z",
-    "url": "https://github.com/djleamen/doc-reader"
-  },
-  {
     "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
     "id": "maximilien/weave-cli",
     "language": "Go",
@@ -70,15 +160,6 @@
     "stars": 33,
     "updated_at": "2026-09-04T17:01:28Z",
     "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T17:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Native Rust port of M2M Vector Search \u2014 HRM2, HNSW, quantization. Superseded by splatdb.",
@@ -185,7 +266,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16785,
-    "updated_at": "2026-09-04T16:57:36Z",
+    "updated_at": "2026-09-04T17:24:30Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -196,15 +277,6 @@
     "stars": 76,
     "updated_at": "2026-09-04T16:31:25Z",
     "url": "https://github.com/TusKANNy/kannolo"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30462,
-    "updated_at": "2026-09-04T17:06:56Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -221,7 +293,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1128,
-    "updated_at": "2026-09-04T17:02:30Z",
+    "updated_at": "2026-09-04T17:17:24Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -261,15 +333,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 7,
-    "updated_at": "2026-09-04T15:59:42Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
     "description": "RAG-powered assistant over real course materials, hybrid search, reranking, RAGAS, evaluated retrieval, with tool-callin",
     "id": "UmutAA/ask-my-courses",
     "language": "\u2014",
@@ -286,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T15:51:04Z",
     "url": "https://github.com/Manglam11/attest"
-  },
-  {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 848,
-    "updated_at": "2026-09-04T15:47:47Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -322,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T15:36:21Z",
     "url": "https://github.com/PavelKoff2025/TG_Haystack_Agents"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-09-04T17:11:20Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T15:29:52Z",
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-09-04T15:29:03Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-09-04T15:28:54Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 2,
-    "updated_at": "2026-09-04T15:27:50Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
-    "id": "felixzhu97/explore-ai",
-    "language": "Java",
-    "name": "felixzhu97/explore-ai",
-    "stars": 2,
-    "updated_at": "2026-09-04T15:25:42Z",
-    "url": "https://github.com/felixzhu97/explore-ai"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 4,
-    "updated_at": "2026-09-04T15:24:54Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
