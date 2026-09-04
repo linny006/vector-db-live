@@ -1,12 +1,138 @@
 [
   {
+    "description": "RAG context engine for retrieval-augmented workflows \u2014 ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe",
+    "id": "RehanIlyas-dev/Omni-Context",
+    "language": "Python",
+    "name": "RehanIlyas-dev/Omni-Context",
+    "stars": 0,
+    "updated_at": "2026-09-04T14:27:30Z",
+    "url": "https://github.com/RehanIlyas-dev/Omni-Context"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-04T14:26:50Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 23,
+    "updated_at": "2026-09-04T14:26:33Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
+    "id": "tryAGI/Qdrant",
+    "language": "C#",
+    "name": "tryAGI/Qdrant",
+    "stars": 0,
+    "updated_at": "2026-09-04T14:26:24Z",
+    "url": "https://github.com/tryAGI/Qdrant"
+  },
+  {
     "description": "Local LLM server with 32M token context. Run any GGUF model on your own machine with a memory far larger than its window",
     "id": "Veloresearch/VLS-32M-Context-Local-LLM",
     "language": "\u2014",
     "name": "Veloresearch/VLS-32M-Context-Local-LLM",
     "stars": 1,
-    "updated_at": "2026-09-04T14:12:37Z",
+    "updated_at": "2026-09-04T14:24:37Z",
     "url": "https://github.com/Veloresearch/VLS-32M-Context-Local-LLM"
+  },
+  {
+    "description": "Assistente AI personale con tool use, MCP e memoria persistente.  progetto di apprendimento AI Engineering",
+    "id": "mirkoparente/jarvis-py",
+    "language": "\u2014",
+    "name": "mirkoparente/jarvis-py",
+    "stars": 0,
+    "updated_at": "2026-09-04T14:23:44Z",
+    "url": "https://github.com/mirkoparente/jarvis-py"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9434,
+    "updated_at": "2026-09-04T14:23:01Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-09-04T14:23:33Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 30,
+    "updated_at": "2026-09-04T14:20:35Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-04T14:19:39Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
+    "id": "aadityansha06/vecdb",
+    "language": "C",
+    "name": "aadityansha06/vecdb",
+    "stars": 5,
+    "updated_at": "2026-09-04T14:17:49Z",
+    "url": "https://github.com/aadityansha06/vecdb"
+  },
+  {
+    "description": "AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje",
+    "id": "karthikbilaspur/ai_learning",
+    "language": "Python",
+    "name": "karthikbilaspur/ai_learning",
+    "stars": 2,
+    "updated_at": "2026-09-04T14:15:32Z",
+    "url": "https://github.com/karthikbilaspur/ai_learning"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T14:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T14:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
+    "id": "nobijoy/memcore-rs",
+    "language": "Rust",
+    "name": "nobijoy/memcore-rs",
+    "stars": 0,
+    "updated_at": "2026-09-04T14:14:09Z",
+    "url": "https://github.com/nobijoy/memcore-rs"
   },
   {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
@@ -36,24 +162,6 @@
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
-    "description": "RAG context engine for retrieval-augmented workflows \u2014 ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe",
-    "id": "RehanIlyas-dev/Omni-Context",
-    "language": "Python",
-    "name": "RehanIlyas-dev/Omni-Context",
-    "stars": 0,
-    "updated_at": "2026-09-04T14:04:09Z",
-    "url": "https://github.com/RehanIlyas-dev/Omni-Context"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T14:03:50Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
@@ -61,33 +169,6 @@
     "stars": 12926,
     "updated_at": "2026-09-04T14:01:54Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-09-04T14:13:40Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-04T14:00:31Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T14:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -104,7 +185,7 @@
     "language": "Rust",
     "name": "tuned-org-uk/arrowspace-rs",
     "stars": 42,
-    "updated_at": "2026-09-04T14:13:28Z",
+    "updated_at": "2026-09-04T14:27:41Z",
     "url": "https://github.com/tuned-org-uk/arrowspace-rs"
   },
   {
@@ -135,24 +216,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje",
-    "id": "karthikbilaspur/ai_learning",
-    "language": "Python",
-    "name": "karthikbilaspur/ai_learning",
-    "stars": 2,
-    "updated_at": "2026-09-04T13:50:49Z",
-    "url": "https://github.com/karthikbilaspur/ai_learning"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-04T13:49:59Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "In-memory vector search engine with event-based co-occurrence tracking",
     "id": "libraz/nvecd",
     "language": "C++",
@@ -167,7 +230,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34381,
-    "updated_at": "2026-09-04T14:13:13Z",
+    "updated_at": "2026-09-04T14:16:22Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -194,7 +257,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1883,
-    "updated_at": "2026-09-04T13:33:50Z",
+    "updated_at": "2026-09-04T14:29:26Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -221,7 +284,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16785,
-    "updated_at": "2026-09-04T14:14:26Z",
+    "updated_at": "2026-09-04T14:29:50Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -284,26 +347,8 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 78,
-    "updated_at": "2026-09-04T14:08:03Z",
+    "updated_at": "2026-09-04T14:24:44Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 30,
-    "updated_at": "2026-09-04T13:56:32Z",
-    "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
-    "id": "aadityansha06/vecdb",
-    "language": "C",
-    "name": "aadityansha06/vecdb",
-    "stars": 5,
-    "updated_at": "2026-09-04T12:54:23Z",
-    "url": "https://github.com/aadityansha06/vecdb"
   },
   {
     "description": "Framework for benchmarking vector search engines",
@@ -322,15 +367,6 @@
     "stars": 2087,
     "updated_at": "2026-09-04T12:50:33Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 23,
-    "updated_at": "2026-09-04T13:33:25Z",
-    "url": "https://github.com/Cognipeer/console"
   },
   {
     "description": "Redis Vector Library. The AI-native Python client for Redis.",
@@ -374,7 +410,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5887,
-    "updated_at": "2026-09-04T12:17:57Z",
+    "updated_at": "2026-09-04T14:23:11Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 120,
     "updated_at": "2026-09-04T11:53:55Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-04T11:49:53Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Business Document Intelligence backend built with Python and FastAPI for structured financial extraction, validation, em",
-    "id": "keshavgupta-max/Agent-Document-Extractor-Financial-Documents-",
-    "language": "Python",
-    "name": "keshavgupta-max/Agent-Document-Extractor-Financial-Documents-",
-    "stars": 0,
-    "updated_at": "2026-09-04T11:39:25Z",
-    "url": "https://github.com/keshavgupta-max/Agent-Document-Extractor-Financial-Documents-"
-  },
-  {
-    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
-    "id": "maniesh-lab/ragdocs",
-    "language": "Python",
-    "name": "maniesh-lab/ragdocs",
-    "stars": 0,
-    "updated_at": "2026-09-04T11:35:08Z",
-    "url": "https://github.com/maniesh-lab/ragdocs"
-  },
-  {
-    "description": "Pinecone BYOC",
-    "id": "pinecone-io/pulumi-pinecone-byoc",
-    "language": "Python",
-    "name": "pinecone-io/pulumi-pinecone-byoc",
-    "stars": 13,
-    "updated_at": "2026-09-04T12:35:26Z",
-    "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   }
 ]
