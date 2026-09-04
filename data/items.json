@@ -1,12 +1,12 @@
 [
   {
-    "description": "Native Rust port of M2M Vector Search \u2014 HRM2, HNSW, quantization. Superseded by splatdb.",
-    "id": "schwabauerbriantomas-gif/m2m-rust",
+    "description": "build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system",
+    "id": "skyzh/write-you-a-vector-db",
     "language": "Rust",
-    "name": "schwabauerbriantomas-gif/m2m-rust",
-    "stars": 0,
-    "updated_at": "2026-09-04T17:00:18Z",
-    "url": "https://github.com/schwabauerbriantomas-gif/m2m-rust"
+    "name": "skyzh/write-you-a-vector-db",
+    "stars": 794,
+    "updated_at": "2026-09-04T17:14:16Z",
+    "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -14,8 +14,80 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-04T16:58:37Z",
+    "updated_at": "2026-09-04T17:13:13Z",
     "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 17,
+    "updated_at": "2026-09-04T17:10:59Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "RAG context engine for retrieval-augmented workflows \u2014 ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe",
+    "id": "RehanIlyas-dev/Omni-Context",
+    "language": "Python",
+    "name": "RehanIlyas-dev/Omni-Context",
+    "stars": 0,
+    "updated_at": "2026-09-04T17:08:46Z",
+    "url": "https://github.com/RehanIlyas-dev/Omni-Context"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-04T17:07:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T17:05:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Large document Q&A agent using RAG",
+    "id": "djleamen/doc-reader",
+    "language": "Python",
+    "name": "djleamen/doc-reader",
+    "stars": 3,
+    "updated_at": "2026-09-04T17:03:09Z",
+    "url": "https://github.com/djleamen/doc-reader"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 33,
+    "updated_at": "2026-09-04T17:01:28Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T17:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Native Rust port of M2M Vector Search \u2014 HRM2, HNSW, quantization. Superseded by splatdb.",
+    "id": "schwabauerbriantomas-gif/m2m-rust",
+    "language": "Rust",
+    "name": "schwabauerbriantomas-gif/m2m-rust",
+    "stars": 0,
+    "updated_at": "2026-09-04T17:00:18Z",
+    "url": "https://github.com/schwabauerbriantomas-gif/m2m-rust"
   },
   {
     "description": "Professional PySide6 desktop UI for SplatDB vector search \u2014 multi-model embeddings, knowledge graph, spatial memory, OCR",
@@ -59,35 +131,8 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 78,
-    "updated_at": "2026-09-04T16:50:34Z",
+    "updated_at": "2026-09-04T17:00:28Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 17,
-    "updated_at": "2026-09-04T16:51:10Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "RAG context engine for retrieval-augmented workflows \u2014 ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe",
-    "id": "RehanIlyas-dev/Omni-Context",
-    "language": "Python",
-    "name": "RehanIlyas-dev/Omni-Context",
-    "stars": 0,
-    "updated_at": "2026-09-04T16:47:18Z",
-    "url": "https://github.com/RehanIlyas-dev/Omni-Context"
-  },
-  {
-    "description": "Large document Q&A agent using RAG",
-    "id": "djleamen/doc-reader",
-    "language": "Python",
-    "name": "djleamen/doc-reader",
-    "stars": 3,
-    "updated_at": "2026-09-04T16:59:29Z",
-    "url": "https://github.com/djleamen/doc-reader"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -108,31 +153,13 @@
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T16:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4432,
-    "updated_at": "2026-09-04T16:45:26Z",
+    "updated_at": "2026-09-04T17:04:03Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T16:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\u672c\u5730\u7aef\u591a\u6a21\u614b AI \u63a8\u8ad6\u5f15\u64ce\uff1a\u7d50\u5408 BLIP \u8996\u89ba\u7279\u5fb5\u62bd\u53d6\u8207\u5bb9\u5668\u5316 Ollama Llama 3.2 \u7e41\u4e2d\u554f\u7b54\uff1b\u5167\u5efa\u7a7a\u9593\u5750\u6a19\u52d5\u614b\u9580\u6abb OCR \u6ffe\u9664\u908a\u7de3\u566a\u8072\uff0c\u642d\u914d MPS/CUDA \u986f\u5b58\u4e3b\u52d5\u6cbb\u7406\u8207 ChromaDB \u8a9e\u610f\u5411\u91cf\u6aa2\u7d22\uff0c\u78ba\u4fdd\u96f6\u8cc7\u6599\u6d29",
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T16:45:20Z",
     "url": "https://github.com/JeffLin0225/Demo-Python"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-04T16:35:20Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "",
@@ -185,7 +203,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30462,
-    "updated_at": "2026-09-04T16:56:46Z",
+    "updated_at": "2026-09-04T17:06:56Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1128,
-    "updated_at": "2026-09-04T16:22:36Z",
+    "updated_at": "2026-09-04T17:02:30Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -297,15 +315,6 @@
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 33,
-    "updated_at": "2026-09-04T15:36:48Z",
-    "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
     "description": "Telegram-\u0431\u043e\u0442 \u043d\u0430 Haystack: \u0441\u043b\u0443\u0448\u0430\u0435\u0442 \u0433\u0440\u0443\u043f\u043f\u043e\u0432\u043e\u0439 \u0447\u0430\u0442, \u0440\u0435\u0437\u044e\u043c\u0438\u0440\u0443\u0435\u0442 \u043f\u0435\u0440\u0435\u043f\u0438\u0441\u043a\u0443 \u0438 \u043e\u0442\u0432\u0435\u0447\u0430\u0435\u0442 \u043f\u043e \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u0443. \u0421\u043e\u043e\u0431\u0449\u0435\u043d\u0438\u044f \u0432 Pinecone, \u043e\u0442\u0432",
     "id": "PavelKoff2025/TG_Haystack_Agents",
     "language": "Python",
@@ -320,7 +329,7 @@
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 5,
-    "updated_at": "2026-09-04T15:40:03Z",
+    "updated_at": "2026-09-04T17:11:20Z",
     "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-04T15:24:54Z",
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-09-04T15:24:02Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
   }
 ]
