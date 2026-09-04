@@ -1,5 +1,77 @@
 [
   {
+    "description": "Production-ready async RAG microservice with swappable LLM/embedding/vector-DB providers and an embeddable chat widget",
+    "id": "ah9956/asyncrag",
+    "language": "\u2014",
+    "name": "ah9956/asyncrag",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:29:51Z",
+    "url": "https://github.com/ah9956/asyncrag"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:28:33Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "An AI-powered Agentic RAG Research Assistant that answers questions from uploaded research papers using intelligent docu",
+    "id": "azqajafardev/agentic-rag-research-assistant",
+    "language": "Python",
+    "name": "azqajafardev/agentic-rag-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:24:16Z",
+    "url": "https://github.com/azqajafardev/agentic-rag-research-assistant"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15751,
+    "updated_at": "2026-09-04T06:24:03Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 78,
+    "updated_at": "2026-09-04T06:23:02Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:22:01Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T06:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T06:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -18,6 +90,15 @@
     "url": "https://github.com/AkashKundu114/COPPER"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30452,
+    "updated_at": "2026-09-04T06:13:52Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "AI-powered personal memory assistant that remembers context across conversations using DistilBERT embeddings, ChromaDB v",
     "id": "VinayHanni/PIPO",
     "language": "Python",
@@ -32,7 +113,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9226,
-    "updated_at": "2026-09-04T06:13:01Z",
+    "updated_at": "2026-09-04T06:30:16Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -59,17 +140,8 @@
     "language": "Python",
     "name": "ElefanteAI/elefante",
     "stars": 1,
-    "updated_at": "2026-09-04T06:03:04Z",
+    "updated_at": "2026-09-04T06:16:27Z",
     "url": "https://github.com/ElefanteAI/elefante"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-04T06:02:25Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -79,33 +151,6 @@
     "stars": 2,
     "updated_at": "2026-09-04T06:01:05Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T06:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T06:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30450,
-    "updated_at": "2026-09-04T06:13:52Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -194,17 +239,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-04T05:44:05Z",
+    "updated_at": "2026-09-04T06:24:23Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-04T05:28:28Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -241,15 +277,6 @@
     "stars": 7,
     "updated_at": "2026-09-04T06:09:01Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 78,
-    "updated_at": "2026-09-04T05:03:12Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Local RAG document Q&A with LangChain + Ollama (qwen2.5): PDF -> vector store -> retrieval -> generation",
@@ -346,7 +373,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2286,
+    "stars": 2287,
     "updated_at": "2026-09-04T03:56:37Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -421,32 +448,5 @@
     "stars": 21,
     "updated_at": "2026-09-04T03:26:52Z",
     "url": "https://github.com/MontyGovernance/montycat-mcp"
-  },
-  {
-    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Python clien",
-    "id": "MontyGovernance/montycat_python",
-    "language": "Python",
-    "name": "MontyGovernance/montycat_python",
-    "stars": 14,
-    "updated_at": "2026-09-04T03:25:29Z",
-    "url": "https://github.com/MontyGovernance/montycat_python"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-04T03:21:21Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "A typed service that embeds event-shaped commerce order chunks and writes them to a vector collection.",
-    "id": "DemetriusReed2163/commerce-order-vector-ingest",
-    "language": "TypeScript",
-    "name": "DemetriusReed2163/commerce-order-vector-ingest",
-    "stars": 0,
-    "updated_at": "2026-09-04T03:21:05Z",
-    "url": "https://github.com/DemetriusReed2163/commerce-order-vector-ingest"
   }
 ]
