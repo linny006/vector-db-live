@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-04T09:30:22Z",
+    "updated_at": "2026-09-04T09:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
+    "id": "maniesh-lab/ragdocs",
+    "language": "Python",
+    "name": "maniesh-lab/ragdocs",
+    "stars": 0,
+    "updated_at": "2026-09-04T09:45:00Z",
+    "url": "https://github.com/maniesh-lab/ragdocs"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1883,
+    "updated_at": "2026-09-04T09:43:11Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Business Document Intelligence backend built with Python and FastAPI for structured financial extraction, validation, em",
+    "id": "keshavgupta-max/Agent-Document-Extractor-Financial-Documents-",
+    "language": "Python",
+    "name": "keshavgupta-max/Agent-Document-Extractor-Financial-Documents-",
+    "stars": 0,
+    "updated_at": "2026-09-04T09:40:55Z",
+    "url": "https://github.com/keshavgupta-max/Agent-Document-Extractor-Financial-Documents-"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45966,
+    "updated_at": "2026-09-04T09:39:30Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-04T09:36:49Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-09-04T09:33:04Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 6,
+    "updated_at": "2026-09-04T09:31:58Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T09:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-09-04T09:30:08Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
     "description": "The AI search platform",
@@ -16,24 +97,6 @@
     "stars": 7076,
     "updated_at": "2026-09-04T09:28:37Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "- ",
-    "id": "Chief-Strategist-J/llm-observability-platform",
-    "language": "Python",
-    "name": "Chief-Strategist-J/llm-observability-platform",
-    "stars": 6,
-    "updated_at": "2026-09-04T09:27:03Z",
-    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1883,
-    "updated_at": "2026-09-04T09:26:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 76,
-    "updated_at": "2026-09-04T09:24:53Z",
+    "updated_at": "2026-09-04T09:45:15Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
@@ -90,31 +153,13 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T09:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
     "id": "VectorDB-NTU/RaBitQ-Library",
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 273,
+    "stars": 274,
     "updated_at": "2026-09-04T09:14:22Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-04T09:09:56Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
@@ -158,7 +203,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16785,
-    "updated_at": "2026-09-04T09:01:04Z",
+    "updated_at": "2026-09-04T09:43:03Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34379,
-    "updated_at": "2026-09-04T09:00:01Z",
+    "updated_at": "2026-09-04T09:31:51Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T08:53:54Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45966,
-    "updated_at": "2026-09-04T08:52:22Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Cutting edge cloud AI technology put into a Bleeding blunt decade old server. Who would have thought about that.",
@@ -232,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T08:35:45Z",
     "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
-    "id": "maniesh-lab/ragdocs",
-    "language": "Python",
-    "name": "maniesh-lab/ragdocs",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:34:32Z",
-    "url": "https://github.com/maniesh-lab/ragdocs"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -333,21 +360,12 @@
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   },
   {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-09-04T09:30:08Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-04T08:29:28Z",
+    "updated_at": "2026-09-04T09:40:24Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-04T08:19:54Z",
     "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-09-04T08:18:22Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 3,
-    "updated_at": "2026-09-04T08:17:35Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
   }
 ]
