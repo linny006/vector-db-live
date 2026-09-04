@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-04 22:07 UTC
+> ⏰ Last updated: 2026-09-04 22:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,32 +42,32 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 30 | Go | 2026-09-04 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
+| 1 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1883 | Go | 2026-09-04 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 2 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-04 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
-| 3 | [iberi22/xavier](https://github.com/iberi22/xavier) | 0 | Rust | 2026-09-04 | Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context |
+| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-04 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 6 | [One-Semurg/Semurg-Benchmark-Suite](https://github.com/One-Semurg/Semurg-Benchmark-Suite) | 0 | Shell | 2026-09-04 | Run-it-yourself benchmarks comparing Semurg to leading open-source databases across eleven data domains - on your own ha |
-| 7 | [ldclabs/anda-db](https://github.com/ldclabs/anda-db) | 30 | Rust | 2026-09-04 | 🗄 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory. |
-| 8 | [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) | 794 | Rust | 2026-09-04 | build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system |
-| 9 | [bsankaranand/LS_IP_Intelligence_Tool](https://github.com/bsankaranand/LS_IP_Intelligence_Tool) | 1 | Python | 2026-09-04 | Input an expression vector and cell line to get suitability assessment and patent FTO status per vector element. A secon |
-| 10 | [UmutAA/ask-my-courses](https://github.com/UmutAA/ask-my-courses) | 0 | Python | 2026-09-04 | RAG-powered assistant over real course materials, hybrid search, reranking, RAGAS, evaluated retrieval, with tool-callin |
-| 11 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2288 | JavaScript | 2026-09-04 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 12 | [ricmed/zettel_app](https://github.com/ricmed/zettel_app) | 0 | Python | 2026-09-04 | Adaptação do Método Zettelkasten, de gestão de conhecimento, para o mundo digital |
-| 13 | [kichikubeihei/CodeMemoryPrime](https://github.com/kichikubeihei/CodeMemoryPrime) | 0 | Rust | 2026-09-04 | Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f |
-| 14 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-04 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 15 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1129 | Java | 2026-09-04 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 16 | [sarthaksinha2600/LLM-Contract](https://github.com/sarthaksinha2600/LLM-Contract) | 0 | — | 2026-09-04 | Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence. |
-| 17 | [pinecone-io/bird-search-example](https://github.com/pinecone-io/bird-search-example) | 3 | Python | 2026-09-04 | Showcases full-text search with Pinecone and Gemini Embedding 2 (multimodal) over a corpus of ~2,079 North American bird |
-| 18 | [pinecone-io/examples](https://github.com/pinecone-io/examples) | 3040 | Jupyter Notebook | 2026-09-04 | Jupyter Notebooks to help you get hands-on with Pinecone vector databases |
-| 19 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-09-04 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 20 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-04 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 21 | [sami999khan999/chat_url](https://github.com/sami999khan999/chat_url) | 0 | TypeScript | 2026-09-04 | This web application allows users to interact with a chatbot that can answer questions about any website. Simply enter t |
-| 22 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45975 | Go | 2026-09-04 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 23 | [neuml/txtai](https://github.com/neuml/txtai) | 12927 | Python | 2026-09-04 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
-| 24 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-04 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 25 | [breakingthebot/langchain-pdf-research-assistant-build96](https://github.com/breakingthebot/langchain-pdf-research-assistant-build96) | 0 | Python | 2026-09-04 | PDF research assistant — upload any PDF, ask questions, get cited answers |
-| 26 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1883 | Go | 2026-09-04 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 5 | [rostamlabs/rostam](https://github.com/rostamlabs/rostam) | 30 | Go | 2026-09-04 | Open-source vector database and sub-microsecond key-value store in one Go engine — embed it as a library, run it standal |
+| 6 | [iberi22/xavier](https://github.com/iberi22/xavier) | 0 | Rust | 2026-09-04 | Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context |
+| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 8 | [One-Semurg/Semurg-Benchmark-Suite](https://github.com/One-Semurg/Semurg-Benchmark-Suite) | 0 | Shell | 2026-09-04 | Run-it-yourself benchmarks comparing Semurg to leading open-source databases across eleven data domains - on your own ha |
+| 9 | [ldclabs/anda-db](https://github.com/ldclabs/anda-db) | 30 | Rust | 2026-09-04 | 🗄 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory. |
+| 10 | [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) | 794 | Rust | 2026-09-04 | build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system |
+| 11 | [bsankaranand/LS_IP_Intelligence_Tool](https://github.com/bsankaranand/LS_IP_Intelligence_Tool) | 1 | Python | 2026-09-04 | Input an expression vector and cell line to get suitability assessment and patent FTO status per vector element. A secon |
+| 12 | [UmutAA/ask-my-courses](https://github.com/UmutAA/ask-my-courses) | 0 | Python | 2026-09-04 | RAG-powered assistant over real course materials, hybrid search, reranking, RAGAS, evaluated retrieval, with tool-callin |
+| 13 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2288 | JavaScript | 2026-09-04 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 14 | [ricmed/zettel_app](https://github.com/ricmed/zettel_app) | 0 | Python | 2026-09-04 | Adaptação do Método Zettelkasten, de gestão de conhecimento, para o mundo digital |
+| 15 | [kichikubeihei/CodeMemoryPrime](https://github.com/kichikubeihei/CodeMemoryPrime) | 0 | Rust | 2026-09-04 | Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f |
+| 16 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1129 | Java | 2026-09-04 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 17 | [sarthaksinha2600/LLM-Contract](https://github.com/sarthaksinha2600/LLM-Contract) | 0 | — | 2026-09-04 | Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence. |
+| 18 | [pinecone-io/bird-search-example](https://github.com/pinecone-io/bird-search-example) | 3 | Python | 2026-09-04 | Showcases full-text search with Pinecone and Gemini Embedding 2 (multimodal) over a corpus of ~2,079 North American bird |
+| 19 | [pinecone-io/examples](https://github.com/pinecone-io/examples) | 3040 | Jupyter Notebook | 2026-09-04 | Jupyter Notebooks to help you get hands-on with Pinecone vector databases |
+| 20 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-09-04 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 21 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-04 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 22 | [sami999khan999/chat_url](https://github.com/sami999khan999/chat_url) | 0 | TypeScript | 2026-09-04 | This web application allows users to interact with a chatbot that can answer questions about any website. Simply enter t |
+| 23 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 45975 | Go | 2026-09-04 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 24 | [neuml/txtai](https://github.com/neuml/txtai) | 12927 | Python | 2026-09-04 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
+| 25 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-04 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 26 | [breakingthebot/langchain-pdf-research-assistant-build96](https://github.com/breakingthebot/langchain-pdf-research-assistant-build96) | 0 | Python | 2026-09-04 | PDF research assistant — upload any PDF, ask questions, get cited answers |
 | 27 | [schmitech/orbit](https://github.com/schmitech/orbit) | 343 | Python | 2026-09-04 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
 | 28 | [schwichtgit/ai-resume](https://github.com/schwichtgit/ai-resume) | 5 | Python | 2026-09-04 | AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv |
 | 29 | [api-evangelist/zilliz](https://github.com/api-evangelist/zilliz) | 0 | — | 2026-09-04 | Zilliz — independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector  |
