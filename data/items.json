@@ -1,12 +1,48 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45965,
+    "updated_at": "2026-09-04T05:54:20Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Retrieval cache for agentic RAG \u2014 lower cost, faster search (not an LLM answer cache)",
+    "id": "jmcgrath207/conproxy",
+    "language": "Rust",
+    "name": "jmcgrath207/conproxy",
+    "stars": 0,
+    "updated_at": "2026-09-04T05:54:13Z",
+    "url": "https://github.com/jmcgrath207/conproxy"
+  },
+  {
+    "description": "The unified multimodal backend for AI data apps in one Python file.",
+    "id": "pixeltable/pixeltable",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T05:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "pixeltable/pixeltable",
+    "stars": 1619,
+    "updated_at": "2026-09-04T05:52:53Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
+    "id": "aws-samples/sample-genai-on-eks-starter-kit",
+    "language": "JavaScript",
+    "name": "aws-samples/sample-genai-on-eks-starter-kit",
+    "stars": 94,
+    "updated_at": "2026-09-04T05:52:39Z",
+    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
+  },
+  {
+    "description": "Your vector database, as typed tools. Write a tools.yaml, then load_tools in Python or serve over MCP.",
+    "id": "kjgpta/vectorsmith",
+    "language": "Python",
+    "name": "kjgpta/vectorsmith",
+    "stars": 8,
+    "updated_at": "2026-09-04T05:52:59Z",
+    "url": "https://github.com/kjgpta/vectorsmith"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -14,8 +50,62 @@
     "language": "Rust",
     "name": "inlaySQL/inlaysql",
     "stars": 2,
-    "updated_at": "2026-09-04T05:40:34Z",
+    "updated_at": "2026-09-04T05:49:05Z",
     "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-04T05:48:14Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Official Java client for Qdrant ",
+    "id": "qdrant/java-client",
+    "language": "Java",
+    "name": "qdrant/java-client",
+    "stars": 96,
+    "updated_at": "2026-09-04T05:47:58Z",
+    "url": "https://github.com/qdrant/java-client"
+  },
+  {
+    "description": "A hands-on notebook lab covering the core building blocks of LLM applications prompting, tokenization & embeddings, Retr",
+    "id": "gautam0222/GenAI_LLM_Fundamentals",
+    "language": "Jupyter Notebook",
+    "name": "gautam0222/GenAI_LLM_Fundamentals",
+    "stars": 0,
+    "updated_at": "2026-09-04T05:46:37Z",
+    "url": "https://github.com/gautam0222/GenAI_LLM_Fundamentals"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T05:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T06:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9434,
+    "updated_at": "2026-09-04T05:44:05Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -36,24 +126,6 @@
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T05:31:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Retrieval cache for agentic RAG \u2014 lower cost, faster search (not an LLM answer cache)",
-    "id": "jmcgrath207/conproxy",
-    "language": "Rust",
-    "name": "jmcgrath207/conproxy",
-    "stars": 0,
-    "updated_at": "2026-09-04T05:30:44Z",
-    "url": "https://github.com/jmcgrath207/conproxy"
-  },
-  {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
     "id": "tamnd/yo",
     "language": "Rust",
@@ -61,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T05:28:28Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Your vector database, as typed tools. Write a tools.yaml, then load_tools in Python or serve over MCP.",
-    "id": "kjgpta/vectorsmith",
-    "language": "Python",
-    "name": "kjgpta/vectorsmith",
-    "stars": 8,
-    "updated_at": "2026-09-04T05:23:58Z",
-    "url": "https://github.com/kjgpta/vectorsmith"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -104,7 +167,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-04T05:44:27Z",
+    "updated_at": "2026-09-04T05:57:09Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -220,7 +283,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2285,
+    "stars": 2286,
     "updated_at": "2026-09-04T03:56:37Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -351,15 +414,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45963,
-    "updated_at": "2026-09-04T04:35:59Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
     "id": "edumgt/docker-class",
     "language": "Python",
@@ -392,61 +446,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8177,
-    "updated_at": "2026-09-04T05:32:17Z",
+    "updated_at": "2026-09-04T05:56:50Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
-    "id": "tryAGI/Qdrant",
-    "language": "C#",
-    "name": "tryAGI/Qdrant",
-    "stars": 0,
-    "updated_at": "2026-09-04T02:36:00Z",
-    "url": "https://github.com/tryAGI/Qdrant"
-  },
-  {
-    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
-    "id": "Egoist-Machines/LodeDB",
-    "language": "Python",
-    "name": "Egoist-Machines/LodeDB",
-    "stars": 98,
-    "updated_at": "2026-09-04T02:34:42Z",
-    "url": "https://github.com/Egoist-Machines/LodeDB"
-  },
-  {
-    "description": "The Best GUI for Milvus",
-    "id": "zilliztech/attu",
-    "language": "Shell",
-    "name": "zilliztech/attu",
-    "stars": 3146,
-    "updated_at": "2026-09-04T02:20:08Z",
-    "url": "https://github.com/zilliztech/attu"
-  },
-  {
-    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
-    "id": "OmniBioAI/omnibioai-dev-hub",
-    "language": "Python",
-    "name": "OmniBioAI/omnibioai-dev-hub",
-    "stars": 1,
-    "updated_at": "2026-09-04T02:19:39Z",
-    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 18,
-    "updated_at": "2026-09-04T02:17:37Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 90,
-    "updated_at": "2026-09-04T03:19:38Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   }
 ]
