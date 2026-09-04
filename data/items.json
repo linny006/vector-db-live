@@ -1,5 +1,50 @@
 [
   {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-09-04T09:55:07Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
+    "id": "infiniflow/infinity",
+    "language": "C++",
+    "name": "infiniflow/infinity",
+    "stars": 4701,
+    "updated_at": "2026-09-04T09:54:44Z",
+    "url": "https://github.com/infiniflow/infinity"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 343,
+    "updated_at": "2026-09-04T09:48:03Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
+    "id": "maniesh-lab/ragdocs",
+    "language": "Python",
+    "name": "maniesh-lab/ragdocs",
+    "stars": 0,
+    "updated_at": "2026-09-04T09:47:57Z",
+    "url": "https://github.com/maniesh-lab/ragdocs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T09:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +54,22 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
-    "id": "maniesh-lab/ragdocs",
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
     "language": "Python",
-    "name": "maniesh-lab/ragdocs",
-    "stars": 0,
-    "updated_at": "2026-09-04T09:45:00Z",
-    "url": "https://github.com/maniesh-lab/ragdocs"
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-04T09:45:15Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-09-04T09:45:02Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -72,21 +126,12 @@
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T09:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
     "id": "Artemon-line/ai-memory-hub",
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-09-04T09:30:08Z",
+    "updated_at": "2026-09-04T09:49:34Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -104,17 +149,8 @@
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 3,
-    "updated_at": "2026-09-04T09:27:06Z",
+    "updated_at": "2026-09-04T09:56:02Z",
     "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-04T09:45:15Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T09:21:42Z",
     "url": "https://github.com/deepbis94/KnowledgeDoc"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-09-04T09:24:53Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -194,7 +221,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13017,
-    "updated_at": "2026-09-04T09:09:05Z",
+    "updated_at": "2026-09-04T09:46:29Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16785,
-    "updated_at": "2026-09-04T09:43:03Z",
+    "updated_at": "2026-09-04T09:52:50Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -248,7 +275,7 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 841,
-    "updated_at": "2026-09-04T08:53:37Z",
+    "updated_at": "2026-09-04T09:51:51Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T08:24:10Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9227,
-    "updated_at": "2026-09-04T08:23:50Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "AI-powered personal memory assistant that remembers context across conversations using DistilBERT embeddings, ChromaDB v",
-    "id": "VinayHanni/PIPO",
-    "language": "Python",
-    "name": "VinayHanni/PIPO",
-    "stars": 0,
-    "updated_at": "2026-09-04T08:20:28Z",
-    "url": "https://github.com/VinayHanni/PIPO"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 4,
-    "updated_at": "2026-09-04T08:19:54Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
   }
 ]
