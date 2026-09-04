@@ -1,5 +1,77 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-04T06:54:04Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Declarative SQL query engine for Qdrant and edge vector databases. Multi-vector dense & BM25 sparse search, hybrid retri",
+    "id": "srimon12/qql-rs",
+    "language": "Rust",
+    "name": "srimon12/qql-rs",
+    "stars": 4,
+    "updated_at": "2026-09-04T06:59:54Z",
+    "url": "https://github.com/srimon12/qql-rs"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11351,
+    "updated_at": "2026-09-04T06:52:15Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "An AI-powered Agentic RAG Research Assistant that answers questions from uploaded research papers using intelligent docu",
+    "id": "azqajafardev/agentic-rag-research-assistant",
+    "language": "Python",
+    "name": "azqajafardev/agentic-rag-research-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:50:13Z",
+    "url": "https://github.com/azqajafardev/agentic-rag-research-assistant"
+  },
+  {
+    "description": "\ud83e\udde0 Brain Plug \u2014 Enterprise Multi-Tenant AI Agent & Knowledge Platform",
+    "id": "WizardGeeky/brain_plug",
+    "language": "TypeScript",
+    "name": "WizardGeeky/brain_plug",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:49:19Z",
+    "url": "https://github.com/WizardGeeky/brain_plug"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-04T06:48:03Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T06:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T06:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -16,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-09-04T06:38:58Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83e\udde0 Brain Plug \u2014 Enterprise Multi-Tenant AI Agent & Knowledge Platform",
-    "id": "WizardGeeky/brain_plug",
-    "language": "TypeScript",
-    "name": "WizardGeeky/brain_plug",
-    "stars": 0,
-    "updated_at": "2026-09-04T06:37:53Z",
-    "url": "https://github.com/WizardGeeky/brain_plug"
   },
   {
     "description": "A lightweight TypeScript SDK for indexing Markdown knowledge bases into vector databases for semantic search and RAG",
@@ -54,24 +117,6 @@
     "url": "https://github.com/AkashKundu114/COPPER"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T06:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T06:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Production-ready async RAG microservice with swappable LLM/embedding/vector-DB providers and an embeddable chat widget",
     "id": "ah9956/asyncrag",
     "language": "Python",
@@ -90,20 +135,11 @@
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
-    "description": "An AI-powered Agentic RAG Research Assistant that answers questions from uploaded research papers using intelligent docu",
-    "id": "azqajafardev/agentic-rag-research-assistant",
-    "language": "Python",
-    "name": "azqajafardev/agentic-rag-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-04T06:24:16Z",
-    "url": "https://github.com/azqajafardev/agentic-rag-research-assistant"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15752,
+    "stars": 15753,
     "updated_at": "2026-09-04T06:24:03Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -124,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T06:22:01Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-04T06:14:45Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -158,7 +185,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9226,
-    "updated_at": "2026-09-04T06:32:38Z",
+    "updated_at": "2026-09-04T06:50:34Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 45965,
-    "updated_at": "2026-09-04T06:31:30Z",
+    "updated_at": "2026-09-04T06:51:55Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -270,15 +297,6 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11351,
-    "updated_at": "2026-09-04T05:23:53Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin.",
     "id": "firelock-ai/kin-vector",
     "language": "Rust",
@@ -295,15 +313,6 @@
     "stars": 7075,
     "updated_at": "2026-09-04T05:17:38Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-04T06:09:01Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Local RAG document Q&A with LangChain + Ollama (qwen2.5): PDF -> vector store -> retrieval -> generation",
@@ -439,14 +448,5 @@
     "stars": 856,
     "updated_at": "2026-09-04T03:29:38Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Rust client.",
-    "id": "MontyGovernance/montycat_rust",
-    "language": "Rust",
-    "name": "MontyGovernance/montycat_rust",
-    "stars": 3,
-    "updated_at": "2026-09-04T03:29:08Z",
-    "url": "https://github.com/MontyGovernance/montycat_rust"
   }
 ]
