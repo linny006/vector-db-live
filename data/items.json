@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-04T20:45:20Z",
+    "updated_at": "2026-09-04T21:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "This web application allows users to interact with a chatbot that can answer questions about any website. Simply enter t",
+    "id": "sami999khan999/chat_url",
+    "language": "TypeScript",
+    "name": "sami999khan999/chat_url",
+    "stars": 0,
+    "updated_at": "2026-09-04T21:00:11Z",
+    "url": "https://github.com/sami999khan999/chat_url"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12927,
+    "updated_at": "2026-09-04T20:54:58Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 30,
+    "updated_at": "2026-09-04T20:46:47Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-04T20:46:21Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-04T20:46:09Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T20:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "PDF research assistant \u2014 upload any PDF, ask questions, get cited answers",
@@ -52,15 +106,6 @@
     "stars": 5,
     "updated_at": "2026-09-04T20:33:35Z",
     "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T20:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
@@ -115,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T20:22:46Z",
     "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-04T20:42:04Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
@@ -266,7 +302,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9231,
-    "updated_at": "2026-09-04T20:30:38Z",
+    "updated_at": "2026-09-04T20:53:02Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -355,7 +391,7 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 29372,
+    "stars": 29373,
     "updated_at": "2026-09-04T19:26:24Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-04T19:11:44Z",
     "url": "https://github.com/karthikbilaspur/ai_learning"
-  },
-  {
-    "description": "Local-first governed memory for AI agents via MCP. SQLite vectors, Kuzu relationships, bounded Recall, and a local maint",
-    "id": "ElefanteAI/elefante",
-    "language": "Python",
-    "name": "ElefanteAI/elefante",
-    "stars": 1,
-    "updated_at": "2026-09-04T19:11:38Z",
-    "url": "https://github.com/ElefanteAI/elefante"
-  },
-  {
-    "description": "Local-first personal memory + RAG engine - the reusable AI brain for future projects.",
-    "id": "zaidwhy/personal-llm",
-    "language": "Python",
-    "name": "zaidwhy/personal-llm",
-    "stars": 2,
-    "updated_at": "2026-09-04T19:09:53Z",
-    "url": "https://github.com/zaidwhy/personal-llm"
-  },
-  {
-    "description": "Spatial AI memory: point your phone camera, ask out loud where you left something, get the exact frame. Gemini Live + Ch",
-    "id": "zaidwhy/recall",
-    "language": "Python",
-    "name": "zaidwhy/recall",
-    "stars": 0,
-    "updated_at": "2026-09-04T19:09:47Z",
-    "url": "https://github.com/zaidwhy/recall"
-  },
-  {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 33,
-    "updated_at": "2026-09-04T19:02:06Z",
-    "url": "https://github.com/maximilien/weave-cli"
   }
 ]
