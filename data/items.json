@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-04T07:15:25Z",
+    "updated_at": "2026-09-04T07:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Training-free vector quantization (4/5/6-bit) and search \u2014 the SQLite profile for edge vector storage",
+    "id": "codecoradev/vecq",
+    "language": "Rust",
+    "name": "codecoradev/vecq",
+    "stars": 1,
+    "updated_at": "2026-09-04T07:22:35Z",
+    "url": "https://github.com/codecoradev/vecq"
   },
   {
     "description": "\ud83e\udde0 Brain Plug \u2014 Enterprise Multi-Tenant AI Agent & Knowledge Platform",
@@ -14,8 +23,35 @@
     "language": "TypeScript",
     "name": "WizardGeeky/brain_plug",
     "stars": 0,
-    "updated_at": "2026-09-04T07:14:09Z",
+    "updated_at": "2026-09-04T07:18:53Z",
     "url": "https://github.com/WizardGeeky/brain_plug"
+  },
+  {
+    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-09-04T07:18:20Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13015,
+    "updated_at": "2026-09-04T07:17:13Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T07:15:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
@@ -72,21 +108,12 @@
     "url": "https://github.com/ussamasaeed/AI_Powered_Canals_Monitoring_System"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T07:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-04T07:14:45Z",
+    "updated_at": "2026-09-04T07:22:35Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -106,6 +133,15 @@
     "stars": 11351,
     "updated_at": "2026-09-04T06:52:15Z",
     "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45966,
+    "updated_at": "2026-09-04T06:51:55Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "An AI-powered Agentic RAG Research Assistant that answers questions from uploaded research papers using intelligent docu",
@@ -234,15 +270,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45965,
-    "updated_at": "2026-09-04T06:51:55Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Retrieval cache for agentic RAG \u2014 lower cost, faster search (not an LLM answer cache)",
     "id": "jmcgrath207/conproxy",
     "language": "Rust",
@@ -351,15 +378,6 @@
     "url": "https://github.com/1402365177c4-star/langchain-rag-qa"
   },
   {
-    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
-    "id": "sattyamjjain/mnemo",
-    "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 4,
-    "updated_at": "2026-09-04T05:19:03Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
     "description": "Intelligent AI agent combining RAG document search with real-time web search using LangChain and Groq",
     "id": "Z3N00/rag-agent",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2287,
     "updated_at": "2026-09-04T03:56:37Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
-    "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
-    "stars": 0,
-    "updated_at": "2026-09-04T03:54:23Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "chm to markdown and vectorDB",
-    "id": "DTDucas/chm-converter",
-    "language": "Python",
-    "name": "DTDucas/chm-converter",
-    "stars": 102,
-    "updated_at": "2026-09-04T03:52:30Z",
-    "url": "https://github.com/DTDucas/chm-converter"
   }
 ]
