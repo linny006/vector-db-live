@@ -1,5 +1,113 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-04T06:14:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-09-04T06:14:07Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "AI-powered personal memory assistant that remembers context across conversations using DistilBERT embeddings, ChromaDB v",
+    "id": "VinayHanni/PIPO",
+    "language": "Python",
+    "name": "VinayHanni/PIPO",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:12:53Z",
+    "url": "https://github.com/VinayHanni/PIPO"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9226,
+    "updated_at": "2026-09-04T06:13:01Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "\ud83e\udde0 Brain Plug \u2014 Enterprise Multi-Tenant AI Agent & Knowledge Platform",
+    "id": "WizardGeeky/brain_plug",
+    "language": "TypeScript",
+    "name": "WizardGeeky/brain_plug",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:06:25Z",
+    "url": "https://github.com/WizardGeeky/brain_plug"
+  },
+  {
+    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
+    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "language": "Python",
+    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:06:22Z",
+    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
+  },
+  {
+    "description": "Local-first governed memory for AI agents via MCP. SQLite vectors, Kuzu relationships, bounded Recall, and a local maint",
+    "id": "ElefanteAI/elefante",
+    "language": "Python",
+    "name": "ElefanteAI/elefante",
+    "stars": 1,
+    "updated_at": "2026-09-04T06:03:04Z",
+    "url": "https://github.com/ElefanteAI/elefante"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-04T06:02:25Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-04T06:01:05Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T06:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T06:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30450,
+    "updated_at": "2026-09-04T06:13:52Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -81,24 +189,6 @@
     "url": "https://github.com/gautam0222/GenAI_LLM_Fundamentals"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T05:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T06:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -106,24 +196,6 @@
     "stars": 9434,
     "updated_at": "2026-09-04T05:44:05Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-04T05:35:42Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2)",
-    "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "language": "Python",
-    "name": "muhammad-hameed-ai/saudi-vision-2030-rag",
-    "stars": 0,
-    "updated_at": "2026-09-04T05:33:48Z",
-    "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -167,7 +239,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-04T05:57:09Z",
+    "updated_at": "2026-09-04T06:09:01Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -205,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T04:56:01Z",
     "url": "https://github.com/Z3N00/rag-agent"
-  },
-  {
-    "description": "Local-first governed memory for AI agents via MCP. SQLite vectors, Kuzu relationships, bounded Recall, and a local maint",
-    "id": "ElefanteAI/elefante",
-    "language": "Python",
-    "name": "ElefanteAI/elefante",
-    "stars": 1,
-    "updated_at": "2026-09-04T05:42:54Z",
-    "url": "https://github.com/ElefanteAI/elefante"
   },
   {
     "description": "Project OverviewThe Canal Monitoring System is an AI-ready web interface designed for real-time surveillance and monitor",
@@ -306,15 +369,6 @@
     "url": "https://github.com/DTDucas/chm-converter"
   },
   {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-04T03:43:48Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
     "description": "Run-it-yourself benchmarks comparing Semurg to leading open-source databases across eleven data domains - on your own ha",
     "id": "One-Semurg/Semurg-Benchmark-Suite",
     "language": "Shell",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T03:21:05Z",
     "url": "https://github.com/DemetriusReed2163/commerce-order-vector-ingest"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-04T03:12:14Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-09-04T03:09:50Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
-    "id": "edumgt/docker-class",
-    "language": "Python",
-    "name": "edumgt/docker-class",
-    "stars": 5,
-    "updated_at": "2026-09-04T03:05:45Z",
-    "url": "https://github.com/edumgt/docker-class"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-04T04:49:45Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-04T03:00:44Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8177,
-    "updated_at": "2026-09-04T05:56:50Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
