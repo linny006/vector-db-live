@@ -1,12 +1,84 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T00:26:33Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
+    "id": "xDarkicex/openclaw-memory-libravdb",
+    "language": "TypeScript",
+    "name": "xDarkicex/openclaw-memory-libravdb",
+    "stars": 10,
+    "updated_at": "2026-09-04T00:25:55Z",
+    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
+  },
+  {
     "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
     "id": "ricmed/zettel_app",
     "language": "Python",
     "name": "ricmed/zettel_app",
     "stars": 0,
-    "updated_at": "2026-09-04T00:15:02Z",
+    "updated_at": "2026-09-04T00:24:54Z",
     "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "Local-first governed memory for AI agents via MCP. SQLite vectors, Kuzu relationships, bounded Recall, and a local maint",
+    "id": "ElefanteAI/elefante",
+    "language": "Python",
+    "name": "ElefanteAI/elefante",
+    "stars": 1,
+    "updated_at": "2026-09-04T00:22:50Z",
+    "url": "https://github.com/ElefanteAI/elefante"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-04T00:22:40Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-04T00:22:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Astro site that hosts all my notes on my personal technical experience - and is the resource bank for a RAG study agent.",
+    "id": "justinklein2001/my-tech-notes",
+    "language": "JavaScript",
+    "name": "justinklein2001/my-tech-notes",
+    "stars": 0,
+    "updated_at": "2026-09-04T00:15:36Z",
+    "url": "https://github.com/justinklein2001/my-tech-notes"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T00:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A production style agentic AI system that resolves Siemens industrial automation support tickets against a real 500 page",
+    "id": "shweta-dataverse/agentic-technical-support-copilot",
+    "language": "Python",
+    "name": "shweta-dataverse/agentic-technical-support-copilot",
+    "stars": 0,
+    "updated_at": "2026-09-04T00:12:15Z",
+    "url": "https://github.com/shweta-dataverse/agentic-technical-support-copilot"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -27,24 +99,6 @@
     "url": "https://github.com/edumgt/docker-class"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T00:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T00:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -52,15 +106,6 @@
     "stars": 45958,
     "updated_at": "2026-09-03T23:59:30Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-04T00:15:08Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Turbocharge your AI Agents with TurboQuant",
@@ -81,15 +126,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
-    "id": "xDarkicex/openclaw-memory-libravdb",
-    "language": "TypeScript",
-    "name": "xDarkicex/openclaw-memory-libravdb",
-    "stars": 10,
-    "updated_at": "2026-09-04T00:08:29Z",
-    "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
-  },
-  {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
     "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "TypeScript",
@@ -104,7 +140,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-04T00:14:24Z",
+    "updated_at": "2026-09-04T00:25:12Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -135,15 +171,6 @@
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 2,
-    "updated_at": "2026-09-03T23:34:06Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -160,15 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-03T23:30:06Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Local-first governed memory for AI agents via MCP. SQLite vectors, Kuzu relationships, bounded Recall, and a local maint",
-    "id": "ElefanteAI/elefante",
-    "language": "Python",
-    "name": "ElefanteAI/elefante",
-    "stars": 1,
-    "updated_at": "2026-09-03T23:58:15Z",
-    "url": "https://github.com/ElefanteAI/elefante"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -212,7 +230,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-03T23:06:41Z",
+    "updated_at": "2026-09-04T00:23:06Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9225,
-    "updated_at": "2026-09-04T00:04:40Z",
+    "updated_at": "2026-09-04T00:25:44Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-03T20:30:10Z",
     "url": "https://github.com/yp3y5akh0v/citadel"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1349,
-    "updated_at": "2026-09-03T20:44:59Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
-    "id": "kichikubeihei/CodeMemoryPrime",
-    "language": "Rust",
-    "name": "kichikubeihei/CodeMemoryPrime",
-    "stars": 0,
-    "updated_at": "2026-09-03T20:18:15Z",
-    "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
   }
 ]
