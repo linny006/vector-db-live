@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-04 05:30 UTC
+> ⏰ Last updated: 2026-09-04 05:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [jmcgrath207/conproxy](https://github.com/jmcgrath207/conproxy) | 0 | Rust | 2026-09-04 | Retrieval cache for agentic RAG — lower cost, faster search (not an LLM answer cache) |
-| 3 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-04 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
-| 4 | [kjgpta/vectorsmith](https://github.com/kjgpta/vectorsmith) | 8 | Python | 2026-09-04 | Your vector database, as typed tools. Write a tools.yaml, then load_tools in Python or serve over MCP. |
-| 5 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11351 | Rust | 2026-09-04 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 6 | [firelock-ai/kin-vector](https://github.com/firelock-ai/kin-vector) | 0 | Rust | 2026-09-04 | Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin. |
-| 7 | [muhammad-hameed-ai/saudi-vision-2030-rag](https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag) | 0 | Python | 2026-09-04 | Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2) |
-| 8 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7075 | Java | 2026-09-04 | The AI search platform |
-| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [jmcgrath207/conproxy](https://github.com/jmcgrath207/conproxy) | 0 | Rust | 2026-09-04 | Retrieval cache for agentic RAG — lower cost, faster search (not an LLM answer cache) |
+| 4 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-04 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 5 | [kjgpta/vectorsmith](https://github.com/kjgpta/vectorsmith) | 8 | Python | 2026-09-04 | Your vector database, as typed tools. Write a tools.yaml, then load_tools in Python or serve over MCP. |
+| 6 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11351 | Rust | 2026-09-04 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 7 | [firelock-ai/kin-vector](https://github.com/firelock-ai/kin-vector) | 0 | Rust | 2026-09-04 | Pure-Rust HNSW vector index for embedding retrieval. A vector primitive for Kin. |
+| 8 | [muhammad-hameed-ai/saudi-vision-2030-rag](https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag) | 0 | Python | 2026-09-04 | Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (Llama-3.2) |
+| 9 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7075 | Java | 2026-09-04 | The AI search platform |
 | 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-04 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 11 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-09-04 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
 | 12 | [infino-ai/infino](https://github.com/infino-ai/infino) | 78 | Rust | 2026-09-04 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
