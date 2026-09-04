@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T20:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "PDF research assistant \u2014 upload any PDF, ask questions, get cited answers",
+    "id": "breakingthebot/langchain-pdf-research-assistant-build96",
+    "language": "Python",
+    "name": "breakingthebot/langchain-pdf-research-assistant-build96",
+    "stars": 0,
+    "updated_at": "2026-09-04T20:37:00Z",
+    "url": "https://github.com/breakingthebot/langchain-pdf-research-assistant-build96"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1883,
+    "updated_at": "2026-09-04T20:36:54Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-04T20:34:27Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 343,
+    "updated_at": "2026-09-04T20:31:31Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-09-04T20:33:35Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T20:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Zilliz \u2014 independent third-party profile of a public API surface, by API Evangelist. Zilliz Cloud is the managed vector ",
     "id": "api-evangelist/zilliz",
     "language": "\u2014",
@@ -59,7 +122,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-04T20:22:03Z",
+    "updated_at": "2026-09-04T20:42:04Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -81,15 +144,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-09-04T20:22:27Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -97,24 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-04T20:17:59Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T20:15:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T20:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
@@ -135,13 +171,13 @@
     "url": "https://github.com/pnoboesam/ghana-constitution-rag"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-04T20:08:39Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "Semantic codebase assistant for GitHub repositories powered by RAG, pgvector, and Gemini.",
+    "id": "Mxnrxjj/talk-to-my-repo",
+    "language": "TypeScript",
+    "name": "Mxnrxjj/talk-to-my-repo",
+    "stars": 0,
+    "updated_at": "2026-09-04T20:08:30Z",
+    "url": "https://github.com/Mxnrxjj/talk-to-my-repo"
   },
   {
     "description": "Official Python SDK for the Pinecone vector database",
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9231,
-    "updated_at": "2026-09-04T20:00:05Z",
+    "updated_at": "2026-09-04T20:30:38Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -310,7 +346,7 @@
     "id": "NirDiamant/Agent_Memory_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/Agent_Memory_Techniques",
-    "stars": 1028,
+    "stars": 1029,
     "updated_at": "2026-09-04T19:26:31Z",
     "url": "https://github.com/NirDiamant/Agent_Memory_Techniques"
   },
@@ -319,7 +355,7 @@
     "id": "NirDiamant/RAG_Techniques",
     "language": "Jupyter Notebook",
     "name": "NirDiamant/RAG_Techniques",
-    "stars": 29371,
+    "stars": 29372,
     "updated_at": "2026-09-04T19:26:24Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
@@ -412,41 +448,5 @@
     "stars": 33,
     "updated_at": "2026-09-04T19:02:06Z",
     "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
-    "id": "api-evangelist/datastax",
-    "language": "\u2014",
-    "name": "api-evangelist/datastax",
-    "stars": 0,
-    "updated_at": "2026-09-04T19:02:04Z",
-    "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
-    "id": "api-evangelist/crate-io",
-    "language": "\u2014",
-    "name": "api-evangelist/crate-io",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:59:40Z",
-    "url": "https://github.com/api-evangelist/crate-io"
-  },
-  {
-    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
-    "id": "api-evangelist/contentstack",
-    "language": "\u2014",
-    "name": "api-evangelist/contentstack",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:58:28Z",
-    "url": "https://github.com/api-evangelist/contentstack"
-  },
-  {
-    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
-    "id": "amirhosssein0/ai-platform-lab",
-    "language": "TypeScript",
-    "name": "amirhosssein0/ai-platform-lab",
-    "stars": 5,
-    "updated_at": "2026-09-04T18:56:12Z",
-    "url": "https://github.com/amirhosssein0/ai-platform-lab"
   }
 ]
