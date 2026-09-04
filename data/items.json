@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T12:00:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "RAG context engine for retrieval-augmented workflows \u2014 ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe",
+    "id": "RehanIlyas-dev/Omni-Context",
+    "language": "Python",
+    "name": "RehanIlyas-dev/Omni-Context",
+    "stars": 0,
+    "updated_at": "2026-09-04T11:59:17Z",
+    "url": "https://github.com/RehanIlyas-dev/Omni-Context"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13018,
+    "updated_at": "2026-09-04T11:58:43Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "\u041b\u043e\u043a\u0430\u043b\u044c\u043d\u0430\u044f RAG-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u0434\u043b\u044f \u043f\u043e\u0438\u0441\u043a\u0430 \u043f\u043e \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u043c \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u043c \u0441 \u0441\u0441\u044b\u043b\u043a\u0430\u043c\u0438 \u043d\u0430 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0438.",
+    "id": "SlavaKlkv/local_knowledge_rag",
+    "language": "Python",
+    "name": "SlavaKlkv/local_knowledge_rag",
+    "stars": 0,
+    "updated_at": "2026-09-04T11:56:16Z",
+    "url": "https://github.com/SlavaKlkv/local_knowledge_rag"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-04T11:55:57Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 120,
+    "updated_at": "2026-09-04T11:53:55Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-04T11:49:53Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 23,
+    "updated_at": "2026-09-04T11:48:55Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-09-04T11:47:54Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T11:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
     "id": "Yigtwxx/OracleX",
     "language": "Python",
@@ -25,15 +115,6 @@
     "stars": 78,
     "updated_at": "2026-09-04T11:37:42Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "\u041b\u043e\u043a\u0430\u043b\u044c\u043d\u0430\u044f RAG-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u0434\u043b\u044f \u043f\u043e\u0438\u0441\u043a\u0430 \u043f\u043e \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u043c \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u043c \u0441 \u0441\u0441\u044b\u043b\u043a\u0430\u043c\u0438 \u043d\u0430 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0438.",
-    "id": "SlavaKlkv/local_knowledge_rag",
-    "language": "Python",
-    "name": "SlavaKlkv/local_knowledge_rag",
-    "stars": 0,
-    "updated_at": "2026-09-04T11:36:27Z",
-    "url": "https://github.com/SlavaKlkv/local_knowledge_rag"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -72,15 +153,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-04T11:30:51Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (ALLaM-2-7b",
     "id": "muhammad-hameed-ai/saudi-vision-2030-rag",
     "language": "Python",
@@ -90,30 +162,12 @@
     "url": "https://github.com/muhammad-hameed-ai/saudi-vision-2030-rag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T11:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T11:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Pinecone BYOC",
     "id": "pinecone-io/pulumi-pinecone-byoc",
     "language": "Python",
     "name": "pinecone-io/pulumi-pinecone-byoc",
     "stars": 13,
-    "updated_at": "2026-09-04T11:30:13Z",
+    "updated_at": "2026-09-04T11:47:07Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
@@ -131,7 +185,7 @@
     "language": "C++",
     "name": "libraz/nvecd",
     "stars": 0,
-    "updated_at": "2026-09-04T11:28:34Z",
+    "updated_at": "2026-09-04T11:58:17Z",
     "url": "https://github.com/libraz/nvecd"
   },
   {
@@ -166,7 +220,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1841,
+    "stars": 1842,
     "updated_at": "2026-09-04T11:13:51Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -185,8 +239,17 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30457,
-    "updated_at": "2026-09-04T11:41:51Z",
+    "updated_at": "2026-09-04T11:59:54Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 847,
+    "updated_at": "2026-09-04T10:59:49Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
     "description": "\ud83e\udde0 Brain Plug \u2014 Enterprise Multi-Tenant AI Agent & Knowledge Platform",
@@ -221,7 +284,7 @@
     "language": "Python",
     "name": "redis/redis-vl-python",
     "stars": 425,
-    "updated_at": "2026-09-04T10:47:02Z",
+    "updated_at": "2026-09-04T11:52:31Z",
     "url": "https://github.com/redis/redis-vl-python"
   },
   {
@@ -241,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T10:40:25Z",
     "url": "https://github.com/UmutAA/ask-my-courses"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13018,
-    "updated_at": "2026-09-04T10:33:26Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "- ",
@@ -374,17 +428,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34380,
-    "updated_at": "2026-09-04T11:15:59Z",
+    "updated_at": "2026-09-04T11:58:47Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-09-04T09:49:34Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
     "description": "The AI search platform",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-04T09:59:30Z",
     "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5887,
-    "updated_at": "2026-09-04T09:24:22Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-09-04T09:22:15Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "RAG Knowledge Base",
-    "id": "deepbis94/KnowledgeDoc",
-    "language": "TypeScript",
-    "name": "deepbis94/KnowledgeDoc",
-    "stars": 0,
-    "updated_at": "2026-09-04T09:21:42Z",
-    "url": "https://github.com/deepbis94/KnowledgeDoc"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 274,
-    "updated_at": "2026-09-04T09:14:22Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
-    "id": "project-david-ai/projectdavid-platform",
-    "language": "Python",
-    "name": "project-david-ai/projectdavid-platform",
-    "stars": 1,
-    "updated_at": "2026-09-04T09:09:17Z",
-    "url": "https://github.com/project-david-ai/projectdavid-platform"
   }
 ]
