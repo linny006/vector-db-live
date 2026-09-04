@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-04T13:45:22Z",
+    "updated_at": "2026-09-04T14:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-09-04T13:57:35Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
+    "id": "tuned-org-uk/arrowspace-rs",
+    "language": "Rust",
+    "name": "tuned-org-uk/arrowspace-rs",
+    "stars": 42,
+    "updated_at": "2026-09-04T13:55:13Z",
+    "url": "https://github.com/tuned-org-uk/arrowspace-rs"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-09-04T13:52:28Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1127,
+    "updated_at": "2026-09-04T13:52:22Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30460,
+    "updated_at": "2026-09-04T13:55:05Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje",
+    "id": "karthikbilaspur/ai_learning",
+    "language": "Python",
+    "name": "karthikbilaspur/ai_learning",
+    "stars": 2,
+    "updated_at": "2026-09-04T13:50:49Z",
+    "url": "https://github.com/karthikbilaspur/ai_learning"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-04T13:49:59Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "In-memory vector search engine with event-based co-occurrence tracking",
+    "id": "libraz/nvecd",
+    "language": "C++",
+    "name": "libraz/nvecd",
+    "stars": 0,
+    "updated_at": "2026-09-04T13:49:52Z",
+    "url": "https://github.com/libraz/nvecd"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34381,
+    "updated_at": "2026-09-04T13:46:28Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T13:45:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG context engine for retrieval-augmented workflows \u2014 ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe",
@@ -23,17 +113,8 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13017,
-    "updated_at": "2026-09-04T13:45:05Z",
+    "updated_at": "2026-09-04T13:45:49Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distri",
-    "id": "tuned-org-uk/arrowspace-rs",
-    "language": "Rust",
-    "name": "tuned-org-uk/arrowspace-rs",
-    "stars": 42,
-    "updated_at": "2026-09-04T13:43:10Z",
-    "url": "https://github.com/tuned-org-uk/arrowspace-rs"
   },
   {
     "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
@@ -77,17 +158,8 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7076,
-    "updated_at": "2026-09-04T13:39:21Z",
+    "updated_at": "2026-09-04T13:50:32Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T13:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -104,17 +176,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16785,
-    "updated_at": "2026-09-04T13:22:49Z",
+    "updated_at": "2026-09-04T14:00:10Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-04T13:18:05Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -122,7 +185,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-04T13:17:56Z",
+    "updated_at": "2026-09-04T14:00:03Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12926,
-    "updated_at": "2026-09-04T13:08:23Z",
+    "updated_at": "2026-09-04T13:59:36Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -203,7 +266,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 30,
-    "updated_at": "2026-09-04T13:36:01Z",
+    "updated_at": "2026-09-04T13:56:32Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -223,15 +286,6 @@
     "stars": 368,
     "updated_at": "2026-09-04T12:53:23Z",
     "url": "https://github.com/qdrant/vector-db-benchmark"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30459,
-    "updated_at": "2026-09-04T13:41:07Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
@@ -315,15 +369,6 @@
     "url": "https://github.com/luispintoapify/ecommerce-agent-starter"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34382,
-    "updated_at": "2026-09-04T13:41:05Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "\u041b\u043e\u043a\u0430\u043b\u044c\u043d\u0430\u044f RAG-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u0434\u043b\u044f \u043f\u043e\u0438\u0441\u043a\u0430 \u043f\u043e \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u043c \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u043c \u0441 \u0441\u0441\u044b\u043b\u043a\u0430\u043c\u0438 \u043d\u0430 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0438.",
     "id": "SlavaKlkv/local_knowledge_rag",
     "language": "Python",
@@ -378,15 +423,6 @@
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
   },
   {
-    "description": "In-memory vector search engine with event-based co-occurrence tracking",
-    "id": "libraz/nvecd",
-    "language": "C++",
-    "name": "libraz/nvecd",
-    "stars": 0,
-    "updated_at": "2026-09-04T11:58:17Z",
-    "url": "https://github.com/libraz/nvecd"
-  },
-  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "Intrect-io/OpenSwarm",
     "language": "TypeScript",
@@ -412,41 +448,5 @@
     "stars": 1842,
     "updated_at": "2026-09-04T11:13:51Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1908,
-    "updated_at": "2026-09-04T11:09:19Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 847,
-    "updated_at": "2026-09-04T13:20:24Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
-    "description": "\ud83e\udde0 Brain Plug \u2014 Enterprise Multi-Tenant AI Agent & Knowledge Platform",
-    "id": "WizardGeeky/brain_plug",
-    "language": "TypeScript",
-    "name": "WizardGeeky/brain_plug",
-    "stars": 0,
-    "updated_at": "2026-09-04T10:55:41Z",
-    "url": "https://github.com/WizardGeeky/brain_plug"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-04T10:55:05Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   }
 ]
