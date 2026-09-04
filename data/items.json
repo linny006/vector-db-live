@@ -1,5 +1,122 @@
 [
   {
+    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
+    "id": "api-evangelist/crate-io",
+    "language": "\u2014",
+    "name": "api-evangelist/crate-io",
+    "stars": 0,
+    "updated_at": "2026-09-04T18:59:40Z",
+    "url": "https://github.com/api-evangelist/crate-io"
+  },
+  {
+    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-09-04T18:58:28Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
+    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
+    "id": "amirhosssein0/ai-platform-lab",
+    "language": "TypeScript",
+    "name": "amirhosssein0/ai-platform-lab",
+    "stars": 5,
+    "updated_at": "2026-09-04T18:56:12Z",
+    "url": "https://github.com/amirhosssein0/ai-platform-lab"
+  },
+  {
+    "description": "Official n8n creator | Production-ready automation workflows \u2014 Agentic RAG, multi-KB AI agents, AI governance, and priva",
+    "id": "nenedesign/nenedesign",
+    "language": "\u2014",
+    "name": "nenedesign/nenedesign",
+    "stars": 0,
+    "updated_at": "2026-09-04T18:55:04Z",
+    "url": "https://github.com/nenedesign/nenedesign"
+  },
+  {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma",
+    "stars": 0,
+    "updated_at": "2026-09-04T18:54:49Z",
+    "url": "https://github.com/api-evangelist/chroma"
+  },
+  {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma-db",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma-db",
+    "stars": 0,
+    "updated_at": "2026-09-04T18:54:48Z",
+    "url": "https://github.com/api-evangelist/chroma-db"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-04T18:54:35Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-04T18:56:58Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-09-04T18:45:47Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-09-04T18:46:08Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 33,
+    "updated_at": "2026-09-04T18:45:31Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T18:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T18:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
     "id": "api-evangelist/azure-cosmos-db",
     "language": "\u2014",
@@ -23,17 +140,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1129,
-    "updated_at": "2026-09-04T18:41:40Z",
+    "updated_at": "2026-09-04T18:56:27Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:41:30Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -70,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T18:31:53Z",
     "url": "https://github.com/zaidwhy/recall"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T18:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T18:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Local-first personal memory + RAG engine - the reusable AI brain for future projects.",
@@ -135,15 +225,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-04T18:22:33Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -151,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T18:21:02Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Official n8n creator | Production-ready automation workflows \u2014 Agentic RAG, multi-KB AI agents, AI governance, and priva",
-    "id": "nenedesign/nenedesign",
-    "language": "\u2014",
-    "name": "nenedesign/nenedesign",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:18:47Z",
-    "url": "https://github.com/nenedesign/nenedesign"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -239,7 +311,7 @@
     "language": "\u2014",
     "name": "Veloresearch/VLS-32M-Context-Local-LLM",
     "stars": 1,
-    "updated_at": "2026-09-04T18:02:22Z",
+    "updated_at": "2026-09-04T18:55:18Z",
     "url": "https://github.com/Veloresearch/VLS-32M-Context-Local-LLM"
   },
   {
@@ -310,7 +382,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30468,
+    "stars": 30469,
     "updated_at": "2026-09-04T17:19:19Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -340,15 +412,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T17:08:46Z",
     "url": "https://github.com/RehanIlyas-dev/Omni-Context"
-  },
-  {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 33,
-    "updated_at": "2026-09-04T17:01:28Z",
-    "url": "https://github.com/maximilien/weave-cli"
   },
   {
     "description": "Native Rust port of M2M Vector Search \u2014 HRM2, HNSW, quantization. Superseded by splatdb.",
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T16:55:16Z",
     "url": "https://github.com/vishalChoudhary-git/ai-platform"
-  },
-  {
-    "description": "Vector search with uncertainty awareness \u2014 knowledge graph + HNSW + GPU in a single Rust binary",
-    "id": "schwabauerbriantomas-gif/splatdb",
-    "language": "Rust",
-    "name": "schwabauerbriantomas-gif/splatdb",
-    "stars": 0,
-    "updated_at": "2026-09-04T16:55:02Z",
-    "url": "https://github.com/schwabauerbriantomas-gif/splatdb"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6406,
-    "updated_at": "2026-09-04T18:39:55Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3285,
-    "updated_at": "2026-09-04T16:45:32Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4432,
-    "updated_at": "2026-09-04T17:04:03Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "\u672c\u5730\u7aef\u591a\u6a21\u614b AI \u63a8\u8ad6\u5f15\u64ce\uff1a\u7d50\u5408 BLIP \u8996\u89ba\u7279\u5fb5\u62bd\u53d6\u8207\u5bb9\u5668\u5316 Ollama Llama 3.2 \u7e41\u4e2d\u554f\u7b54\uff1b\u5167\u5efa\u7a7a\u9593\u5750\u6a19\u52d5\u614b\u9580\u6abb OCR \u6ffe\u9664\u908a\u7de3\u566a\u8072\uff0c\u642d\u914d MPS/CUDA \u986f\u5b58\u4e3b\u52d5\u6cbb\u7406\u8207 ChromaDB \u8a9e\u610f\u5411\u91cf\u6aa2\u7d22\uff0c\u78ba\u4fdd\u96f6\u8cc7\u6599\u6d29",
-    "id": "JeffLin0225/Demo-Python",
-    "language": "Python",
-    "name": "JeffLin0225/Demo-Python",
-    "stars": 0,
-    "updated_at": "2026-09-04T16:45:20Z",
-    "url": "https://github.com/JeffLin0225/Demo-Python"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-04T16:34:15Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16785,
-    "updated_at": "2026-09-04T17:59:20Z",
-    "url": "https://github.com/weaviate/weaviate"
   }
 ]
