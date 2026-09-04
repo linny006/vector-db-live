@@ -1,21 +1,48 @@
 [
   {
+    "description": "Local LLM server with 32M token context. Run any GGUF model on your own machine with a memory far larger than its window",
+    "id": "Veloresearch/VLS-32M-Context-Local-LLM",
+    "language": "\u2014",
+    "name": "Veloresearch/VLS-32M-Context-Local-LLM",
+    "stars": 1,
+    "updated_at": "2026-09-04T14:12:37Z",
+    "url": "https://github.com/Veloresearch/VLS-32M-Context-Local-LLM"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 57,
+    "updated_at": "2026-09-04T14:10:49Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-04T14:08:08Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 274,
+    "updated_at": "2026-09-04T14:15:13Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
     "description": "RAG context engine for retrieval-augmented workflows \u2014 ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe",
     "id": "RehanIlyas-dev/Omni-Context",
     "language": "Python",
     "name": "RehanIlyas-dev/Omni-Context",
     "stars": 0,
-    "updated_at": "2026-09-04T14:03:27Z",
+    "updated_at": "2026-09-04T14:04:09Z",
     "url": "https://github.com/RehanIlyas-dev/Omni-Context"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-09-04T14:01:06Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,8 +50,35 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-09-04T14:00:26Z",
+    "updated_at": "2026-09-04T14:03:50Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12926,
+    "updated_at": "2026-09-04T14:01:54Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-09-04T14:13:40Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-04T14:00:31Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-04T14:00:21Z",
+    "updated_at": "2026-09-04T14:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -50,8 +104,17 @@
     "language": "Rust",
     "name": "tuned-org-uk/arrowspace-rs",
     "stars": 42,
-    "updated_at": "2026-09-04T13:55:13Z",
+    "updated_at": "2026-09-04T14:13:28Z",
     "url": "https://github.com/tuned-org-uk/arrowspace-rs"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30459,
+    "updated_at": "2026-09-04T14:13:55Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
@@ -70,15 +133,6 @@
     "stars": 1127,
     "updated_at": "2026-09-04T13:52:22Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30460,
-    "updated_at": "2026-09-04T13:55:05Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje",
@@ -113,7 +167,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34381,
-    "updated_at": "2026-09-04T13:46:28Z",
+    "updated_at": "2026-09-04T14:13:13Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -133,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T13:42:15Z",
     "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-04T13:35:23Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 274,
-    "updated_at": "2026-09-04T13:39:05Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -185,17 +221,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16785,
-    "updated_at": "2026-09-04T14:00:10Z",
+    "updated_at": "2026-09-04T14:14:26Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-04T14:00:31Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -243,15 +270,6 @@
     "url": "https://github.com/interamps/broseidon"
   },
   {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12926,
-    "updated_at": "2026-09-04T14:01:54Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
     "id": "Artemon-line/ai-memory-hub",
     "language": "Python",
@@ -266,7 +284,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 78,
-    "updated_at": "2026-09-04T12:58:24Z",
+    "updated_at": "2026-09-04T14:08:03Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 13,
     "updated_at": "2026-09-04T12:35:26Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 841,
-    "updated_at": "2026-09-04T11:26:26Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T11:20:59Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
   }
 ]
