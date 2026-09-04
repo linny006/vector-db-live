@@ -1,5 +1,50 @@
 [
   {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-09-04T00:15:02Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 120,
+    "updated_at": "2026-09-04T00:11:58Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
+    "id": "edumgt/docker-class",
+    "language": "Python",
+    "name": "edumgt/docker-class",
+    "stars": 5,
+    "updated_at": "2026-09-04T00:01:33Z",
+    "url": "https://github.com/edumgt/docker-class"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T00:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T00:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-03T23:57:46Z",
+    "updated_at": "2026-09-04T00:15:08Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Python",
     "name": "SuperagenticAI/turboagents",
     "stars": 11,
-    "updated_at": "2026-09-03T23:50:01Z",
+    "updated_at": "2026-09-04T00:00:36Z",
     "url": "https://github.com/SuperagenticAI/turboagents"
   },
   {
@@ -41,26 +86,8 @@
     "language": "TypeScript",
     "name": "xDarkicex/openclaw-memory-libravdb",
     "stars": 10,
-    "updated_at": "2026-09-03T23:45:33Z",
+    "updated_at": "2026-09-04T00:08:29Z",
     "url": "https://github.com/xDarkicex/openclaw-memory-libravdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-03T23:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-03T23:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -77,7 +104,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-03T23:40:52Z",
+    "updated_at": "2026-09-04T00:14:24Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -85,7 +112,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8174,
+    "stars": 8175,
     "updated_at": "2026-09-03T23:40:33Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30442,
-    "updated_at": "2026-09-03T23:59:34Z",
+    "updated_at": "2026-09-04T00:11:09Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9225,
-    "updated_at": "2026-09-03T23:47:44Z",
+    "updated_at": "2026-09-04T00:04:40Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-03T20:18:15Z",
     "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
-  },
-  {
-    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
-    "id": "eugen-goebel/smart-doc-qa",
-    "language": "Python",
-    "name": "eugen-goebel/smart-doc-qa",
-    "stars": 0,
-    "updated_at": "2026-09-03T20:10:01Z",
-    "url": "https://github.com/eugen-goebel/smart-doc-qa"
-  },
-  {
-    "description": "An AI-powered Agentic RAG Research Assistant that answers questions from uploaded research papers using intelligent docu",
-    "id": "azqajafardev/agentic-rag-research-assistant",
-    "language": "Python",
-    "name": "azqajafardev/agentic-rag-research-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-03T19:57:06Z",
-    "url": "https://github.com/azqajafardev/agentic-rag-research-assistant"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-03T22:54:57Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   }
 ]
