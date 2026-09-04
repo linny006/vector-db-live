@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-04T19:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Official n8n creator | Production-ready automation workflows \u2014 Agentic RAG, multi-KB AI agents, AI governance, and priva",
+    "id": "nenedesign/nenedesign",
+    "language": "\u2014",
+    "name": "nenedesign/nenedesign",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:13:16Z",
+    "url": "https://github.com/nenedesign/nenedesign"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:12:39Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "CLI RAG agent over a local corpus: cited answers, confidence gating that refuses without evidence, prompt-injection defe",
+    "id": "ahmed-hashim-pro/rag-knowledge-agent",
+    "language": "Python",
+    "name": "ahmed-hashim-pro/rag-knowledge-agent",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:12:24Z",
+    "url": "https://github.com/ahmed-hashim-pro/rag-knowledge-agent"
+  },
+  {
+    "description": "AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje",
+    "id": "karthikbilaspur/ai_learning",
+    "language": "TypeScript",
+    "name": "karthikbilaspur/ai_learning",
+    "stars": 2,
+    "updated_at": "2026-09-04T19:11:44Z",
+    "url": "https://github.com/karthikbilaspur/ai_learning"
+  },
+  {
+    "description": "Local-first governed memory for AI agents via MCP. SQLite vectors, Kuzu relationships, bounded Recall, and a local maint",
+    "id": "ElefanteAI/elefante",
+    "language": "Python",
+    "name": "ElefanteAI/elefante",
+    "stars": 1,
+    "updated_at": "2026-09-04T19:11:38Z",
+    "url": "https://github.com/ElefanteAI/elefante"
+  },
+  {
+    "description": "Local-first personal memory + RAG engine - the reusable AI brain for future projects.",
+    "id": "zaidwhy/personal-llm",
+    "language": "Python",
+    "name": "zaidwhy/personal-llm",
+    "stars": 2,
+    "updated_at": "2026-09-04T19:09:53Z",
+    "url": "https://github.com/zaidwhy/personal-llm"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-04T19:06:20Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 33,
+    "updated_at": "2026-09-04T19:02:06Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
+    "id": "api-evangelist/datastax",
+    "language": "\u2014",
+    "name": "api-evangelist/datastax",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:02:04Z",
+    "url": "https://github.com/api-evangelist/datastax"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-04T19:09:24Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T19:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
     "id": "api-evangelist/crate-io",
     "language": "\u2014",
@@ -25,15 +133,6 @@
     "stars": 5,
     "updated_at": "2026-09-04T18:56:12Z",
     "url": "https://github.com/amirhosssein0/ai-platform-lab"
-  },
-  {
-    "description": "Official n8n creator | Production-ready automation workflows \u2014 Agentic RAG, multi-KB AI agents, AI governance, and priva",
-    "id": "nenedesign/nenedesign",
-    "language": "\u2014",
-    "name": "nenedesign/nenedesign",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:55:04Z",
-    "url": "https://github.com/nenedesign/nenedesign"
   },
   {
     "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
@@ -63,24 +162,6 @@
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:56:58Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-09-04T18:45:47Z",
-    "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
     "id": "23skdu/longbow",
     "language": "Go",
@@ -88,33 +169,6 @@
     "stars": 13,
     "updated_at": "2026-09-04T18:46:08Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 33,
-    "updated_at": "2026-09-04T18:45:31Z",
-    "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T18:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-04T18:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
@@ -140,7 +194,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1129,
-    "updated_at": "2026-09-04T18:56:27Z",
+    "updated_at": "2026-09-04T19:06:39Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -151,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-09-04T18:38:29Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-04T18:36:38Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
@@ -180,15 +225,6 @@
     "url": "https://github.com/zaidwhy/recall"
   },
   {
-    "description": "Local-first personal memory + RAG engine - the reusable AI brain for future projects.",
-    "id": "zaidwhy/personal-llm",
-    "language": "Python",
-    "name": "zaidwhy/personal-llm",
-    "stars": 2,
-    "updated_at": "2026-09-04T18:29:40Z",
-    "url": "https://github.com/zaidwhy/personal-llm"
-  },
-  {
     "description": "Semantic codebase assistant for GitHub repositories powered by RAG, pgvector, and Gemini.",
     "id": "Mxnrxjj/talk-to-my-repo",
     "language": "TypeScript",
@@ -202,7 +238,7 @@
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
-    "stars": 9229,
+    "stars": 9230,
     "updated_at": "2026-09-04T18:26:57Z",
     "url": "https://github.com/paradedb/paradedb"
   },
@@ -401,7 +437,7 @@
     "language": "Rust",
     "name": "skyzh/write-you-a-vector-db",
     "stars": 794,
-    "updated_at": "2026-09-04T17:56:52Z",
+    "updated_at": "2026-09-04T19:01:59Z",
     "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T17:08:46Z",
     "url": "https://github.com/RehanIlyas-dev/Omni-Context"
-  },
-  {
-    "description": "Native Rust port of M2M Vector Search \u2014 HRM2, HNSW, quantization. Superseded by splatdb.",
-    "id": "schwabauerbriantomas-gif/m2m-rust",
-    "language": "Rust",
-    "name": "schwabauerbriantomas-gif/m2m-rust",
-    "stars": 0,
-    "updated_at": "2026-09-04T17:00:18Z",
-    "url": "https://github.com/schwabauerbriantomas-gif/m2m-rust"
-  },
-  {
-    "description": "Professional PySide6 desktop UI for SplatDB vector search \u2014 multi-model embeddings, knowledge graph, spatial memory, OCR",
-    "id": "schwabauerbriantomas-gif/splatdb-ui",
-    "language": "Python",
-    "name": "schwabauerbriantomas-gif/splatdb-ui",
-    "stars": 0,
-    "updated_at": "2026-09-04T16:58:34Z",
-    "url": "https://github.com/schwabauerbriantomas-gif/splatdb-ui"
-  },
-  {
-    "description": "Postgres MCP Server",
-    "id": "devopam/MCPg",
-    "language": "Python",
-    "name": "devopam/MCPg",
-    "stars": 9,
-    "updated_at": "2026-09-04T16:57:14Z",
-    "url": "https://github.com/devopam/MCPg"
-  },
-  {
-    "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
-    "id": "vishalChoudhary-git/ai-platform",
-    "language": "Python",
-    "name": "vishalChoudhary-git/ai-platform",
-    "stars": 0,
-    "updated_at": "2026-09-04T16:55:16Z",
-    "url": "https://github.com/vishalChoudhary-git/ai-platform"
   }
 ]
