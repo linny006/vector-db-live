@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-04T12:00:28Z",
+    "updated_at": "2026-09-04T12:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,89 @@
     "language": "Python",
     "name": "RehanIlyas-dev/Omni-Context",
     "stars": 0,
-    "updated_at": "2026-09-04T11:59:17Z",
+    "updated_at": "2026-09-04T12:13:31Z",
     "url": "https://github.com/RehanIlyas-dev/Omni-Context"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-04T12:13:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12926,
+    "updated_at": "2026-09-04T12:11:47Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-09-04T12:11:34Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
+    "id": "Dakera-AI/dakera-deploy",
+    "language": "JavaScript",
+    "name": "Dakera-AI/dakera-deploy",
+    "stars": 18,
+    "updated_at": "2026-09-04T12:09:57Z",
+    "url": "https://github.com/Dakera-AI/dakera-deploy"
+  },
+  {
+    "description": "Wire an AI agent to live product data over the Apify MCP server: price, stock, rating and images as structured fields. R",
+    "id": "luispintoapify/ecommerce-agent-starter",
+    "language": "Python",
+    "name": "luispintoapify/ecommerce-agent-starter",
+    "stars": 3,
+    "updated_at": "2026-09-04T12:08:58Z",
+    "url": "https://github.com/luispintoapify/ecommerce-agent-starter"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-04T12:14:43Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 78,
+    "updated_at": "2026-09-04T12:02:11Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1883,
+    "updated_at": "2026-09-04T12:01:47Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T12:00:45Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -23,7 +104,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13018,
-    "updated_at": "2026-09-04T11:58:43Z",
+    "updated_at": "2026-09-04T12:02:38Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T11:56:16Z",
     "url": "https://github.com/SlavaKlkv/local_knowledge_rag"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-04T11:55:57Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -68,7 +140,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 23,
-    "updated_at": "2026-09-04T11:48:55Z",
+    "updated_at": "2026-09-04T12:09:19Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -77,26 +149,8 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-09-04T11:47:54Z",
+    "updated_at": "2026-09-04T12:02:15Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T11:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-09-04T11:39:46Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
     "description": "Business Document Intelligence backend built with Python and FastAPI for structured financial extraction, validation, em",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T11:39:25Z",
     "url": "https://github.com/keshavgupta-max/Agent-Document-Extractor-Financial-Documents-"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 78,
-    "updated_at": "2026-09-04T11:37:42Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -133,24 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T11:35:08Z",
     "url": "https://github.com/maniesh-lab/ragdocs"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1883,
-    "updated_at": "2026-09-04T11:33:51Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-04T11:33:42Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Autonomous Zero-Disk Policy Intelligence RAG Microservice built with FastAPI, Qdrant Cloud, FastEmbed & Groq (ALLaM-2-7b",
@@ -239,7 +266,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30457,
-    "updated_at": "2026-09-04T11:59:54Z",
+    "updated_at": "2026-09-04T12:08:04Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Python",
     "name": "redis/redis-vl-python",
     "stars": 425,
-    "updated_at": "2026-09-04T11:52:31Z",
+    "updated_at": "2026-09-04T12:08:37Z",
     "url": "https://github.com/redis/redis-vl-python"
   },
   {
@@ -349,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T10:19:01Z",
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 18,
-    "updated_at": "2026-09-04T10:16:20Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
   },
   {
     "description": "Open-source RAG platform for pluggable document ingestion, multimodal indexing, hybrid search, tenant-isolated APIs, RBA",
@@ -430,23 +448,5 @@
     "stars": 34380,
     "updated_at": "2026-09-04T11:58:47Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7076,
-    "updated_at": "2026-09-04T11:19:38Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 3,
-    "updated_at": "2026-09-04T09:59:30Z",
-    "url": "https://github.com/FraiseHQ/fraise"
   }
 ]
