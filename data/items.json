@@ -1,12 +1,48 @@
 [
   {
+    "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
+    "id": "RoxyAPI/ai-spiritual-companion",
+    "language": "TypeScript",
+    "name": "RoxyAPI/ai-spiritual-companion",
+    "stars": 0,
+    "updated_at": "2026-09-04T00:42:11Z",
+    "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
+  },
+  {
+    "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
+    "id": "tryAGI/Turbopuffer",
+    "language": "C#",
+    "name": "tryAGI/Turbopuffer",
+    "stars": 0,
+    "updated_at": "2026-09-04T00:36:15Z",
+    "url": "https://github.com/tryAGI/Turbopuffer"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 120,
+    "updated_at": "2026-09-04T00:31:26Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-04T00:26:33Z",
+    "updated_at": "2026-09-04T00:30:56Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-04T00:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Persistent local memory engine for OpenClaw \u2014 replaces default memory-system with a full context lifecycle: hybrid vecto",
@@ -63,15 +99,6 @@
     "url": "https://github.com/justinklein2001/my-tech-notes"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-04T00:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A production style agentic AI system that resolves Siemens industrial automation support tickets against a real 500 page",
     "id": "shweta-dataverse/agentic-technical-support-copilot",
     "language": "Python",
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-04T00:12:15Z",
     "url": "https://github.com/shweta-dataverse/agentic-technical-support-copilot"
-  },
-  {
-    "description": "The documentation for SurrealDB, powered by Astro",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 120,
-    "updated_at": "2026-09-04T00:11:58Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "Windows WSL2\ubd80\ud130 Docker\u00b7Compose, \uc628\ud504\ub808\ubbf8\uc2a4 DevSecOps, Ollama\u00b7RAG \uae30\ubc18 AI \uc560\ud50c\ub9ac\ucf00\uc774\uc158 \uac1c\ubc1c\uae4c\uc9c0 \ub2e4\ub8e8\ub294 \ud55c\uad6d\uc5b4 \uc2e4\uc2b5 \uad50\uc721 \uc790\ub8cc",
@@ -103,7 +121,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 45958,
+    "stars": 45959,
     "updated_at": "2026-09-03T23:59:30Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -140,7 +158,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-04T00:25:12Z",
+    "updated_at": "2026-09-04T00:33:21Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30442,
-    "updated_at": "2026-09-04T00:11:09Z",
+    "updated_at": "2026-09-04T00:33:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -360,15 +378,6 @@
     "url": "https://github.com/tryAGI/Weaviate"
   },
   {
-    "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
-    "id": "RoxyAPI/ai-spiritual-companion",
-    "language": "TypeScript",
-    "name": "RoxyAPI/ai-spiritual-companion",
-    "stars": 0,
-    "updated_at": "2026-09-03T21:04:21Z",
-    "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
-  },
-  {
     "description": "Persistent AI memory with crossover \u2014 your AI at home shares the same memory as your AI at work. What one LLM learns, al",
     "id": "RonnyTome/cube-memory-sdk",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 590,
     "updated_at": "2026-09-03T20:32:18Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
-  },
-  {
-    "description": "Local-first encrypted memory for AI agents",
-    "id": "yp3y5akh0v/citadel",
-    "language": "Rust",
-    "name": "yp3y5akh0v/citadel",
-    "stars": 3,
-    "updated_at": "2026-09-03T20:30:10Z",
-    "url": "https://github.com/yp3y5akh0v/citadel"
   }
 ]
