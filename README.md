@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 23:30 UTC
+> ⏰ Last updated: 2026-09-05 23:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11358 | Rust | 2026-09-05 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 2 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1884 | Go | 2026-09-05 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 3 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-09-05 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 4 | [schmitech/orbit](https://github.com/schmitech/orbit) | 343 | Python | 2026-09-05 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 5 | [eugen-goebel/smart-doc-qa](https://github.com/eugen-goebel/smart-doc-qa) | 0 | Python | 2026-09-05 | RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 8 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-05 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
-| 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11358 | Rust | 2026-09-05 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 5 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1884 | Go | 2026-09-05 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 6 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-09-05 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 7 | [schmitech/orbit](https://github.com/schmitech/orbit) | 343 | Python | 2026-09-05 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 8 | [eugen-goebel/smart-doc-qa](https://github.com/eugen-goebel/smart-doc-qa) | 0 | Python | 2026-09-05 | RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers |
+| 9 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-05 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
 | 10 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-05 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
 | 11 | [structured-world/coordinode-python](https://github.com/structured-world/coordinode-python) | 0 | Python | 2026-09-05 | Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode — AI-native graph + vector + full-text  |
 | 12 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-09-05 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
