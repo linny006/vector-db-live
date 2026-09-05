@@ -1,5 +1,41 @@
 [
   {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 237,
+    "updated_at": "2026-09-05T11:08:00Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-05T11:06:51Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 7,
+    "updated_at": "2026-09-05T11:06:20Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T11:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +59,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-05T10:56:49Z",
+    "updated_at": "2026-09-05T11:07:52Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -54,15 +90,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T10:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\u041b\u043e\u043a\u0430\u043b\u044c\u043d\u0430\u044f RAG-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u0434\u043b\u044f \u043f\u043e\u0438\u0441\u043a\u0430 \u043f\u043e \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u043c \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u043c \u0441 \u0441\u0441\u044b\u043b\u043a\u0430\u043c\u0438 \u043d\u0430 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0438.",
     "id": "SlavaKlkv/local_knowledge_rag",
     "language": "Python",
@@ -88,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T10:36:21Z",
     "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-05T10:33:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 237,
-    "updated_at": "2026-09-05T10:52:33Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
@@ -140,7 +149,7 @@
     "language": "Rust",
     "name": "skyzh/write-you-a-vector-db",
     "stars": 795,
-    "updated_at": "2026-09-05T10:21:36Z",
+    "updated_at": "2026-09-05T11:00:58Z",
     "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 1925,
-    "updated_at": "2026-09-05T09:58:29Z",
+    "updated_at": "2026-09-05T11:13:26Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-05T07:25:48Z",
     "url": "https://github.com/Omen-bit/WCEHackathon2026_NeuroNauts"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1129,
-    "updated_at": "2026-09-05T07:28:13Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
