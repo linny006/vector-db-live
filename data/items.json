@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-05T17:30:20Z",
+    "updated_at": "2026-09-05T17:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-09-05T17:38:53Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-05T17:36:56Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34398,
+    "updated_at": "2026-09-05T17:34:22Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-05T17:33:40Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T17:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -34,15 +79,6 @@
     "stars": 5,
     "updated_at": "2026-09-05T17:22:52Z",
     "url": "https://github.com/Afnanksalal/co-op"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T17:22:10Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-tenant enterprise RAG knowledge workspace built from scratch with FastAPI, PostgreSQL, Qdrant, custom chunking, em",
@@ -81,6 +117,15 @@
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30491,
+    "updated_at": "2026-09-05T17:11:39Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "\ud83e\udde0 RepoMind \u2014 A RAG-powered chatbot that lets you ask natural-language questions about any GitHub repository, with answer",
     "id": "gorigesravani288-cmd/RepoMind",
     "language": "Python",
@@ -106,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-09-05T17:07:01Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-05T17:06:48Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Typed payment-event chunking and vector ingestion with explicit audit review decisions.",
@@ -149,7 +185,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 90,
-    "updated_at": "2026-09-05T17:28:55Z",
+    "updated_at": "2026-09-05T17:33:24Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -324,15 +360,6 @@
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-05T16:04:47Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
     "id": "SeekStorm/SeekStorm",
     "language": "Rust",
@@ -369,24 +396,6 @@
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34397,
-    "updated_at": "2026-09-05T17:00:44Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30490,
-    "updated_at": "2026-09-05T17:11:39Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "A Flask-based Investment Portfolio Tracker with an agentic AI assistant. Implements layered backend architecture, portfo",
     "id": "jyothi-basu/investment-portfolio-tracker",
     "language": "Python",
@@ -418,7 +427,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8183,
+    "stars": 8182,
     "updated_at": "2026-09-05T15:21:06Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T15:18:10Z",
     "url": "https://github.com/1Vewton/WikiSpider"
-  },
-  {
-    "description": "(module) A Go embedded database with Redis-like commands, JSON field operations, and semantic vector search",
-    "id": "pardnchiu/ToriiDB",
-    "language": "Go",
-    "name": "pardnchiu/ToriiDB",
-    "stars": 3,
-    "updated_at": "2026-09-05T15:09:06Z",
-    "url": "https://github.com/pardnchiu/ToriiDB"
   }
 ]
