@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 08:30 UTC
+> ⏰ Last updated: 2026-09-05 08:31 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | 1908 | Rust | 2026-09-05 | SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust. |
-| 3 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 1925 | Python | 2026-09-05 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
-| 4 | [Hamna-Munir/04-AI-Knowledge-Assistant](https://github.com/Hamna-Munir/04-AI-Knowledge-Assistant) | 1 | — | 2026-09-05 | AI Knowledge Assistant with semantic search over documents — embeddings, ChromaDB vector storage, and a full RAG pipelin |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 1925 | Python | 2026-09-05 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | 1908 | Rust | 2026-09-05 | SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust. |
+| 5 | [Hamna-Munir/04-AI-Knowledge-Assistant](https://github.com/Hamna-Munir/04-AI-Knowledge-Assistant) | 1 | — | 2026-09-05 | AI Knowledge Assistant with semantic search over documents — embeddings, ChromaDB vector storage, and a full RAG pipelin |
 | 6 | [rafapastor/embedding-provenance](https://github.com/rafapastor/embedding-provenance) | 0 | Python | 2026-09-05 | Provenance and integrity metadata for embedding indexes: an open profile, a compatibility predicate, and a pgvector dete |
 | 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 8 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-09-05 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
