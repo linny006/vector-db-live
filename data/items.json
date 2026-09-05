@@ -1,5 +1,68 @@
 [
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30484,
+    "updated_at": "2026-09-05T10:12:58Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-05T10:07:32Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-05T10:05:34Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "An end-to-end multimodal RAG chatbot that lets you chat with a YouTube video using both its transcript and its frames. B",
+    "id": "viochris/youtube-multimodal-rag-chatbot",
+    "language": "Python",
+    "name": "viochris/youtube-multimodal-rag-chatbot",
+    "stars": 0,
+    "updated_at": "2026-09-05T10:04:33Z",
+    "url": "https://github.com/viochris/youtube-multimodal-rag-chatbot"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-05T10:04:13Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
+    "id": "maniesh-lab/ragdocs",
+    "language": "Python",
+    "name": "maniesh-lab/ragdocs",
+    "stars": 0,
+    "updated_at": "2026-09-05T10:01:39Z",
+    "url": "https://github.com/maniesh-lab/ragdocs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T10:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,15 +99,6 @@
     "url": "https://github.com/StarTrail-org/LEANN"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-05T09:58:56Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
     "id": "inlaySQL/inlaysql",
     "language": "Rust",
@@ -52,15 +106,6 @@
     "stars": 2,
     "updated_at": "2026-09-05T09:53:21Z",
     "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
-    "id": "maniesh-lab/ragdocs",
-    "language": "Python",
-    "name": "maniesh-lab/ragdocs",
-    "stars": 0,
-    "updated_at": "2026-09-05T09:52:37Z",
-    "url": "https://github.com/maniesh-lab/ragdocs"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -79,15 +124,6 @@
     "stars": 2288,
     "updated_at": "2026-09-05T09:47:20Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T09:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -113,26 +149,8 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 23,
-    "updated_at": "2026-09-05T09:33:44Z",
+    "updated_at": "2026-09-05T10:04:06Z",
     "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-05T09:33:18Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30483,
-    "updated_at": "2026-09-05T09:27:40Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T06:27:16Z",
     "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-09-05T06:26:53Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-09-05T06:25:55Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
   }
 ]
