@@ -1,5 +1,59 @@
 [
   {
+    "description": "Provenance and integrity metadata for embedding indexes: an open profile, a compatibility predicate, and a pgvector dete",
+    "id": "rafapastor/embedding-provenance",
+    "language": "Python",
+    "name": "rafapastor/embedding-provenance",
+    "stars": 0,
+    "updated_at": "2026-09-05T08:11:31Z",
+    "url": "https://github.com/rafapastor/embedding-provenance"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-05T08:10:14Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-05T08:10:07Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 275,
+    "updated_at": "2026-09-05T08:05:50Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-09-05T08:00:43Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T08:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30480,
-    "updated_at": "2026-09-05T07:53:31Z",
+    "updated_at": "2026-09-05T08:05:51Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Rust",
     "name": "SeekStorm/SeekStorm",
     "stars": 1908,
-    "updated_at": "2026-09-05T07:50:59Z",
+    "updated_at": "2026-09-05T08:02:23Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 8,
     "updated_at": "2026-09-05T07:51:58Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T07:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udde0 Brain Plug \u2014 Enterprise Multi-Tenant AI Agent & Knowledge Platform",
@@ -97,15 +142,6 @@
     "stars": 76,
     "updated_at": "2026-09-05T07:38:05Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-05T07:33:32Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -142,6 +178,15 @@
     "stars": 1129,
     "updated_at": "2026-09-05T07:28:13Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1925,
+    "updated_at": "2026-09-05T07:10:52Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
     "description": "Agentic hybrid-RAG auditor for SEC 10-K filings \u2014 dense+BM25 retrieval, DPO-tuned Llama-3 extraction, zero-hallucination",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-05T06:05:37Z",
     "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-05T06:05:22Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-09-05T06:04:53Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-09-05T06:03:45Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-09-05T05:59:40Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
-    "id": "britorbs/consciousdb",
-    "language": "Python",
-    "name": "britorbs/consciousdb",
-    "stars": 0,
-    "updated_at": "2026-09-05T05:57:47Z",
-    "url": "https://github.com/britorbs/consciousdb"
   }
 ]
