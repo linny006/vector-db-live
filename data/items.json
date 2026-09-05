@@ -5,8 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-05T03:45:19Z",
+    "updated_at": "2026-09-05T04:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
+    "id": "hoffresearch/nest",
+    "language": "Rust",
+    "name": "hoffresearch/nest",
+    "stars": 11,
+    "updated_at": "2026-09-05T03:59:20Z",
+    "url": "https://github.com/hoffresearch/nest"
   },
   {
     "description": "Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG. ",
@@ -14,8 +23,53 @@
     "language": "Go",
     "name": "1Vewton/WikiSpider",
     "stars": 0,
-    "updated_at": "2026-09-05T03:43:45Z",
+    "updated_at": "2026-09-05T03:54:39Z",
     "url": "https://github.com/1Vewton/WikiSpider"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-05T03:54:19Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1129,
+    "updated_at": "2026-09-05T03:59:56Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-09-05T03:48:48Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-05T03:48:25Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T03:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -27,15 +81,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-05T03:33:49Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -45,40 +90,13 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-05T03:30:49Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T03:30:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9231,
-    "updated_at": "2026-09-05T03:45:01Z",
+    "updated_at": "2026-09-05T03:47:39Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1129,
-    "updated_at": "2026-09-05T03:38:29Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Chatbot RAG cho t\u00e0i li\u1ec7u ti\u1ebfng Vi\u1ec7t \u2014 tr\u00edch ngu\u1ed3n, v\u00e0 bi\u1ebft t\u1eeb ch\u1ed1i khi t\u00e0i li\u1ec7u kh\u00f4ng c\u00f3 th\u00f4ng tin",
@@ -194,7 +212,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-05T02:10:33Z",
+    "updated_at": "2026-09-05T03:59:51Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -221,7 +239,7 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 8,
-    "updated_at": "2026-09-05T03:41:31Z",
+    "updated_at": "2026-09-05T03:45:46Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T23:34:19Z",
     "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-09-04T23:34:02Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-09-04T23:32:59Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
   }
 ]
