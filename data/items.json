@@ -1,11 +1,56 @@
 [
   {
+    "description": "A typed service that chunks creator transcripts, embeds them, and delivers stable vector records.",
+    "id": "TobiasHawkins9231/creator-media-vector-pipeline",
+    "language": "TypeScript",
+    "name": "TobiasHawkins9231/creator-media-vector-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-05T17:58:30Z",
+    "url": "https://github.com/TobiasHawkins9231/creator-media-vector-pipeline"
+  },
+  {
+    "description": "Demo project. Semantic audio search for journalists",
+    "id": "hordiales/audio-semantic-search-for-journalists",
+    "language": "Python",
+    "name": "hordiales/audio-semantic-search-for-journalists",
+    "stars": 0,
+    "updated_at": "2026-09-05T17:57:05Z",
+    "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
+  },
+  {
+    "description": "A local RAG system for **image-based question answering**, using OCR, vector embeddings, and Claude LLMs to extract, ret",
+    "id": "Somnath-maity/Image-OCR",
+    "language": "JavaScript",
+    "name": "Somnath-maity/Image-OCR",
+    "stars": 0,
+    "updated_at": "2026-09-05T17:51:29Z",
+    "url": "https://github.com/Somnath-maity/Image-OCR"
+  },
+  {
+    "description": "A privacy-first, zero-data-training RAG application powered by FastAPI, React, ChromaDB hybrid search (BM25 + Dense Vect",
+    "id": "Sudhanshub27/rag-system",
+    "language": "Python",
+    "name": "Sudhanshub27/rag-system",
+    "stars": 1,
+    "updated_at": "2026-09-05T17:49:34Z",
+    "url": "https://github.com/Sudhanshub27/rag-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T17:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-05T17:45:21Z",
+    "updated_at": "2026-09-05T18:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-05T17:36:56Z",
+    "updated_at": "2026-09-05T17:59:51Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -31,7 +76,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34398,
+    "stars": 34399,
     "updated_at": "2026-09-05T17:34:22Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -43,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-09-05T17:33:40Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T17:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -275,7 +311,7 @@
     "language": "Rust",
     "name": "skyzh/vector-db-from-scratch",
     "stars": 796,
-    "updated_at": "2026-09-05T17:08:00Z",
+    "updated_at": "2026-09-05T17:50:34Z",
     "url": "https://github.com/skyzh/vector-db-from-scratch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T15:30:19Z",
     "url": "https://github.com/ussamasaeed/AI_Powered_Canals_Monitoring_System"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-05T15:29:43Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8182,
-    "updated_at": "2026-09-05T15:21:06Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 237,
-    "updated_at": "2026-09-05T15:19:14Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG. ",
-    "id": "1Vewton/WikiSpider",
-    "language": "Go",
-    "name": "1Vewton/WikiSpider",
-    "stars": 0,
-    "updated_at": "2026-09-05T15:18:10Z",
-    "url": "https://github.com/1Vewton/WikiSpider"
   }
 ]
