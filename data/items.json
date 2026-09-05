@@ -1,5 +1,14 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T04:28:17Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A practical handbook covering RAG, LLMs, GenAI, and production system design concepts for interview preparation.",
     "id": "sherozshaikh/rag-llm-interview-handbook",
     "language": "\u2014",
@@ -36,21 +45,12 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T04:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-05T04:15:21Z",
+    "updated_at": "2026-09-05T04:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -86,7 +86,7 @@
     "language": "Rust",
     "name": "hoffresearch/nest",
     "stars": 11,
-    "updated_at": "2026-09-05T04:26:38Z",
+    "updated_at": "2026-09-05T04:29:17Z",
     "url": "https://github.com/hoffresearch/nest"
   },
   {
