@@ -1,11 +1,38 @@
 [
   {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-05T10:30:15Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T10:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T10:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30484,
-    "updated_at": "2026-09-05T10:12:58Z",
+    "updated_at": "2026-09-05T10:18:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -36,15 +63,6 @@
     "url": "https://github.com/viochris/youtube-multimodal-rag-chatbot"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-05T10:04:13Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
     "id": "maniesh-lab/ragdocs",
     "language": "Python",
@@ -52,24 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T10:01:39Z",
     "url": "https://github.com/maniesh-lab/ragdocs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T10:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T10:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",

@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 10:15 UTC
+> ⏰ Last updated: 2026-09-05 10:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,14 +42,14 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30484 | Python | 2026-09-05 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 3 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-09-05 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 4 | [viochris/youtube-multimodal-rag-chatbot](https://github.com/viochris/youtube-multimodal-rag-chatbot) | 0 | Python | 2026-09-05 | An end-to-end multimodal RAG chatbot that lets you chat with a YouTube video using both its transcript and its frames. B |
-| 5 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-05 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
-| 6 | [maniesh-lab/ragdocs](https://github.com/maniesh-lab/ragdocs) | 0 | Python | 2026-09-05 | RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 8 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-05 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30484 | Python | 2026-09-05 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 6 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-09-05 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 7 | [viochris/youtube-multimodal-rag-chatbot](https://github.com/viochris/youtube-multimodal-rag-chatbot) | 0 | Python | 2026-09-05 | An end-to-end multimodal RAG chatbot that lets you chat with a YouTube video using both its transcript and its frames. B |
+| 8 | [maniesh-lab/ragdocs](https://github.com/maniesh-lab/ragdocs) | 0 | Python | 2026-09-05 | RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita |
 | 9 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-09-05 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
 | 10 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | 254 | Go | 2026-09-05 | A pure-Go, single-file AI memory and knowledge graph library and plugin. |
 | 11 | [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) | 12889 | Python | 2026-09-05 | [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while  |
