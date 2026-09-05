@@ -1,5 +1,68 @@
 [
   {
+    "description": "build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system",
+    "id": "skyzh/write-you-a-vector-db",
+    "language": "Rust",
+    "name": "skyzh/write-you-a-vector-db",
+    "stars": 795,
+    "updated_at": "2026-09-05T11:27:41Z",
+    "url": "https://github.com/skyzh/write-you-a-vector-db"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1907,
+    "updated_at": "2026-09-05T11:26:14Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1883,
+    "updated_at": "2026-09-05T11:20:56Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1925,
+    "updated_at": "2026-09-05T11:18:24Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-05T11:15:58Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T11:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T11:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -27,24 +90,6 @@
     "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T11:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T11:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -52,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-09-05T10:59:26Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-05T11:07:52Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
@@ -130,7 +166,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1864,
+    "stars": 1865,
     "updated_at": "2026-09-05T10:31:16Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T10:22:21Z",
     "url": "https://github.com/Pvnn/ivf-approximate-nearest-neighbor-search"
-  },
-  {
-    "description": "build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system",
-    "id": "skyzh/write-you-a-vector-db",
-    "language": "Rust",
-    "name": "skyzh/write-you-a-vector-db",
-    "stars": 795,
-    "updated_at": "2026-09-05T11:00:58Z",
-    "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -243,21 +270,12 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1925,
-    "updated_at": "2026-09-05T11:13:26Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34395,
-    "updated_at": "2026-09-05T09:40:18Z",
+    "updated_at": "2026-09-05T11:26:55Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -270,15 +288,6 @@
     "url": "https://github.com/Cognipeer/console"
   },
   {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1907,
-    "updated_at": "2026-09-05T09:26:29Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
     "description": "Chatbot RAG cho t\u00e0i li\u1ec7u ti\u1ebfng Vi\u1ec7t \u2014 tr\u00edch ngu\u1ed3n, v\u00e0 bi\u1ebft t\u1eeb ch\u1ed1i khi t\u00e0i li\u1ec7u kh\u00f4ng c\u00f3 th\u00f4ng tin",
     "id": "akumonzzzz/vietnamese-docs-rag-chatbot",
     "language": "Python",
@@ -286,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T09:22:32Z",
     "url": "https://github.com/akumonzzzz/vietnamese-docs-rag-chatbot"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1883,
-    "updated_at": "2026-09-05T09:21:02Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Self-hosted RAG x LLM Wiki knowledge base framework: document parsing/chunking/vectorization, knowledge graph, hybrid re",
