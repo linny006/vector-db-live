@@ -1,11 +1,65 @@
 [
   {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 254,
+    "updated_at": "2026-09-05T05:28:40Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti",
+    "id": "rvarun03/ARIOS",
+    "language": "Python",
+    "name": "rvarun03/ARIOS",
+    "stars": 0,
+    "updated_at": "2026-09-05T05:20:59Z",
+    "url": "https://github.com/rvarun03/ARIOS"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 23,
+    "updated_at": "2026-09-05T05:19:46Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-05T05:19:16Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-05T05:16:12Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T05:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-05T05:15:19Z",
+    "updated_at": "2026-09-05T05:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -63,24 +117,6 @@
     "url": "https://github.com/One-Semurg/Semurg-Benchmark-Suite"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T05:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI Research Intelligence OS built with FastAPI, NLP, Transformers, semantic search, vector database, and RAG for ingesti",
-    "id": "rvarun03/ARIOS",
-    "language": "Python",
-    "name": "rvarun03/ARIOS",
-    "stars": 0,
-    "updated_at": "2026-09-05T04:59:55Z",
-    "url": "https://github.com/rvarun03/ARIOS"
-  },
-  {
     "description": "Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG. ",
     "id": "1Vewton/WikiSpider",
     "language": "Go",
@@ -122,7 +158,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8182,
-    "updated_at": "2026-09-05T04:40:04Z",
+    "updated_at": "2026-09-05T05:29:53Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -378,24 +414,6 @@
     "url": "https://github.com/nishanthrjn/TalentBot"
   },
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-05T00:39:17Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-05T00:37:11Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
     "description": "An end-to-end multimodal RAG chatbot that lets you chat with a YouTube video using both its transcript and its frames. B",
     "id": "viochris/youtube-multimodal-rag-chatbot",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-04T23:58:30Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
-    "id": "schwichtgit/ai-resume",
-    "language": "Python",
-    "name": "schwichtgit/ai-resume",
-    "stars": 5,
-    "updated_at": "2026-09-04T23:54:25Z",
-    "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-09-04T23:41:57Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
   }
 ]
