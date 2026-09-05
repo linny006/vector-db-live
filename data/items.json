@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-05T04:00:20Z",
+    "updated_at": "2026-09-05T04:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Asynchronous document processing pipeline with BullMQ, Redis, Ollama, embeddings and RAG retrieval.",
+    "id": "harshxframe/ai-document-processing-engine",
+    "language": "JavaScript",
+    "name": "harshxframe/ai-document-processing-engine",
+    "stars": 0,
+    "updated_at": "2026-09-05T04:14:31Z",
+    "url": "https://github.com/harshxframe/ai-document-processing-engine"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-05T04:10:55Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-05T04:09:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-05T04:02:48Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T04:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
@@ -32,7 +77,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-05T03:54:19Z",
+    "updated_at": "2026-09-05T04:14:08Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -41,7 +86,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1129,
-    "updated_at": "2026-09-05T03:59:56Z",
+    "updated_at": "2026-09-05T04:02:42Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -52,33 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T03:48:48Z",
     "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-05T03:48:25Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T03:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-05T03:37:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
@@ -95,7 +113,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9231,
-    "updated_at": "2026-09-05T03:47:39Z",
+    "updated_at": "2026-09-05T04:06:05Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -239,7 +257,7 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 8,
-    "updated_at": "2026-09-05T03:45:46Z",
+    "updated_at": "2026-09-05T04:12:26Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -400,7 +418,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8179,
+    "stars": 8180,
     "updated_at": "2026-09-04T23:36:25Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -430,23 +448,5 @@
     "stars": 29373,
     "updated_at": "2026-09-04T23:35:08Z",
     "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 3,
-    "updated_at": "2026-09-04T23:34:30Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-09-04T23:34:19Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
   }
 ]
