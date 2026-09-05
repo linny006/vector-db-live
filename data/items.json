@@ -1,12 +1,48 @@
 [
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T03:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG. ",
+    "id": "1Vewton/WikiSpider",
+    "language": "Go",
+    "name": "1Vewton/WikiSpider",
+    "stars": 0,
+    "updated_at": "2026-09-05T03:43:45Z",
+    "url": "https://github.com/1Vewton/WikiSpider"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-05T03:37:16Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
     "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9231,
-    "updated_at": "2026-09-05T03:27:24Z",
-    "url": "https://github.com/paradedb/paradedb"
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-05T03:33:49Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1618,
+    "updated_at": "2026-09-05T03:32:26Z",
+    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -14,8 +50,26 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-05T03:23:50Z",
+    "updated_at": "2026-09-05T03:30:49Z",
     "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T03:30:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9231,
+    "updated_at": "2026-09-05T03:45:01Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -23,7 +77,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1129,
-    "updated_at": "2026-09-05T03:23:47Z",
+    "updated_at": "2026-09-05T03:38:29Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -34,24 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T03:17:39Z",
     "url": "https://github.com/akumonzzzz/vietnamese-docs-rag-chatbot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T03:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T03:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Long-term memory infrastructure for .NET AI agents with semantic, temporal, spatial and robotics memory, hybrid retrieva",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T03:10:34Z",
     "url": "https://github.com/kichikubeihei/CodeMemoryPrime"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-05T03:10:01Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Official one-command installer for Semurg. Downloads and runs the released Semurg engine \u2014 your first node is always fre",
@@ -104,7 +131,7 @@
     "language": "JavaScript",
     "name": "nishanthrjn/nishanthrjn.github.io",
     "stars": 0,
-    "updated_at": "2026-09-05T03:04:19Z",
+    "updated_at": "2026-09-05T03:33:24Z",
     "url": "https://github.com/nishanthrjn/nishanthrjn.github.io"
   },
   {
@@ -144,15 +171,6 @@
     "url": "https://github.com/SlavaKlkv/local_knowledge_rag"
   },
   {
-    "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1618,
-    "updated_at": "2026-09-05T03:15:02Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
     "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
     "id": "qtuanph/chatbot-rag",
     "language": "TypeScript",
@@ -180,15 +198,6 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-05T01:58:22Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -212,7 +221,7 @@
     "language": "Rust",
     "name": "frogdb/frogdb",
     "stars": 8,
-    "updated_at": "2026-09-05T03:08:04Z",
+    "updated_at": "2026-09-05T03:41:31Z",
     "url": "https://github.com/frogdb/frogdb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-04T23:32:59Z",
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-09-04T23:32:54Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   }
 ]
