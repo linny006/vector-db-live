@@ -1,6 +1,60 @@
 [
   {
-    "description": "A standalone memory engine for AI agents in .NET, with hybrid retrieval, graph memory, pluggable providers, and behavior",
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9231,
+    "updated_at": "2026-09-05T03:27:24Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-05T03:23:50Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1129,
+    "updated_at": "2026-09-05T03:23:47Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Chatbot RAG cho t\u00e0i li\u1ec7u ti\u1ebfng Vi\u1ec7t \u2014 tr\u00edch ngu\u1ed3n, v\u00e0 bi\u1ebft t\u1eeb ch\u1ed1i khi t\u00e0i li\u1ec7u kh\u00f4ng c\u00f3 th\u00f4ng tin",
+    "id": "akumonzzzz/vietnamese-docs-rag-chatbot",
+    "language": "Python",
+    "name": "akumonzzzz/vietnamese-docs-rag-chatbot",
+    "stars": 1,
+    "updated_at": "2026-09-05T03:17:39Z",
+    "url": "https://github.com/akumonzzzz/vietnamese-docs-rag-chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T03:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T03:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Long-term memory infrastructure for .NET AI agents with semantic, temporal, spatial and robotics memory, hybrid retrieva",
     "id": "jihadkhawaja/magicore",
     "language": "C#",
     "name": "jihadkhawaja/magicore",
@@ -45,15 +99,6 @@
     "url": "https://github.com/One-Semurg/Semurg-Benchmark-Suite"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-05T03:05:55Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "Software engineering portfolio with an integrated RAG-powered TalentBot assistant for recruiter-facing Q&A about my expe",
     "id": "nishanthrjn/nishanthrjn.github.io",
     "language": "JavaScript",
@@ -61,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T03:04:19Z",
     "url": "https://github.com/nishanthrjn/nishanthrjn.github.io"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T03:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T03:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
@@ -306,15 +333,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1129,
-    "updated_at": "2026-09-05T03:13:41Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Identity and Authorization Service with Vector and AI Integration",
     "id": "StephenCote/AccountManager7",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-04T23:32:54Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 2,
-    "updated_at": "2026-09-04T23:32:00Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 4,
-    "updated_at": "2026-09-04T23:29:23Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
