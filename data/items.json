@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T11:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-05T10:59:26Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-05T10:56:49Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
+    "id": "Parth-2004/Historical-AI-Assistant",
+    "language": "Python",
+    "name": "Parth-2004/Historical-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-09-05T10:47:52Z",
+    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 8,
+    "updated_at": "2026-09-05T10:49:11Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-05T10:46:12Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T10:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\u041b\u043e\u043a\u0430\u043b\u044c\u043d\u0430\u044f RAG-\u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u0434\u043b\u044f \u043f\u043e\u0438\u0441\u043a\u0430 \u043f\u043e \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u043c \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442\u0430\u043c \u0441 \u0441\u0441\u044b\u043b\u043a\u0430\u043c\u0438 \u043d\u0430 \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a\u0438.",
     "id": "SlavaKlkv/local_knowledge_rag",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-09-05T10:39:11Z",
     "url": "https://github.com/karthikbilaspur/ai_learning"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-05T10:39:10Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
@@ -45,31 +99,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T10:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 237,
-    "updated_at": "2026-09-05T10:32:30Z",
+    "updated_at": "2026-09-05T10:52:33Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-05T10:32:45Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
@@ -90,15 +126,6 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T10:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "An object-oriented implementation of an Inverted File (IVF) index for Approximate Nearest Neighbor (ANN) search. This pr",
     "id": "Pvnn/ivf-approximate-nearest-neighbor-search",
     "language": "Python",
@@ -106,6 +133,15 @@
     "stars": 0,
     "updated_at": "2026-09-05T10:22:21Z",
     "url": "https://github.com/Pvnn/ivf-approximate-nearest-neighbor-search"
+  },
+  {
+    "description": "build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system",
+    "id": "skyzh/write-you-a-vector-db",
+    "language": "Rust",
+    "name": "skyzh/write-you-a-vector-db",
+    "stars": 795,
+    "updated_at": "2026-09-05T10:21:36Z",
+    "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -211,7 +247,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34396,
+    "stars": 34395,
     "updated_at": "2026-09-05T09:40:18Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -360,15 +396,6 @@
     "url": "https://github.com/saif-se92/ChatGroq-RAG-Chatbot"
   },
   {
-    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
-    "id": "frogdb/frogdb",
-    "language": "Rust",
-    "name": "frogdb/frogdb",
-    "stars": 8,
-    "updated_at": "2026-09-05T07:51:58Z",
-    "url": "https://github.com/frogdb/frogdb"
-  },
-  {
     "description": "\ud83e\udde0 Brain Plug \u2014 Enterprise Multi-Tenant AI Agent & Knowledge Platform",
     "id": "WizardGeeky/brain_plug",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 1129,
     "updated_at": "2026-09-05T07:28:13Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Agentic hybrid-RAG auditor for SEC 10-K filings \u2014 dense+BM25 retrieval, DPO-tuned Llama-3 extraction, zero-hallucination",
-    "id": "SkJishan04/sec10k-auditor",
-    "language": "Python",
-    "name": "SkJishan04/sec10k-auditor",
-    "stars": 1,
-    "updated_at": "2026-09-05T07:06:27Z",
-    "url": "https://github.com/SkJishan04/sec10k-auditor"
-  },
-  {
-    "description": "Curated open-source AI engineering stack for agents, RAG, MCP, LLMOps, evaluation, training, inference, vector search, o",
-    "id": "mdanikhasan-me/awesome-ai-engineering-stack",
-    "language": "\u2014",
-    "name": "mdanikhasan-me/awesome-ai-engineering-stack",
-    "stars": 0,
-    "updated_at": "2026-09-05T06:55:29Z",
-    "url": "https://github.com/mdanikhasan-me/awesome-ai-engineering-stack"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 3,
-    "updated_at": "2026-09-05T06:38:27Z",
-    "url": "https://github.com/FraiseHQ/fraise"
   }
 ]
