@@ -1,5 +1,59 @@
 [
   {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1908,
+    "updated_at": "2026-09-05T11:57:43Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-09-05T11:53:47Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-05T11:52:42Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Project OverviewThe Canal Monitoring System is an AI-ready web interface designed for real-time surveillance and monitor",
+    "id": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
+    "language": "Python",
+    "name": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
+    "stars": 0,
+    "updated_at": "2026-09-05T11:50:09Z",
+    "url": "https://github.com/ussamasaeed/AI_Powered_Canals_Monitoring_System"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T11:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T12:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -18,15 +72,6 @@
     "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1908,
-    "updated_at": "2026-09-05T11:41:13Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
     "id": "VectorDB-NTU/RaBitQ-Library",
     "language": "C++",
@@ -36,15 +81,6 @@
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-05T11:34:58Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -52,24 +88,6 @@
     "stars": 3,
     "updated_at": "2026-09-05T11:33:39Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T11:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T11:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\u9762\u5411\u5546\u54c1\u8bf4\u660e\u4e66 / \u6280\u672f\u6587\u6863\u7684 RAG \u77e5\u8bc6\u5e93\uff1aPDF \u81ea\u52a8\u89e3\u6790\u5165\u5e93\uff0c\u56db\u8def\u6df7\u5408\u68c0\u7d22 + \u77e5\u8bc6\u56fe\u8c31 + Reranker \u7cbe\u6392\uff0cSSE \u6d41\u5f0f\u95ee\u7b54",
@@ -86,7 +104,7 @@
     "language": "Rust",
     "name": "skyzh/write-you-a-vector-db",
     "stars": 795,
-    "updated_at": "2026-09-05T11:27:41Z",
+    "updated_at": "2026-09-05T11:55:29Z",
     "url": "https://github.com/skyzh/write-you-a-vector-db"
   },
   {
@@ -104,7 +122,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-05T11:15:58Z",
+    "updated_at": "2026-09-05T11:54:33Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -211,7 +229,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30484,
+    "stars": 30485,
     "updated_at": "2026-09-05T10:18:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 98,
     "updated_at": "2026-09-05T07:39:06Z",
     "url": "https://github.com/Egoist-Machines/LodeDB"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35527,
-    "updated_at": "2026-09-05T07:31:48Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "TuluVaani \ud83c\udf99\ufe0f ,A first-attempt Tulu speech pipeline \u2014 demonstrated through a coastal Karnataka scheme & fisheries advisor",
-    "id": "anoopcodehack/TuluVaani",
-    "language": "\u2014",
-    "name": "anoopcodehack/TuluVaani",
-    "stars": 0,
-    "updated_at": "2026-09-05T07:31:45Z",
-    "url": "https://github.com/anoopcodehack/TuluVaani"
   }
 ]
