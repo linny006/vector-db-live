@@ -1,12 +1,75 @@
 [
   {
-    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
-    "id": "sattyamjjain/mnemo",
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
     "language": "Rust",
-    "name": "sattyamjjain/mnemo",
-    "stars": 4,
-    "updated_at": "2026-09-05T15:13:33Z",
-    "url": "https://github.com/sattyamjjain/mnemo"
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-05T15:29:43Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 3,
+    "updated_at": "2026-09-05T15:28:16Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-05T15:26:45Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Project OverviewThe Canal Monitoring System is an AI-ready web interface designed for real-time surveillance and monitor",
+    "id": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
+    "language": "Python",
+    "name": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:30:19Z",
+    "url": "https://github.com/ussamasaeed/AI_Powered_Canals_Monitoring_System"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 237,
+    "updated_at": "2026-09-05T15:19:14Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG. ",
+    "id": "1Vewton/WikiSpider",
+    "language": "Go",
+    "name": "1Vewton/WikiSpider",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:18:10Z",
+    "url": "https://github.com/1Vewton/WikiSpider"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-05T15:17:49Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1883,
+    "updated_at": "2026-09-05T15:17:09Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +77,35 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-09-05T15:13:25Z",
+    "updated_at": "2026-09-05T15:15:23Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1908,
+    "updated_at": "2026-09-05T15:15:21Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T15:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
+    "id": "sattyamjjain/mnemo",
+    "language": "Rust",
+    "name": "sattyamjjain/mnemo",
+    "stars": 4,
+    "updated_at": "2026-09-05T15:13:33Z",
+    "url": "https://github.com/sattyamjjain/mnemo"
   },
   {
     "description": "Distributed hybrid-search RAG system for scientific literature: Go/Gin gateway, FastAPI + LlamaIndex ML service with Qdr",
@@ -90,15 +180,6 @@
     "url": "https://github.com/integrallis/vectors"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T15:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
     "id": "frogdb/frogdb",
     "language": "Rust",
@@ -106,15 +187,6 @@
     "stars": 8,
     "updated_at": "2026-09-05T15:02:53Z",
     "url": "https://github.com/frogdb/frogdb"
-  },
-  {
-    "description": "Project OverviewThe Canal Monitoring System is an AI-ready web interface designed for real-time surveillance and monitor",
-    "id": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
-    "language": "Python",
-    "name": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
-    "stars": 0,
-    "updated_at": "2026-09-05T15:00:04Z",
-    "url": "https://github.com/ussamasaeed/AI_Powered_Canals_Monitoring_System"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -198,13 +270,13 @@
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
-    "description": "build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system",
-    "id": "skyzh/write-you-a-vector-db",
+    "description": "Build a vector database in Rust\u2014from exact search and SQL/DataFusion integration to IVFFlat, NSW, HNSW, IVF-PQ, and SIFT",
+    "id": "skyzh/vector-db-from-scratch",
     "language": "Rust",
-    "name": "skyzh/write-you-a-vector-db",
+    "name": "skyzh/vector-db-from-scratch",
     "stars": 796,
     "updated_at": "2026-09-05T14:22:52Z",
-    "url": "https://github.com/skyzh/write-you-a-vector-db"
+    "url": "https://github.com/skyzh/vector-db-from-scratch"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -214,15 +286,6 @@
     "stars": 3,
     "updated_at": "2026-09-05T14:15:55Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-05T15:14:30Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
@@ -385,68 +448,5 @@
     "stars": 254,
     "updated_at": "2026-09-05T13:23:43Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:22:36Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:22:07Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-09-05T13:20:55Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:20:51Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:20:38Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 4,
-    "updated_at": "2026-09-05T13:19:52Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-09-05T13:19:12Z",
-    "url": "https://github.com/aziz5971/TalentLens"
   }
 ]
