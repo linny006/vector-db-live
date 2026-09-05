@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 04:30 UTC
+> ⏰ Last updated: 2026-09-05 04:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 2 | [sherozshaikh/rag-llm-interview-handbook](https://github.com/sherozshaikh/rag-llm-interview-handbook) | 0 | — | 2026-09-05 | A practical handbook covering RAG, LLMs, GenAI, and production system design concepts for interview preparation. |
-| 3 | [iberi22/xavier](https://github.com/iberi22/xavier) | 0 | Rust | 2026-09-05 | Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context |
-| 4 | [inlaySQL/inlaysql](https://github.com/inlaySQL/inlaysql) | 2 | Rust | 2026-09-05 | An embedded, serverless SQL database in Rust — one file, no server, MVCC concurrent writers, native vector + BM25 hybrid |
-| 5 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1618 | Python | 2026-09-05 | The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file. |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 7 | [harshxframe/ai-document-processing-engine](https://github.com/harshxframe/ai-document-processing-engine) | 0 | JavaScript | 2026-09-05 | Asynchronous document processing pipeline with BullMQ, Redis, Ollama, embeddings and RAG retrieval. |
-| 8 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-09-05 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 10 | [hoffresearch/nest](https://github.com/hoffresearch/nest) | 11 | Rust | 2026-09-05 | sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds, |
-| 11 | [1Vewton/WikiSpider](https://github.com/1Vewton/WikiSpider) | 0 | Go | 2026-09-05 | Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG.  |
-| 12 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-05 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
-| 13 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1129 | Java | 2026-09-05 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [hoffresearch/nest](https://github.com/hoffresearch/nest) | 11 | Rust | 2026-09-05 | sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds, |
+| 3 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1129 | Java | 2026-09-05 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 4 | [sherozshaikh/rag-llm-interview-handbook](https://github.com/sherozshaikh/rag-llm-interview-handbook) | 0 | — | 2026-09-05 | A practical handbook covering RAG, LLMs, GenAI, and production system design concepts for interview preparation. |
+| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 7 | [iberi22/xavier](https://github.com/iberi22/xavier) | 0 | Rust | 2026-09-05 | Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context |
+| 8 | [inlaySQL/inlaysql](https://github.com/inlaySQL/inlaysql) | 2 | Rust | 2026-09-05 | An embedded, serverless SQL database in Rust — one file, no server, MVCC concurrent writers, native vector + BM25 hybrid |
+| 9 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1618 | Python | 2026-09-05 | The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file. |
+| 10 | [harshxframe/ai-document-processing-engine](https://github.com/harshxframe/ai-document-processing-engine) | 0 | JavaScript | 2026-09-05 | Asynchronous document processing pipeline with BullMQ, Redis, Ollama, embeddings and RAG retrieval. |
+| 11 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-09-05 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 12 | [1Vewton/WikiSpider](https://github.com/1Vewton/WikiSpider) | 0 | Go | 2026-09-05 | Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG.  |
+| 13 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-05 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
 | 14 | [AliZahiri/ai-rag-platform-blueprint](https://github.com/AliZahiri/ai-rag-platform-blueprint) | 0 | Python | 2026-09-05 | AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes. |
 | 15 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9231 | Rust | 2026-09-05 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
 | 16 | [akumonzzzz/vietnamese-docs-rag-chatbot](https://github.com/akumonzzzz/vietnamese-docs-rag-chatbot) | 1 | Python | 2026-09-05 | Chatbot RAG cho tài liệu tiếng Việt — trích nguồn, và biết từ chối khi tài liệu không có thông tin |
@@ -89,7 +89,7 @@ expired items removed — so you can rely on what you see being current.
 | 45 | [schwichtgit/ai-resume](https://github.com/schwichtgit/ai-resume) | 5 | Python | 2026-09-04 | AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv |
 | 46 | [Raynerhalfandhalf451/writeback](https://github.com/Raynerhalfandhalf451/writeback) | 0 | JavaScript | 2026-09-04 | Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with |
 | 47 | [Accessible-sloughing768/docustra](https://github.com/Accessible-sloughing768/docustra) | 0 | Python | 2026-09-04 | Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen |
-| 48 | [MariaDB/server](https://github.com/MariaDB/server) | 8180 | C++ | 2026-09-04 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 48 | [MariaDB/server](https://github.com/MariaDB/server) | 8181 | C++ | 2026-09-05 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 49 | [Surging-scotandlot818/product-dev-blueprint](https://github.com/Surging-scotandlot818/product-dev-blueprint) | 0 | TypeScript | 2026-09-04 | Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea |
 | 50 | [Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker](https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker) | 0 | Dockerfile | 2026-09-04 | Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment. |
 <!-- TRACKER_TABLE_END -->

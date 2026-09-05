@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-05T04:28:17Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-09-05T04:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
+    "id": "hoffresearch/nest",
+    "language": "Rust",
+    "name": "hoffresearch/nest",
+    "stars": 11,
+    "updated_at": "2026-09-05T04:42:50Z",
+    "url": "https://github.com/hoffresearch/nest"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1129,
+    "updated_at": "2026-09-05T04:41:24Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "A practical handbook covering RAG, LLMs, GenAI, and production system design concepts for interview preparation.",
@@ -14,8 +32,26 @@
     "language": "\u2014",
     "name": "sherozshaikh/rag-llm-interview-handbook",
     "stars": 0,
-    "updated_at": "2026-09-05T04:24:48Z",
+    "updated_at": "2026-09-05T04:37:20Z",
     "url": "https://github.com/sherozshaikh/rag-llm-interview-handbook"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-05T04:36:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T04:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -45,15 +81,6 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T04:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Asynchronous document processing pipeline with BullMQ, Redis, Ollama, embeddings and RAG retrieval.",
     "id": "harshxframe/ai-document-processing-engine",
     "language": "JavaScript",
@@ -72,24 +99,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-05T04:09:45Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/nest",
-    "language": "Rust",
-    "name": "hoffresearch/nest",
-    "stars": 11,
-    "updated_at": "2026-09-05T04:29:17Z",
-    "url": "https://github.com/hoffresearch/nest"
-  },
-  {
     "description": "Get the texts from wikipedia or other websites, embed it and store it to vector databases for RAG. ",
     "id": "1Vewton/WikiSpider",
     "language": "Go",
@@ -106,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T04:21:48Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1129,
-    "updated_at": "2026-09-05T04:23:36Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
@@ -427,8 +427,8 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8180,
-    "updated_at": "2026-09-04T23:36:25Z",
+    "stars": 8181,
+    "updated_at": "2026-09-05T04:40:04Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
