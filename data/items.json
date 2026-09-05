@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "schmitech/orbit",
     "stars": 343,
-    "updated_at": "2026-09-05T14:30:22Z",
+    "updated_at": "2026-09-05T14:44:29Z",
     "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Distributed hybrid-search RAG system for scientific literature: Go/Gin gateway, FastAPI + LlamaIndex ML service with Qdr",
+    "id": "AYUSHSAINI9876/axiom-ai",
+    "language": "TypeScript",
+    "name": "AYUSHSAINI9876/axiom-ai",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:42:38Z",
+    "url": "https://github.com/AYUSHSAINI9876/axiom-ai"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 78,
+    "updated_at": "2026-09-05T14:41:22Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
+    "language": "Python",
+    "name": "EVEDensity/AgentHub",
+    "stars": 25,
+    "updated_at": "2026-09-05T14:37:37Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-09-05T14:34:24Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-05T14:33:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T14:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-05T14:30:20Z",
+    "updated_at": "2026-09-05T14:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-09-05T14:29:35Z",
+    "updated_at": "2026-09-05T14:38:34Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
@@ -52,15 +106,6 @@
     "stars": 3286,
     "updated_at": "2026-09-05T14:28:03Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-09-05T14:26:01Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -88,24 +133,6 @@
     "stars": 3,
     "updated_at": "2026-09-05T14:15:55Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T14:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-05T14:07:06Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -140,7 +167,7 @@
     "language": "Go",
     "name": "pardnchiu/ToriiDB",
     "stars": 3,
-    "updated_at": "2026-09-05T13:57:42Z",
+    "updated_at": "2026-09-05T14:38:42Z",
     "url": "https://github.com/pardnchiu/ToriiDB"
   },
   {
@@ -176,7 +203,7 @@
     "language": "Python",
     "name": "structured-world/coordinode-python",
     "stars": 0,
-    "updated_at": "2026-09-05T13:41:49Z",
+    "updated_at": "2026-09-05T14:36:14Z",
     "url": "https://github.com/structured-world/coordinode-python"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T13:15:40Z",
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-09-05T13:15:12Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-09-05T13:15:09Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "A hands-on LangChain course with 100+ runnable labs \u2014 RAG, tools, agents, MCP, structured outputs, and multi-provider LL",
-    "id": "zainulabidin1/langchain-masterclass",
-    "language": "Python",
-    "name": "zainulabidin1/langchain-masterclass",
-    "stars": 10,
-    "updated_at": "2026-09-05T13:13:08Z",
-    "url": "https://github.com/zainulabidin1/langchain-masterclass"
   }
 ]
