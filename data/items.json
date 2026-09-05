@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-05T07:30:19Z",
+    "updated_at": "2026-09-05T07:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udde0 Brain Plug \u2014 Enterprise Multi-Tenant AI Agent & Knowledge Platform",
+    "id": "WizardGeeky/brain_plug",
+    "language": "TypeScript",
+    "name": "WizardGeeky/brain_plug",
+    "stars": 0,
+    "updated_at": "2026-09-05T07:42:46Z",
+    "url": "https://github.com/WizardGeeky/brain_plug"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 8,
+    "updated_at": "2026-09-05T07:44:51Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 254,
+    "updated_at": "2026-09-05T07:39:11Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
+    "id": "Egoist-Machines/LodeDB",
+    "language": "Python",
+    "name": "Egoist-Machines/LodeDB",
+    "stars": 98,
+    "updated_at": "2026-09-05T07:39:06Z",
+    "url": "https://github.com/Egoist-Machines/LodeDB"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-05T07:38:05Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-05T07:33:32Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35524,
+    "updated_at": "2026-09-05T07:31:48Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
+  },
+  {
+    "description": "TuluVaani \ud83c\udf99\ufe0f ,A first-attempt Tulu speech pipeline \u2014 demonstrated through a coastal Karnataka scheme & fisheries advisor",
+    "id": "anoopcodehack/TuluVaani",
+    "language": "\u2014",
+    "name": "anoopcodehack/TuluVaani",
+    "stars": 0,
+    "updated_at": "2026-09-05T07:31:45Z",
+    "url": "https://github.com/anoopcodehack/TuluVaani"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T07:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A is a high-performance, cloud-native multimodal AI tutor grounding Llama-3.3 in textbook facts via Zilliz Cloud. It del",
@@ -18,24 +99,6 @@
     "url": "https://github.com/Omen-bit/WCEHackathon2026_NeuroNauts"
   },
   {
-    "description": "\ud83e\udde0 Brain Plug \u2014 Enterprise Multi-Tenant AI Agent & Knowledge Platform",
-    "id": "WizardGeeky/brain_plug",
-    "language": "TypeScript",
-    "name": "WizardGeeky/brain_plug",
-    "stars": 0,
-    "updated_at": "2026-09-05T07:25:33Z",
-    "url": "https://github.com/WizardGeeky/brain_plug"
-  },
-  {
-    "description": "TuluVaani \ud83c\udf99\ufe0f ,A first-attempt Tulu speech pipeline \u2014 demonstrated through a coastal Karnataka scheme & fisheries advisor",
-    "id": "anoopcodehack/TuluVaani",
-    "language": "\u2014",
-    "name": "anoopcodehack/TuluVaani",
-    "stars": 0,
-    "updated_at": "2026-09-05T07:25:13Z",
-    "url": "https://github.com/anoopcodehack/TuluVaani"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -45,33 +108,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 254,
-    "updated_at": "2026-09-05T07:19:08Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35524,
-    "updated_at": "2026-09-05T07:18:37Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T07:15:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
     "id": "SeekStorm/SeekStorm",
     "language": "Rust",
@@ -79,15 +115,6 @@
     "stars": 1908,
     "updated_at": "2026-09-05T07:09:45Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-05T07:08:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -324,15 +351,6 @@
     "url": "https://github.com/Dangamuwagedilshan/x0"
   },
   {
-    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
-    "id": "Egoist-Machines/LodeDB",
-    "language": "Python",
-    "name": "Egoist-Machines/LodeDB",
-    "stars": 98,
-    "updated_at": "2026-09-05T07:26:47Z",
-    "url": "https://github.com/Egoist-Machines/LodeDB"
-  },
-  {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
     "id": "Alexreye/advance-nlp-generative-ai",
     "language": "\u2014",
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-05T05:57:04Z",
     "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
-  },
-  {
-    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
-    "id": "SKeditz42/Vec",
-    "language": "C",
-    "name": "SKeditz42/Vec",
-    "stars": 2,
-    "updated_at": "2026-09-05T05:55:47Z",
-    "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
-    "id": "zoepranataksm/Mind_Vault_AI",
-    "language": "JavaScript",
-    "name": "zoepranataksm/Mind_Vault_AI",
-    "stars": 1,
-    "updated_at": "2026-09-05T05:55:31Z",
-    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
   }
 ]
