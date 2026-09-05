@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T18:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
+    "id": "frogdb/frogdb",
+    "language": "Rust",
+    "name": "frogdb/frogdb",
+    "stars": 8,
+    "updated_at": "2026-09-05T18:28:51Z",
+    "url": "https://github.com/frogdb/frogdb"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 17,
+    "updated_at": "2026-09-05T18:27:28Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 90,
+    "updated_at": "2026-09-05T18:18:47Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-05T18:30:20Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T18:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
     "id": "Aashutosh31/arc-ai-project",
     "language": "JavaScript",
@@ -36,24 +90,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 17,
-    "updated_at": "2026-09-05T18:03:23Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 90,
-    "updated_at": "2026-09-05T18:01:55Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "Demo project. Semantic audio search for journalists",
     "id": "hordiales/audio-semantic-search-for-journalists",
     "language": "Python",
@@ -70,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-05T18:00:56Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T18:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T18:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A typed service that chunks creator transcripts, embeds them, and delivers stable vector records.",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "structured-world/coordinode-python",
     "stars": 0,
-    "updated_at": "2026-09-05T17:28:12Z",
+    "updated_at": "2026-09-05T18:25:43Z",
     "url": "https://github.com/structured-world/coordinode-python"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1908,
     "updated_at": "2026-09-05T16:05:37Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
-    "description": "D.A.R.I.A. \u2014 a domain-specific agentic RAG research assistant for evidence-grounded answers from a curated research-pape",
-    "id": "ruthuraraj-ml/daria-agentic-rag",
-    "language": "Jupyter Notebook",
-    "name": "ruthuraraj-ml/daria-agentic-rag",
-    "stars": 0,
-    "updated_at": "2026-09-05T15:58:09Z",
-    "url": "https://github.com/ruthuraraj-ml/daria-agentic-rag"
-  },
-  {
-    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
-    "id": "RohannShetty/gitbook-downloader",
-    "language": "Python",
-    "name": "RohannShetty/gitbook-downloader",
-    "stars": 2,
-    "updated_at": "2026-09-05T15:49:41Z",
-    "url": "https://github.com/RohannShetty/gitbook-downloader"
   }
 ]
