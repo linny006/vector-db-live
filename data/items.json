@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "RohannShetty/gitbook-downloader",
     "stars": 2,
-    "updated_at": "2026-09-05T12:28:54Z",
+    "updated_at": "2026-09-05T12:44:15Z",
     "url": "https://github.com/RohannShetty/gitbook-downloader"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 94,
+    "updated_at": "2026-09-05T12:42:39Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-09-05T12:42:18Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-05T12:41:57Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-05T12:38:00Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 7,
+    "updated_at": "2026-09-05T12:37:14Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-09-05T12:32:44Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "(module) A Go embedded database with Redis-like commands, JSON field operations, and semantic vector search",
+    "id": "pardnchiu/ToriiDB",
+    "language": "Go",
+    "name": "pardnchiu/ToriiDB",
+    "stars": 3,
+    "updated_at": "2026-09-05T12:31:39Z",
+    "url": "https://github.com/pardnchiu/ToriiDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T12:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-05T12:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -63,15 +144,6 @@
     "url": "https://github.com/SeekStorm/seekstorm_client_py"
   },
   {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 7,
-    "updated_at": "2026-09-05T12:18:43Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
     "description": "seekstorm_client_java",
     "id": "SeekStorm/seekstorm_client_java",
     "language": "Java",
@@ -90,24 +162,6 @@
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T12:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-05T12:15:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "C# client for the SeekStorm vector & lexical search server",
     "id": "SeekStorm/seekstorm_client_cs",
     "language": "C#",
@@ -124,24 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-05T12:11:46Z",
     "url": "https://github.com/SeekStorm/seekstorm_client_pure_py"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-05T12:11:06Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-05T12:10:15Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
@@ -337,7 +373,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30485,
+    "stars": 30486,
     "updated_at": "2026-09-05T10:18:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -412,41 +448,5 @@
     "stars": 34395,
     "updated_at": "2026-09-05T11:38:12Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 23,
-    "updated_at": "2026-09-05T10:04:06Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Chatbot RAG cho t\u00e0i li\u1ec7u ti\u1ebfng Vi\u1ec7t \u2014 tr\u00edch ngu\u1ed3n, v\u00e0 bi\u1ebft t\u1eeb ch\u1ed1i khi t\u00e0i li\u1ec7u kh\u00f4ng c\u00f3 th\u00f4ng tin",
-    "id": "akumonzzzz/vietnamese-docs-rag-chatbot",
-    "language": "Python",
-    "name": "akumonzzzz/vietnamese-docs-rag-chatbot",
-    "stars": 1,
-    "updated_at": "2026-09-05T09:22:32Z",
-    "url": "https://github.com/akumonzzzz/vietnamese-docs-rag-chatbot"
-  },
-  {
-    "description": "Self-hosted RAG x LLM Wiki knowledge base framework: document parsing/chunking/vectorization, knowledge graph, hybrid re",
-    "id": "qy24/local-knowledge-base",
-    "language": "Python",
-    "name": "qy24/local-knowledge-base",
-    "stars": 4,
-    "updated_at": "2026-09-05T09:08:38Z",
-    "url": "https://github.com/qy24/local-knowledge-base"
-  },
-  {
-    "description": "A multimodal AI system for exercise data with embeddings and semantic search. This project builds a vector database of g",
-    "id": "ixsanpe/fitness-ai-assistant",
-    "language": "Python",
-    "name": "ixsanpe/fitness-ai-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-05T09:06:29Z",
-    "url": "https://github.com/ixsanpe/fitness-ai-assistant"
   }
 ]
