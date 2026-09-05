@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-05T02:30:20Z",
+    "updated_at": "2026-09-05T02:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-05T02:38:41Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-05T02:34:55Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1618,
+    "updated_at": "2026-09-05T02:32:12Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-05T02:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -14,7 +50,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-05T02:24:53Z",
+    "updated_at": "2026-09-05T02:38:57Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -23,7 +59,7 @@
     "language": "Python",
     "name": "SlavaKlkv/local_knowledge_rag",
     "stars": 0,
-    "updated_at": "2026-09-05T02:22:49Z",
+    "updated_at": "2026-09-05T02:40:00Z",
     "url": "https://github.com/SlavaKlkv/local_knowledge_rag"
   },
   {
@@ -43,33 +79,6 @@
     "stars": 1883,
     "updated_at": "2026-09-05T02:19:42Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-05T02:15:35Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-05T02:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-05T02:11:44Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -180,15 +189,6 @@
     "url": "https://github.com/oceanbase/oceanbase"
   },
   {
-    "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1618,
-    "updated_at": "2026-09-05T02:30:20Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
@@ -275,7 +275,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1129,
-    "updated_at": "2026-09-04T23:59:05Z",
+    "updated_at": "2026-09-05T02:42:50Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
