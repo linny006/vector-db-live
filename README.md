@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-05 12:00 UTC
+> ⏰ Last updated: 2026-09-05 12:05 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,20 +42,20 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | 1908 | Rust | 2026-09-05 | SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust. |
-| 2 | [TanNguyen234/VietLex-Tech-Spec](https://github.com/TanNguyen234/VietLex-Tech-Spec) | 0 | Python | 2026-09-05 | Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation. |
-| 3 | [inlaySQL/inlaysql](https://github.com/inlaySQL/inlaysql) | 2 | Rust | 2026-09-05 | An embedded, serverless SQL database in Rust — one file, no server, MVCC concurrent writers, native vector + BM25 hybrid |
-| 4 | [ussamasaeed/AI_Powered_Canals_Monitoring_System](https://github.com/ussamasaeed/AI_Powered_Canals_Monitoring_System) | 0 | Python | 2026-09-05 | Project OverviewThe Canal Monitoring System is an AI-ready web interface designed for real-time surveillance and monitor |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 7 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 1925 | Python | 2026-09-05 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
-| 8 | [GCTRL-TECH/platform](https://github.com/GCTRL-TECH/platform) | 7 | TypeScript | 2026-09-05 | Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove |
-| 9 | [VectorDB-NTU/RaBitQ-Library](https://github.com/VectorDB-NTU/RaBitQ-Library) | 275 | C++ | 2026-09-05 | An official lightweight library for the RaBitQ algorithm and its applications in vector search. |
-| 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 11 | [boobji/Shopkeeper-Knowledge-Base](https://github.com/boobji/Shopkeeper-Knowledge-Base) | 0 | Python | 2026-09-05 | 面向商品说明书 / 技术文档的 RAG 知识库：PDF 自动解析入库，四路混合检索 + 知识图谱 + Reranker 精排，SSE 流式问答 |
-| 12 | [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) | 795 | Rust | 2026-09-05 | build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system |
-| 13 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1883 | Go | 2026-09-05 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 14 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-05 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 1 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-05 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [SeekStorm/SeekStorm](https://github.com/SeekStorm/SeekStorm) | 1908 | Rust | 2026-09-05 | SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust. |
+| 5 | [TanNguyen234/VietLex-Tech-Spec](https://github.com/TanNguyen234/VietLex-Tech-Spec) | 0 | Python | 2026-09-05 | Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation. |
+| 6 | [inlaySQL/inlaysql](https://github.com/inlaySQL/inlaysql) | 2 | Rust | 2026-09-05 | An embedded, serverless SQL database in Rust — one file, no server, MVCC concurrent writers, native vector + BM25 hybrid |
+| 7 | [ussamasaeed/AI_Powered_Canals_Monitoring_System](https://github.com/ussamasaeed/AI_Powered_Canals_Monitoring_System) | 0 | Python | 2026-09-05 | Project OverviewThe Canal Monitoring System is an AI-ready web interface designed for real-time surveillance and monitor |
+| 8 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 1925 | Python | 2026-09-05 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
+| 9 | [GCTRL-TECH/platform](https://github.com/GCTRL-TECH/platform) | 7 | TypeScript | 2026-09-05 | Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove |
+| 10 | [VectorDB-NTU/RaBitQ-Library](https://github.com/VectorDB-NTU/RaBitQ-Library) | 275 | C++ | 2026-09-05 | An official lightweight library for the RaBitQ algorithm and its applications in vector search. |
+| 11 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 12 | [boobji/Shopkeeper-Knowledge-Base](https://github.com/boobji/Shopkeeper-Knowledge-Base) | 0 | Python | 2026-09-05 | 面向商品说明书 / 技术文档的 RAG 知识库：PDF 自动解析入库，四路混合检索 + 知识图谱 + Reranker 精排，SSE 流式问答 |
+| 13 | [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db) | 795 | Rust | 2026-09-05 | build vector database extensions over Apache Datafusion and/or CMU-DB's BusTub system |
+| 14 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1883 | Go | 2026-09-05 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 15 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 237 | Rust | 2026-09-05 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
 | 16 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-05 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 17 | [Parth-2004/Historical-AI-Assistant](https://github.com/Parth-2004/Historical-AI-Assistant) | 1 | Python | 2026-09-05 | AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources,  |
