@@ -1,12 +1,75 @@
 [
   {
+    "description": "C# client for the SeekStorm vector & lexical search server",
+    "id": "SeekStorm/seekstorm_client_cs",
+    "language": "C#",
+    "name": "SeekStorm/seekstorm_client_cs",
+    "stars": 1,
+    "updated_at": "2026-09-05T12:13:02Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_cs"
+  },
+  {
+    "description": "seekstorm_client_pure_py",
+    "id": "SeekStorm/seekstorm_client_pure_py",
+    "language": "Python",
+    "name": "SeekStorm/seekstorm_client_pure_py",
+    "stars": 1,
+    "updated_at": "2026-09-05T12:11:46Z",
+    "url": "https://github.com/SeekStorm/seekstorm_client_pure_py"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-05T12:11:06Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
     "id": "tamnd/yo",
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-05T12:00:26Z",
+    "updated_at": "2026-09-05T12:10:15Z",
     "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
+    "id": "puffball1567/koutendb",
+    "language": "Nim",
+    "name": "puffball1567/koutendb",
+    "stars": 16,
+    "updated_at": "2026-09-05T12:08:17Z",
+    "url": "https://github.com/puffball1567/koutendb"
+  },
+  {
+    "description": "Production-Grade RAG with C# and .NET \u2014 Building Retrieval-Augmented Generation Systems with C#, the Microsoft Agent Fra",
+    "id": "RachidD68/production-grade-rag-with-csharp-and-dotnet",
+    "language": "C#",
+    "name": "RachidD68/production-grade-rag-with-csharp-and-dotnet",
+    "stars": 0,
+    "updated_at": "2026-09-05T12:12:44Z",
+    "url": "https://github.com/RachidD68/production-grade-rag-with-csharp-and-dotnet"
+  },
+  {
+    "description": "Project OverviewThe Canal Monitoring System is an AI-ready web interface designed for real-time surveillance and monitor",
+    "id": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
+    "language": "Python",
+    "name": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
+    "stars": 0,
+    "updated_at": "2026-09-05T12:06:27Z",
+    "url": "https://github.com/ussamasaeed/AI_Powered_Canals_Monitoring_System"
+  },
+  {
+    "description": "RAG application built with .NET 8, Semantic Kernel, Azure OpenAI, Qdrant, Docker, and PdfPig for multilingual question a",
+    "id": "edilma/RAG-App-HackTogether",
+    "language": "C#",
+    "name": "edilma/RAG-App-HackTogether",
+    "stars": 14,
+    "updated_at": "2026-09-05T12:06:19Z",
+    "url": "https://github.com/edilma/RAG-App-HackTogether"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-09-05T12:00:22Z",
+    "updated_at": "2026-09-05T12:05:37Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -54,15 +117,6 @@
     "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
-    "description": "Project OverviewThe Canal Monitoring System is an AI-ready web interface designed for real-time surveillance and monitor",
-    "id": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
-    "language": "Python",
-    "name": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
-    "stars": 0,
-    "updated_at": "2026-09-05T11:50:09Z",
-    "url": "https://github.com/ussamasaeed/AI_Powered_Canals_Monitoring_System"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -88,15 +142,6 @@
     "stars": 275,
     "updated_at": "2026-09-05T11:39:02Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-05T11:33:39Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\u9762\u5411\u5546\u54c1\u8bf4\u660e\u4e66 / \u6280\u672f\u6587\u6863\u7684 RAG \u77e5\u8bc6\u5e93\uff1aPDF \u81ea\u52a8\u89e3\u6790\u5165\u5e93\uff0c\u56db\u8def\u6df7\u5408\u68c0\u7d22 + \u77e5\u8bc6\u56fe\u8c31 + Reranker \u7cbe\u6392\uff0cSSE \u6d41\u5f0f\u95ee\u7b54",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T08:11:31Z",
     "url": "https://github.com/rafapastor/embedding-provenance"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-05T08:10:07Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-09-05T08:00:43Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "A RAG-based AI chatbot built with Streamlit, LangChain, Groq, Ollama embeddings, and FAISS for context-aware document re",
-    "id": "saif-se92/ChatGroq-RAG-Chatbot",
-    "language": "\u2014",
-    "name": "saif-se92/ChatGroq-RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-09-05T07:52:00Z",
-    "url": "https://github.com/saif-se92/ChatGroq-RAG-Chatbot"
-  },
-  {
-    "description": "\ud83e\udde0 Brain Plug \u2014 Enterprise Multi-Tenant AI Agent & Knowledge Platform",
-    "id": "WizardGeeky/brain_plug",
-    "language": "TypeScript",
-    "name": "WizardGeeky/brain_plug",
-    "stars": 0,
-    "updated_at": "2026-09-05T07:42:46Z",
-    "url": "https://github.com/WizardGeeky/brain_plug"
-  },
-  {
-    "description": "World's fastest and most compact embedded vector database: exact by default, multimodal, local-first, and GPU-accelerate",
-    "id": "Egoist-Machines/LodeDB",
-    "language": "Python",
-    "name": "Egoist-Machines/LodeDB",
-    "stars": 98,
-    "updated_at": "2026-09-05T07:39:06Z",
-    "url": "https://github.com/Egoist-Machines/LodeDB"
   }
 ]
