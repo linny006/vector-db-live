@@ -1,5 +1,95 @@
 [
   {
+    "description": "NextSQL is a new database engine, written primarily in Go. It is not a compatibility layer for PostgreSQL, MySQL, MariaD",
+    "id": "bzync/nextsql",
+    "language": "Go",
+    "name": "bzync/nextsql",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:58:56Z",
+    "url": "https://github.com/bzync/nextsql"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T18:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
+    "id": "Forstwichtel/TensoRAG",
+    "language": "Python",
+    "name": "Forstwichtel/TensoRAG",
+    "stars": 1,
+    "updated_at": "2026-09-06T17:58:43Z",
+    "url": "https://github.com/Forstwichtel/TensoRAG"
+  },
+  {
+    "description": "A private, fully local RAG system designed to run open-source LLMs like Llama 3 securely on consumer hardware.",
+    "id": "Shashank17singh/Your-Own-AI",
+    "language": "C",
+    "name": "Shashank17singh/Your-Own-AI",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:54:18Z",
+    "url": "https://github.com/Shashank17singh/Your-Own-AI"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-06T17:54:13Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:53:35Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 57,
+    "updated_at": "2026-09-06T17:49:52Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Local-first, privacy-native embedded vector search engine with optional encrypted sync to S3/Cloudflare R2.",
+    "id": "Evangelikcaos/local-vector-sync",
+    "language": "TypeScript",
+    "name": "Evangelikcaos/local-vector-sync",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:48:05Z",
+    "url": "https://github.com/Evangelikcaos/local-vector-sync"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T17:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Shared, persistent vector memory over MCP \u2014 give Claude Code, Cursor, Codex, and other agents a common long-term memory ",
+    "id": "thammarongg/blueocean-vector",
+    "language": "Python",
+    "name": "thammarongg/blueocean-vector",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:45:24Z",
+    "url": "https://github.com/thammarongg/blueocean-vector"
+  },
+  {
     "description": "Extensible, configurable context-engine framework for LLM agents \u2014 session, memory, retrieval, knowledge graphs, experti",
     "id": "efathom/ctxforge",
     "language": "Python",
@@ -18,15 +108,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-06T17:39:46Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -36,21 +117,12 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "Local-first, privacy-native embedded vector search engine with optional encrypted sync to S3/Cloudflare R2.",
-    "id": "Evangelikcaos/local-vector-sync",
-    "language": "TypeScript",
-    "name": "Evangelikcaos/local-vector-sync",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:39:08Z",
-    "url": "https://github.com/Evangelikcaos/local-vector-sync"
-  },
-  {
     "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
     "id": "TowsifAhamed/GameRagKit",
     "language": "C#",
     "name": "TowsifAhamed/GameRagKit",
     "stars": 2,
-    "updated_at": "2026-09-06T17:36:28Z",
+    "updated_at": "2026-09-06T17:55:59Z",
     "url": "https://github.com/TowsifAhamed/GameRagKit"
   },
   {
@@ -70,42 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T17:32:35Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T17:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T17:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:36:34Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "Shared, persistent vector memory over MCP \u2014 give Claude Code, Cursor, Codex, and other agents a common long-term memory ",
-    "id": "thammarongg/blueocean-vector",
-    "language": "Python",
-    "name": "thammarongg/blueocean-vector",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:28:16Z",
-    "url": "https://github.com/thammarongg/blueocean-vector"
   },
   {
     "description": "FinSight AI is a multi-agent due diligence platform that turns real SEC 10-K filings, live financial metrics, and news i",
@@ -216,15 +252,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
-    "id": "Forstwichtel/TensoRAG",
-    "language": "Python",
-    "name": "Forstwichtel/TensoRAG",
-    "stars": 1,
-    "updated_at": "2026-09-06T17:26:43Z",
-    "url": "https://github.com/Forstwichtel/TensoRAG"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -248,7 +275,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11364,
-    "updated_at": "2026-09-06T16:41:27Z",
+    "updated_at": "2026-09-06T17:54:55Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 33,
     "updated_at": "2026-09-06T15:15:13Z",
     "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "Python package to visualize local chroma db",
-    "id": "surjendu104/chromolite",
-    "language": "TypeScript",
-    "name": "surjendu104/chromolite",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:12:26Z",
-    "url": "https://github.com/surjendu104/chromolite"
-  },
-  {
-    "description": "Local memory + semantic search for AI agents. Indexes code and documents on your machine, queryable via MCP. Private, of",
-    "id": "dangranaz/nxm-memory",
-    "language": "Shell",
-    "name": "dangranaz/nxm-memory",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:07:39Z",
-    "url": "https://github.com/dangranaz/nxm-memory"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6232,
-    "updated_at": "2026-09-06T17:19:07Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   }
 ]
