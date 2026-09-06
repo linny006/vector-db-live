@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T08:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Agentic hybrid-RAG auditor for SEC 10-K filings \u2014 dense+BM25 retrieval, DPO-tuned Llama-3 extraction, zero-hallucination",
+    "id": "SkJishan04/sec10k-auditor",
+    "language": "Python",
+    "name": "SkJishan04/sec10k-auditor",
+    "stars": 1,
+    "updated_at": "2026-09-06T08:29:36Z",
+    "url": "https://github.com/SkJishan04/sec10k-auditor"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-06T08:26:21Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "\u9762\u5411\u5546\u54c1\u8bf4\u660e\u4e66 / \u6280\u672f\u6587\u6863\u7684 RAG \u77e5\u8bc6\u5e93\uff1aPDF \u81ea\u52a8\u89e3\u6790\u5165\u5e93\uff0c\u56db\u8def\u6df7\u5408\u68c0\u7d22 + \u77e5\u8bc6\u56fe\u8c31 + Reranker \u7cbe\u6392\uff0cSSE \u6d41\u5f0f\u95ee\u7b54",
+    "id": "boobji/Shopkeeper-Knowledge-Base",
+    "language": "Python",
+    "name": "boobji/Shopkeeper-Knowledge-Base",
+    "stars": 0,
+    "updated_at": "2026-09-06T08:24:34Z",
+    "url": "https://github.com/boobji/Shopkeeper-Knowledge-Base"
+  },
+  {
+    "description": "Full-stack medical RAG system - FastAPI, React, Google Gemini, FAISS vector search, local OCR for scanned PDFs. Answers ",
+    "id": "sanzizlohar/medical-rag",
+    "language": "Python",
+    "name": "sanzizlohar/medical-rag",
+    "stars": 0,
+    "updated_at": "2026-09-06T08:21:53Z",
+    "url": "https://github.com/sanzizlohar/medical-rag"
+  },
+  {
+    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
+    "id": "Aashutosh31/arc-ai-project",
+    "language": "JavaScript",
+    "name": "Aashutosh31/arc-ai-project",
+    "stars": 2,
+    "updated_at": "2026-09-06T08:17:05Z",
+    "url": "https://github.com/Aashutosh31/arc-ai-project"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 6,
+    "updated_at": "2026-09-06T08:15:52Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-06T08:15:42Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T08:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
     "id": "maniesh-lab/ragdocs",
     "language": "Python",
@@ -9,40 +90,13 @@
     "url": "https://github.com/maniesh-lab/ragdocs"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T08:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-06T08:14:36Z",
+    "updated_at": "2026-09-06T08:16:15Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-06T08:12:33Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Agentic hybrid-RAG auditor for SEC 10-K filings \u2014 dense+BM25 retrieval, DPO-tuned Llama-3 extraction, zero-hallucination",
-    "id": "SkJishan04/sec10k-auditor",
-    "language": "Python",
-    "name": "SkJishan04/sec10k-auditor",
-    "stars": 1,
-    "updated_at": "2026-09-06T08:10:33Z",
-    "url": "https://github.com/SkJishan04/sec10k-auditor"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -59,7 +113,7 @@
     "language": "Python",
     "name": "yantrikos/yantrikdb-mcp",
     "stars": 24,
-    "updated_at": "2026-09-06T08:09:58Z",
+    "updated_at": "2026-09-06T08:25:33Z",
     "url": "https://github.com/yantrikos/yantrikdb-mcp"
   },
   {
@@ -81,24 +135,6 @@
     "url": "https://github.com/moyunzero/personal-gpt"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T08:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-06T07:52:13Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -106,15 +142,6 @@
     "stars": 1884,
     "updated_at": "2026-09-06T07:46:34Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Full-stack medical RAG system - FastAPI, React, Google Gemini, FAISS vector search, local OCR for scanned PDFs. Answers ",
-    "id": "sanzizlohar/medical-rag",
-    "language": "Python",
-    "name": "sanzizlohar/medical-rag",
-    "stars": 0,
-    "updated_at": "2026-09-06T07:44:45Z",
-    "url": "https://github.com/sanzizlohar/medical-rag"
   },
   {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
@@ -140,7 +167,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1131,
-    "updated_at": "2026-09-06T07:31:19Z",
+    "updated_at": "2026-09-06T08:24:20Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -176,7 +203,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8183,
-    "updated_at": "2026-09-06T07:45:00Z",
+    "updated_at": "2026-09-06T08:26:00Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 237,
-    "updated_at": "2026-09-06T07:07:28Z",
+    "updated_at": "2026-09-06T08:24:00Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -250,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T06:28:33Z",
     "url": "https://github.com/AdiXjaiswal/DocuBase"
-  },
-  {
-    "description": "\u9762\u5411\u5546\u54c1\u8bf4\u660e\u4e66 / \u6280\u672f\u6587\u6863\u7684 RAG \u77e5\u8bc6\u5e93\uff1aPDF \u81ea\u52a8\u89e3\u6790\u5165\u5e93\uff0c\u56db\u8def\u6df7\u5408\u68c0\u7d22 + \u77e5\u8bc6\u56fe\u8c31 + Reranker \u7cbe\u6392\uff0cSSE \u6d41\u5f0f\u95ee\u7b54",
-    "id": "boobji/Shopkeeper-Knowledge-Base",
-    "language": "Python",
-    "name": "boobji/Shopkeeper-Knowledge-Base",
-    "stars": 0,
-    "updated_at": "2026-09-06T06:23:27Z",
-    "url": "https://github.com/boobji/Shopkeeper-Knowledge-Base"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -374,7 +392,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6232,
-    "updated_at": "2026-09-06T08:03:24Z",
+    "updated_at": "2026-09-06T08:20:55Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T04:18:54Z",
     "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:17:52Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
-    "id": "Wry-letters233/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Wry-letters233/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:17:23Z",
-    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
   }
 ]
