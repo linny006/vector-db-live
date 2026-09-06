@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-06T16:43:29Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Local-first, privacy-native embedded vector search engine with optional encrypted sync to S3/Cloudflare R2.",
+    "id": "Evangelikcaos/local-vector-sync",
+    "language": "TypeScript",
+    "name": "Evangelikcaos/local-vector-sync",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:43:08Z",
+    "url": "https://github.com/Evangelikcaos/local-vector-sync"
+  },
+  {
+    "description": "Echo \u2014 Private, on-device AI memory assistant. Your photos, videos, notes, voice memos, calendar, location, and health d",
+    "id": "logan-suu/Echo",
+    "language": "Swift",
+    "name": "logan-suu/Echo",
+    "stars": 2,
+    "updated_at": "2026-09-06T16:42:51Z",
+    "url": "https://github.com/logan-suu/Echo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T16:42:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -25,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T16:37:55Z",
     "url": "https://github.com/kavuriShivaSaiKiran/Multi-Model-RAG"
-  },
-  {
-    "description": "Echo \u2014 Private, on-device AI memory assistant. Your photos, videos, notes, voice memos, calendar, location, and health d",
-    "id": "logan-suu/Echo",
-    "language": "Swift",
-    "name": "logan-suu/Echo",
-    "stars": 2,
-    "updated_at": "2026-09-06T16:37:48Z",
-    "url": "https://github.com/logan-suu/Echo"
   },
   {
     "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
@@ -90,15 +117,6 @@
     "url": "https://github.com/VaishaliJojra/personal-ai-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T16:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -115,15 +133,6 @@
     "stars": 9433,
     "updated_at": "2026-09-06T16:21:11Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Local-first, privacy-native embedded vector search engine with optional encrypted sync to S3/Cloudflare R2.",
-    "id": "Evangelikcaos/local-vector-sync",
-    "language": "TypeScript",
-    "name": "Evangelikcaos/local-vector-sync",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:19:49Z",
-    "url": "https://github.com/Evangelikcaos/local-vector-sync"
   },
   {
     "description": "Dashboard e assistente RAG sobre PDFs, 100% local via Ollama + ChromaDB \u2014 sem enviar dados a nenhuma nuvem.",
@@ -261,6 +270,15 @@
     "url": "https://github.com/MoTahaAboHeiba/EduMate-RAG"
   },
   {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1928,
+    "updated_at": "2026-09-06T15:33:37Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
     "description": "RAG system built from scratch over arXiv papers. Tokenizer-aware chunking, BGE embeddings, ChromaDB, and grounded Claude",
     "id": "DBlassio/rag-arxiv-fds",
     "language": "Python",
@@ -320,7 +338,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6232,
-    "updated_at": "2026-09-06T16:30:46Z",
+    "updated_at": "2026-09-06T16:44:16Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-06T13:56:43Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-06T13:55:46Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3288,
-    "updated_at": "2026-09-06T13:43:53Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
   }
 ]
