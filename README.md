@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 00:15 UTC
+> ⏰ Last updated: 2026-09-06 00:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,25 +43,25 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-06 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-06 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
-| 3 | [Tibab222/cvMaker](https://github.com/Tibab222/cvMaker) | 3 | TypeScript | 2026-09-06 | An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match |
-| 4 | [schmitech/orbit](https://github.com/schmitech/orbit) | 343 | Python | 2026-09-06 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-06 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) | 3287 | TypeScript | 2026-09-05 | Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem |
-| 7 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9232 | Rust | 2026-09-06 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 8 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 237 | Rust | 2026-09-05 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
-| 9 | [edheltzel/Recall](https://github.com/edheltzel/Recall) | 3 | TypeScript | 2026-09-05 | Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti |
-| 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 11 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11358 | Rust | 2026-09-05 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 12 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1884 | Go | 2026-09-05 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 13 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-09-05 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 14 | [eugen-goebel/smart-doc-qa](https://github.com/eugen-goebel/smart-doc-qa) | 0 | Python | 2026-09-05 | RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers |
-| 15 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-05 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 16 | [structured-world/coordinode-python](https://github.com/structured-world/coordinode-python) | 0 | Python | 2026-09-05 | Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode — AI-native graph + vector + full-text  |
-| 17 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-09-05 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 18 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-09-05 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 19 | [srimon12/qql-rs](https://github.com/srimon12/qql-rs) | 4 | Rust | 2026-09-05 | Declarative SQL query engine for Qdrant and edge vector databases. Multi-vector dense & BM25 sparse search, hybrid retri |
-| 20 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-05 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-06 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 3 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-06 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-06 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-06 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 6 | [Tibab222/cvMaker](https://github.com/Tibab222/cvMaker) | 3 | TypeScript | 2026-09-06 | An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match |
+| 7 | [schmitech/orbit](https://github.com/schmitech/orbit) | 343 | Python | 2026-09-06 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 8 | [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) | 3287 | TypeScript | 2026-09-05 | Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem |
+| 9 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9232 | Rust | 2026-09-06 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 10 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 237 | Rust | 2026-09-05 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
+| 11 | [edheltzel/Recall](https://github.com/edheltzel/Recall) | 3 | TypeScript | 2026-09-05 | Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti |
+| 12 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11359 | Rust | 2026-09-05 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 13 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1884 | Go | 2026-09-05 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 14 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-09-05 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 15 | [eugen-goebel/smart-doc-qa](https://github.com/eugen-goebel/smart-doc-qa) | 0 | Python | 2026-09-05 | RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers |
+| 16 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-05 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 17 | [structured-world/coordinode-python](https://github.com/structured-world/coordinode-python) | 0 | Python | 2026-09-05 | Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode — AI-native graph + vector + full-text  |
+| 18 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-09-05 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 19 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-09-05 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 20 | [srimon12/qql-rs](https://github.com/srimon12/qql-rs) | 4 | Rust | 2026-09-05 | Declarative SQL query engine for Qdrant and edge vector databases. Multi-vector dense & BM25 sparse search, hybrid retri |
 | 21 | [pnoboesam/ghana-constitution-rag](https://github.com/pnoboesam/ghana-constitution-rag) | 0 | Python | 2026-09-05 | A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang |
 | 22 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 7 | C++ | 2026-09-05 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
 | 23 | [skyzh/vector-db-from-scratch](https://github.com/skyzh/vector-db-from-scratch) | 796 | Rust | 2026-09-05 | Learn vector search with Rust and DataFusion; the C++/BusTub track is deprecated. |
