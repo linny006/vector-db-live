@@ -1,21 +1,57 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T16:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11364,
+    "updated_at": "2026-09-06T16:41:27Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "A lightweight personal AI assistant with local memory using Ollama, Mem0, and Qdrant.",
-    "id": "VaishaliJojra/personal-ai-memory",
+    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
+    "id": "eugen-goebel/smart-doc-qa",
     "language": "Python",
-    "name": "VaishaliJojra/personal-ai-memory",
+    "name": "eugen-goebel/smart-doc-qa",
     "stars": 0,
-    "updated_at": "2026-09-06T16:25:55Z",
-    "url": "https://github.com/VaishaliJojra/personal-ai-memory"
+    "updated_at": "2026-09-06T16:40:35Z",
+    "url": "https://github.com/eugen-goebel/smart-doc-qa"
+  },
+  {
+    "description": "Multi-modal data extraction, embedding, and retrieval pipeline for complex documents (text, tables, and images) using La",
+    "id": "kavuriShivaSaiKiran/Multi-Model-RAG",
+    "language": "Jupyter Notebook",
+    "name": "kavuriShivaSaiKiran/Multi-Model-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:37:55Z",
+    "url": "https://github.com/kavuriShivaSaiKiran/Multi-Model-RAG"
+  },
+  {
+    "description": "Echo \u2014 Private, on-device AI memory assistant. Your photos, videos, notes, voice memos, calendar, location, and health d",
+    "id": "logan-suu/Echo",
+    "language": "Swift",
+    "name": "logan-suu/Echo",
+    "stars": 2,
+    "updated_at": "2026-09-06T16:37:48Z",
+    "url": "https://github.com/logan-suu/Echo"
+  },
+  {
+    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
+    "id": "LuisinTheLegend/ConciergeGraph",
+    "language": "Python",
+    "name": "LuisinTheLegend/ConciergeGraph",
+    "stars": 1,
+    "updated_at": "2026-09-06T16:37:16Z",
+    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
+  },
+  {
+    "description": "Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional ",
+    "id": "philippgille/chromem-go",
+    "language": "Go",
+    "name": "philippgille/chromem-go",
+    "stars": 1053,
+    "updated_at": "2026-09-06T16:36:35Z",
+    "url": "https://github.com/philippgille/chromem-go"
   },
   {
     "description": "Shared, persistent vector memory over MCP \u2014 give Claude Code, Cursor, Codex, and other agents a common long-term memory ",
@@ -23,8 +59,53 @@
     "language": "Python",
     "name": "thammarongg/blueocean-vector",
     "stars": 0,
-    "updated_at": "2026-09-06T16:25:33Z",
+    "updated_at": "2026-09-06T16:34:19Z",
     "url": "https://github.com/thammarongg/blueocean-vector"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-06T16:33:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-06T16:31:43Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "A lightweight personal AI assistant with local memory using Ollama, Mem0, and Qdrant.",
+    "id": "VaishaliJojra/personal-ai-memory",
+    "language": "Python",
+    "name": "VaishaliJojra/personal-ai-memory",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:31:24Z",
+    "url": "https://github.com/VaishaliJojra/personal-ai-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T16:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T16:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -63,15 +144,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T16:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A modular RAG search engine built with Qdrant vector database, Whisper audio transcription, and LLMs",
     "id": "sandeshsachan054-tech/qdrant-rag-engine",
     "language": "Python",
@@ -79,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T16:10:03Z",
     "url": "https://github.com/sandeshsachan054-tech/qdrant-rag-engine"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-06T16:08:32Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Persistent AI memory with crossover \u2014 your AI at home shares the same memory as your AI at work. What one LLM learns, al",
@@ -257,7 +320,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6232,
-    "updated_at": "2026-09-06T16:18:35Z",
+    "updated_at": "2026-09-06T16:30:46Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 3288,
     "updated_at": "2026-09-06T13:43:53Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-06T13:35:09Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1466,
-    "updated_at": "2026-09-06T13:32:33Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "AI Knowledge Assistant with semantic search over documents \u2014 embeddings, ChromaDB vector storage, and a full RAG pipelin",
-    "id": "Hamna-Munir/04-AI-Knowledge-Assistant",
-    "language": "\u2014",
-    "name": "Hamna-Munir/04-AI-Knowledge-Assistant",
-    "stars": 1,
-    "updated_at": "2026-09-06T13:26:41Z",
-    "url": "https://github.com/Hamna-Munir/04-AI-Knowledge-Assistant"
-  },
-  {
-    "description": "RAG-based legal AI assistant for grounded question answering over commercial law and policy documents.",
-    "id": "maelocrowd/commercial-law-assistant",
-    "language": "Python",
-    "name": "maelocrowd/commercial-law-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-06T13:15:40Z",
-    "url": "https://github.com/maelocrowd/commercial-law-assistant"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-06T13:15:17Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45998,
-    "updated_at": "2026-09-06T12:59:28Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 238,
-    "updated_at": "2026-09-06T12:59:04Z",
-    "url": "https://github.com/codecoradev/uteke"
   }
 ]
