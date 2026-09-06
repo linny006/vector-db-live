@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-06T09:30:21Z",
+    "updated_at": "2026-09-06T09:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An emotional RAG system that combines semantic memory retrieval, persona tracking, and proactive memory management for L",
+    "id": "ZERO-70/Emotional-RAG-2.0",
+    "language": "Python",
+    "name": "ZERO-70/Emotional-RAG-2.0",
+    "stars": 0,
+    "updated_at": "2026-09-06T09:42:33Z",
+    "url": "https://github.com/ZERO-70/Emotional-RAG-2.0"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-06T09:35:49Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-06T09:33:23Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1131,
+    "updated_at": "2026-09-06T09:32:29Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-06T09:38:49Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T09:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
@@ -16,24 +70,6 @@
     "stars": 2,
     "updated_at": "2026-09-06T09:25:02Z",
     "url": "https://github.com/Aashutosh31/arc-ai-project"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1131,
-    "updated_at": "2026-09-06T09:30:21Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T09:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A Multi Agent Memory MCP That Connect Agents Across Systems and Machines",
@@ -52,15 +88,6 @@
     "stars": 6,
     "updated_at": "2026-09-06T09:11:08Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-06T09:08:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\u6296\u97f3\u6536\u85cf\u5939 RAG \u77e5\u8bc6\u5e93 \u00b7 fork of MQTQW/douyinmind\uff5c\u628a\u6536\u85cf\u5939\u53d8\u6210\u53ef\u641c\u7d22\u3001\u53ef\u5bf9\u8bdd\u7684\u77e5\u8bc6\u5e93",
@@ -104,7 +131,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6232,
-    "updated_at": "2026-09-06T08:54:30Z",
+    "updated_at": "2026-09-06T09:35:07Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -149,7 +176,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 31,
-    "updated_at": "2026-09-06T09:05:42Z",
+    "updated_at": "2026-09-06T09:32:10Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -169,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T08:29:36Z",
     "url": "https://github.com/SkJishan04/sec10k-auditor"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-06T09:30:03Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "\u9762\u5411\u5546\u54c1\u8bf4\u660e\u4e66 / \u6280\u672f\u6587\u6863\u7684 RAG \u77e5\u8bc6\u5e93\uff1aPDF \u81ea\u52a8\u89e3\u6790\u5165\u5e93\uff0c\u56db\u8def\u6df7\u5408\u68c0\u7d22 + \u77e5\u8bc6\u56fe\u8c31 + Reranker \u7cbe\u6392\uff0cSSE \u6d41\u5f0f\u95ee\u7b54",
@@ -221,7 +239,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-06T08:16:15Z",
+    "updated_at": "2026-09-06T09:31:36Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -302,7 +320,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8183,
-    "updated_at": "2026-09-06T08:26:00Z",
+    "updated_at": "2026-09-06T09:35:18Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-06T05:14:22Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-09-06T05:13:44Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "Built an advanced Retrieval-Augmented Generation (RAG) system utililzing text datasets chunked dynamically. Engineered a",
-    "id": "rahulboby/ChatVeritas",
-    "language": "Python",
-    "name": "rahulboby/ChatVeritas",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:07:31Z",
-    "url": "https://github.com/rahulboby/ChatVeritas"
   }
 ]
