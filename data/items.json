@@ -1,12 +1,75 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T12:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-06T12:11:36Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\u6296\u97f3\u6536\u85cf\u5939 RAG \u77e5\u8bc6\u5e93 \u00b7 fork of MQTQW/douyinmind\uff5c\u628a\u6536\u85cf\u5939\u53d8\u6210\u53ef\u641c\u7d22\u3001\u53ef\u5bf9\u8bdd\u7684\u77e5\u8bc6\u5e93",
+    "id": "EypeZeo/DouyinMind-Plus",
+    "language": "Python",
+    "name": "EypeZeo/DouyinMind-Plus",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:09:10Z",
+    "url": "https://github.com/EypeZeo/DouyinMind-Plus"
+  },
+  {
+    "description": "MCP server for semantic codebase indexing and intelligent code search, powered by Qdrant.",
+    "id": "Knighthawk-Leo/RepoMind",
+    "language": "Python",
+    "name": "Knighthawk-Leo/RepoMind",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:08:56Z",
+    "url": "https://github.com/Knighthawk-Leo/RepoMind"
+  },
+  {
+    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
+    "id": "is-leeroy-jenkins/boo",
+    "language": "Jupyter Notebook",
+    "name": "is-leeroy-jenkins/boo",
+    "stars": 3,
+    "updated_at": "2026-09-06T12:06:48Z",
+    "url": "https://github.com/is-leeroy-jenkins/boo"
+  },
+  {
+    "description": "Pure-Rust vector database for the Nubster Data Plane: ANN similarity search, single binary, edge-ready.",
+    "id": "nubster-opensources/eidosdb",
+    "language": "Rust",
+    "name": "nubster-opensources/eidosdb",
+    "stars": 0,
+    "updated_at": "2026-09-06T12:03:04Z",
+    "url": "https://github.com/nubster-opensources/eidosdb"
+  },
+  {
     "description": "AI-powered pet sales advisor with RAG, n8n, FastAPI, PostgreSQL, ChromaDB, Gemini and Ollama.",
     "id": "Abouzarsh/ai-pet-sales-advisor",
     "language": "Python",
     "name": "Abouzarsh/ai-pet-sales-advisor",
     "stars": 0,
-    "updated_at": "2026-09-06T11:59:25Z",
+    "updated_at": "2026-09-06T12:01:50Z",
     "url": "https://github.com/Abouzarsh/ai-pet-sales-advisor"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T12:00:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
@@ -22,7 +85,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30504,
+    "stars": 30507,
     "updated_at": "2026-09-06T11:56:19Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -63,33 +126,6 @@
     "url": "https://github.com/EVEDensity/AgentHub"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T11:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T11:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "\u6296\u97f3\u6536\u85cf\u5939 RAG \u77e5\u8bc6\u5e93 \u00b7 fork of MQTQW/douyinmind\uff5c\u628a\u6536\u85cf\u5939\u53d8\u6210\u53ef\u641c\u7d22\u3001\u53ef\u5bf9\u8bdd\u7684\u77e5\u8bc6\u5e93",
-    "id": "EypeZeo/DouyinMind-Plus",
-    "language": "Python",
-    "name": "EypeZeo/DouyinMind-Plus",
-    "stars": 0,
-    "updated_at": "2026-09-06T11:41:22Z",
-    "url": "https://github.com/EypeZeo/DouyinMind-Plus"
-  },
-  {
     "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
     "id": "vicquick/nobrainr",
     "language": "Python",
@@ -104,17 +140,17 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 91,
-    "updated_at": "2026-09-06T11:35:34Z",
+    "updated_at": "2026-09-06T12:08:03Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-06T11:33:30Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9433,
+    "updated_at": "2026-09-06T11:35:14Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -131,7 +167,7 @@
     "language": "\u2014",
     "name": "Veloresearch/VLS-32M-Context-Local-LLM",
     "stars": 1,
-    "updated_at": "2026-09-06T11:19:24Z",
+    "updated_at": "2026-09-06T12:08:27Z",
     "url": "https://github.com/Veloresearch/VLS-32M-Context-Local-LLM"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T10:44:54Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
-    "id": "GoodbyePlanet/semcode",
-    "language": "Python",
-    "name": "GoodbyePlanet/semcode",
-    "stars": 7,
-    "updated_at": "2026-09-06T10:44:52Z",
-    "url": "https://github.com/GoodbyePlanet/semcode"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-06T10:44:13Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "Production memory infrastructure for AI agents: distilled records, source-preserving RAG, hybrid retrieval, SDKs, API, d",
-    "id": "fishmem-labs/fishmem",
-    "language": "TypeScript",
-    "name": "fishmem-labs/fishmem",
-    "stars": 2,
-    "updated_at": "2026-09-06T10:44:12Z",
-    "url": "https://github.com/fishmem-labs/fishmem"
-  },
-  {
-    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
-    "id": "Parth-2004/Historical-AI-Assistant",
-    "language": "Python",
-    "name": "Parth-2004/Historical-AI-Assistant",
-    "stars": 1,
-    "updated_at": "2026-09-06T10:43:51Z",
-    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
   }
 ]
