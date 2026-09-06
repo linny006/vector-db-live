@@ -1,12 +1,57 @@
 [
   {
-    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-06T00:47:24Z",
-    "url": "https://github.com/edheltzel/Recall"
+    "updated_at": "2026-09-06T01:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-06T01:13:17Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-06T01:12:08Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 343,
+    "updated_at": "2026-09-06T01:11:09Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
+    "id": "fewshot-works/academy",
+    "language": "TypeScript",
+    "name": "fewshot-works/academy",
+    "stars": 4,
+    "updated_at": "2026-09-06T01:09:40Z",
+    "url": "https://github.com/fewshot-works/academy"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 254,
+    "updated_at": "2026-09-06T01:02:14Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +59,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-09-06T00:45:24Z",
+    "updated_at": "2026-09-06T01:00:24Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
+    "id": "edheltzel/Recall",
+    "language": "TypeScript",
+    "name": "edheltzel/Recall",
     "stars": 3,
-    "updated_at": "2026-09-06T01:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-09-06T00:47:24Z",
+    "url": "https://github.com/edheltzel/Recall"
   },
   {
     "description": "Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI.",
@@ -68,7 +113,7 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-09-06T00:36:06Z",
+    "updated_at": "2026-09-06T01:07:45Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 1474,
     "updated_at": "2026-09-06T00:32:26Z",
     "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-06T00:26:37Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -122,17 +158,8 @@
     "language": "TypeScript",
     "name": "Tibab222/cvMaker",
     "stars": 3,
-    "updated_at": "2026-09-06T00:50:34Z",
+    "updated_at": "2026-09-06T01:11:30Z",
     "url": "https://github.com/Tibab222/cvMaker"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-09-06T00:00:53Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -180,15 +207,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-05T23:19:40Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
     "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
     "id": "eugen-goebel/smart-doc-qa",
     "language": "Python",
@@ -212,7 +230,7 @@
     "language": "Rust",
     "name": "srimon12/qql-rs",
     "stars": 4,
-    "updated_at": "2026-09-05T22:55:27Z",
+    "updated_at": "2026-09-06T01:13:03Z",
     "url": "https://github.com/srimon12/qql-rs"
   },
   {
@@ -250,15 +268,6 @@
     "stars": 53,
     "updated_at": "2026-09-05T21:51:34Z",
     "url": "https://github.com/rustic-ai/uni-db"
-  },
-  {
-    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
-    "id": "fewshot-works/academy",
-    "language": "TypeScript",
-    "name": "fewshot-works/academy",
-    "stars": 4,
-    "updated_at": "2026-09-05T21:46:51Z",
-    "url": "https://github.com/fewshot-works/academy"
   },
   {
     "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-05T21:14:13Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-09-05T21:12:29Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   }
 ]
