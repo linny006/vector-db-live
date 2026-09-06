@@ -1,11 +1,47 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-06T09:48:45Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Enterprise RAG Chatbot for PDF Document Q&A with hybrid retrieval, multi-document support, and source citations",
+    "id": "bedurumadhurya/ask-my-pdf-bot",
+    "language": "Python",
+    "name": "bedurumadhurya/ask-my-pdf-bot",
+    "stars": 0,
+    "updated_at": "2026-09-06T09:48:22Z",
+    "url": "https://github.com/bedurumadhurya/ask-my-pdf-bot"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-06T09:48:18Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T09:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-06T09:45:21Z",
+    "updated_at": "2026-09-06T10:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -43,24 +79,6 @@
     "stars": 1131,
     "updated_at": "2026-09-06T09:32:29Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-06T09:38:49Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T09:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
@@ -320,7 +338,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8183,
-    "updated_at": "2026-09-06T09:35:18Z",
+    "updated_at": "2026-09-06T09:52:10Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -400,7 +418,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2925,
+    "stars": 2926,
     "updated_at": "2026-09-06T05:50:49Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T05:35:25Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-06T05:30:19Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-06T05:14:22Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
