@@ -1,11 +1,56 @@
 [
   {
+    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
+    "id": "aadityansha06/vecdb",
+    "language": "C",
+    "name": "aadityansha06/vecdb",
+    "stars": 8,
+    "updated_at": "2026-09-06T15:28:23Z",
+    "url": "https://github.com/aadityansha06/vecdb"
+  },
+  {
+    "description": "A high-throughput distributed vector database built from scratch in C++20 with hand-crafted AVX2/FMA SIMD acceleration, ",
+    "id": "rinkeshverma27/High-Throughput-Distributed-Vector-Search-Engine",
+    "language": "C++",
+    "name": "rinkeshverma27/High-Throughput-Distributed-Vector-Search-Engine",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:20:18Z",
+    "url": "https://github.com/rinkeshverma27/High-Throughput-Distributed-Vector-Search-Engine"
+  },
+  {
+    "description": "Persistent AI memory with crossover \u2014 your AI at home shares the same memory as your AI at work. What one LLM learns, al",
+    "id": "RonnyTome/cube-memory-sdk",
+    "language": "Python",
+    "name": "RonnyTome/cube-memory-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:20:14Z",
+    "url": "https://github.com/RonnyTome/cube-memory-sdk"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:19:10Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T15:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-06T15:15:22Z",
+    "updated_at": "2026-09-06T15:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,13 +63,13 @@
     "url": "https://github.com/maximilien/weave-cli"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
+    "description": "A lightweight personal AI assistant with local memory using Ollama, Mem0, and Qdrant.",
+    "id": "VaishaliJojra/personal-ai-memory",
+    "language": "Python",
+    "name": "VaishaliJojra/personal-ai-memory",
     "stars": 0,
-    "updated_at": "2026-09-06T15:12:34Z",
-    "url": "https://github.com/tamnd/yo"
+    "updated_at": "2026-09-06T15:13:10Z",
+    "url": "https://github.com/VaishaliJojra/personal-ai-memory"
   },
   {
     "description": "Python package to visualize local chroma db",
@@ -59,7 +104,7 @@
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-09-06T15:07:07Z",
+    "updated_at": "2026-09-06T15:20:40Z",
     "url": "https://github.com/vanedb/vanedb"
   },
   {
@@ -77,7 +122,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6232,
-    "updated_at": "2026-09-06T15:07:13Z",
+    "updated_at": "2026-09-06T15:29:06Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -106,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-09-06T15:02:57Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T15:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -153,15 +189,6 @@
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
-    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
-    "id": "aadityansha06/vecdb",
-    "language": "C",
-    "name": "aadityansha06/vecdb",
-    "stars": 8,
-    "updated_at": "2026-09-06T14:39:21Z",
-    "url": "https://github.com/aadityansha06/vecdb"
-  },
-  {
     "description": "Embedded vector database in Rust with Python bindings \u2014 TurboQuant algorithm (arXiv:2504.19874), zero training, 2\u20134 bit ",
     "id": "jyunming/TurboQuantDB",
     "language": "Python",
@@ -189,15 +216,6 @@
     "url": "https://github.com/alxxtexxr/arxiv_agent"
   },
   {
-    "description": "A high-throughput distributed vector database built from scratch in C++20 with hand-crafted AVX2/FMA SIMD acceleration, ",
-    "id": "rinkeshverma27/High-Throughput-Distributed-Vector-Search-Engine",
-    "language": "C++",
-    "name": "rinkeshverma27/High-Throughput-Distributed-Vector-Search-Engine",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:20:23Z",
-    "url": "https://github.com/rinkeshverma27/High-Throughput-Distributed-Vector-Search-Engine"
-  },
-  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -212,7 +230,7 @@
     "language": "Python",
     "name": "DBlassio/rag-arxiv-fds",
     "stars": 0,
-    "updated_at": "2026-09-06T14:58:02Z",
+    "updated_at": "2026-09-06T15:29:56Z",
     "url": "https://github.com/DBlassio/rag-arxiv-fds"
   },
   {
@@ -382,7 +400,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35550,
+    "stars": 35551,
     "updated_at": "2026-09-06T12:42:18Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -410,7 +428,7 @@
     "language": "Python",
     "name": "veep2012/doc_mcp",
     "stars": 0,
-    "updated_at": "2026-09-06T14:24:14Z",
+    "updated_at": "2026-09-06T15:21:46Z",
     "url": "https://github.com/veep2012/doc_mcp"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T14:33:09Z",
     "url": "https://github.com/Knighthawk-Leo/RepoMind"
-  },
-  {
-    "description": "A Python framework for building, deploying, and managing AI-powered assistants tailored for federal data analysis, budge",
-    "id": "is-leeroy-jenkins/boo",
-    "language": "Jupyter Notebook",
-    "name": "is-leeroy-jenkins/boo",
-    "stars": 3,
-    "updated_at": "2026-09-06T12:06:48Z",
-    "url": "https://github.com/is-leeroy-jenkins/boo"
-  },
-  {
-    "description": "Pure-Rust vector database for the Nubster Data Plane: ANN similarity search, single binary, edge-ready.",
-    "id": "nubster-opensources/eidosdb",
-    "language": "Rust",
-    "name": "nubster-opensources/eidosdb",
-    "stars": 0,
-    "updated_at": "2026-09-06T12:03:04Z",
-    "url": "https://github.com/nubster-opensources/eidosdb"
   }
 ]
