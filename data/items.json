@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T14:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Python package to visualize local chroma db",
+    "id": "surjendu104/chromolite",
+    "language": "TypeScript",
+    "name": "surjendu104/chromolite",
+    "stars": 0,
+    "updated_at": "2026-09-06T14:29:02Z",
+    "url": "https://github.com/surjendu104/chromolite"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-09-06T14:27:02Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-06T14:23:48Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
+    "id": "aadityansha06/vecdb",
+    "language": "C",
+    "name": "aadityansha06/vecdb",
+    "stars": 8,
+    "updated_at": "2026-09-06T14:22:17Z",
+    "url": "https://github.com/aadityansha06/vecdb"
+  },
+  {
+    "description": "A high-throughput distributed vector database built from scratch in C++20 with hand-crafted AVX2/FMA SIMD acceleration, ",
+    "id": "rinkeshverma27/High-Throughput-Distributed-Vector-Search-Engine",
+    "language": "C++",
+    "name": "rinkeshverma27/High-Throughput-Distributed-Vector-Search-Engine",
+    "stars": 0,
+    "updated_at": "2026-09-06T14:20:23Z",
+    "url": "https://github.com/rinkeshverma27/High-Throughput-Distributed-Vector-Search-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T14:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -18,15 +81,6 @@
     "url": "https://github.com/DBlassio/rag-arxiv-fds"
   },
   {
-    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
-    "id": "aadityansha06/vecdb",
-    "language": "C",
-    "name": "aadityansha06/vecdb",
-    "stars": 8,
-    "updated_at": "2026-09-06T14:12:38Z",
-    "url": "https://github.com/aadityansha06/vecdb"
-  },
-  {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
     "id": "rostamlabs/rostam",
     "language": "Go",
@@ -34,15 +88,6 @@
     "stars": 31,
     "updated_at": "2026-09-06T14:10:27Z",
     "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:12:59Z",
-    "url": "https://github.com/vanedb/vanedb"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -61,33 +106,6 @@
     "stars": 3,
     "updated_at": "2026-09-06T14:07:08Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
-    "id": "alxxtexxr/arxiv_agent",
-    "language": "Python",
-    "name": "alxxtexxr/arxiv_agent",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:02:36Z",
-    "url": "https://github.com/alxxtexxr/arxiv_agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T14:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T14:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T13:53:32Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Python package to visualize local chroma db",
-    "id": "surjendu104/chromolite",
-    "language": "TypeScript",
-    "name": "surjendu104/chromolite",
-    "stars": 0,
-    "updated_at": "2026-09-06T13:48:07Z",
-    "url": "https://github.com/surjendu104/chromolite"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "jyunming/TurboQuantDB",
     "stars": 2,
-    "updated_at": "2026-09-06T12:56:10Z",
+    "updated_at": "2026-09-06T14:19:40Z",
     "url": "https://github.com/jyunming/TurboQuantDB"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Python",
     "name": "veep2012/doc_mcp",
     "stars": 0,
-    "updated_at": "2026-09-06T14:03:18Z",
+    "updated_at": "2026-09-06T14:24:14Z",
     "url": "https://github.com/veep2012/doc_mcp"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-06T11:30:05Z",
     "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
-    "description": "Local LLM server with 32M token context. Run any GGUF model on your own machine with a memory far larger than its window",
-    "id": "Veloresearch/VLS-32M-Context-Local-LLM",
-    "language": "\u2014",
-    "name": "Veloresearch/VLS-32M-Context-Local-LLM",
-    "stars": 1,
-    "updated_at": "2026-09-06T13:39:12Z",
-    "url": "https://github.com/Veloresearch/VLS-32M-Context-Local-LLM"
   }
 ]
