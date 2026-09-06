@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-06T13:00:21Z",
+    "updated_at": "2026-09-06T13:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-06T13:14:02Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1884,
+    "updated_at": "2026-09-06T13:11:01Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-06T13:03:16Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Local memory + semantic search for AI agents. Indexes code and documents on your machine, queryable via MCP. Private, of",
+    "id": "dangranaz/nxm-memory",
+    "language": "Shell",
+    "name": "dangranaz/nxm-memory",
+    "stars": 0,
+    "updated_at": "2026-09-06T13:02:03Z",
+    "url": "https://github.com/dangranaz/nxm-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T13:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -25,15 +70,6 @@
     "stars": 1466,
     "updated_at": "2026-09-06T12:59:59Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-06T12:57:26Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -81,15 +117,6 @@
     "url": "https://github.com/ricmed/zettel_app"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T12:45:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
     "id": "rostamlabs/rostam",
     "language": "Go",
@@ -121,7 +148,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35547,
+    "stars": 35548,
     "updated_at": "2026-09-06T12:42:18Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -131,17 +158,8 @@
     "language": "Python",
     "name": "SlavaKlkv/local_knowledge_rag",
     "stars": 0,
-    "updated_at": "2026-09-06T12:41:54Z",
+    "updated_at": "2026-09-06T13:15:09Z",
     "url": "https://github.com/SlavaKlkv/local_knowledge_rag"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-06T12:38:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A structured, no-fluff reference for AI Engineering \u2014 from math foundations to LLMs, RAG, agents, and MCP \u2014 with curated",
@@ -229,7 +247,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30509,
+    "stars": 30511,
     "updated_at": "2026-09-06T11:56:19Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T10:57:47Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-09-06T10:57:24Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-09-06T10:57:07Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
   }
 ]
