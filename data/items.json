@@ -1,12 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T07:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-06T07:00:08Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7077,
+    "updated_at": "2026-09-06T06:50:55Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "An AI-powered conversational application built with Next.js, LangChain, LangGraph, and OpenAI, featuring an agent-based ",
+    "id": "PalwinderSinghPaali/langchain-integrated-ai-chatbot",
+    "language": "TypeScript",
+    "name": "PalwinderSinghPaali/langchain-integrated-ai-chatbot",
+    "stars": 0,
+    "updated_at": "2026-09-06T06:50:52Z",
+    "url": "https://github.com/PalwinderSinghPaali/langchain-integrated-ai-chatbot"
+  },
+  {
+    "description": "\u6296\u97f3\u6536\u85cf\u5939 RAG \u77e5\u8bc6\u5e93 \u00b7 fork of MQTQW/douyinmind\uff5c\u628a\u6296\u97f3\u6536\u85cf\u5939\u53d8\u6210\u53ef\u641c\u7d22\u3001\u53ef\u5bf9\u8bdd\u7684\u4e2a\u4eba\u77e5\u8bc6\u5e93\uff08FastAPI + ChromaDB + DashScope + DeepSeek\uff09",
+    "id": "EypeZeo/DouyinMind-Plus",
+    "language": "Python",
+    "name": "EypeZeo/DouyinMind-Plus",
+    "stars": 0,
+    "updated_at": "2026-09-06T06:50:15Z",
+    "url": "https://github.com/EypeZeo/DouyinMind-Plus"
+  },
+  {
     "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
     "id": "sattyamjjain/mnemo",
     "language": "Rust",
     "name": "sattyamjjain/mnemo",
     "stars": 4,
-    "updated_at": "2026-09-06T06:45:06Z",
+    "updated_at": "2026-09-06T06:48:47Z",
     "url": "https://github.com/sattyamjjain/mnemo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T06:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -23,7 +77,7 @@
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 1927,
-    "updated_at": "2026-09-06T06:41:46Z",
+    "updated_at": "2026-09-06T06:56:56Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
@@ -45,24 +99,6 @@
     "url": "https://github.com/Faraz6180/Insightpilot-ai"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T06:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T06:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "DocuBase is a RAG chatbot which can ingests multi-format documents and performs semantic search based on the query of us",
     "id": "AdiXjaiswal/DocuBase",
     "language": "Jupyter Notebook",
@@ -70,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T06:28:33Z",
     "url": "https://github.com/AdiXjaiswal/DocuBase"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-06T06:25:49Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "\u9762\u5411\u5546\u54c1\u8bf4\u660e\u4e66 / \u6280\u672f\u6587\u6863\u7684 RAG \u77e5\u8bc6\u5e93\uff1aPDF \u81ea\u52a8\u89e3\u6790\u5165\u5e93\uff0c\u56db\u8def\u6df7\u5408\u68c0\u7d22 + \u77e5\u8bc6\u56fe\u8c31 + Reranker \u7cbe\u6392\uff0cSSE \u6d41\u5f0f\u95ee\u7b54",
@@ -113,7 +140,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 237,
-    "updated_at": "2026-09-06T05:58:31Z",
+    "updated_at": "2026-09-06T06:48:04Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "yantrikos/yantrikdb-mcp",
     "stars": 24,
-    "updated_at": "2026-09-06T05:17:04Z",
+    "updated_at": "2026-09-06T06:48:17Z",
     "url": "https://github.com/yantrikos/yantrikdb-mcp"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 57,
-    "updated_at": "2026-09-06T06:43:07Z",
+    "updated_at": "2026-09-06T06:51:49Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T04:06:54Z",
     "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-09-06T04:06:48Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:06:32Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-09-06T04:04:53Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   }
 ]
