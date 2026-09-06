@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-06T02:45:17Z",
+    "updated_at": "2026-09-06T03:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 57,
+    "updated_at": "2026-09-06T02:56:14Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1130,
+    "updated_at": "2026-09-06T02:49:42Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
+    "id": "aadityansha06/vecdb",
+    "language": "C",
+    "name": "aadityansha06/vecdb",
+    "stars": 7,
+    "updated_at": "2026-09-06T02:49:25Z",
+    "url": "https://github.com/aadityansha06/vecdb"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-06T02:49:00Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Persistent AI memory with crossover \u2014 your AI at home shares the same memory as your AI at work. What one LLM learns, al",
+    "id": "RonnyTome/cube-memory-sdk",
+    "language": "Python",
+    "name": "RonnyTome/cube-memory-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-06T02:48:39Z",
+    "url": "https://github.com/RonnyTome/cube-memory-sdk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T02:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -34,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T02:30:40Z",
     "url": "https://github.com/albaozhen-eng/coremem"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T02:30:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
-    "id": "aadityansha06/vecdb",
-    "language": "C",
-    "name": "aadityansha06/vecdb",
-    "stars": 7,
-    "updated_at": "2026-09-06T02:30:10Z",
-    "url": "https://github.com/aadityansha06/vecdb"
   },
   {
     "description": "TalaDB - The embedded vector and document database for on-device AI.",
@@ -142,15 +178,6 @@
     "stars": 1884,
     "updated_at": "2026-09-06T02:09:52Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-06T01:41:11Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "Enterprise AI platform with FastAPI, PostgreSQL, Redis and Agentic workflows.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-05T21:25:12Z",
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-09-05T22:58:22Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-09-05T21:21:56Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "RAG application built with .NET 8, Semantic Kernel, Azure OpenAI, Qdrant, Docker, and PdfPig for multilingual question a",
-    "id": "edilma/RAG-App-HackTogether",
-    "language": "C#",
-    "name": "edilma/RAG-App-HackTogether",
-    "stars": 14,
-    "updated_at": "2026-09-05T21:19:03Z",
-    "url": "https://github.com/edilma/RAG-App-HackTogether"
   }
 ]
