@@ -1,5 +1,68 @@
 [
   {
+    "description": "Local memory + semantic search for AI agents. Indexes code and documents on your machine, queryable via MCP. Private, of",
+    "id": "dangranaz/nxm-memory",
+    "language": "Shell",
+    "name": "dangranaz/nxm-memory",
+    "stars": 0,
+    "updated_at": "2026-09-06T13:29:11Z",
+    "url": "https://github.com/dangranaz/nxm-memory"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1884,
+    "updated_at": "2026-09-06T13:28:44Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-06T13:28:36Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "AI Knowledge Assistant with semantic search over documents \u2014 embeddings, ChromaDB vector storage, and a full RAG pipelin",
+    "id": "Hamna-Munir/04-AI-Knowledge-Assistant",
+    "language": "\u2014",
+    "name": "Hamna-Munir/04-AI-Knowledge-Assistant",
+    "stars": 1,
+    "updated_at": "2026-09-06T13:26:41Z",
+    "url": "https://github.com/Hamna-Munir/04-AI-Knowledge-Assistant"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-06T13:22:58Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "RAG-based legal AI assistant for grounded question answering over commercial law and policy documents.",
+    "id": "maelocrowd/commercial-law-assistant",
+    "language": "Python",
+    "name": "maelocrowd/commercial-law-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-06T13:15:40Z",
+    "url": "https://github.com/maelocrowd/commercial-law-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T13:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,6 +72,15 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-06T13:15:17Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -16,42 +88,6 @@
     "stars": 3,
     "updated_at": "2026-09-06T13:14:02Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1884,
-    "updated_at": "2026-09-06T13:11:01Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-06T13:03:16Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Local memory + semantic search for AI agents. Indexes code and documents on your machine, queryable via MCP. Private, of",
-    "id": "dangranaz/nxm-memory",
-    "language": "Shell",
-    "name": "dangranaz/nxm-memory",
-    "stars": 0,
-    "updated_at": "2026-09-06T13:02:03Z",
-    "url": "https://github.com/dangranaz/nxm-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T13:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -90,15 +126,6 @@
     "url": "https://github.com/jyunming/TurboQuantDB"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-06T12:47:51Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
     "id": "sattyamjjain/mnemo",
     "language": "Rust",
@@ -122,7 +149,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 31,
-    "updated_at": "2026-09-06T12:44:57Z",
+    "updated_at": "2026-09-06T13:22:11Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -185,7 +212,7 @@
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
     "stars": 3288,
-    "updated_at": "2026-09-06T12:18:06Z",
+    "updated_at": "2026-09-06T13:15:55Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
@@ -247,7 +274,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30511,
+    "stars": 30513,
     "updated_at": "2026-09-06T11:56:19Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T11:00:59Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 45997,
-    "updated_at": "2026-09-06T12:59:28Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5889,
-    "updated_at": "2026-09-06T10:58:24Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-09-06T10:57:47Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
   }
 ]
