@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 20:45 UTC
+> ⏰ Last updated: 2026-09-06 20:50 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11366 | Rust | 2026-09-06 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 2 | [FraiseHQ/fraise](https://github.com/FraiseHQ/fraise) | 3 | Go | 2026-09-06 | In-memory knowledge store for AI agents |
-| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-06 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-06 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 5 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-06 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 6 | [Akshay-professor/helpdesk-copilot](https://github.com/Akshay-professor/helpdesk-copilot) | 0 | JavaScript | 2026-09-06 | Agentic customer support platform — hand-written agent loop, RAG, human-in-the-loop approvals, multi-agent specialists,  |
-| 7 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 57 | Rust | 2026-09-06 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
-| 8 | [rehan243/rehan243](https://github.com/rehan243/rehan243) | 2 | — | 2026-09-06 | Profile README |
-| 9 | [100wahidi/Realtime-data-embedding-pipeline](https://github.com/100wahidi/Realtime-data-embedding-pipeline) | 0 | TypeScript | 2026-09-06 | [SQL, TypeScript] Realtime data embedding and indexing for RAG with Supabase, posgresql  |
-| 10 | [rehan243/RAG-Enterprise-Search](https://github.com/rehan243/RAG-Enterprise-Search) | 1 | Python | 2026-09-06 | Production RAG pipeline — enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi |
-| 11 | [IsaakAlemu/amharic-rag-assistant](https://github.com/IsaakAlemu/amharic-rag-assistant) | 0 | Python | 2026-09-06 | Low-resource Ethiopic NLP Retrieval-Augmented Generation assistant using LangChain, ChromaDB semantic embeddings, and St |
-| 12 | [ManojMareedu/finsight-ai](https://github.com/ManojMareedu/finsight-ai) | 3 | Python | 2026-09-06 | FinSight AI is a multi-agent due diligence platform that turns real SEC 10-K filings, live financial metrics, and news i |
-| 13 | [codenamekt/hexus](https://github.com/codenamekt/hexus) | 14 | Python | 2026-09-06 | Postgres-Powered Vector Memory for the Agentic Age |
-| 14 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-06 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
-| 15 | [Forstwichtel/TensoRAG](https://github.com/Forstwichtel/TensoRAG) | 1 | Python | 2026-09-06 | TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp |
-| 16 | [TAIPANBOX/engram](https://github.com/TAIPANBOX/engram) | 2 | Python | 2026-09-06 | SQLite of agent memory — single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi |
-| 17 | [MariaDB/server](https://github.com/MariaDB/server) | 8184 | C++ | 2026-09-06 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 18 | [api-evangelist/machine-learning](https://github.com/api-evangelist/machine-learning) | 0 | HTML | 2026-09-06 | API platform info for machine-learning |
-| 19 | [api-evangelist/database](https://github.com/api-evangelist/database) | 0 | HTML | 2026-09-06 | API platform info for database |
-| 20 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 472 | TypeScript | 2026-09-06 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 1 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 472 | TypeScript | 2026-09-06 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 2 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11366 | Rust | 2026-09-06 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-06 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-06 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [FraiseHQ/fraise](https://github.com/FraiseHQ/fraise) | 3 | Go | 2026-09-06 | In-memory knowledge store for AI agents |
+| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-06 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 7 | [Akshay-professor/helpdesk-copilot](https://github.com/Akshay-professor/helpdesk-copilot) | 0 | JavaScript | 2026-09-06 | Agentic customer support platform — hand-written agent loop, RAG, human-in-the-loop approvals, multi-agent specialists,  |
+| 8 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 57 | Rust | 2026-09-06 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
+| 9 | [rehan243/rehan243](https://github.com/rehan243/rehan243) | 2 | — | 2026-09-06 | Profile README |
+| 10 | [100wahidi/Realtime-data-embedding-pipeline](https://github.com/100wahidi/Realtime-data-embedding-pipeline) | 0 | TypeScript | 2026-09-06 | [SQL, TypeScript] Realtime data embedding and indexing for RAG with Supabase, posgresql  |
+| 11 | [rehan243/RAG-Enterprise-Search](https://github.com/rehan243/RAG-Enterprise-Search) | 1 | Python | 2026-09-06 | Production RAG pipeline — enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi |
+| 12 | [IsaakAlemu/amharic-rag-assistant](https://github.com/IsaakAlemu/amharic-rag-assistant) | 0 | Python | 2026-09-06 | Low-resource Ethiopic NLP Retrieval-Augmented Generation assistant using LangChain, ChromaDB semantic embeddings, and St |
+| 13 | [ManojMareedu/finsight-ai](https://github.com/ManojMareedu/finsight-ai) | 3 | Python | 2026-09-06 | FinSight AI is a multi-agent due diligence platform that turns real SEC 10-K filings, live financial metrics, and news i |
+| 14 | [codenamekt/hexus](https://github.com/codenamekt/hexus) | 14 | Python | 2026-09-06 | Postgres-Powered Vector Memory for the Agentic Age |
+| 15 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-06 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 16 | [Forstwichtel/TensoRAG](https://github.com/Forstwichtel/TensoRAG) | 1 | Python | 2026-09-06 | TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp |
+| 17 | [TAIPANBOX/engram](https://github.com/TAIPANBOX/engram) | 2 | Python | 2026-09-06 | SQLite of agent memory — single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi |
+| 18 | [MariaDB/server](https://github.com/MariaDB/server) | 8184 | C++ | 2026-09-06 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 19 | [api-evangelist/machine-learning](https://github.com/api-evangelist/machine-learning) | 0 | HTML | 2026-09-06 | API platform info for machine-learning |
+| 20 | [api-evangelist/database](https://github.com/api-evangelist/database) | 0 | HTML | 2026-09-06 | API platform info for database |
 | 21 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7077 | Java | 2026-09-06 | The AI search platform |
 | 22 | [HollowGlow48271596/saas-tenant-vector-ingest-vector-ingest-saas-typescript-x](https://github.com/HollowGlow48271596/saas-tenant-vector-ingest-vector-ingest-saas-typescript-x) | 0 | TypeScript | 2026-09-06 | Typed tenant-aware document chunking and vector ingestion service for B2B SaaS admin workflows. |
 | 23 | [jyunming/TurboQuantDB](https://github.com/jyunming/TurboQuantDB) | 2 | Python | 2026-09-06 | Embedded vector database in Rust with Python bindings — TurboQuant algorithm (arXiv:2504.19874), zero training, 2–4 bit  |
