@@ -1,5 +1,140 @@
 [
   {
+    "description": "Persistent AI memory with crossover \u2014 your AI at home shares the same memory as your AI at work. What one LLM learns, al",
+    "id": "RonnyTome/cube-memory-sdk",
+    "language": "Python",
+    "name": "RonnyTome/cube-memory-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:56:10Z",
+    "url": "https://github.com/RonnyTome/cube-memory-sdk"
+  },
+  {
+    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
+    "id": "TowsifAhamed/GameRagKit",
+    "language": "C#",
+    "name": "TowsifAhamed/GameRagKit",
+    "stars": 2,
+    "updated_at": "2026-09-06T16:55:59Z",
+    "url": "https://github.com/TowsifAhamed/GameRagKit"
+  },
+  {
+    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
+    "id": "amirhosssein0/ai-platform-lab",
+    "language": "TypeScript",
+    "name": "amirhosssein0/ai-platform-lab",
+    "stars": 5,
+    "updated_at": "2026-09-06T16:54:09Z",
+    "url": "https://github.com/amirhosssein0/ai-platform-lab"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-06T16:53:38Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:52:12Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-06T16:51:23Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 472,
+    "updated_at": "2026-09-06T16:50:17Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "A lightweight personal AI assistant with local memory using Ollama, Mem0, and Qdrant.",
+    "id": "VaishaliJojra/personal-ai-memory",
+    "language": "Python",
+    "name": "VaishaliJojra/personal-ai-memory",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:50:13Z",
+    "url": "https://github.com/VaishaliJojra/personal-ai-memory"
+  },
+  {
+    "description": "A Flask-based Investment Portfolio Tracker with an agentic AI assistant. Implements layered backend architecture, portfo",
+    "id": "jyothi-basu/investment-portfolio-tracker",
+    "language": "Python",
+    "name": "jyothi-basu/investment-portfolio-tracker",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:48:07Z",
+    "url": "https://github.com/jyothi-basu/investment-portfolio-tracker"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30520,
+    "updated_at": "2026-09-06T16:47:08Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:50:54Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-06T16:46:29Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-06T16:46:24Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T16:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T17:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -25,15 +160,6 @@
     "stars": 2,
     "updated_at": "2026-09-06T16:42:51Z",
     "url": "https://github.com/logan-suu/Echo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T16:42:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -108,24 +234,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "A lightweight personal AI assistant with local memory using Ollama, Mem0, and Qdrant.",
-    "id": "VaishaliJojra/personal-ai-memory",
-    "language": "Python",
-    "name": "VaishaliJojra/personal-ai-memory",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:31:24Z",
-    "url": "https://github.com/VaishaliJojra/personal-ai-memory"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T16:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -162,15 +270,6 @@
     "url": "https://github.com/sandeshsachan054-tech/qdrant-rag-engine"
   },
   {
-    "description": "Persistent AI memory with crossover \u2014 your AI at home shares the same memory as your AI at work. What one LLM learns, al",
-    "id": "RonnyTome/cube-memory-sdk",
-    "language": "Python",
-    "name": "RonnyTome/cube-memory-sdk",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:06:57Z",
-    "url": "https://github.com/RonnyTome/cube-memory-sdk"
-  },
-  {
     "description": "Shotit is a screenshot-to-video search engine tailored for TV & Film, blazing-fast and compute-efficient.",
     "id": "shotit/shotit",
     "language": "\u2014",
@@ -178,15 +277,6 @@
     "stars": 27,
     "updated_at": "2026-09-06T15:59:57Z",
     "url": "https://github.com/shotit/shotit"
-  },
-  {
-    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
-    "id": "TowsifAhamed/GameRagKit",
-    "language": "C#",
-    "name": "TowsifAhamed/GameRagKit",
-    "stars": 2,
-    "updated_at": "2026-09-06T15:57:36Z",
-    "url": "https://github.com/TowsifAhamed/GameRagKit"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -216,15 +306,6 @@
     "url": "https://github.com/Knighthawk-Leo/RepoMind"
   },
   {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 472,
-    "updated_at": "2026-09-06T15:50:22Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
     "description": "",
     "id": "moyunzero/personal-gpt",
     "language": "TypeScript",
@@ -241,24 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T15:44:40Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-06T16:11:27Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30518,
-    "updated_at": "2026-09-06T15:35:24Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "FastAPI RAG microservice powering the AI layer of EduMate, indexes 50+ CS textbooks into ChromaDB for Dev and Qdrant Clo",
@@ -338,17 +401,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6232,
-    "updated_at": "2026-09-06T16:44:16Z",
+    "updated_at": "2026-09-06T16:59:06Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-06T15:03:49Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -378,24 +432,6 @@
     "url": "https://github.com/saran7eo/rag-pipeline"
   },
   {
-    "description": "A Flask-based Investment Portfolio Tracker with an agentic AI assistant. Implements layered backend architecture, portfo",
-    "id": "jyothi-basu/investment-portfolio-tracker",
-    "language": "Python",
-    "name": "jyothi-basu/investment-portfolio-tracker",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:39:35Z",
-    "url": "https://github.com/jyothi-basu/investment-portfolio-tracker"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-06T16:01:49Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
     "description": "Embedded vector database in Rust with Python bindings \u2014 TurboQuant algorithm (arXiv:2504.19874), zero training, 2\u20134 bit ",
     "id": "jyunming/TurboQuantDB",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T14:27:02Z",
     "url": "https://github.com/alxxtexxr/arxiv_agent"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 32,
-    "updated_at": "2026-09-06T14:10:27Z",
-    "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:08:49Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-06T13:59:02Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-06T13:56:43Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   }
 ]
