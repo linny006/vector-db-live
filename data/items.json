@@ -1,12 +1,12 @@
 [
   {
-    "description": "A RAG-based AI chatbot built with Streamlit, LangChain, Groq, Ollama embeddings, and FAISS for context-aware document re",
-    "id": "saif-se92/ChatGroq-RAG-Chatbot",
-    "language": "\u2014",
-    "name": "saif-se92/ChatGroq-RAG-Chatbot",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:55:50Z",
-    "url": "https://github.com/saif-se92/ChatGroq-RAG-Chatbot"
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-06T05:59:45Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Software engineering portfolio with an integrated RAG-powered TalentBot assistant for recruiter-facing Q&A about my expe",
@@ -14,8 +14,35 @@
     "language": "JavaScript",
     "name": "nishanthrjn/nishanthrjn.github.io",
     "stars": 0,
-    "updated_at": "2026-09-06T05:53:58Z",
+    "updated_at": "2026-09-06T05:58:39Z",
     "url": "https://github.com/nishanthrjn/nishanthrjn.github.io"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 237,
+    "updated_at": "2026-09-06T05:58:31Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T05:57:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A RAG-based AI chatbot built with Streamlit, LangChain, Groq, Ollama embeddings, and FAISS for context-aware document re",
+    "id": "saif-se92/ChatGroq-RAG-Chatbot",
+    "language": "\u2014",
+    "name": "saif-se92/ChatGroq-RAG-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-09-06T05:55:50Z",
+    "url": "https://github.com/saif-se92/ChatGroq-RAG-Chatbot"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -27,21 +54,12 @@
     "url": "https://github.com/tamnd/yo"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T05:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-06T05:45:17Z",
+    "updated_at": "2026-09-06T06:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -97,15 +115,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T05:30:19Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 237,
-    "updated_at": "2026-09-06T05:52:11Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T03:59:39Z",
     "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
-    "id": "Anonymousforareason111/hybrid-orchestrator",
-    "language": "Python",
-    "name": "Anonymousforareason111/hybrid-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-09-06T03:58:27Z",
-    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
   }
 ]
