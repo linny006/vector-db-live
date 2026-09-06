@@ -1,5 +1,41 @@
 [
   {
+    "description": "A RAG-based AI chatbot built with Streamlit, LangChain, Groq, Ollama embeddings, and FAISS for context-aware document re",
+    "id": "saif-se92/ChatGroq-RAG-Chatbot",
+    "language": "\u2014",
+    "name": "saif-se92/ChatGroq-RAG-Chatbot",
+    "stars": 0,
+    "updated_at": "2026-09-06T05:55:50Z",
+    "url": "https://github.com/saif-se92/ChatGroq-RAG-Chatbot"
+  },
+  {
+    "description": "Software engineering portfolio with an integrated RAG-powered TalentBot assistant for recruiter-facing Q&A about my expe",
+    "id": "nishanthrjn/nishanthrjn.github.io",
+    "language": "JavaScript",
+    "name": "nishanthrjn/nishanthrjn.github.io",
+    "stars": 0,
+    "updated_at": "2026-09-06T05:53:58Z",
+    "url": "https://github.com/nishanthrjn/nishanthrjn.github.io"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-06T05:48:42Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T05:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +59,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 275,
-    "updated_at": "2026-09-06T05:44:30Z",
+    "updated_at": "2026-09-06T05:45:23Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -54,15 +90,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T05:30:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -77,17 +104,8 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 237,
-    "updated_at": "2026-09-06T05:25:44Z",
+    "updated_at": "2026-09-06T05:52:11Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:25:10Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
@@ -135,6 +153,24 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9434,
+    "updated_at": "2026-09-06T05:00:14Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6232,
+    "updated_at": "2026-09-06T04:56:16Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
     "id": "yantrikos/yantrikdb",
     "language": "Rust",
@@ -160,6 +196,15 @@
     "stars": 0,
     "updated_at": "2026-09-06T04:38:06Z",
     "url": "https://github.com/jaytipargal/jayti"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9232,
+    "updated_at": "2026-09-06T04:33:55Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Shared, persistent vector memory over MCP \u2014 give Claude Code, Cursor, Codex, and other agents a common long-term memory ",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-06T03:58:27Z",
     "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-  },
-  {
-    "description": "Software engineering portfolio with an integrated RAG-powered TalentBot assistant for recruiter-facing Q&A about my expe",
-    "id": "nishanthrjn/nishanthrjn.github.io",
-    "language": "JavaScript",
-    "name": "nishanthrjn/nishanthrjn.github.io",
-    "stars": 0,
-    "updated_at": "2026-09-06T05:07:31Z",
-    "url": "https://github.com/nishanthrjn/nishanthrjn.github.io"
-  },
-  {
-    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
-    "id": "ELSAKKK/mnemos-mcp",
-    "language": "Python",
-    "name": "ELSAKKK/mnemos-mcp",
-    "stars": 5,
-    "updated_at": "2026-09-06T03:54:15Z",
-    "url": "https://github.com/ELSAKKK/mnemos-mcp"
-  },
-  {
-    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
-    "id": "hankamarvanova/unified-db",
-    "language": "Swift",
-    "name": "hankamarvanova/unified-db",
-    "stars": 2,
-    "updated_at": "2026-09-06T03:53:23Z",
-    "url": "https://github.com/hankamarvanova/unified-db"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
-    "id": "BiggerCap/agentops-hub",
-    "language": "TypeScript",
-    "name": "BiggerCap/agentops-hub",
-    "stars": 2,
-    "updated_at": "2026-09-06T03:53:20Z",
-    "url": "https://github.com/BiggerCap/agentops-hub"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-06T03:52:31Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   }
 ]
