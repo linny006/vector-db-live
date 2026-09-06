@@ -1,12 +1,66 @@
 [
   {
+    "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
+    "id": "Forstwichtel/TensoRAG",
+    "language": "Python",
+    "name": "Forstwichtel/TensoRAG",
+    "stars": 1,
+    "updated_at": "2026-09-06T18:14:22Z",
+    "url": "https://github.com/Forstwichtel/TensoRAG"
+  },
+  {
+    "description": "Adapta\u00e7\u00e3o do M\u00e9todo Zettelkasten, de gest\u00e3o de conhecimento, para o mundo digital",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:14:06Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-06T18:09:14Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "NextSQL is a new database engine, written primarily in Go. It is not a compatibility layer for PostgreSQL, MySQL, MariaD",
     "id": "bzync/nextsql",
     "language": "Go",
     "name": "bzync/nextsql",
     "stars": 0,
-    "updated_at": "2026-09-06T17:58:56Z",
+    "updated_at": "2026-09-06T18:07:01Z",
     "url": "https://github.com/bzync/nextsql"
+  },
+  {
+    "description": "Embedded vector database in Rust with Python bindings \u2014 TurboQuant algorithm (arXiv:2504.19874), zero training, 2\u20134 bit ",
+    "id": "jyunming/TurboQuantDB",
+    "language": "Python",
+    "name": "jyunming/TurboQuantDB",
+    "stars": 2,
+    "updated_at": "2026-09-06T18:05:51Z",
+    "url": "https://github.com/jyunming/TurboQuantDB"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-06T18:02:56Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T18:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -16,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-09-06T18:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
-    "id": "Forstwichtel/TensoRAG",
-    "language": "Python",
-    "name": "Forstwichtel/TensoRAG",
-    "stars": 1,
-    "updated_at": "2026-09-06T17:58:43Z",
-    "url": "https://github.com/Forstwichtel/TensoRAG"
   },
   {
     "description": "A private, fully local RAG system designed to run open-source LLMs like Llama 3 securely on consumer hardware.",
@@ -72,15 +117,6 @@
     "url": "https://github.com/Evangelikcaos/local-vector-sync"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T17:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Shared, persistent vector memory over MCP \u2014 give Claude Code, Cursor, Codex, and other agents a common long-term memory ",
     "id": "thammarongg/blueocean-vector",
     "language": "Python",
@@ -108,6 +144,15 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
+    "description": "FastAPI-based Investment Portfolio Tracker with an agentic AI assistant. Includes layered backend architecture,         ",
+    "id": "jyothi-basu/investment-portfolio-tracker",
+    "language": "Python",
+    "name": "jyothi-basu/investment-portfolio-tracker",
+    "stars": 0,
+    "updated_at": "2026-09-06T17:39:30Z",
+    "url": "https://github.com/jyothi-basu/investment-portfolio-tracker"
+  },
+  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -126,24 +171,6 @@
     "url": "https://github.com/TowsifAhamed/GameRagKit"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-06T17:33:50Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:32:35Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "FinSight AI is a multi-agent due diligence platform that turns real SEC 10-K filings, live financial metrics, and news i",
     "id": "ManojMareedu/finsight-ai",
     "language": "Python",
@@ -153,13 +180,22 @@
     "url": "https://github.com/ManojMareedu/finsight-ai"
   },
   {
-    "description": "A Flask-based Investment Portfolio Tracker with an agentic AI assistant. Implements layered backend architecture, portfo",
-    "id": "jyothi-basu/investment-portfolio-tracker",
-    "language": "Python",
-    "name": "jyothi-basu/investment-portfolio-tracker",
-    "stars": 0,
-    "updated_at": "2026-09-06T17:39:30Z",
-    "url": "https://github.com/jyothi-basu/investment-portfolio-tracker"
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6233,
+    "updated_at": "2026-09-06T17:19:07Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 859,
+    "updated_at": "2026-09-06T17:18:23Z",
+    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "A lightweight personal AI assistant with local memory using Ollama, Mem0, and Qdrant.",
@@ -229,7 +265,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30521,
+    "stars": 30523,
     "updated_at": "2026-09-06T16:47:08Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -412,41 +448,5 @@
     "stars": 11,
     "updated_at": "2026-09-06T15:34:27Z",
     "url": "https://github.com/MoTahaAboHeiba/EduMate-RAG"
-  },
-  {
-    "description": "RAG system built from scratch over arXiv papers. Tokenizer-aware chunking, BGE embeddings, ChromaDB, and grounded Claude",
-    "id": "DBlassio/rag-arxiv-fds",
-    "language": "Python",
-    "name": "DBlassio/rag-arxiv-fds",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:33:07Z",
-    "url": "https://github.com/DBlassio/rag-arxiv-fds"
-  },
-  {
-    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
-    "id": "aadityansha06/vecdb",
-    "language": "C",
-    "name": "aadityansha06/vecdb",
-    "stars": 8,
-    "updated_at": "2026-09-06T15:28:23Z",
-    "url": "https://github.com/aadityansha06/vecdb"
-  },
-  {
-    "description": "A high-throughput distributed vector database built from scratch in C++20 with hand-crafted AVX2/FMA SIMD acceleration, ",
-    "id": "rinkeshverma27/High-Throughput-Distributed-Vector-Search-Engine",
-    "language": "C++",
-    "name": "rinkeshverma27/High-Throughput-Distributed-Vector-Search-Engine",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:20:18Z",
-    "url": "https://github.com/rinkeshverma27/High-Throughput-Distributed-Vector-Search-Engine"
-  },
-  {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 33,
-    "updated_at": "2026-09-06T15:15:13Z",
-    "url": "https://github.com/maximilien/weave-cli"
   }
 ]
