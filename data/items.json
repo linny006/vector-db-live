@@ -1,5 +1,122 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T15:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "moyunzero/personal-gpt",
+    "language": "TypeScript",
+    "name": "moyunzero/personal-gpt",
+    "stars": 3,
+    "updated_at": "2026-09-06T15:45:09Z",
+    "url": "https://github.com/moyunzero/personal-gpt"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:44:40Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "A lightweight personal AI assistant with local memory using Ollama, Mem0, and Qdrant.",
+    "id": "VaishaliJojra/personal-ai-memory",
+    "language": "Python",
+    "name": "VaishaliJojra/personal-ai-memory",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:41:46Z",
+    "url": "https://github.com/VaishaliJojra/personal-ai-memory"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:41:38Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30515,
+    "updated_at": "2026-09-06T15:35:24Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "FastAPI RAG microservice powering the AI layer of EduMate, indexes 50+ CS textbooks into ChromaDB for Dev and Qdrant Clo",
+    "id": "MoTahaAboHeiba/EduMate-RAG",
+    "language": "Python",
+    "name": "MoTahaAboHeiba/EduMate-RAG",
+    "stars": 11,
+    "updated_at": "2026-09-06T15:34:27Z",
+    "url": "https://github.com/MoTahaAboHeiba/EduMate-RAG"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-06T15:33:44Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "RAG system built from scratch over arXiv papers. Tokenizer-aware chunking, BGE embeddings, ChromaDB, and grounded Claude",
+    "id": "DBlassio/rag-arxiv-fds",
+    "language": "Python",
+    "name": "DBlassio/rag-arxiv-fds",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:33:07Z",
+    "url": "https://github.com/DBlassio/rag-arxiv-fds"
+  },
+  {
+    "description": "Shared, persistent vector memory over MCP \u2014 give Claude Code, Cursor, Codex, and other agents a common long-term memory ",
+    "id": "thammarongg/blueocean-vector",
+    "language": "Python",
+    "name": "thammarongg/blueocean-vector",
+    "stars": 0,
+    "updated_at": "2026-09-06T15:32:17Z",
+    "url": "https://github.com/thammarongg/blueocean-vector"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 5,
+    "updated_at": "2026-09-06T15:44:09Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 472,
+    "updated_at": "2026-09-06T15:30:46Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T15:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
     "id": "aadityansha06/vecdb",
     "language": "C",
@@ -27,33 +144,6 @@
     "url": "https://github.com/RonnyTome/cube-memory-sdk"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:19:10Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T15:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T15:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
     "id": "maximilien/weave-cli",
     "language": "Go",
@@ -61,15 +151,6 @@
     "stars": 33,
     "updated_at": "2026-09-06T15:15:13Z",
     "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "A lightweight personal AI assistant with local memory using Ollama, Mem0, and Qdrant.",
-    "id": "VaishaliJojra/personal-ai-memory",
-    "language": "Python",
-    "name": "VaishaliJojra/personal-ai-memory",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:13:10Z",
-    "url": "https://github.com/VaishaliJojra/personal-ai-memory"
   },
   {
     "description": "Python package to visualize local chroma db",
@@ -90,24 +171,6 @@
     "url": "https://github.com/dangranaz/nxm-memory"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-06T15:07:18Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:20:40Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -122,17 +185,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6232,
-    "updated_at": "2026-09-06T15:29:06Z",
+    "updated_at": "2026-09-06T15:38:43Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "FastAPI RAG microservice powering the AI layer of EduMate, indexes 50+ CS textbooks into ChromaDB for Dev and Qdrant Clo",
-    "id": "MoTahaAboHeiba/EduMate-RAG",
-    "language": "Python",
-    "name": "MoTahaAboHeiba/EduMate-RAG",
-    "stars": 11,
-    "updated_at": "2026-09-06T15:05:46Z",
-    "url": "https://github.com/MoTahaAboHeiba/EduMate-RAG"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -185,7 +239,7 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-09-06T15:07:47Z",
+    "updated_at": "2026-09-06T15:39:06Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -196,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-09-06T14:33:58Z",
     "url": "https://github.com/jyunming/TurboQuantDB"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 472,
-    "updated_at": "2026-09-06T14:33:12Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
@@ -223,15 +268,6 @@
     "stars": 343,
     "updated_at": "2026-09-06T14:14:45Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "RAG system built from scratch over arXiv papers. Tokenizer-aware chunking, BGE embeddings, ChromaDB, and grounded Claude",
-    "id": "DBlassio/rag-arxiv-fds",
-    "language": "Python",
-    "name": "DBlassio/rag-arxiv-fds",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:29:56Z",
-    "url": "https://github.com/DBlassio/rag-arxiv-fds"
   },
   {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T14:50:02Z",
     "url": "https://github.com/SlavaKlkv/local_knowledge_rag"
-  },
-  {
-    "description": "A structured, no-fluff reference for AI Engineering \u2014 from math foundations to LLMs, RAG, agents, and MCP \u2014 with curated",
-    "id": "Rishav408/ai-engineering-handbook",
-    "language": "\u2014",
-    "name": "Rishav408/ai-engineering-handbook",
-    "stars": 0,
-    "updated_at": "2026-09-06T12:34:49Z",
-    "url": "https://github.com/Rishav408/ai-engineering-handbook"
-  },
-  {
-    "description": "Local MCP server for authenticated documentation sites, using Playwright for login and crawling, SQLite full-text and ve",
-    "id": "veep2012/doc_mcp",
-    "language": "Python",
-    "name": "veep2012/doc_mcp",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:21:46Z",
-    "url": "https://github.com/veep2012/doc_mcp"
-  },
-  {
-    "description": "\u6296\u97f3\u6536\u85cf\u5939 RAG \u77e5\u8bc6\u5e93 \u00b7 fork of MQTQW/douyinmind\uff5c\u628a\u6536\u85cf\u5939\u53d8\u6210\u53ef\u641c\u7d22\u3001\u53ef\u5bf9\u8bdd\u7684\u77e5\u8bc6\u5e93",
-    "id": "EypeZeo/DouyinMind-Plus",
-    "language": "Python",
-    "name": "EypeZeo/DouyinMind-Plus",
-    "stars": 0,
-    "updated_at": "2026-09-06T12:09:10Z",
-    "url": "https://github.com/EypeZeo/DouyinMind-Plus"
-  },
-  {
-    "description": "MCP server for semantic codebase indexing and intelligent code search, powered by Qdrant.",
-    "id": "Knighthawk-Leo/RepoMind",
-    "language": "Python",
-    "name": "Knighthawk-Leo/RepoMind",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:33:09Z",
-    "url": "https://github.com/Knighthawk-Leo/RepoMind"
   }
 ]
