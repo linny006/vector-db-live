@@ -1,5 +1,41 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-06T20:54:32Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "RAG pipeline that turns PDFs, Word docs, and slide decks into fact-based articles. FastAPI + unstructured + Qdrant, with",
+    "id": "edilma/ai_blog_api_service",
+    "language": "Python",
+    "name": "edilma/ai_blog_api_service",
+    "stars": 0,
+    "updated_at": "2026-09-06T20:52:28Z",
+    "url": "https://github.com/edilma/ai_blog_api_service"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T20:50:54Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Embedding-based log anomaly detection with a vector database as part of the model. MiniLM + Qdrant, three unsupervised d",
+    "id": "bitr00t/log-anomaly-lab",
+    "language": "Python",
+    "name": "bitr00t/log-anomaly-lab",
+    "stars": 0,
+    "updated_at": "2026-09-06T20:50:03Z",
+    "url": "https://github.com/bitr00t/log-anomaly-lab"
+  },
+  {
     "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
     "id": "GlitterKill/sdl-mcp",
     "language": "TypeScript",
@@ -18,21 +54,12 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T20:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-06T20:45:18Z",
+    "updated_at": "2026-09-06T21:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7077,
-    "updated_at": "2026-09-06T19:41:30Z",
+    "updated_at": "2026-09-06T20:58:05Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1884,
     "updated_at": "2026-09-06T18:44:13Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-06T18:42:27Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Samples showcasing Spanner multi model capabilities - across relational, key/value, vector, full-text search and graph",
-    "id": "GoogleCloudPlatform/spanner-bb-samples",
-    "language": "Python",
-    "name": "GoogleCloudPlatform/spanner-bb-samples",
-    "stars": 6,
-    "updated_at": "2026-09-06T18:42:24Z",
-    "url": "https://github.com/GoogleCloudPlatform/spanner-bb-samples"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-09-06T18:42:18Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
   }
 ]
