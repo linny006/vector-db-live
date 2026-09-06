@@ -1,5 +1,149 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T04:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
+    "id": "a258huit58/claude-memory",
+    "language": "JavaScript",
+    "name": "a258huit58/claude-memory",
+    "stars": 1,
+    "updated_at": "2026-09-06T03:59:39Z",
+    "url": "https://github.com/a258huit58/claude-memory"
+  },
+  {
+    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
+    "id": "Anonymousforareason111/hybrid-orchestrator",
+    "language": "Python",
+    "name": "Anonymousforareason111/hybrid-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-09-06T03:58:27Z",
+    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
+  },
+  {
+    "description": "Software engineering portfolio with an integrated RAG-powered TalentBot assistant for recruiter-facing Q&A about my expe",
+    "id": "nishanthrjn/nishanthrjn.github.io",
+    "language": "JavaScript",
+    "name": "nishanthrjn/nishanthrjn.github.io",
+    "stars": 0,
+    "updated_at": "2026-09-06T03:56:46Z",
+    "url": "https://github.com/nishanthrjn/nishanthrjn.github.io"
+  },
+  {
+    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
+    "id": "ELSAKKK/mnemos-mcp",
+    "language": "Python",
+    "name": "ELSAKKK/mnemos-mcp",
+    "stars": 5,
+    "updated_at": "2026-09-06T03:54:15Z",
+    "url": "https://github.com/ELSAKKK/mnemos-mcp"
+  },
+  {
+    "description": "Encrypted, fully offline agentic memory. One click install, GUI w/ memory map, all OS and agents. Superior memory creati",
+    "id": "MaxFreedomPollard/Compartment",
+    "language": "Python",
+    "name": "MaxFreedomPollard/Compartment",
+    "stars": 592,
+    "updated_at": "2026-09-06T03:53:40Z",
+    "url": "https://github.com/MaxFreedomPollard/Compartment"
+  },
+  {
+    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
+    "id": "hankamarvanova/unified-db",
+    "language": "Swift",
+    "name": "hankamarvanova/unified-db",
+    "stars": 2,
+    "updated_at": "2026-09-06T03:53:23Z",
+    "url": "https://github.com/hankamarvanova/unified-db"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
+    "id": "BiggerCap/agentops-hub",
+    "language": "TypeScript",
+    "name": "BiggerCap/agentops-hub",
+    "stars": 2,
+    "updated_at": "2026-09-06T03:53:20Z",
+    "url": "https://github.com/BiggerCap/agentops-hub"
+  },
+  {
+    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
+    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "language": "Python",
+    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "stars": 2,
+    "updated_at": "2026-09-06T03:52:31Z",
+    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
+  },
+  {
+    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
+    "id": "aadityansha06/vecdb",
+    "language": "C",
+    "name": "aadityansha06/vecdb",
+    "stars": 7,
+    "updated_at": "2026-09-06T03:51:44Z",
+    "url": "https://github.com/aadityansha06/vecdb"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-09-06T03:48:53Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-09-06T03:48:28Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 2,
+    "updated_at": "2026-09-06T03:48:19Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-06T03:47:31Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1466,
+    "updated_at": "2026-09-06T03:51:18Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T03:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "",
     "id": "juliusadroit905/RAG-vs-Fine-Tuning",
     "language": "\u2014",
@@ -14,17 +158,8 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 57,
-    "updated_at": "2026-09-06T03:44:19Z",
+    "updated_at": "2026-09-06T03:45:46Z",
     "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1466,
-    "updated_at": "2026-09-06T03:41:45Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
@@ -34,15 +169,6 @@
     "stars": 6,
     "updated_at": "2026-09-06T03:39:14Z",
     "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
-    "id": "aadityansha06/vecdb",
-    "language": "C",
-    "name": "aadityansha06/vecdb",
-    "stars": 7,
-    "updated_at": "2026-09-06T03:38:31Z",
-    "url": "https://github.com/aadityansha06/vecdb"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -99,30 +225,12 @@
     "url": "https://github.com/zmwzmo11130/neuraldocs"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T03:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T03:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "",
     "id": "NickFlach/kannaka-memory",
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-09-06T03:22:59Z",
+    "updated_at": "2026-09-06T03:48:31Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -140,7 +248,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1130,
-    "updated_at": "2026-09-06T03:43:08Z",
+    "updated_at": "2026-09-06T03:56:53Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -185,7 +293,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 91,
-    "updated_at": "2026-09-06T02:15:52Z",
+    "updated_at": "2026-09-06T03:49:18Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T00:36:07Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-06T00:34:30Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1474,
-    "updated_at": "2026-09-06T03:04:38Z",
-    "url": "https://github.com/datalevin/datalevin"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-06T00:19:50Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3287,
-    "updated_at": "2026-09-05T23:59:10Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9232,
-    "updated_at": "2026-09-06T03:18:00Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11360,
-    "updated_at": "2026-09-05T23:26:02Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "RAG system to chat with PDF, DOCX, and TXT documents with source-grounded answers",
-    "id": "eugen-goebel/smart-doc-qa",
-    "language": "Python",
-    "name": "eugen-goebel/smart-doc-qa",
-    "stars": 0,
-    "updated_at": "2026-09-05T23:17:22Z",
-    "url": "https://github.com/eugen-goebel/smart-doc-qa"
-  },
-  {
-    "description": "Python SDK + LangChain GraphStore & LlamaIndex PropertyGraphStore for CoordiNode \u2014 AI-native graph + vector + full-text ",
-    "id": "structured-world/coordinode-python",
-    "language": "Python",
-    "name": "structured-world/coordinode-python",
-    "stars": 0,
-    "updated_at": "2026-09-05T22:49:18Z",
-    "url": "https://github.com/structured-world/coordinode-python"
-  },
-  {
-    "description": "Declarative SQL query engine for Qdrant and edge vector databases. Multi-vector dense & BM25 sparse search, hybrid retri",
-    "id": "srimon12/qql-rs",
-    "language": "Rust",
-    "name": "srimon12/qql-rs",
-    "stars": 4,
-    "updated_at": "2026-09-06T01:31:41Z",
-    "url": "https://github.com/srimon12/qql-rs"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang",
-    "id": "pnoboesam/ghana-constitution-rag",
-    "language": "Python",
-    "name": "pnoboesam/ghana-constitution-rag",
-    "stars": 0,
-    "updated_at": "2026-09-05T22:24:44Z",
-    "url": "https://github.com/pnoboesam/ghana-constitution-rag"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-05T22:13:35Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
-    "id": "rustic-ai/uni-db",
-    "language": "Rust",
-    "name": "rustic-ai/uni-db",
-    "stars": 53,
-    "updated_at": "2026-09-05T21:51:34Z",
-    "url": "https://github.com/rustic-ai/uni-db"
   }
 ]
