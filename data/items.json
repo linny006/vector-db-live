@@ -1,11 +1,56 @@
 [
   {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 3,
+    "updated_at": "2026-09-06T21:57:34Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
+    "id": "Forstwichtel/TensoRAG",
+    "language": "Python",
+    "name": "Forstwichtel/TensoRAG",
+    "stars": 1,
+    "updated_at": "2026-09-06T21:55:33Z",
+    "url": "https://github.com/Forstwichtel/TensoRAG"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 91,
+    "updated_at": "2026-09-06T21:49:57Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T21:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T21:45:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
     "id": "Cognipeer/console",
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 23,
-    "updated_at": "2026-09-06T21:41:12Z",
+    "updated_at": "2026-09-06T21:50:02Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -18,24 +63,6 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 3,
-    "updated_at": "2026-09-06T21:36:40Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
-    "id": "Forstwichtel/TensoRAG",
-    "language": "Python",
-    "name": "Forstwichtel/TensoRAG",
-    "stars": 1,
-    "updated_at": "2026-09-06T21:35:11Z",
-    "url": "https://github.com/Forstwichtel/TensoRAG"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -45,30 +72,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T21:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T21:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Embeddable vector database for edge AI",
     "id": "vanedb/vanedb",
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-09-06T21:44:01Z",
+    "updated_at": "2026-09-06T21:52:08Z",
     "url": "https://github.com/vanedb/vanedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-06T18:51:51Z",
     "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-09-06T18:50:55Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
   }
 ]
