@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-06T14:30:20Z",
+    "updated_at": "2026-09-06T14:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-06T14:43:42Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "A Flask-based Investment Portfolio Tracker with an agentic AI assistant. Implements layered backend architecture, portfo",
+    "id": "jyothi-basu/investment-portfolio-tracker",
+    "language": "Python",
+    "name": "jyothi-basu/investment-portfolio-tracker",
+    "stars": 0,
+    "updated_at": "2026-09-06T14:39:35Z",
+    "url": "https://github.com/jyothi-basu/investment-portfolio-tracker"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-06T14:39:25Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
+    "id": "aadityansha06/vecdb",
+    "language": "C",
+    "name": "aadityansha06/vecdb",
+    "stars": 8,
+    "updated_at": "2026-09-06T14:39:21Z",
+    "url": "https://github.com/aadityansha06/vecdb"
+  },
+  {
+    "description": "FastAPI RAG microservice powering the AI layer of EduMate, indexes 50+ CS textbooks into ChromaDB for Dev and Qdrant Clo",
+    "id": "MoTahaAboHeiba/EduMate-RAG",
+    "language": "Python",
+    "name": "MoTahaAboHeiba/EduMate-RAG",
+    "stars": 11,
+    "updated_at": "2026-09-06T14:35:54Z",
+    "url": "https://github.com/MoTahaAboHeiba/EduMate-RAG"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-06T14:33:54Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Embedded vector database in Rust with Python bindings \u2014 TurboQuant algorithm (arXiv:2504.19874), zero training, 2\u20134 bit ",
+    "id": "jyunming/TurboQuantDB",
+    "language": "Python",
+    "name": "jyunming/TurboQuantDB",
+    "stars": 2,
+    "updated_at": "2026-09-06T14:33:58Z",
+    "url": "https://github.com/jyunming/TurboQuantDB"
+  },
+  {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 472,
+    "updated_at": "2026-09-06T14:33:12Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T14:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Python package to visualize local chroma db",
@@ -27,24 +108,6 @@
     "url": "https://github.com/alxxtexxr/arxiv_agent"
   },
   {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-06T14:23:48Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
-    "id": "aadityansha06/vecdb",
-    "language": "C",
-    "name": "aadityansha06/vecdb",
-    "stars": 8,
-    "updated_at": "2026-09-06T14:22:17Z",
-    "url": "https://github.com/aadityansha06/vecdb"
-  },
-  {
     "description": "A high-throughput distributed vector database built from scratch in C++20 with hand-crafted AVX2/FMA SIMD acceleration, ",
     "id": "rinkeshverma27/High-Throughput-Distributed-Vector-Search-Engine",
     "language": "C++",
@@ -52,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T14:20:23Z",
     "url": "https://github.com/rinkeshverma27/High-Throughput-Distributed-Vector-Search-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T14:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T14:08:49Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-06T14:07:08Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -216,6 +261,15 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 45998,
+    "updated_at": "2026-09-06T12:59:28Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -232,15 +286,6 @@
     "stars": 91,
     "updated_at": "2026-09-06T12:57:23Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Embedded vector database in Rust with Python bindings \u2014 TurboQuant algorithm (arXiv:2504.19874), zero training, 2\u20134 bit ",
-    "id": "jyunming/TurboQuantDB",
-    "language": "Python",
-    "name": "jyunming/TurboQuantDB",
-    "stars": 2,
-    "updated_at": "2026-09-06T14:19:40Z",
-    "url": "https://github.com/jyunming/TurboQuantDB"
   },
   {
     "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
@@ -293,7 +338,7 @@
     "language": "Python",
     "name": "SlavaKlkv/local_knowledge_rag",
     "stars": 0,
-    "updated_at": "2026-09-06T13:55:24Z",
+    "updated_at": "2026-09-06T14:41:04Z",
     "url": "https://github.com/SlavaKlkv/local_knowledge_rag"
   },
   {
@@ -329,7 +374,7 @@
     "language": "Python",
     "name": "Knighthawk-Leo/RepoMind",
     "stars": 0,
-    "updated_at": "2026-09-06T12:08:56Z",
+    "updated_at": "2026-09-06T14:33:09Z",
     "url": "https://github.com/Knighthawk-Leo/RepoMind"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T11:47:57Z",
     "url": "https://github.com/ZERO-70/Emotional-RAG-2.0"
-  },
-  {
-    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
-    "id": "TowsifAhamed/GameRagKit",
-    "language": "C#",
-    "name": "TowsifAhamed/GameRagKit",
-    "stars": 2,
-    "updated_at": "2026-09-06T11:49:50Z",
-    "url": "https://github.com/TowsifAhamed/GameRagKit"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 25,
-    "updated_at": "2026-09-06T11:47:31Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "Persistent memory and knowledge graph for AI agents via MCP \u2014 PostgreSQL + pgvector + Ollama",
-    "id": "vicquick/nobrainr",
-    "language": "Python",
-    "name": "vicquick/nobrainr",
-    "stars": 1,
-    "updated_at": "2026-09-06T11:39:35Z",
-    "url": "https://github.com/vicquick/nobrainr"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9433,
-    "updated_at": "2026-09-06T14:13:03Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-06T11:30:05Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
   }
 ]
