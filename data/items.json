@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T07:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Full-stack medical RAG system - FastAPI, React, Google Gemini, FAISS vector search, local OCR for scanned PDFs. Answers ",
+    "id": "sanzizlohar/medical-rag",
+    "language": "Python",
+    "name": "sanzizlohar/medical-rag",
+    "stars": 0,
+    "updated_at": "2026-09-06T07:44:45Z",
+    "url": "https://github.com/sanzizlohar/medical-rag"
+  },
+  {
+    "description": "RAG chatbot that answers questions from your PDFs, grounded in the document's actual content with page-level source cita",
+    "id": "maniesh-lab/ragdocs",
+    "language": "Python",
+    "name": "maniesh-lab/ragdocs",
+    "stars": 0,
+    "updated_at": "2026-09-06T07:43:23Z",
+    "url": "https://github.com/maniesh-lab/ragdocs"
+  },
+  {
+    "description": "Agentic hybrid-RAG auditor for SEC 10-K filings \u2014 dense+BM25 retrieval, DPO-tuned Llama-3 extraction, zero-hallucination",
+    "id": "SkJishan04/sec10k-auditor",
+    "language": "Python",
+    "name": "SkJishan04/sec10k-auditor",
+    "stars": 1,
+    "updated_at": "2026-09-06T07:40:45Z",
+    "url": "https://github.com/SkJishan04/sec10k-auditor"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 278,
+    "updated_at": "2026-09-06T07:36:36Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-06T07:34:00Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "High-density streaming VDB. Built on Hnswlib. 100% memory-safe under extreme data bursts.",
+    "id": "CantorAI/Quanta",
+    "language": "C++",
+    "name": "CantorAI/Quanta",
+    "stars": 1,
+    "updated_at": "2026-09-06T07:33:25Z",
+    "url": "https://github.com/CantorAI/Quanta"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1130,
+    "updated_at": "2026-09-06T07:31:19Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T07:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI, LLM, and RAG platform infrastructure blueprint with Docker Compose, routing, storage, and observability notes.",
     "id": "AliZahiri/ai-rag-platform-blueprint",
     "language": "Python",
@@ -14,7 +95,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 57,
-    "updated_at": "2026-09-06T07:26:39Z",
+    "updated_at": "2026-09-06T07:34:17Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -36,31 +117,13 @@
     "url": "https://github.com/TowsifAhamed/GameRagKit"
   },
   {
-    "description": "Agentic hybrid-RAG auditor for SEC 10-K filings \u2014 dense+BM25 retrieval, DPO-tuned Llama-3 extraction, zero-hallucination",
-    "id": "SkJishan04/sec10k-auditor",
-    "language": "Python",
-    "name": "SkJishan04/sec10k-auditor",
-    "stars": 1,
-    "updated_at": "2026-09-06T07:21:01Z",
-    "url": "https://github.com/SkJishan04/sec10k-auditor"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T07:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T07:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8183,
+    "updated_at": "2026-09-06T07:45:00Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "On-prem, MCP-native memory for AI agents in regulated settings: every write lands in a SHA-256 hash-chained log an audit",
@@ -70,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-09-06T07:11:49Z",
     "url": "https://github.com/sattyamjjain/mnemo"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-06T07:08:50Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -142,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T06:50:15Z",
     "url": "https://github.com/EypeZeo/DouyinMind-Plus"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1130,
-    "updated_at": "2026-09-06T06:40:19Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI-powered document intelligence system using RAG (FAISS + Sentence Transformers) and Groq LLM to extract structured ins",
@@ -248,7 +293,7 @@
     "language": "Python",
     "name": "yantrikos/yantrikdb-mcp",
     "stars": 24,
-    "updated_at": "2026-09-06T07:28:31Z",
+    "updated_at": "2026-09-06T07:35:22Z",
     "url": "https://github.com/yantrikos/yantrikdb-mcp"
   },
   {
@@ -304,24 +349,6 @@
     "stars": 6232,
     "updated_at": "2026-09-06T04:56:16Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 278,
-    "updated_at": "2026-09-06T07:29:58Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8182,
-    "updated_at": "2026-09-06T07:20:52Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "EKA Agent \u2014 Multi-device data ingestion, LoRA training pipeline, and vector DB for a private AI agent. Hub-and-spoke: 6 ",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T04:14:01Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:11:07Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-06T04:11:00Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-09-06T04:09:58Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
   }
 ]
