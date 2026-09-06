@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-06T16:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightweight personal AI assistant with local memory using Ollama, Mem0, and Qdrant.",
+    "id": "VaishaliJojra/personal-ai-memory",
+    "language": "Python",
+    "name": "VaishaliJojra/personal-ai-memory",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:13:51Z",
+    "url": "https://github.com/VaishaliJojra/personal-ai-memory"
+  },
+  {
+    "description": "A modular RAG search engine built with Qdrant vector database, Whisper audio transcription, and LLMs",
+    "id": "sandeshsachan054-tech/qdrant-rag-engine",
+    "language": "Python",
+    "name": "sandeshsachan054-tech/qdrant-rag-engine",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:10:03Z",
+    "url": "https://github.com/sandeshsachan054-tech/qdrant-rag-engine"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-06T16:08:32Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Persistent AI memory with crossover \u2014 your AI at home shares the same memory as your AI at work. What one LLM learns, al",
+    "id": "RonnyTome/cube-memory-sdk",
+    "language": "Python",
+    "name": "RonnyTome/cube-memory-sdk",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:06:57Z",
+    "url": "https://github.com/RonnyTome/cube-memory-sdk"
+  },
+  {
+    "description": "Shared, persistent vector memory over MCP \u2014 give Claude Code, Cursor, Codex, and other agents a common long-term memory ",
+    "id": "thammarongg/blueocean-vector",
+    "language": "Python",
+    "name": "thammarongg/blueocean-vector",
+    "stars": 0,
+    "updated_at": "2026-09-06T16:01:19Z",
+    "url": "https://github.com/thammarongg/blueocean-vector"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-06T16:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Shotit is a screenshot-to-video search engine tailored for TV & Film, blazing-fast and compute-efficient.",
     "id": "shotit/shotit",
     "language": "\u2014",
@@ -23,7 +86,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1884,
-    "updated_at": "2026-09-06T15:55:41Z",
+    "updated_at": "2026-09-06T16:12:08Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -54,33 +117,6 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "A lightweight personal AI assistant with local memory using Ollama, Mem0, and Qdrant.",
-    "id": "VaishaliJojra/personal-ai-memory",
-    "language": "Python",
-    "name": "VaishaliJojra/personal-ai-memory",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:47:22Z",
-    "url": "https://github.com/VaishaliJojra/personal-ai-memory"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-06T15:47:16Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T15:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "",
     "id": "moyunzero/personal-gpt",
     "language": "TypeScript",
@@ -104,7 +140,7 @@
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-09-06T15:58:53Z",
+    "updated_at": "2026-09-06T16:11:27Z",
     "url": "https://github.com/vanedb/vanedb"
   },
   {
@@ -112,7 +148,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30516,
+    "stars": 30517,
     "updated_at": "2026-09-06T15:35:24Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -126,15 +162,6 @@
     "url": "https://github.com/MoTahaAboHeiba/EduMate-RAG"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-06T15:33:44Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "RAG system built from scratch over arXiv papers. Tokenizer-aware chunking, BGE embeddings, ChromaDB, and grounded Claude",
     "id": "DBlassio/rag-arxiv-fds",
     "language": "Python",
@@ -142,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T15:33:07Z",
     "url": "https://github.com/DBlassio/rag-arxiv-fds"
-  },
-  {
-    "description": "Shared, persistent vector memory over MCP \u2014 give Claude Code, Cursor, Codex, and other agents a common long-term memory ",
-    "id": "thammarongg/blueocean-vector",
-    "language": "Python",
-    "name": "thammarongg/blueocean-vector",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:32:17Z",
-    "url": "https://github.com/thammarongg/blueocean-vector"
   },
   {
     "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-06T15:20:18Z",
     "url": "https://github.com/rinkeshverma27/High-Throughput-Distributed-Vector-Search-Engine"
-  },
-  {
-    "description": "Persistent AI memory with crossover \u2014 your AI at home shares the same memory as your AI at work. What one LLM learns, al",
-    "id": "RonnyTome/cube-memory-sdk",
-    "language": "Python",
-    "name": "RonnyTome/cube-memory-sdk",
-    "stars": 0,
-    "updated_at": "2026-09-06T15:20:14Z",
-    "url": "https://github.com/RonnyTome/cube-memory-sdk"
   },
   {
     "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
@@ -212,7 +221,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6232,
-    "updated_at": "2026-09-06T15:59:47Z",
+    "updated_at": "2026-09-06T16:12:11Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -266,7 +275,7 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-09-06T15:39:06Z",
+    "updated_at": "2026-09-06T16:01:49Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -301,7 +310,7 @@
     "id": "rostamlabs/rostam",
     "language": "Go",
     "name": "rostamlabs/rostam",
-    "stars": 31,
+    "stars": 32,
     "updated_at": "2026-09-06T14:10:27Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-06T12:46:39Z",
     "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7077,
-    "updated_at": "2026-09-06T12:44:54Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
