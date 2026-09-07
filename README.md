@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-06 23:45 UTC
+> ⏰ Last updated: 2026-09-07 00:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,56 +42,56 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1884 | Go | 2026-09-06 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 1 | [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) | 3288 | TypeScript | 2026-09-06 | Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem |
 | 2 | [frogdb/frogdb](https://github.com/frogdb/frogdb) | 8 | Rust | 2026-09-06 | Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering. |
-| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-06 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 4 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-09-06 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-07 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 17 | TypeScript | 2026-09-06 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
 | 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-06 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-06 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 7 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 472 | TypeScript | 2026-09-06 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
-| 8 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-09-06 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 9 | [jyunming/TurboQuantDB](https://github.com/jyunming/TurboQuantDB) | 2 | Python | 2026-09-06 | Embedded vector database in Rust with Python bindings — TurboQuant algorithm (arXiv:2504.19874), zero training, 2–4 bit  |
-| 10 | [ClickHouse/embeddings](https://github.com/ClickHouse/embeddings) | 3 | HTML | 2026-09-06 | Interactive real-time viewer and search engine across 100 million images, 50 million comments, and 20 million websites,  |
-| 11 | [Cognipeer/console](https://github.com/Cognipeer/console) | 23 | TypeScript | 2026-09-06 | Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub,  |
-| 12 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-06 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 13 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-09-06 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
-| 14 | [RonnyTome/cube-memory-sdk](https://github.com/RonnyTome/cube-memory-sdk) | 0 | Python | 2026-09-06 | Persistent AI memory with crossover — your AI at home shares the same memory as your AI at work. What one LLM learns, al |
-| 15 | [tryAGI/Chroma](https://github.com/tryAGI/Chroma) | 1 | C# | 2026-09-06 | C# SDK for the Chroma API -- open-source vector database |
-| 16 | [tryAGI/Qdrant](https://github.com/tryAGI/Qdrant) | 0 | C# | 2026-09-06 | C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management |
-| 17 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46000 | Go | 2026-09-06 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 18 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-06 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 19 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9235 | Rust | 2026-09-06 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 20 | [Forstwichtel/TensoRAG](https://github.com/Forstwichtel/TensoRAG) | 1 | Python | 2026-09-06 | TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp |
-| 21 | [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) | 3288 | TypeScript | 2026-09-06 | Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem |
-| 22 | [GCTRL-TECH/platform](https://github.com/GCTRL-TECH/platform) | 7 | TypeScript | 2026-09-06 | Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove |
-| 23 | [FraiseHQ/fraise](https://github.com/FraiseHQ/fraise) | 3 | Go | 2026-09-06 | In-memory knowledge store for AI agents |
-| 24 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 91 | Rust | 2026-09-06 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 25 | [vanedb/vanedb](https://github.com/vanedb/vanedb) | 0 | Rust | 2026-09-06 | Embeddable vector database for edge AI |
-| 26 | [UKaran2811/LabelLens](https://github.com/UKaran2811/LabelLens) | 1 | HTML | 2026-09-06 | AI-powered food label scanner — OCR ingredient extraction, EFSA-backed additive safety analysis, and a kids' safety verd |
-| 27 | [bednarjosef/geomatch](https://github.com/bednarjosef/geomatch) | 1 | Python | 2026-09-06 | A system of vector search and exact feature matching built for fast location pinpointing in a city. |
-| 28 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1133 | Java | 2026-09-06 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 29 | [LuisinTheLegend/ConciergeGraph](https://github.com/LuisinTheLegend/ConciergeGraph) | 1 | Python | 2026-09-06 | Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP. |
-| 30 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34411 | Rust | 2026-09-06 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
-| 31 | [edilma/ai_blog_api_service](https://github.com/edilma/ai_blog_api_service) | 0 | Python | 2026-09-06 | Generates original, fact-grounded product and listing content from source documents — manufacturer spec sheets, property |
-| 32 | [bitr00t/log-anomaly-lab](https://github.com/bitr00t/log-anomaly-lab) | 0 | Python | 2026-09-06 | Embedding-based log anomaly detection with a vector database as part of the model. MiniLM + Qdrant, three unsupervised d |
-| 33 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11366 | Rust | 2026-09-06 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 34 | [Akshay-professor/helpdesk-copilot](https://github.com/Akshay-professor/helpdesk-copilot) | 0 | JavaScript | 2026-09-06 | Agentic customer support platform — hand-written agent loop, RAG, human-in-the-loop approvals, multi-agent specialists,  |
-| 35 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 57 | Rust | 2026-09-06 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
-| 36 | [rehan243/rehan243](https://github.com/rehan243/rehan243) | 2 | — | 2026-09-06 | Profile README |
-| 37 | [100wahidi/Realtime-data-embedding-pipeline](https://github.com/100wahidi/Realtime-data-embedding-pipeline) | 0 | TypeScript | 2026-09-06 | [SQL, TypeScript] Realtime data embedding and indexing for RAG with Supabase, posgresql  |
-| 38 | [rehan243/RAG-Enterprise-Search](https://github.com/rehan243/RAG-Enterprise-Search) | 1 | Python | 2026-09-06 | Production RAG pipeline — enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi |
-| 39 | [IsaakAlemu/amharic-rag-assistant](https://github.com/IsaakAlemu/amharic-rag-assistant) | 0 | Python | 2026-09-06 | Low-resource Ethiopic NLP Retrieval-Augmented Generation assistant using LangChain, ChromaDB semantic embeddings, and St |
-| 40 | [ManojMareedu/finsight-ai](https://github.com/ManojMareedu/finsight-ai) | 3 | Python | 2026-09-06 | FinSight AI is a multi-agent due diligence platform that turns real SEC 10-K filings, live financial metrics, and news i |
-| 41 | [codenamekt/hexus](https://github.com/codenamekt/hexus) | 14 | Python | 2026-09-06 | Postgres-Powered Vector Memory for the Agentic Age |
-| 42 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-06 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
-| 43 | [TAIPANBOX/engram](https://github.com/TAIPANBOX/engram) | 2 | Python | 2026-09-06 | SQLite of agent memory — single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi |
-| 44 | [MariaDB/server](https://github.com/MariaDB/server) | 8184 | C++ | 2026-09-06 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
-| 45 | [api-evangelist/machine-learning](https://github.com/api-evangelist/machine-learning) | 0 | HTML | 2026-09-06 | API platform info for machine-learning |
-| 46 | [api-evangelist/database](https://github.com/api-evangelist/database) | 0 | HTML | 2026-09-06 | API platform info for database |
-| 47 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7077 | Java | 2026-09-06 | The AI search platform |
-| 48 | [HollowGlow48271596/saas-tenant-vector-ingest-vector-ingest-saas-typescript-x](https://github.com/HollowGlow48271596/saas-tenant-vector-ingest-vector-ingest-saas-typescript-x) | 0 | TypeScript | 2026-09-06 | Typed tenant-aware document chunking and vector ingestion service for B2B SaaS admin workflows. |
-| 49 | [Aashutosh31/arc-ai-project](https://github.com/Aashutosh31/arc-ai-project) | 2 | JavaScript | 2026-09-06 | Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows |
-| 50 | [bzync/nextsql](https://github.com/bzync/nextsql) | 0 | Go | 2026-09-06 | NextSQL is a new database engine, written primarily in Go. It is not a compatibility layer for PostgreSQL, MySQL, MariaD |
+| 6 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1884 | Go | 2026-09-06 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-06 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 8 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-09-06 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 9 | [GlitterKill/sdl-mcp](https://github.com/GlitterKill/sdl-mcp) | 472 | TypeScript | 2026-09-06 | Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com |
+| 10 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-09-06 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 11 | [jyunming/TurboQuantDB](https://github.com/jyunming/TurboQuantDB) | 2 | Python | 2026-09-06 | Embedded vector database in Rust with Python bindings — TurboQuant algorithm (arXiv:2504.19874), zero training, 2–4 bit  |
+| 12 | [ClickHouse/embeddings](https://github.com/ClickHouse/embeddings) | 3 | HTML | 2026-09-06 | Interactive real-time viewer and search engine across 100 million images, 50 million comments, and 20 million websites,  |
+| 13 | [Cognipeer/console](https://github.com/Cognipeer/console) | 23 | TypeScript | 2026-09-06 | Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub,  |
+| 14 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-06 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 15 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-09-06 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
+| 16 | [RonnyTome/cube-memory-sdk](https://github.com/RonnyTome/cube-memory-sdk) | 0 | Python | 2026-09-06 | Persistent AI memory with crossover — your AI at home shares the same memory as your AI at work. What one LLM learns, al |
+| 17 | [tryAGI/Chroma](https://github.com/tryAGI/Chroma) | 1 | C# | 2026-09-06 | C# SDK for the Chroma API -- open-source vector database |
+| 18 | [tryAGI/Qdrant](https://github.com/tryAGI/Qdrant) | 0 | C# | 2026-09-06 | C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management |
+| 19 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46000 | Go | 2026-09-06 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 20 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-06 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 21 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9235 | Rust | 2026-09-06 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 22 | [Forstwichtel/TensoRAG](https://github.com/Forstwichtel/TensoRAG) | 1 | Python | 2026-09-06 | TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp |
+| 23 | [GCTRL-TECH/platform](https://github.com/GCTRL-TECH/platform) | 7 | TypeScript | 2026-09-06 | Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove |
+| 24 | [FraiseHQ/fraise](https://github.com/FraiseHQ/fraise) | 3 | Go | 2026-09-06 | In-memory knowledge store for AI agents |
+| 25 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 91 | Rust | 2026-09-06 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 26 | [vanedb/vanedb](https://github.com/vanedb/vanedb) | 0 | Rust | 2026-09-06 | Embeddable vector database for edge AI |
+| 27 | [UKaran2811/LabelLens](https://github.com/UKaran2811/LabelLens) | 1 | HTML | 2026-09-06 | AI-powered food label scanner — OCR ingredient extraction, EFSA-backed additive safety analysis, and a kids' safety verd |
+| 28 | [bednarjosef/geomatch](https://github.com/bednarjosef/geomatch) | 1 | Python | 2026-09-06 | A system of vector search and exact feature matching built for fast location pinpointing in a city. |
+| 29 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1133 | Java | 2026-09-06 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 30 | [LuisinTheLegend/ConciergeGraph](https://github.com/LuisinTheLegend/ConciergeGraph) | 1 | Python | 2026-09-06 | Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP. |
+| 31 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34411 | Rust | 2026-09-06 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 32 | [edilma/ai_blog_api_service](https://github.com/edilma/ai_blog_api_service) | 0 | Python | 2026-09-06 | Generates original, fact-grounded product and listing content from source documents — manufacturer spec sheets, property |
+| 33 | [bitr00t/log-anomaly-lab](https://github.com/bitr00t/log-anomaly-lab) | 0 | Python | 2026-09-06 | Embedding-based log anomaly detection with a vector database as part of the model. MiniLM + Qdrant, three unsupervised d |
+| 34 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11366 | Rust | 2026-09-06 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 35 | [Akshay-professor/helpdesk-copilot](https://github.com/Akshay-professor/helpdesk-copilot) | 0 | JavaScript | 2026-09-06 | Agentic customer support platform — hand-written agent loop, RAG, human-in-the-loop approvals, multi-agent specialists,  |
+| 36 | [yantrikos/yantrikdb](https://github.com/yantrikos/yantrikdb) | 57 | Rust | 2026-09-06 | Cognitive memory engine for AI agents — temporal decay, contradiction detection, autonomous consolidation, knowledge gra |
+| 37 | [rehan243/rehan243](https://github.com/rehan243/rehan243) | 2 | — | 2026-09-06 | Profile README |
+| 38 | [100wahidi/Realtime-data-embedding-pipeline](https://github.com/100wahidi/Realtime-data-embedding-pipeline) | 0 | TypeScript | 2026-09-06 | [SQL, TypeScript] Realtime data embedding and indexing for RAG with Supabase, posgresql  |
+| 39 | [rehan243/RAG-Enterprise-Search](https://github.com/rehan243/RAG-Enterprise-Search) | 1 | Python | 2026-09-06 | Production RAG pipeline — enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi |
+| 40 | [IsaakAlemu/amharic-rag-assistant](https://github.com/IsaakAlemu/amharic-rag-assistant) | 0 | Python | 2026-09-06 | Low-resource Ethiopic NLP Retrieval-Augmented Generation assistant using LangChain, ChromaDB semantic embeddings, and St |
+| 41 | [ManojMareedu/finsight-ai](https://github.com/ManojMareedu/finsight-ai) | 3 | Python | 2026-09-06 | FinSight AI is a multi-agent due diligence platform that turns real SEC 10-K filings, live financial metrics, and news i |
+| 42 | [codenamekt/hexus](https://github.com/codenamekt/hexus) | 14 | Python | 2026-09-06 | Postgres-Powered Vector Memory for the Agentic Age |
+| 43 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-06 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
+| 44 | [TAIPANBOX/engram](https://github.com/TAIPANBOX/engram) | 2 | Python | 2026-09-06 | SQLite of agent memory — single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi |
+| 45 | [MariaDB/server](https://github.com/MariaDB/server) | 8184 | C++ | 2026-09-06 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
+| 46 | [api-evangelist/machine-learning](https://github.com/api-evangelist/machine-learning) | 0 | HTML | 2026-09-06 | API platform info for machine-learning |
+| 47 | [api-evangelist/database](https://github.com/api-evangelist/database) | 0 | HTML | 2026-09-06 | API platform info for database |
+| 48 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7077 | Java | 2026-09-06 | The AI search platform |
+| 49 | [HollowGlow48271596/saas-tenant-vector-ingest-vector-ingest-saas-typescript-x](https://github.com/HollowGlow48271596/saas-tenant-vector-ingest-vector-ingest-saas-typescript-x) | 0 | TypeScript | 2026-09-06 | Typed tenant-aware document chunking and vector ingestion service for B2B SaaS admin workflows. |
+| 50 | [Aashutosh31/arc-ai-project](https://github.com/Aashutosh31/arc-ai-project) | 2 | JavaScript | 2026-09-06 | Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows |
 <!-- TRACKER_TABLE_END -->
 
 ---
