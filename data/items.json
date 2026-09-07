@@ -1,11 +1,20 @@
 [
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46006,
+    "updated_at": "2026-09-07T07:13:31Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Official TypeScript SDK for Z3rno: native fetch + Zod, zero runtime dependencies, works in Node/Bun/Deno/browser",
     "id": "the-ai-project-co/z3rno-sdk-typescript",
     "language": "TypeScript",
     "name": "the-ai-project-co/z3rno-sdk-typescript",
     "stars": 0,
-    "updated_at": "2026-09-07T06:59:02Z",
+    "updated_at": "2026-09-07T07:06:44Z",
     "url": "https://github.com/the-ai-project-co/z3rno-sdk-typescript"
   },
   {
@@ -14,8 +23,53 @@
     "language": "Python",
     "name": "the-ai-project-co/z3rno-sdk-python",
     "stars": 0,
-    "updated_at": "2026-09-07T06:58:58Z",
+    "updated_at": "2026-09-07T07:06:22Z",
     "url": "https://github.com/the-ai-project-co/z3rno-sdk-python"
+  },
+  {
+    "description": "FastAPI REST server for Z3rno: imports z3rno-core, exposes /v1 API with API-key auth, rate limiting, and RLS-backed mult",
+    "id": "the-ai-project-co/z3rno-server",
+    "language": "Python",
+    "name": "the-ai-project-co/z3rno-server",
+    "stars": 0,
+    "updated_at": "2026-09-07T07:06:15Z",
+    "url": "https://github.com/the-ai-project-co/z3rno-server"
+  },
+  {
+    "description": "Core memory engine for Z3rno: PostgreSQL schema, SQLAlchemy models, Alembic migrations, store/recall/forget/audit librar",
+    "id": "the-ai-project-co/z3rno-core",
+    "language": "Python",
+    "name": "the-ai-project-co/z3rno-core",
+    "stars": 0,
+    "updated_at": "2026-09-07T07:06:08Z",
+    "url": "https://github.com/the-ai-project-co/z3rno-core"
+  },
+  {
+    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
+    "id": "10xHub/Agentflow",
+    "language": "Python",
+    "name": "10xHub/Agentflow",
+    "stars": 20,
+    "updated_at": "2026-09-07T07:05:06Z",
+    "url": "https://github.com/10xHub/Agentflow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T07:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T07:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -25,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-09-07T06:58:57Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Core memory engine for Z3rno: PostgreSQL schema, SQLAlchemy models, Alembic migrations, store/recall/forget/audit librar",
-    "id": "the-ai-project-co/z3rno-core",
-    "language": "Python",
-    "name": "the-ai-project-co/z3rno-core",
-    "stars": 0,
-    "updated_at": "2026-09-07T06:58:54Z",
-    "url": "https://github.com/the-ai-project-co/z3rno-core"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -50,7 +95,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6234,
-    "updated_at": "2026-09-07T06:58:11Z",
+    "updated_at": "2026-09-07T07:13:33Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -59,7 +104,7 @@
     "language": "JavaScript",
     "name": "boomship/postgres-vector-embedded",
     "stars": 2,
-    "updated_at": "2026-09-07T06:55:50Z",
+    "updated_at": "2026-09-07T07:06:41Z",
     "url": "https://github.com/boomship/postgres-vector-embedded"
   },
   {
@@ -79,33 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T06:45:51Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T06:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T06:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46006,
-    "updated_at": "2026-09-07T06:40:06Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -131,7 +149,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9238,
-    "updated_at": "2026-09-07T06:51:45Z",
+    "updated_at": "2026-09-07T07:01:41Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -277,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T05:37:44Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "FastAPI REST server for Z3rno: imports z3rno-core, exposes /v1 API with API-key auth, rate limiting, and RLS-backed mult",
-    "id": "the-ai-project-co/z3rno-server",
-    "language": "Python",
-    "name": "the-ai-project-co/z3rno-server",
-    "stars": 0,
-    "updated_at": "2026-09-07T06:47:29Z",
-    "url": "https://github.com/the-ai-project-co/z3rno-server"
   },
   {
     "description": "The AI search platform",
@@ -437,16 +446,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9433,
-    "updated_at": "2026-09-07T06:55:08Z",
+    "updated_at": "2026-09-07T07:10:22Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Local RAG document Q&A with LangChain + Ollama (qwen2.5): PDF -> vector store -> retrieval -> generation",
-    "id": "1402365177c4-star/langchain-rag-qa",
-    "language": "Python",
-    "name": "1402365177c4-star/langchain-rag-qa",
-    "stars": 0,
-    "updated_at": "2026-09-07T03:06:28Z",
-    "url": "https://github.com/1402365177c4-star/langchain-rag-qa"
   }
 ]
