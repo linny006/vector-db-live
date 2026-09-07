@@ -1,11 +1,65 @@
 [
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7077,
+    "updated_at": "2026-09-07T21:28:35Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "CPU-bound vector math library with SIMD optimization, distance metrics, and foundational protocols for Swift6",
+    "id": "gifton/VectorCore",
+    "language": "Swift",
+    "name": "gifton/VectorCore",
+    "stars": 3,
+    "updated_at": "2026-09-07T21:24:52Z",
+    "url": "https://github.com/gifton/VectorCore"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-09-07T21:20:53Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
+    "id": "yantrikos/yantrikdb-mcp",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-mcp",
+    "stars": 24,
+    "updated_at": "2026-09-07T21:18:05Z",
+    "url": "https://github.com/yantrikos/yantrikdb-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T21:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T21:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1884,
-    "updated_at": "2026-09-07T21:11:52Z",
+    "updated_at": "2026-09-07T21:20:50Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1136,
-    "updated_at": "2026-09-07T21:13:27Z",
+    "updated_at": "2026-09-07T21:15:53Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -61,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T21:00:59Z",
     "url": "https://github.com/alxxtexxr/arxiv_agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T21:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T21:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Federated RAG that picks the right store with arithmetic, not an agent. Runs locally based on Vulkan.",
@@ -104,7 +140,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34422,
-    "updated_at": "2026-09-07T20:49:16Z",
+    "updated_at": "2026-09-07T21:15:55Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -154,12 +190,12 @@
   },
   {
     "description": "",
-    "id": "NickFlach/kannaka-memory",
+    "id": "kannaka-labs/kannaka-memory",
     "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
+    "name": "kannaka-labs/kannaka-memory",
     "stars": 2,
     "updated_at": "2026-09-07T20:26:18Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -252,15 +288,6 @@
     "url": "https://github.com/dhanoliya-ji/DocMinds"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7077,
-    "updated_at": "2026-09-07T19:49:12Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Embeddable vector database for edge AI",
     "id": "vanedb/vanedb",
     "language": "Rust",
@@ -333,15 +360,6 @@
     "url": "https://github.com/dem2007/ChromaDB-Manager"
   },
   {
-    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
-    "id": "yantrikos/yantrikdb-mcp",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-mcp",
-    "stars": 24,
-    "updated_at": "2026-09-07T21:15:16Z",
-    "url": "https://github.com/yantrikos/yantrikdb-mcp"
-  },
-  {
     "description": "An Agentic RAG platform featuring per-project knowledge bases, real-time reasoning steps (query rewriting, grading), and",
     "id": "nehalvaghasiya/agentic-rag",
     "language": "JavaScript",
@@ -405,15 +423,6 @@
     "url": "https://github.com/fewshot-works/academy"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-09-07T20:35:46Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
     "id": "rostamlabs/rostam",
     "language": "Go",
@@ -421,15 +430,6 @@
     "stars": 33,
     "updated_at": "2026-09-07T18:47:14Z",
     "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "CPU-bound vector math library with SIMD optimization, distance metrics, and foundational protocols for Swift6",
-    "id": "gifton/VectorCore",
-    "language": "Swift",
-    "name": "gifton/VectorCore",
-    "stars": 3,
-    "updated_at": "2026-09-07T19:11:42Z",
-    "url": "https://github.com/gifton/VectorCore"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
