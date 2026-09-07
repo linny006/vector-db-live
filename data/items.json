@@ -1,11 +1,83 @@
 [
   {
+    "description": "Official n8n creator | Production-ready automation workflows \u2014 Agentic RAG, multi-KB AI agents, AI governance, and priva",
+    "id": "nenedesign/n8n-workflows",
+    "language": "\u2014",
+    "name": "nenedesign/n8n-workflows",
+    "stars": 0,
+    "updated_at": "2026-09-07T10:30:16Z",
+    "url": "https://github.com/nenedesign/n8n-workflows"
+  },
+  {
+    "description": "Head of Product & Experience at Distinct AI. Official n8n creator building production-grade agentic RAG, multi-agent sys",
+    "id": "nenedesign/nenedesign",
+    "language": "\u2014",
+    "name": "nenedesign/nenedesign",
+    "stars": 0,
+    "updated_at": "2026-09-07T10:30:15Z",
+    "url": "https://github.com/nenedesign/nenedesign"
+  },
+  {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 11,
+    "updated_at": "2026-09-07T10:22:37Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
+    "id": "Parth-2004/Historical-AI-Assistant",
+    "language": "Python",
+    "name": "Parth-2004/Historical-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-09-07T10:20:49Z",
+    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-07T10:20:21Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6234,
+    "updated_at": "2026-09-07T10:25:52Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
+    "id": "Forstwichtel/TensoRAG",
+    "language": "Python",
+    "name": "Forstwichtel/TensoRAG",
+    "stars": 1,
+    "updated_at": "2026-09-07T10:18:23Z",
+    "url": "https://github.com/Forstwichtel/TensoRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T10:17:52Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "(module) A Go embedded database with Redis-like commands, JSON field operations, and semantic vector search",
     "id": "pardnchiu/ToriiDB",
     "language": "Go",
     "name": "pardnchiu/ToriiDB",
     "stars": 3,
-    "updated_at": "2026-09-07T10:16:56Z",
+    "updated_at": "2026-09-07T10:18:02Z",
     "url": "https://github.com/pardnchiu/ToriiDB"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 13036,
     "updated_at": "2026-09-07T10:16:09Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T10:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -70,15 +133,6 @@
     "stars": 242,
     "updated_at": "2026-09-07T10:06:58Z",
     "url": "https://github.com/k8ssandra/k8ssandra-operator"
-  },
-  {
-    "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
-    "id": "Forstwichtel/TensoRAG",
-    "language": "Python",
-    "name": "Forstwichtel/TensoRAG",
-    "stars": 1,
-    "updated_at": "2026-09-07T10:02:41Z",
-    "url": "https://github.com/Forstwichtel/TensoRAG"
   },
   {
     "description": "Vector graphics format authored in DixScript, compressed with MBFA",
@@ -158,7 +212,7 @@
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-09-07T10:12:19Z",
+    "updated_at": "2026-09-07T10:30:12Z",
     "url": "https://github.com/vanedb/vanedb"
   },
   {
@@ -207,15 +261,6 @@
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-07T09:39:13Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "AI-powered code intelligence platform for repository analysis using RAG, semantic search, multi-provider LLMs, and Groun",
     "id": "pushkarsingh26/DevMind",
     "language": "Python",
@@ -257,7 +302,7 @@
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
     "stars": 3289,
-    "updated_at": "2026-09-07T10:10:12Z",
+    "updated_at": "2026-09-07T10:28:57Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
@@ -338,7 +383,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8185,
-    "updated_at": "2026-09-07T09:54:37Z",
+    "updated_at": "2026-09-07T10:18:27Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -347,7 +392,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9433,
-    "updated_at": "2026-09-07T10:10:22Z",
+    "updated_at": "2026-09-07T10:23:56Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T08:46:43Z",
     "url": "https://github.com/RehanIlyas-dev/Omni-Context"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:44:39Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:40:31Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:38:34Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:38:28Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 32,
-    "updated_at": "2026-09-07T08:37:58Z",
-    "url": "https://github.com/rostamlabs/rostam"
   }
 ]
