@@ -1,12 +1,57 @@
 [
   {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 472,
+    "updated_at": "2026-09-07T00:11:07Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Portfolio case study and selected samples from a partner backed production crypto intelligence agent with retrieval, mul",
+    "id": "omershaik/LaserEyedBen",
+    "language": "\u2014",
+    "name": "omershaik/LaserEyedBen",
+    "stars": 0,
+    "updated_at": "2026-09-07T00:06:22Z",
+    "url": "https://github.com/omershaik/LaserEyedBen"
+  },
+  {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
     "stars": 3288,
-    "updated_at": "2026-09-06T23:58:33Z",
+    "updated_at": "2026-09-07T00:03:57Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-07T00:03:04Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T00:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T00:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Fully Redis 8.x compatible database complete with replication, clustering, persistance, and hot/warm tiering.",
@@ -18,15 +63,6 @@
     "url": "https://github.com/frogdb/frogdb"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T00:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
@@ -34,15 +70,6 @@
     "stars": 17,
     "updated_at": "2026-09-06T23:55:33Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-06T23:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-06T23:33:24Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 472,
-    "updated_at": "2026-09-06T23:29:51Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -185,7 +203,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9235,
-    "updated_at": "2026-09-06T23:48:05Z",
+    "updated_at": "2026-09-07T00:13:10Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-09-06T23:56:09Z",
+    "updated_at": "2026-09-07T00:12:52Z",
     "url": "https://github.com/vanedb/vanedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 7077,
     "updated_at": "2026-09-06T21:06:21Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Typed tenant-aware document chunking and vector ingestion service for B2B SaaS admin workflows.",
-    "id": "HollowGlow48271596/saas-tenant-vector-ingest-vector-ingest-saas-typescript-x",
-    "language": "TypeScript",
-    "name": "HollowGlow48271596/saas-tenant-vector-ingest-vector-ingest-saas-typescript-x",
-    "stars": 0,
-    "updated_at": "2026-09-06T19:38:41Z",
-    "url": "https://github.com/HollowGlow48271596/saas-tenant-vector-ingest-vector-ingest-saas-typescript-x"
-  },
-  {
-    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
-    "id": "Aashutosh31/arc-ai-project",
-    "language": "JavaScript",
-    "name": "Aashutosh31/arc-ai-project",
-    "stars": 2,
-    "updated_at": "2026-09-06T19:26:07Z",
-    "url": "https://github.com/Aashutosh31/arc-ai-project"
   }
 ]
