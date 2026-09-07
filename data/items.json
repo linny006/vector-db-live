@@ -1,5 +1,68 @@
 [
   {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1909,
+    "updated_at": "2026-09-07T19:59:27Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "A RAG pipeline for question answering about PES University",
+    "id": "pesu-dev/ask-pesu",
+    "language": "TypeScript",
+    "name": "pesu-dev/ask-pesu",
+    "stars": 7,
+    "updated_at": "2026-09-07T19:58:09Z",
+    "url": "https://github.com/pesu-dev/ask-pesu"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-07T19:57:54Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Embedded vector database in Rust with Python bindings \u2014 TurboQuant algorithm (arXiv:2504.19874), zero training, 2\u20134 bit ",
+    "id": "jyunming/TurboQuantDB",
+    "language": "Python",
+    "name": "jyunming/TurboQuantDB",
+    "stars": 2,
+    "updated_at": "2026-09-07T19:57:32Z",
+    "url": "https://github.com/jyunming/TurboQuantDB"
+  },
+  {
+    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
+    "id": "dhanoliya-ji/DocMinds",
+    "language": "Python",
+    "name": "dhanoliya-ji/DocMinds",
+    "stars": 0,
+    "updated_at": "2026-09-07T19:53:20Z",
+    "url": "https://github.com/dhanoliya-ji/DocMinds"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 14,
+    "updated_at": "2026-09-07T19:52:03Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T19:50:11Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -9,30 +72,12 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "ZeR020/opencode-mem0",
-    "language": "TypeScript",
-    "name": "ZeR020/opencode-mem0",
-    "stars": 14,
-    "updated_at": "2026-09-07T19:48:22Z",
-    "url": "https://github.com/ZeR020/opencode-mem0"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T19:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-07T19:45:20Z",
+    "updated_at": "2026-09-07T20:00:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -59,7 +104,7 @@
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 3,
-    "updated_at": "2026-09-07T19:37:32Z",
+    "updated_at": "2026-09-07T20:00:04Z",
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1136,
-    "updated_at": "2026-09-07T19:49:45Z",
+    "updated_at": "2026-09-07T19:59:03Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -270,15 +315,6 @@
     "url": "https://github.com/datalevin/datalevin"
   },
   {
-    "description": "Embedded vector database in Rust with Python bindings \u2014 TurboQuant algorithm (arXiv:2504.19874), zero training, 2\u20134 bit ",
-    "id": "jyunming/TurboQuantDB",
-    "language": "Python",
-    "name": "jyunming/TurboQuantDB",
-    "stars": 2,
-    "updated_at": "2026-09-07T18:43:39Z",
-    "url": "https://github.com/jyunming/TurboQuantDB"
-  },
-  {
     "description": "CPU-bound vector math library with SIMD optimization, distance metrics, and foundational protocols for Swift6",
     "id": "gifton/VectorCore",
     "language": "Swift",
@@ -302,7 +338,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-07T19:47:51Z",
+    "updated_at": "2026-09-07T19:51:36Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1884,
     "updated_at": "2026-09-07T19:49:52Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 4,
-    "updated_at": "2026-09-07T17:33:04Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
-  },
-  {
-    "description": "Think Flow is an intelligent agent platform built with LangGraph and LangChain for automated reasoning, workflows, and A",
-    "id": "Harsh28Pandey/think-flow",
-    "language": "\u2014",
-    "name": "Harsh28Pandey/think-flow",
-    "stars": 1,
-    "updated_at": "2026-09-07T17:30:48Z",
-    "url": "https://github.com/Harsh28Pandey/think-flow"
-  },
-  {
-    "description": "A minimal storage layer for storing large matrices and embeddings",
-    "id": "tuned-org-uk/genegraph-storage",
-    "language": "Rust",
-    "name": "tuned-org-uk/genegraph-storage",
-    "stars": 2,
-    "updated_at": "2026-09-07T17:30:29Z",
-    "url": "https://github.com/tuned-org-uk/genegraph-storage"
-  },
-  {
-    "description": "Autonomous DevOps agent that automates deployments, infrastructure management, and troubleshooting across cloud environm",
-    "id": "abhishekkapoorx/DEVOPS-AGENT",
-    "language": "Python",
-    "name": "abhishekkapoorx/DEVOPS-AGENT",
-    "stars": 0,
-    "updated_at": "2026-09-07T17:26:31Z",
-    "url": "https://github.com/abhishekkapoorx/DEVOPS-AGENT"
   }
 ]
