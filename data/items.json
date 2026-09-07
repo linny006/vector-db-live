@@ -1,11 +1,119 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T05:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Agentic hybrid-RAG auditor for SEC 10-K filings \u2014 dense+BM25 retrieval, DPO-tuned Llama-3 extraction, zero-hallucination",
+    "id": "SkJishan04/sec10k-auditor",
+    "language": "Python",
+    "name": "SkJishan04/sec10k-auditor",
+    "stars": 1,
+    "updated_at": "2026-09-07T05:44:09Z",
+    "url": "https://github.com/SkJishan04/sec10k-auditor"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-07T05:40:43Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
+    "id": "codelined-ag/Extracto",
+    "language": "TypeScript",
+    "name": "codelined-ag/Extracto",
+    "stars": 5,
+    "updated_at": "2026-09-07T05:38:49Z",
+    "url": "https://github.com/codelined-ag/Extracto"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-07T05:37:44Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-07T05:36:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Core memory engine for Z3rno: PostgreSQL schema, SQLAlchemy models, Alembic migrations, store/recall/forget/audit librar",
+    "id": "the-ai-project-co/z3rno-core",
+    "language": "Python",
+    "name": "the-ai-project-co/z3rno-core",
+    "stars": 0,
+    "updated_at": "2026-09-07T05:36:27Z",
+    "url": "https://github.com/the-ai-project-co/z3rno-core"
+  },
+  {
+    "description": "FastAPI REST server for Z3rno: imports z3rno-core, exposes /v1 API with API-key auth, rate limiting, and RLS-backed mult",
+    "id": "the-ai-project-co/z3rno-server",
+    "language": "Python",
+    "name": "the-ai-project-co/z3rno-server",
+    "stars": 0,
+    "updated_at": "2026-09-07T05:36:01Z",
+    "url": "https://github.com/the-ai-project-co/z3rno-server"
+  },
+  {
+    "description": "Official TypeScript SDK for Z3rno: native fetch + Zod, zero runtime dependencies, works in Node/Bun/Deno/browser",
+    "id": "the-ai-project-co/z3rno-sdk-typescript",
+    "language": "TypeScript",
+    "name": "the-ai-project-co/z3rno-sdk-typescript",
+    "stars": 0,
+    "updated_at": "2026-09-07T05:35:33Z",
+    "url": "https://github.com/the-ai-project-co/z3rno-sdk-typescript"
+  },
+  {
+    "description": "Official Python SDK for Z3rno: thin httpx + Pydantic HTTP client over z3rno-server",
+    "id": "the-ai-project-co/z3rno-sdk-python",
+    "language": "Python",
+    "name": "the-ai-project-co/z3rno-sdk-python",
+    "stars": 0,
+    "updated_at": "2026-09-07T05:34:45Z",
+    "url": "https://github.com/the-ai-project-co/z3rno-sdk-python"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7077,
+    "updated_at": "2026-09-07T05:33:26Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T05:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-07T05:27:35Z",
+    "updated_at": "2026-09-07T05:32:33Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -32,17 +140,8 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-07T05:25:32Z",
+    "updated_at": "2026-09-07T05:40:21Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T05:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -52,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-09-07T05:15:21Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T05:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Nongor - High Accuracy Local First RAG Chat",
@@ -88,15 +178,6 @@
     "stars": 275,
     "updated_at": "2026-09-07T05:12:39Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-07T05:09:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A typed service that admits tenant learning documents, chunks them, embeds them, and writes a vector collection.",
@@ -239,7 +320,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9433,
-    "updated_at": "2026-09-07T05:10:17Z",
+    "updated_at": "2026-09-07T05:40:36Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T01:55:02Z",
     "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
-    "id": "Shitless-jnr3697/rebasis",
-    "language": "Python",
-    "name": "Shitless-jnr3697/rebasis",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:54:13Z",
-    "url": "https://github.com/Shitless-jnr3697/rebasis"
-  },
-  {
-    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
-    "id": "boulif781/enterprise-knowledge-assistant",
-    "language": "\u2014",
-    "name": "boulif781/enterprise-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:52:27Z",
-    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 1,
-    "updated_at": "2026-09-07T01:50:40Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-09-07T01:50:12Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:48:03Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:46:03Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-09-07T01:44:36Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-09-07T01:44:01Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-09-07T01:43:02Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
   }
 ]
