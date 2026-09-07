@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T16:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
+    "id": "vector-index-bench/vibe",
+    "language": "Python",
+    "name": "vector-index-bench/vibe",
+    "stars": 68,
+    "updated_at": "2026-09-07T16:36:20Z",
+    "url": "https://github.com/vector-index-bench/vibe"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-07T16:35:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
+    "id": "Raynerhalfandhalf451/writeback",
+    "language": "JavaScript",
+    "name": "Raynerhalfandhalf451/writeback",
+    "stars": 0,
+    "updated_at": "2026-09-07T16:35:13Z",
+    "url": "https://github.com/Raynerhalfandhalf451/writeback"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1136,
+    "updated_at": "2026-09-07T16:33:38Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-09-07T16:33:01Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-09-07T16:31:03Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T16:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
     "id": "Surging-scotandlot818/product-dev-blueprint",
     "language": "TypeScript",
@@ -99,15 +171,6 @@
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1136,
-    "updated_at": "2026-09-07T16:23:38Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Rest client for Qdrant vector database",
     "id": "quarkiverse/quarkus-qdrant",
     "language": "Java",
@@ -131,7 +194,7 @@
     "language": "Java",
     "name": "musabbozkurt/oauth2-authorization-server",
     "stars": 6,
-    "updated_at": "2026-09-07T16:19:38Z",
+    "updated_at": "2026-09-07T16:33:24Z",
     "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
   },
   {
@@ -142,24 +205,6 @@
     "stars": 4,
     "updated_at": "2026-09-07T16:15:57Z",
     "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T16:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T16:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
@@ -225,15 +270,6 @@
     "url": "https://github.com/menna-nageh/MediLeaf-AI"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-07T16:09:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -275,7 +311,7 @@
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-09-07T16:27:37Z",
+    "updated_at": "2026-09-07T16:39:27Z",
     "url": "https://github.com/vanedb/vanedb"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-09-07T16:02:37Z",
+    "updated_at": "2026-09-07T16:37:30Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -392,7 +428,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-07T16:28:10Z",
+    "updated_at": "2026-09-07T16:37:47Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T15:55:34Z",
     "url": "https://github.com/britorbs/consciousdb"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-07T15:55:32Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
-    "id": "fub05/MCP---Agent-Starter-Kit",
-    "language": "Python",
-    "name": "fub05/MCP---Agent-Starter-Kit",
-    "stars": 6,
-    "updated_at": "2026-09-07T15:54:48Z",
-    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
-  },
-  {
-    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
-    "id": "SKeditz42/Vec",
-    "language": "C",
-    "name": "SKeditz42/Vec",
-    "stars": 2,
-    "updated_at": "2026-09-07T15:53:27Z",
-    "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "Official n8n creator | Production-ready automation workflows: Agentic RAG, multi-KB AI agents, AI governance, and privac",
-    "id": "nenedesign/n8n-workflows",
-    "language": "\u2014",
-    "name": "nenedesign/n8n-workflows",
-    "stars": 0,
-    "updated_at": "2026-09-07T15:53:20Z",
-    "url": "https://github.com/nenedesign/n8n-workflows"
   }
 ]
