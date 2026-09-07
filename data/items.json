@@ -1,5 +1,50 @@
 [
   {
+    "description": "(module) A Go embedded database with Redis-like commands, JSON field operations, and semantic vector search",
+    "id": "pardnchiu/ToriiDB",
+    "language": "Go",
+    "name": "pardnchiu/ToriiDB",
+    "stars": 3,
+    "updated_at": "2026-09-07T10:16:56Z",
+    "url": "https://github.com/pardnchiu/ToriiDB"
+  },
+  {
+    "description": "Embedded vector database in Rust with Python bindings \u2014 TurboQuant algorithm (arXiv:2504.19874), zero training, 2\u20134 bit ",
+    "id": "jyunming/TurboQuantDB",
+    "language": "Python",
+    "name": "jyunming/TurboQuantDB",
+    "stars": 2,
+    "updated_at": "2026-09-07T10:16:55Z",
+    "url": "https://github.com/jyunming/TurboQuantDB"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13036,
+    "updated_at": "2026-09-07T10:16:09Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T10:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T10:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
     "id": "LLPhant/LLPhant",
     "language": "PHP",
@@ -43,24 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T10:02:17Z",
     "url": "https://github.com/Mid-D-Man/msx"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T10:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T10:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -351,15 +378,6 @@
     "url": "https://github.com/aadityansha06/vecdb"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13036,
-    "updated_at": "2026-09-07T08:52:11Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
     "id": "kwhorne/ElyraSQL",
     "language": "Rust",
@@ -430,23 +448,5 @@
     "stars": 32,
     "updated_at": "2026-09-07T08:37:58Z",
     "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 3,
-    "updated_at": "2026-09-07T08:37:07Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:36:47Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
   }
 ]
