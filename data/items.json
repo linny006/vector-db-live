@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-07T22:15:18Z",
+    "updated_at": "2026-09-07T22:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1884,
+    "updated_at": "2026-09-07T22:28:02Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne",
+    "id": "angrysky56/emotion_ai",
+    "language": "Python",
+    "name": "angrysky56/emotion_ai",
+    "stars": 11,
+    "updated_at": "2026-09-07T22:25:37Z",
+    "url": "https://github.com/angrysky56/emotion_ai"
+  },
+  {
+    "description": "",
+    "id": "abdullahqureshi27/resolvdesk",
+    "language": "TypeScript",
+    "name": "abdullahqureshi27/resolvdesk",
+    "stars": 0,
+    "updated_at": "2026-09-07T22:23:49Z",
+    "url": "https://github.com/abdullahqureshi27/resolvdesk"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65745,
+    "updated_at": "2026-09-07T22:22:38Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Versioned, MVCC-style vector index with snapshot isolation and branchable agent memory.",
+    "id": "mchl-labs/chronovec",
+    "language": "Python",
+    "name": "mchl-labs/chronovec",
+    "stars": 0,
+    "updated_at": "2026-09-07T22:23:00Z",
+    "url": "https://github.com/mchl-labs/chronovec"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 2,
+    "updated_at": "2026-09-07T22:19:23Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 343,
+    "updated_at": "2026-09-07T22:17:28Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T22:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -36,15 +108,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Versioned, MVCC-style vector index with snapshot isolation and branchable agent memory.",
-    "id": "mchl-labs/chronovec",
-    "language": "Python",
-    "name": "mchl-labs/chronovec",
-    "stars": 0,
-    "updated_at": "2026-09-07T22:07:33Z",
-    "url": "https://github.com/mchl-labs/chronovec"
-  },
-  {
     "description": "A simple, fast and versatile Datalog database",
     "id": "datalevin/datalevin",
     "language": "Clojure",
@@ -54,31 +117,13 @@
     "url": "https://github.com/datalevin/datalevin"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65745,
-    "updated_at": "2026-09-07T22:05:40Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6410,
-    "updated_at": "2026-09-07T22:10:58Z",
+    "updated_at": "2026-09-07T22:24:13Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T22:00:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -189,15 +234,6 @@
     "url": "https://github.com/yantrikos/yantrikdb-mcp"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1884,
-    "updated_at": "2026-09-07T22:13:36Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -295,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T20:27:20Z",
     "url": "https://github.com/mohd-faizy/the-ai-stack"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-09-07T20:24:01Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-07T19:20:54Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1928,
-    "updated_at": "2026-09-07T19:20:44Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "RAG over Indian law with verifiable citations: hybrid BM25 and vector retrieval fused by reciprocal rank fusion across r",
-    "id": "spearb0lt/Legal-RAG",
-    "language": "Python",
-    "name": "spearb0lt/Legal-RAG",
-    "stars": 1,
-    "updated_at": "2026-09-07T19:16:41Z",
-    "url": "https://github.com/spearb0lt/Legal-RAG"
-  },
-  {
-    "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
-    "id": "dem2007/ChromaDB-Manager",
-    "language": "Swift",
-    "name": "dem2007/ChromaDB-Manager",
-    "stars": 2,
-    "updated_at": "2026-09-07T19:13:25Z",
-    "url": "https://github.com/dem2007/ChromaDB-Manager"
   }
 ]
