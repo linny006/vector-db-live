@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T20:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Emphasizes the self-correction and iterative feedback loop. Implies a system that watches over and guards the quality of",
+    "id": "Harikishan-AI/VeriGraph-AI",
+    "language": "Jupyter Notebook",
+    "name": "Harikishan-AI/VeriGraph-AI",
+    "stars": 0,
+    "updated_at": "2026-09-07T20:29:46Z",
+    "url": "https://github.com/Harikishan-AI/VeriGraph-AI"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 17,
+    "updated_at": "2026-09-07T20:29:50Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "A comprehensive, curated directory of 80+ categories of foundational and breakthrough open-source AI repositories, frame",
+    "id": "mohd-faizy/the-ai-stack",
+    "language": "\u2014",
+    "name": "mohd-faizy/the-ai-stack",
+    "stars": 0,
+    "updated_at": "2026-09-07T20:27:20Z",
+    "url": "https://github.com/mohd-faizy/the-ai-stack"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-07T20:26:18Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 14,
+    "updated_at": "2026-09-07T20:25:21Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 343,
+    "updated_at": "2026-09-07T20:24:01Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "A simple, fast and versatile Datalog database",
+    "id": "datalevin/datalevin",
+    "language": "Clojure",
+    "name": "datalevin/datalevin",
+    "stars": 1474,
+    "updated_at": "2026-09-07T20:18:51Z",
+    "url": "https://github.com/datalevin/datalevin"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 91,
+    "updated_at": "2026-09-07T20:17:51Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T20:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1909,
+    "updated_at": "2026-09-07T20:15:13Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -16,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-09-07T20:14:01Z",
     "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "A comprehensive, curated directory of 80+ categories of foundational and breakthrough open-source AI repositories, frame",
-    "id": "mohd-faizy/the-ai-stack",
-    "language": "\u2014",
-    "name": "mohd-faizy/the-ai-stack",
-    "stars": 0,
-    "updated_at": "2026-09-07T20:13:45Z",
-    "url": "https://github.com/mohd-faizy/the-ai-stack"
   },
   {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
@@ -54,40 +144,13 @@
     "url": "https://github.com/dangranaz/nxm-memory"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 91,
-    "updated_at": "2026-09-07T20:09:55Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "A lightweight, minimal memory framework for AI agents",
+    "id": "SitanshuA091/memlib-ai",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T20:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T20:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1909,
-    "updated_at": "2026-09-07T20:15:13Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
+    "name": "SitanshuA091/memlib-ai",
+    "stars": 0,
+    "updated_at": "2026-09-07T20:00:32Z",
+    "url": "https://github.com/SitanshuA091/memlib-ai"
   },
   {
     "description": "A RAG pipeline for question answering about PES University",
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T19:53:20Z",
     "url": "https://github.com/dhanoliya-ji/DocMinds"
-  },
-  {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "ZeR020/opencode-mem0",
-    "language": "TypeScript",
-    "name": "ZeR020/opencode-mem0",
-    "stars": 14,
-    "updated_at": "2026-09-07T19:52:03Z",
-    "url": "https://github.com/ZeR020/opencode-mem0"
   },
   {
     "description": "The AI search platform",
@@ -189,15 +243,6 @@
     "url": "https://github.com/alxxtexxr/arxiv_agent"
   },
   {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-07T19:21:44Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
     "description": "Identity and Authorization Service with Vector and AI Integration",
     "id": "StephenCote/AccountManager7",
     "language": "JavaScript",
@@ -221,7 +266,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1136,
-    "updated_at": "2026-09-07T20:15:20Z",
+    "updated_at": "2026-09-07T20:29:47Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -232,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T19:16:41Z",
     "url": "https://github.com/spearb0lt/Legal-RAG"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 17,
-    "updated_at": "2026-09-07T19:31:16Z",
-    "url": "https://github.com/mmnto-ai/totem"
   },
   {
     "description": "UI App for ChromaDB to build local RAG pipelines. Built for macOS, native Swift. Gives you full control over embedding f",
@@ -297,15 +333,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 343,
-    "updated_at": "2026-09-07T18:55:54Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Pipeline Python que transforma PDFs e Markdown em um Zettelkasten conectado no Obsidian, com revis\u00e3o humana, RAG h\u00edbrido",
     "id": "ricmed/zettel_app",
     "language": "Python",
@@ -342,13 +369,13 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "A simple, fast and versatile Datalog database",
-    "id": "datalevin/datalevin",
-    "language": "Clojure",
-    "name": "datalevin/datalevin",
-    "stars": 1474,
-    "updated_at": "2026-09-07T18:45:36Z",
-    "url": "https://github.com/datalevin/datalevin"
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 33,
+    "updated_at": "2026-09-07T18:47:14Z",
+    "url": "https://github.com/rostamlabs/rostam"
   },
   {
     "description": "CPU-bound vector math library with SIMD optimization, distance metrics, and foundational protocols for Swift6",
@@ -365,7 +392,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34422,
-    "updated_at": "2026-09-07T18:35:53Z",
+    "updated_at": "2026-09-07T20:16:00Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 68,
     "updated_at": "2026-09-07T17:56:41Z",
     "url": "https://github.com/vector-index-bench/vibe"
-  },
-  {
-    "description": "Enterprise Financial RAG microservices engine built with Spring Boot, FastAPI, PostgreSQL pgvector, AWS S3/Lambda/SQS, B",
-    "id": "vinay020606/Finsearch",
-    "language": "Python",
-    "name": "vinay020606/Finsearch",
-    "stars": 1,
-    "updated_at": "2026-09-07T17:46:12Z",
-    "url": "https://github.com/vinay020606/Finsearch"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 2,
-    "updated_at": "2026-09-07T17:45:03Z",
-    "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
-    "id": "musabbozkurt/oauth2-authorization-server",
-    "language": "Java",
-    "name": "musabbozkurt/oauth2-authorization-server",
-    "stars": 6,
-    "updated_at": "2026-09-07T17:43:31Z",
-    "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
   }
 ]
