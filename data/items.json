@@ -1,12 +1,30 @@
 [
   {
-    "description": "A RAG pipeline for question answering about PES University",
-    "id": "pesu-dev/ask-pesu",
-    "language": "TypeScript",
-    "name": "pesu-dev/ask-pesu",
-    "stars": 7,
-    "updated_at": "2026-09-07T20:44:29Z",
-    "url": "https://github.com/pesu-dev/ask-pesu"
+    "description": "Federated RAG that picks the right store with arithmetic, not an agent. Runs locally based on Vulkan.",
+    "id": "diegormirhan/polyrag",
+    "language": "Python",
+    "name": "diegormirhan/polyrag",
+    "stars": 1,
+    "updated_at": "2026-09-07T20:57:17Z",
+    "url": "https://github.com/diegormirhan/polyrag"
+  },
+  {
+    "description": "Agent-native memory infrastructure for AI coding assistants. Governed session capture, LLM compression, hybrid retrieval",
+    "id": "BMC-INC/Iron-mem",
+    "language": "Rust",
+    "name": "BMC-INC/Iron-mem",
+    "stars": 4,
+    "updated_at": "2026-09-07T20:55:41Z",
+    "url": "https://github.com/BMC-INC/Iron-mem"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34423,
+    "updated_at": "2026-09-07T20:49:16Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
@@ -14,8 +32,35 @@
     "language": "TypeScript",
     "name": "ZeR020/opencode-mem0",
     "stars": 14,
-    "updated_at": "2026-09-07T20:44:11Z",
+    "updated_at": "2026-09-07T20:46:00Z",
     "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T20:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T21:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A RAG pipeline for question answering about PES University",
+    "id": "pesu-dev/ask-pesu",
+    "language": "TypeScript",
+    "name": "pesu-dev/ask-pesu",
+    "stars": 7,
+    "updated_at": "2026-09-07T20:50:46Z",
+    "url": "https://github.com/pesu-dev/ask-pesu"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -34,24 +79,6 @@
     "stars": 57,
     "updated_at": "2026-09-07T20:33:39Z",
     "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T20:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T20:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Emphasizes the self-correction and iterative feedback loop. Implies a system that watches over and guards the quality of",
@@ -103,7 +130,7 @@
     "id": "datalevin/datalevin",
     "language": "Clojure",
     "name": "datalevin/datalevin",
-    "stars": 1474,
+    "stars": 1475,
     "updated_at": "2026-09-07T20:18:51Z",
     "url": "https://github.com/datalevin/datalevin"
   },
@@ -140,7 +167,7 @@
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 3,
-    "updated_at": "2026-09-07T20:14:01Z",
+    "updated_at": "2026-09-07T20:56:27Z",
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
@@ -256,7 +283,7 @@
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
-    "stars": 1927,
+    "stars": 1928,
     "updated_at": "2026-09-07T19:20:44Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
@@ -266,7 +293,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1136,
-    "updated_at": "2026-09-07T20:29:47Z",
+    "updated_at": "2026-09-07T21:00:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -387,15 +414,6 @@
     "url": "https://github.com/gifton/VectorCore"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34422,
-    "updated_at": "2026-09-07T20:42:18Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -430,23 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-07T20:10:38Z",
     "url": "https://github.com/bobaba76/Argos"
-  },
-  {
-    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
-    "id": "Daaboulex/openviking-nix",
-    "language": "Shell",
-    "name": "Daaboulex/openviking-nix",
-    "stars": 3,
-    "updated_at": "2026-09-07T18:04:45Z",
-    "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
-    "id": "vector-index-bench/vibe",
-    "language": "Python",
-    "name": "vector-index-bench/vibe",
-    "stars": 68,
-    "updated_at": "2026-09-07T17:56:41Z",
-    "url": "https://github.com/vector-index-bench/vibe"
   }
 ]
