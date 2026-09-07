@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-07T14:30:22Z",
+    "updated_at": "2026-09-07T14:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vector database implemented from first principles: HNSW, IVF+Product Quantization, write-ahead logging, and metadata fil",
+    "id": "PPaul14/nanovec",
+    "language": "Python",
+    "name": "PPaul14/nanovec",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:43:20Z",
+    "url": "https://github.com/PPaul14/nanovec"
+  },
+  {
+    "description": "Support operations platform for B2B SaaS teams, featuring ticket triage, versioned knowledge base, grounded response dra",
+    "id": "rafael-acerqueira/support-ops",
+    "language": "Python",
+    "name": "rafael-acerqueira/support-ops",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:42:02Z",
+    "url": "https://github.com/rafael-acerqueira/support-ops"
+  },
+  {
+    "description": "Projeto em desenvolvimento.",
+    "id": "BrunoSaintClair/goodfella-ai",
+    "language": "Python",
+    "name": "BrunoSaintClair/goodfella-ai",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:41:54Z",
+    "url": "https://github.com/BrunoSaintClair/goodfella-ai"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-07T14:36:17Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
+    "id": "Daaboulex/openviking-nix",
+    "language": "Shell",
+    "name": "Daaboulex/openviking-nix",
+    "stars": 3,
+    "updated_at": "2026-09-07T14:33:51Z",
+    "url": "https://github.com/Daaboulex/openviking-nix"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:33:28Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34421,
+    "updated_at": "2026-09-07T14:32:44Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Local memory + semantic search for AI agents. Indexes code and documents on your machine, queryable via MCP. Private, of",
+    "id": "dangranaz/nxm-memory",
+    "language": "Shell",
+    "name": "dangranaz/nxm-memory",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:31:20Z",
+    "url": "https://github.com/dangranaz/nxm-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T14:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
@@ -27,13 +108,13 @@
     "url": "https://github.com/BELBINBENORM/ragforge"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T14:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13039,
+    "updated_at": "2026-09-07T14:20:14Z",
+    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -72,15 +153,6 @@
     "url": "https://github.com/nenedesign/n8n-workflows"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-07T14:09:26Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Head of Product & Experience at Distinct AI. Official n8n creator building production-grade agentic RAG, multi-agent sys",
     "id": "nenedesign/nenedesign",
     "language": "\u2014",
@@ -88,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T14:09:24Z",
     "url": "https://github.com/nenedesign/nenedesign"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-07T14:24:08Z",
-    "url": "https://github.com/vanedb/vanedb"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -149,7 +212,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6234,
-    "updated_at": "2026-09-07T14:26:37Z",
+    "updated_at": "2026-09-07T14:44:54Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -160,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T13:49:54Z",
     "url": "https://github.com/alxxtexxr/arxiv_agent"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13038,
-    "updated_at": "2026-09-07T14:20:14Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Python package to visualize local chroma db",
@@ -225,15 +279,6 @@
     "url": "https://github.com/codecoradev/uteke"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34420,
-    "updated_at": "2026-09-07T14:15:22Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
@@ -257,7 +302,7 @@
     "language": "Rust",
     "name": "tuned-org-uk/genegraph-storage",
     "stars": 2,
-    "updated_at": "2026-09-07T13:29:37Z",
+    "updated_at": "2026-09-07T14:44:03Z",
     "url": "https://github.com/tuned-org-uk/genegraph-storage"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
-    "id": "Daaboulex/openviking-nix",
-    "language": "Shell",
-    "name": "Daaboulex/openviking-nix",
-    "stars": 3,
-    "updated_at": "2026-09-07T12:33:24Z",
-    "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
     "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
     "id": "Yigtwxx/OracleX",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-07T12:30:07Z",
     "url": "https://github.com/jyunming/TurboQuantDB"
-  },
-  {
-    "description": "TalaDB - The embedded vector and document database for on-device AI.",
-    "id": "taladb/taladb",
-    "language": "Rust",
-    "name": "taladb/taladb",
-    "stars": 4,
-    "updated_at": "2026-09-07T12:29:14Z",
-    "url": "https://github.com/taladb/taladb"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46014,
-    "updated_at": "2026-09-07T12:27:30Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1896,
-    "updated_at": "2026-09-07T12:25:58Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
-    "id": "bobaba76/Argos",
-    "language": "Python",
-    "name": "bobaba76/Argos",
-    "stars": 6,
-    "updated_at": "2026-09-07T12:25:03Z",
-    "url": "https://github.com/bobaba76/Argos"
   }
 ]
