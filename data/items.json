@@ -1,12 +1,39 @@
 [
   {
-    "description": "Embedded vector database in Rust with Python bindings \u2014 TurboQuant algorithm (arXiv:2504.19874), zero training, 2\u20134 bit ",
-    "id": "jyunming/TurboQuantDB",
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-07T12:44:12Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-powered code intelligence platform for repository analysis using RAG, semantic search, multi-provider LLMs, and Groun",
+    "id": "pushkarsingh26/DevMind",
     "language": "Python",
-    "name": "jyunming/TurboQuantDB",
+    "name": "pushkarsingh26/DevMind",
     "stars": 2,
-    "updated_at": "2026-09-07T12:30:07Z",
-    "url": "https://github.com/jyunming/TurboQuantDB"
+    "updated_at": "2026-09-07T12:40:54Z",
+    "url": "https://github.com/pushkarsingh26/DevMind"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-07T12:39:19Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 23,
+    "updated_at": "2026-09-07T12:36:57Z",
+    "url": "https://github.com/Cognipeer/console"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -14,8 +41,71 @@
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 1928,
-    "updated_at": "2026-09-07T12:30:03Z",
+    "updated_at": "2026-09-07T12:36:42Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-07T12:35:20Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
+    "id": "Daaboulex/openviking-nix",
+    "language": "Shell",
+    "name": "Daaboulex/openviking-nix",
+    "stars": 3,
+    "updated_at": "2026-09-07T12:33:24Z",
+    "url": "https://github.com/Daaboulex/openviking-nix"
+  },
+  {
+    "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-09-07T12:32:44Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "Project OverviewThe Canal Monitoring System is an AI-ready web interface designed for real-time surveillance and monitor",
+    "id": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
+    "language": "Python",
+    "name": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
+    "stars": 0,
+    "updated_at": "2026-09-07T12:32:02Z",
+    "url": "https://github.com/ussamasaeed/AI_Powered_Canals_Monitoring_System"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T12:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T12:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded vector database in Rust with Python bindings \u2014 TurboQuant algorithm (arXiv:2504.19874), zero training, 2\u20134 bit ",
+    "id": "jyunming/TurboQuantDB",
+    "language": "Python",
+    "name": "jyunming/TurboQuantDB",
+    "stars": 2,
+    "updated_at": "2026-09-07T12:30:07Z",
+    "url": "https://github.com/jyunming/TurboQuantDB"
   },
   {
     "description": "TalaDB - The embedded vector and document database for on-device AI.",
@@ -31,7 +121,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1894,
+    "stars": 1895,
     "updated_at": "2026-09-07T12:25:58Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -54,15 +144,6 @@
     "url": "https://github.com/willy410-hub/log-vector-pipeline"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-07T12:22:28Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -72,24 +153,6 @@
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T12:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T12:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -97,15 +160,6 @@
     "stars": 1884,
     "updated_at": "2026-09-07T12:13:35Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-07T12:13:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "CLI-based AI tool for analyzing and understanding codebases using LLMs",
@@ -133,24 +187,6 @@
     "stars": 95,
     "updated_at": "2026-09-07T12:20:11Z",
     "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "Project OverviewThe Canal Monitoring System is an AI-ready web interface designed for real-time surveillance and monitor",
-    "id": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
-    "language": "Python",
-    "name": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
-    "stars": 0,
-    "updated_at": "2026-09-07T11:58:43Z",
-    "url": "https://github.com/ussamasaeed/AI_Powered_Canals_Monitoring_System"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-09-07T11:57:14Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
     "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
@@ -194,7 +230,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9433,
-    "updated_at": "2026-09-07T12:09:10Z",
+    "updated_at": "2026-09-07T12:37:22Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6234,
-    "updated_at": "2026-09-07T12:27:48Z",
+    "updated_at": "2026-09-07T12:44:10Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -279,15 +315,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-07T12:24:39Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
     "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
     "id": "DopamineDriven/slipstream",
     "language": "TypeScript",
@@ -295,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T10:59:31Z",
     "url": "https://github.com/DopamineDriven/slipstream"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 23,
-    "updated_at": "2026-09-07T11:59:03Z",
-    "url": "https://github.com/Cognipeer/console"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -428,25 +446,7 @@
     "language": "\u2014",
     "name": "Veloresearch/VLS-32M-Context-Local-LLM",
     "stars": 3,
-    "updated_at": "2026-09-07T10:20:13Z",
+    "updated_at": "2026-09-07T12:44:32Z",
     "url": "https://github.com/Veloresearch/VLS-32M-Context-Local-LLM"
-  },
-  {
-    "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
-    "id": "Forstwichtel/TensoRAG",
-    "language": "Python",
-    "name": "Forstwichtel/TensoRAG",
-    "stars": 1,
-    "updated_at": "2026-09-07T10:18:23Z",
-    "url": "https://github.com/Forstwichtel/TensoRAG"
-  },
-  {
-    "description": "(module) A Go embedded database with Redis-like commands, JSON field operations, and semantic vector search",
-    "id": "pardnchiu/ToriiDB",
-    "language": "Go",
-    "name": "pardnchiu/ToriiDB",
-    "stars": 3,
-    "updated_at": "2026-09-07T10:18:02Z",
-    "url": "https://github.com/pardnchiu/ToriiDB"
   }
 ]
