@@ -1,11 +1,38 @@
 [
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13039,
+    "updated_at": "2026-09-07T16:00:03Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T15:58:52Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-07T15:58:26Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
     "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
     "id": "alxxtexxr/arxiv_agent",
     "language": "Python",
     "name": "alxxtexxr/arxiv_agent",
     "stars": 0,
-    "updated_at": "2026-09-07T15:57:57Z",
+    "updated_at": "2026-09-07T16:00:09Z",
     "url": "https://github.com/alxxtexxr/arxiv_agent"
   },
   {
@@ -153,15 +180,6 @@
     "url": "https://github.com/ldclabs/anda-db"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T15:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -207,15 +225,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13039,
-    "updated_at": "2026-09-07T15:58:21Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "Diff two embedding-index snapshots: graded neighbor/population/duplicate/rot findings for vector-DB migrations and index",
     "id": "ictechgy/vecdiff",
     "language": "Python",
@@ -248,7 +257,7 @@
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-09-07T15:38:42Z",
+    "updated_at": "2026-09-07T16:00:20Z",
     "url": "https://github.com/vanedb/vanedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T13:56:39Z",
     "url": "https://github.com/sanath11/financial-rag-assistant"
-  },
-  {
-    "description": "A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang",
-    "id": "pnoboesam/ghana-constitution-rag",
-    "language": "Python",
-    "name": "pnoboesam/ghana-constitution-rag",
-    "stars": 0,
-    "updated_at": "2026-09-07T13:56:29Z",
-    "url": "https://github.com/pnoboesam/ghana-constitution-rag"
   }
 ]
