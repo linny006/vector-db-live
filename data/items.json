@@ -1,12 +1,75 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T06:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "High-performance native cognitive memory engine (.ame) for AI Agents with fused vector-graph search, sub-millisecond mut",
+    "id": "kzxl/agentic-memory",
+    "language": "C#",
+    "name": "kzxl/agentic-memory",
+    "stars": 0,
+    "updated_at": "2026-09-07T06:14:11Z",
+    "url": "https://github.com/kzxl/agentic-memory"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 78,
+    "updated_at": "2026-09-07T06:13:47Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 1929,
-    "updated_at": "2026-09-07T05:57:21Z",
+    "updated_at": "2026-09-07T06:13:33Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-07T06:09:19Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46005,
+    "updated_at": "2026-09-07T06:07:31Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Git-diffable memory for AI agents \u2014 six-layer architecture, plain-text source of truth, Obsidian graph projection. MIT.",
+    "id": "albaozhen-eng/coremem",
+    "language": "Python",
+    "name": "albaozhen-eng/coremem",
+    "stars": 1,
+    "updated_at": "2026-09-07T06:06:25Z",
+    "url": "https://github.com/albaozhen-eng/coremem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T06:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -18,15 +81,6 @@
     "url": "https://github.com/tamnd/yo"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-07T05:54:14Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match",
     "id": "Tibab222/cvMaker",
     "language": "TypeScript",
@@ -36,12 +90,21 @@
     "url": "https://github.com/Tibab222/cvMaker"
   },
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-07T05:54:14Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
     "description": "CPU-bound vector math library with SIMD optimization, distance metrics, and foundational protocols for Swift6",
     "id": "gifton/VectorCore",
     "language": "Swift",
     "name": "gifton/VectorCore",
     "stars": 3,
-    "updated_at": "2026-09-07T05:54:00Z",
+    "updated_at": "2026-09-07T06:04:43Z",
     "url": "https://github.com/gifton/VectorCore"
   },
   {
@@ -70,24 +133,6 @@
     "stars": 2,
     "updated_at": "2026-09-07T05:45:46Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T05:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T05:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -180,21 +225,12 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-07T05:53:30Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-07T05:58:45Z",
+    "updated_at": "2026-09-07T06:15:24Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -297,15 +333,6 @@
     "url": "https://github.com/GlitterKill/sdl-mcp"
   },
   {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 78,
-    "updated_at": "2026-09-07T04:18:22Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": "\u57fa\u4e8e datawhalechina/all-in-rag \u7684\u5b66\u4e60\u4e0e\u4f18\u5316\u8bb0\u5f55\u4ed3\u5e93",
     "id": "Cool-11/rag-optimization-log",
     "language": "\u2014",
@@ -322,15 +349,6 @@
     "stars": 33,
     "updated_at": "2026-09-07T04:10:43Z",
     "url": "https://github.com/MontyGovernance/montycat-mcp"
-  },
-  {
-    "description": "High-performance native cognitive memory engine (.ame) for AI Agents with fused vector-graph search, sub-millisecond mut",
-    "id": "kzxl/agentic-memory",
-    "language": "C#",
-    "name": "kzxl/agentic-memory",
-    "stars": 0,
-    "updated_at": "2026-09-07T03:40:14Z",
-    "url": "https://github.com/kzxl/agentic-memory"
   },
   {
     "description": "Synthetic research assistant",
@@ -369,21 +387,12 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46005,
-    "updated_at": "2026-09-07T03:13:30Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9433,
-    "updated_at": "2026-09-07T05:40:36Z",
+    "updated_at": "2026-09-07T06:15:05Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-07T02:36:25Z",
     "url": "https://github.com/aadityansha06/vecdb"
-  },
-  {
-    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
-    "id": "rustic-ai/uni-db",
-    "language": "Rust",
-    "name": "rustic-ai/uni-db",
-    "stars": 53,
-    "updated_at": "2026-09-07T02:36:14Z",
-    "url": "https://github.com/rustic-ai/uni-db"
   }
 ]
