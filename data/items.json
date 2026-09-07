@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-07T19:15:21Z",
+    "updated_at": "2026-09-07T19:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MCP server for semantic codebase indexing and intelligent code search, powered by Qdrant.",
+    "id": "Knighthawk-Leo/RepoMind",
+    "language": "Python",
+    "name": "Knighthawk-Leo/RepoMind",
+    "stars": 0,
+    "updated_at": "2026-09-07T19:28:51Z",
+    "url": "https://github.com/Knighthawk-Leo/RepoMind"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-09-07T19:24:13Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-07T19:21:44Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-09-07T19:20:54Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1927,
+    "updated_at": "2026-09-07T19:20:44Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1136,
+    "updated_at": "2026-09-07T19:19:57Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "RAG over Indian law with verifiable citations: hybrid BM25 and vector retrieval fused by reciprocal rank fusion across r",
+    "id": "spearb0lt/Legal-RAG",
+    "language": "Python",
+    "name": "spearb0lt/Legal-RAG",
+    "stars": 1,
+    "updated_at": "2026-09-07T19:16:41Z",
+    "url": "https://github.com/spearb0lt/Legal-RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T19:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -14,7 +86,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-07T19:14:53Z",
+    "updated_at": "2026-09-07T19:29:31Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -32,7 +104,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 57,
-    "updated_at": "2026-09-07T19:13:12Z",
+    "updated_at": "2026-09-07T19:19:42Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -63,15 +135,6 @@
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
-    "description": "RAG over Indian law with verifiable citations: hybrid BM25 and vector retrieval fused by reciprocal rank fusion across r",
-    "id": "spearb0lt/Legal-RAG",
-    "language": "Python",
-    "name": "spearb0lt/Legal-RAG",
-    "stars": 1,
-    "updated_at": "2026-09-07T19:09:28Z",
-    "url": "https://github.com/spearb0lt/Legal-RAG"
-  },
-  {
     "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
     "id": "d3uceY/vectile",
     "language": "Go",
@@ -90,15 +153,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T19:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -106,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-07T18:59:42Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1136,
-    "updated_at": "2026-09-07T18:56:16Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -160,15 +205,6 @@
     "stars": 3,
     "updated_at": "2026-09-07T18:48:07Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-07T18:47:53Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
     "description": "Embeddable vector database for edge AI",
@@ -221,7 +257,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-07T19:15:20Z",
+    "updated_at": "2026-09-07T19:26:24Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7077,
-    "updated_at": "2026-09-07T17:42:01Z",
+    "updated_at": "2026-09-07T19:23:15Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -374,17 +410,8 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 861,
-    "updated_at": "2026-09-07T17:23:07Z",
+    "updated_at": "2026-09-07T19:16:12Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-09-07T17:22:49Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
     "description": "Autonomous DevOps agent that automates deployments, infrastructure management, and troubleshooting across cloud environm",
@@ -421,32 +448,5 @@
     "stars": 16790,
     "updated_at": "2026-09-07T17:03:30Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Diff two embedding-index snapshots: graded neighbor/population/duplicate/rot findings for vector-DB migrations and index",
-    "id": "ictechgy/vecdiff",
-    "language": "Python",
-    "name": "ictechgy/vecdiff",
-    "stars": 0,
-    "updated_at": "2026-09-07T17:01:51Z",
-    "url": "https://github.com/ictechgy/vecdiff"
-  },
-  {
-    "description": "Shared, persistent memory for AI agents. Self-hosted MCP server with semantic search, vector RAG, and live updates. Work",
-    "id": "MontyGovernance/montycat-mcp",
-    "language": "Python",
-    "name": "MontyGovernance/montycat-mcp",
-    "stars": 35,
-    "updated_at": "2026-09-07T17:16:05Z",
-    "url": "https://github.com/MontyGovernance/montycat-mcp"
-  },
-  {
-    "description": "Persistent AI memory with crossover \u2014 your AI at home shares the same memory as your AI at work. What one LLM learns, al",
-    "id": "RonnyTome/cube-memory-sdk",
-    "language": "Python",
-    "name": "RonnyTome/cube-memory-sdk",
-    "stars": 0,
-    "updated_at": "2026-09-07T16:53:49Z",
-    "url": "https://github.com/RonnyTome/cube-memory-sdk"
   }
 ]
