@@ -5,8 +5,116 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-07T07:45:22Z",
+    "updated_at": "2026-09-07T08:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 12,
+    "updated_at": "2026-09-07T07:58:42Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 23,
+    "updated_at": "2026-09-07T07:58:14Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-09-07T07:57:32Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-09-07T07:57:29Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-09-07T07:58:00Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9433,
+    "updated_at": "2026-09-07T07:55:40Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
+    "id": "DopamineDriven/slipstream",
+    "language": "TypeScript",
+    "name": "DopamineDriven/slipstream",
+    "stars": 0,
+    "updated_at": "2026-09-07T07:54:47Z",
+    "url": "https://github.com/DopamineDriven/slipstream"
+  },
+  {
+    "description": "Embedded PostgreSQL with pgvector extension for Node.js applications",
+    "id": "boomship/postgres-vector-embedded",
+    "language": "JavaScript",
+    "name": "boomship/postgres-vector-embedded",
+    "stars": 2,
+    "updated_at": "2026-09-07T07:48:04Z",
+    "url": "https://github.com/boomship/postgres-vector-embedded"
+  },
+  {
+    "description": "AI Knowledge Platform | FastAPI, PostgreSQL, pgvector, RAG, LLM Agents & Docker",
+    "id": "BELBINBENORM/ai-knowledge-platform",
+    "language": "Python",
+    "name": "BELBINBENORM/ai-knowledge-platform",
+    "stars": 1,
+    "updated_at": "2026-09-07T07:47:17Z",
+    "url": "https://github.com/BELBINBENORM/ai-knowledge-platform"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1134,
+    "updated_at": "2026-09-07T07:45:49Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-07T07:45:40Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T07:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -18,6 +126,15 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7078,
+    "updated_at": "2026-09-07T07:43:15Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
     "description": "",
     "id": "insha-parveen/SecureCorp-AI",
     "language": "Python",
@@ -25,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T07:42:22Z",
     "url": "https://github.com/insha-parveen/SecureCorp-AI"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 23,
-    "updated_at": "2026-09-07T07:42:19Z",
-    "url": "https://github.com/Cognipeer/console"
   },
   {
     "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
@@ -63,15 +171,6 @@
     "url": "https://github.com/Baffxy/MedRAG"
   },
   {
-    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-09-07T07:44:15Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
-  },
-  {
     "description": "An emotional RAG system that combines semantic memory retrieval, persona tracking, and proactive memory management for L",
     "id": "ZERO-70/Emotional-RAG-2.0",
     "language": "Python",
@@ -86,26 +185,8 @@
     "language": "Python",
     "name": "bobaba76/Argos",
     "stars": 6,
-    "updated_at": "2026-09-07T07:35:14Z",
+    "updated_at": "2026-09-07T07:58:03Z",
     "url": "https://github.com/bobaba76/Argos"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T07:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-07T07:28:50Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -113,7 +194,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-07T07:18:42Z",
+    "updated_at": "2026-09-07T07:57:53Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -121,7 +202,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1889,
+    "stars": 1890,
     "updated_at": "2026-09-07T07:15:48Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -194,17 +275,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6234,
-    "updated_at": "2026-09-07T07:44:14Z",
+    "updated_at": "2026-09-07T07:50:50Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Embedded PostgreSQL with pgvector extension for Node.js applications",
-    "id": "boomship/postgres-vector-embedded",
-    "language": "JavaScript",
-    "name": "boomship/postgres-vector-embedded",
-    "stars": 2,
-    "updated_at": "2026-09-07T07:19:56Z",
-    "url": "https://github.com/boomship/postgres-vector-embedded"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -257,7 +329,7 @@
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 1929,
-    "updated_at": "2026-09-07T06:28:34Z",
+    "updated_at": "2026-09-07T07:55:35Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
@@ -369,15 +441,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7077,
-    "updated_at": "2026-09-07T07:43:15Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-07T05:22:58Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-07T05:15:21Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Nongor - High Accuracy Local First RAG Chat",
-    "id": "riverbornai/nongor",
-    "language": "Python",
-    "name": "riverbornai/nongor",
-    "stars": 2,
-    "updated_at": "2026-09-07T05:14:53Z",
-    "url": "https://github.com/riverbornai/nongor"
-  },
-  {
-    "description": "A typed service that admits tenant learning documents, chunks them, embeds them, and writes a vector collection.",
-    "id": "NoxusT77/saas-tenant-vector-ingest",
-    "language": "TypeScript",
-    "name": "NoxusT77/saas-tenant-vector-ingest",
-    "stars": 0,
-    "updated_at": "2026-09-07T04:56:00Z",
-    "url": "https://github.com/NoxusT77/saas-tenant-vector-ingest"
-  },
-  {
-    "description": "A brain for any YouTube channel. Dual-memory RAG \u2014 vector + knowledge graph \u2014 with verified citations and an eval suite.",
-    "id": "django18/channel-brain",
-    "language": "TypeScript",
-    "name": "django18/channel-brain",
-    "stars": 0,
-    "updated_at": "2026-09-07T04:48:14Z",
-    "url": "https://github.com/django18/channel-brain"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 849,
-    "updated_at": "2026-09-07T04:41:51Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "Evidence-led technology trends, updated weekly from up2d8.com \u2014 classification ladder, recommended actions, and the repo",
-    "id": "allup2d8/trends",
-    "language": "\u2014",
-    "name": "allup2d8/trends",
-    "stars": 0,
-    "updated_at": "2026-09-07T04:33:42Z",
-    "url": "https://github.com/allup2d8/trends"
-  },
-  {
-    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
-    "id": "GlitterKill/sdl-mcp",
-    "language": "TypeScript",
-    "name": "GlitterKill/sdl-mcp",
-    "stars": 471,
-    "updated_at": "2026-09-07T04:21:20Z",
-    "url": "https://github.com/GlitterKill/sdl-mcp"
   }
 ]
