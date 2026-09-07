@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T07:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13036,
+    "updated_at": "2026-09-07T07:30:11Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-07T07:28:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An emotional RAG system that combines semantic memory retrieval, persona tracking, and proactive memory management for L",
+    "id": "ZERO-70/Emotional-RAG-2.0",
+    "language": "Python",
+    "name": "ZERO-70/Emotional-RAG-2.0",
+    "stars": 0,
+    "updated_at": "2026-09-07T07:28:28Z",
+    "url": "https://github.com/ZERO-70/Emotional-RAG-2.0"
+  },
+  {
+    "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
+    "id": "bobaba76/Argos",
+    "language": "Python",
+    "name": "bobaba76/Argos",
+    "stars": 6,
+    "updated_at": "2026-09-07T07:25:29Z",
+    "url": "https://github.com/bobaba76/Argos"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-07T07:18:42Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1888,
+    "updated_at": "2026-09-07T07:15:48Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T07:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -54,33 +126,6 @@
     "url": "https://github.com/10xHub/Agentflow"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T07:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T07:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-07T06:58:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -95,7 +140,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6234,
-    "updated_at": "2026-09-07T07:13:33Z",
+    "updated_at": "2026-09-07T07:27:27Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -104,7 +149,7 @@
     "language": "JavaScript",
     "name": "boomship/postgres-vector-embedded",
     "stars": 2,
-    "updated_at": "2026-09-07T07:06:41Z",
+    "updated_at": "2026-09-07T07:19:56Z",
     "url": "https://github.com/boomship/postgres-vector-embedded"
   },
   {
@@ -115,15 +160,6 @@
     "stars": 1884,
     "updated_at": "2026-09-07T06:54:31Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-07T06:45:51Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -149,7 +185,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9238,
-    "updated_at": "2026-09-07T07:01:41Z",
+    "updated_at": "2026-09-07T07:22:05Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Python",
     "name": "devopam/MCPg",
     "stars": 9,
-    "updated_at": "2026-09-07T06:48:47Z",
+    "updated_at": "2026-09-07T07:25:14Z",
     "url": "https://github.com/devopam/MCPg"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 78,
-    "updated_at": "2026-09-07T06:13:47Z",
+    "updated_at": "2026-09-07T07:16:02Z",
     "url": "https://github.com/infino-ai/infino"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Swift",
     "name": "gifton/VectorCore",
     "stars": 3,
-    "updated_at": "2026-09-07T06:04:43Z",
+    "updated_at": "2026-09-07T07:18:21Z",
     "url": "https://github.com/gifton/VectorCore"
   },
   {
@@ -333,15 +369,6 @@
     "url": "https://github.com/riverbornai/nongor"
   },
   {
-    "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
-    "id": "bobaba76/Argos",
-    "language": "Python",
-    "name": "bobaba76/Argos",
-    "stars": 6,
-    "updated_at": "2026-09-07T05:13:56Z",
-    "url": "https://github.com/bobaba76/Argos"
-  },
-  {
     "description": "A typed service that admits tenant learning documents, chunks them, embeds them, and writes a vector collection.",
     "id": "NoxusT77/saas-tenant-vector-ingest",
     "language": "TypeScript",
@@ -400,7 +427,7 @@
     "id": "MontyGovernance/montycat-mcp",
     "language": "Python",
     "name": "MontyGovernance/montycat-mcp",
-    "stars": 33,
+    "stars": 34,
     "updated_at": "2026-09-07T04:10:43Z",
     "url": "https://github.com/MontyGovernance/montycat-mcp"
   },
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-07T03:50:53Z",
     "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1468,
-    "updated_at": "2026-09-07T04:19:04Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-07T03:23:03Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9433,
-    "updated_at": "2026-09-07T07:10:22Z",
-    "url": "https://github.com/databendlabs/databend"
   }
 ]
