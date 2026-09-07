@@ -1,5 +1,50 @@
 [
   {
+    "description": "Embedded vector database in Rust with Python bindings \u2014 TurboQuant algorithm (arXiv:2504.19874), zero training, 2\u20134 bit ",
+    "id": "jyunming/TurboQuantDB",
+    "language": "Python",
+    "name": "jyunming/TurboQuantDB",
+    "stars": 2,
+    "updated_at": "2026-09-07T18:43:39Z",
+    "url": "https://github.com/jyunming/TurboQuantDB"
+  },
+  {
+    "description": "CPU-bound vector math library with SIMD optimization, distance metrics, and foundational protocols for Swift6",
+    "id": "gifton/VectorCore",
+    "language": "Swift",
+    "name": "gifton/VectorCore",
+    "stars": 3,
+    "updated_at": "2026-09-07T18:40:59Z",
+    "url": "https://github.com/gifton/VectorCore"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-07T18:38:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-07T18:42:24Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T18:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 57,
-    "updated_at": "2026-09-07T18:28:51Z",
+    "updated_at": "2026-09-07T18:43:09Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -45,31 +90,13 @@
     "url": "https://github.com/bobaba76/Argos"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T18:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Embeddable vector database for edge AI",
     "id": "vanedb/vanedb",
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-09-07T18:23:06Z",
+    "updated_at": "2026-09-07T18:42:12Z",
     "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-07T18:10:38Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
@@ -95,7 +122,7 @@
     "language": "Rust",
     "name": "NickFlach/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-09-07T17:54:04Z",
+    "updated_at": "2026-09-07T18:38:13Z",
     "url": "https://github.com/NickFlach/kannaka-memory"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1884,
-    "updated_at": "2026-09-07T18:10:06Z",
+    "updated_at": "2026-09-07T18:43:11Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34421,
-    "updated_at": "2026-09-07T17:21:05Z",
+    "updated_at": "2026-09-07T18:35:53Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1136,
-    "updated_at": "2026-09-07T18:28:33Z",
+    "updated_at": "2026-09-07T18:41:36Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -329,7 +356,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-09-07T18:26:14Z",
+    "updated_at": "2026-09-07T18:42:37Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T16:26:49Z",
     "url": "https://github.com/pnoboesam/ghana-constitution-rag"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 1,
-    "updated_at": "2026-09-07T16:25:52Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-09-07T16:25:46Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 2,
-    "updated_at": "2026-09-07T16:24:54Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   }
 ]
