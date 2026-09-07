@@ -1,5 +1,95 @@
 [
   {
+    "description": "Official TypeScript SDK for Z3rno: native fetch + Zod, zero runtime dependencies, works in Node/Bun/Deno/browser",
+    "id": "the-ai-project-co/z3rno-sdk-typescript",
+    "language": "TypeScript",
+    "name": "the-ai-project-co/z3rno-sdk-typescript",
+    "stars": 0,
+    "updated_at": "2026-09-07T06:59:02Z",
+    "url": "https://github.com/the-ai-project-co/z3rno-sdk-typescript"
+  },
+  {
+    "description": "Official Python SDK for Z3rno: thin httpx + Pydantic HTTP client over z3rno-server",
+    "id": "the-ai-project-co/z3rno-sdk-python",
+    "language": "Python",
+    "name": "the-ai-project-co/z3rno-sdk-python",
+    "stars": 0,
+    "updated_at": "2026-09-07T06:58:58Z",
+    "url": "https://github.com/the-ai-project-co/z3rno-sdk-python"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-07T06:58:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Core memory engine for Z3rno: PostgreSQL schema, SQLAlchemy models, Alembic migrations, store/recall/forget/audit librar",
+    "id": "the-ai-project-co/z3rno-core",
+    "language": "Python",
+    "name": "the-ai-project-co/z3rno-core",
+    "stars": 0,
+    "updated_at": "2026-09-07T06:58:54Z",
+    "url": "https://github.com/the-ai-project-co/z3rno-core"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 76,
+    "updated_at": "2026-09-07T06:58:11Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6234,
+    "updated_at": "2026-09-07T06:58:11Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Embedded PostgreSQL with pgvector extension for Node.js applications",
+    "id": "boomship/postgres-vector-embedded",
+    "language": "JavaScript",
+    "name": "boomship/postgres-vector-embedded",
+    "stars": 2,
+    "updated_at": "2026-09-07T06:55:50Z",
+    "url": "https://github.com/boomship/postgres-vector-embedded"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1884,
+    "updated_at": "2026-09-07T06:54:31Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-07T06:45:51Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T06:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +97,15 @@
     "stars": 3,
     "updated_at": "2026-09-07T06:45:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46006,
+    "updated_at": "2026-09-07T06:40:06Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -32,7 +131,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9238,
-    "updated_at": "2026-09-07T06:43:24Z",
+    "updated_at": "2026-09-07T06:51:45Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -41,17 +140,8 @@
     "language": "Python",
     "name": "devopam/MCPg",
     "stars": 9,
-    "updated_at": "2026-09-07T06:44:27Z",
+    "updated_at": "2026-09-07T06:48:47Z",
     "url": "https://github.com/devopam/MCPg"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T06:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The documentation for SurrealDB, powered by Astro",
@@ -61,15 +151,6 @@
     "stars": 120,
     "updated_at": "2026-09-07T06:29:50Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-07T06:28:59Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -99,15 +180,6 @@
     "url": "https://github.com/Cognipeer/console"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-07T06:19:05Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "High-performance native cognitive memory engine (.ame) for AI Agents with fused vector-graph search, sub-millisecond mut",
     "id": "kzxl/agentic-memory",
     "language": "C#",
@@ -135,15 +207,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46005,
-    "updated_at": "2026-09-07T06:40:06Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Git-diffable memory for AI agents \u2014 six-layer architecture, plain-text source of truth, Obsidian graph projection. MIT.",
     "id": "albaozhen-eng/coremem",
     "language": "Python",
@@ -160,15 +223,6 @@
     "stars": 4,
     "updated_at": "2026-09-07T05:56:03Z",
     "url": "https://github.com/Tibab222/cvMaker"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 76,
-    "updated_at": "2026-09-07T05:54:14Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "CPU-bound vector math library with SIMD optimization, distance metrics, and foundational protocols for Swift6",
@@ -225,40 +279,13 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Core memory engine for Z3rno: PostgreSQL schema, SQLAlchemy models, Alembic migrations, store/recall/forget/audit librar",
-    "id": "the-ai-project-co/z3rno-core",
-    "language": "Python",
-    "name": "the-ai-project-co/z3rno-core",
-    "stars": 0,
-    "updated_at": "2026-09-07T05:36:27Z",
-    "url": "https://github.com/the-ai-project-co/z3rno-core"
-  },
-  {
     "description": "FastAPI REST server for Z3rno: imports z3rno-core, exposes /v1 API with API-key auth, rate limiting, and RLS-backed mult",
     "id": "the-ai-project-co/z3rno-server",
     "language": "Python",
     "name": "the-ai-project-co/z3rno-server",
     "stars": 0,
-    "updated_at": "2026-09-07T05:36:01Z",
+    "updated_at": "2026-09-07T06:47:29Z",
     "url": "https://github.com/the-ai-project-co/z3rno-server"
-  },
-  {
-    "description": "Official TypeScript SDK for Z3rno: native fetch + Zod, zero runtime dependencies, works in Node/Bun/Deno/browser",
-    "id": "the-ai-project-co/z3rno-sdk-typescript",
-    "language": "TypeScript",
-    "name": "the-ai-project-co/z3rno-sdk-typescript",
-    "stars": 0,
-    "updated_at": "2026-09-07T05:35:33Z",
-    "url": "https://github.com/the-ai-project-co/z3rno-sdk-typescript"
-  },
-  {
-    "description": "Official Python SDK for Z3rno: thin httpx + Pydantic HTTP client over z3rno-server",
-    "id": "the-ai-project-co/z3rno-sdk-python",
-    "language": "Python",
-    "name": "the-ai-project-co/z3rno-sdk-python",
-    "stars": 0,
-    "updated_at": "2026-09-07T05:34:45Z",
-    "url": "https://github.com/the-ai-project-co/z3rno-sdk-python"
   },
   {
     "description": "The AI search platform",
@@ -313,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T04:56:00Z",
     "url": "https://github.com/NoxusT77/saas-tenant-vector-ingest"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1884,
-    "updated_at": "2026-09-07T04:52:34Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "A brain for any YouTube channel. Dual-memory RAG \u2014 vector + knowledge graph \u2014 with verified citations and an eval suite.",
@@ -419,7 +437,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9433,
-    "updated_at": "2026-09-07T06:41:29Z",
+    "updated_at": "2026-09-07T06:55:08Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T03:06:28Z",
     "url": "https://github.com/1402365177c4-star/langchain-rag-qa"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-07T02:59:53Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Multimodal extractors for video, image, audio, text & PDF \u2014 turn any file into searchable vector embeddings (SigLIP, Gem",
-    "id": "mixpeek/mixpeek-extractors",
-    "language": "Python",
-    "name": "mixpeek/mixpeek-extractors",
-    "stars": 1,
-    "updated_at": "2026-09-07T02:43:26Z",
-    "url": "https://github.com/mixpeek/mixpeek-extractors"
   }
 ]
