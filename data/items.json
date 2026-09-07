@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-07T09:15:23Z",
+    "updated_at": "2026-09-07T09:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15823,
+    "updated_at": "2026-09-07T09:26:21Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4432,
+    "updated_at": "2026-09-07T09:22:06Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3288,
+    "updated_at": "2026-09-07T09:20:38Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "The documentation for SurrealDB, powered by Astro",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 120,
+    "updated_at": "2026-09-07T09:20:18Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-09-07T09:16:17Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T09:15:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embeddable vector database for edge AI",
@@ -14,7 +68,7 @@
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-09-07T09:13:17Z",
+    "updated_at": "2026-09-07T09:29:07Z",
     "url": "https://github.com/vanedb/vanedb"
   },
   {
@@ -45,15 +99,6 @@
     "url": "https://github.com/GoodbyePlanet/semcode"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4432,
-    "updated_at": "2026-09-07T09:09:39Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "High-density streaming VDB. Built on Hnswlib. 100% memory-safe under extreme data bursts.",
     "id": "CantorAI/Quanta",
     "language": "C++",
@@ -72,15 +117,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T09:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -88,15 +124,6 @@
     "stars": 6409,
     "updated_at": "2026-09-07T09:00:26Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities and digital assets. Real-time market data, LLM news analysis an",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-09-07T09:00:08Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
     "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
@@ -169,6 +196,15 @@
     "stars": 13036,
     "updated_at": "2026-09-07T08:52:11Z",
     "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2950,
+    "updated_at": "2026-09-07T08:51:00Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -284,7 +320,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16787,
-    "updated_at": "2026-09-07T09:12:35Z",
+    "updated_at": "2026-09-07T09:26:54Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T08:19:53Z",
     "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59205,
-    "updated_at": "2026-09-07T09:14:38Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-09-07T08:16:36Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 279,
-    "updated_at": "2026-09-07T08:20:31Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-07T08:14:39Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
   }
 ]
