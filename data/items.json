@@ -1,12 +1,66 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
+    "id": "EVEDensity/AgentHub",
     "language": "Python",
-    "name": "linny006/rag-radar",
+    "name": "EVEDensity/AgentHub",
+    "stars": 26,
+    "updated_at": "2026-09-07T14:13:59Z",
+    "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "Chatbot RAG sobre datos oficiales de la Escuela Polit\u00e9cnica Superior de Ja\u00e9n (UJA). Recuperaci\u00f3n y generaci\u00f3n 100% en lo",
+    "id": "samubp10/tfg-recomendador-uja",
+    "language": "Python",
+    "name": "samubp10/tfg-recomendador-uja",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:13:39Z",
+    "url": "https://github.com/samubp10/tfg-recomendador-uja"
+  },
+  {
+    "description": "AI knowledge platform for document ingestion, semantic search, RAG, Gemini-powered chat, and LLM tool calling, built wit",
+    "id": "BELBINBENORM/ragforge",
+    "language": "Python",
+    "name": "BELBINBENORM/ragforge",
+    "stars": 1,
+    "updated_at": "2026-09-07T14:11:55Z",
+    "url": "https://github.com/BELBINBENORM/ragforge"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 95,
+    "updated_at": "2026-09-07T14:13:58Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Official n8n creator | Production-ready automation workflows: Agentic RAG, multi-KB AI agents, AI governance, and privac",
+    "id": "nenedesign/n8n-workflows",
+    "language": "\u2014",
+    "name": "nenedesign/n8n-workflows",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:09:30Z",
+    "url": "https://github.com/nenedesign/n8n-workflows"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 3,
-    "updated_at": "2026-09-07T14:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-09-07T14:09:26Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Head of Product & Experience at Distinct AI. Official n8n creator building production-grade agentic RAG, multi-agent sys",
+    "id": "nenedesign/nenedesign",
+    "language": "\u2014",
+    "name": "nenedesign/nenedesign",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:09:24Z",
+    "url": "https://github.com/nenedesign/nenedesign"
   },
   {
     "description": "Embeddable vector database for edge AI",
@@ -14,8 +68,26 @@
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-09-07T14:00:03Z",
+    "updated_at": "2026-09-07T14:03:27Z",
     "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T14:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T14:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -63,21 +135,12 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "AI knowledge platform for document ingestion, semantic search, RAG, Gemini-powered chat, and LLM tool calling, built wit",
-    "id": "BELBINBENORM/ragforge",
-    "language": "Python",
-    "name": "BELBINBENORM/ragforge",
-    "stars": 1,
-    "updated_at": "2026-09-07T13:50:59Z",
-    "url": "https://github.com/BELBINBENORM/ragforge"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6234,
-    "updated_at": "2026-09-07T14:00:18Z",
+    "updated_at": "2026-09-07T14:10:22Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -115,15 +178,6 @@
     "stars": 7077,
     "updated_at": "2026-09-07T13:45:59Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T13:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -167,17 +221,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34420,
-    "updated_at": "2026-09-07T13:36:30Z",
+    "updated_at": "2026-09-07T14:15:22Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-07T13:36:17Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -185,7 +230,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8186,
-    "updated_at": "2026-09-07T13:36:05Z",
+    "updated_at": "2026-09-07T14:08:23Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -360,15 +405,6 @@
     "url": "https://github.com/jyunming/TurboQuantDB"
   },
   {
-    "description": "Sistema web de recomendaci\u00f3n de titulaciones UJA para estudiantes de secundaria. Usa web scraping, NLP y RAG con LLMs pa",
-    "id": "samubp10/tfg-recomendador-uja",
-    "language": "Python",
-    "name": "samubp10/tfg-recomendador-uja",
-    "stars": 0,
-    "updated_at": "2026-09-07T12:29:37Z",
-    "url": "https://github.com/samubp10/tfg-recomendador-uja"
-  },
-  {
     "description": "TalaDB - The embedded vector and document database for on-device AI.",
     "id": "taladb/taladb",
     "language": "Rust",
@@ -376,6 +412,15 @@
     "stars": 4,
     "updated_at": "2026-09-07T12:29:14Z",
     "url": "https://github.com/taladb/taladb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46014,
+    "updated_at": "2026-09-07T12:27:30Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-07T12:23:29Z",
     "url": "https://github.com/willy410-hub/log-vector-pipeline"
-  },
-  {
-    "description": "CLI-based AI tool for analyzing and understanding codebases using LLMs",
-    "id": "dsk-dev-ai/devos-ai",
-    "language": "Python",
-    "name": "dsk-dev-ai/devos-ai",
-    "stars": 1,
-    "updated_at": "2026-09-07T12:11:14Z",
-    "url": "https://github.com/dsk-dev-ai/devos-ai"
-  },
-  {
-    "description": "Decentralized Graph Database with Integrated Vector Search",
-    "id": "perforate-org/gleaph",
-    "language": "Rust",
-    "name": "perforate-org/gleaph",
-    "stars": 2,
-    "updated_at": "2026-09-07T12:10:55Z",
-    "url": "https://github.com/perforate-org/gleaph"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 95,
-    "updated_at": "2026-09-07T13:55:16Z",
-    "url": "https://github.com/topk-io/topk"
-  },
-  {
-    "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
-    "id": "edwardtay/awesome-ai",
-    "language": "\u2014",
-    "name": "edwardtay/awesome-ai",
-    "stars": 4,
-    "updated_at": "2026-09-07T11:51:51Z",
-    "url": "https://github.com/edwardtay/awesome-ai"
-  },
-  {
-    "description": "Memory SDK for AI agents \u2014 bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid",
-    "id": "Bitwarelabscom/bwmem",
-    "language": "TypeScript",
-    "name": "Bitwarelabscom/bwmem",
-    "stars": 2,
-    "updated_at": "2026-09-07T11:50:50Z",
-    "url": "https://github.com/Bitwarelabscom/bwmem"
   }
 ]
