@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-07T17:45:20Z",
+    "updated_at": "2026-09-07T18:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
+    "id": "vector-index-bench/vibe",
+    "language": "Python",
+    "name": "vector-index-bench/vibe",
+    "stars": 68,
+    "updated_at": "2026-09-07T17:56:41Z",
+    "url": "https://github.com/vector-index-bench/vibe"
+  },
+  {
+    "description": "",
+    "id": "NickFlach/kannaka-memory",
+    "language": "Rust",
+    "name": "NickFlach/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-07T17:54:04Z",
+    "url": "https://github.com/NickFlach/kannaka-memory"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 343,
+    "updated_at": "2026-09-07T17:46:29Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Enterprise Financial RAG microservices engine built with Spring Boot, FastAPI, PostgreSQL pgvector, AWS S3/Lambda/SQS, B",
+    "id": "vinay020606/Finsearch",
+    "language": "Python",
+    "name": "vinay020606/Finsearch",
+    "stars": 1,
+    "updated_at": "2026-09-07T17:46:12Z",
+    "url": "https://github.com/vinay020606/Finsearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T17:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Profile README",
@@ -16,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-09-07T17:45:03Z",
     "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Enterprise Financial RAG microservices engine built with Spring Boot, FastAPI, PostgreSQL pgvector, AWS S3/Lambda/SQS, B",
-    "id": "vinay020606/Finsearch",
-    "language": "Python",
-    "name": "vinay020606/Finsearch",
-    "stars": 1,
-    "updated_at": "2026-09-07T17:45:18Z",
-    "url": "https://github.com/vinay020606/Finsearch"
   },
   {
     "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
@@ -117,15 +153,6 @@
     "url": "https://github.com/Harsh28Pandey/think-flow"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T17:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A minimal storage layer for storing large matrices and embeddings",
     "id": "tuned-org-uk/genegraph-storage",
     "language": "Rust",
@@ -151,6 +178,15 @@
     "stars": 2,
     "updated_at": "2026-09-07T17:22:49Z",
     "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34420,
+    "updated_at": "2026-09-07T17:21:05Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Autonomous DevOps agent that automates deployments, infrastructure management, and troubleshooting across cloud environm",
@@ -207,15 +243,6 @@
     "url": "https://github.com/MontyGovernance/montycat-mcp"
   },
   {
-    "description": "",
-    "id": "NickFlach/kannaka-memory",
-    "language": "Rust",
-    "name": "NickFlach/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-07T17:44:08Z",
-    "url": "https://github.com/NickFlach/kannaka-memory"
-  },
-  {
     "description": "Persistent AI memory with crossover \u2014 your AI at home shares the same memory as your AI at work. What one LLM learns, al",
     "id": "RonnyTome/cube-memory-sdk",
     "language": "Python",
@@ -239,7 +266,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1136,
-    "updated_at": "2026-09-07T17:43:00Z",
+    "updated_at": "2026-09-07T17:56:18Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -268,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T16:47:59Z",
     "url": "https://github.com/dilumdarshana/ai-concepts"
-  },
-  {
-    "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
-    "id": "vector-index-bench/vibe",
-    "language": "Python",
-    "name": "vector-index-bench/vibe",
-    "stars": 68,
-    "updated_at": "2026-09-07T16:36:20Z",
-    "url": "https://github.com/vector-index-bench/vibe"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-07T16:13:22Z",
     "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 3,
-    "updated_at": "2026-09-07T16:12:27Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
-    "id": "EVEDensity/AgentHub",
-    "language": "Python",
-    "name": "EVEDensity/AgentHub",
-    "stars": 26,
-    "updated_at": "2026-09-07T16:11:29Z",
-    "url": "https://github.com/EVEDensity/AgentHub"
   }
 ]
