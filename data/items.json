@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-07T09:30:24Z",
+    "updated_at": "2026-09-07T09:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-07T09:40:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-07T09:39:13Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "AI-powered code intelligence platform for repository analysis using RAG, semantic search, multi-provider LLMs, and Groun",
+    "id": "pushkarsingh26/DevMind",
+    "language": "Python",
+    "name": "pushkarsingh26/DevMind",
+    "stars": 2,
+    "updated_at": "2026-09-07T09:38:59Z",
+    "url": "https://github.com/pushkarsingh26/DevMind"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1884,
+    "updated_at": "2026-09-07T09:32:22Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 230,
+    "updated_at": "2026-09-07T09:31:32Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "A minimal storage layer for storing large matrices and embeddings",
+    "id": "tuned-org-uk/genegraph-storage",
+    "language": "Rust",
+    "name": "tuned-org-uk/genegraph-storage",
+    "stars": 2,
+    "updated_at": "2026-09-07T09:33:11Z",
+    "url": "https://github.com/tuned-org-uk/genegraph-storage"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T09:30:38Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
@@ -54,13 +117,13 @@
     "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T09:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34415,
+    "updated_at": "2026-09-07T09:13:46Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Embeddable vector database for edge AI",
@@ -68,17 +131,8 @@
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-09-07T09:29:07Z",
+    "updated_at": "2026-09-07T09:35:40Z",
     "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-07T09:12:52Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
@@ -144,6 +198,15 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8185,
+    "updated_at": "2026-09-07T08:56:24Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
     "id": "Forstwichtel/TensoRAG",
     "language": "Python",
@@ -207,15 +270,6 @@
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:50:38Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
     "id": "kwhorne/ElyraSQL",
     "language": "Rust",
@@ -250,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T08:44:39Z",
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1884,
-    "updated_at": "2026-09-07T08:41:53Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -320,7 +365,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16787,
-    "updated_at": "2026-09-07T09:26:54Z",
+    "updated_at": "2026-09-07T09:35:06Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-07T08:25:59Z",
     "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-09-07T08:24:27Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 3,
-    "updated_at": "2026-09-07T08:23:32Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-09-07T08:22:18Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-09-07T08:21:14Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-09-07T08:19:53Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
   }
 ]
