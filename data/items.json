@@ -1,11 +1,83 @@
 [
   {
+    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
+    "id": "xbsheng/ai-from-scratch",
+    "language": "Python",
+    "name": "xbsheng/ai-from-scratch",
+    "stars": 1,
+    "updated_at": "2026-09-07T14:57:02Z",
+    "url": "https://github.com/xbsheng/ai-from-scratch"
+  },
+  {
+    "description": "Local memory + semantic search for AI agents. Indexes code and documents on your machine, queryable via MCP. Private, of",
+    "id": "dangranaz/nxm-memory",
+    "language": "Shell",
+    "name": "dangranaz/nxm-memory",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:56:47Z",
+    "url": "https://github.com/dangranaz/nxm-memory"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 95,
+    "updated_at": "2026-09-07T14:51:20Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Semantic memory and cross-project search for AI",
+    "id": "jkraybill/gordo-ledger",
+    "language": "TypeScript",
+    "name": "jkraybill/gordo-ledger",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:51:01Z",
+    "url": "https://github.com/jkraybill/gordo-ledger"
+  },
+  {
+    "description": "AI agent code examples",
+    "id": "nekozzz94/NekoAI-agents",
+    "language": "Python",
+    "name": "nekozzz94/NekoAI-agents",
+    "stars": 16,
+    "updated_at": "2026-09-07T14:49:31Z",
+    "url": "https://github.com/nekozzz94/NekoAI-agents"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-07T14:48:08Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-07T14:58:19Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T14:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-07T14:45:19Z",
+    "updated_at": "2026-09-07T15:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -54,40 +126,22 @@
     "url": "https://github.com/Daaboulex/openviking-nix"
   },
   {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-07T14:33:28Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34421,
-    "updated_at": "2026-09-07T14:32:44Z",
+    "updated_at": "2026-09-07T14:56:48Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Local memory + semantic search for AI agents. Indexes code and documents on your machine, queryable via MCP. Private, of",
-    "id": "dangranaz/nxm-memory",
-    "language": "Shell",
-    "name": "dangranaz/nxm-memory",
-    "stars": 0,
-    "updated_at": "2026-09-07T14:31:20Z",
-    "url": "https://github.com/dangranaz/nxm-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T14:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16789,
+    "updated_at": "2026-09-07T14:28:16Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "NL2SQL is an enterprise-grade, multi-agent NL\u2192SQL system that delivers accurate, safe, and deterministic SQL with schema",
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T14:13:39Z",
     "url": "https://github.com/samubp10/tfg-recomendador-uja"
-  },
-  {
-    "description": "High-quality search for AI-native applications.",
-    "id": "topk-io/topk",
-    "language": "Rust",
-    "name": "topk-io/topk",
-    "stars": 95,
-    "updated_at": "2026-09-07T14:15:47Z",
-    "url": "https://github.com/topk-io/topk"
   },
   {
     "description": "Official n8n creator | Production-ready automation workflows: Agentic RAG, multi-KB AI agents, AI governance, and privac",
@@ -194,17 +239,8 @@
     "language": "Python",
     "name": "qdrant/skills",
     "stars": 230,
-    "updated_at": "2026-09-07T13:52:15Z",
+    "updated_at": "2026-09-07T14:50:19Z",
     "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16788,
-    "updated_at": "2026-09-07T14:28:16Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6234,
-    "updated_at": "2026-09-07T14:44:54Z",
+    "updated_at": "2026-09-07T14:59:18Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-07T14:15:45Z",
+    "updated_at": "2026-09-07T14:48:16Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1469,
-    "updated_at": "2026-09-07T13:18:52Z",
+    "updated_at": "2026-09-07T14:46:18Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -396,15 +432,6 @@
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   },
   {
-    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
-    "id": "xbsheng/ai-from-scratch",
-    "language": "Python",
-    "name": "xbsheng/ai-from-scratch",
-    "stars": 1,
-    "updated_at": "2026-09-07T12:49:40Z",
-    "url": "https://github.com/xbsheng/ai-from-scratch"
-  },
-  {
     "description": "Agentic customer support platform \u2014 hand-written agent loop, RAG, human-in-the-loop approvals, multi-agent specialists, ",
     "id": "Akshay-professor/helpdesk-copilot",
     "language": "JavaScript",
@@ -419,34 +446,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1884,
-    "updated_at": "2026-09-07T13:43:10Z",
+    "updated_at": "2026-09-07T14:59:15Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-09-07T13:46:54Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
-  },
-  {
-    "description": "Project OverviewThe Canal Monitoring System is an AI-ready web interface designed for real-time surveillance and monitor",
-    "id": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
-    "language": "Python",
-    "name": "ussamasaeed/AI_Powered_Canals_Monitoring_System",
-    "stars": 0,
-    "updated_at": "2026-09-07T12:32:02Z",
-    "url": "https://github.com/ussamasaeed/AI_Powered_Canals_Monitoring_System"
-  },
-  {
-    "description": "Embedded vector database in Rust with Python bindings \u2014 TurboQuant algorithm (arXiv:2504.19874), zero training, 2\u20134 bit ",
-    "id": "jyunming/TurboQuantDB",
-    "language": "Python",
-    "name": "jyunming/TurboQuantDB",
-    "stars": 2,
-    "updated_at": "2026-09-07T12:30:07Z",
-    "url": "https://github.com/jyunming/TurboQuantDB"
   }
 ]
