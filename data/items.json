@@ -1,11 +1,110 @@
 [
   {
+    "description": "Python package to visualize local chroma db",
+    "id": "surjendu104/chromolite",
+    "language": "TypeScript",
+    "name": "surjendu104/chromolite",
+    "stars": 0,
+    "updated_at": "2026-09-07T13:13:36Z",
+    "url": "https://github.com/surjendu104/chromolite"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-07T13:09:46Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 23,
+    "updated_at": "2026-09-07T13:13:17Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 33,
+    "updated_at": "2026-09-07T13:08:39Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-07T13:06:22Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
+    "id": "TowsifAhamed/GameRagKit",
+    "language": "C#",
+    "name": "TowsifAhamed/GameRagKit",
+    "stars": 2,
+    "updated_at": "2026-09-07T13:05:00Z",
+    "url": "https://github.com/TowsifAhamed/GameRagKit"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3289,
+    "updated_at": "2026-09-07T13:04:16Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59205,
+    "updated_at": "2026-09-07T13:03:35Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "AI knowledge platform for document ingestion, semantic search, RAG, Gemini-powered chat, and LLM tool calling, built wit",
+    "id": "BELBINBENORM/ragforge",
+    "language": "Python",
+    "name": "BELBINBENORM/ragforge",
+    "stars": 1,
+    "updated_at": "2026-09-07T13:03:11Z",
+    "url": "https://github.com/BELBINBENORM/ragforge"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-07T13:14:42Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T13:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-07T13:00:21Z",
+    "updated_at": "2026-09-07T13:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,15 +117,6 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "AI Knowledge Platform | FastAPI, PostgreSQL, pgvector, RAG, LLM Agents & Docker",
-    "id": "BELBINBENORM/ragforge",
-    "language": "Python",
-    "name": "BELBINBENORM/ragforge",
-    "stars": 1,
-    "updated_at": "2026-09-07T12:56:07Z",
-    "url": "https://github.com/BELBINBENORM/ragforge"
-  },
-  {
     "description": "\u9762\u5411\u5546\u54c1\u8bf4\u660e\u4e66 / \u6280\u672f\u6587\u6863\u7684 RAG \u77e5\u8bc6\u5e93\uff1aPDF \u81ea\u52a8\u89e3\u6790\u5165\u5e93\uff0c\u56db\u8def\u6df7\u5408\u68c0\u7d22 + \u77e5\u8bc6\u56fe\u8c31 + Reranker \u7cbe\u6392\uff0cSSE \u6d41\u5f0f\u95ee\u7b54",
     "id": "boobji/Shopkeeper-Knowledge-Base",
     "language": "Python",
@@ -34,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-07T12:55:10Z",
     "url": "https://github.com/boobji/Shopkeeper-Knowledge-Base"
-  },
-  {
-    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
-    "id": "TowsifAhamed/GameRagKit",
-    "language": "C#",
-    "name": "TowsifAhamed/GameRagKit",
-    "stars": 2,
-    "updated_at": "2026-09-07T12:53:21Z",
-    "url": "https://github.com/TowsifAhamed/GameRagKit"
   },
   {
     "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
@@ -77,26 +158,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1884,
-    "updated_at": "2026-09-07T12:56:29Z",
+    "updated_at": "2026-09-07T13:01:26Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T12:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-07T12:44:12Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI-powered code intelligence platform for repository analysis using RAG, semantic search, multi-provider LLMs, and Groun",
@@ -106,33 +169,6 @@
     "stars": 2,
     "updated_at": "2026-09-07T12:40:54Z",
     "url": "https://github.com/pushkarsingh26/DevMind"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-07T12:39:19Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 23,
-    "updated_at": "2026-09-07T12:36:57Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-07T13:00:24Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
@@ -207,15 +243,6 @@
     "url": "https://github.com/willy410-hub/log-vector-pipeline"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59205,
-    "updated_at": "2026-09-07T12:20:51Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "CLI-based AI tool for analyzing and understanding codebases using LLMs",
     "id": "dsk-dev-ai/devos-ai",
     "language": "Python",
@@ -284,7 +311,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9433,
-    "updated_at": "2026-09-07T12:37:22Z",
+    "updated_at": "2026-09-07T13:13:50Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6234,
-    "updated_at": "2026-09-07T12:56:03Z",
+    "updated_at": "2026-09-07T13:11:30Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -338,7 +365,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16788,
-    "updated_at": "2026-09-07T12:56:59Z",
+    "updated_at": "2026-09-07T13:11:41Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 77,
     "updated_at": "2026-09-07T10:36:42Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-07T10:36:32Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
-    "id": "Aashutosh31/arc-ai-project",
-    "language": "JavaScript",
-    "name": "Aashutosh31/arc-ai-project",
-    "stars": 2,
-    "updated_at": "2026-09-07T10:32:56Z",
-    "url": "https://github.com/Aashutosh31/arc-ai-project"
-  },
-  {
-    "description": "Official n8n creator | Production-ready automation workflows: Agentic RAG, multi-KB AI agents, AI governance, and privac",
-    "id": "nenedesign/n8n-workflows",
-    "language": "\u2014",
-    "name": "nenedesign/n8n-workflows",
-    "stars": 0,
-    "updated_at": "2026-09-07T10:30:16Z",
-    "url": "https://github.com/nenedesign/n8n-workflows"
   }
 ]
