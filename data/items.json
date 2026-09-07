@@ -1,11 +1,92 @@
 [
   {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-07T20:14:10Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 3,
+    "updated_at": "2026-09-07T20:14:01Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "A comprehensive, curated directory of 80+ categories of foundational and breakthrough open-source AI repositories, frame",
+    "id": "mohd-faizy/the-ai-stack",
+    "language": "\u2014",
+    "name": "mohd-faizy/the-ai-stack",
+    "stars": 0,
+    "updated_at": "2026-09-07T20:13:45Z",
+    "url": "https://github.com/mohd-faizy/the-ai-stack"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 57,
+    "updated_at": "2026-09-07T20:10:26Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-07T20:08:16Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Local memory + semantic search for AI agents. Indexes code and documents on your machine, queryable via MCP. Private, of",
+    "id": "dangranaz/nxm-memory",
+    "language": "Shell",
+    "name": "dangranaz/nxm-memory",
+    "stars": 0,
+    "updated_at": "2026-09-07T20:07:46Z",
+    "url": "https://github.com/dangranaz/nxm-memory"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 91,
+    "updated_at": "2026-09-07T20:09:55Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-07T20:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-07T20:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
     "id": "SeekStorm/SeekStorm",
     "language": "Rust",
     "name": "SeekStorm/SeekStorm",
     "stars": 1909,
-    "updated_at": "2026-09-07T19:59:27Z",
+    "updated_at": "2026-09-07T20:15:13Z",
     "url": "https://github.com/SeekStorm/SeekStorm"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/ZeR020/opencode-mem0"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-07T19:50:11Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -70,15 +142,6 @@
     "stars": 7077,
     "updated_at": "2026-09-07T19:49:12Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-07T20:00:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Embeddable vector database for edge AI",
@@ -99,15 +162,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 3,
-    "updated_at": "2026-09-07T20:00:04Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
@@ -115,15 +169,6 @@
     "stars": 861,
     "updated_at": "2026-09-07T19:34:01Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-07T19:33:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "MCP server for semantic codebase indexing and intelligent code search, powered by Qdrant.",
@@ -176,7 +221,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1136,
-    "updated_at": "2026-09-07T19:59:03Z",
+    "updated_at": "2026-09-07T20:15:20Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-09-07T19:13:25Z",
     "url": "https://github.com/dem2007/ChromaDB-Manager"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 57,
-    "updated_at": "2026-09-07T19:47:42Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
     "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
@@ -365,7 +401,7 @@
     "language": "Python",
     "name": "bobaba76/Argos",
     "stars": 6,
-    "updated_at": "2026-09-07T19:38:42Z",
+    "updated_at": "2026-09-07T20:10:38Z",
     "url": "https://github.com/bobaba76/Argos"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-07T17:43:31Z",
     "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
-  },
-  {
-    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
-    "id": "rehan243/RAG-Enterprise-Search",
-    "language": "Python",
-    "name": "rehan243/RAG-Enterprise-Search",
-    "stars": 1,
-    "updated_at": "2026-09-07T17:43:15Z",
-    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "Fine-tuning LLaMA-2, Mistral with LoRA, QLoRA, PEFT \u2014 40% cost reduction vs hosted APIs. VLLM serving with CUDA optimiza",
-    "id": "rehan243/LLM-Fine-Tuning-LoRA",
-    "language": "Python",
-    "name": "rehan243/LLM-Fine-Tuning-LoRA",
-    "stars": 1,
-    "updated_at": "2026-09-07T17:42:50Z",
-    "url": "https://github.com/rehan243/LLM-Fine-Tuning-LoRA"
-  },
-  {
-    "description": "Echo \u2014 Private, on-device AI memory assistant. Your photos, videos, notes, voice memos, calendar, location, and health d",
-    "id": "logan-suu/Echo",
-    "language": "Swift",
-    "name": "logan-suu/Echo",
-    "stars": 2,
-    "updated_at": "2026-09-07T17:41:19Z",
-    "url": "https://github.com/logan-suu/Echo"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1884,
-    "updated_at": "2026-09-07T19:49:52Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
