@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-08T02:30:20Z",
+    "updated_at": "2026-09-08T02:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,17 +14,80 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 77,
-    "updated_at": "2026-09-08T02:28:40Z",
+    "updated_at": "2026-09-08T02:43:47Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "A vector-native embedded graph database. One graph. One vector space. One file.",
+    "id": "r-firth/vecgra",
+    "language": "Rust",
+    "name": "r-firth/vecgra",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:43:47Z",
+    "url": "https://github.com/r-firth/vecgra"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-08T02:43:02Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65749,
-    "updated_at": "2026-09-08T02:28:35Z",
+    "stars": 65750,
+    "updated_at": "2026-09-08T02:41:56Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-08T02:41:09Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-08T02:39:48Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9434,
+    "updated_at": "2026-09-08T02:40:11Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 120,
+    "updated_at": "2026-09-08T02:32:37Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T02:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1469,
-    "updated_at": "2026-09-08T02:26:17Z",
+    "updated_at": "2026-09-08T02:45:01Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -81,15 +144,6 @@
     "url": "https://github.com/djleamen/doc-reader"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T02:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
     "id": "tamnd/yo",
     "language": "Rust",
@@ -97,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T02:23:36Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-08T02:12:20Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Agent-native memory infrastructure for AI coding assistants. Governed session capture, LLM compression, hybrid retrieval",
@@ -122,7 +167,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-08T02:19:53Z",
+    "updated_at": "2026-09-08T02:34:15Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9243,
-    "updated_at": "2026-09-08T01:59:39Z",
+    "updated_at": "2026-09-08T02:36:20Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -185,7 +230,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34429,
-    "updated_at": "2026-09-08T01:40:09Z",
+    "updated_at": "2026-09-08T02:45:06Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -234,21 +279,12 @@
     "url": "https://github.com/nenedesign/nenedesign"
   },
   {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 120,
-    "updated_at": "2026-09-08T02:28:40Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8188,
-    "updated_at": "2026-09-08T02:18:14Z",
+    "updated_at": "2026-09-08T02:33:42Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:45:43Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
     "description": "A self-hosted YouTube transcript library that runs as a single Docker container. ",
     "id": "radicaldo/yt-dock",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 11,
     "updated_at": "2026-09-07T23:33:10Z",
     "url": "https://github.com/angrysky56/emotion_ai"
-  },
-  {
-    "description": "Echo \u2014 Private, on-device AI memory assistant. Your photos, videos, notes, voice memos, calendar, location, and health d",
-    "id": "logan-suu/Echo",
-    "language": "Swift",
-    "name": "logan-suu/Echo",
-    "stars": 2,
-    "updated_at": "2026-09-07T23:29:54Z",
-    "url": "https://github.com/logan-suu/Echo"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:27:40Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:23:46Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
   }
 ]
