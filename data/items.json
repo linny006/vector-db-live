@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-08T17:15:23Z",
+    "updated_at": "2026-09-08T17:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
+    "id": "bobaba76/Argos",
+    "language": "Python",
+    "name": "bobaba76/Argos",
+    "stars": 8,
+    "updated_at": "2026-09-08T17:27:46Z",
+    "url": "https://github.com/bobaba76/Argos"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1136,
+    "updated_at": "2026-09-08T17:27:38Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30592,
+    "updated_at": "2026-09-08T17:27:04Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1884,
+    "updated_at": "2026-09-08T17:27:03Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Software engineering portfolio with an integrated RAG-powered TalentBot assistant for recruiter-facing Q&A about my expe",
+    "id": "nishanthrjn/nishanthrjn.github.io",
+    "language": "JavaScript",
+    "name": "nishanthrjn/nishanthrjn.github.io",
+    "stars": 0,
+    "updated_at": "2026-09-08T17:24:42Z",
+    "url": "https://github.com/nishanthrjn/nishanthrjn.github.io"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 14,
+    "updated_at": "2026-09-08T17:29:47Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-08T17:20:00Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T17:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
@@ -14,7 +86,7 @@
     "language": "Swift",
     "name": "christopherkarani/Wax",
     "stars": 788,
-    "updated_at": "2026-09-08T17:14:23Z",
+    "updated_at": "2026-09-08T17:29:14Z",
     "url": "https://github.com/christopherkarani/Wax"
   },
   {
@@ -72,15 +144,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T17:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Versioned vector index with MVCC, snapshot isolation, and branchable agent memory",
     "id": "mchl-labs/chronovec",
     "language": "Python",
@@ -97,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T16:54:38Z",
     "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "ZeR020/opencode-mem0",
-    "language": "TypeScript",
-    "name": "ZeR020/opencode-mem0",
-    "stars": 14,
-    "updated_at": "2026-09-08T16:53:17Z",
-    "url": "https://github.com/ZeR020/opencode-mem0"
   },
   {
     "description": "The AI search platform",
@@ -135,15 +189,6 @@
     "url": "https://github.com/Sandeep-singh-99/langchain-and-langgraph"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30591,
-    "updated_at": "2026-09-08T16:42:26Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
@@ -169,15 +214,6 @@
     "stars": 34447,
     "updated_at": "2026-09-08T16:55:50Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-08T17:08:49Z",
-    "url": "https://github.com/vanedb/vanedb"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -225,15 +261,6 @@
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1884,
-    "updated_at": "2026-09-08T17:15:11Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
     "id": "litegraphdb/litegraph",
     "language": "C#",
@@ -279,15 +306,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1136,
-    "updated_at": "2026-09-08T17:08:56Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Diff two embedding-index snapshots: graded neighbor/population/duplicate/rot findings for vector-DB migrations and index",
     "id": "ictechgy/vecdiff",
     "language": "Python",
@@ -319,7 +337,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65789,
+    "stars": 65790,
     "updated_at": "2026-09-08T15:42:21Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -328,7 +346,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15854,
+    "stars": 15853,
     "updated_at": "2026-09-08T15:41:00Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -419,7 +437,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6234,
-    "updated_at": "2026-09-08T17:10:57Z",
+    "updated_at": "2026-09-08T17:29:58Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T14:53:10Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 34,
-    "updated_at": "2026-09-08T14:47:54Z",
-    "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-js",
-    "language": "TypeScript",
-    "name": "cyborginc/cyborgdb-js",
-    "stars": 7,
-    "updated_at": "2026-09-08T14:47:00Z",
-    "url": "https://github.com/cyborginc/cyborgdb-js"
   }
 ]
