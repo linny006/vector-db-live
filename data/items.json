@@ -1,5 +1,50 @@
 [
   {
+    "description": "HNSW (Hierarchical Navigable Small World) vector index built from scratch in Python/NumPy: no FAISS, no hnswlib. recall@",
+    "id": "abho7/vectordb-hnsw",
+    "language": "Python",
+    "name": "abho7/vectordb-hnsw",
+    "stars": 1,
+    "updated_at": "2026-09-08T18:10:33Z",
+    "url": "https://github.com/abho7/vectordb-hnsw"
+  },
+  {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 788,
+    "updated_at": "2026-09-08T18:10:32Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "Versioned vector index with MVCC, snapshot isolation, and branchable agent memory",
+    "id": "mchl-labs/chronovec",
+    "language": "Python",
+    "name": "mchl-labs/chronovec",
+    "stars": 1,
+    "updated_at": "2026-09-08T18:07:36Z",
+    "url": "https://github.com/mchl-labs/chronovec"
+  },
+  {
+    "description": "The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne",
+    "id": "angrysky56/emotion_ai",
+    "language": "Python",
+    "name": "angrysky56/emotion_ai",
+    "stars": 11,
+    "updated_at": "2026-09-08T18:05:20Z",
+    "url": "https://github.com/angrysky56/emotion_ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T18:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,15 +52,6 @@
     "stars": 3,
     "updated_at": "2026-09-08T18:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-08T17:59:33Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "A is a high-performance, cloud-native multimodal AI tutor grounding Llama-3.3 in textbook facts via Zilliz Cloud. It del",
@@ -27,13 +63,22 @@
     "url": "https://github.com/Omen-bit/WCEHackathon2026_NeuroNauts"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T17:56:44Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-08T17:59:33Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-09-08T18:01:24Z",
+    "url": "https://github.com/23skdu/longbow"
   },
   {
     "description": "Embeddable vector database for edge AI",
@@ -54,6 +99,15 @@
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30595,
+    "updated_at": "2026-09-08T17:52:04Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
     "id": "neuron-core/neuron-ai",
     "language": "PHP",
@@ -61,15 +115,6 @@
     "stars": 2091,
     "updated_at": "2026-09-08T17:59:09Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30594,
-    "updated_at": "2026-09-08T17:52:04Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -95,7 +140,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 3,
-    "updated_at": "2026-09-08T17:33:44Z",
+    "updated_at": "2026-09-08T18:11:07Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -117,21 +162,12 @@
     "url": "https://github.com/ZeR020/opencode-mem0"
   },
   {
-    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 788,
-    "updated_at": "2026-09-08T17:29:14Z",
-    "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
     "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
     "id": "bobaba76/Argos",
     "language": "Python",
     "name": "bobaba76/Argos",
     "stars": 8,
-    "updated_at": "2026-09-08T17:58:23Z",
+    "updated_at": "2026-09-08T18:02:11Z",
     "url": "https://github.com/bobaba76/Argos"
   },
   {
@@ -187,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T17:00:56Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Versioned vector index with MVCC, snapshot isolation, and branchable agent memory",
-    "id": "mchl-labs/chronovec",
-    "language": "Python",
-    "name": "mchl-labs/chronovec",
-    "stars": 4,
-    "updated_at": "2026-09-08T17:02:43Z",
-    "url": "https://github.com/mchl-labs/chronovec"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -419,34 +446,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-08T17:55:33Z",
+    "updated_at": "2026-09-08T18:07:12Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-09-08T16:40:46Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "sqlite in-memory vectordb \"HotPocket\"",
-    "id": "23skdu/gosqueal",
-    "language": "Go",
-    "name": "23skdu/gosqueal",
-    "stars": 2,
-    "updated_at": "2026-09-08T15:11:27Z",
-    "url": "https://github.com/23skdu/gosqueal"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 4,
-    "updated_at": "2026-09-08T15:10:52Z",
-    "url": "https://github.com/imagodata/filter_mate"
   }
 ]
