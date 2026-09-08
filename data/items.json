@@ -1,5 +1,86 @@
 [
   {
+    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
+    "id": "oracle/ai-optimizer",
+    "language": "Python",
+    "name": "oracle/ai-optimizer",
+    "stars": 101,
+    "updated_at": "2026-09-08T15:56:19Z",
+    "url": "https://github.com/oracle/ai-optimizer"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 14,
+    "updated_at": "2026-09-08T15:54:07Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "A comprehensive exploration and implementation guide for LangChain and LangGraph frameworks, covering fundamental concep",
+    "id": "Sandeep-singh-99/langchain-and-langgraph",
+    "language": "Jupyter Notebook",
+    "name": "Sandeep-singh-99/langchain-and-langgraph",
+    "stars": 2,
+    "updated_at": "2026-09-08T15:53:51Z",
+    "url": "https://github.com/Sandeep-singh-99/langchain-and-langgraph"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:49:23Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Versioned vector index with MVCC, snapshot isolation, and branchable agent memory",
+    "id": "mchl-labs/chronovec",
+    "language": "Python",
+    "name": "mchl-labs/chronovec",
+    "stars": 4,
+    "updated_at": "2026-09-08T15:57:29Z",
+    "url": "https://github.com/mchl-labs/chronovec"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13049,
+    "updated_at": "2026-09-08T15:46:45Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:46:39Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T15:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T16:00:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
@@ -7,6 +88,42 @@
     "stars": 65785,
     "updated_at": "2026-09-08T15:42:21Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:42:07Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15853,
+    "updated_at": "2026-09-08T15:41:00Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30588,
+    "updated_at": "2026-09-08T15:39:27Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "RAG context engine for retrieval-augmented workflows \u2014 ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe",
+    "id": "RehanIlyas-dev/Omni-Context",
+    "language": "Python",
+    "name": "RehanIlyas-dev/Omni-Context",
+    "stars": 1,
+    "updated_at": "2026-09-08T15:38:02Z",
+    "url": "https://github.com/RehanIlyas-dev/Omni-Context"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -36,15 +153,6 @@
     "url": "https://github.com/BELBINBENORM/ragforge"
   },
   {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-08T15:31:54Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -54,40 +162,13 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T15:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T15:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-08T15:24:01Z",
+    "updated_at": "2026-09-08T15:48:08Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Versioned vector index with MVCC, snapshot isolation, and branchable agent memory",
-    "id": "mchl-labs/chronovec",
-    "language": "Python",
-    "name": "mchl-labs/chronovec",
-    "stars": 4,
-    "updated_at": "2026-09-08T15:41:24Z",
-    "url": "https://github.com/mchl-labs/chronovec"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -113,7 +194,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34446,
-    "updated_at": "2026-09-08T15:19:20Z",
+    "updated_at": "2026-09-08T15:54:22Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -153,15 +234,6 @@
     "url": "https://github.com/23skdu/gosqueal"
   },
   {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "ZeR020/opencode-mem0",
-    "language": "TypeScript",
-    "name": "ZeR020/opencode-mem0",
-    "stars": 14,
-    "updated_at": "2026-09-08T15:11:22Z",
-    "url": "https://github.com/ZeR020/opencode-mem0"
-  },
-  {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
     "id": "imagodata/filter_mate",
     "language": "Python",
@@ -180,24 +252,6 @@
     "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13049,
-    "updated_at": "2026-09-08T15:43:23Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
-    "id": "alxxtexxr/arxiv_agent",
-    "language": "Python",
-    "name": "alxxtexxr/arxiv_agent",
-    "stars": 0,
-    "updated_at": "2026-09-08T14:57:31Z",
-    "url": "https://github.com/alxxtexxr/arxiv_agent"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -207,21 +261,12 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30586,
-    "updated_at": "2026-09-08T15:39:27Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6234,
-    "updated_at": "2026-09-08T15:18:28Z",
+    "updated_at": "2026-09-08T15:55:49Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -238,7 +283,7 @@
     "id": "rostamlabs/rostam",
     "language": "Go",
     "name": "rostamlabs/rostam",
-    "stars": 33,
+    "stars": 34,
     "updated_at": "2026-09-08T14:47:54Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
@@ -374,7 +419,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16793,
-    "updated_at": "2026-09-08T15:34:38Z",
+    "updated_at": "2026-09-08T15:58:10Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T14:13:25Z",
     "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-09-08T14:13:23Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-09-08T14:12:58Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 1,
-    "updated_at": "2026-09-08T14:12:05Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 4,
-    "updated_at": "2026-09-08T14:11:57Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Object storage for the AI age",
-    "id": "keldra-store/keldra",
-    "language": "Rust",
-    "name": "keldra-store/keldra",
-    "stars": 78,
-    "updated_at": "2026-09-08T14:11:10Z",
-    "url": "https://github.com/keldra-store/keldra"
   }
 ]
