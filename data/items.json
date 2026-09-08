@@ -1,5 +1,77 @@
 [
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65785,
+    "updated_at": "2026-09-08T15:42:21Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-08T15:36:52Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Full-stack RAG platform for document Q&A \u2014 Spring Boot 4, Spring AI, Google Gemini and PostgreSQL pgvector, with a React",
+    "id": "Vickycoder123/BrainDocAI",
+    "language": "TypeScript",
+    "name": "Vickycoder123/BrainDocAI",
+    "stars": 1,
+    "updated_at": "2026-09-08T15:36:10Z",
+    "url": "https://github.com/Vickycoder123/BrainDocAI"
+  },
+  {
+    "description": "Live RAG & Agent Pipeline with MCP  A production-style AI knowledge platform demonstrating how RAG, vector databases, co",
+    "id": "BELBINBENORM/ragforge",
+    "language": "Python",
+    "name": "BELBINBENORM/ragforge",
+    "stars": 1,
+    "updated_at": "2026-09-08T15:34:47Z",
+    "url": "https://github.com/BELBINBENORM/ragforge"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-08T15:31:54Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-08T15:31:50Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T15:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T15:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -13,8 +85,8 @@
     "id": "mchl-labs/chronovec",
     "language": "Python",
     "name": "mchl-labs/chronovec",
-    "stars": 3,
-    "updated_at": "2026-09-08T15:22:59Z",
+    "stars": 4,
+    "updated_at": "2026-09-08T15:41:24Z",
     "url": "https://github.com/mchl-labs/chronovec"
   },
   {
@@ -54,15 +126,6 @@
     "url": "https://github.com/litegraphdb/litegraph"
   },
   {
-    "description": "AI knowledge platform for document ingestion, semantic search, RAG, Gemini-powered chat, and LLM tool calling, built wit",
-    "id": "BELBINBENORM/ragforge",
-    "language": "Python",
-    "name": "BELBINBENORM/ragforge",
-    "stars": 1,
-    "updated_at": "2026-09-08T15:18:08Z",
-    "url": "https://github.com/BELBINBENORM/ragforge"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -70,24 +133,6 @@
     "stars": 1884,
     "updated_at": "2026-09-08T15:17:00Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T15:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T15:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -135,21 +180,12 @@
     "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-08T15:09:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 13048,
-    "updated_at": "2026-09-08T15:07:51Z",
+    "stars": 13049,
+    "updated_at": "2026-09-08T15:43:23Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -176,7 +212,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30586,
-    "updated_at": "2026-09-08T15:29:18Z",
+    "updated_at": "2026-09-08T15:39:27Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -243,15 +279,6 @@
     "url": "https://github.com/cyborginc/cyborgdb-go"
   },
   {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-08T15:23:27Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
     "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
     "id": "TowsifAhamed/GameRagKit",
     "language": "C#",
@@ -259,15 +286,6 @@
     "stars": 2,
     "updated_at": "2026-09-08T14:37:19Z",
     "url": "https://github.com/TowsifAhamed/GameRagKit"
-  },
-  {
-    "description": "Full-stack RAG platform for document Q&A \u2014 Spring Boot 4, Spring AI, Google Gemini and PostgreSQL pgvector, with a React",
-    "id": "Vickycoder123/BrainDocAI",
-    "language": "TypeScript",
-    "name": "Vickycoder123/BrainDocAI",
-    "stars": 1,
-    "updated_at": "2026-09-08T14:33:12Z",
-    "url": "https://github.com/Vickycoder123/BrainDocAI"
   },
   {
     "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
@@ -356,7 +374,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16793,
-    "updated_at": "2026-09-08T15:14:14Z",
+    "updated_at": "2026-09-08T15:34:38Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 78,
     "updated_at": "2026-09-08T14:11:10Z",
     "url": "https://github.com/keldra-store/keldra"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-09-08T14:10:58Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-09-08T14:09:57Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   }
 ]
