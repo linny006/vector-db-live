@@ -1,12 +1,102 @@
 [
   {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-09-08T09:27:44Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7078,
-    "updated_at": "2026-09-08T09:14:27Z",
+    "updated_at": "2026-09-08T09:25:52Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
+    "id": "SeekStorm/SeekStorm",
+    "language": "Rust",
+    "name": "SeekStorm/SeekStorm",
+    "stars": 1909,
+    "updated_at": "2026-09-08T09:25:41Z",
+    "url": "https://github.com/SeekStorm/SeekStorm"
+  },
+  {
+    "description": "A comprehensive, curated directory of 80+ categories of foundational and breakthrough open-source AI repositories, frame",
+    "id": "mohd-faizy/the-ai-stack",
+    "language": "\u2014",
+    "name": "mohd-faizy/the-ai-stack",
+    "stars": 0,
+    "updated_at": "2026-09-08T09:24:49Z",
+    "url": "https://github.com/mohd-faizy/the-ai-stack"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-08T09:24:10Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1136,
+    "updated_at": "2026-09-08T09:21:17Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
+    "id": "oguzhankir/omnichunk",
+    "language": "Python",
+    "name": "oguzhankir/omnichunk",
+    "stars": 8,
+    "updated_at": "2026-09-08T09:24:34Z",
+    "url": "https://github.com/oguzhankir/omnichunk"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1884,
+    "updated_at": "2026-09-08T09:20:38Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "My learning journey into RAG, covering chunking, embeddings, vector stores, dot products, L2 normalization, cosine simil",
+    "id": "Tanvik-hub/rag-retrieval-learning-journey",
+    "language": "\u2014",
+    "name": "Tanvik-hub/rag-retrieval-learning-journey",
+    "stars": 0,
+    "updated_at": "2026-09-08T09:16:18Z",
+    "url": "https://github.com/Tanvik-hub/rag-retrieval-learning-journey"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T09:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T09:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, questi",
@@ -18,21 +108,12 @@
     "url": "https://github.com/milvus-io/bootcamp"
   },
   {
-    "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
-    "id": "oguzhankir/omnichunk",
-    "language": "Python",
-    "name": "oguzhankir/omnichunk",
-    "stars": 8,
-    "updated_at": "2026-09-08T09:13:11Z",
-    "url": "https://github.com/oguzhankir/omnichunk"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4433,
-    "updated_at": "2026-09-08T09:14:38Z",
+    "updated_at": "2026-09-08T09:28:43Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -50,7 +131,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16792,
-    "updated_at": "2026-09-08T09:14:37Z",
+    "updated_at": "2026-09-08T09:29:19Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -72,21 +153,12 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1136,
-    "updated_at": "2026-09-08T09:04:22Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
     "id": "Yigtwxx/OracleX",
     "language": "Python",
     "name": "Yigtwxx/OracleX",
     "stars": 1,
-    "updated_at": "2026-09-08T09:03:31Z",
+    "updated_at": "2026-09-08T09:19:49Z",
     "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
@@ -99,24 +171,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T09:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T09:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "High-performance long-term cognitive memory layer for AI agents. Written in Rust for ultra-low latency fact extraction, ",
     "id": "nobijoy/memcore-rs",
     "language": "Rust",
@@ -124,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-09-08T08:56:45Z",
     "url": "https://github.com/nobijoy/memcore-rs"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59219,
+    "updated_at": "2026-09-08T08:56:22Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "NextSQL is a new database engine, written primarily in Go. It is not a compatibility layer for PostgreSQL, MySQL, MariaD",
@@ -265,7 +328,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15847,
+    "stars": 15848,
     "updated_at": "2026-09-08T07:58:32Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -275,7 +338,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34441,
-    "updated_at": "2026-09-08T08:55:25Z",
+    "updated_at": "2026-09-08T09:29:38Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -297,15 +360,6 @@
     "url": "https://github.com/bobaba76/Argos"
   },
   {
-    "description": "SeekStorm: vector & lexical search - in-process library & multi-tenancy server, in Rust.",
-    "id": "SeekStorm/SeekStorm",
-    "language": "Rust",
-    "name": "SeekStorm/SeekStorm",
-    "stars": 1909,
-    "updated_at": "2026-09-08T07:46:19Z",
-    "url": "https://github.com/SeekStorm/SeekStorm"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -322,15 +376,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T07:43:54Z",
     "url": "https://github.com/DopamineDriven/slipstream"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1884,
-    "updated_at": "2026-09-08T09:15:11Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T07:10:58Z",
     "url": "https://github.com/SadiqCodex/Website-Grounded-RAG-Agent"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9434,
-    "updated_at": "2026-09-08T09:10:02Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
-    "id": "TowsifAhamed/GameRagKit",
-    "language": "C#",
-    "name": "TowsifAhamed/GameRagKit",
-    "stars": 2,
-    "updated_at": "2026-09-08T07:06:16Z",
-    "url": "https://github.com/TowsifAhamed/GameRagKit"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46027,
-    "updated_at": "2026-09-08T07:05:28Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 101,
-    "updated_at": "2026-09-08T07:46:06Z",
-    "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 79,
-    "updated_at": "2026-09-08T06:58:06Z",
-    "url": "https://github.com/hanyeol/model-compose"
   }
 ]
