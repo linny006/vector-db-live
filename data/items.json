@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T18:45:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-09-08T18:40:28Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-08T18:38:47Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34449,
+    "updated_at": "2026-09-08T18:40:46Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "AI-powered Student Manager using FastAPI, LangChain, ChromaDB, Ollama, and Retrieval-Augmented Generation (RAG).",
+    "id": "AnkitGang/RAG_based_Student_Manager",
+    "language": "Python",
+    "name": "AnkitGang/RAG_based_Student_Manager",
+    "stars": 0,
+    "updated_at": "2026-09-08T18:35:45Z",
+    "url": "https://github.com/AnkitGang/RAG_based_Student_Manager"
+  },
+  {
+    "description": "Production-ready self-hosted AI infrastructure stack with Ollama, Qdrant, Langfuse, Nginx, and automated ops",
+    "id": "Viiotti/local-ai-stack",
+    "language": "Shell",
+    "name": "Viiotti/local-ai-stack",
+    "stars": 0,
+    "updated_at": "2026-09-08T18:31:57Z",
+    "url": "https://github.com/Viiotti/local-ai-stack"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T18:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65795,
+    "updated_at": "2026-09-08T18:29:58Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1885,
+    "updated_at": "2026-09-08T18:27:07Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
     "id": "Artemon-line/ai-memory-hub",
     "language": "Python",
@@ -18,24 +99,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65793,
-    "updated_at": "2026-09-08T18:29:58Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1884,
-    "updated_at": "2026-09-08T18:27:07Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
     "id": "christopherkarani/Wax",
     "language": "Swift",
@@ -52,33 +115,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T18:19:07Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T18:15:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T18:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-08T18:11:07Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "HNSW (Hierarchical Navigable Small World) vector index built from scratch in Python/NumPy: no FAISS, no hnswlib. recall@",
@@ -144,21 +180,12 @@
     "url": "https://github.com/vanedb/vanedb"
   },
   {
-    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-09-08T17:54:13Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30595,
-    "updated_at": "2026-09-08T18:27:58Z",
+    "updated_at": "2026-09-08T18:40:03Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6234,
-    "updated_at": "2026-09-08T18:26:35Z",
+    "updated_at": "2026-09-08T18:44:39Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -261,15 +288,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34448,
-    "updated_at": "2026-09-08T18:21:21Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
     "id": "tamnd/yo",
     "language": "Rust",
@@ -279,6 +297,15 @@
     "url": "https://github.com/tamnd/yo"
   },
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13050,
+    "updated_at": "2026-09-08T16:51:14Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -286,15 +313,6 @@
     "stars": 7078,
     "updated_at": "2026-09-08T18:29:51Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13049,
-    "updated_at": "2026-09-08T16:51:14Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "A comprehensive exploration and implementation guide for LangChain and LangGraph frameworks, covering fundamental concep",
@@ -329,7 +347,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4434,
-    "updated_at": "2026-09-08T16:27:10Z",
+    "updated_at": "2026-09-08T18:44:21Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -355,7 +373,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59223,
+    "stars": 59224,
     "updated_at": "2026-09-08T16:19:52Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T15:46:39Z",
     "url": "https://github.com/alxxtexxr/arxiv_agent"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15855,
-    "updated_at": "2026-09-08T15:41:00Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Full-stack RAG platform for document Q&A \u2014 Spring Boot 4, Spring AI, Google Gemini and PostgreSQL pgvector, with a React",
-    "id": "Vickycoder123/BrainDocAI",
-    "language": "TypeScript",
-    "name": "Vickycoder123/BrainDocAI",
-    "stars": 1,
-    "updated_at": "2026-09-08T15:36:10Z",
-    "url": "https://github.com/Vickycoder123/BrainDocAI"
   }
 ]
