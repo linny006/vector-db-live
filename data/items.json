@@ -1,5 +1,41 @@
 [
   {
+    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
+    "id": "caoergou/dify-installer",
+    "language": "Shell",
+    "name": "caoergou/dify-installer",
+    "stars": 2,
+    "updated_at": "2026-09-08T04:18:51Z",
+    "url": "https://github.com/caoergou/dify-installer"
+  },
+  {
+    "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
+    "id": "tryAGI/Milvus",
+    "language": "C#",
+    "name": "tryAGI/Milvus",
+    "stars": 0,
+    "updated_at": "2026-09-08T04:17:38Z",
+    "url": "https://github.com/tryAGI/Milvus"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 77,
+    "updated_at": "2026-09-08T04:16:16Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T04:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +50,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 7,
-    "updated_at": "2026-09-08T04:10:58Z",
+    "updated_at": "2026-09-08T04:28:33Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -41,7 +77,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-08T04:08:40Z",
+    "updated_at": "2026-09-08T04:22:49Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -54,15 +90,6 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 77,
-    "updated_at": "2026-09-08T04:04:05Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
     "id": "VectorDB-NTU/RaBitQ-Library",
     "language": "C++",
@@ -70,15 +97,6 @@
     "stars": 275,
     "updated_at": "2026-09-08T04:01:39Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T04:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A RAG pipeline for question answering about PES University",
@@ -140,7 +158,7 @@
     "language": "Clojure",
     "name": "datalevin/datalevin",
     "stars": 1475,
-    "updated_at": "2026-09-08T03:04:58Z",
+    "updated_at": "2026-09-08T04:21:25Z",
     "url": "https://github.com/datalevin/datalevin"
   },
   {
@@ -184,7 +202,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65756,
+    "stars": 65757,
     "updated_at": "2026-09-08T02:56:50Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -194,7 +212,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46019,
-    "updated_at": "2026-09-08T04:02:04Z",
+    "updated_at": "2026-09-08T04:25:30Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -202,7 +220,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34431,
+    "stars": 34432,
     "updated_at": "2026-09-08T02:45:06Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -310,7 +328,7 @@
     "id": "zilliztech/attu",
     "language": "Shell",
     "name": "zilliztech/attu",
-    "stars": 3153,
+    "stars": 3154,
     "updated_at": "2026-09-08T01:57:55Z",
     "url": "https://github.com/zilliztech/attu"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T00:57:37Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-08T00:42:11Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
-    "id": "ldclabs/anda-db",
-    "language": "Rust",
-    "name": "ldclabs/anda-db",
-    "stars": 30,
-    "updated_at": "2026-09-08T00:31:36Z",
-    "url": "https://github.com/ldclabs/anda-db"
   }
 ]
