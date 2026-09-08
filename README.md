@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-08 03:30 UTC
+> ⏰ Last updated: 2026-09-08 03:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,22 +42,22 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) | 2973 | Python | 2026-09-08 | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. |
-| 3 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1884 | Go | 2026-09-08 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 5 | [inlaySQL/inlaysql](https://github.com/inlaySQL/inlaysql) | 2 | Rust | 2026-09-08 | An embedded, serverless SQL database in Rust — one file, no server, MVCC concurrent writers, native vector + BM25 hybrid |
-| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 7 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1475 | Clojure | 2026-09-08 | A simple, fast and versatile Datalog database |
-| 8 | [Tibab222/cvMaker](https://github.com/Tibab222/cvMaker) | 4 | TypeScript | 2026-09-08 | An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match |
-| 9 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-09-08 | Identity and Authorization Service with Vector and AI Integration |
-| 10 | [ictechgy/vecdiff](https://github.com/ictechgy/vecdiff) | 0 | Python | 2026-09-08 | Diff two embedding-index snapshots: graded neighbor/population/duplicate/rot findings for vector-DB migrations and index |
-| 11 | [dangranaz/nxm-memory](https://github.com/dangranaz/nxm-memory) | 0 | Shell | 2026-09-08 | Local memory + semantic search for AI agents. Indexes code and documents on your machine, queryable via MCP. Private, of |
-| 12 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 77 | Python | 2026-09-08 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 13 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 65754 | JavaScript | 2026-09-08 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
-| 14 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 26 | Python | 2026-09-08 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
-| 15 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46018 | Go | 2026-09-08 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 16 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34430 | Rust | 2026-09-08 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 1 | [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) | 2974 | Python | 2026-09-08 | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. |
+| 2 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 77 | Python | 2026-09-08 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
+| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 4 | [EVEDensity/AgentHub](https://github.com/EVEDensity/AgentHub) | 26 | Python | 2026-09-08 | Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt |
+| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 7 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1884 | Go | 2026-09-08 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 8 | [inlaySQL/inlaysql](https://github.com/inlaySQL/inlaysql) | 2 | Rust | 2026-09-08 | An embedded, serverless SQL database in Rust — one file, no server, MVCC concurrent writers, native vector + BM25 hybrid |
+| 9 | [datalevin/datalevin](https://github.com/datalevin/datalevin) | 1475 | Clojure | 2026-09-08 | A simple, fast and versatile Datalog database |
+| 10 | [Tibab222/cvMaker](https://github.com/Tibab222/cvMaker) | 4 | TypeScript | 2026-09-08 | An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match |
+| 11 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-09-08 | Identity and Authorization Service with Vector and AI Integration |
+| 12 | [ictechgy/vecdiff](https://github.com/ictechgy/vecdiff) | 0 | Python | 2026-09-08 | Diff two embedding-index snapshots: graded neighbor/population/duplicate/rot findings for vector-DB migrations and index |
+| 13 | [dangranaz/nxm-memory](https://github.com/dangranaz/nxm-memory) | 0 | Shell | 2026-09-08 | Local memory + semantic search for AI agents. Indexes code and documents on your machine, queryable via MCP. Private, of |
+| 14 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 65754 | JavaScript | 2026-09-08 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 15 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46019 | Go | 2026-09-08 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 16 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34431 | Rust | 2026-09-08 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
 | 17 | [r-firth/vecgra](https://github.com/r-firth/vecgra) | 0 | Rust | 2026-09-08 | A vector-native embedded graph database. One graph. One vector space. One file. |
 | 18 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-08 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
 | 19 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9434 | Rust | 2026-09-08 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
@@ -73,7 +73,7 @@ expired items removed — so you can rely on what you see being current.
 | 29 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9243 | Rust | 2026-09-08 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
 | 30 | [zilliztech/attu](https://github.com/zilliztech/attu) | 3153 | Shell | 2026-09-08 | The Best GUI for Milvus |
 | 31 | [aadityansha06/vecdb](https://github.com/aadityansha06/vecdb) | 8 | C | 2026-09-08 | A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i |
-| 32 | [alibaba/zvec](https://github.com/alibaba/zvec) | 15843 | C++ | 2026-09-08 | A lightweight, lightning-fast, in-process vector database |
+| 32 | [alibaba/zvec](https://github.com/alibaba/zvec) | 15844 | C++ | 2026-09-08 | A lightweight, lightning-fast, in-process vector database |
 | 33 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-08 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 34 | [arnsri33/embedflow](https://github.com/arnsri33/embedflow) | 5 | Python | 2026-09-08 | Zero downtime embedding upgrades |
 | 35 | [rustic-ai/uni-db](https://github.com/rustic-ai/uni-db) | 53 | Rust | 2026-09-08 | Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance |
