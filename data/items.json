@@ -1,5 +1,68 @@
 [
   {
+    "description": "A comprehensive exploration and implementation guide for LangChain and LangGraph frameworks, covering fundamental concep",
+    "id": "Sandeep-singh-99/langchain-and-langgraph",
+    "language": "Jupyter Notebook",
+    "name": "Sandeep-singh-99/langchain-and-langgraph",
+    "stars": 2,
+    "updated_at": "2026-09-08T16:44:03Z",
+    "url": "https://github.com/Sandeep-singh-99/langchain-and-langgraph"
+  },
+  {
+    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-09-08T16:38:52Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "Versioned vector index with MVCC, snapshot isolation, and branchable agent memory",
+    "id": "mchl-labs/chronovec",
+    "language": "Python",
+    "name": "mchl-labs/chronovec",
+    "stars": 4,
+    "updated_at": "2026-09-08T16:38:37Z",
+    "url": "https://github.com/mchl-labs/chronovec"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-08T16:37:03Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 865,
+    "updated_at": "2026-09-08T16:36:01Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
+    "id": "ZeR020/opencode-mem0",
+    "language": "TypeScript",
+    "name": "ZeR020/opencode-mem0",
+    "stars": 14,
+    "updated_at": "2026-09-08T16:35:04Z",
+    "url": "https://github.com/ZeR020/opencode-mem0"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T16:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +70,15 @@
     "stars": 3,
     "updated_at": "2026-09-08T16:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-08T16:29:56Z",
+    "url": "https://github.com/vanedb/vanedb"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -25,15 +97,6 @@
     "stars": 4434,
     "updated_at": "2026-09-08T16:27:10Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "ZeR020/opencode-mem0",
-    "language": "TypeScript",
-    "name": "ZeR020/opencode-mem0",
-    "stars": 14,
-    "updated_at": "2026-09-08T16:26:37Z",
-    "url": "https://github.com/ZeR020/opencode-mem0"
   },
   {
     "description": " Vector Index Benchmark for Embeddings (VIBE) is an extensible benchmark for approximate nearest neighbor search methods",
@@ -63,24 +126,6 @@
     "url": "https://github.com/Bharanipbk/gideondb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T16:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-09-08T16:15:16Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -88,6 +133,15 @@
     "stars": 1884,
     "updated_at": "2026-09-08T16:14:42Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1899,
+    "updated_at": "2026-09-08T16:13:14Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Lightweight graph database with relational, vector, and MCP support, designed to power knowledge and artificial intellig",
@@ -99,6 +153,15 @@
     "url": "https://github.com/litegraphdb/litegraph"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30589,
+    "updated_at": "2026-09-08T16:42:26Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "RAG context engine for retrieval-augmented workflows \u2014 ingest and chunk documents (PDF, PPTX, DOCX, Markdown, TXT), embe",
     "id": "RehanIlyas-dev/Omni-Context",
     "language": "Python",
@@ -106,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T16:10:36Z",
     "url": "https://github.com/RehanIlyas-dev/Omni-Context"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-08T16:10:05Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -149,7 +203,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1136,
-    "updated_at": "2026-09-08T16:28:59Z",
+    "updated_at": "2026-09-08T16:39:57Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -160,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T16:04:15Z",
     "url": "https://github.com/ictechgy/vecdiff"
-  },
-  {
-    "description": "Versioned vector index with MVCC, snapshot isolation, and branchable agent memory",
-    "id": "mchl-labs/chronovec",
-    "language": "Python",
-    "name": "mchl-labs/chronovec",
-    "stars": 4,
-    "updated_at": "2026-09-08T16:03:44Z",
-    "url": "https://github.com/mchl-labs/chronovec"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -187,24 +232,6 @@
     "stars": 101,
     "updated_at": "2026-09-08T15:56:19Z",
     "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": "A comprehensive exploration and implementation guide for LangChain and LangGraph frameworks, covering fundamental concep",
-    "id": "Sandeep-singh-99/langchain-and-langgraph",
-    "language": "Jupyter Notebook",
-    "name": "Sandeep-singh-99/langchain-and-langgraph",
-    "stars": 2,
-    "updated_at": "2026-09-08T15:53:51Z",
-    "url": "https://github.com/Sandeep-singh-99/langchain-and-langgraph"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-08T16:29:56Z",
-    "url": "https://github.com/vanedb/vanedb"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -241,15 +268,6 @@
     "stars": 15853,
     "updated_at": "2026-09-08T15:41:00Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30588,
-    "updated_at": "2026-09-08T16:12:26Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Full-stack RAG platform for document Q&A \u2014 Spring Boot 4, Spring AI, Google Gemini and PostgreSQL pgvector, with a React",
@@ -293,7 +311,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-09-08T16:16:23Z",
+    "updated_at": "2026-09-08T16:40:46Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -302,17 +320,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34446,
-    "updated_at": "2026-09-08T16:06:05Z",
+    "updated_at": "2026-09-08T16:30:52Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 865,
-    "updated_at": "2026-09-08T15:12:15Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "sqlite in-memory vectordb \"HotPocket\"",
@@ -401,7 +410,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7078,
-    "updated_at": "2026-09-08T15:18:02Z",
+    "updated_at": "2026-09-08T16:38:39Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T14:27:41Z",
     "url": "https://github.com/threefigure-achromia682/ai-memory"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3002,
-    "updated_at": "2026-09-08T14:26:57Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   }
 ]
