@@ -5,8 +5,161 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-08T13:45:24Z",
+    "updated_at": "2026-09-08T14:00:28Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16792,
+    "updated_at": "2026-09-08T14:00:36Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2999,
+    "updated_at": "2026-09-08T13:56:51Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
+    "id": "Anonymousforareason111/hybrid-orchestrator",
+    "language": "Python",
+    "name": "Anonymousforareason111/hybrid-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-09-08T13:56:40Z",
+    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-08T13:55:43Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-08T13:54:27Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1884,
+    "updated_at": "2026-09-08T13:53:55Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
+    "id": "ELSAKKK/mnemos-mcp",
+    "language": "Python",
+    "name": "ELSAKKK/mnemos-mcp",
+    "stars": 5,
+    "updated_at": "2026-09-08T13:50:43Z",
+    "url": "https://github.com/ELSAKKK/mnemos-mcp"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-09-08T13:49:19Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
+    "id": "BiggerCap/agentops-hub",
+    "language": "TypeScript",
+    "name": "BiggerCap/agentops-hub",
+    "stars": 2,
+    "updated_at": "2026-09-08T13:49:17Z",
+    "url": "https://github.com/BiggerCap/agentops-hub"
+  },
+  {
+    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
+    "id": "hankamarvanova/unified-db",
+    "language": "Swift",
+    "name": "hankamarvanova/unified-db",
+    "stars": 2,
+    "updated_at": "2026-09-08T13:49:12Z",
+    "url": "https://github.com/hankamarvanova/unified-db"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-09-08T13:48:13Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1136,
+    "updated_at": "2026-09-08T13:48:10Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
+    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "language": "Python",
+    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "stars": 2,
+    "updated_at": "2026-09-08T13:48:02Z",
+    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T13:45:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12935,
+    "updated_at": "2026-09-08T13:52:02Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-09-08T13:42:52Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-09-08T13:42:14Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
   },
   {
     "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
@@ -45,15 +198,6 @@
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1884,
-    "updated_at": "2026-09-08T13:36:54Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "",
     "id": "juliusadroit905/RAG-vs-Fine-Tuning",
     "language": "\u2014",
@@ -90,22 +234,13 @@
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
-    "description": "Knowhere 2.0 supports complementary Vision and Text tracks\u2014a parsing and retrieval system that turns complex documents i",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2998,
-    "updated_at": "2026-09-08T13:31:12Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T13:30:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Give Claude Code, Codex and opencode a 32M-token memory that never leaves your machine. Local LLM server (MCP + OpenAI A",
+    "id": "Veloresearch/VLS-32M-Context-Local-LLM",
+    "language": "\u2014",
+    "name": "Veloresearch/VLS-32M-Context-Local-LLM",
+    "stars": 4,
+    "updated_at": "2026-09-08T13:32:07Z",
+    "url": "https://github.com/Veloresearch/VLS-32M-Context-Local-LLM"
   },
   {
     "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
@@ -122,7 +257,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8191,
-    "updated_at": "2026-09-08T13:29:53Z",
+    "updated_at": "2026-09-08T13:55:54Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -133,15 +268,6 @@
     "stars": 6,
     "updated_at": "2026-09-08T13:28:58Z",
     "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16792,
-    "updated_at": "2026-09-08T13:43:23Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
@@ -185,7 +311,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7078,
-    "updated_at": "2026-09-08T13:37:33Z",
+    "updated_at": "2026-09-08T13:56:17Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -198,21 +324,12 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-08T13:43:09Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-09-08T13:41:46Z",
+    "updated_at": "2026-09-08T13:58:18Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -284,7 +401,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30585,
-    "updated_at": "2026-09-08T13:39:26Z",
+    "updated_at": "2026-09-08T13:53:45Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -297,21 +414,12 @@
     "url": "https://github.com/TowsifAhamed/GameRagKit"
   },
   {
-    "description": "Give Claude Code, Codex and opencode a 32M-token memory that never leaves your machine. Local LLM server (MCP + OpenAI A",
-    "id": "Veloresearch/VLS-32M-Context-Local-LLM",
-    "language": "\u2014",
-    "name": "Veloresearch/VLS-32M-Context-Local-LLM",
-    "stars": 3,
-    "updated_at": "2026-09-08T13:32:07Z",
-    "url": "https://github.com/Veloresearch/VLS-32M-Context-Local-LLM"
-  },
-  {
     "description": "Website for the Weaviate vector database",
     "id": "weaviate/weaviate-io",
     "language": "MDX",
     "name": "weaviate/weaviate-io",
     "stars": 89,
-    "updated_at": "2026-09-08T12:23:52Z",
+    "updated_at": "2026-09-08T13:59:35Z",
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
@@ -333,15 +441,6 @@
     "url": "https://github.com/tamnd/yo"
   },
   {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-08T13:42:31Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
     "description": "Agentic customer support platform \u2014 hand-written agent loop, RAG, human-in-the-loop approvals, multi-agent specialists, ",
     "id": "Akshay-professor/helpdesk-copilot",
     "language": "JavaScript",
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T12:18:24Z",
     "url": "https://github.com/Akshay-professor/helpdesk-copilot"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-09-08T12:41:18Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11379,
-    "updated_at": "2026-09-08T12:14:48Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4434,
-    "updated_at": "2026-09-08T13:42:07Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 275,
-    "updated_at": "2026-09-08T11:59:27Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-08T11:50:25Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46025,
-    "updated_at": "2026-09-08T11:45:27Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1136,
-    "updated_at": "2026-09-08T11:45:18Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Production-Grade RAG with C# and .NET \u2014 Building Retrieval-Augmented Generation Systems with C#, the Microsoft Agent Fra",
-    "id": "RachidD68/production-grade-rag-with-csharp-and-dotnet",
-    "language": "C#",
-    "name": "RachidD68/production-grade-rag-with-csharp-and-dotnet",
-    "stars": 0,
-    "updated_at": "2026-09-08T11:56:42Z",
-    "url": "https://github.com/RachidD68/production-grade-rag-with-csharp-and-dotnet"
-  },
-  {
-    "description": "A hands-on AI Engineering portfolio covering LLMs, Prompt Engineering, RAG, LangChain, LangGraph, AI Agents, Multi-Agent",
-    "id": "jafarxdev/ai-engineering-projects",
-    "language": "Python",
-    "name": "jafarxdev/ai-engineering-projects",
-    "stars": 1,
-    "updated_at": "2026-09-08T11:28:38Z",
-    "url": "https://github.com/jafarxdev/ai-engineering-projects"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-09-08T11:27:47Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "A low-latency, billion-scale, and updatable graph-based vector store on SSD.",
-    "id": "thustorage/PipeANN",
-    "language": "C++",
-    "name": "thustorage/PipeANN",
-    "stars": 148,
-    "updated_at": "2026-09-08T11:26:36Z",
-    "url": "https://github.com/thustorage/PipeANN"
   }
 ]
