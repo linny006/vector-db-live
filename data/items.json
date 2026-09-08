@@ -1,12 +1,84 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "\u4e2d\u6587\u533b\u7597\u68c0\u7d22\u589e\u5f3a\u95ee\u7b54\uff08RAG QA\uff09\uff1aToyhom \u533b\u7597\u8bed\u6599\u6e05\u6d17/\u5206\u5757 + bge-small-zh + Chroma \u68c0\u7d22 + 8B CareBot(GPU)/Qwen(CPU) \u751f\u6210\uff0cHit@1/3/5=86.5%/90.3%/91.1",
+    "id": "linmcneil/chinese-medical-rag-qa",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T05:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "linmcneil/chinese-medical-rag-qa",
+    "stars": 0,
+    "updated_at": "2026-09-08T05:44:52Z",
+    "url": "https://github.com/linmcneil/chinese-medical-rag-qa"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-09-08T05:43:10Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-08T05:43:05Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-08T05:42:55Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-09-08T05:42:27Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 2,
+    "updated_at": "2026-09-08T05:41:23Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-09-08T05:40:59Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
+    "id": "dhanoliya-ji/DocMinds",
+    "language": "Python",
+    "name": "dhanoliya-ji/DocMinds",
+    "stars": 0,
+    "updated_at": "2026-09-08T05:40:17Z",
+    "url": "https://github.com/dhanoliya-ji/DocMinds"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
+    "id": "SAHIXXX12/AI-Search-Engine",
+    "language": "TypeScript",
+    "name": "SAHIXXX12/AI-Search-Engine",
+    "stars": 0,
+    "updated_at": "2026-09-08T05:38:19Z",
+    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -14,8 +86,89 @@
     "language": "Python",
     "name": "EVEDensity/AgentHub",
     "stars": 26,
-    "updated_at": "2026-09-08T05:29:27Z",
+    "updated_at": "2026-09-08T05:38:17Z",
     "url": "https://github.com/EVEDensity/AgentHub"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-08T05:36:35Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-08T05:36:30Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8188,
+    "updated_at": "2026-09-08T05:35:43Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 12,
+    "updated_at": "2026-09-08T05:35:13Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-09-08T05:34:11Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-09-08T05:34:09Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9243,
+    "updated_at": "2026-09-08T05:31:30Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T05:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T05:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -32,7 +185,7 @@
     "language": "Go",
     "name": "tradik/mddb",
     "stars": 3,
-    "updated_at": "2026-09-08T05:24:25Z",
+    "updated_at": "2026-09-08T05:32:46Z",
     "url": "https://github.com/tradik/mddb"
   },
   {
@@ -54,24 +207,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "\u4e2d\u6587\u533b\u7597\u68c0\u7d22\u589e\u5f3a\u95ee\u7b54\uff08RAG QA\uff09\uff1aToyhom \u533b\u7597\u8bed\u6599\u6e05\u6d17/\u5206\u5757 + bge-small-zh + Chroma \u68c0\u7d22 + 8B CareBot(GPU)/Qwen(CPU) \u751f\u6210\uff0cHit@1/3/5=86.5%/90.3%/91.1",
-    "id": "linmcneil/chinese-medical-rag-qa",
-    "language": "Python",
-    "name": "linmcneil/chinese-medical-rag-qa",
-    "stars": 0,
-    "updated_at": "2026-09-08T05:17:47Z",
-    "url": "https://github.com/linmcneil/chinese-medical-rag-qa"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T05:16:20Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
     "id": "SuperInstance/SuperInstance",
     "language": "Python",
@@ -88,24 +223,6 @@
     "stars": 7,
     "updated_at": "2026-09-08T05:12:41Z",
     "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-08T05:28:28Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-08T05:09:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -133,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T04:54:00Z",
     "url": "https://github.com/nithansantiago021/Legal_AI"
-  },
-  {
-    "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
-    "id": "dhanoliya-ji/DocMinds",
-    "language": "Python",
-    "name": "dhanoliya-ji/DocMinds",
-    "stars": 0,
-    "updated_at": "2026-09-08T04:42:28Z",
-    "url": "https://github.com/dhanoliya-ji/DocMinds"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -194,7 +302,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-08T05:28:23Z",
+    "updated_at": "2026-09-08T05:32:33Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -302,7 +410,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34433,
-    "updated_at": "2026-09-08T05:05:36Z",
+    "updated_at": "2026-09-08T05:35:34Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-08T02:25:12Z",
     "url": "https://github.com/fishmem-labs/fishmem"
-  },
-  {
-    "description": "RAG app for chatting with local documents. LangChain + ChromaDB + Streamlit + Gemini, with page-level citations and loca",
-    "id": "sjtan2302/chat-with-your-docs",
-    "language": "Python",
-    "name": "sjtan2302/chat-with-your-docs",
-    "stars": 0,
-    "updated_at": "2026-09-08T02:24:16Z",
-    "url": "https://github.com/sjtan2302/chat-with-your-docs"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-09-08T02:23:06Z",
-    "url": "https://github.com/0xLazAI/alith"
-  },
-  {
-    "description": "Large document Q&A agent using RAG",
-    "id": "djleamen/doc-reader",
-    "language": "Python",
-    "name": "djleamen/doc-reader",
-    "stars": 3,
-    "updated_at": "2026-09-08T02:17:33Z",
-    "url": "https://github.com/djleamen/doc-reader"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-08T02:23:36Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Agent-native memory infrastructure for AI coding assistants. Governed session capture, LLM compression, hybrid retrieval",
-    "id": "BMC-INC/Iron-mem",
-    "language": "Rust",
-    "name": "BMC-INC/Iron-mem",
-    "stars": 4,
-    "updated_at": "2026-09-08T02:07:07Z",
-    "url": "https://github.com/BMC-INC/Iron-mem"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9243,
-    "updated_at": "2026-09-08T03:44:14Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "The Best GUI for Milvus",
-    "id": "zilliztech/attu",
-    "language": "Shell",
-    "name": "zilliztech/attu",
-    "stars": 3155,
-    "updated_at": "2026-09-08T01:57:55Z",
-    "url": "https://github.com/zilliztech/attu"
-  },
-  {
-    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
-    "id": "aadityansha06/vecdb",
-    "language": "C",
-    "name": "aadityansha06/vecdb",
-    "stars": 8,
-    "updated_at": "2026-09-08T01:50:52Z",
-    "url": "https://github.com/aadityansha06/vecdb"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15845,
-    "updated_at": "2026-09-08T01:49:53Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-08T01:46:58Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Zero downtime embedding upgrades",
-    "id": "arnsri33/embedflow",
-    "language": "Python",
-    "name": "arnsri33/embedflow",
-    "stars": 10,
-    "updated_at": "2026-09-08T01:36:27Z",
-    "url": "https://github.com/arnsri33/embedflow"
-  },
-  {
-    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
-    "id": "rustic-ai/uni-db",
-    "language": "Rust",
-    "name": "rustic-ai/uni-db",
-    "stars": 53,
-    "updated_at": "2026-09-08T01:30:19Z",
-    "url": "https://github.com/rustic-ai/uni-db"
   }
 ]
