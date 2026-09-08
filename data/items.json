@@ -1,5 +1,59 @@
 [
   {
+    "description": "PDF question-answering prototype with hybrid retrieval, reranking, optional tracing and a RAGAS evaluation harness.",
+    "id": "rayperatta/rag-document-qa",
+    "language": "Python",
+    "name": "rayperatta/rag-document-qa",
+    "stars": 0,
+    "updated_at": "2026-09-08T20:51:22Z",
+    "url": "https://github.com/rayperatta/rag-document-qa"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-09-08T20:51:14Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 4,
+    "updated_at": "2026-09-08T20:48:46Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65796,
+    "updated_at": "2026-09-08T20:48:32Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "",
+    "id": "abdullahqureshi27/resolvdesk",
+    "language": "TypeScript",
+    "name": "abdullahqureshi27/resolvdesk",
+    "stars": 0,
+    "updated_at": "2026-09-08T20:47:51Z",
+    "url": "https://github.com/abdullahqureshi27/resolvdesk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T20:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,21 +63,12 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-09-08T20:44:54Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1885,
-    "updated_at": "2026-09-08T20:44:52Z",
+    "updated_at": "2026-09-08T20:50:10Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -43,33 +88,6 @@
     "stars": 1,
     "updated_at": "2026-09-08T20:32:22Z",
     "url": "https://github.com/Vickycoder123/BrainDocAI"
-  },
-  {
-    "description": "",
-    "id": "abdullahqureshi27/resolvdesk",
-    "language": "TypeScript",
-    "name": "abdullahqureshi27/resolvdesk",
-    "stars": 0,
-    "updated_at": "2026-09-08T20:32:12Z",
-    "url": "https://github.com/abdullahqureshi27/resolvdesk"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T20:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65797,
-    "updated_at": "2026-09-08T20:27:30Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Importable n8n workflows, tutorials and verified demos for BrocosWork Apify Actors",
@@ -166,7 +184,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1903,
+    "stars": 1898,
     "updated_at": "2026-09-08T19:42:20Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -180,20 +198,11 @@
     "url": "https://github.com/fewshot-works/academy"
   },
   {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 4,
-    "updated_at": "2026-09-08T19:33:22Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30598,
+    "stars": 30597,
     "updated_at": "2026-09-08T19:27:26Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -248,7 +257,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7078,
-    "updated_at": "2026-09-08T19:05:31Z",
+    "updated_at": "2026-09-08T20:46:09Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34449,
-    "updated_at": "2026-09-08T20:25:06Z",
+    "updated_at": "2026-09-08T20:48:52Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 22,
     "updated_at": "2026-09-08T17:35:47Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "OpenCode plugin that gives coding agents persistent memory using local vector database",
-    "id": "ZeR020/opencode-mem0",
-    "language": "TypeScript",
-    "name": "ZeR020/opencode-mem0",
-    "stars": 14,
-    "updated_at": "2026-09-08T17:29:47Z",
-    "url": "https://github.com/ZeR020/opencode-mem0"
   }
 ]
