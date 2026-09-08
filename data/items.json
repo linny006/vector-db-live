@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T08:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-08T08:39:53Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
+    "id": "oguzhankir/omnichunk",
+    "language": "Python",
+    "name": "oguzhankir/omnichunk",
+    "stars": 8,
+    "updated_at": "2026-09-08T08:44:51Z",
+    "url": "https://github.com/oguzhankir/omnichunk"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-08T08:36:20Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 7,
+    "updated_at": "2026-09-08T08:31:28Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 3,
+    "updated_at": "2026-09-08T08:31:15Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T08:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "In-memory knowledge store for AI agents",
     "id": "FraiseHQ/fraise",
     "language": "Go",
@@ -9,58 +72,22 @@
     "url": "https://github.com/FraiseHQ/fraise"
   },
   {
-    "description": "Versioned vector index with MVCC, snapshot isolation, and branchable agent memory.",
+    "description": "Knowhere 2.0 supports complementary Vision and Text tracks\u2014a parsing and retrieval system that turns complex documents i",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2988,
+    "updated_at": "2026-09-08T08:21:35Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "Versioned vector index with MVCC, snapshot isolation, and branchable agent memory",
     "id": "mchl-labs/chronovec",
     "language": "Python",
     "name": "mchl-labs/chronovec",
     "stars": 0,
     "updated_at": "2026-09-08T08:20:00Z",
     "url": "https://github.com/mchl-labs/chronovec"
-  },
-  {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 3,
-    "updated_at": "2026-09-08T08:21:55Z",
-    "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 7,
-    "updated_at": "2026-09-08T08:16:00Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T08:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T08:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-08T08:12:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "VTS is a tool designed for the transformation and transportation of vectors and unstructured data.",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-09-08T08:05:39Z",
+    "updated_at": "2026-09-08T08:40:48Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -103,7 +130,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 13044,
+    "stars": 13045,
     "updated_at": "2026-09-08T08:01:25Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "Yigtwxx/OracleX",
     "stars": 1,
-    "updated_at": "2026-09-08T07:57:52Z",
+    "updated_at": "2026-09-08T08:42:01Z",
     "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
@@ -207,15 +234,6 @@
     "url": "https://github.com/dhanoliya-ji/DocMinds"
   },
   {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-08T07:32:40Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
-  },
-  {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
     "id": "tamnd/yo",
     "language": "Rust",
@@ -230,7 +248,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30583,
-    "updated_at": "2026-09-08T08:12:02Z",
+    "updated_at": "2026-09-08T08:43:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-08T08:21:24Z",
+    "updated_at": "2026-09-08T08:41:08Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -355,7 +373,7 @@
     "id": "hanyeol/model-compose",
     "language": "Python",
     "name": "hanyeol/model-compose",
-    "stars": 78,
+    "stars": 79,
     "updated_at": "2026-09-08T06:58:06Z",
     "url": "https://github.com/hanyeol/model-compose"
   },
@@ -405,15 +423,6 @@
     "url": "https://github.com/arnsri33/embedflow"
   },
   {
-    "description": "Knowhere 2.0 supports complementary Vision and Text tracks\u2014a parsing and retrieval system that turns complex documents i",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 2986,
-    "updated_at": "2026-09-08T08:21:35Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
     "description": "\u4e2d\u6587\u533b\u7597\u68c0\u7d22\u589e\u5f3a\u95ee\u7b54\uff08RAG QA\uff09\uff1aToyhom \u533b\u7597\u8bed\u6599\u6e05\u6d17/\u5206\u5757 + bge-small-zh + Chroma \u68c0\u7d22 + 8B CareBot(GPU)/Qwen(CPU) \u751f\u6210\uff0cHit@1/3/5=86.5%/90.3%/91.1",
     "id": "linmcneil/chinese-medical-rag-qa",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T06:22:08Z",
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
-    "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
-    "id": "tryAGI/Milvus",
-    "language": "C#",
-    "name": "tryAGI/Milvus",
-    "stars": 0,
-    "updated_at": "2026-09-08T06:21:57Z",
-    "url": "https://github.com/tryAGI/Milvus"
   }
 ]
