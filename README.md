@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-08 17:45 UTC
+> ⏰ Last updated: 2026-09-08 17:56 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) | 2091 | PHP | 2026-09-08 | The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T |
-| 3 | [SynapseKit/SynapseKit](https://github.com/SynapseKit/SynapseKit) | 22 | Python | 2026-09-08 | Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS.  |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6234 | Rust | 2026-09-08 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [ZeR020/opencode-mem0](https://github.com/ZeR020/opencode-mem0) | 14 | TypeScript | 2026-09-08 | OpenCode plugin that gives coding agents persistent memory using local vector database |
-| 8 | [christopherkarani/Wax](https://github.com/christopherkarani/Wax) | 788 | Swift | 2026-09-08 | Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N |
-| 9 | [bobaba76/Argos](https://github.com/bobaba76/Argos) | 8 | Python | 2026-09-08 | Local-first persistent memory for AI agents — hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa |
-| 10 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1137 | Java | 2026-09-08 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 11 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30593 | Python | 2026-09-08 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 1 | [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) | 2091 | PHP | 2026-09-08 | The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T |
+| 2 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30594 | Python | 2026-09-08 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-08 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-08 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [SynapseKit/SynapseKit](https://github.com/SynapseKit/SynapseKit) | 22 | Python | 2026-09-08 | Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS.  |
+| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-08 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 7 | [RediSearch/RediSearch](https://github.com/RediSearch/RediSearch) | 6234 | Rust | 2026-09-08 | A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr |
+| 8 | [ZeR020/opencode-mem0](https://github.com/ZeR020/opencode-mem0) | 14 | TypeScript | 2026-09-08 | OpenCode plugin that gives coding agents persistent memory using local vector database |
+| 9 | [christopherkarani/Wax](https://github.com/christopherkarani/Wax) | 788 | Swift | 2026-09-08 | Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N |
+| 10 | [bobaba76/Argos](https://github.com/bobaba76/Argos) | 8 | Python | 2026-09-08 | Local-first persistent memory for AI agents — hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa |
+| 11 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1137 | Java | 2026-09-08 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
 | 12 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1884 | Go | 2026-09-08 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 13 | [nishanthrjn/nishanthrjn.github.io](https://github.com/nishanthrjn/nishanthrjn.github.io) | 0 | JavaScript | 2026-09-08 | Software engineering portfolio with an integrated RAG-powered TalentBot assistant for recruiter-facing Q&A about my expe |
 | 14 | [vanedb/vanedb](https://github.com/vanedb/vanedb) | 0 | Rust | 2026-09-08 | Embeddable vector database for edge AI |
@@ -82,7 +82,7 @@ expired items removed — so you can rely on what you see being current.
 | 38 | [ictechgy/vecdiff](https://github.com/ictechgy/vecdiff) | 0 | Python | 2026-09-08 | Diff two embedding-index snapshots: graded neighbor/population/duplicate/rot findings for vector-DB migrations and index |
 | 39 | [oracle/ai-optimizer](https://github.com/oracle/ai-optimizer) | 101 | Python | 2026-09-08 | GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL |
 | 40 | [alxxtexxr/arxiv_agent](https://github.com/alxxtexxr/arxiv_agent) | 0 | Python | 2026-09-08 | AI agent that recommends arXiv papers based on bookmarks or topics. |
-| 41 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 65791 | JavaScript | 2026-09-08 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 41 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 65792 | JavaScript | 2026-09-08 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
 | 42 | [alibaba/zvec](https://github.com/alibaba/zvec) | 15854 | C++ | 2026-09-08 | A lightweight, lightning-fast, in-process vector database |
 | 43 | [Vickycoder123/BrainDocAI](https://github.com/Vickycoder123/BrainDocAI) | 1 | TypeScript | 2026-09-08 | Full-stack RAG platform for document Q&A — Spring Boot 4, Spring AI, Google Gemini and PostgreSQL pgvector, with a React |
 | 44 | [BELBINBENORM/ragforge](https://github.com/BELBINBENORM/ragforge) | 1 | Python | 2026-09-08 | Live RAG & Agent Pipeline with MCP  A production-style AI knowledge platform demonstrating how RAG, vector databases, co |
