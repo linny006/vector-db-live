@@ -1,12 +1,21 @@
 [
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1137,
-    "updated_at": "2026-09-08T20:13:21Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65797,
+    "updated_at": "2026-09-08T20:27:30Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Importable n8n workflows, tutorials and verified demos for BrocosWork Apify Actors",
+    "id": "BrocosHub/omniapi-apify-examples",
+    "language": "\u2014",
+    "name": "BrocosHub/omniapi-apify-examples",
+    "stars": 0,
+    "updated_at": "2026-09-08T20:25:37Z",
+    "url": "https://github.com/BrocosHub/omniapi-apify-examples"
   },
   {
     "description": "",
@@ -14,8 +23,62 @@
     "language": "TypeScript",
     "name": "abdullahqureshi27/resolvdesk",
     "stars": 0,
-    "updated_at": "2026-09-08T20:12:02Z",
+    "updated_at": "2026-09-08T20:21:23Z",
     "url": "https://github.com/abdullahqureshi27/resolvdesk"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 3,
+    "updated_at": "2026-09-08T20:20:53Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1885,
+    "updated_at": "2026-09-08T20:29:32Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 34,
+    "updated_at": "2026-09-08T20:18:07Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T20:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T20:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1137,
+    "updated_at": "2026-09-08T20:13:21Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
@@ -63,30 +126,12 @@
     "url": "https://github.com/jihedbfr-art/ai-skills"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T20:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T20:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Knowledge Intelligence System for AI-Research - Personal Tech News",
     "id": "letuandatt/AI-Radar",
     "language": "Python",
     "name": "letuandatt/AI-Radar",
     "stars": 1,
-    "updated_at": "2026-09-08T20:04:08Z",
+    "updated_at": "2026-09-08T20:25:23Z",
     "url": "https://github.com/letuandatt/AI-Radar"
   },
   {
@@ -162,15 +207,6 @@
     "url": "https://github.com/nishanthrjn/nishanthrjn.github.io"
   },
   {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 34,
-    "updated_at": "2026-09-08T19:31:59Z",
-    "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
     "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
     "id": "bobaba76/Argos",
     "language": "Python",
@@ -234,15 +270,6 @@
     "url": "https://github.com/avnlp/vectordb"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65797,
-    "updated_at": "2026-09-08T19:48:33Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "Local-first MCP server for persistent semantic memory, backed by an HNSW vector index and an on-device ONNX embedder",
     "id": "abho7/mcp-memory-server",
     "language": "Python",
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34449,
-    "updated_at": "2026-09-08T20:07:42Z",
+    "updated_at": "2026-09-08T20:25:06Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -286,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T18:31:57Z",
     "url": "https://github.com/Viiotti/local-ai-stack"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1885,
-    "updated_at": "2026-09-08T19:45:45Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
@@ -430,23 +448,5 @@
     "stars": 16794,
     "updated_at": "2026-09-08T17:16:24Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 380,
-    "updated_at": "2026-09-08T17:05:23Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Knowledge Graph\u2013Enhanced Hybrid RAG using LangChain, FAISS, OpenAI and Streamlit for relationship-aware entrance exam in",
-    "id": "rdkdinesh/GEN-AI",
-    "language": "Python",
-    "name": "rdkdinesh/GEN-AI",
-    "stars": 0,
-    "updated_at": "2026-09-08T17:03:07Z",
-    "url": "https://github.com/rdkdinesh/GEN-AI"
   }
 ]
