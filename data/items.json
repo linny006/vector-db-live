@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T08:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-08T08:12:36Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "VTS is a tool designed for the transformation and transportation of vectors and unstructured data.",
+    "id": "zilliztech/vts",
+    "language": "Java",
+    "name": "zilliztech/vts",
+    "stars": 134,
+    "updated_at": "2026-09-08T08:10:49Z",
+    "url": "https://github.com/zilliztech/vts"
+  },
+  {
+    "description": "Jigen DB is vector database written from scratch in c#",
+    "id": "ppossanzini/Jigen",
+    "language": "C#",
+    "name": "ppossanzini/Jigen",
+    "stars": 10,
+    "updated_at": "2026-09-08T08:12:02Z",
+    "url": "https://github.com/ppossanzini/Jigen"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-09-08T08:05:39Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI-powered code intelligence platform for repository analysis using RAG, semantic search, multi-provider LLMs, and Groun",
+    "id": "pushkarsingh26/DevMind",
+    "language": "Python",
+    "name": "pushkarsingh26/DevMind",
+    "stars": 2,
+    "updated_at": "2026-09-08T08:04:57Z",
+    "url": "https://github.com/pushkarsingh26/DevMind"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13044,
+    "updated_at": "2026-09-08T08:01:25Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T08:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
@@ -32,35 +104,8 @@
     "language": "Go",
     "name": "tradik/mddb",
     "stars": 3,
-    "updated_at": "2026-09-08T07:54:17Z",
+    "updated_at": "2026-09-08T08:09:14Z",
     "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "VTS is a tool designed for the transformation and transportation of vectors and unstructured data.",
-    "id": "zilliztech/vts",
-    "language": "Java",
-    "name": "zilliztech/vts",
-    "stars": 134,
-    "updated_at": "2026-09-08T07:57:40Z",
-    "url": "https://github.com/zilliztech/vts"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13042,
-    "updated_at": "2026-09-08T07:59:47Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T07:49:50Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T07:45:49Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T07:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "byok multi-provider medium supporting OpenAI, Anthropic, xAI, Google, Sakana, Meta, Mistral, Cohere, Alibaba, Minimax, M",
@@ -153,15 +189,6 @@
     "url": "https://github.com/dhanoliya-ji/DocMinds"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-08T07:37:13Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
     "id": "inlaySQL/inlaysql",
     "language": "Rust",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30583,
-    "updated_at": "2026-09-08T07:28:22Z",
+    "updated_at": "2026-09-08T08:12:02Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -196,15 +223,6 @@
     "stars": 7078,
     "updated_at": "2026-09-08T07:28:07Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Jigen DB is vector database written from scratch in c#",
-    "id": "ppossanzini/Jigen",
-    "language": "C#",
-    "name": "ppossanzini/Jigen",
-    "stars": 10,
-    "updated_at": "2026-09-08T07:28:06Z",
-    "url": "https://github.com/ppossanzini/Jigen"
   },
   {
     "description": "CrateDB provider for LangChain.",
@@ -230,7 +248,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4433,
-    "updated_at": "2026-09-08T07:39:16Z",
+    "updated_at": "2026-09-08T08:03:42Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -284,7 +302,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-08T07:59:35Z",
+    "updated_at": "2026-09-08T08:00:29Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -373,7 +391,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2985,
+    "stars": 2986,
     "updated_at": "2026-09-08T06:33:02Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T06:15:36Z",
     "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-09-08T06:14:18Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-09-08T06:13:33Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   }
 ]
