@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-08T13:00:24Z",
+    "updated_at": "2026-09-08T13:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-08T13:09:06Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1351,
+    "updated_at": "2026-09-08T13:03:47Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1884,
+    "updated_at": "2026-09-08T13:03:10Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-08T13:08:48Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16792,
+    "updated_at": "2026-09-08T13:08:20Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T13:00:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -14,7 +68,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-09-08T12:55:51Z",
+    "updated_at": "2026-09-08T13:07:16Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -50,7 +104,7 @@
     "language": "Python",
     "name": "Yigtwxx/OracleX",
     "stars": 1,
-    "updated_at": "2026-09-08T12:46:35Z",
+    "updated_at": "2026-09-08T13:15:05Z",
     "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
@@ -61,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T12:45:42Z",
     "url": "https://github.com/seyfe2023/Advanced-RAG-Evaluation-Pipeline"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T12:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-08T12:43:46Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -103,7 +139,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59221,
+    "stars": 59222,
     "updated_at": "2026-09-08T12:29:05Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30585,
-    "updated_at": "2026-09-08T12:59:02Z",
+    "updated_at": "2026-09-08T13:13:30Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7078,
-    "updated_at": "2026-09-08T12:39:56Z",
+    "updated_at": "2026-09-08T13:14:44Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -238,7 +274,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46025,
+    "stars": 46024,
     "updated_at": "2026-09-08T11:45:27Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -250,24 +286,6 @@
     "stars": 1136,
     "updated_at": "2026-09-08T11:45:18Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1884,
-    "updated_at": "2026-09-08T12:59:35Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1351,
-    "updated_at": "2026-09-08T11:38:58Z",
-    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": "Production-Grade RAG with C# and .NET \u2014 Building Retrieval-Augmented Generation Systems with C#, the Microsoft Agent Fra",
@@ -360,15 +378,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16792,
-    "updated_at": "2026-09-08T12:37:48Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
     "id": "neuron-core/neuron-ai",
     "language": "PHP",
@@ -428,7 +437,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 33,
-    "updated_at": "2026-09-08T10:42:25Z",
+    "updated_at": "2026-09-08T13:07:38Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 13048,
     "updated_at": "2026-09-08T10:35:22Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
-    "id": "TheAmitChandra/NeuralCleave",
-    "language": "Python",
-    "name": "TheAmitChandra/NeuralCleave",
-    "stars": 4,
-    "updated_at": "2026-09-08T10:26:32Z",
-    "url": "https://github.com/TheAmitChandra/NeuralCleave"
   }
 ]
