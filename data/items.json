@@ -1,5 +1,86 @@
 [
   {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-09-08T18:26:05Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-08T18:25:06Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65793,
+    "updated_at": "2026-09-08T18:29:58Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1884,
+    "updated_at": "2026-09-08T18:27:07Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 788,
+    "updated_at": "2026-09-08T18:19:33Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-08T18:19:07Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T18:15:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T18:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-08T18:11:07Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "HNSW (Hierarchical Navigable Small World) vector index built from scratch in Python/NumPy: no FAISS, no hnswlib. recall@",
     "id": "abho7/vectordb-hnsw",
     "language": "Python",
@@ -9,20 +90,11 @@
     "url": "https://github.com/abho7/vectordb-hnsw"
   },
   {
-    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 788,
-    "updated_at": "2026-09-08T18:10:32Z",
-    "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
     "description": "Versioned vector index with MVCC, snapshot isolation, and branchable agent memory",
     "id": "mchl-labs/chronovec",
     "language": "Python",
     "name": "mchl-labs/chronovec",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-09-08T18:07:36Z",
     "url": "https://github.com/mchl-labs/chronovec"
   },
@@ -34,24 +106,6 @@
     "stars": 11,
     "updated_at": "2026-09-08T18:05:20Z",
     "url": "https://github.com/angrysky56/emotion_ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T18:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T18:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A is a high-performance, cloud-native multimodal AI tutor grounding Llama-3.3 in textbook facts via Zilliz Cloud. It del",
@@ -104,7 +158,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30595,
-    "updated_at": "2026-09-08T17:52:04Z",
+    "updated_at": "2026-09-08T18:27:58Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -113,7 +167,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2091,
-    "updated_at": "2026-09-08T17:59:09Z",
+    "updated_at": "2026-09-08T18:28:47Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -121,8 +175,8 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1902,
-    "updated_at": "2026-09-08T17:43:41Z",
+    "stars": 1903,
+    "updated_at": "2026-09-08T18:25:02Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -135,21 +189,12 @@
     "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-08T18:11:07Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6234,
-    "updated_at": "2026-09-08T17:31:39Z",
+    "updated_at": "2026-09-08T18:26:35Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 1137,
     "updated_at": "2026-09-08T17:27:38Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1884,
-    "updated_at": "2026-09-08T17:54:59Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Software engineering portfolio with an integrated RAG-powered TalentBot assistant for recruiter-facing Q&A about my expe",
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34448,
-    "updated_at": "2026-09-08T16:55:50Z",
+    "updated_at": "2026-09-08T18:21:21Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7078,
-    "updated_at": "2026-09-08T17:10:55Z",
+    "updated_at": "2026-09-08T18:29:51Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -319,7 +355,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59222,
+    "stars": 59223,
     "updated_at": "2026-09-08T16:19:52Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -396,20 +432,11 @@
     "url": "https://github.com/alxxtexxr/arxiv_agent"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65792,
-    "updated_at": "2026-09-08T15:42:21Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15854,
+    "stars": 15855,
     "updated_at": "2026-09-08T15:41:00Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T15:36:10Z",
     "url": "https://github.com/Vickycoder123/BrainDocAI"
-  },
-  {
-    "description": "Live RAG & Agent Pipeline with MCP  A production-style AI knowledge platform demonstrating how RAG, vector databases, co",
-    "id": "BELBINBENORM/ragforge",
-    "language": "Python",
-    "name": "BELBINBENORM/ragforge",
-    "stars": 1,
-    "updated_at": "2026-09-08T15:34:47Z",
-    "url": "https://github.com/BELBINBENORM/ragforge"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-08T15:31:50Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9434,
-    "updated_at": "2026-09-08T18:07:12Z",
-    "url": "https://github.com/databendlabs/databend"
   }
 ]
