@@ -1,12 +1,39 @@
 [
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30584,
-    "updated_at": "2026-09-08T11:44:39Z",
-    "url": "https://github.com/topoteretes/cognee"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T12:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 33,
+    "updated_at": "2026-09-08T11:59:26Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "Agentic customer support platform \u2014 hand-written agent loop, RAG, human-in-the-loop approvals, multi-agent specialists, ",
+    "id": "Akshay-professor/helpdesk-copilot",
+    "language": "JavaScript",
+    "name": "Akshay-professor/helpdesk-copilot",
+    "stars": 0,
+    "updated_at": "2026-09-08T11:56:09Z",
+    "url": "https://github.com/Akshay-professor/helpdesk-copilot"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-08T11:53:22Z",
+    "url": "https://github.com/vanedb/vanedb"
   },
   {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
@@ -14,17 +41,62 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 275,
-    "updated_at": "2026-09-08T11:42:36Z",
+    "updated_at": "2026-09-08T11:59:27Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-08T11:50:25Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-08T11:48:55Z",
+    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46026,
-    "updated_at": "2026-09-08T11:41:27Z",
+    "stars": 46025,
+    "updated_at": "2026-09-08T11:45:27Z",
     "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T11:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1136,
+    "updated_at": "2026-09-08T11:45:18Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30584,
+    "updated_at": "2026-09-08T11:59:14Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -59,35 +131,8 @@
     "language": "C#",
     "name": "RachidD68/production-grade-rag-with-csharp-and-dotnet",
     "stars": 0,
-    "updated_at": "2026-09-08T11:38:15Z",
+    "updated_at": "2026-09-08T11:56:42Z",
     "url": "https://github.com/RachidD68/production-grade-rag-with-csharp-and-dotnet"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-08T11:38:10Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 33,
-    "updated_at": "2026-09-08T11:36:36Z",
-    "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-08T11:35:28Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -99,38 +144,11 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1136,
-    "updated_at": "2026-09-08T11:45:18Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T11:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T11:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A hands-on AI Engineering portfolio covering LLMs, Prompt Engineering, RAG, LangChain, LangGraph, AI Agents, Multi-Agent",
     "id": "jafarxdev/ai-engineering-projects",
     "language": "Python",
     "name": "jafarxdev/ai-engineering-projects",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-08T11:28:38Z",
     "url": "https://github.com/jafarxdev/ai-engineering-projects"
   },
@@ -189,13 +207,13 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "Agentic customer support platform \u2014 hand-written agent loop, RAG, human-in-the-loop approvals, multi-agent specialists, ",
-    "id": "Akshay-professor/helpdesk-copilot",
-    "language": "JavaScript",
-    "name": "Akshay-professor/helpdesk-copilot",
-    "stars": 0,
-    "updated_at": "2026-09-08T11:08:58Z",
-    "url": "https://github.com/Akshay-professor/helpdesk-copilot"
+    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "id": "VectifyAI/PageIndex",
+    "language": "Python",
+    "name": "VectifyAI/PageIndex",
+    "stars": 35583,
+    "updated_at": "2026-09-08T11:12:38Z",
+    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "AI Knowledge Assistant with semantic search over documents \u2014 embeddings, ChromaDB vector storage, and a full RAG pipelin",
@@ -221,7 +239,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4433,
-    "updated_at": "2026-09-08T11:42:58Z",
+    "updated_at": "2026-09-08T12:00:20Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -248,7 +266,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16792,
-    "updated_at": "2026-09-08T11:42:18Z",
+    "updated_at": "2026-09-08T11:59:06Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -337,18 +355,9 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 13046,
+    "stars": 13047,
     "updated_at": "2026-09-08T10:35:22Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35582,
-    "updated_at": "2026-09-08T11:12:38Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "Your personal AI assistant, powered by the models you choose. Connect leading AI providers and messaging platforms throu",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-08T10:08:09Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
-    "id": "GCTRL-TECH/platform",
-    "language": "TypeScript",
-    "name": "GCTRL-TECH/platform",
-    "stars": 7,
-    "updated_at": "2026-09-08T09:50:45Z",
-    "url": "https://github.com/GCTRL-TECH/platform"
   }
 ]
