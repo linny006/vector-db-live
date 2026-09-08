@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T14:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T14:14:13Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
     "id": "AkashKundu114/COPPER",
     "language": "Python",
@@ -18,6 +36,15 @@
     "url": "https://github.com/keldra-store/keldra"
   },
   {
+    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
+    "id": "okeidontlike/Awareness-Local",
+    "language": "JavaScript",
+    "name": "okeidontlike/Awareness-Local",
+    "stars": 2,
+    "updated_at": "2026-09-08T14:09:08Z",
+    "url": "https://github.com/okeidontlike/Awareness-Local"
+  },
+  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -25,6 +52,15 @@
     "stars": 30586,
     "updated_at": "2026-09-08T14:09:04Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
+    "id": "ahmahmahm/pdf-rag-assistant",
+    "language": "\u2014",
+    "name": "ahmahmahm/pdf-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-08T14:08:41Z",
+    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   },
   {
     "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
@@ -61,24 +97,6 @@
     "stars": 89,
     "updated_at": "2026-09-08T14:00:53Z",
     "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T14:00:44Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T14:00:28Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -203,7 +221,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1136,
-    "updated_at": "2026-09-08T14:05:18Z",
+    "updated_at": "2026-09-08T14:15:07Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-08T12:48:00Z",
     "url": "https://github.com/amirhosssein0/ai-platform-lab"
-  },
-  {
-    "description": "\"Production-grade RAG system for financial research with  real-time data updates, semantic search, and agentic retrieval",
-    "id": "shrikantss1/finrag-engine",
-    "language": "Python",
-    "name": "shrikantss1/finrag-engine",
-    "stars": 0,
-    "updated_at": "2026-09-08T12:46:36Z",
-    "url": "https://github.com/shrikantss1/finrag-engine"
-  },
-  {
-    "description": "Advanced RAG pipeline with vector search, cross-encoder reranking, local LLM generation, and automated retrieval & answe",
-    "id": "seyfe2023/Advanced-RAG-Evaluation-Pipeline",
-    "language": "Python",
-    "name": "seyfe2023/Advanced-RAG-Evaluation-Pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-08T12:45:42Z",
-    "url": "https://github.com/seyfe2023/Advanced-RAG-Evaluation-Pipeline"
   }
 ]
