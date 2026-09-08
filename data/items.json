@@ -5,17 +5,116 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-08T12:15:22Z",
+    "updated_at": "2026-09-08T12:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "description": "\"Production-grade RAG system for financial research with  real-time data updates, semantic search, and agentic retrieval",
+    "id": "shrikantss1/finrag-engine",
+    "language": "\u2014",
+    "name": "shrikantss1/finrag-engine",
+    "stars": 0,
+    "updated_at": "2026-09-08T12:29:26Z",
+    "url": "https://github.com/shrikantss1/finrag-engine"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30585,
+    "updated_at": "2026-09-08T12:27:55Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
+    "id": "TowsifAhamed/GameRagKit",
+    "language": "C#",
+    "name": "TowsifAhamed/GameRagKit",
+    "stars": 2,
+    "updated_at": "2026-09-08T12:25:09Z",
+    "url": "https://github.com/TowsifAhamed/GameRagKit"
+  },
+  {
+    "description": "Give Claude Code, Codex and opencode a 32M-token memory that never leaves your machine. Local LLM server (MCP + OpenAI A",
+    "id": "Veloresearch/VLS-32M-Context-Local-LLM",
+    "language": "\u2014",
+    "name": "Veloresearch/VLS-32M-Context-Local-LLM",
     "stars": 3,
-    "updated_at": "2026-09-08T12:13:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "updated_at": "2026-09-08T12:24:11Z",
+    "url": "https://github.com/Veloresearch/VLS-32M-Context-Local-LLM"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-09-08T12:23:52Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-09-08T12:22:49Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
+    "id": "mirkobozzetto/flowflow",
+    "language": "Rust",
+    "name": "mirkobozzetto/flowflow",
+    "stars": 167,
+    "updated_at": "2026-09-08T12:26:03Z",
+    "url": "https://github.com/mirkobozzetto/flowflow"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-08T12:21:41Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-08T12:20:03Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Agentic customer support platform \u2014 hand-written agent loop, RAG, human-in-the-loop approvals, multi-agent specialists, ",
+    "id": "Akshay-professor/helpdesk-copilot",
+    "language": "JavaScript",
+    "name": "Akshay-professor/helpdesk-copilot",
+    "stars": 0,
+    "updated_at": "2026-09-08T12:18:24Z",
+    "url": "https://github.com/Akshay-professor/helpdesk-copilot"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-09-08T12:16:58Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T12:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -27,13 +126,13 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-08T12:11:49Z",
-    "url": "https://github.com/tamnd/yo"
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-08T12:13:33Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The AI search platform",
@@ -45,47 +144,11 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-08T12:07:15Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30584,
-    "updated_at": "2026-09-08T12:06:52Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Agentic customer support platform \u2014 hand-written agent loop, RAG, human-in-the-loop approvals, multi-agent specialists, ",
-    "id": "Akshay-professor/helpdesk-copilot",
-    "language": "JavaScript",
-    "name": "Akshay-professor/helpdesk-copilot",
-    "stars": 0,
-    "updated_at": "2026-09-08T12:01:33Z",
-    "url": "https://github.com/Akshay-professor/helpdesk-copilot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T12:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
-    "stars": 4433,
+    "stars": 4434,
     "updated_at": "2026-09-08T12:00:20Z",
     "url": "https://github.com/crate/crate"
   },
@@ -198,15 +261,6 @@
     "url": "https://github.com/weaviate/docs"
   },
   {
-    "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-09-08T11:18:41Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -275,24 +329,15 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16792,
-    "updated_at": "2026-09-08T11:59:06Z",
+    "updated_at": "2026-09-08T12:15:56Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Give Claude Code, Codex and opencode a 32M-token memory that never leaves your machine. Local LLM server (MCP + OpenAI A",
-    "id": "Veloresearch/VLS-32M-Context-Local-LLM",
-    "language": "\u2014",
-    "name": "Veloresearch/VLS-32M-Context-Local-LLM",
-    "stars": 3,
-    "updated_at": "2026-09-08T10:45:04Z",
-    "url": "https://github.com/Veloresearch/VLS-32M-Context-Local-LLM"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
     "id": "neuron-core/neuron-ai",
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
-    "stars": 2092,
+    "stars": 2091,
     "updated_at": "2026-09-08T10:41:34Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "bobaba76/Argos",
     "stars": 8,
-    "updated_at": "2026-09-08T12:12:22Z",
+    "updated_at": "2026-09-08T12:27:17Z",
     "url": "https://github.com/bobaba76/Argos"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T10:17:44Z",
     "url": "https://github.com/Afaque-Khan04/Multilingual-RAG"
-  },
-  {
-    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
-    "id": "TowsifAhamed/GameRagKit",
-    "language": "C#",
-    "name": "TowsifAhamed/GameRagKit",
-    "stars": 2,
-    "updated_at": "2026-09-08T10:12:29Z",
-    "url": "https://github.com/TowsifAhamed/GameRagKit"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34441,
-    "updated_at": "2026-09-08T10:08:48Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 79,
-    "updated_at": "2026-09-08T10:06:05Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
-    "id": "RoxyAPI/ai-spiritual-companion",
-    "language": "TypeScript",
-    "name": "RoxyAPI/ai-spiritual-companion",
-    "stars": 0,
-    "updated_at": "2026-09-08T10:02:45Z",
-    "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-08T09:56:54Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   }
 ]
