@@ -1,5 +1,95 @@
 [
   {
+    "description": "A hands-on AI Engineering portfolio covering LLMs, Prompt Engineering, RAG, LangChain, LangGraph, AI Agents, Multi-Agent",
+    "id": "jafarxdev/ai-engineering-projects",
+    "language": "Python",
+    "name": "jafarxdev/ai-engineering-projects",
+    "stars": 0,
+    "updated_at": "2026-09-08T11:28:38Z",
+    "url": "https://github.com/jafarxdev/ai-engineering-projects"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-09-08T11:27:47Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 275,
+    "updated_at": "2026-09-08T11:26:52Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "A low-latency, billion-scale, and updatable graph-based vector store on SSD.",
+    "id": "thustorage/PipeANN",
+    "language": "C++",
+    "name": "thustorage/PipeANN",
+    "stars": 148,
+    "updated_at": "2026-09-08T11:26:36Z",
+    "url": "https://github.com/thustorage/PipeANN"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-08T11:22:38Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 20,
+    "updated_at": "2026-09-08T11:24:02Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-09-08T11:18:41Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-09-08T11:16:48Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T11:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T11:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -27,15 +117,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "A hands-on AI Engineering portfolio covering LLMs, Prompt Engineering, RAG, LangChain, LangGraph, AI Agents, Multi-Agent",
-    "id": "jafarxdev/ai-engineering-projects",
-    "language": "\u2014",
-    "name": "jafarxdev/ai-engineering-projects",
-    "stars": 0,
-    "updated_at": "2026-09-08T11:07:42Z",
-    "url": "https://github.com/jafarxdev/ai-engineering-projects"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -43,24 +124,6 @@
     "stars": 1884,
     "updated_at": "2026-09-08T11:01:05Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T11:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T11:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Knowledge Assistant with semantic search over documents \u2014 embeddings, ChromaDB vector storage, and a full RAG pipelin",
@@ -79,15 +142,6 @@
     "stars": 5,
     "updated_at": "2026-09-08T10:55:15Z",
     "url": "https://github.com/amirhosssein0/ai-platform-lab"
-  },
-  {
-    "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
-    "id": "Yigtwxx/OracleX",
-    "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-09-08T11:15:03Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -131,7 +185,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16792,
-    "updated_at": "2026-09-08T11:08:44Z",
+    "updated_at": "2026-09-08T11:29:15Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 243,
     "updated_at": "2026-09-08T11:08:34Z",
     "url": "https://github.com/deven96/ahnlich"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7078,
-    "updated_at": "2026-09-08T10:59:33Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "A comprehensive, curated directory of 80+ categories of foundational and breakthrough open-source AI repositories, frame",
-    "id": "mohd-faizy/the-ai-stack",
-    "language": "\u2014",
-    "name": "mohd-faizy/the-ai-stack",
-    "stars": 0,
-    "updated_at": "2026-09-08T09:24:49Z",
-    "url": "https://github.com/mohd-faizy/the-ai-stack"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1136,
-    "updated_at": "2026-09-08T10:42:52Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Structure-aware text chunking library for code, prose, and markup files. Intelligently splits files into context-rich ch",
-    "id": "oguzhankir/omnichunk",
-    "language": "Python",
-    "name": "oguzhankir/omnichunk",
-    "stars": 8,
-    "updated_at": "2026-09-08T09:24:34Z",
-    "url": "https://github.com/oguzhankir/omnichunk"
-  },
-  {
-    "description": "My learning journey into RAG, covering chunking, embeddings, vector stores, dot products, L2 normalization, cosine simil",
-    "id": "Tanvik-hub/rag-retrieval-learning-journey",
-    "language": "\u2014",
-    "name": "Tanvik-hub/rag-retrieval-learning-journey",
-    "stars": 0,
-    "updated_at": "2026-09-08T09:16:18Z",
-    "url": "https://github.com/Tanvik-hub/rag-retrieval-learning-journey"
-  },
-  {
-    "description": "Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, questi",
-    "id": "milvus-io/bootcamp",
-    "language": "Jupyter Notebook",
-    "name": "milvus-io/bootcamp",
-    "stars": 2444,
-    "updated_at": "2026-09-08T09:14:04Z",
-    "url": "https://github.com/milvus-io/bootcamp"
   }
 ]
