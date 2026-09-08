@@ -1,5 +1,32 @@
 [
   {
+    "description": "\u4e2d\u6587\u533b\u7597\u68c0\u7d22\u589e\u5f3a\u95ee\u7b54\uff08RAG QA\uff09\uff1aToyhom \u533b\u7597\u8bed\u6599\u6e05\u6d17/\u5206\u5757 + bge-small-zh + Chroma \u68c0\u7d22 + 8B CareBot(GPU)/Qwen(CPU) \u751f\u6210\uff0cHit@1/3/5=86.5%/90.3%/91.1",
+    "id": "linmcneil/chinese-medical-rag-qa",
+    "language": "Python",
+    "name": "linmcneil/chinese-medical-rag-qa",
+    "stars": 0,
+    "updated_at": "2026-09-08T05:16:07Z",
+    "url": "https://github.com/linmcneil/chinese-medical-rag-qa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T05:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T05:15:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
     "id": "SuperInstance/SuperInstance",
     "language": "Python",
@@ -7,15 +34,6 @@
     "stars": 6,
     "updated_at": "2026-09-08T05:14:17Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "\u4e2d\u6587\u533b\u7597\u68c0\u7d22\u589e\u5f3a\u95ee\u7b54\uff08RAG QA\uff09\uff1aToyhom \u533b\u7597\u8bed\u6599\u6e05\u6d17/\u5206\u5757 + bge-small-zh + Chroma \u68c0\u7d22 + 8B CareBot(GPU)/Qwen(CPU) \u751f\u6210\uff0cHit@1/3/5=86.5%/90.3%/91.1",
-    "id": "linmcneil/chinese-medical-rag-qa",
-    "language": "Python",
-    "name": "linmcneil/chinese-medical-rag-qa",
-    "stars": 0,
-    "updated_at": "2026-09-08T05:13:40Z",
-    "url": "https://github.com/linmcneil/chinese-medical-rag-qa"
   },
   {
     "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
@@ -70,24 +88,6 @@
     "stars": 31,
     "updated_at": "2026-09-08T05:02:02Z",
     "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T05:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T05:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A localized Retrieval-Augmented Generation (RAG) pipeline optimized for analyzing complex legal corpora across PDF, TXT,",
@@ -256,7 +256,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65757,
+    "stars": 65758,
     "updated_at": "2026-09-08T02:56:50Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
