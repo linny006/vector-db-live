@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-08T21:15:20Z",
+    "updated_at": "2026-09-08T21:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first MCP server for persistent semantic memory, backed by an HNSW vector index and an on-device ONNX embedder",
+    "id": "abho7/mcp-memory-server",
+    "language": "Python",
+    "name": "abho7/mcp-memory-server",
+    "stars": 0,
+    "updated_at": "2026-09-08T21:24:25Z",
+    "url": "https://github.com/abho7/mcp-memory-server"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 31,
+    "updated_at": "2026-09-08T21:30:17Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "HNSW (Hierarchical Navigable Small World) vector index built from scratch in Python/NumPy: no FAISS, no hnswlib. recall@",
+    "id": "abho7/vectordb-hnsw",
+    "language": "Python",
+    "name": "abho7/vectordb-hnsw",
+    "stars": 1,
+    "updated_at": "2026-09-08T21:22:09Z",
+    "url": "https://github.com/abho7/vectordb-hnsw"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-08T21:29:03Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "Zero downtime embedding upgrades",
+    "id": "arnsri33/embedflow",
+    "language": "Python",
+    "name": "arnsri33/embedflow",
+    "stars": 26,
+    "updated_at": "2026-09-08T21:21:47Z",
+    "url": "https://github.com/arnsri33/embedflow"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65796,
+    "updated_at": "2026-09-08T21:20:54Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1885,
+    "updated_at": "2026-09-08T21:16:43Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T21:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1351,
+    "updated_at": "2026-09-08T21:15:05Z",
+    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": "The AI search platform",
@@ -63,15 +144,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T21:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
     "id": "rostamlabs/rostam",
     "language": "Go",
@@ -108,15 +180,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1885,
-    "updated_at": "2026-09-08T21:02:11Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
     "id": "imagodata/filter_mate",
     "language": "Python",
@@ -124,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-09-08T20:48:46Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65796,
-    "updated_at": "2026-09-08T21:15:10Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "",
@@ -324,15 +378,6 @@
     "url": "https://github.com/avnlp/vectordb"
   },
   {
-    "description": "Local-first MCP server for persistent semantic memory, backed by an HNSW vector index and an on-device ONNX embedder",
-    "id": "abho7/mcp-memory-server",
-    "language": "Python",
-    "name": "abho7/mcp-memory-server",
-    "stars": 0,
-    "updated_at": "2026-09-08T18:59:04Z",
-    "url": "https://github.com/abho7/mcp-memory-server"
-  },
-  {
     "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
     "id": "TanNguyen234/VietLex-Tech-Spec",
     "language": "Python",
@@ -391,7 +436,7 @@
     "id": "christopherkarani/Wax",
     "language": "Swift",
     "name": "christopherkarani/Wax",
-    "stars": 788,
+    "stars": 789,
     "updated_at": "2026-09-08T18:19:33Z",
     "url": "https://github.com/christopherkarani/Wax"
   },
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-08T18:19:07Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "HNSW (Hierarchical Navigable Small World) vector index built from scratch in Python/NumPy: no FAISS, no hnswlib. recall@",
-    "id": "abho7/vectordb-hnsw",
-    "language": "Python",
-    "name": "abho7/vectordb-hnsw",
-    "stars": 1,
-    "updated_at": "2026-09-08T18:10:33Z",
-    "url": "https://github.com/abho7/vectordb-hnsw"
-  },
-  {
-    "description": "Versioned vector index with MVCC, snapshot isolation, and branchable agent memory",
-    "id": "mchl-labs/chronovec",
-    "language": "Python",
-    "name": "mchl-labs/chronovec",
-    "stars": 2,
-    "updated_at": "2026-09-08T18:07:36Z",
-    "url": "https://github.com/mchl-labs/chronovec"
-  },
-  {
-    "description": "The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne",
-    "id": "angrysky56/emotion_ai",
-    "language": "Python",
-    "name": "angrysky56/emotion_ai",
-    "stars": 11,
-    "updated_at": "2026-09-08T18:05:20Z",
-    "url": "https://github.com/angrysky56/emotion_ai"
-  },
-  {
-    "description": "A is a high-performance, cloud-native multimodal AI tutor grounding Llama-3.3 in textbook facts via Zilliz Cloud. It del",
-    "id": "Omen-bit/WCEHackathon2026_NeuroNauts",
-    "language": "Python",
-    "name": "Omen-bit/WCEHackathon2026_NeuroNauts",
-    "stars": 2,
-    "updated_at": "2026-09-08T17:59:58Z",
-    "url": "https://github.com/Omen-bit/WCEHackathon2026_NeuroNauts"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-09-08T18:01:24Z",
-    "url": "https://github.com/23skdu/longbow"
   }
 ]
