@@ -1,20 +1,20 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T05:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "SuperInstance/SuperInstance",
+    "stars": 6,
+    "updated_at": "2026-09-08T05:14:17Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
-    "description": "???? RAG ????:Toyhom ???????? + bge-small-zh/Chroma ?? + 8B CareBot(GPU)/Qwen(CPU) ??;?? Hit@1/3/5=86.5%/90.3%/91.1%(100",
+    "description": "\u4e2d\u6587\u533b\u7597\u68c0\u7d22\u589e\u5f3a\u95ee\u7b54\uff08RAG QA\uff09\uff1aToyhom \u533b\u7597\u8bed\u6599\u6e05\u6d17/\u5206\u5757 + bge-small-zh + Chroma \u68c0\u7d22 + 8B CareBot(GPU)/Qwen(CPU) \u751f\u6210\uff0cHit@1/3/5=86.5%/90.3%/91.1",
     "id": "linmcneil/chinese-medical-rag-qa",
     "language": "Python",
     "name": "linmcneil/chinese-medical-rag-qa",
     "stars": 0,
-    "updated_at": "2026-09-08T04:59:55Z",
+    "updated_at": "2026-09-08T05:13:40Z",
     "url": "https://github.com/linmcneil/chinese-medical-rag-qa"
   },
   {
@@ -23,8 +23,71 @@
     "language": "TypeScript",
     "name": "GCTRL-TECH/platform",
     "stars": 7,
-    "updated_at": "2026-09-08T04:56:29Z",
+    "updated_at": "2026-09-08T05:12:41Z",
     "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1884,
+    "updated_at": "2026-09-08T05:10:54Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 7,
+    "updated_at": "2026-09-08T05:12:16Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-08T05:09:10Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
+    "id": "inlaySQL/inlaysql",
+    "language": "Rust",
+    "name": "inlaySQL/inlaysql",
+    "stars": 2,
+    "updated_at": "2026-09-08T05:04:27Z",
+    "url": "https://github.com/inlaySQL/inlaysql"
+  },
+  {
+    "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
+    "id": "Angular2Guy/AIDocumentLibraryChat",
+    "language": "Java",
+    "name": "Angular2Guy/AIDocumentLibraryChat",
+    "stars": 31,
+    "updated_at": "2026-09-08T05:02:02Z",
+    "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T05:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-08T05:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A localized Retrieval-Augmented Generation (RAG) pipeline optimized for analyzing complex legal corpora across PDF, TXT,",
@@ -36,15 +99,6 @@
     "url": "https://github.com/nithansantiago021/Legal_AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T04:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Multi-tenant RAG platform for enterprise documents: ingests 19 file extensions with automatic Tesseract OCR for scans, t",
     "id": "dhanoliya-ji/DocMinds",
     "language": "Python",
@@ -52,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T04:42:28Z",
     "url": "https://github.com/dhanoliya-ji/DocMinds"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-08T04:37:52Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
@@ -90,15 +135,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 7,
-    "updated_at": "2026-09-08T04:52:39Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -113,7 +149,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-08T04:39:38Z",
+    "updated_at": "2026-09-08T05:12:50Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -121,7 +157,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 2976,
+    "stars": 2977,
     "updated_at": "2026-09-08T04:08:39Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -162,15 +198,6 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1884,
-    "updated_at": "2026-09-08T03:47:50Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
     "id": "EVEDensity/AgentHub",
     "language": "Python",
@@ -178,15 +205,6 @@
     "stars": 26,
     "updated_at": "2026-09-08T03:37:58Z",
     "url": "https://github.com/EVEDensity/AgentHub"
-  },
-  {
-    "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
-    "id": "inlaySQL/inlaysql",
-    "language": "Rust",
-    "name": "inlaySQL/inlaysql",
-    "stars": 2,
-    "updated_at": "2026-09-08T03:11:52Z",
-    "url": "https://github.com/inlaySQL/inlaysql"
   },
   {
     "description": "A simple, fast and versatile Datalog database",
@@ -257,7 +275,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34433,
-    "updated_at": "2026-09-08T02:45:06Z",
+    "updated_at": "2026-09-08T05:05:36Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -382,7 +400,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15844,
+    "stars": 15845,
     "updated_at": "2026-09-08T01:49:53Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -400,7 +418,7 @@
     "id": "arnsri33/embedflow",
     "language": "Python",
     "name": "arnsri33/embedflow",
-    "stars": 7,
+    "stars": 9,
     "updated_at": "2026-09-08T01:36:27Z",
     "url": "https://github.com/arnsri33/embedflow"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-08T01:22:00Z",
     "url": "https://github.com/nenedesign/nenedesign"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8188,
-    "updated_at": "2026-09-08T04:14:25Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "AI Native Vector and Full-text engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 1,
-    "updated_at": "2026-09-08T01:04:46Z",
-    "url": "https://github.com/A3S-Lab/Vec"
   }
 ]
