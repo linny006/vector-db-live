@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-08T03:15:20Z",
+    "updated_at": "2026-09-08T03:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 2973,
+    "updated_at": "2026-09-08T03:29:20Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1884,
+    "updated_at": "2026-09-08T03:20:10Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T03:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-08T03:01:30Z",
     "url": "https://github.com/ictechgy/vecdiff"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T03:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local memory + semantic search for AI agents. Indexes code and documents on your machine, queryable via MCP. Private, of",
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-08T03:09:27Z",
+    "updated_at": "2026-09-08T03:30:04Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -270,15 +288,6 @@
     "url": "https://github.com/alibaba/zvec"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1884,
-    "updated_at": "2026-09-08T01:48:20Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -292,7 +301,7 @@
     "id": "arnsri33/embedflow",
     "language": "Python",
     "name": "arnsri33/embedflow",
-    "stars": 4,
+    "stars": 5,
     "updated_at": "2026-09-08T01:36:27Z",
     "url": "https://github.com/arnsri33/embedflow"
   },
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-07T23:55:23Z",
     "url": "https://github.com/tryAGI/Pinecone"
-  },
-  {
-    "description": "",
-    "id": "abdullahqureshi27/resolvdesk",
-    "language": "TypeScript",
-    "name": "abdullahqureshi27/resolvdesk",
-    "stars": 0,
-    "updated_at": "2026-09-07T23:53:56Z",
-    "url": "https://github.com/abdullahqureshi27/resolvdesk"
   }
 ]
