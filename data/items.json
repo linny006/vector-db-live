@@ -1,12 +1,93 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T11:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-09-09T11:23:28Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-09-09T11:23:16Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-09-09T11:22:41Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "This is the source code of the Weaviate vector store implementation for the RAG abstraction in Ballerina",
+    "id": "ballerina-platform/module-ballerinax-ai.weaviate",
+    "language": "Ballerina",
+    "name": "ballerina-platform/module-ballerinax-ai.weaviate",
+    "stars": 0,
+    "updated_at": "2026-09-09T11:27:16Z",
+    "url": "https://github.com/ballerina-platform/module-ballerinax-ai.weaviate"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1901,
+    "updated_at": "2026-09-09T11:18:08Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "This is the source code of the Milvus vector store implementation for the RAG abstraction in Ballerina",
+    "id": "ballerina-platform/module-ballerinax-ai.milvus",
+    "language": "Ballerina",
+    "name": "ballerina-platform/module-ballerinax-ai.milvus",
+    "stars": 0,
+    "updated_at": "2026-09-09T11:17:59Z",
+    "url": "https://github.com/ballerina-platform/module-ballerinax-ai.milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-09T11:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 8,
-    "updated_at": "2026-09-09T11:13:38Z",
+    "updated_at": "2026-09-09T11:30:07Z",
     "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34456,
+    "updated_at": "2026-09-09T11:27:15Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "The AI search platform",
@@ -14,7 +95,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7078,
-    "updated_at": "2026-09-09T11:09:35Z",
+    "updated_at": "2026-09-09T11:29:48Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -41,7 +122,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 91,
-    "updated_at": "2026-09-09T11:06:10Z",
+    "updated_at": "2026-09-09T11:21:43Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -50,26 +131,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16795,
-    "updated_at": "2026-09-09T11:14:27Z",
+    "updated_at": "2026-09-09T11:27:47Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-09T11:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T11:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
@@ -104,7 +167,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30610,
-    "updated_at": "2026-09-09T11:08:14Z",
+    "updated_at": "2026-09-09T11:28:45Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -158,7 +221,7 @@
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-09-09T11:14:46Z",
+    "updated_at": "2026-09-09T11:25:55Z",
     "url": "https://github.com/vanedb/vanedb"
   },
   {
@@ -257,17 +320,8 @@
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1351,
-    "updated_at": "2026-09-09T10:02:27Z",
+    "updated_at": "2026-09-09T11:30:22Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34455,
-    "updated_at": "2026-09-09T11:13:27Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "MCP Server with Role-Based Access Control for Educational Content - Diploma Thesis",
@@ -347,7 +401,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4435,
-    "updated_at": "2026-09-09T11:03:21Z",
+    "updated_at": "2026-09-09T11:22:58Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -364,7 +418,7 @@
     "id": "giancarloerra/SocratiCode",
     "language": "TypeScript",
     "name": "giancarloerra/SocratiCode",
-    "stars": 3293,
+    "stars": 3292,
     "updated_at": "2026-09-09T09:07:55Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
@@ -394,59 +448,5 @@
     "stars": 2091,
     "updated_at": "2026-09-09T10:20:28Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-09T08:44:32Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "A comprehensive exploration and implementation guide for LangChain and LangGraph frameworks, covering fundamental concep",
-    "id": "Sandeep-singh-99/langchain-and-langgraph",
-    "language": "Jupyter Notebook",
-    "name": "Sandeep-singh-99/langchain-and-langgraph",
-    "stars": 2,
-    "updated_at": "2026-09-09T08:42:34Z",
-    "url": "https://github.com/Sandeep-singh-99/langchain-and-langgraph"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-09T08:38:35Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9434,
-    "updated_at": "2026-09-09T11:03:14Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 255,
-    "updated_at": "2026-09-09T08:29:15Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3027,
-    "updated_at": "2026-09-09T08:28:01Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   }
 ]
