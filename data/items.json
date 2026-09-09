@@ -1,5 +1,167 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 86,
+    "updated_at": "2026-09-09T12:00:10Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
+    "id": "Deafened-vascularstructure846/pageindex-rag",
+    "language": "Python",
+    "name": "Deafened-vascularstructure846/pageindex-rag",
+    "stars": 1,
+    "updated_at": "2026-09-09T11:56:10Z",
+    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-09T11:53:52Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "An autonomous self-learning AI agent with persistent vector memory using Groq, Qdrant, and Sentence Transformers.",
+    "id": "fahimmm0786-ai/self-learning-memory-agent",
+    "language": "Python",
+    "name": "fahimmm0786-ai/self-learning-memory-agent",
+    "stars": 0,
+    "updated_at": "2026-09-09T11:53:14Z",
+    "url": "https://github.com/fahimmm0786-ai/self-learning-memory-agent"
+  },
+  {
+    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
+    "id": "Uncomfortable-filagree112/OpenViking",
+    "language": "\u2014",
+    "name": "Uncomfortable-filagree112/OpenViking",
+    "stars": 0,
+    "updated_at": "2026-09-09T11:53:05Z",
+    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
+  },
+  {
+    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
+    "id": "cornellebivalved856/example-multimodal-rag",
+    "language": "Python",
+    "name": "cornellebivalved856/example-multimodal-rag",
+    "stars": 0,
+    "updated_at": "2026-09-09T11:52:47Z",
+    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
+  },
+  {
+    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
+    "id": "Boney-massiveness357/ragscope",
+    "language": "Python",
+    "name": "Boney-massiveness357/ragscope",
+    "stars": 0,
+    "updated_at": "2026-09-09T11:52:19Z",
+    "url": "https://github.com/Boney-massiveness357/ragscope"
+  },
+  {
+    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
+    "id": "conceited-watergillyflower311/meilisearch-desktop",
+    "language": "TypeScript",
+    "name": "conceited-watergillyflower311/meilisearch-desktop",
+    "stars": 1,
+    "updated_at": "2026-09-09T11:52:04Z",
+    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
+  },
+  {
+    "description": "This is the source code of the Weaviate vector store implementation for the RAG abstraction in Ballerina",
+    "id": "ballerina-platform/module-ballerinax-ai.weaviate",
+    "language": "Ballerina",
+    "name": "ballerina-platform/module-ballerinax-ai.weaviate",
+    "stars": 0,
+    "updated_at": "2026-09-09T11:51:40Z",
+    "url": "https://github.com/ballerina-platform/module-ballerinax-ai.weaviate"
+  },
+  {
+    "description": "English/Vietnamese semantic search with Node.js, Hono, Qdrant, and Qwen3-Embedding-4B \u2014 reproducible 20K open-geography ",
+    "id": "dangkhoa2016/Nodejs-Qdrant-Bilingual-Search",
+    "language": "JavaScript",
+    "name": "dangkhoa2016/Nodejs-Qdrant-Bilingual-Search",
+    "stars": 0,
+    "updated_at": "2026-09-09T11:50:25Z",
+    "url": "https://github.com/dangkhoa2016/Nodejs-Qdrant-Bilingual-Search"
+  },
+  {
+    "description": "This is the source code of the Milvus vector store implementation for the RAG abstraction in Ballerina",
+    "id": "ballerina-platform/module-ballerinax-ai.milvus",
+    "language": "Ballerina",
+    "name": "ballerina-platform/module-ballerinax-ai.milvus",
+    "stars": 0,
+    "updated_at": "2026-09-09T11:50:21Z",
+    "url": "https://github.com/ballerina-platform/module-ballerinax-ai.milvus"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 855,
+    "updated_at": "2026-09-09T11:49:57Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
+    "id": "FIRE-hub911/citation-assistant",
+    "language": "Shell",
+    "name": "FIRE-hub911/citation-assistant",
+    "stars": 3,
+    "updated_at": "2026-09-09T11:49:00Z",
+    "url": "https://github.com/FIRE-hub911/citation-assistant"
+  },
+  {
+    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
+    "id": "K3Tamaa/Vector-Forge",
+    "language": "\u2014",
+    "name": "K3Tamaa/Vector-Forge",
+    "stars": 0,
+    "updated_at": "2026-09-09T11:48:12Z",
+    "url": "https://github.com/K3Tamaa/Vector-Forge"
+  },
+  {
+    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
+    "id": "sshisto/mnemo-mcp",
+    "language": "Python",
+    "name": "sshisto/mnemo-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-09T11:46:47Z",
+    "url": "https://github.com/sshisto/mnemo-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
+    "id": "sen-igga/IndexGPT",
+    "language": "JavaScript",
+    "name": "sen-igga/IndexGPT",
+    "stars": 2,
+    "updated_at": "2026-09-09T11:46:46Z",
+    "url": "https://github.com/sen-igga/IndexGPT"
+  },
+  {
+    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
+    "id": "Zopze/TV-Show-Recommender-AI",
+    "language": "Python",
+    "name": "Zopze/TV-Show-Recommender-AI",
+    "stars": 1,
+    "updated_at": "2026-09-09T11:46:17Z",
+    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-09T11:45:44Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +169,24 @@
     "stars": 3,
     "updated_at": "2026-09-09T11:45:30Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
+    "id": "mirkobozzetto/flowflow",
+    "language": "Rust",
+    "name": "mirkobozzetto/flowflow",
+    "stars": 168,
+    "updated_at": "2026-09-09T11:48:23Z",
+    "url": "https://github.com/mirkobozzetto/flowflow"
+  },
+  {
+    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
+    "id": "Ojcalzada/pulsepoint-RAG",
+    "language": "Python",
+    "name": "Ojcalzada/pulsepoint-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-09T11:43:46Z",
+    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
   },
   {
     "description": "Embeddable vector database for edge AI",
@@ -25,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-09-09T11:42:56Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-09T11:42:50Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -122,7 +293,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16796,
-    "updated_at": "2026-09-09T11:44:02Z",
+    "updated_at": "2026-09-09T11:50:00Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -198,15 +369,6 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "This is the source code of the Weaviate vector store implementation for the RAG abstraction in Ballerina",
-    "id": "ballerina-platform/module-ballerinax-ai.weaviate",
-    "language": "Ballerina",
-    "name": "ballerina-platform/module-ballerinax-ai.weaviate",
-    "stars": 0,
-    "updated_at": "2026-09-09T11:27:16Z",
-    "url": "https://github.com/ballerina-platform/module-ballerinax-ai.weaviate"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -214,15 +376,6 @@
     "stars": 1901,
     "updated_at": "2026-09-09T11:18:08Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "This is the source code of the Milvus vector store implementation for the RAG abstraction in Ballerina",
-    "id": "ballerina-platform/module-ballerinax-ai.milvus",
-    "language": "Ballerina",
-    "name": "ballerina-platform/module-ballerinax-ai.milvus",
-    "stars": 0,
-    "updated_at": "2026-09-09T11:37:36Z",
-    "url": "https://github.com/ballerina-platform/module-ballerinax-ai.milvus"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -293,160 +446,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30610,
-    "updated_at": "2026-09-09T11:45:17Z",
+    "updated_at": "2026-09-09T11:52:22Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-09T10:50:47Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 870,
-    "updated_at": "2026-09-09T10:42:26Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1140,
-    "updated_at": "2026-09-09T10:37:22Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
-    "id": "Parth-2004/Historical-AI-Assistant",
-    "language": "Python",
-    "name": "Parth-2004/Historical-AI-Assistant",
-    "stars": 1,
-    "updated_at": "2026-09-09T10:37:06Z",
-    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6416,
-    "updated_at": "2026-09-09T10:30:39Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1885,
-    "updated_at": "2026-09-09T11:09:57Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 86,
-    "updated_at": "2026-09-09T10:20:22Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13056,
-    "updated_at": "2026-09-09T10:24:50Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-09T10:16:02Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Official Weaviate TypeScript Client",
-    "id": "weaviate/typescript-client",
-    "language": "TypeScript",
-    "name": "weaviate/typescript-client",
-    "stars": 101,
-    "updated_at": "2026-09-09T10:15:33Z",
-    "url": "https://github.com/weaviate/typescript-client"
-  },
-  {
-    "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials",
-    "id": "vasu-devs/JustHireMe",
-    "language": "Python",
-    "name": "vasu-devs/JustHireMe",
-    "stars": 2243,
-    "updated_at": "2026-09-09T10:07:39Z",
-    "url": "https://github.com/vasu-devs/JustHireMe"
-  },
-  {
-    "description": "Python client for Qdrant vector search engine",
-    "id": "qdrant/qdrant-client",
-    "language": "Python",
-    "name": "qdrant/qdrant-client",
-    "stars": 1356,
-    "updated_at": "2026-09-09T10:04:48Z",
-    "url": "https://github.com/qdrant/qdrant-client"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 855,
-    "updated_at": "2026-09-09T11:40:43Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "MCP Server with Role-Based Access Control for Educational Content - Diploma Thesis",
-    "id": "Imre7777/mcp-diploma-thesis-final",
-    "language": "Python",
-    "name": "Imre7777/mcp-diploma-thesis-final",
-    "stars": 0,
-    "updated_at": "2026-09-09T09:59:42Z",
-    "url": "https://github.com/Imre7777/mcp-diploma-thesis-final"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59228,
-    "updated_at": "2026-09-09T09:51:37Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 79,
-    "updated_at": "2026-09-09T10:46:28Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
-    "id": "qdrant/skills",
-    "language": "Python",
-    "name": "qdrant/skills",
-    "stars": 231,
-    "updated_at": "2026-09-09T09:38:51Z",
-    "url": "https://github.com/qdrant/skills"
   }
 ]
