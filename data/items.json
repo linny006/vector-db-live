@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T06:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 3020,
+    "updated_at": "2026-09-09T05:59:17Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 79,
+    "updated_at": "2026-09-09T05:58:06Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1618,
+    "updated_at": "2026-09-09T05:51:47Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-09-09T05:50:03Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7078,
+    "updated_at": "2026-09-09T05:46:47Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-09T05:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials",
     "id": "vasu-devs/JustHireMe",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1885,
-    "updated_at": "2026-09-09T05:36:34Z",
+    "updated_at": "2026-09-09T05:51:57Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -34,24 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T05:33:45Z",
     "url": "https://github.com/Harsh28Pandey/think-flow"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-09T05:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T05:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -88,15 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T05:23:45Z",
     "url": "https://github.com/threefigure-achromia682/ai-memory"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 79,
-    "updated_at": "2026-09-09T05:23:25Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
@@ -248,7 +284,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 8,
-    "updated_at": "2026-09-09T05:43:10Z",
+    "updated_at": "2026-09-09T06:00:22Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Python",
     "name": "irtazirfan08-source/VectorCore",
     "stars": 0,
-    "updated_at": "2026-09-09T05:05:26Z",
+    "updated_at": "2026-09-09T05:58:37Z",
     "url": "https://github.com/irtazirfan08-source/VectorCore"
   },
   {
@@ -329,7 +365,7 @@
     "language": "Rust",
     "name": "kannaka-labs/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-09-09T05:01:56Z",
+    "updated_at": "2026-09-09T05:51:41Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-09T04:51:09Z",
     "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-09-09T04:48:26Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 238,
-    "updated_at": "2026-09-09T05:32:35Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 58,
-    "updated_at": "2026-09-09T04:43:38Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7078,
-    "updated_at": "2026-09-09T04:43:10Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
