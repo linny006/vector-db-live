@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T09:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 86,
+    "updated_at": "2026-09-09T09:00:17Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 34,
+    "updated_at": "2026-09-09T08:55:48Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46032,
+    "updated_at": "2026-09-09T08:55:28Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 4,
+    "updated_at": "2026-09-09T08:55:16Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1885,
+    "updated_at": "2026-09-09T09:00:01Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13056,
+    "updated_at": "2026-09-09T08:49:04Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2091,
+    "updated_at": "2026-09-09T08:45:52Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-09T08:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-09T08:44:32Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
     "description": "A comprehensive exploration and implementation guide for LangChain and LangGraph frameworks, covering fundamental concep",
     "id": "Sandeep-singh-99/langchain-and-langgraph",
     "language": "Jupyter Notebook",
@@ -45,13 +135,13 @@
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13056,
-    "updated_at": "2026-09-09T08:35:45Z",
-    "url": "https://github.com/langchain4j/langchain4j"
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59226,
+    "updated_at": "2026-09-09T08:36:29Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -72,24 +162,6 @@
     "url": "https://github.com/Cognipeer/console"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-09T08:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T08:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
     "id": "liliang-cn/cortexdb",
     "language": "Go",
@@ -99,21 +171,12 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46032,
-    "updated_at": "2026-09-09T08:28:12Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 91,
-    "updated_at": "2026-09-09T08:44:23Z",
+    "updated_at": "2026-09-09T08:55:58Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -153,6 +216,15 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34453,
+    "updated_at": "2026-09-09T08:05:59Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "An open-source implementation of ToC-Aware RAG inspired by IBM's STAIR paper. Preserves document hierarchy for structure",
     "id": "Eyna-A/STAIR-ToC-RAG",
     "language": "\u2014",
@@ -189,21 +261,12 @@
     "url": "https://github.com/dangkhoa2016/Nodejs-Qdrant-Bilingual-Search"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 86,
-    "updated_at": "2026-09-09T07:39:00Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7078,
-    "updated_at": "2026-09-09T08:43:33Z",
+    "updated_at": "2026-09-09T08:48:58Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -257,7 +320,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4435,
-    "updated_at": "2026-09-09T08:38:30Z",
+    "updated_at": "2026-09-09T08:58:34Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -274,7 +337,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15862,
+    "stars": 15863,
     "updated_at": "2026-09-09T07:06:04Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -302,7 +365,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6416,
-    "updated_at": "2026-09-09T08:30:52Z",
+    "updated_at": "2026-09-09T08:47:46Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -347,17 +410,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8193,
-    "updated_at": "2026-09-09T08:22:16Z",
+    "updated_at": "2026-09-09T08:50:59Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1885,
-    "updated_at": "2026-09-09T08:36:52Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
@@ -394,59 +448,5 @@
     "stars": 94,
     "updated_at": "2026-09-09T06:07:29Z",
     "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
-  },
-  {
-    "description": "RAG configuration and documentation toolkit addressing 10 common pitfalls in production RAG systems",
-    "id": "0xddekaee/ragged",
-    "language": "\u2014",
-    "name": "0xddekaee/ragged",
-    "stars": 0,
-    "updated_at": "2026-09-09T06:04:55Z",
-    "url": "https://github.com/0xddekaee/ragged"
-  },
-  {
-    "description": "Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25 ",
-    "id": "GoodbyePlanet/semcode",
-    "language": "Python",
-    "name": "GoodbyePlanet/semcode",
-    "stars": 7,
-    "updated_at": "2026-09-09T06:01:43Z",
-    "url": "https://github.com/GoodbyePlanet/semcode"
-  },
-  {
-    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-09-09T05:50:03Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
-    "description": "Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials",
-    "id": "vasu-devs/JustHireMe",
-    "language": "Python",
-    "name": "vasu-devs/JustHireMe",
-    "stars": 2244,
-    "updated_at": "2026-09-09T05:36:51Z",
-    "url": "https://github.com/vasu-devs/JustHireMe"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6235,
-    "updated_at": "2026-09-09T08:36:29Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Think Flow is an intelligent agent platform built with LangGraph and LangChain for automated reasoning, workflows, and A",
-    "id": "Harsh28Pandey/think-flow",
-    "language": "JavaScript",
-    "name": "Harsh28Pandey/think-flow",
-    "stars": 1,
-    "updated_at": "2026-09-09T05:33:45Z",
-    "url": "https://github.com/Harsh28Pandey/think-flow"
   }
 ]
