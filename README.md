@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-09 06:15 UTC
+> ⏰ Last updated: 2026-09-09 06:23 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-09 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [SharmaAtul12/Gen-AI](https://github.com/SharmaAtul12/Gen-AI) | 1 | JavaScript | 2026-09-09 | 🚀 Hands-on GenAI engineering — prompt engineering, RAG pipelines, and production-ready AI agents with tool-calling & mul |
-| 3 | [bobaba76/Argos](https://github.com/bobaba76/Argos) | 8 | Python | 2026-09-09 | Local-first persistent memory for AI agents — hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa |
-| 4 | [irtazirfan08-source/VectorCore](https://github.com/irtazirfan08-source/VectorCore) | 0 | Python | 2026-09-09 | Lightweight approximate nearest neighbor (ANN) vector search engine and embedding indexing pipeline. |
-| 5 | [alibaba/zvec](https://github.com/alibaba/zvec) | 15859 | C++ | 2026-09-09 | A lightweight, lightning-fast, in-process vector database |
-| 6 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-09 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 7 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1618 | Python | 2026-09-09 | The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file. |
-| 8 | [aws-samples/sample-genai-on-eks-starter-kit](https://github.com/aws-samples/sample-genai-on-eks-starter-kit) | 94 | JavaScript | 2026-09-09 | A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur |
-| 9 | [0xddekaee/ragged](https://github.com/0xddekaee/ragged) | 0 | — | 2026-09-09 | RAG configuration and documentation toolkit addressing 10 common pitfalls in production RAG systems |
-| 10 | [GoodbyePlanet/semcode](https://github.com/GoodbyePlanet/semcode) | 7 | Python | 2026-09-09 | Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25  |
-| 11 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-09 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 12 | [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) | 3021 | Python | 2026-09-09 | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. |
-| 13 | [infino-ai/infino](https://github.com/infino-ai/infino) | 79 | Rust | 2026-09-09 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
-| 14 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35587 | Python | 2026-09-09 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
-| 15 | [TanNguyen234/VietLex-Tech-Spec](https://github.com/TanNguyen234/VietLex-Tech-Spec) | 0 | Python | 2026-09-09 | Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation. |
-| 16 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7078 | Java | 2026-09-09 | The AI search platform |
-| 17 | [crate/crate](https://github.com/crate/crate) | 4435 | Java | 2026-09-09 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
-| 18 | [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe) | 2244 | Python | 2026-09-09 | Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials |
-| 19 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1885 | Go | 2026-09-09 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 20 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-09 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 1 | [SharmaAtul12/Gen-AI](https://github.com/SharmaAtul12/Gen-AI) | 1 | JavaScript | 2026-09-09 | 🚀 Hands-on GenAI engineering — prompt engineering, RAG pipelines, and production-ready AI agents with tool-calling & mul |
+| 2 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1885 | Go | 2026-09-09 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-09 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-09 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-09 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 6 | [bobaba76/Argos](https://github.com/bobaba76/Argos) | 8 | Python | 2026-09-09 | Local-first persistent memory for AI agents — hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa |
+| 7 | [irtazirfan08-source/VectorCore](https://github.com/irtazirfan08-source/VectorCore) | 0 | Python | 2026-09-09 | Lightweight approximate nearest neighbor (ANN) vector search engine and embedding indexing pipeline. |
+| 8 | [alibaba/zvec](https://github.com/alibaba/zvec) | 15859 | C++ | 2026-09-09 | A lightweight, lightning-fast, in-process vector database |
+| 9 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-09 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 10 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1618 | Python | 2026-09-09 | The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file. |
+| 11 | [aws-samples/sample-genai-on-eks-starter-kit](https://github.com/aws-samples/sample-genai-on-eks-starter-kit) | 94 | JavaScript | 2026-09-09 | A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur |
+| 12 | [0xddekaee/ragged](https://github.com/0xddekaee/ragged) | 0 | — | 2026-09-09 | RAG configuration and documentation toolkit addressing 10 common pitfalls in production RAG systems |
+| 13 | [GoodbyePlanet/semcode](https://github.com/GoodbyePlanet/semcode) | 7 | Python | 2026-09-09 | Semantic code-search (semcode) MCP. Indexes code symbols and commit history. Combines dense embeddings with sparse BM25  |
+| 14 | [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) | 3021 | Python | 2026-09-09 | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. |
+| 15 | [infino-ai/infino](https://github.com/infino-ai/infino) | 79 | Rust | 2026-09-09 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
+| 16 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 35587 | Python | 2026-09-09 | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG |
+| 17 | [TanNguyen234/VietLex-Tech-Spec](https://github.com/TanNguyen234/VietLex-Tech-Spec) | 0 | Python | 2026-09-09 | Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation. |
+| 18 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7078 | Java | 2026-09-09 | The AI search platform |
+| 19 | [crate/crate](https://github.com/crate/crate) | 4435 | Java | 2026-09-09 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
+| 20 | [vasu-devs/JustHireMe](https://github.com/vasu-devs/JustHireMe) | 2244 | Python | 2026-09-09 | Local-first AI job intelligence workbench for scraping roles, ranking fit, and generating tailored application materials |
 | 21 | [Harsh28Pandey/think-flow](https://github.com/Harsh28Pandey/think-flow) | 1 | JavaScript | 2026-09-09 | Think Flow is an intelligent agent platform built with LangGraph and LangChain for automated reasoning, workflows, and A |
 | 22 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-09 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 23 | [Constraintworthy6058/ai-github-repository-assistant](https://github.com/Constraintworthy6058/ai-github-repository-assistant) | 0 | TypeScript | 2026-09-09 | Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits—no cloud |
