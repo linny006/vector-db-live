@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-09T09:45:20Z",
+    "updated_at": "2026-09-09T10:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MCP Server with Role-Based Access Control for Educational Content - Diploma Thesis",
+    "id": "Imre7777/mcp-diploma-thesis-final",
+    "language": "Python",
+    "name": "Imre7777/mcp-diploma-thesis-final",
+    "stars": 0,
+    "updated_at": "2026-09-09T09:59:42Z",
+    "url": "https://github.com/Imre7777/mcp-diploma-thesis-final"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-09T09:55:20Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 86,
+    "updated_at": "2026-09-09T09:55:19Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 79,
+    "updated_at": "2026-09-09T09:51:23Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 91,
+    "updated_at": "2026-09-09T09:47:56Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13056,
+    "updated_at": "2026-09-09T09:51:09Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1885,
+    "updated_at": "2026-09-09T09:46:07Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-09T09:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The AI search platform",
@@ -18,15 +90,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1885,
-    "updated_at": "2026-09-09T09:39:30Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
     "id": "qdrant/skills",
     "language": "Python",
@@ -34,6 +97,15 @@
     "stars": 231,
     "updated_at": "2026-09-09T09:38:51Z",
     "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30611,
+    "updated_at": "2026-09-09T09:38:02Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -72,13 +144,13 @@
     "url": "https://github.com/xbsheng/ai-from-scratch"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-09T09:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16795,
+    "updated_at": "2026-09-09T09:48:59Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -86,53 +158,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 8,
-    "updated_at": "2026-09-09T09:39:52Z",
+    "updated_at": "2026-09-09T09:50:28Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 86,
-    "updated_at": "2026-09-09T09:28:58Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13056,
-    "updated_at": "2026-09-09T09:28:01Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 79,
-    "updated_at": "2026-09-09T09:26:30Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "MCP Server with Role-Based Access Control for Educational Content - Diploma Thesis",
-    "id": "Imre7777/mcp-diploma-thesis-final",
-    "language": "Python",
-    "name": "Imre7777/mcp-diploma-thesis-final",
-    "stars": 0,
-    "updated_at": "2026-09-09T09:21:42Z",
-    "url": "https://github.com/Imre7777/mcp-diploma-thesis-final"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 91,
-    "updated_at": "2026-09-09T09:29:28Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -140,7 +167,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34453,
-    "updated_at": "2026-09-09T09:39:25Z",
+    "updated_at": "2026-09-09T09:59:55Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4435,
-    "updated_at": "2026-09-09T09:43:32Z",
+    "updated_at": "2026-09-09T09:52:24Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -185,7 +212,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59226,
-    "updated_at": "2026-09-09T09:39:54Z",
+    "updated_at": "2026-09-09T09:51:37Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -212,7 +239,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46032,
-    "updated_at": "2026-09-09T09:31:28Z",
+    "updated_at": "2026-09-09T09:59:17Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -230,7 +257,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2091,
-    "updated_at": "2026-09-09T09:14:02Z",
+    "updated_at": "2026-09-09T09:58:24Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -252,15 +279,6 @@
     "url": "https://github.com/Sandeep-singh-99/langchain-and-langgraph"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30610,
-    "updated_at": "2026-09-09T09:38:02Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -275,7 +293,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-09T09:39:15Z",
+    "updated_at": "2026-09-09T09:54:23Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -373,7 +391,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35590,
+    "stars": 35591,
     "updated_at": "2026-09-09T07:32:08Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -428,25 +446,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6416,
-    "updated_at": "2026-09-09T09:41:17Z",
+    "updated_at": "2026-09-09T09:46:35Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Lightweight approximate nearest neighbor (ANN) vector search engine and embedding indexing pipeline.",
-    "id": "irtazirfan08-source/VectorCore",
-    "language": "Python",
-    "name": "irtazirfan08-source/VectorCore",
-    "stars": 0,
-    "updated_at": "2026-09-09T06:31:50Z",
-    "url": "https://github.com/irtazirfan08-source/VectorCore"
-  },
-  {
-    "description": "The only Java AI framework with a complete Dev \u2192 Test \u2192 Prod prompt lifecycle, featuring multi-agent orchestration and b",
-    "id": "driftkit-ai/driftkit-framework",
-    "language": "Java",
-    "name": "driftkit-ai/driftkit-framework",
-    "stars": 49,
-    "updated_at": "2026-09-09T06:31:38Z",
-    "url": "https://github.com/driftkit-ai/driftkit-framework"
   }
 ]
