@@ -1,12 +1,39 @@
 [
   {
-    "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
-    "id": "Yigtwxx/OracleX",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-09-09T10:28:26Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T10:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5890,
+    "updated_at": "2026-09-09T10:43:26Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 870,
+    "updated_at": "2026-09-09T10:42:26Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30611,
+    "updated_at": "2026-09-09T10:43:39Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -14,7 +41,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 8,
-    "updated_at": "2026-09-09T10:30:08Z",
+    "updated_at": "2026-09-09T10:43:59Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -23,8 +50,62 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1140,
-    "updated_at": "2026-09-09T10:26:27Z",
+    "updated_at": "2026-09-09T10:37:22Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
+    "id": "Parth-2004/Historical-AI-Assistant",
+    "language": "Python",
+    "name": "Parth-2004/Historical-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-09-09T10:37:06Z",
+    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-09T10:36:32Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 23,
+    "updated_at": "2026-09-09T10:34:53Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-09T10:42:03Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-09T10:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-09-09T10:28:26Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -81,33 +162,6 @@
     "url": "https://github.com/weaviate/typescript-client"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-09T10:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T10:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-09T10:10:55Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
     "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
     "id": "d3uceY/vectile",
     "language": "Go",
@@ -115,15 +169,6 @@
     "stars": 3,
     "updated_at": "2026-09-09T10:09:19Z",
     "url": "https://github.com/d3uceY/vectile"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-09T10:08:51Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Python client for Qdrant vector search engine",
@@ -166,8 +211,8 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34454,
-    "updated_at": "2026-09-09T09:59:55Z",
+    "stars": 34455,
+    "updated_at": "2026-09-09T10:40:27Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -178,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-09-09T09:59:42Z",
     "url": "https://github.com/Imre7777/mcp-diploma-thesis-final"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59227,
+    "updated_at": "2026-09-09T09:51:37Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -196,15 +250,6 @@
     "stars": 231,
     "updated_at": "2026-09-09T09:38:51Z",
     "url": "https://github.com/qdrant/skills"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30611,
-    "updated_at": "2026-09-09T10:30:14Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "CrateDB provider for LangChain.",
@@ -239,7 +284,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16795,
-    "updated_at": "2026-09-09T10:28:08Z",
+    "updated_at": "2026-09-09T10:35:55Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -277,24 +322,6 @@
     "stars": 3293,
     "updated_at": "2026-09-09T09:07:55Z",
     "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59226,
-    "updated_at": "2026-09-09T09:51:37Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
-    "id": "CodeAbra/iai-personal-memory-engine",
-    "language": "Python",
-    "name": "CodeAbra/iai-personal-memory-engine",
-    "stars": 870,
-    "updated_at": "2026-09-09T08:58:15Z",
-    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
   },
   {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
@@ -365,17 +392,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-09T10:25:10Z",
+    "updated_at": "2026-09-09T10:32:52Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 23,
-    "updated_at": "2026-09-09T10:29:55Z",
-    "url": "https://github.com/Cognipeer/console"
   },
   {
     "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
@@ -401,7 +419,7 @@
     "language": "TypeScript",
     "name": "PunGrumpy/vecstore-sdk",
     "stars": 1,
-    "updated_at": "2026-09-09T10:30:13Z",
+    "updated_at": "2026-09-09T10:40:52Z",
     "url": "https://github.com/PunGrumpy/vecstore-sdk"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2292,
     "updated_at": "2026-09-09T08:00:51Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-09T07:52:08Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11386,
-    "updated_at": "2026-09-09T07:33:05Z",
-    "url": "https://github.com/lancedb/lancedb"
   }
 ]
