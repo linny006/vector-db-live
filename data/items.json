@@ -1,12 +1,102 @@
 [
   {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-09T10:10:55Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 3,
+    "updated_at": "2026-09-09T10:09:19Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-09T10:08:51Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Python client for Qdrant vector search engine",
+    "id": "qdrant/qdrant-client",
+    "language": "Python",
+    "name": "qdrant/qdrant-client",
+    "stars": 1356,
+    "updated_at": "2026-09-09T10:04:48Z",
+    "url": "https://github.com/qdrant/qdrant-client"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 855,
+    "updated_at": "2026-09-09T10:03:55Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1351,
+    "updated_at": "2026-09-09T10:02:27Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 91,
+    "updated_at": "2026-09-09T10:09:23Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 86,
+    "updated_at": "2026-09-09T10:01:11Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-09T10:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-09T10:00:23Z",
+    "updated_at": "2026-09-09T10:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34454,
+    "updated_at": "2026-09-09T09:59:55Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "MCP Server with Role-Based Access Control for Educational Content - Diploma Thesis",
@@ -18,24 +108,6 @@
     "url": "https://github.com/Imre7777/mcp-diploma-thesis-final"
   },
   {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-09T09:55:20Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 86,
-    "updated_at": "2026-09-09T09:55:19Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -43,15 +115,6 @@
     "stars": 79,
     "updated_at": "2026-09-09T09:51:23Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 91,
-    "updated_at": "2026-09-09T09:47:56Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -70,15 +133,6 @@
     "stars": 1885,
     "updated_at": "2026-09-09T09:46:07Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-09T09:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The AI search platform",
@@ -106,15 +160,6 @@
     "stars": 30611,
     "updated_at": "2026-09-09T09:38:02Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-09T09:37:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "CrateDB provider for LangChain.",
@@ -149,7 +194,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16795,
-    "updated_at": "2026-09-09T09:48:59Z",
+    "updated_at": "2026-09-09T10:07:15Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -158,17 +203,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 8,
-    "updated_at": "2026-09-09T09:50:28Z",
+    "updated_at": "2026-09-09T10:14:37Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34453,
-    "updated_at": "2026-09-09T09:59:55Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
@@ -185,7 +221,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4435,
-    "updated_at": "2026-09-09T09:52:24Z",
+    "updated_at": "2026-09-09T10:07:14Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -257,7 +293,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2091,
-    "updated_at": "2026-09-09T09:58:24Z",
+    "updated_at": "2026-09-09T10:14:57Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -293,7 +329,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-09T09:54:23Z",
+    "updated_at": "2026-09-09T10:05:58Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -382,7 +418,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11387,
+    "stars": 11386,
     "updated_at": "2026-09-09T07:33:05Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-09T07:06:25Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15867,
-    "updated_at": "2026-09-09T07:06:04Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-09-09T06:58:04Z",
-    "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "\ud83d\ude80 Hands-on GenAI engineering \u2014 prompt engineering, RAG pipelines, and production-ready AI agents with tool-calling & mul",
-    "id": "SharmaAtul12/Gen-AI",
-    "language": "JavaScript",
-    "name": "SharmaAtul12/Gen-AI",
-    "stars": 1,
-    "updated_at": "2026-09-09T06:36:24Z",
-    "url": "https://github.com/SharmaAtul12/Gen-AI"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6416,
-    "updated_at": "2026-09-09T09:46:35Z",
-    "url": "https://github.com/genkit-ai/genkit"
   }
 ]
