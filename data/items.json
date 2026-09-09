@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T13:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9248,
+    "updated_at": "2026-09-09T12:59:50Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-09T12:57:54Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
+    "id": "amirhosssein0/ai-platform-lab",
+    "language": "TypeScript",
+    "name": "amirhosssein0/ai-platform-lab",
+    "stars": 5,
+    "updated_at": "2026-09-09T12:54:05Z",
+    "url": "https://github.com/amirhosssein0/ai-platform-lab"
+  },
+  {
+    "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
+    "id": "Forstwichtel/TensoRAG",
+    "language": "Python",
+    "name": "Forstwichtel/TensoRAG",
+    "stars": 1,
+    "updated_at": "2026-09-09T12:50:18Z",
+    "url": "https://github.com/Forstwichtel/TensoRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-09T12:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -7,6 +61,15 @@
     "stars": 3,
     "updated_at": "2026-09-09T12:43:43Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7079,
+    "updated_at": "2026-09-09T12:42:28Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -54,31 +117,13 @@
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-09T12:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
     "id": "Intrect-io/OpenSwarm",
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 855,
-    "updated_at": "2026-09-09T12:41:42Z",
+    "updated_at": "2026-09-09T12:47:58Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T12:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The official TypeScript/Node client for the Pinecone vector database",
@@ -104,7 +149,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 95,
-    "updated_at": "2026-09-09T12:27:24Z",
+    "updated_at": "2026-09-09T12:47:19Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -122,17 +167,8 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 24,
-    "updated_at": "2026-09-09T12:25:08Z",
+    "updated_at": "2026-09-09T13:00:21Z",
     "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9248,
-    "updated_at": "2026-09-09T12:44:20Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -158,8 +194,17 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30609,
-    "updated_at": "2026-09-09T12:34:40Z",
+    "updated_at": "2026-09-09T12:57:04Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "An all-in-one multi-agent AI workspace and SaaS platform featuring autonomous conversational agents, live code generatio",
+    "id": "AyushCipher/CORTEX-AI",
+    "language": "JavaScript",
+    "name": "AyushCipher/CORTEX-AI",
+    "stars": 0,
+    "updated_at": "2026-09-09T12:19:10Z",
+    "url": "https://github.com/AyushCipher/CORTEX-AI"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -169,15 +214,6 @@
     "stars": 59229,
     "updated_at": "2026-09-09T12:17:50Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-09T12:44:23Z",
-    "url": "https://github.com/vanedb/vanedb"
   },
   {
     "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
@@ -214,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T12:10:02Z",
     "url": "https://github.com/Shitless-jnr3697/rebasis"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7078,
-    "updated_at": "2026-09-09T12:42:28Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-09T11:51:40Z",
     "url": "https://github.com/ballerina-platform/module-ballerinax-ai.weaviate"
-  },
-  {
-    "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
-    "id": "PunGrumpy/vecstore-sdk",
-    "language": "TypeScript",
-    "name": "PunGrumpy/vecstore-sdk",
-    "stars": 2,
-    "updated_at": "2026-09-09T11:50:31Z",
-    "url": "https://github.com/PunGrumpy/vecstore-sdk"
-  },
-  {
-    "description": "This is the source code of the Milvus vector store implementation for the RAG abstraction in Ballerina",
-    "id": "ballerina-platform/module-ballerinax-ai.milvus",
-    "language": "Ballerina",
-    "name": "ballerina-platform/module-ballerinax-ai.milvus",
-    "stars": 0,
-    "updated_at": "2026-09-09T11:50:21Z",
-    "url": "https://github.com/ballerina-platform/module-ballerinax-ai.milvus"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-09-09T11:49:00Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
   }
 ]
