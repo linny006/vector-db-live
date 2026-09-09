@@ -1,12 +1,75 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T04:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65809,
+    "updated_at": "2026-09-09T04:11:34Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 8,
+    "updated_at": "2026-09-09T04:10:59Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-09T04:10:17Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
+    "id": "qtuanph/chatbot-rag",
+    "language": "TypeScript",
+    "name": "qtuanph/chatbot-rag",
+    "stars": 1,
+    "updated_at": "2026-09-09T04:06:38Z",
+    "url": "https://github.com/qtuanph/chatbot-rag"
+  },
+  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 86,
-    "updated_at": "2026-09-09T03:59:27Z",
+    "updated_at": "2026-09-09T04:06:11Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Retrieval cache for agentic RAG \u2014 lower cost, faster search (not an LLM answer cache)",
+    "id": "jmcgrath207/conproxy",
+    "language": "Rust",
+    "name": "jmcgrath207/conproxy",
+    "stars": 0,
+    "updated_at": "2026-09-09T04:04:16Z",
+    "url": "https://github.com/jmcgrath207/conproxy"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-09T04:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
@@ -27,42 +90,6 @@
     "url": "https://github.com/jeevesh2515/clinical-rag-agent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-09T03:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T03:45:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Production-ready Vietnamese RAG platform with LlamaIndex, Qdrant hybrid retrieval, provider management, and real-time an",
-    "id": "qtuanph/chatbot-rag",
-    "language": "TypeScript",
-    "name": "qtuanph/chatbot-rag",
-    "stars": 1,
-    "updated_at": "2026-09-09T03:44:25Z",
-    "url": "https://github.com/qtuanph/chatbot-rag"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-09T03:38:31Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -79,6 +106,15 @@
     "stars": 1137,
     "updated_at": "2026-09-09T03:27:18Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11385,
+    "updated_at": "2026-09-09T03:22:26Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -113,7 +149,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1885,
-    "updated_at": "2026-09-09T03:37:59Z",
+    "updated_at": "2026-09-09T04:08:18Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-09T03:33:51Z",
+    "updated_at": "2026-09-09T04:13:41Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9248,
-    "updated_at": "2026-09-09T03:25:59Z",
+    "updated_at": "2026-09-09T04:13:43Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -248,7 +284,7 @@
     "language": "Rust",
     "name": "kannaka-labs/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-09-09T01:59:42Z",
+    "updated_at": "2026-09-09T04:13:38Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 1618,
     "updated_at": "2026-09-09T03:39:42Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65808,
-    "updated_at": "2026-09-09T01:23:52Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -338,7 +365,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6415,
-    "updated_at": "2026-09-09T03:49:29Z",
+    "updated_at": "2026-09-09T04:10:09Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -358,15 +385,6 @@
     "stars": 11,
     "updated_at": "2026-09-09T00:26:09Z",
     "url": "https://github.com/angrysky56/emotion_ai"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11384,
-    "updated_at": "2026-09-09T03:22:26Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -409,7 +427,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34451,
+    "stars": 34452,
     "updated_at": "2026-09-08T23:53:17Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -430,23 +448,5 @@
     "stars": 31,
     "updated_at": "2026-09-08T23:25:09Z",
     "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Postgres MCP Server",
-    "id": "devopam/MCPg",
-    "language": "Python",
-    "name": "devopam/MCPg",
-    "stars": 10,
-    "updated_at": "2026-09-08T22:53:44Z",
-    "url": "https://github.com/devopam/MCPg"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-09-08T22:34:29Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
   }
 ]
