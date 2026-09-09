@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-09T04:15:22Z",
+    "updated_at": "2026-09-09T04:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-09T04:30:08Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 238,
+    "updated_at": "2026-09-09T04:29:01Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 8,
+    "updated_at": "2026-09-09T04:29:15Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Evidence-based clinical workflow assistant with agentic RAG for hypertension care with LangGraph orchestration, hybrid r",
+    "id": "jeevesh2515/clinical-rag-agent",
+    "language": "Python",
+    "name": "jeevesh2515/clinical-rag-agent",
+    "stars": 5,
+    "updated_at": "2026-09-09T04:18:59Z",
+    "url": "https://github.com/jeevesh2515/clinical-rag-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-09T04:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -16,15 +61,6 @@
     "stars": 65809,
     "updated_at": "2026-09-09T04:11:34Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 8,
-    "updated_at": "2026-09-09T04:10:59Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -63,31 +99,13 @@
     "url": "https://github.com/jmcgrath207/conproxy"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-09T04:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 120,
-    "updated_at": "2026-09-09T03:52:17Z",
+    "updated_at": "2026-09-09T04:27:39Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Evidence-based clinical workflow assistant with agentic RAG for hypertension care with LangGraph orchestration, hybrid r",
-    "id": "jeevesh2515/clinical-rag-agent",
-    "language": "Python",
-    "name": "jeevesh2515/clinical-rag-agent",
-    "stars": 5,
-    "updated_at": "2026-09-09T03:51:28Z",
-    "url": "https://github.com/jeevesh2515/clinical-rag-agent"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -149,7 +167,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1885,
-    "updated_at": "2026-09-09T04:08:18Z",
+    "updated_at": "2026-09-09T04:30:09Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -277,15 +295,6 @@
     "stars": 8192,
     "updated_at": "2026-09-09T02:05:31Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-09T04:13:38Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
@@ -439,14 +448,5 @@
     "stars": 52081,
     "updated_at": "2026-09-08T23:38:22Z",
     "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 31,
-    "updated_at": "2026-09-08T23:25:09Z",
-    "url": "https://github.com/monaccode/astromesh"
   }
 ]
