@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-09T09:00:22Z",
+    "updated_at": "2026-09-09T09:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search, ",
+    "id": "akarshjain05/rag",
+    "language": "Python",
+    "name": "akarshjain05/rag",
+    "stars": 0,
+    "updated_at": "2026-09-09T09:14:26Z",
+    "url": "https://github.com/akarshjain05/rag"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-09T09:09:49Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34454,
+    "updated_at": "2026-09-09T09:09:29Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3293,
+    "updated_at": "2026-09-09T09:07:55Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -14,8 +50,26 @@
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 86,
-    "updated_at": "2026-09-09T09:00:17Z",
+    "updated_at": "2026-09-09T09:06:00Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59226,
+    "updated_at": "2026-09-09T09:01:56Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-09T09:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
@@ -68,17 +122,17 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2091,
-    "updated_at": "2026-09-09T08:45:52Z",
+    "updated_at": "2026-09-09T09:14:02Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-09T08:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "name": "qdrant/skills",
+    "stars": 231,
+    "updated_at": "2026-09-09T08:45:33Z",
+    "url": "https://github.com/qdrant/skills"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -108,15 +162,6 @@
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-09T08:39:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -126,30 +171,12 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
-    "id": "giancarloerra/SocratiCode",
-    "language": "TypeScript",
-    "name": "giancarloerra/SocratiCode",
-    "stars": 3293,
-    "updated_at": "2026-09-09T08:38:11Z",
-    "url": "https://github.com/giancarloerra/SocratiCode"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59226,
-    "updated_at": "2026-09-09T08:36:29Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-09T08:35:10Z",
+    "updated_at": "2026-09-09T09:10:30Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -171,6 +198,15 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 3024,
+    "updated_at": "2026-09-09T08:28:01Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -178,15 +214,6 @@
     "stars": 91,
     "updated_at": "2026-09-09T08:55:58Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3023,
-    "updated_at": "2026-09-09T08:28:01Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
@@ -216,15 +243,6 @@
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34453,
-    "updated_at": "2026-09-09T08:05:59Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "An open-source implementation of ToC-Aware RAG inspired by IBM's STAIR paper. Preserves document hierarchy for structure",
     "id": "Eyna-A/STAIR-ToC-RAG",
     "language": "\u2014",
@@ -247,7 +265,7 @@
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
-    "stars": 1138,
+    "stars": 1139,
     "updated_at": "2026-09-09T07:51:20Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
@@ -266,7 +284,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7078,
-    "updated_at": "2026-09-09T08:48:58Z",
+    "updated_at": "2026-09-09T09:14:16Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -320,7 +338,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4435,
-    "updated_at": "2026-09-09T08:58:34Z",
+    "updated_at": "2026-09-09T09:13:49Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -337,7 +355,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15863,
+    "stars": 15864,
     "updated_at": "2026-09-09T07:06:04Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -365,7 +383,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6416,
-    "updated_at": "2026-09-09T08:47:46Z",
+    "updated_at": "2026-09-09T09:10:35Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -410,7 +428,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8193,
-    "updated_at": "2026-09-09T08:50:59Z",
+    "updated_at": "2026-09-09T09:09:32Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-09T06:10:30Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1618,
-    "updated_at": "2026-09-09T06:09:12Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "A comprehensive toolkit for deploying production-ready Generative AI infrastructure on Amazon EKS. Includes pre-configur",
-    "id": "aws-samples/sample-genai-on-eks-starter-kit",
-    "language": "JavaScript",
-    "name": "aws-samples/sample-genai-on-eks-starter-kit",
-    "stars": 94,
-    "updated_at": "2026-09-09T06:07:29Z",
-    "url": "https://github.com/aws-samples/sample-genai-on-eks-starter-kit"
   }
 ]
