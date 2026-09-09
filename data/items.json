@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-08T23:53:13Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-08T23:50:21Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-08T23:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T00:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
     "id": "kannaka-labs/kannaka-memory",
     "language": "Rust",
@@ -27,24 +63,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-08T23:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-08T23:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
     "id": "monaccode/astromesh",
     "language": "Python",
@@ -67,7 +85,7 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8191,
+    "stars": 8192,
     "updated_at": "2026-09-08T23:24:23Z",
     "url": "https://github.com/MariaDB/server"
   },
@@ -95,7 +113,7 @@
     "language": "TypeScript",
     "name": "Tibab222/cvMaker",
     "stars": 4,
-    "updated_at": "2026-09-08T23:23:09Z",
+    "updated_at": "2026-09-08T23:59:43Z",
     "url": "https://github.com/Tibab222/cvMaker"
   },
   {
@@ -104,7 +122,7 @@
     "language": "TypeScript",
     "name": "abdullahqureshi27/resolvdesk",
     "stars": 0,
-    "updated_at": "2026-09-08T23:20:15Z",
+    "updated_at": "2026-09-08T23:50:01Z",
     "url": "https://github.com/abdullahqureshi27/resolvdesk"
   },
   {
@@ -113,7 +131,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30599,
-    "updated_at": "2026-09-08T23:18:55Z",
+    "updated_at": "2026-09-08T23:55:06Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -122,7 +140,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1618,
-    "updated_at": "2026-09-08T23:14:05Z",
+    "updated_at": "2026-09-08T23:58:16Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -140,7 +158,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11382,
-    "updated_at": "2026-09-08T22:42:06Z",
+    "updated_at": "2026-09-08T23:49:14Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -365,7 +383,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34450,
-    "updated_at": "2026-09-08T22:33:21Z",
+    "updated_at": "2026-09-08T23:53:17Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-08T22:04:59Z",
     "url": "https://github.com/hankamarvanova/unified-db"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-08T22:04:17Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-09-08T22:00:37Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
   }
 ]
