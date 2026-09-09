@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-09T13:15:21Z",
+    "updated_at": "2026-09-09T13:30:39Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-09T13:24:33Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1885,
+    "updated_at": "2026-09-09T13:24:23Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30610,
+    "updated_at": "2026-09-09T13:22:18Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
+    "id": "josephkamau32/devintel",
+    "language": "Python",
+    "name": "josephkamau32/devintel",
+    "stars": 10,
+    "updated_at": "2026-09-09T13:22:09Z",
+    "url": "https://github.com/josephkamau32/devintel"
+  },
+  {
+    "description": "Upload a PDF or TXT and chat with it. A full-stack RAG app that grounds every answer in your document with source citati",
+    "id": "Nishant-art27/NotebookLM_RAG",
+    "language": "JavaScript",
+    "name": "Nishant-art27/NotebookLM_RAG",
+    "stars": 0,
+    "updated_at": "2026-09-09T13:20:42Z",
+    "url": "https://github.com/Nishant-art27/NotebookLM_RAG"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 86,
+    "updated_at": "2026-09-09T13:29:07Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-09T13:16:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-09T13:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
@@ -14,7 +86,7 @@
     "language": "Python",
     "name": "project-david-ai/projectdavid-platform",
     "stars": 1,
-    "updated_at": "2026-09-09T13:11:31Z",
+    "updated_at": "2026-09-09T13:30:31Z",
     "url": "https://github.com/project-david-ai/projectdavid-platform"
   },
   {
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-09T13:09:17Z",
     "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-09T13:08:27Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -54,15 +117,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
-    "id": "josephkamau32/devintel",
-    "language": "Python",
-    "name": "josephkamau32/devintel",
-    "stars": 10,
-    "updated_at": "2026-09-09T13:02:23Z",
-    "url": "https://github.com/josephkamau32/devintel"
-  },
-  {
     "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
     "id": "kannaka-labs/kannaka-memory",
     "language": "Rust",
@@ -81,15 +135,6 @@
     "url": "https://github.com/d3uceY/vectile"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-09T13:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
     "id": "Cognipeer/console",
     "language": "TypeScript",
@@ -104,7 +149,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9248,
-    "updated_at": "2026-09-09T13:14:51Z",
+    "updated_at": "2026-09-09T13:16:42Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7079,
-    "updated_at": "2026-09-09T12:42:28Z",
+    "updated_at": "2026-09-09T13:21:20Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 2292,
     "updated_at": "2026-09-09T12:36:32Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1885,
-    "updated_at": "2026-09-09T12:33:24Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Website for the Weaviate vector database",
@@ -234,24 +270,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-09T12:20:57Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30609,
-    "updated_at": "2026-09-09T13:02:14Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "An all-in-one multi-agent AI workspace and SaaS platform featuring autonomous conversational agents, live code generatio",
     "id": "AyushCipher/CORTEX-AI",
     "language": "JavaScript",
@@ -275,7 +293,7 @@
     "language": "Swift",
     "name": "christopherkarani/Wax",
     "stars": 789,
-    "updated_at": "2026-09-09T12:11:55Z",
+    "updated_at": "2026-09-09T13:19:02Z",
     "url": "https://github.com/christopherkarani/Wax"
   },
   {
@@ -396,15 +414,6 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 86,
-    "updated_at": "2026-09-09T12:00:10Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-09T11:56:10Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "An autonomous self-learning AI agent with persistent vector memory using Groq, Qdrant, and Sentence Transformers.",
-    "id": "fahimmm0786-ai/self-learning-memory-agent",
-    "language": "Python",
-    "name": "fahimmm0786-ai/self-learning-memory-agent",
-    "stars": 0,
-    "updated_at": "2026-09-09T11:53:14Z",
-    "url": "https://github.com/fahimmm0786-ai/self-learning-memory-agent"
   }
 ]
