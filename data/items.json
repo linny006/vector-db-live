@@ -1,11 +1,92 @@
 [
   {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9249,
+    "updated_at": "2026-09-09T13:58:27Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Memory-augmented AI platform with a knowledge graph, temporal decay, versioned rollback, semantic drift tracking, and cr",
+    "id": "Giancyril/Threadline",
+    "language": "Python",
+    "name": "Giancyril/Threadline",
+    "stars": 0,
+    "updated_at": "2026-09-09T13:53:56Z",
+    "url": "https://github.com/Giancyril/Threadline"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 86,
+    "updated_at": "2026-09-09T13:52:14Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-09-09T13:52:01Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-09-09T13:50:23Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-09T14:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-09-09T13:48:46Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30611,
+    "updated_at": "2026-09-09T13:55:38Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
+    "id": "Forstwichtel/TensoRAG",
+    "language": "Python",
+    "name": "Forstwichtel/TensoRAG",
+    "stars": 1,
+    "updated_at": "2026-09-09T13:47:48Z",
+    "url": "https://github.com/Forstwichtel/TensoRAG"
+  },
+  {
     "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
     "id": "felixzhu97/explore-ai",
     "language": "Java",
     "name": "felixzhu97/explore-ai",
     "stars": 2,
-    "updated_at": "2026-09-09T13:41:02Z",
+    "updated_at": "2026-09-09T14:00:07Z",
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
@@ -14,8 +95,53 @@
     "language": "Python",
     "name": "oracle/vecdb-python-sdk",
     "stars": 70,
-    "updated_at": "2026-09-09T13:40:54Z",
+    "updated_at": "2026-09-09T13:46:05Z",
     "url": "https://github.com/oracle/vecdb-python-sdk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-09T13:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-09-09T13:43:51Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "Co-Op is local-first business management software for company planning, research, files, customer work, and operational ",
+    "id": "Afnanksalal/co-op",
+    "language": "TypeScript",
+    "name": "Afnanksalal/co-op",
+    "stars": 5,
+    "updated_at": "2026-09-09T13:43:05Z",
+    "url": "https://github.com/Afnanksalal/co-op"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 3,
+    "updated_at": "2026-09-09T13:42:33Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 4,
+    "updated_at": "2026-09-09T13:42:31Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
   },
   {
     "description": "Natural language search for SEC filings. Fetch 10-K/10-Q/8-K from EDGAR, parse into segments, chunk text, generate GPU-a",
@@ -63,15 +189,6 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
-    "id": "Forstwichtel/TensoRAG",
-    "language": "Python",
-    "name": "Forstwichtel/TensoRAG",
-    "stars": 1,
-    "updated_at": "2026-09-09T13:35:08Z",
-    "url": "https://github.com/Forstwichtel/TensoRAG"
-  },
-  {
     "description": "Production-ready multi-agent platform delivering orchestration, session governance and audit capabilities. Stack: Go/Pyt",
     "id": "EVEDensity/AgentHub",
     "language": "Python",
@@ -90,15 +207,6 @@
     "url": "https://github.com/xbsheng/ai-from-scratch"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-09T13:30:45Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Vector DB Subsystem. Enabling a better dense passage retrieval (DPR) for retrieval augmented generation (RAG) and hybrid",
     "id": "re-Isearch/Schmate",
     "language": "Makefile",
@@ -106,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-09T13:30:40Z",
     "url": "https://github.com/re-Isearch/Schmate"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-09T13:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
@@ -144,15 +243,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 86,
-    "updated_at": "2026-09-09T13:29:07Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -176,17 +266,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1885,
-    "updated_at": "2026-09-09T13:42:31Z",
+    "updated_at": "2026-09-09T13:52:27Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30610,
-    "updated_at": "2026-09-09T13:35:55Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
@@ -221,7 +302,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9434,
-    "updated_at": "2026-09-09T13:07:08Z",
+    "updated_at": "2026-09-09T13:56:14Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -230,7 +311,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46035,
-    "updated_at": "2026-09-09T13:45:15Z",
+    "updated_at": "2026-09-09T13:45:42Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -243,15 +324,6 @@
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 3,
-    "updated_at": "2026-09-09T13:42:33Z",
-    "url": "https://github.com/d3uceY/vectile"
-  },
-  {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
     "id": "Cognipeer/console",
     "language": "TypeScript",
@@ -259,15 +331,6 @@
     "stars": 24,
     "updated_at": "2026-09-09T13:08:28Z",
     "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9248,
-    "updated_at": "2026-09-09T13:34:03Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
@@ -284,7 +347,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7079,
-    "updated_at": "2026-09-09T13:21:20Z",
+    "updated_at": "2026-09-09T13:55:22Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -295,15 +358,6 @@
     "stars": 238,
     "updated_at": "2026-09-09T12:40:38Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Co-Op is local-first business management software for company planning, research, files, customer work, and operational ",
-    "id": "Afnanksalal/co-op",
-    "language": "TypeScript",
-    "name": "Afnanksalal/co-op",
-    "stars": 5,
-    "updated_at": "2026-09-09T13:43:05Z",
-    "url": "https://github.com/Afnanksalal/co-op"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -329,7 +383,7 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 855,
-    "updated_at": "2026-09-09T12:47:58Z",
+    "updated_at": "2026-09-09T13:48:59Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 59230,
     "updated_at": "2026-09-09T12:17:50Z",
     "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 789,
-    "updated_at": "2026-09-09T13:19:02Z",
-    "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-09-09T12:10:58Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
-    "id": "Shitless-jnr3697/rebasis",
-    "language": "Python",
-    "name": "Shitless-jnr3697/rebasis",
-    "stars": 0,
-    "updated_at": "2026-09-09T12:10:02Z",
-    "url": "https://github.com/Shitless-jnr3697/rebasis"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 120,
-    "updated_at": "2026-09-09T12:09:04Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
-    "id": "boulif781/enterprise-knowledge-assistant",
-    "language": "\u2014",
-    "name": "boulif781/enterprise-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-09T12:08:12Z",
-    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "English/Vietnamese semantic search with Node.js, Hono, Qdrant, and Qwen3-Embedding-4B \u2014 reproducible 20K open-geography ",
-    "id": "dangkhoa2016/Nodejs-Qdrant-Bilingual-Search",
-    "language": "JavaScript",
-    "name": "dangkhoa2016/Nodejs-Qdrant-Bilingual-Search",
-    "stars": 0,
-    "updated_at": "2026-09-09T12:07:45Z",
-    "url": "https://github.com/dangkhoa2016/Nodejs-Qdrant-Bilingual-Search"
   }
 ]
