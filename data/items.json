@@ -1,11 +1,110 @@
 [
   {
+    "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
+    "id": "Yigtwxx/OracleX",
+    "language": "Python",
+    "name": "Yigtwxx/OracleX",
+    "stars": 1,
+    "updated_at": "2026-09-10T08:13:05Z",
+    "url": "https://github.com/Yigtwxx/OracleX"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1141,
+    "updated_at": "2026-09-10T08:12:42Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-10T08:11:44Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
+    "id": "bobaba76/Argos",
+    "language": "Python",
+    "name": "bobaba76/Argos",
+    "stars": 8,
+    "updated_at": "2026-09-10T08:09:21Z",
+    "url": "https://github.com/bobaba76/Argos"
+  },
+  {
+    "description": "\u4ece\u96f6\u5b9e\u73b0 AI \u6838\u5fc3\u7ec4\u4ef6\uff08mini-* \u7cfb\u5217\uff09\uff1aTransformer / Qwen3 / BPE / Agent / RAG / Vector DB\u3002Rebuild AI building blocks from scratch.",
+    "id": "xbsheng/ai-from-scratch",
+    "language": "Python",
+    "name": "xbsheng/ai-from-scratch",
+    "stars": 1,
+    "updated_at": "2026-09-10T08:08:18Z",
+    "url": "https://github.com/xbsheng/ai-from-scratch"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 91,
+    "updated_at": "2026-09-10T08:07:07Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 279,
+    "updated_at": "2026-09-10T08:10:16Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 855,
+    "updated_at": "2026-09-10T08:04:35Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search, ",
+    "id": "akarshjain05/rag",
+    "language": "Python",
+    "name": "akarshjain05/rag",
+    "stars": 0,
+    "updated_at": "2026-09-10T08:03:24Z",
+    "url": "https://github.com/akarshjain05/rag"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-10T08:01:23Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T08:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-10T08:00:21Z",
+    "updated_at": "2026-09-10T08:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,17 +113,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1885,
-    "updated_at": "2026-09-10T07:58:13Z",
+    "updated_at": "2026-09-10T08:15:08Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1141,
-    "updated_at": "2026-09-10T07:55:01Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -45,13 +135,13 @@
     "url": "https://github.com/adi6206096675/Axiom-Knowledge-Graph"
   },
   {
-    "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
-    "id": "Yigtwxx/OracleX",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "Yigtwxx/OracleX",
-    "stars": 1,
-    "updated_at": "2026-09-10T07:49:45Z",
-    "url": "https://github.com/Yigtwxx/OracleX"
+    "name": "topoteretes/cognee",
+    "stars": 30613,
+    "updated_at": "2026-09-10T07:48:21Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -86,17 +176,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9251,
-    "updated_at": "2026-09-10T07:48:16Z",
+    "updated_at": "2026-09-10T08:05:19Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T07:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -124,15 +205,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T07:44:01Z",
     "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
-    "id": "bobaba76/Argos",
-    "language": "Python",
-    "name": "bobaba76/Argos",
-    "stars": 8,
-    "updated_at": "2026-09-10T07:57:34Z",
-    "url": "https://github.com/bobaba76/Argos"
   },
   {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
@@ -178,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T07:38:38Z",
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-10T07:37:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Redis Vector Library. The AI-native Python client for Redis.",
@@ -247,7 +310,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11391,
+    "stars": 11392,
     "updated_at": "2026-09-10T07:32:33Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -383,70 +446,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16797,
-    "updated_at": "2026-09-10T07:42:19Z",
+    "updated_at": "2026-09-10T08:13:25Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-09-10T07:20:44Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-10T07:37:23Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
-    "description": "A modular Retrieval-Augmented Generation (RAG) system with query routing, structured citations, and a FastAPI + Streamli",
-    "id": "Neeleshsingh30/RAG-BASED-CHATBOT",
-    "language": "Python",
-    "name": "Neeleshsingh30/RAG-BASED-CHATBOT",
-    "stars": 0,
-    "updated_at": "2026-09-10T07:18:21Z",
-    "url": "https://github.com/Neeleshsingh30/RAG-BASED-CHATBOT"
-  },
-  {
-    "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
-    "id": "PunGrumpy/vecstore-sdk",
-    "language": "TypeScript",
-    "name": "PunGrumpy/vecstore-sdk",
-    "stars": 2,
-    "updated_at": "2026-09-10T07:19:17Z",
-    "url": "https://github.com/PunGrumpy/vecstore-sdk"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-09-10T07:16:40Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "A modular Retrieval-Augmented Generation (RAG) system with query routing, structured citations, and a FastAPI + Streamli",
-    "id": "suhaniakodiya16/rag-project",
-    "language": "Python",
-    "name": "suhaniakodiya16/rag-project",
-    "stars": 0,
-    "updated_at": "2026-09-10T07:16:03Z",
-    "url": "https://github.com/suhaniakodiya16/rag-project"
-  },
-  {
-    "description": "Kubernetes Operator for Qdrant \u2014 declarative QdrantCluster/QdrantCollection management, distributed (Raft) clusters, aut",
-    "id": "KeiaiLab/qdrant-operator",
-    "language": "Go",
-    "name": "KeiaiLab/qdrant-operator",
-    "stars": 0,
-    "updated_at": "2026-09-10T07:15:46Z",
-    "url": "https://github.com/KeiaiLab/qdrant-operator"
   }
 ]
