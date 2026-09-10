@@ -5,17 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-10T14:45:21Z",
+    "updated_at": "2026-09-10T15:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
+    "description": "A vector database of the whole market: every asset as a 514-dim live vector over 514 O(1) streaming indicators. Similari",
+    "id": "wickra-lib/wickra-genome",
     "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6236,
-    "updated_at": "2026-09-10T14:42:02Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "name": "wickra-lib/wickra-genome",
+    "stars": 1,
+    "updated_at": "2026-09-10T14:58:12Z",
+    "url": "https://github.com/wickra-lib/wickra-genome"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-09-10T14:52:11Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -23,8 +32,53 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13063,
-    "updated_at": "2026-09-10T14:36:37Z",
+    "updated_at": "2026-09-10T14:49:53Z",
     "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-10T14:49:38Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 231,
+    "updated_at": "2026-09-10T14:47:22Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T14:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-09-10T14:45:14Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6236,
+    "updated_at": "2026-09-10T14:56:04Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -45,31 +99,13 @@
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T14:30:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7079,
-    "updated_at": "2026-09-10T14:43:42Z",
+    "updated_at": "2026-09-10T14:47:47Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-09-10T14:24:41Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -104,7 +140,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1142,
-    "updated_at": "2026-09-10T14:17:25Z",
+    "updated_at": "2026-09-10T14:59:44Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -124,6 +160,15 @@
     "stars": 33,
     "updated_at": "2026-09-10T14:15:03Z",
     "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34483,
+    "updated_at": "2026-09-10T14:58:58Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -162,24 +207,6 @@
     "url": "https://github.com/devbratghosh/Enterprise-RAG-Assistant-v1.0"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34482,
-    "updated_at": "2026-09-10T14:12:31Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-09-10T14:45:14Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
     "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
     "id": "d3uceY/vectile",
     "language": "Go",
@@ -202,7 +229,7 @@
     "id": "meme-search/meme-search",
     "language": "Ruby",
     "name": "meme-search/meme-search",
-    "stars": 738,
+    "stars": 739,
     "updated_at": "2026-09-10T13:25:33Z",
     "url": "https://github.com/meme-search/meme-search"
   },
@@ -238,7 +265,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2293,
+    "stars": 2294,
     "updated_at": "2026-09-10T13:13:26Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -302,7 +329,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59245,
-    "updated_at": "2026-09-10T14:35:36Z",
+    "updated_at": "2026-09-10T14:55:40Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -329,7 +356,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8198,
-    "updated_at": "2026-09-10T14:08:38Z",
+    "updated_at": "2026-09-10T14:51:21Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Python",
     "name": "bobaba76/Argos",
     "stars": 8,
-    "updated_at": "2026-09-10T14:34:54Z",
+    "updated_at": "2026-09-10T14:48:49Z",
     "url": "https://github.com/bobaba76/Argos"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9251,
-    "updated_at": "2026-09-10T14:42:30Z",
+    "updated_at": "2026-09-10T14:50:06Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "AI-powered RAG document assistant for chatting with PDF documents using LangChain, Hugging Face, ChromaDB, Streamlit, an",
-    "id": "Purvesh271/DocsMate",
-    "language": "Python",
-    "name": "Purvesh271/DocsMate",
-    "stars": 0,
-    "updated_at": "2026-09-10T12:17:36Z",
-    "url": "https://github.com/Purvesh271/DocsMate"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-09-10T12:14:25Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 89,
-    "updated_at": "2026-09-10T12:13:41Z",
-    "url": "https://github.com/weaviate/weaviate-io"
   }
 ]
