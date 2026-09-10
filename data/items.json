@@ -1,12 +1,66 @@
 [
   {
-    "description": "Shared, persistent memory for AI agents. Self-hosted MCP server with semantic search, vector RAG, and live updates. Work",
-    "id": "MontyGovernance/montycat-mcp",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "MontyGovernance/montycat-mcp",
-    "stars": 45,
-    "updated_at": "2026-09-10T03:00:05Z",
-    "url": "https://github.com/MontyGovernance/montycat-mcp"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T03:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-grade genpark-hnsw-hierarchical-navigable-small-world-skill skill for AI agents",
+    "id": "Alpha-Park/genpark-hnsw-hierarchical-navigable-small-world-skill",
+    "language": "Python",
+    "name": "Alpha-Park/genpark-hnsw-hierarchical-navigable-small-world-skill",
+    "stars": 7,
+    "updated_at": "2026-09-10T03:12:09Z",
+    "url": "https://github.com/Alpha-Park/genpark-hnsw-hierarchical-navigable-small-world-skill"
+  },
+  {
+    "description": "Production-grade genpark-hnsw-hierarchical-navigable-small-world-skill skill for AI agents",
+    "id": "alphaparkinc/genpark-hnsw-hierarchical-navigable-small-world-skill",
+    "language": "Python",
+    "name": "alphaparkinc/genpark-hnsw-hierarchical-navigable-small-world-skill",
+    "stars": 7,
+    "updated_at": "2026-09-10T03:11:46Z",
+    "url": "https://github.com/alphaparkinc/genpark-hnsw-hierarchical-navigable-small-world-skill"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-10T03:10:22Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "NextSQL is a new database engine, written primarily in Go.",
+    "id": "bzync/nextsql",
+    "language": "Go",
+    "name": "bzync/nextsql",
+    "stars": 0,
+    "updated_at": "2026-09-10T03:07:27Z",
+    "url": "https://github.com/bzync/nextsql"
+  },
+  {
+    "description": "A RAG pipeline for question answering about PES University",
+    "id": "pesu-dev/ask-pesu",
+    "language": "TypeScript",
+    "name": "pesu-dev/ask-pesu",
+    "stars": 8,
+    "updated_at": "2026-09-10T03:07:22Z",
+    "url": "https://github.com/pesu-dev/ask-pesu"
+  },
+  {
+    "description": "Benchmark for vector databases.",
+    "id": "zilliztech/VectorDBBench",
+    "language": "Python",
+    "name": "zilliztech/VectorDBBench",
+    "stars": 1175,
+    "updated_at": "2026-09-10T03:04:48Z",
+    "url": "https://github.com/zilliztech/VectorDBBench"
   },
   {
     "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
@@ -14,8 +68,26 @@
     "language": "Python",
     "name": "alxxtexxr/arxiv_agent",
     "stars": 0,
-    "updated_at": "2026-09-10T02:58:41Z",
+    "updated_at": "2026-09-10T03:01:45Z",
     "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T03:00:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Shared, persistent memory for AI agents. Self-hosted MCP server with semantic search, vector RAG, and live updates. Work",
+    "id": "MontyGovernance/montycat-mcp",
+    "language": "Python",
+    "name": "MontyGovernance/montycat-mcp",
+    "stars": 45,
+    "updated_at": "2026-09-10T03:01:45Z",
+    "url": "https://github.com/MontyGovernance/montycat-mcp"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -23,7 +95,7 @@
     "language": "Rust",
     "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-10T02:57:17Z",
+    "updated_at": "2026-09-10T03:13:02Z",
     "url": "https://github.com/tamnd/yo"
   },
   {
@@ -50,35 +122,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1885,
-    "updated_at": "2026-09-10T02:54:23Z",
+    "updated_at": "2026-09-10T03:14:58Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "NextSQL is a new database engine, written primarily in Go.",
-    "id": "bzync/nextsql",
-    "language": "Go",
-    "name": "bzync/nextsql",
-    "stars": 0,
-    "updated_at": "2026-09-10T02:52:05Z",
-    "url": "https://github.com/bzync/nextsql"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T02:46:01Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T03:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -88,15 +133,6 @@
     "stars": 80,
     "updated_at": "2026-09-10T02:44:26Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-10T02:40:26Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -122,7 +158,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9436,
-    "updated_at": "2026-09-10T02:46:40Z",
+    "updated_at": "2026-09-10T03:03:52Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -400,7 +436,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65850,
+    "stars": 65852,
     "updated_at": "2026-09-10T01:43:56Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-10T01:43:19Z",
     "url": "https://github.com/jkelly-dev1/ai-data-boundary-proxy"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-09-10T01:43:05Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-10T01:41:47Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-10T01:40:15Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-10T01:38:42Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   }
 ]
