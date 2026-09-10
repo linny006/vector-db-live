@@ -1,12 +1,84 @@
 [
   {
+    "description": "C# SDK for the Weaviate API -- open-source vector database",
+    "id": "tryAGI/Weaviate",
+    "language": "C#",
+    "name": "tryAGI/Weaviate",
+    "stars": 2,
+    "updated_at": "2026-09-10T21:06:19Z",
+    "url": "https://github.com/tryAGI/Weaviate"
+  },
+  {
+    "description": "Coroutine-first Kotlin client for Qdrant that answers its first search 37 ms after process start in 42 MB as a native im",
+    "id": "NaCode-Studios/Kdrant",
+    "language": "Kotlin",
+    "name": "NaCode-Studios/Kdrant",
+    "stars": 6,
+    "updated_at": "2026-09-10T21:05:26Z",
+    "url": "https://github.com/NaCode-Studios/Kdrant"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1146,
+    "updated_at": "2026-09-10T21:04:29Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65888,
+    "updated_at": "2026-09-10T21:02:33Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 91,
+    "updated_at": "2026-09-10T21:06:30Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "",
+    "id": "abdullahqureshi27/resolvdesk",
+    "language": "TypeScript",
+    "name": "abdullahqureshi27/resolvdesk",
+    "stars": 0,
+    "updated_at": "2026-09-10T21:00:52Z",
+    "url": "https://github.com/abdullahqureshi27/resolvdesk"
+  },
+  {
     "description": "The Developer's Guide to AI - A Field Guide for the Working Developer",
     "id": "jorshali/developers-guide-to-ai",
     "language": "Python",
     "name": "jorshali/developers-guide-to-ai",
     "stars": 92,
-    "updated_at": "2026-09-10T20:57:50Z",
+    "updated_at": "2026-09-10T21:00:33Z",
     "url": "https://github.com/jorshali/developers-guide-to-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T21:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T21:00:27Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
@@ -18,15 +90,6 @@
     "url": "https://github.com/d3uceY/vectile"
   },
   {
-    "description": "Coroutine-first Kotlin client for Qdrant that answers its first search 37 ms after process start in 42 MB as a native im",
-    "id": "NaCode-Studios/Kdrant",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kdrant",
-    "stars": 6,
-    "updated_at": "2026-09-10T20:52:28Z",
-    "url": "https://github.com/NaCode-Studios/Kdrant"
-  },
-  {
     "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -34,42 +97,6 @@
     "stars": 1619,
     "updated_at": "2026-09-10T20:51:24Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 65887,
-    "updated_at": "2026-09-10T20:59:32Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "",
-    "id": "abdullahqureshi27/resolvdesk",
-    "language": "TypeScript",
-    "name": "abdullahqureshi27/resolvdesk",
-    "stars": 0,
-    "updated_at": "2026-09-10T20:47:03Z",
-    "url": "https://github.com/abdullahqureshi27/resolvdesk"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T20:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T20:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T20:17:11Z",
     "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1146,
-    "updated_at": "2026-09-10T20:22:58Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
@@ -212,17 +230,8 @@
     "language": "TypeScript",
     "name": "Tibab222/cvMaker",
     "stars": 10,
-    "updated_at": "2026-09-10T19:56:14Z",
+    "updated_at": "2026-09-10T21:06:39Z",
     "url": "https://github.com/Tibab222/cvMaker"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 91,
-    "updated_at": "2026-09-10T20:44:47Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -257,7 +266,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-10T19:51:41Z",
+    "updated_at": "2026-09-10T21:00:40Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T19:33:33Z",
     "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 3,
-    "updated_at": "2026-09-10T19:32:36Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
   }
 ]
