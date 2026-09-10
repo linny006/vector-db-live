@@ -1,12 +1,12 @@
 [
   {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 89,
-    "updated_at": "2026-09-10T12:13:41Z",
-    "url": "https://github.com/weaviate/weaviate-io"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T12:30:26Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A modular Retrieval-Augmented Generation (RAG) system with query routing, structured citations, and a FastAPI + Streamli",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "anshley0837-del/Rag-project-",
     "stars": 0,
-    "updated_at": "2026-09-10T12:13:39Z",
+    "updated_at": "2026-09-10T12:29:06Z",
     "url": "https://github.com/anshley0837-del/Rag-project-"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-09-10T12:28:52Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 23,
+    "updated_at": "2026-09-10T12:28:11Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
     "description": "",
@@ -23,8 +41,116 @@
     "language": "TypeScript",
     "name": "abdullahqureshi27/resolvdesk",
     "stars": 0,
-    "updated_at": "2026-09-10T12:12:54Z",
+    "updated_at": "2026-09-10T12:27:50Z",
     "url": "https://github.com/abdullahqureshi27/resolvdesk"
+  },
+  {
+    "description": "\ud83c\udfb5 Music Mood Recommender \u2014 A RAG-based intelligent music recommendation system built with LangChain, ChromaDB, Groq LLM ",
+    "id": "ana738-bit/music-recommender-rag",
+    "language": "Python",
+    "name": "ana738-bit/music-recommender-rag",
+    "stars": 0,
+    "updated_at": "2026-09-10T12:26:45Z",
+    "url": "https://github.com/ana738-bit/music-recommender-rag"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-10T12:25:14Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "AI-Native OSINT & 3D Link Analysis Platform",
+    "id": "sayan9168/nexus-osint",
+    "language": "Python",
+    "name": "sayan9168/nexus-osint",
+    "stars": 3,
+    "updated_at": "2026-09-10T12:23:43Z",
+    "url": "https://github.com/sayan9168/nexus-osint"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46045,
+    "updated_at": "2026-09-10T12:23:32Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-09-10T12:20:32Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9251,
+    "updated_at": "2026-09-10T12:29:50Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "A modular Retrieval-Augmented Generation (RAG) system with query routing, structured citations, and a FastAPI + Streamli",
+    "id": "Gayu2003-dangi/RAG-PROJECT",
+    "language": "Python",
+    "name": "Gayu2003-dangi/RAG-PROJECT",
+    "stars": 0,
+    "updated_at": "2026-09-10T12:19:16Z",
+    "url": "https://github.com/Gayu2003-dangi/RAG-PROJECT"
+  },
+  {
+    "description": "AI-powered RAG document assistant for chatting with PDF documents using LangChain, Hugging Face, ChromaDB, Streamlit, an",
+    "id": "Purvesh271/DocsMate",
+    "language": "Python",
+    "name": "Purvesh271/DocsMate",
+    "stars": 0,
+    "updated_at": "2026-09-10T12:17:36Z",
+    "url": "https://github.com/Purvesh271/DocsMate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T12:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search, ",
+    "id": "akarshjain05/rag",
+    "language": "Python",
+    "name": "akarshjain05/rag",
+    "stars": 0,
+    "updated_at": "2026-09-10T12:15:26Z",
+    "url": "https://github.com/akarshjain05/rag"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-09-10T12:14:25Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-09-10T12:13:41Z",
+    "url": "https://github.com/weaviate/weaviate-io"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -41,7 +167,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9438,
-    "updated_at": "2026-09-10T12:10:31Z",
+    "updated_at": "2026-09-10T12:25:28Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -61,15 +187,6 @@
     "stars": 35613,
     "updated_at": "2026-09-10T12:07:41Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-09-10T12:04:38Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
@@ -117,24 +234,6 @@
     "url": "https://github.com/RaptorBlingx/HEDGE-ExpertAI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T12:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T12:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
     "id": "Cognipeer/console",
     "language": "TypeScript",
@@ -151,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-09-10T11:55:17Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:55:16Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -187,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T11:53:29Z",
     "url": "https://github.com/suhaniakodiya16/rag-project"
-  },
-  {
-    "description": "A modular Retrieval-Augmented Generation (RAG) system with query routing, structured citations, and a FastAPI + Streamli",
-    "id": "Gayu2003-dangi/RAG-PROJECT",
-    "language": "Python",
-    "name": "Gayu2003-dangi/RAG-PROJECT",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:53:21Z",
-    "url": "https://github.com/Gayu2003-dangi/RAG-PROJECT"
   },
   {
     "description": "Redis Vector Library. The AI-native Python client for Redis.",
@@ -275,17 +356,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 91,
-    "updated_at": "2026-09-10T11:49:31Z",
+    "updated_at": "2026-09-10T12:26:24Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46045,
-    "updated_at": "2026-09-10T11:45:55Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
@@ -338,7 +410,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16798,
-    "updated_at": "2026-09-10T12:11:50Z",
+    "updated_at": "2026-09-10T12:26:58Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -351,21 +423,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-09-10T12:14:25Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30620,
-    "updated_at": "2026-09-10T12:05:14Z",
+    "updated_at": "2026-09-10T12:26:01Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T11:40:17Z",
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-09-10T11:38:53Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Provider-agnostic tester for retrieval-scope enforcement in RAG systems (RAG-AUTH-001..004). External reference implemen",
-    "id": "vishnu-77/retrieval-scope-tester",
-    "language": "Python",
-    "name": "vishnu-77/retrieval-scope-tester",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:37:23Z",
-    "url": "https://github.com/vishnu-77/retrieval-scope-tester"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 4,
-    "updated_at": "2026-09-10T11:35:16Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-09-10T11:33:50Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 3,
-    "updated_at": "2026-09-10T11:32:52Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-09-10T11:31:37Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-09-10T11:30:30Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
   }
 ]
