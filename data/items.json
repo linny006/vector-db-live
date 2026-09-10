@@ -1,11 +1,74 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T20:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7079,
+    "updated_at": "2026-09-10T20:28:59Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
+    "id": "Yigtwxx/awesome-rag-production",
+    "language": "Python",
+    "name": "Yigtwxx/awesome-rag-production",
+    "stars": 216,
+    "updated_at": "2026-09-10T20:24:43Z",
+    "url": "https://github.com/Yigtwxx/awesome-rag-production"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-10T20:17:11Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1146,
+    "updated_at": "2026-09-10T20:22:58Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
+    "id": "bobaba76/Argos",
+    "language": "Python",
+    "name": "bobaba76/Argos",
+    "stars": 8,
+    "updated_at": "2026-09-10T20:26:35Z",
+    "url": "https://github.com/bobaba76/Argos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T20:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Software engineering portfolio with an integrated RAG-powered TalentBot assistant for recruiter-facing Q&A about my expe",
     "id": "nishanthrjn/nishanthrjn.github.io",
     "language": "JavaScript",
     "name": "nishanthrjn/nishanthrjn.github.io",
     "stars": 0,
-    "updated_at": "2026-09-10T20:15:00Z",
+    "updated_at": "2026-09-10T20:16:28Z",
     "url": "https://github.com/nishanthrjn/nishanthrjn.github.io"
   },
   {
@@ -14,7 +77,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6426,
-    "updated_at": "2026-09-10T20:10:37Z",
+    "updated_at": "2026-09-10T20:20:24Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -27,15 +90,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-10T20:05:26Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
     "description": "RAG en producci\u00f3n explicado desde un sistema real: arquitectura, seis fallas que rompieron de verdad y c\u00f3mo se diagnosti",
     "id": "MartinZ18/rag-en-produccion",
     "language": "\u2014",
@@ -45,15 +99,6 @@
     "url": "https://github.com/MartinZ18/rag-en-produccion"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T20:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
     "id": "LuisinTheLegend/ConciergeGraph",
     "language": "Python",
@@ -61,24 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T20:01:14Z",
     "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
-  },
-  {
-    "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
-    "id": "bobaba76/Argos",
-    "language": "Python",
-    "name": "bobaba76/Argos",
-    "stars": 8,
-    "updated_at": "2026-09-10T20:09:51Z",
-    "url": "https://github.com/bobaba76/Argos"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T20:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Projeto em desenvolvimento.",
@@ -104,7 +131,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 91,
-    "updated_at": "2026-09-10T20:11:28Z",
+    "updated_at": "2026-09-10T20:25:52Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T19:21:19Z",
     "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 1,
-    "updated_at": "2026-09-10T19:19:26Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search, ",
-    "id": "akarshjain05/rag",
-    "language": "Python",
-    "name": "akarshjain05/rag",
-    "stars": 0,
-    "updated_at": "2026-09-10T19:18:20Z",
-    "url": "https://github.com/akarshjain05/rag"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-09-10T19:17:01Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
   }
 ]
