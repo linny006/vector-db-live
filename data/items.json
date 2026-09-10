@@ -1,5 +1,149 @@
 [
   {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-09-10T11:29:06Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "TensoRAG: High-performance Python engine for vector compression & fast RAG search via ML-GSVD. Reduces RAM up to 91%, sp",
+    "id": "Forstwichtel/TensoRAG",
+    "language": "Python",
+    "name": "Forstwichtel/TensoRAG",
+    "stars": 1,
+    "updated_at": "2026-09-10T11:26:48Z",
+    "url": "https://github.com/Forstwichtel/TensoRAG"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-09-10T11:25:30Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16798,
+    "updated_at": "2026-09-10T11:27:30Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6236,
+    "updated_at": "2026-09-10T11:25:50Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 276,
+    "updated_at": "2026-09-10T11:24:19Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-10T11:23:40Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 3,
+    "updated_at": "2026-09-10T11:23:09Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-09-10T11:21:56Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-10T11:19:11Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-09-10T11:17:39Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-09-10T11:15:55Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-09-10T11:15:43Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-10T11:15:35Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T11:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T11:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
     "id": "fub05/MCP---Agent-Starter-Kit",
     "language": "Python",
@@ -50,17 +194,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8196,
-    "updated_at": "2026-09-10T11:11:44Z",
+    "updated_at": "2026-09-10T11:29:31Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-10T11:12:56Z",
-    "url": "https://github.com/vanedb/vanedb"
   },
   {
     "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
@@ -126,33 +261,6 @@
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16798,
-    "updated_at": "2026-09-10T11:07:02Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T11:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T11:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
     "id": "PunGrumpy/vecstore-sdk",
     "language": "TypeScript",
@@ -167,7 +275,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7079,
-    "updated_at": "2026-09-10T10:59:14Z",
+    "updated_at": "2026-09-10T11:28:29Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -176,7 +284,7 @@
     "language": "Python",
     "name": "redis/redis-vl-python",
     "stars": 426,
-    "updated_at": "2026-09-10T11:13:52Z",
+    "updated_at": "2026-09-10T11:25:13Z",
     "url": "https://github.com/redis/redis-vl-python"
   },
   {
@@ -194,7 +302,7 @@
     "language": "Python",
     "name": "oracle/vecdb-python-sdk",
     "stars": 70,
-    "updated_at": "2026-09-10T10:48:10Z",
+    "updated_at": "2026-09-10T11:28:08Z",
     "url": "https://github.com/oracle/vecdb-python-sdk"
   },
   {
@@ -202,7 +310,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 3086,
+    "stars": 3088,
     "updated_at": "2026-09-10T10:45:46Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -212,7 +320,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30618,
-    "updated_at": "2026-09-10T11:13:12Z",
+    "updated_at": "2026-09-10T11:16:10Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -247,8 +355,8 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35613,
-    "updated_at": "2026-09-10T10:30:40Z",
+    "stars": 35614,
+    "updated_at": "2026-09-10T11:26:47Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -277,15 +385,6 @@
     "stars": 11,
     "updated_at": "2026-09-10T10:22:10Z",
     "url": "https://github.com/hoffresearch/nest"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6236,
-    "updated_at": "2026-09-10T10:47:35Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Head of Product & Experience at Distinct AI. Official n8n creator building production-grade agentic RAG, multi-agent sys",
@@ -338,7 +437,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1141,
-    "updated_at": "2026-09-10T11:14:51Z",
+    "updated_at": "2026-09-10T11:26:19Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -349,104 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-10T10:04:46Z",
     "url": "https://github.com/NiravRVaghasiya/BrainOS"
-  },
-  {
-    "description": "Official repository of the Seismic library.",
-    "id": "TusKANNy/seismic",
-    "language": "Rust",
-    "name": "TusKANNy/seismic",
-    "stars": 137,
-    "updated_at": "2026-09-10T10:02:47Z",
-    "url": "https://github.com/TusKANNy/seismic"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13061,
-    "updated_at": "2026-09-10T10:06:39Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "\u26a1 Autonomous AI Agent with ReAct reasoning, 9 tools, and a 3-database stack (Supabase + Pinecone + Redis) \u2014 Powered by G",
-    "id": "ranvirdeshmukh2004/My-AI-ReAct-Framework",
-    "language": "JavaScript",
-    "name": "ranvirdeshmukh2004/My-AI-ReAct-Framework",
-    "stars": 0,
-    "updated_at": "2026-09-10T10:00:49Z",
-    "url": "https://github.com/ranvirdeshmukh2004/My-AI-ReAct-Framework"
-  },
-  {
-    "description": "A modular Retrieval-Augmented Generation (RAG) system with query routing, structured citations, and a FastAPI + Streamli",
-    "id": "Prabhash-hub/RAG_Project",
-    "language": "Python",
-    "name": "Prabhash-hub/RAG_Project",
-    "stars": 0,
-    "updated_at": "2026-09-10T09:59:49Z",
-    "url": "https://github.com/Prabhash-hub/RAG_Project"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-09-10T09:59:33Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 34,
-    "updated_at": "2026-09-10T10:49:27Z",
-    "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 89,
-    "updated_at": "2026-09-10T09:57:44Z",
-    "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "Versioned vector index with MVCC, snapshot isolation, and branchable agent memory",
-    "id": "mchl-labs/chronovec",
-    "language": "Python",
-    "name": "mchl-labs/chronovec",
-    "stars": 2,
-    "updated_at": "2026-09-10T09:56:42Z",
-    "url": "https://github.com/mchl-labs/chronovec"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-09-10T09:55:20Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-09-10T09:53:33Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-09-10T09:53:24Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   }
 ]
