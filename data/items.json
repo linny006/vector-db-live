@@ -1,5 +1,122 @@
 [
   {
+    "description": "Kubernetes Operator for Qdrant \u2014 declarative QdrantCluster/QdrantCollection management, distributed (Raft) clusters, aut",
+    "id": "KeiaiLab/qdrant-operator",
+    "language": "Go",
+    "name": "KeiaiLab/qdrant-operator",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:13:44Z",
+    "url": "https://github.com/KeiaiLab/qdrant-operator"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:11:40Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15871,
+    "updated_at": "2026-09-10T06:09:19Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje",
+    "id": "karthikbilaspur/ai_learning",
+    "language": "TypeScript",
+    "name": "karthikbilaspur/ai_learning",
+    "stars": 2,
+    "updated_at": "2026-09-10T06:08:15Z",
+    "url": "https://github.com/karthikbilaspur/ai_learning"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1885,
+    "updated_at": "2026-09-10T06:07:19Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9437,
+    "updated_at": "2026-09-10T06:14:28Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
+    "id": "sarthaksinha2600/LLM-Contract",
+    "language": "\u2014",
+    "name": "sarthaksinha2600/LLM-Contract",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:03:31Z",
+    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 80,
+    "updated_at": "2026-09-10T06:03:26Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
+    "id": "Shitless-jnr3697/rebasis",
+    "language": "Python",
+    "name": "Shitless-jnr3697/rebasis",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:02:33Z",
+    "url": "https://github.com/Shitless-jnr3697/rebasis"
+  },
+  {
+    "description": "HNSW vector search from scratch in Java: layered navigable graph, SIMD distance kernels, filtered search. 20x faster tha",
+    "id": "Ankitnehra6/vector-engine",
+    "language": "Java",
+    "name": "Ankitnehra6/vector-engine",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:02:06Z",
+    "url": "https://github.com/Ankitnehra6/vector-engine"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1472,
+    "updated_at": "2026-09-10T06:15:13Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
+    "id": "boulif781/enterprise-knowledge-assistant",
+    "language": "\u2014",
+    "name": "boulif781/enterprise-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:00:40Z",
+    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T06:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -90,31 +207,13 @@
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   },
   {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-10T05:58:00Z",
-    "url": "https://github.com/tamnd/yo"
-  },
-  {
     "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
     "id": "PunGrumpy/vecstore-sdk",
     "language": "TypeScript",
     "name": "PunGrumpy/vecstore-sdk",
     "stars": 2,
-    "updated_at": "2026-09-10T05:48:52Z",
+    "updated_at": "2026-09-10T06:14:14Z",
     "url": "https://github.com/PunGrumpy/vecstore-sdk"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15871,
-    "updated_at": "2026-09-10T05:47:40Z",
-    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
@@ -151,15 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T05:45:35Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T05:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
@@ -351,15 +441,6 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9436,
-    "updated_at": "2026-09-10T05:09:56Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
     "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
     "id": "GCTRL-TECH/platform",
     "language": "TypeScript",
@@ -367,86 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-10T05:03:01Z",
     "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-09-10T04:53:23Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-09-10T04:49:07Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1885,
-    "updated_at": "2026-09-10T05:57:41Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1141,
-    "updated_at": "2026-09-10T04:36:33Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1472,
-    "updated_at": "2026-09-10T05:18:56Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "AccuKnox AI/ML Assessment \u2014 REST API + SQLite + CSV + Matplotlib (Problem Statement 1) and LLM Chatbot Architecture + Ve",
-    "id": "9bishal/accuknox-ai-ml-assessment",
-    "language": "Python",
-    "name": "9bishal/accuknox-ai-ml-assessment",
-    "stars": 0,
-    "updated_at": "2026-09-10T04:27:06Z",
-    "url": "https://github.com/9bishal/accuknox-ai-ml-assessment"
-  },
-  {
-    "description": "Kubernetes Operator for Qdrant \u2014 declarative QdrantCluster/QdrantCollection management, distributed (Raft) clusters, aut",
-    "id": "KeiaiLab/qdrant-operator",
-    "language": "Go",
-    "name": "KeiaiLab/qdrant-operator",
-    "stars": 0,
-    "updated_at": "2026-09-10T04:26:47Z",
-    "url": "https://github.com/KeiaiLab/qdrant-operator"
-  },
-  {
-    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
-    "id": "caoergou/dify-installer",
-    "language": "Shell",
-    "name": "caoergou/dify-installer",
-    "stars": 2,
-    "updated_at": "2026-09-10T04:22:04Z",
-    "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
-    "id": "alxxtexxr/arxiv_agent",
-    "language": "Python",
-    "name": "alxxtexxr/arxiv_agent",
-    "stars": 0,
-    "updated_at": "2026-09-10T04:19:58Z",
-    "url": "https://github.com/alxxtexxr/arxiv_agent"
   }
 ]
