@@ -1,21 +1,66 @@
 [
   {
-    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 1,
-    "updated_at": "2026-09-10T16:58:53Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11394,
+    "updated_at": "2026-09-10T17:15:10Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
-    "id": "wickra-lib/wickra-genome",
-    "language": "Rust",
-    "name": "wickra-lib/wickra-genome",
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
     "stars": 1,
-    "updated_at": "2026-09-10T16:57:02Z",
-    "url": "https://github.com/wickra-lib/wickra-genome"
+    "updated_at": "2026-09-10T17:15:05Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "Learn vector search with Rust and DataFusion; the C++/BusTub track is deprecated.",
+    "id": "skyzh/vector-db-from-scratch",
+    "language": "Rust",
+    "name": "skyzh/vector-db-from-scratch",
+    "stars": 799,
+    "updated_at": "2026-09-10T17:13:16Z",
+    "url": "https://github.com/skyzh/vector-db-from-scratch"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-10T17:13:14Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 65882,
+    "updated_at": "2026-09-10T17:11:34Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
+    "id": "Aashutosh31/arc-ai-project",
+    "language": "JavaScript",
+    "name": "Aashutosh31/arc-ai-project",
+    "stars": 2,
+    "updated_at": "2026-09-10T17:10:28Z",
+    "url": "https://github.com/Aashutosh31/arc-ai-project"
+  },
+  {
+    "description": "A safety-guarded clinical conversational AI and RAG platform for hypertension management with deterministic triage, even",
+    "id": "Farhan-0000/MedBridge",
+    "language": "Python",
+    "name": "Farhan-0000/MedBridge",
+    "stars": 0,
+    "updated_at": "2026-09-10T17:08:47Z",
+    "url": "https://github.com/Farhan-0000/MedBridge"
   },
   {
     "description": "\u26a1 Autonomous AI Agent with ReAct reasoning, 9 tools, and a 3-database stack (Supabase + Pinecone + Redis) \u2014 Powered by G",
@@ -23,8 +68,71 @@
     "language": "JavaScript",
     "name": "ranvirdeshmukh2004/My-AI-ReAct-Framework",
     "stars": 0,
-    "updated_at": "2026-09-10T16:56:09Z",
+    "updated_at": "2026-09-10T17:08:08Z",
     "url": "https://github.com/ranvirdeshmukh2004/My-AI-ReAct-Framework"
+  },
+  {
+    "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
+    "id": "wickra-lib/wickra-genome",
+    "language": "Rust",
+    "name": "wickra-lib/wickra-genome",
+    "stars": 1,
+    "updated_at": "2026-09-10T17:07:38Z",
+    "url": "https://github.com/wickra-lib/wickra-genome"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-10T17:07:33Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Zero-bloat distributed vector memory, hardware-enforced domain firewalls, and NAT-traversing execution mesh for multi-in",
+    "id": "amrlazw/hermes-fleet-synapse",
+    "language": "Python",
+    "name": "amrlazw/hermes-fleet-synapse",
+    "stars": 3,
+    "updated_at": "2026-09-10T17:05:03Z",
+    "url": "https://github.com/amrlazw/hermes-fleet-synapse"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-09-10T17:04:53Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-10T17:15:05Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T17:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T17:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -59,26 +167,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9251,
-    "updated_at": "2026-09-10T16:56:17Z",
+    "updated_at": "2026-09-10T17:12:58Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T16:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T16:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-Native OSINT & 3D Link Analysis Platform",
@@ -108,13 +198,13 @@
     "url": "https://github.com/Knighthawk-Leo/RepoMind"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-10T16:34:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1143,
+    "updated_at": "2026-09-10T16:36:20Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -133,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T16:30:12Z",
     "url": "https://github.com/nishanthrjn/nishanthrjn.github.io"
-  },
-  {
-    "description": "A safety-guarded clinical conversational AI and RAG platform for hypertension management with deterministic triage, even",
-    "id": "Farhan-0000/MedBridge",
-    "language": "Python",
-    "name": "Farhan-0000/MedBridge",
-    "stars": 0,
-    "updated_at": "2026-09-10T16:28:51Z",
-    "url": "https://github.com/Farhan-0000/MedBridge"
   },
   {
     "description": "Enterprise Financial RAG microservices engine built with Spring Boot, FastAPI, PostgreSQL pgvector, AWS S3/Lambda/SQS, B",
@@ -180,15 +261,6 @@
     "url": "https://github.com/rehan243/rehan243"
   },
   {
-    "description": "Zero-bloat distributed vector memory, hardware-enforced domain firewalls, and NAT-traversing execution mesh for multi-in",
-    "id": "amrlazw/hermes-fleet-synapse",
-    "language": "Python",
-    "name": "amrlazw/hermes-fleet-synapse",
-    "stars": 3,
-    "updated_at": "2026-09-10T16:20:05Z",
-    "url": "https://github.com/amrlazw/hermes-fleet-synapse"
-  },
-  {
     "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
     "id": "rehan243/RAG-Enterprise-Search",
     "language": "Python",
@@ -207,6 +279,15 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13064,
+    "updated_at": "2026-09-10T16:09:09Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -214,15 +295,6 @@
     "stars": 1352,
     "updated_at": "2026-09-10T16:06:00Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13063,
-    "updated_at": "2026-09-10T16:09:09Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -324,15 +396,6 @@
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11394,
-    "updated_at": "2026-09-10T15:41:33Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
     "id": "Tobiaszn8972/turboquant-gpu",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-10T15:37:16Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30622,
-    "updated_at": "2026-09-10T16:37:31Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 4,
-    "updated_at": "2026-09-10T15:34:23Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-09-10T15:33:28Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-09-10T15:31:50Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16799,
-    "updated_at": "2026-09-10T16:59:22Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "JavaScript",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-09-10T15:30:44Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 4,
-    "updated_at": "2026-09-10T15:27:59Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
   }
 ]
