@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T14:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7079,
+    "updated_at": "2026-09-10T14:11:44Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-10T14:08:06Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6236,
+    "updated_at": "2026-09-10T14:13:09Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4435,
+    "updated_at": "2026-09-10T14:07:36Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T14:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Learn vector search with Rust and DataFusion; the C++/BusTub track is deprecated.",
+    "id": "skyzh/vector-db-from-scratch",
+    "language": "Rust",
+    "name": "skyzh/vector-db-from-scratch",
+    "stars": 799,
+    "updated_at": "2026-09-10T13:56:20Z",
+    "url": "https://github.com/skyzh/vector-db-from-scratch"
+  },
+  {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
@@ -18,30 +81,12 @@
     "url": "https://github.com/devbratghosh/Enterprise-RAG-Assistant-v1.0"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T13:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T14:00:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34482,
-    "updated_at": "2026-09-10T13:41:49Z",
+    "updated_at": "2026-09-10T14:12:31Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -52,15 +97,6 @@
     "stars": 8,
     "updated_at": "2026-09-10T13:39:49Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4435,
-    "updated_at": "2026-09-10T13:53:02Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
@@ -81,30 +117,12 @@
     "url": "https://github.com/akarshjain05/rag"
   },
   {
-    "description": "Learn vector search with Rust and DataFusion; the C++/BusTub track is deprecated.",
-    "id": "skyzh/vector-db-from-scratch",
-    "language": "Rust",
-    "name": "skyzh/vector-db-from-scratch",
-    "stars": 798,
-    "updated_at": "2026-09-10T13:56:20Z",
-    "url": "https://github.com/skyzh/vector-db-from-scratch"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-10T13:34:05Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1142,
-    "updated_at": "2026-09-10T13:54:30Z",
+    "updated_at": "2026-09-10T14:01:34Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -130,7 +148,7 @@
     "id": "infinispan/infinispan",
     "language": "Java",
     "name": "infinispan/infinispan",
-    "stars": 1351,
+    "stars": 1352,
     "updated_at": "2026-09-10T13:16:27Z",
     "url": "https://github.com/infinispan/infinispan"
   },
@@ -158,7 +176,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1885,
-    "updated_at": "2026-09-10T13:11:06Z",
+    "updated_at": "2026-09-10T14:14:55Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -257,7 +275,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8198,
-    "updated_at": "2026-09-10T14:00:24Z",
+    "updated_at": "2026-09-10T14:08:38Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9251,
-    "updated_at": "2026-09-10T13:43:05Z",
+    "updated_at": "2026-09-10T14:11:45Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -419,17 +437,8 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 855,
-    "updated_at": "2026-09-10T12:02:12Z",
+    "updated_at": "2026-09-10T14:13:46Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6236,
-    "updated_at": "2026-09-10T13:59:43Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "HEDGE-ExpertAI aims to make the HEDGE-IoT App Store easier to explore and understand for non-expert users by introducing",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T12:00:45Z",
     "url": "https://github.com/RaptorBlingx/HEDGE-ExpertAI"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 24,
-    "updated_at": "2026-09-10T11:56:48Z",
-    "url": "https://github.com/Cognipeer/console"
   }
 ]
