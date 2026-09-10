@@ -1,12 +1,75 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-10T16:08:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1352,
+    "updated_at": "2026-09-10T16:06:00Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13063,
-    "updated_at": "2026-09-10T15:56:11Z",
+    "updated_at": "2026-09-10T16:09:09Z",
     "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Zero-bloat distributed vector memory, hardware-enforced domain firewalls, and NAT-traversing execution mesh for multi-in",
+    "id": "amrlazw/hermes-fleet-memory",
+    "language": "Python",
+    "name": "amrlazw/hermes-fleet-memory",
+    "stars": 3,
+    "updated_at": "2026-09-10T16:04:44Z",
+    "url": "https://github.com/amrlazw/hermes-fleet-memory"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 344,
+    "updated_at": "2026-09-10T16:01:59Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T16:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T16:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A modular Retrieval-Augmented Generation (RAG) system with query routing, structured citations, and a FastAPI + Streamli",
+    "id": "Neeleshsingh30/RAG-BASED-CHATBOT",
+    "language": "Python",
+    "name": "Neeleshsingh30/RAG-BASED-CHATBOT",
+    "stars": 0,
+    "updated_at": "2026-09-10T15:57:24Z",
+    "url": "https://github.com/Neeleshsingh30/RAG-BASED-CHATBOT"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -32,7 +95,7 @@
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-09-10T15:50:07Z",
+    "updated_at": "2026-09-10T16:08:42Z",
     "url": "https://github.com/vanedb/vanedb"
   },
   {
@@ -50,35 +113,8 @@
     "language": "Python",
     "name": "AkashKundu114/COPPER",
     "stars": 1,
-    "updated_at": "2026-09-10T15:47:15Z",
+    "updated_at": "2026-09-10T16:14:44Z",
     "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "Zero-bloat distributed vector memory, hardware-enforced domain firewalls, and NAT-traversing execution mesh for multi-in",
-    "id": "amrlazw/hermes-fleet-memory",
-    "language": "Python",
-    "name": "amrlazw/hermes-fleet-memory",
-    "stars": 3,
-    "updated_at": "2026-09-10T15:46:48Z",
-    "url": "https://github.com/amrlazw/hermes-fleet-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T15:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T15:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -88,15 +124,6 @@
     "stars": 238,
     "updated_at": "2026-09-10T15:44:53Z",
     "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "A modular Retrieval-Augmented Generation (RAG) system with query routing, structured citations, and a FastAPI + Streamli",
-    "id": "Neeleshsingh30/RAG-BASED-CHATBOT",
-    "language": "Python",
-    "name": "Neeleshsingh30/RAG-BASED-CHATBOT",
-    "stars": 0,
-    "updated_at": "2026-09-10T15:57:24Z",
-    "url": "https://github.com/Neeleshsingh30/RAG-BASED-CHATBOT"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -203,17 +230,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30622,
-    "updated_at": "2026-09-10T15:36:47Z",
+    "updated_at": "2026-09-10T16:13:01Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-10T15:35:47Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
@@ -239,7 +257,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9251,
-    "updated_at": "2026-09-10T15:53:06Z",
+    "updated_at": "2026-09-10T16:13:00Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -257,7 +275,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16799,
-    "updated_at": "2026-09-10T15:54:54Z",
+    "updated_at": "2026-09-10T16:13:16Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-10T15:08:39Z",
     "url": "https://github.com/mohitmail85/rag-ai-research-papers"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
-    "id": "britorbs/consciousdb",
-    "language": "Python",
-    "name": "britorbs/consciousdb",
-    "stars": 0,
-    "updated_at": "2026-09-10T15:06:50Z",
-    "url": "https://github.com/britorbs/consciousdb"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-10T15:06:43Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
