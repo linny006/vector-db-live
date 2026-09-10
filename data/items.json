@@ -1,6 +1,60 @@
 [
   {
-    "description": "Embeddable vector database for Rust and Python. HNSW indexing, metadata filtering, hybrid search, and snapshots. The SQL",
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 244,
+    "updated_at": "2026-09-10T18:26:31Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
+    "description": "ReAct Framework agent in Python. 14 tools with AST-sandboxed code execution and SSRF-guarded fetching, multi-provider LL",
+    "id": "ranvirdeshmukh2004/My-AI-ReAct-Framework",
+    "language": "JavaScript",
+    "name": "ranvirdeshmukh2004/My-AI-ReAct-Framework",
+    "stars": 0,
+    "updated_at": "2026-09-10T18:24:06Z",
+    "url": "https://github.com/ranvirdeshmukh2004/My-AI-ReAct-Framework"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-10T18:22:50Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T18:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-09-10T18:18:53Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T18:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embeddable vector search in Rust: metadata filtering, persistence, and optional Python/WASM interfaces. Alpha.",
     "id": "PhilipJohnBasile/vecstore",
     "language": "Rust",
     "name": "PhilipJohnBasile/vecstore",
@@ -16,24 +70,6 @@
     "stars": 5,
     "updated_at": "2026-09-10T18:14:16Z",
     "url": "https://github.com/desikai-lab/Marrow"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-10T18:13:44Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 1,
-    "updated_at": "2026-09-10T18:12:46Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -70,24 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T18:02:00Z",
     "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T18:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T18:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -149,7 +167,7 @@
     "language": "Rust",
     "name": "skyzh/vector-db-from-scratch",
     "stars": 799,
-    "updated_at": "2026-09-10T17:57:10Z",
+    "updated_at": "2026-09-10T18:19:04Z",
     "url": "https://github.com/skyzh/vector-db-from-scratch"
   },
   {
@@ -301,7 +319,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30626,
+    "stars": 30627,
     "updated_at": "2026-09-10T17:42:58Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T17:25:15Z",
     "url": "https://github.com/wickra-lib/wickra-genome"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
-    "id": "britorbs/consciousdb",
-    "language": "Python",
-    "name": "britorbs/consciousdb",
-    "stars": 0,
-    "updated_at": "2026-09-10T17:25:08Z",
-    "url": "https://github.com/britorbs/consciousdb"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-10T17:24:56Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
