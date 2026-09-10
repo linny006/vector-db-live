@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-10T14:30:29Z",
+    "updated_at": "2026-09-10T14:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6236,
+    "updated_at": "2026-09-10T14:42:02Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13063,
+    "updated_at": "2026-09-10T14:36:37Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-10T14:36:36Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 855,
+    "updated_at": "2026-09-10T14:33:49Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T14:30:37Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The AI search platform",
@@ -14,7 +59,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7079,
-    "updated_at": "2026-09-10T14:29:16Z",
+    "updated_at": "2026-09-10T14:43:42Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -72,15 +117,6 @@
     "url": "https://github.com/crate/langchain-cratedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T14:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
     "id": "maximilien/weave-cli",
     "language": "Go",
@@ -88,33 +124,6 @@
     "stars": 33,
     "updated_at": "2026-09-10T14:15:03Z",
     "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 855,
-    "updated_at": "2026-09-10T14:26:40Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-10T14:08:06Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6236,
-    "updated_at": "2026-09-10T14:13:09Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -131,7 +140,7 @@
     "language": "Rust",
     "name": "skyzh/vector-db-from-scratch",
     "stars": 799,
-    "updated_at": "2026-09-10T13:56:20Z",
+    "updated_at": "2026-09-10T14:32:50Z",
     "url": "https://github.com/skyzh/vector-db-from-scratch"
   },
   {
@@ -167,7 +176,7 @@
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-09-10T13:39:49Z",
+    "updated_at": "2026-09-10T14:45:14Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
@@ -239,7 +248,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30622,
-    "updated_at": "2026-09-10T13:07:53Z",
+    "updated_at": "2026-09-10T14:31:39Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -293,7 +302,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59245,
-    "updated_at": "2026-09-10T14:27:39Z",
+    "updated_at": "2026-09-10T14:35:36Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16799,
-    "updated_at": "2026-09-10T14:21:47Z",
+    "updated_at": "2026-09-10T14:40:53Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -365,7 +374,7 @@
     "language": "Python",
     "name": "bobaba76/Argos",
     "stars": 8,
-    "updated_at": "2026-09-10T12:30:56Z",
+    "updated_at": "2026-09-10T14:34:54Z",
     "url": "https://github.com/bobaba76/Argos"
   },
   {
@@ -383,7 +392,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-09-10T14:22:32Z",
+    "updated_at": "2026-09-10T14:39:46Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9251,
-    "updated_at": "2026-09-10T14:11:45Z",
+    "updated_at": "2026-09-10T14:42:30Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 89,
     "updated_at": "2026-09-10T12:13:41Z",
     "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9438,
-    "updated_at": "2026-09-10T13:55:02Z",
-    "url": "https://github.com/databendlabs/databend"
   }
 ]
