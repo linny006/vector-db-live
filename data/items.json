@@ -1,5 +1,122 @@
 [
   {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-09-10T04:14:28Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1885,
+    "updated_at": "2026-09-10T04:12:07Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-09-10T04:11:41Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 8,
+    "updated_at": "2026-09-10T04:11:16Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-10T04:10:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Kubernetes Operator for Qdrant \u2014 declarative QdrantCluster/QdrantCollection management, distributed (Raft) clusters, aut",
+    "id": "KeiaiLab/qdrant-operator",
+    "language": "Go",
+    "name": "KeiaiLab/qdrant-operator",
+    "stars": 0,
+    "updated_at": "2026-09-10T04:08:58Z",
+    "url": "https://github.com/KeiaiLab/qdrant-operator"
+  },
+  {
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
+    "stars": 0,
+    "updated_at": "2026-09-10T04:07:05Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
+    "id": "alxxtexxr/arxiv_agent",
+    "language": "Python",
+    "name": "alxxtexxr/arxiv_agent",
+    "stars": 0,
+    "updated_at": "2026-09-10T04:03:51Z",
+    "url": "https://github.com/alxxtexxr/arxiv_agent"
+  },
+  {
+    "description": "LlamaIndex is the leading document agent and OCR platform",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 52106,
+    "updated_at": "2026-09-10T04:02:24Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
+    "id": "sarthaksinha2600/LLM-Contract",
+    "language": "\u2014",
+    "name": "sarthaksinha2600/LLM-Contract",
+    "stars": 0,
+    "updated_at": "2026-09-10T04:02:00Z",
+    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
+  },
+  {
+    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
+    "id": "Shitless-jnr3697/rebasis",
+    "language": "Python",
+    "name": "Shitless-jnr3697/rebasis",
+    "stars": 0,
+    "updated_at": "2026-09-10T04:01:07Z",
+    "url": "https://github.com/Shitless-jnr3697/rebasis"
+  },
+  {
+    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
+    "id": "aadityansha06/vecdb",
+    "language": "C",
+    "name": "aadityansha06/vecdb",
+    "stars": 11,
+    "updated_at": "2026-09-10T04:00:49Z",
+    "url": "https://github.com/aadityansha06/vecdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T04:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,21 +135,12 @@
     "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
   },
   {
-    "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
-    "id": "alxxtexxr/arxiv_agent",
-    "language": "Python",
-    "name": "alxxtexxr/arxiv_agent",
-    "stars": 0,
-    "updated_at": "2026-09-10T03:58:35Z",
-    "url": "https://github.com/alxxtexxr/arxiv_agent"
-  },
-  {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
     "id": "hoffresearch/nest",
     "language": "Rust",
     "name": "hoffresearch/nest",
     "stars": 11,
-    "updated_at": "2026-09-10T03:58:23Z",
+    "updated_at": "2026-09-10T04:08:37Z",
     "url": "https://github.com/hoffresearch/nest"
   },
   {
@@ -50,7 +158,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1141,
-    "updated_at": "2026-09-10T03:59:42Z",
+    "updated_at": "2026-09-10T04:15:01Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -61,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T03:57:10Z",
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-09-10T03:55:28Z",
-    "url": "https://github.com/23skdu/longbow"
   },
   {
     "description": "NextSQL is a new database engine, written primarily in Go.",
@@ -122,7 +221,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9436,
-    "updated_at": "2026-09-10T03:50:33Z",
+    "updated_at": "2026-09-10T04:01:47Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -140,7 +239,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1472,
-    "updated_at": "2026-09-10T03:49:32Z",
+    "updated_at": "2026-09-10T04:07:33Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -169,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T03:45:23Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T03:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
@@ -252,15 +342,6 @@
     "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-10T03:38:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
     "id": "Ojcalzada/pulsepoint-RAG",
     "language": "Python",
@@ -277,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T03:34:49Z",
     "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-10T03:37:14Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
@@ -322,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T03:29:24Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
-    "id": "aadityansha06/vecdb",
-    "language": "C",
-    "name": "aadityansha06/vecdb",
-    "stars": 11,
-    "updated_at": "2026-09-10T03:26:21Z",
-    "url": "https://github.com/aadityansha06/vecdb"
   },
   {
     "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T03:17:11Z",
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "",
-    "id": "dkylewillis/vera",
-    "language": "Python",
-    "name": "dkylewillis/vera",
-    "stars": 17,
-    "updated_at": "2026-09-10T03:40:14Z",
-    "url": "https://github.com/dkylewillis/vera"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1885,
-    "updated_at": "2026-09-10T03:38:47Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Production-grade genpark-hnsw-hierarchical-navigable-small-world-skill skill for AI agents",
-    "id": "Alpha-Park/genpark-hnsw-hierarchical-navigable-small-world-skill",
-    "language": "Python",
-    "name": "Alpha-Park/genpark-hnsw-hierarchical-navigable-small-world-skill",
-    "stars": 7,
-    "updated_at": "2026-09-10T03:12:09Z",
-    "url": "https://github.com/Alpha-Park/genpark-hnsw-hierarchical-navigable-small-world-skill"
-  },
-  {
-    "description": "Production-grade genpark-hnsw-hierarchical-navigable-small-world-skill skill for AI agents",
-    "id": "alphaparkinc/genpark-hnsw-hierarchical-navigable-small-world-skill",
-    "language": "Python",
-    "name": "alphaparkinc/genpark-hnsw-hierarchical-navigable-small-world-skill",
-    "stars": 7,
-    "updated_at": "2026-09-10T03:11:46Z",
-    "url": "https://github.com/alphaparkinc/genpark-hnsw-hierarchical-navigable-small-world-skill"
-  },
-  {
-    "description": "A RAG pipeline for question answering about PES University",
-    "id": "pesu-dev/ask-pesu",
-    "language": "TypeScript",
-    "name": "pesu-dev/ask-pesu",
-    "stars": 8,
-    "updated_at": "2026-09-10T03:07:22Z",
-    "url": "https://github.com/pesu-dev/ask-pesu"
-  },
-  {
-    "description": "Benchmark for vector databases.",
-    "id": "zilliztech/VectorDBBench",
-    "language": "Python",
-    "name": "zilliztech/VectorDBBench",
-    "stars": 1175,
-    "updated_at": "2026-09-10T03:04:48Z",
-    "url": "https://github.com/zilliztech/VectorDBBench"
-  },
-  {
-    "description": "Shared, persistent memory for AI agents. Self-hosted MCP server with semantic search, vector RAG, and live updates. Work",
-    "id": "MontyGovernance/montycat-mcp",
-    "language": "Python",
-    "name": "MontyGovernance/montycat-mcp",
-    "stars": 45,
-    "updated_at": "2026-09-10T03:01:45Z",
-    "url": "https://github.com/MontyGovernance/montycat-mcp"
   }
 ]
