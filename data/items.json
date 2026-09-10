@@ -1,5 +1,41 @@
 [
   {
+    "description": "HNSW vector search from scratch in Java: layered navigable graph, SIMD distance kernels, filtered search. 20x faster tha",
+    "id": "Ankitnehra6/vector-engine",
+    "language": "Java",
+    "name": "Ankitnehra6/vector-engine",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:30:18Z",
+    "url": "https://github.com/Ankitnehra6/vector-engine"
+  },
+  {
+    "description": "Kubernetes Operator for Qdrant \u2014 declarative QdrantCluster/QdrantCollection management, distributed (Raft) clusters, aut",
+    "id": "KeiaiLab/qdrant-operator",
+    "language": "Go",
+    "name": "KeiaiLab/qdrant-operator",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:30:06Z",
+    "url": "https://github.com/KeiaiLab/qdrant-operator"
+  },
+  {
+    "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
+    "id": "PunGrumpy/vecstore-sdk",
+    "language": "TypeScript",
+    "name": "PunGrumpy/vecstore-sdk",
+    "stars": 2,
+    "updated_at": "2026-09-10T06:22:08Z",
+    "url": "https://github.com/PunGrumpy/vecstore-sdk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T06:21:43Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -14,17 +50,8 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1885,
-    "updated_at": "2026-09-10T06:15:58Z",
+    "updated_at": "2026-09-10T06:23:37Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T06:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -43,15 +70,6 @@
     "stars": 3,
     "updated_at": "2026-09-10T06:15:20Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Kubernetes Operator for Qdrant \u2014 declarative QdrantCluster/QdrantCollection management, distributed (Raft) clusters, aut",
-    "id": "KeiaiLab/qdrant-operator",
-    "language": "Go",
-    "name": "KeiaiLab/qdrant-operator",
-    "stars": 0,
-    "updated_at": "2026-09-10T06:13:44Z",
-    "url": "https://github.com/KeiaiLab/qdrant-operator"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -86,7 +104,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9437,
-    "updated_at": "2026-09-10T06:14:28Z",
+    "updated_at": "2026-09-10T06:23:27Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -115,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T06:02:33Z",
     "url": "https://github.com/Shitless-jnr3697/rebasis"
-  },
-  {
-    "description": "HNSW vector search from scratch in Java: layered navigable graph, SIMD distance kernels, filtered search. 20x faster tha",
-    "id": "Ankitnehra6/vector-engine",
-    "language": "Java",
-    "name": "Ankitnehra6/vector-engine",
-    "stars": 0,
-    "updated_at": "2026-09-10T06:02:06Z",
-    "url": "https://github.com/Ankitnehra6/vector-engine"
   },
   {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
@@ -223,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-10T05:49:26Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
-    "id": "PunGrumpy/vecstore-sdk",
-    "language": "TypeScript",
-    "name": "PunGrumpy/vecstore-sdk",
-    "stars": 2,
-    "updated_at": "2026-09-10T06:14:14Z",
-    "url": "https://github.com/PunGrumpy/vecstore-sdk"
   },
   {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
