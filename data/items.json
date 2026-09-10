@@ -1,12 +1,30 @@
 [
   {
-    "description": "HNSW vector search from scratch in Java: layered navigable graph, SIMD distance kernels, filtered search. 20x faster tha",
-    "id": "Ankitnehra6/vector-engine",
-    "language": "Java",
-    "name": "Ankitnehra6/vector-engine",
+    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
+    "id": "tamnd/yo",
+    "language": "Rust",
+    "name": "tamnd/yo",
     "stars": 0,
-    "updated_at": "2026-09-10T06:30:18Z",
-    "url": "https://github.com/Ankitnehra6/vector-engine"
+    "updated_at": "2026-09-10T06:45:19Z",
+    "url": "https://github.com/tamnd/yo"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 120,
+    "updated_at": "2026-09-10T06:44:38Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9437,
+    "updated_at": "2026-09-10T06:45:02Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Kubernetes Operator for Qdrant \u2014 declarative QdrantCluster/QdrantCollection management, distributed (Raft) clusters, aut",
@@ -14,8 +32,80 @@
     "language": "Go",
     "name": "KeiaiLab/qdrant-operator",
     "stars": 0,
-    "updated_at": "2026-09-10T06:30:06Z",
+    "updated_at": "2026-09-10T06:43:03Z",
     "url": "https://github.com/KeiaiLab/qdrant-operator"
+  },
+  {
+    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
+    "id": "hoffresearch/nest",
+    "language": "Rust",
+    "name": "hoffresearch/nest",
+    "stars": 11,
+    "updated_at": "2026-09-10T06:42:39Z",
+    "url": "https://github.com/hoffresearch/nest"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46040,
+    "updated_at": "2026-09-10T06:39:28Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 85,
+    "updated_at": "2026-09-10T06:36:22Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1885,
+    "updated_at": "2026-09-10T06:35:36Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-10T06:34:03Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "HNSW vector search from scratch in Java: layered navigable graph, SIMD distance kernels, filtered search. 20x faster tha",
+    "id": "Ankitnehra6/vector-engine",
+    "language": "Java",
+    "name": "Ankitnehra6/vector-engine",
+    "stars": 0,
+    "updated_at": "2026-09-10T06:31:44Z",
+    "url": "https://github.com/Ankitnehra6/vector-engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T06:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-10T06:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
@@ -27,15 +117,6 @@
     "url": "https://github.com/PunGrumpy/vecstore-sdk"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T06:21:43Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -45,24 +126,6 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1885,
-    "updated_at": "2026-09-10T06:23:37Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-10T06:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -70,15 +133,6 @@
     "stars": 3,
     "updated_at": "2026-09-10T06:15:20Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
-    "id": "tamnd/yo",
-    "language": "Rust",
-    "name": "tamnd/yo",
-    "stars": 0,
-    "updated_at": "2026-09-10T06:11:40Z",
-    "url": "https://github.com/tamnd/yo"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
@@ -97,15 +151,6 @@
     "stars": 2,
     "updated_at": "2026-09-10T06:08:15Z",
     "url": "https://github.com/karthikbilaspur/ai_learning"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9437,
-    "updated_at": "2026-09-10T06:23:27Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1472,
-    "updated_at": "2026-09-10T06:15:13Z",
+    "updated_at": "2026-09-10T06:35:05Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-10T05:54:07Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 120,
-    "updated_at": "2026-09-10T05:53:41Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -387,15 +423,6 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/nest",
-    "language": "Rust",
-    "name": "hoffresearch/nest",
-    "stars": 11,
-    "updated_at": "2026-09-10T05:30:03Z",
-    "url": "https://github.com/hoffresearch/nest"
-  },
-  {
     "description": "Think Flow is an intelligent agent platform built with LangGraph and LangChain for automated reasoning, workflows, and A",
     "id": "Harsh28Pandey/think-flow",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-10T05:24:22Z",
     "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-09-10T05:18:24Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-09-10T05:18:17Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
-    "id": "ermermermermidk/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ermermermermidk/mcp-ai-memory",
-    "stars": 1,
-    "updated_at": "2026-09-10T05:17:49Z",
-    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   }
 ]
