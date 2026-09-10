@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-10 04:30 UTC
+> ⏰ Last updated: 2026-09-10 04:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,19 +43,19 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-10 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1141 | Java | 2026-09-10 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 3 | [KeiaiLab/qdrant-operator](https://github.com/KeiaiLab/qdrant-operator) | 0 | Go | 2026-09-10 | Kubernetes Operator for Qdrant — declarative QdrantCluster/QdrantCollection management, distributed (Raft) clusters, aut |
-| 4 | [caoergou/dify-installer](https://github.com/caoergou/dify-installer) | 2 | Shell | 2026-09-10 | One-click installer for Dify Docker deployment \| Dify 一键安装脚本，使用 Docker Compose 部署 |
+| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-10 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 3 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1885 | Go | 2026-09-10 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 4 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1141 | Java | 2026-09-10 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
 | 5 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1472 | Python | 2026-09-10 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
-| 6 | [alxxtexxr/arxiv_agent](https://github.com/alxxtexxr/arxiv_agent) | 0 | Python | 2026-09-10 | AI agent that recommends arXiv papers based on bookmarks or topics. |
-| 7 | [hoffresearch/nest](https://github.com/hoffresearch/nest) | 11 | Rust | 2026-09-10 | sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds, |
-| 8 | [infino-ai/infino](https://github.com/infino-ai/infino) | 80 | Rust | 2026-09-10 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
-| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-10 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 10 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-09-10 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
-| 11 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1885 | Go | 2026-09-10 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 12 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-09-10 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
-| 13 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 8 | C++ | 2026-09-10 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 14 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-10 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-10 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 7 | [KeiaiLab/qdrant-operator](https://github.com/KeiaiLab/qdrant-operator) | 0 | Go | 2026-09-10 | Kubernetes Operator for Qdrant — declarative QdrantCluster/QdrantCollection management, distributed (Raft) clusters, aut |
+| 8 | [caoergou/dify-installer](https://github.com/caoergou/dify-installer) | 2 | Shell | 2026-09-10 | One-click installer for Dify Docker deployment \| Dify 一键安装脚本，使用 Docker Compose 部署 |
+| 9 | [alxxtexxr/arxiv_agent](https://github.com/alxxtexxr/arxiv_agent) | 0 | Python | 2026-09-10 | AI agent that recommends arXiv papers based on bookmarks or topics. |
+| 10 | [hoffresearch/nest](https://github.com/hoffresearch/nest) | 11 | Rust | 2026-09-10 | sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds, |
+| 11 | [infino-ai/infino](https://github.com/infino-ai/infino) | 80 | Rust | 2026-09-10 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
+| 12 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-09-10 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
+| 13 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-09-10 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
+| 14 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 8 | C++ | 2026-09-10 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
 | 15 | [tamnd/yo](https://github.com/tamnd/yo) | 0 | Rust | 2026-09-10 | Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on |
 | 16 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 52106 | Python | 2026-09-10 | LlamaIndex is the leading document agent and OCR platform |
 | 17 | [sarthaksinha2600/LLM-Contract](https://github.com/sarthaksinha2600/LLM-Contract) | 0 | — | 2026-09-10 | Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence. |

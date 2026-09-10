@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-10T04:30:21Z",
+    "updated_at": "2026-09-10T04:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-10T04:37:48Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1885,
+    "updated_at": "2026-09-10T04:44:22Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,8 +32,26 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1141,
-    "updated_at": "2026-09-10T04:28:59Z",
+    "updated_at": "2026-09-10T04:36:33Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1472,
+    "updated_at": "2026-09-10T04:35:27Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-10T04:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Kubernetes Operator for Qdrant \u2014 declarative QdrantCluster/QdrantCollection management, distributed (Raft) clusters, aut",
@@ -34,15 +70,6 @@
     "stars": 2,
     "updated_at": "2026-09-10T04:22:04Z",
     "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1472,
-    "updated_at": "2026-09-10T04:20:10Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "AI agent that recommends arXiv papers based on bookmarks or topics.",
@@ -72,15 +99,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-10T04:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
     "id": "23skdu/longbow",
     "language": "Go",
@@ -88,15 +106,6 @@
     "stars": 13,
     "updated_at": "2026-09-10T04:14:28Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1885,
-    "updated_at": "2026-09-10T04:12:07Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -115,15 +124,6 @@
     "stars": 8,
     "updated_at": "2026-09-10T04:11:16Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-10T04:10:09Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Embedded knowledge engine in Rust, all in one .yo file. Documents, vectors, a graph and every Redis data structure in on",
@@ -248,7 +248,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9436,
-    "updated_at": "2026-09-10T04:01:47Z",
+    "updated_at": "2026-09-10T04:42:10Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
