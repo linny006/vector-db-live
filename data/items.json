@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T21:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Zero downtime embedding upgrades",
+    "id": "arnsri33/embedflow",
+    "language": "Python",
+    "name": "arnsri33/embedflow",
+    "stars": 48,
+    "updated_at": "2026-09-11T21:29:42Z",
+    "url": "https://github.com/arnsri33/embedflow"
+  },
+  {
+    "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
+    "id": "josephkamau32/devintel",
+    "language": "Python",
+    "name": "josephkamau32/devintel",
+    "stars": 10,
+    "updated_at": "2026-09-11T21:28:14Z",
+    "url": "https://github.com/josephkamau32/devintel"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-09-11T21:29:11Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "LightRAG production guide: deployment, API patterns, deadlock fixes, version upgrades",
+    "id": "uMax-Cyber/RAGOps",
+    "language": "Dockerfile",
+    "name": "uMax-Cyber/RAGOps",
+    "stars": 0,
+    "updated_at": "2026-09-11T21:24:22Z",
+    "url": "https://github.com/uMax-Cyber/RAGOps"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-11T21:24:06Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 9,
+    "updated_at": "2026-09-11T21:29:37Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 36,
+    "updated_at": "2026-09-11T21:20:12Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-11T21:19:24Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-11T21:19:09Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -9,15 +99,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 9,
-    "updated_at": "2026-09-11T21:18:21Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
     "description": "In-memory knowledge store for AI agents",
     "id": "FraiseHQ/fraise",
     "language": "Go",
@@ -25,24 +106,6 @@
     "stars": 7,
     "updated_at": "2026-09-11T21:15:46Z",
     "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-11T21:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T21:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -142,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T21:01:25Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "LightRAG production guide: deployment, API patterns, deadlock fixes, version upgrades",
-    "id": "uMax-Cyber/RAGOps",
-    "language": "Dockerfile",
-    "name": "uMax-Cyber/RAGOps",
-    "stars": 0,
-    "updated_at": "2026-09-11T20:59:16Z",
-    "url": "https://github.com/uMax-Cyber/RAGOps"
   },
   {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T20:33:19Z",
     "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-09-11T20:30:22Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-11T20:28:56Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-09-11T20:22:24Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "High-performance, SIMD-accelerated vector search engine and MCP server for .NET 10. Optimized for LLM embeddings and sem",
-    "id": "ian-cowley/Glacier.Vector",
-    "language": "C#",
-    "name": "ian-cowley/Glacier.Vector",
-    "stars": 5,
-    "updated_at": "2026-09-11T20:21:52Z",
-    "url": "https://github.com/ian-cowley/Glacier.Vector"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-09-11T20:20:20Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
-  },
-  {
-    "description": "RAG over Indian law with verifiable citations: hybrid BM25 and vector retrieval fused by reciprocal rank fusion across r",
-    "id": "spearb0lt/Legal-RAG",
-    "language": "Python",
-    "name": "spearb0lt/Legal-RAG",
-    "stars": 1,
-    "updated_at": "2026-09-11T20:20:17Z",
-    "url": "https://github.com/spearb0lt/Legal-RAG"
   }
 ]
