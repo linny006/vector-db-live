@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T17:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11401,
+    "updated_at": "2026-09-11T17:24:45Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Zero-bloat distributed vector memory, hardware-enforced domain firewalls, and NAT-traversing execution mesh for multi-in",
+    "id": "amrlazw/hermes-fleet-memory",
+    "language": "Python",
+    "name": "amrlazw/hermes-fleet-memory",
+    "stars": 3,
+    "updated_at": "2026-09-11T17:21:58Z",
+    "url": "https://github.com/amrlazw/hermes-fleet-memory"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 8,
+    "updated_at": "2026-09-11T17:19:07Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-11T17:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -9,15 +54,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 8,
-    "updated_at": "2026-09-11T17:13:31Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
     "id": "AkashKundu114/COPPER",
     "language": "Python",
@@ -25,6 +61,15 @@
     "stars": 1,
     "updated_at": "2026-09-11T17:12:32Z",
     "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 3148,
+    "updated_at": "2026-09-11T17:11:06Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "A multi-document Q&A chatbot that retrieves accurate answers from large document sets in under 2 seconds, with 90% relev",
@@ -50,7 +95,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1148,
-    "updated_at": "2026-09-11T17:04:18Z",
+    "updated_at": "2026-09-11T17:25:52Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -67,27 +112,9 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34498,
+    "stars": 34499,
     "updated_at": "2026-09-11T17:00:33Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-11T17:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T17:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
@@ -99,24 +126,6 @@
     "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11400,
-    "updated_at": "2026-09-11T17:14:51Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Zero-bloat distributed vector memory, hardware-enforced domain firewalls, and NAT-traversing execution mesh for multi-in",
-    "id": "amrlazw/hermes-fleet-memory",
-    "language": "Python",
-    "name": "amrlazw/hermes-fleet-memory",
-    "stars": 3,
-    "updated_at": "2026-09-11T16:58:06Z",
-    "url": "https://github.com/amrlazw/hermes-fleet-memory"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -124,15 +133,6 @@
     "stars": 6431,
     "updated_at": "2026-09-11T16:53:48Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3147,
-    "updated_at": "2026-09-11T17:11:06Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "Knowledge Graph\u2013Enhanced Hybrid RAG using LangChain, FAISS, OpenAI and Streamlit for relationship-aware",
@@ -248,7 +248,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9253,
-    "updated_at": "2026-09-11T17:13:05Z",
+    "updated_at": "2026-09-11T17:19:12Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -365,7 +365,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8204,
-    "updated_at": "2026-09-11T16:54:54Z",
+    "updated_at": "2026-09-11T17:25:29Z",
     "url": "https://github.com/MariaDB/server"
   },
   {

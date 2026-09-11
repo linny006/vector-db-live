@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-11 17:15 UTC
+> ⏰ Last updated: 2026-09-11 17:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,21 +42,21 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1887 | Go | 2026-09-11 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 2 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 8 | C++ | 2026-09-11 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 3 | [AkashKundu114/COPPER](https://github.com/AkashKundu114/COPPER) | 1 | Python | 2026-09-11 | 100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c |
-| 4 | [Zalanemoj/Chatbot_Rag](https://github.com/Zalanemoj/Chatbot_Rag) | 0 | Python | 2026-09-11 | A multi-document Q&A chatbot that retrieves accurate answers from large document sets in under 2 seconds, with 90% relev |
-| 5 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 6 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1148 | Java | 2026-09-11 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 7 | [Tibab222/cvMaker](https://github.com/Tibab222/cvMaker) | 10 | TypeScript | 2026-09-11 | An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match |
-| 8 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34498 | Rust | 2026-09-11 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
-| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 10 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 11 | [Angular2Guy/AIDocumentLibraryChat](https://github.com/Angular2Guy/AIDocumentLibraryChat) | 31 | Java | 2026-09-11 | A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm |
-| 12 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11400 | Rust | 2026-09-11 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 13 | [amrlazw/hermes-fleet-memory](https://github.com/amrlazw/hermes-fleet-memory) | 3 | Python | 2026-09-11 | Zero-bloat distributed vector memory, hardware-enforced domain firewalls, and NAT-traversing execution mesh for multi-in |
-| 14 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6431 | TypeScript | 2026-09-11 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
-| 15 | [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) | 3147 | Python | 2026-09-11 | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11401 | Rust | 2026-09-11 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
+| 3 | [amrlazw/hermes-fleet-memory](https://github.com/amrlazw/hermes-fleet-memory) | 3 | Python | 2026-09-11 | Zero-bloat distributed vector memory, hardware-enforced domain firewalls, and NAT-traversing execution mesh for multi-in |
+| 4 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 8 | C++ | 2026-09-11 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 6 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1887 | Go | 2026-09-11 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 7 | [AkashKundu114/COPPER](https://github.com/AkashKundu114/COPPER) | 1 | Python | 2026-09-11 | 100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c |
+| 8 | [Ontos-AI/knowhere](https://github.com/Ontos-AI/knowhere) | 3148 | Python | 2026-09-11 | Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG. |
+| 9 | [Zalanemoj/Chatbot_Rag](https://github.com/Zalanemoj/Chatbot_Rag) | 0 | Python | 2026-09-11 | A multi-document Q&A chatbot that retrieves accurate answers from large document sets in under 2 seconds, with 90% relev |
+| 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 11 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1148 | Java | 2026-09-11 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 12 | [Tibab222/cvMaker](https://github.com/Tibab222/cvMaker) | 10 | TypeScript | 2026-09-11 | An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match |
+| 13 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34499 | Rust | 2026-09-11 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 14 | [Angular2Guy/AIDocumentLibraryChat](https://github.com/Angular2Guy/AIDocumentLibraryChat) | 31 | Java | 2026-09-11 | A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm |
+| 15 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6431 | TypeScript | 2026-09-11 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
 | 16 | [rdkdinesh/GEN-AI](https://github.com/rdkdinesh/GEN-AI) | 0 | Python | 2026-09-11 | Knowledge Graph–Enhanced Hybrid RAG using LangChain, FAISS, OpenAI and Streamlit for relationship-aware |
 | 17 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30640 | Python | 2026-09-11 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 18 | [codecoradev/uteke](https://github.com/codecoradev/uteke) | 239 | Rust | 2026-09-11 | 🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe |
