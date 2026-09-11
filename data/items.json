@@ -1,11 +1,56 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T02:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 80,
+    "updated_at": "2026-09-11T02:45:11Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1885,
+    "updated_at": "2026-09-11T02:44:56Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46051,
+    "updated_at": "2026-09-11T02:43:28Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-11T02:41:01Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
     "id": "pixeltable/pixeltable",
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1619,
-    "updated_at": "2026-09-11T02:22:04Z",
+    "updated_at": "2026-09-11T02:40:07Z",
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
@@ -14,17 +59,8 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-09-11T02:15:25Z",
+    "updated_at": "2026-09-11T02:30:24Z",
     "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T02:15:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search, ",
@@ -36,15 +72,6 @@
     "url": "https://github.com/akarshjain05/rag"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-11T02:12:35Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -52,15 +79,6 @@
     "stars": 1909,
     "updated_at": "2026-09-11T02:08:41Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1885,
-    "updated_at": "2026-09-11T02:25:47Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -86,7 +104,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 91,
-    "updated_at": "2026-09-11T02:29:22Z",
+    "updated_at": "2026-09-11T02:41:07Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-09-11T01:27:06Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46050,
-    "updated_at": "2026-09-11T01:25:29Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -220,7 +229,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 65897,
+    "stars": 65899,
     "updated_at": "2026-09-11T01:01:33Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -275,7 +284,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9251,
-    "updated_at": "2026-09-11T00:51:01Z",
+    "updated_at": "2026-09-11T02:34:58Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -387,6 +396,15 @@
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34490,
+    "updated_at": "2026-09-10T23:55:32Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
     "id": "roberthalfway204/Document-Intelligent-Assistant",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-10T23:50:23Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-10T23:47:44Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 4,
-    "updated_at": "2026-09-10T23:47:01Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
   }
 ]
