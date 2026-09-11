@@ -1,5 +1,86 @@
 [
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13070,
+    "updated_at": "2026-09-11T08:43:50Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9441,
+    "updated_at": "2026-09-11T08:43:26Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-11T08:41:02Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-11T08:39:54Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Low-resource Ethiopic NLP Retrieval-Augmented Generation assistant using LangChain, ChromaDB semantic embeddings, and St",
+    "id": "IsaakAlemu/amharic-rag-assistant",
+    "language": "Python",
+    "name": "IsaakAlemu/amharic-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-11T08:39:28Z",
+    "url": "https://github.com/IsaakAlemu/amharic-rag-assistant"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3294,
+    "updated_at": "2026-09-11T08:38:33Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-11T08:34:46Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-11T08:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T08:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
@@ -54,6 +135,15 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 3126,
+    "updated_at": "2026-09-11T08:20:37Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
     "description": "Benchmark for vector databases.",
     "id": "zilliztech/VectorDBBench",
     "language": "Python",
@@ -61,6 +151,15 @@
     "stars": 1176,
     "updated_at": "2026-09-11T08:19:42Z",
     "url": "https://github.com/zilliztech/VectorDBBench"
+  },
+  {
+    "description": "Autonomous AI incident intelligence & remediation platform. Ingests distributed telemetry with Kafka, clusters anomalies",
+    "id": "AyushShahh/IncidentGraph",
+    "language": "Python",
+    "name": "AyushShahh/IncidentGraph",
+    "stars": 0,
+    "updated_at": "2026-09-11T08:18:11Z",
+    "url": "https://github.com/AyushShahh/IncidentGraph"
   },
   {
     "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
@@ -72,58 +171,13 @@
     "url": "https://github.com/rmednitzer/core-graph"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-11T08:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T08:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Low-resource Ethiopic NLP Retrieval-Augmented Generation assistant using LangChain, ChromaDB semantic embeddings, and St",
-    "id": "IsaakAlemu/amharic-rag-assistant",
-    "language": "Python",
-    "name": "IsaakAlemu/amharic-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-11T08:13:07Z",
-    "url": "https://github.com/IsaakAlemu/amharic-rag-assistant"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1885,
-    "updated_at": "2026-09-11T08:15:14Z",
+    "updated_at": "2026-09-11T08:32:33Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3125,
-    "updated_at": "2026-09-11T08:20:37Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-11T08:11:43Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "HNSW vector search from scratch in Java: layered navigable graph, SIMD distance kernels, filtered search. 20x faster tha",
@@ -142,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T08:08:31Z",
     "url": "https://github.com/wickra-lib/wickra-genome"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13070,
-    "updated_at": "2026-09-11T08:10:31Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "\u533b\u5b66\u4f20\u64ad\u521b\u610f\u5411\u91cf\u77e5\u8bc6\u5e93 \u2014 \u8bed\u4e49\u68c0\u7d22 RAG + 52\u4e2a\u5168\u7403\u521b\u610f\u6848\u4f8b\u6df1\u5ea6\u62a5\u544a",
@@ -225,15 +270,6 @@
     "url": "https://github.com/maximilien/weave-cli"
   },
   {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9441,
-    "updated_at": "2026-09-11T08:24:24Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
     "id": "Raynerhalfandhalf451/writeback",
     "language": "JavaScript",
@@ -268,6 +304,15 @@
     "stars": 0,
     "updated_at": "2026-09-11T07:31:08Z",
     "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "A multi-model database \u2014 documents, graphs, full-text and vector search in one binary",
+    "id": "cognigraphdb/cognigraph",
+    "language": "Rust",
+    "name": "cognigraphdb/cognigraph",
+    "stars": 0,
+    "updated_at": "2026-09-11T07:30:25Z",
+    "url": "https://github.com/cognigraphdb/cognigraph"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-11T07:14:25Z",
     "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-09-11T07:13:14Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 92,
-    "updated_at": "2026-09-11T07:13:11Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 80,
-    "updated_at": "2026-09-11T07:13:00Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-09-11T07:12:10Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-09-11T07:10:52Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
   }
 ]
