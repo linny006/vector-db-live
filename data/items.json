@@ -1,5 +1,95 @@
 [
   {
+    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
+    "id": "sergiunicoara/Generative-AI",
+    "language": "Python",
+    "name": "sergiunicoara/Generative-AI",
+    "stars": 3,
+    "updated_at": "2026-09-11T08:29:57Z",
+    "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "[NeurIPS'24] Approximate Nearest Neighbor search using reduced-rank regression, with extremely fast queries, tiny memory",
+    "id": "ejaasaari/lorann",
+    "language": "C++",
+    "name": "ejaasaari/lorann",
+    "stars": 52,
+    "updated_at": "2026-09-11T08:26:40Z",
+    "url": "https://github.com/ejaasaari/lorann"
+  },
+  {
+    "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
+    "id": "lingxinmind/vecmindb-sdk",
+    "language": "Python",
+    "name": "lingxinmind/vecmindb-sdk",
+    "stars": 1,
+    "updated_at": "2026-09-11T08:25:47Z",
+    "url": "https://github.com/lingxinmind/vecmindb-sdk"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1146,
+    "updated_at": "2026-09-11T08:25:30Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
+    "id": "bobaba76/Argos",
+    "language": "Python",
+    "name": "bobaba76/Argos",
+    "stars": 8,
+    "updated_at": "2026-09-11T08:23:40Z",
+    "url": "https://github.com/bobaba76/Argos"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7079,
+    "updated_at": "2026-09-11T08:23:35Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Benchmark for vector databases.",
+    "id": "zilliztech/VectorDBBench",
+    "language": "Python",
+    "name": "zilliztech/VectorDBBench",
+    "stars": 1176,
+    "updated_at": "2026-09-11T08:19:42Z",
+    "url": "https://github.com/zilliztech/VectorDBBench"
+  },
+  {
+    "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
+    "id": "rmednitzer/core-graph",
+    "language": "Python",
+    "name": "rmednitzer/core-graph",
+    "stars": 1,
+    "updated_at": "2026-09-11T08:17:10Z",
+    "url": "https://github.com/rmednitzer/core-graph"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-11T08:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T08:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Low-resource Ethiopic NLP Retrieval-Augmented Generation assistant using LangChain, ChromaDB semantic embeddings, and St",
     "id": "IsaakAlemu/amharic-rag-assistant",
     "language": "Python",
@@ -23,7 +113,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 3125,
-    "updated_at": "2026-09-11T08:12:52Z",
+    "updated_at": "2026-09-11T08:20:37Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -34,15 +124,6 @@
     "stars": 3,
     "updated_at": "2026-09-11T08:11:43Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1146,
-    "updated_at": "2026-09-11T08:12:16Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "HNSW vector search from scratch in Java: layered navigable graph, SIMD distance kernels, filtered search. 20x faster tha",
@@ -90,22 +171,13 @@
     "url": "https://github.com/hoffresearch/nest"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-11T08:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T08:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34496,
+    "updated_at": "2026-09-11T08:01:54Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
@@ -126,21 +198,12 @@
     "url": "https://github.com/akarshjain05/rag"
   },
   {
-    "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
-    "id": "bobaba76/Argos",
-    "language": "Python",
-    "name": "bobaba76/Argos",
-    "stars": 8,
-    "updated_at": "2026-09-11T07:52:21Z",
-    "url": "https://github.com/bobaba76/Argos"
-  },
-  {
     "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
     "id": "kannaka-labs/kannaka-memory",
     "language": "Rust",
     "name": "kannaka-labs/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-09-11T07:56:00Z",
+    "updated_at": "2026-09-11T08:17:30Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
@@ -167,7 +230,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9441,
-    "updated_at": "2026-09-11T07:43:40Z",
+    "updated_at": "2026-09-11T08:24:24Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -315,15 +378,6 @@
     "url": "https://github.com/leo2007960216/deeprecall"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7079,
-    "updated_at": "2026-09-11T07:46:38Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
     "id": "kirill2911/awesome-vector-search",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T07:10:52Z",
     "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-09-11T07:07:38Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-11T07:05:42Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-09-11T07:05:17Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-09-11T07:04:02Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-09-11T07:00:03Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "AI-Native OSINT & 3D Link Analysis Platform",
-    "id": "sayan9168/nexus-osint",
-    "language": "Python",
-    "name": "sayan9168/nexus-osint",
-    "stars": 3,
-    "updated_at": "2026-09-11T06:59:42Z",
-    "url": "https://github.com/sayan9168/nexus-osint"
   }
 ]
