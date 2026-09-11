@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-11 02:00 UTC
+> ⏰ Last updated: 2026-09-11 02:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,17 +42,17 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1885 | Go | 2026-09-11 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 3 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-11 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 5 | [zilliztech/knowhere](https://github.com/zilliztech/knowhere) | 380 | C++ | 2026-09-11 | Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN. |
-| 6 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 91 | Rust | 2026-09-11 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 8 | [iberi22/xavier](https://github.com/iberi22/xavier) | 0 | Rust | 2026-09-11 | Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context |
-| 9 | [VeyraStorm8259/tenant-lifecycle-vector-ingest](https://github.com/VeyraStorm8259/tenant-lifecycle-vector-ingest) | 0 | Python | 2026-09-11 | Chunk and index tenant lifecycle runbooks from a typed Python service. |
-| 10 | [dkylewillis/vera](https://github.com/dkylewillis/vera) | 17 | Python | 2026-09-11 |  |
-| 11 | [akarshjain05/rag](https://github.com/akarshjain05/rag) | 0 | Python | 2026-09-11 | Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search,  |
+| 1 | [akarshjain05/rag](https://github.com/akarshjain05/rag) | 0 | Python | 2026-09-11 | Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search,  |
+| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-11 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-11 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-11 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1885 | Go | 2026-09-11 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 6 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-11 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 7 | [zilliztech/knowhere](https://github.com/zilliztech/knowhere) | 380 | C++ | 2026-09-11 | Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN. |
+| 8 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 91 | Rust | 2026-09-11 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 9 | [iberi22/xavier](https://github.com/iberi22/xavier) | 0 | Rust | 2026-09-11 | Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context |
+| 10 | [VeyraStorm8259/tenant-lifecycle-vector-ingest](https://github.com/VeyraStorm8259/tenant-lifecycle-vector-ingest) | 0 | Python | 2026-09-11 | Chunk and index tenant lifecycle runbooks from a typed Python service. |
+| 11 | [dkylewillis/vera](https://github.com/dkylewillis/vera) | 17 | Python | 2026-09-11 |  |
 | 12 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 3 | Python | 2026-09-11 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
 | 13 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46050 | Go | 2026-09-11 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
 | 14 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-09-11 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
@@ -64,7 +64,7 @@ expired items removed — so you can rely on what you see being current.
 | 20 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-11 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
 | 21 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-09-11 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
 | 22 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 88 | Python | 2026-09-11 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 23 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 65896 | JavaScript | 2026-09-11 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
+| 23 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | 65897 | JavaScript | 2026-09-11 | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience |
 | 24 | [MariaDB/server](https://github.com/MariaDB/server) | 8201 | C++ | 2026-09-11 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 25 | [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) | 10268 | C++ | 2026-09-11 | OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demand |
 | 26 | [ricmed/zettel_app](https://github.com/ricmed/zettel_app) | 0 | Python | 2026-09-11 | Pipeline Python que transforma PDFs e Markdown em um Zettelkasten conectado no Obsidian, com revisão humana, RAG híbrido |
