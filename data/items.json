@@ -1,12 +1,75 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1148,
+    "updated_at": "2026-09-11T16:59:43Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11400,
+    "updated_at": "2026-09-11T16:59:21Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "Zero-bloat distributed vector memory, hardware-enforced domain firewalls, and NAT-traversing execution mesh for multi-in",
     "id": "amrlazw/hermes-fleet-memory",
     "language": "Python",
     "name": "amrlazw/hermes-fleet-memory",
     "stars": 3,
-    "updated_at": "2026-09-11T16:45:01Z",
+    "updated_at": "2026-09-11T16:58:06Z",
     "url": "https://github.com/amrlazw/hermes-fleet-memory"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6431,
+    "updated_at": "2026-09-11T16:53:48Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 3147,
+    "updated_at": "2026-09-11T16:52:29Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "Knowledge Graph\u2013Enhanced Hybrid RAG using LangChain, FAISS, OpenAI and Streamlit for relationship-aware",
+    "id": "rdkdinesh/GEN-AI",
+    "language": "Python",
+    "name": "rdkdinesh/GEN-AI",
+    "stars": 0,
+    "updated_at": "2026-09-11T16:46:24Z",
+    "url": "https://github.com/rdkdinesh/GEN-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-11T16:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T17:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -14,7 +77,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1887,
-    "updated_at": "2026-09-11T16:42:47Z",
+    "updated_at": "2026-09-11T16:48:45Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -43,24 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T16:32:06Z",
     "url": "https://github.com/mdhabibi/llm-search-handbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-11T16:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T16:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "LlamaIndex is the document processing platform for AI",
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9253,
-    "updated_at": "2026-09-11T16:37:55Z",
+    "updated_at": "2026-09-11T16:54:51Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -252,21 +297,12 @@
     "url": "https://github.com/akarshjain05/rag"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1148,
-    "updated_at": "2026-09-11T16:40:26Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8204,
-    "updated_at": "2026-09-11T16:24:05Z",
+    "updated_at": "2026-09-11T16:54:54Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -338,7 +374,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 36,
-    "updated_at": "2026-09-11T16:40:38Z",
+    "updated_at": "2026-09-11T16:54:13Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -351,21 +387,12 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6431,
-    "updated_at": "2026-09-11T16:33:14Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16801,
-    "updated_at": "2026-09-11T14:57:25Z",
+    "updated_at": "2026-09-11T16:51:53Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 15894,
     "updated_at": "2026-09-11T14:09:46Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46061,
-    "updated_at": "2026-09-11T14:01:33Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "A small retrieval-augmented generation (RAG) database in pure Ruby \u2014 HNSW, BM25, hybrid search \u2014 built with Domain-Drive",
-    "id": "robertziel/rag_rb",
-    "language": "Ruby",
-    "name": "robertziel/rag_rb",
-    "stars": 0,
-    "updated_at": "2026-09-11T13:58:04Z",
-    "url": "https://github.com/robertziel/rag_rb"
-  },
-  {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-11T13:56:56Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
   }
 ]
