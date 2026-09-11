@@ -1,5 +1,86 @@
 [
   {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-09-11T11:06:26Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 93,
+    "updated_at": "2026-09-11T11:04:58Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-09-11T11:04:46Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 1,
+    "updated_at": "2026-09-11T11:04:17Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 2,
+    "updated_at": "2026-09-11T11:04:09Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "Production Vector Database Latency, QPS, Memory Footprint & Cost Benchmarks",
+    "id": "jibranpcccc/vector-database-benchmarks",
+    "language": "Jupyter Notebook",
+    "name": "jibranpcccc/vector-database-benchmarks",
+    "stars": 0,
+    "updated_at": "2026-09-11T11:04:08Z",
+    "url": "https://github.com/jibranpcccc/vector-database-benchmarks"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-11T11:03:20Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "Pipeline RAG sobre as atas do Copom com avalia\u00e7\u00e3o medida: lakehouse medalh\u00e3o, busca h\u00edbrida (denso + BM25) e golden set ",
+    "id": "matheusmendez-ask/Atas-COPOM",
+    "language": "Python",
+    "name": "matheusmendez-ask/Atas-COPOM",
+    "stars": 0,
+    "updated_at": "2026-09-11T11:01:36Z",
+    "url": "https://github.com/matheusmendez-ask/Atas-COPOM"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-11T11:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,6 +90,15 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-09-11T11:00:12Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -16,15 +106,6 @@
     "stars": 344,
     "updated_at": "2026-09-11T10:59:18Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 93,
-    "updated_at": "2026-09-11T10:55:35Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
@@ -41,7 +122,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16801,
-    "updated_at": "2026-09-11T10:56:02Z",
+    "updated_at": "2026-09-11T11:01:30Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -106,15 +187,6 @@
     "stars": 35620,
     "updated_at": "2026-09-11T10:45:30Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-11T10:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A Retrieval-Augmented Generation (RAG) chatbot with hybrid search, cross-encoder reranking, and conversational memory \u2014 ",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-11T09:29:21Z",
     "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-09-11T09:29:07Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-11T09:28:57Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-09-11T09:27:15Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13070,
-    "updated_at": "2026-09-11T09:33:11Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-09-11T09:26:46Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-09-11T09:26:27Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": " LangChain \u5d4c\u5165\u4e0e\u5411\u91cf\u6570\u636e\u5e93\u6e10\u8fdb\u5f0f\u5b9e\u8df5:\u6587\u672c\u5411\u91cf\u5316 \u2192 Milvus/FAISS/Chroma \u2192 Qwen3-VL \u56fe\u6587\u8de8\u6a21\u6001\u68c0\u7d22 \u2192 \u5386\u53f2\u611f\u77e5\u68c0\u7d22\u7684\u4f1a\u8bdd\u5f0f RAG,\u5168\u6a21\u578b\u672c\u5730\u79bb\u7ebf\u8fd0\u884c\u3002",
-    "id": "liqiangZzz/LangChainEmbedding",
-    "language": "Python",
-    "name": "liqiangZzz/LangChainEmbedding",
-    "stars": 0,
-    "updated_at": "2026-09-11T09:23:59Z",
-    "url": "https://github.com/liqiangZzz/LangChainEmbedding"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 6,
-    "updated_at": "2026-09-11T09:23:51Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
   }
 ]
