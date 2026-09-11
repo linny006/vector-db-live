@@ -1,12 +1,102 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1887,
+    "updated_at": "2026-09-11T17:14:43Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 8,
+    "updated_at": "2026-09-11T17:13:31Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-09-11T17:12:32Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "A multi-document Q&A chatbot that retrieves accurate answers from large document sets in under 2 seconds, with 90% relev",
+    "id": "Zalanemoj/Chatbot_Rag",
+    "language": "Python",
+    "name": "Zalanemoj/Chatbot_Rag",
+    "stars": 0,
+    "updated_at": "2026-09-11T17:07:12Z",
+    "url": "https://github.com/Zalanemoj/Chatbot_Rag"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-11T17:06:56Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1148,
-    "updated_at": "2026-09-11T16:59:43Z",
+    "updated_at": "2026-09-11T17:04:18Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match",
+    "id": "Tibab222/cvMaker",
+    "language": "TypeScript",
+    "name": "Tibab222/cvMaker",
+    "stars": 10,
+    "updated_at": "2026-09-11T17:03:02Z",
+    "url": "https://github.com/Tibab222/cvMaker"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34498,
+    "updated_at": "2026-09-11T17:00:33Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-11T17:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-11T17:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
+    "id": "Angular2Guy/AIDocumentLibraryChat",
+    "language": "Java",
+    "name": "Angular2Guy/AIDocumentLibraryChat",
+    "stars": 31,
+    "updated_at": "2026-09-11T17:00:20Z",
+    "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -14,7 +104,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11400,
-    "updated_at": "2026-09-11T16:59:21Z",
+    "updated_at": "2026-09-11T17:14:51Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 3147,
-    "updated_at": "2026-09-11T16:52:29Z",
+    "updated_at": "2026-09-11T17:11:06Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -54,40 +144,13 @@
     "url": "https://github.com/rdkdinesh/GEN-AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-11T16:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-11T17:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1887,
-    "updated_at": "2026-09-11T16:48:45Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-11T16:36:29Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "name": "topoteretes/cognee",
+    "stars": 30640,
+    "updated_at": "2026-09-11T17:07:15Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -185,7 +248,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9253,
-    "updated_at": "2026-09-11T16:54:51Z",
+    "updated_at": "2026-09-11T17:13:05Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -351,15 +414,6 @@
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30641,
-    "updated_at": "2026-09-11T16:36:50Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -374,7 +428,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 36,
-    "updated_at": "2026-09-11T16:54:13Z",
+    "updated_at": "2026-09-11T17:13:02Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -387,66 +441,12 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16801,
-    "updated_at": "2026-09-11T16:51:53Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 80,
-    "updated_at": "2026-09-11T14:33:35Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
-    "id": "tryAGI/Qdrant",
-    "language": "C#",
-    "name": "tryAGI/Qdrant",
-    "stars": 0,
-    "updated_at": "2026-09-11T14:28:41Z",
-    "url": "https://github.com/tryAGI/Qdrant"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 91,
-    "updated_at": "2026-09-11T16:04:01Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
-    "id": "yantrikos/yantrikdb-mcp",
+    "description": "Unraid CA template and Docker build for Mem0 (OpenMemory). This mega-container utilizes s6-overlay to seamlessly bundle ",
+    "id": "JSONbored/mem0-aio",
     "language": "Python",
-    "name": "yantrikos/yantrikdb-mcp",
-    "stars": 24,
-    "updated_at": "2026-09-11T14:14:56Z",
-    "url": "https://github.com/yantrikos/yantrikdb-mcp"
-  },
-  {
-    "description": "Cognitive memory database for AI agents \u2014 consolidates duplicates, detects contradictions, fades stale memories via temp",
-    "id": "yantrikos/yantrikdb-server",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb-server",
-    "stars": 172,
-    "updated_at": "2026-09-11T14:14:37Z",
-    "url": "https://github.com/yantrikos/yantrikdb-server"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15894,
-    "updated_at": "2026-09-11T14:09:46Z",
-    "url": "https://github.com/alibaba/zvec"
+    "name": "JSONbored/mem0-aio",
+    "stars": 21,
+    "updated_at": "2026-09-11T14:38:18Z",
+    "url": "https://github.com/JSONbored/mem0-aio"
   }
 ]
