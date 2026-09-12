@@ -1,5 +1,77 @@
 [
   {
+    "description": "Ultra-low-latency in-memory vector cache engine in C with AVX2 SIMD, io_uring zero-copy networking, and circular overwri",
+    "id": "pomagrenate/pomaikache",
+    "language": "C",
+    "name": "pomagrenate/pomaikache",
+    "stars": 0,
+    "updated_at": "2026-09-12T09:44:26Z",
+    "url": "https://github.com/pomagrenate/pomaikache"
+  },
+  {
+    "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
+    "id": "bobaba76/Argos",
+    "language": "Python",
+    "name": "bobaba76/Argos",
+    "stars": 8,
+    "updated_at": "2026-09-12T09:44:11Z",
+    "url": "https://github.com/bobaba76/Argos"
+  },
+  {
+    "description": "Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search, ",
+    "id": "akarshjain05/rag",
+    "language": "Python",
+    "name": "akarshjain05/rag",
+    "stars": 0,
+    "updated_at": "2026-09-12T09:37:36Z",
+    "url": "https://github.com/akarshjain05/rag"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15899,
+    "updated_at": "2026-09-12T09:37:31Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1888,
+    "updated_at": "2026-09-12T09:34:33Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-12T09:33:44Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-09-12T09:33:43Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-12T09:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,21 +99,12 @@
     "url": "https://github.com/xbsheng/ai-from-scratch"
   },
   {
-    "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
-    "id": "bobaba76/Argos",
-    "language": "Python",
-    "name": "bobaba76/Argos",
-    "stars": 8,
-    "updated_at": "2026-09-12T09:28:04Z",
-    "url": "https://github.com/bobaba76/Argos"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 8,
-    "updated_at": "2026-09-12T09:28:00Z",
+    "updated_at": "2026-09-12T09:44:55Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -54,15 +117,6 @@
     "url": "https://github.com/ashwin9390/honeytile-firewall"
   },
   {
-    "description": "Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search, ",
-    "id": "akarshjain05/rag",
-    "language": "Python",
-    "name": "akarshjain05/rag",
-    "stars": 0,
-    "updated_at": "2026-09-12T09:22:21Z",
-    "url": "https://github.com/akarshjain05/rag"
-  },
-  {
     "description": "Agentic GraphRAG market-intelligence assistant for small sellers \u2014 trend research + your own sales conversation history,",
     "id": "rmmehmet/graphmarket",
     "language": "Python",
@@ -70,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T09:20:47Z",
     "url": "https://github.com/rmmehmet/graphmarket"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1888,
-    "updated_at": "2026-09-12T09:20:10Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-12T09:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T09:09:42Z",
     "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-12T09:08:19Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
@@ -302,7 +329,7 @@
     "language": "Java",
     "name": "musabbozkurt/oauth2-authorization-server",
     "stars": 6,
-    "updated_at": "2026-09-12T08:49:08Z",
+    "updated_at": "2026-09-12T09:42:48Z",
     "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
   },
   {
@@ -365,7 +392,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9254,
-    "updated_at": "2026-09-12T09:26:29Z",
+    "updated_at": "2026-09-12T09:33:10Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-12T08:36:28Z",
     "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-09-12T08:33:40Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 4,
-    "updated_at": "2026-09-12T08:32:19Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-12T08:26:24Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   }
 ]
