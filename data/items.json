@@ -1,21 +1,84 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T01:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
     "name": "hanyeol/model-compose",
     "stars": 95,
-    "updated_at": "2026-09-12T00:57:09Z",
+    "updated_at": "2026-09-12T01:11:37Z",
     "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "",
+    "id": "dkylewillis/vera",
+    "language": "Python",
+    "name": "dkylewillis/vera",
+    "stars": 17,
+    "updated_at": "2026-09-12T01:07:21Z",
+    "url": "https://github.com/dkylewillis/vera"
+  },
+  {
+    "description": "Domain-scoped docs crawler that turns JS-rendered sites into embedding-ready JSON for RAG. Playwright + Pinecone/FAISS.",
+    "id": "Daethyra/spacrawl",
+    "language": "Python",
+    "name": "Daethyra/spacrawl",
+    "stars": 0,
+    "updated_at": "2026-09-12T01:03:39Z",
+    "url": "https://github.com/Daethyra/spacrawl"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-12T01:03:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1620,
+    "updated_at": "2026-09-12T01:01:24Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "OceanBase is the unified distributed database for the AI era \u2014 open-source, multi-model, one engine for your most demand",
+    "id": "oceanbase/oceanbase",
+    "language": "C++",
+    "name": "oceanbase/oceanbase",
+    "stars": 10271,
+    "updated_at": "2026-09-12T01:01:29Z",
+    "url": "https://github.com/oceanbase/oceanbase"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-12T01:00:35Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-12T01:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T01:15:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "K2alyan/aksharaMD",
     "stars": 9,
-    "updated_at": "2026-09-12T00:54:45Z",
+    "updated_at": "2026-09-12T01:12:58Z",
     "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
@@ -36,15 +99,6 @@
     "url": "https://github.com/23skdu/longbow"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-12T00:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "GPU-sized local chat, image gen, RAG, and voice stack, one command.",
     "id": "Cyb3rRon1n/anvil",
     "language": "Python",
@@ -54,7 +108,7 @@
     "url": "https://github.com/Cyb3rRon1n/anvil"
   },
   {
-    "description": "The LLM inference layer for MaryOS.",
+    "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
     "id": "rao-studios/Sewn",
     "language": "Swift",
     "name": "rao-studios/Sewn",
@@ -67,7 +121,7 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 1887,
+    "stars": 1888,
     "updated_at": "2026-09-12T00:37:03Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -81,21 +135,12 @@
     "url": "https://github.com/rao-studios/Thread"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-12T00:22:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1148,
-    "updated_at": "2026-09-12T00:58:51Z",
+    "updated_at": "2026-09-12T01:14:05Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -187,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-11T23:02:06Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-11T22:58:23Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
@@ -412,41 +448,5 @@
     "stars": 2093,
     "updated_at": "2026-09-11T21:28:53Z",
     "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
-    "id": "josephkamau32/devintel",
-    "language": "Python",
-    "name": "josephkamau32/devintel",
-    "stars": 10,
-    "updated_at": "2026-09-11T21:28:14Z",
-    "url": "https://github.com/josephkamau32/devintel"
-  },
-  {
-    "description": "LightRAG production guide: deployment, API patterns, deadlock fixes, version upgrades",
-    "id": "uMax-Cyber/RAGOps",
-    "language": "Dockerfile",
-    "name": "uMax-Cyber/RAGOps",
-    "stars": 0,
-    "updated_at": "2026-09-11T21:24:22Z",
-    "url": "https://github.com/uMax-Cyber/RAGOps"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46063,
-    "updated_at": "2026-09-11T21:18:26Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 7,
-    "updated_at": "2026-09-11T21:15:46Z",
-    "url": "https://github.com/FraiseHQ/fraise"
   }
 ]
