@@ -1,5 +1,41 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1148,
+    "updated_at": "2026-09-12T00:07:56Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 9,
+    "updated_at": "2026-09-12T00:14:03Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-12T00:00:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T00:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -32,26 +68,8 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 36,
-    "updated_at": "2026-09-11T23:52:36Z",
+    "updated_at": "2026-09-12T00:12:00Z",
     "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-11T23:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T00:00:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -70,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-09-11T23:33:28Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 9,
-    "updated_at": "2026-09-11T23:42:47Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -250,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-11T22:24:21Z",
     "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1148,
-    "updated_at": "2026-09-11T23:58:09Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
