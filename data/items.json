@@ -1,11 +1,101 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-12T03:09:51Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A custom, high-performance, disk-backed Approximate Nearest Neighbor (ANN) vector database built entirely from scratch i",
+    "id": "aadityansha06/vecdb",
+    "language": "C",
+    "name": "aadityansha06/vecdb",
+    "stars": 13,
+    "updated_at": "2026-09-12T03:07:30Z",
+    "url": "https://github.com/aadityansha06/vecdb"
+  },
+  {
+    "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
+    "id": "Constraintworthy6058/ai-github-repository-assistant",
+    "language": "TypeScript",
+    "name": "Constraintworthy6058/ai-github-repository-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-12T03:05:13Z",
+    "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
+  },
+  {
+    "description": "",
+    "id": "threefigure-achromia682/ai-memory",
+    "language": "\u2014",
+    "name": "threefigure-achromia682/ai-memory",
+    "stars": 1,
+    "updated_at": "2026-09-12T03:04:11Z",
+    "url": "https://github.com/threefigure-achromia682/ai-memory"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-12T03:03:16Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
+    "id": "alegameplays14-del/leica-infinity-2026",
+    "language": "\u2014",
+    "name": "alegameplays14-del/leica-infinity-2026",
+    "stars": 0,
+    "updated_at": "2026-09-12T03:03:10Z",
+    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
+  },
+  {
+    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
+    "id": "Divine-vision-visiondivine21/less-tokens",
+    "language": "\u2014",
+    "name": "Divine-vision-visiondivine21/less-tokens",
+    "stars": 0,
+    "updated_at": "2026-09-12T03:02:08Z",
+    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
+  },
+  {
+    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
+    "id": "Wry-letters233/notes-quiz-agent",
+    "language": "JavaScript",
+    "name": "Wry-letters233/notes-quiz-agent",
+    "stars": 0,
+    "updated_at": "2026-09-12T03:01:45Z",
+    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
+  },
+  {
+    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
+    "id": "retrograde-prosceniumwall239/ai-search-engine",
+    "language": "Python",
+    "name": "retrograde-prosceniumwall239/ai-search-engine",
+    "stars": 1,
+    "updated_at": "2026-09-12T03:01:34Z",
+    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-12T03:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-12T03:00:19Z",
+    "updated_at": "2026-09-12T03:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -144,15 +234,6 @@
     "url": "https://github.com/eastythenob8-svg/graph-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-12T02:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
     "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
     "language": "JavaScript",
@@ -178,15 +259,6 @@
     "stars": 3,
     "updated_at": "2026-09-12T02:42:37Z",
     "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-12T02:39:42Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-12T01:53:39Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1620,
-    "updated_at": "2026-09-12T01:52:07Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30644,
-    "updated_at": "2026-09-12T01:31:32Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-12T01:26:55Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 95,
-    "updated_at": "2026-09-12T01:17:38Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 9,
-    "updated_at": "2026-09-12T01:16:18Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "",
-    "id": "dkylewillis/vera",
-    "language": "Python",
-    "name": "dkylewillis/vera",
-    "stars": 17,
-    "updated_at": "2026-09-12T01:07:21Z",
-    "url": "https://github.com/dkylewillis/vera"
-  },
-  {
-    "description": "Domain-scoped docs crawler that turns JS-rendered sites into embedding-ready JSON for RAG. Playwright + Pinecone/FAISS.",
-    "id": "Daethyra/spacrawl",
-    "language": "Python",
-    "name": "Daethyra/spacrawl",
-    "stars": 0,
-    "updated_at": "2026-09-12T01:03:39Z",
-    "url": "https://github.com/Daethyra/spacrawl"
-  },
-  {
-    "description": "OceanBase is the unified distributed database for the AI era \u2014 open-source, multi-model, one engine for your most demand",
-    "id": "oceanbase/oceanbase",
-    "language": "C++",
-    "name": "oceanbase/oceanbase",
-    "stars": 10271,
-    "updated_at": "2026-09-12T01:01:29Z",
-    "url": "https://github.com/oceanbase/oceanbase"
   }
 ]
