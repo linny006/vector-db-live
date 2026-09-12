@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-12T05:45:19Z",
+    "updated_at": "2026-09-12T06:00:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 2,
+    "updated_at": "2026-09-12T05:58:45Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1888,
+    "updated_at": "2026-09-12T05:46:03Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-12T05:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
@@ -34,15 +61,6 @@
     "stars": 3,
     "updated_at": "2026-09-12T05:34:11Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-12T05:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
@@ -284,7 +302,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1150,
-    "updated_at": "2026-09-12T05:44:15Z",
+    "updated_at": "2026-09-12T05:59:59Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/aadityansha06/vecdb"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1888,
-    "updated_at": "2026-09-12T05:23:41Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "",
     "id": "juliusadroit905/RAG-vs-Fine-Tuning",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-12T04:32:31Z",
     "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-09-12T04:30:40Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
   }
 ]
