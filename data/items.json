@@ -1,5 +1,149 @@
 [
   {
+    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
+    "id": "Twentyeight-lawnchair711/AlayaRenderer",
+    "language": "\u2014",
+    "name": "Twentyeight-lawnchair711/AlayaRenderer",
+    "stars": 0,
+    "updated_at": "2026-09-12T22:15:01Z",
+    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
+  },
+  {
+    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
+    "id": "Deafened-vascularstructure846/pageindex-rag",
+    "language": "Python",
+    "name": "Deafened-vascularstructure846/pageindex-rag",
+    "stars": 1,
+    "updated_at": "2026-09-12T22:13:27Z",
+    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
+  },
+  {
+    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
+    "id": "Uncomfortable-filagree112/OpenViking",
+    "language": "\u2014",
+    "name": "Uncomfortable-filagree112/OpenViking",
+    "stars": 0,
+    "updated_at": "2026-09-12T22:10:16Z",
+    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
+  },
+  {
+    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
+    "id": "cornellebivalved856/example-multimodal-rag",
+    "language": "Python",
+    "name": "cornellebivalved856/example-multimodal-rag",
+    "stars": 0,
+    "updated_at": "2026-09-12T22:09:53Z",
+    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
+  },
+  {
+    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
+    "id": "Boney-massiveness357/ragscope",
+    "language": "Python",
+    "name": "Boney-massiveness357/ragscope",
+    "stars": 0,
+    "updated_at": "2026-09-12T22:09:51Z",
+    "url": "https://github.com/Boney-massiveness357/ragscope"
+  },
+  {
+    "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
+    "id": "surajkumarnavodya/text-to-sql-agent-langgraph",
+    "language": "Python",
+    "name": "surajkumarnavodya/text-to-sql-agent-langgraph",
+    "stars": 3,
+    "updated_at": "2026-09-12T22:09:49Z",
+    "url": "https://github.com/surajkumarnavodya/text-to-sql-agent-langgraph"
+  },
+  {
+    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
+    "id": "conceited-watergillyflower311/meilisearch-desktop",
+    "language": "TypeScript",
+    "name": "conceited-watergillyflower311/meilisearch-desktop",
+    "stars": 1,
+    "updated_at": "2026-09-12T22:09:21Z",
+    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-12T22:07:03Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
+    "id": "FIRE-hub911/citation-assistant",
+    "language": "Shell",
+    "name": "FIRE-hub911/citation-assistant",
+    "stars": 3,
+    "updated_at": "2026-09-12T22:06:31Z",
+    "url": "https://github.com/FIRE-hub911/citation-assistant"
+  },
+  {
+    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
+    "id": "K3Tamaa/Vector-Forge",
+    "language": "\u2014",
+    "name": "K3Tamaa/Vector-Forge",
+    "stars": 0,
+    "updated_at": "2026-09-12T22:05:49Z",
+    "url": "https://github.com/K3Tamaa/Vector-Forge"
+  },
+  {
+    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
+    "id": "sshisto/mnemo-mcp",
+    "language": "Python",
+    "name": "sshisto/mnemo-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-12T22:04:23Z",
+    "url": "https://github.com/sshisto/mnemo-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
+    "id": "sen-igga/IndexGPT",
+    "language": "JavaScript",
+    "name": "sen-igga/IndexGPT",
+    "stars": 2,
+    "updated_at": "2026-09-12T22:04:19Z",
+    "url": "https://github.com/sen-igga/IndexGPT"
+  },
+  {
+    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
+    "id": "Zopze/TV-Show-Recommender-AI",
+    "language": "Python",
+    "name": "Zopze/TV-Show-Recommender-AI",
+    "stars": 1,
+    "updated_at": "2026-09-12T22:03:51Z",
+    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
+  },
+  {
+    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
+    "id": "Ojcalzada/pulsepoint-RAG",
+    "language": "Python",
+    "name": "Ojcalzada/pulsepoint-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-12T22:01:29Z",
+    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
+  },
+  {
+    "description": "A Retrieval-Augmented Generation (RAG) system that allows users to ask questions about the Ghana Constitution using Lang",
+    "id": "pnoboesam/ghana-constitution-rag",
+    "language": "Python",
+    "name": "pnoboesam/ghana-constitution-rag",
+    "stars": 0,
+    "updated_at": "2026-09-12T22:00:30Z",
+    "url": "https://github.com/pnoboesam/ghana-constitution-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-12T22:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -41,7 +185,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 36,
-    "updated_at": "2026-09-12T21:56:37Z",
+    "updated_at": "2026-09-12T22:04:09Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -97,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-12T21:46:06Z",
     "url": "https://github.com/api-evangelist/zilliz"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-12T21:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
@@ -203,17 +338,8 @@
     "language": "TypeScript",
     "name": "Tibab222/cvMaker",
     "stars": 11,
-    "updated_at": "2026-09-12T21:33:55Z",
+    "updated_at": "2026-09-12T22:10:29Z",
     "url": "https://github.com/Tibab222/cvMaker"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-12T21:33:43Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -257,7 +383,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1152,
-    "updated_at": "2026-09-12T21:59:53Z",
+    "updated_at": "2026-09-12T22:04:37Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-12T21:00:20Z",
     "url": "https://github.com/api-evangelist/mixedbread-ai"
-  },
-  {
-    "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
-    "id": "api-evangelist/milvus",
-    "language": "\u2014",
-    "name": "api-evangelist/milvus",
-    "stars": 0,
-    "updated_at": "2026-09-12T20:59:51Z",
-    "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 4,
-    "updated_at": "2026-09-12T20:58:32Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
-    "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
-    "id": "api-evangelist/marqo",
-    "language": "\u2014",
-    "name": "api-evangelist/marqo",
-    "stars": 0,
-    "updated_at": "2026-09-12T20:57:16Z",
-    "url": "https://github.com/api-evangelist/marqo"
-  },
-  {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 9,
-    "updated_at": "2026-09-12T20:56:45Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "LF AI and Data \u2014 independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation",
-    "id": "api-evangelist/lf-ai-and-data",
-    "language": "\u2014",
-    "name": "api-evangelist/lf-ai-and-data",
-    "stars": 0,
-    "updated_at": "2026-09-12T20:53:55Z",
-    "url": "https://github.com/api-evangelist/lf-ai-and-data"
-  },
-  {
-    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
-    "id": "api-evangelist/lancedb",
-    "language": "\u2014",
-    "name": "api-evangelist/lancedb",
-    "stars": 0,
-    "updated_at": "2026-09-12T20:52:38Z",
-    "url": "https://github.com/api-evangelist/lancedb"
-  },
-  {
-    "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
-    "id": "api-evangelist/ironcore-labs",
-    "language": "\u2014",
-    "name": "api-evangelist/ironcore-labs",
-    "stars": 0,
-    "updated_at": "2026-09-12T20:48:08Z",
-    "url": "https://github.com/api-evangelist/ironcore-labs"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-09-12T20:45:45Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
-    "id": "api-evangelist/gel-data",
-    "language": "\u2014",
-    "name": "api-evangelist/gel-data",
-    "stars": 0,
-    "updated_at": "2026-09-12T20:38:53Z",
-    "url": "https://github.com/api-evangelist/gel-data"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16802,
-    "updated_at": "2026-09-12T20:38:44Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
-    "id": "api-evangelist/datastax",
-    "language": "\u2014",
-    "name": "api-evangelist/datastax",
-    "stars": 0,
-    "updated_at": "2026-09-12T20:27:01Z",
-    "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
-    "id": "api-evangelist/crate-io",
-    "language": "\u2014",
-    "name": "api-evangelist/crate-io",
-    "stars": 0,
-    "updated_at": "2026-09-12T20:24:53Z",
-    "url": "https://github.com/api-evangelist/crate-io"
-  },
-  {
-    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
-    "id": "api-evangelist/contentstack",
-    "language": "\u2014",
-    "name": "api-evangelist/contentstack",
-    "stars": 0,
-    "updated_at": "2026-09-12T20:23:42Z",
-    "url": "https://github.com/api-evangelist/contentstack"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 2,
-    "updated_at": "2026-09-12T20:23:30Z",
-    "url": "https://github.com/rehan243/rehan243"
   }
 ]
