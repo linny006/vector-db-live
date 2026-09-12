@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-12 01:15 UTC
+> ⏰ Last updated: 2026-09-12 01:25 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,15 +43,15 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [hanyeol/model-compose](https://github.com/hanyeol/model-compose) | 95 | Python | 2026-09-12 | Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers — run anywhere. |
-| 2 | [dkylewillis/vera](https://github.com/dkylewillis/vera) | 17 | Python | 2026-09-12 |  |
-| 3 | [Daethyra/spacrawl](https://github.com/Daethyra/spacrawl) | 0 | Python | 2026-09-12 | Domain-scoped docs crawler that turns JS-rendered sites into embedding-ready JSON for RAG. Playwright + Pinecone/FAISS. |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-12 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1620 | Python | 2026-09-12 | The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file. |
-| 6 | [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) | 10271 | C++ | 2026-09-12 | OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demand |
-| 7 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-09-12 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 10 | [K2alyan/aksharaMD](https://github.com/K2alyan/aksharaMD) | 9 | Python | 2026-09-12 | LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output. |
+| 2 | [K2alyan/aksharaMD](https://github.com/K2alyan/aksharaMD) | 9 | Python | 2026-09-12 | LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output. |
+| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-12 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 4 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-12 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 5 | [dkylewillis/vera](https://github.com/dkylewillis/vera) | 17 | Python | 2026-09-12 |  |
+| 6 | [Daethyra/spacrawl](https://github.com/Daethyra/spacrawl) | 0 | Python | 2026-09-12 | Domain-scoped docs crawler that turns JS-rendered sites into embedding-ready JSON for RAG. Playwright + Pinecone/FAISS. |
+| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-12 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 8 | [pixeltable/pixeltable](https://github.com/pixeltable/pixeltable) | 1620 | Python | 2026-09-12 | The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file. |
+| 9 | [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) | 10271 | C++ | 2026-09-12 | OceanBase is the unified distributed database for the AI era — open-source, multi-model, one engine for your most demand |
+| 10 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-09-12 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
 | 11 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-09-12 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
 | 12 | [Cyb3rRon1n/anvil](https://github.com/Cyb3rRon1n/anvil) | 0 | Python | 2026-09-12 | GPU-sized local chat, image gen, RAG, and voice stack, one command. |
 | 13 | [rao-studios/Sewn](https://github.com/rao-studios/Sewn) | 0 | Swift | 2026-09-12 | The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions. |
