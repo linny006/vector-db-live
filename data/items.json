@@ -1,5 +1,77 @@
 [
   {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 4,
+    "updated_at": "2026-09-12T18:09:21Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-12T18:09:12Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34510,
+    "updated_at": "2026-09-12T18:07:55Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-12T18:05:54Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "A is a high-performance, cloud-native multimodal AI tutor grounding Llama-3.3 in textbook facts via Zilliz Cloud. It del",
+    "id": "Omen-bit/WCEHackathon2026_NeuroNauts",
+    "language": "Python",
+    "name": "Omen-bit/WCEHackathon2026_NeuroNauts",
+    "stars": 2,
+    "updated_at": "2026-09-12T18:05:23Z",
+    "url": "https://github.com/Omen-bit/WCEHackathon2026_NeuroNauts"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1940,
+    "updated_at": "2026-09-12T18:02:10Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-12T18:00:20Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-12T18:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -18,15 +90,6 @@
     "url": "https://github.com/23skdu/longbow"
   },
   {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 4,
-    "updated_at": "2026-09-12T17:56:44Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
     "description": "Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search, ",
     "id": "akarshjain05/rag",
     "language": "Python",
@@ -41,17 +104,8 @@
     "language": "Python",
     "name": "bobaba76/Argos",
     "stars": 8,
-    "updated_at": "2026-09-12T17:54:34Z",
+    "updated_at": "2026-09-12T18:13:55Z",
     "url": "https://github.com/bobaba76/Argos"
-  },
-  {
-    "description": "A is a high-performance, cloud-native multimodal AI tutor grounding Llama-3.3 in textbook facts via Zilliz Cloud. It del",
-    "id": "Omen-bit/WCEHackathon2026_NeuroNauts",
-    "language": "Python",
-    "name": "Omen-bit/WCEHackathon2026_NeuroNauts",
-    "stars": 2,
-    "updated_at": "2026-09-12T17:53:59Z",
-    "url": "https://github.com/Omen-bit/WCEHackathon2026_NeuroNauts"
   },
   {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
@@ -68,35 +122,8 @@
     "language": "Rust",
     "name": "cognigraphdb/cognigraph",
     "stars": 1,
-    "updated_at": "2026-09-12T17:47:25Z",
+    "updated_at": "2026-09-12T18:13:38Z",
     "url": "https://github.com/cognigraphdb/cognigraph"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-12T17:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-12T17:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1940,
-    "updated_at": "2026-09-12T17:42:35Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -151,15 +178,6 @@
     "stars": 1,
     "updated_at": "2026-09-12T17:35:21Z",
     "url": "https://github.com/Harsh28Pandey/think-flow"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-12T17:33:34Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -351,21 +369,12 @@
     "url": "https://github.com/driftkit-ai/driftkit-framework"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34509,
-    "updated_at": "2026-09-12T16:44:53Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-09-12T17:46:36Z",
+    "updated_at": "2026-09-12T18:04:30Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 345,
     "updated_at": "2026-09-12T15:45:58Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
-    "id": "josephkamau32/devintel",
-    "language": "Python",
-    "name": "josephkamau32/devintel",
-    "stars": 10,
-    "updated_at": "2026-09-12T15:42:26Z",
-    "url": "https://github.com/josephkamau32/devintel"
   }
 ]
