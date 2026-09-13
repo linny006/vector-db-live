@@ -1,12 +1,66 @@
 [
   {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-13T18:57:45Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 36,
+    "updated_at": "2026-09-13T18:54:16Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 7,
+    "updated_at": "2026-09-13T18:59:23Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8213,
-    "updated_at": "2026-09-13T18:40:22Z",
+    "updated_at": "2026-09-13T18:59:12Z",
     "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 8,
+    "updated_at": "2026-09-13T18:46:12Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-13T18:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T18:45:17Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search, ",
@@ -61,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T18:30:39Z",
     "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-13T18:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T18:45:17Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -194,7 +230,7 @@
     "language": "Rust",
     "name": "cognigraphdb/cognigraph",
     "stars": 1,
-    "updated_at": "2026-09-13T18:24:21Z",
+    "updated_at": "2026-09-13T18:45:56Z",
     "url": "https://github.com/cognigraphdb/cognigraph"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6238,
-    "updated_at": "2026-09-13T18:43:26Z",
+    "updated_at": "2026-09-13T18:54:10Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -313,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T18:12:42Z",
     "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 8,
-    "updated_at": "2026-09-13T18:32:12Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T17:57:04Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
-    "id": "britorbs/consciousdb",
-    "language": "Python",
-    "name": "britorbs/consciousdb",
-    "stars": 0,
-    "updated_at": "2026-09-13T17:56:27Z",
-    "url": "https://github.com/britorbs/consciousdb"
-  },
-  {
-    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
-    "id": "tryAGI/Qdrant",
-    "language": "C#",
-    "name": "tryAGI/Qdrant",
-    "stars": 0,
-    "updated_at": "2026-09-13T17:56:25Z",
-    "url": "https://github.com/tryAGI/Qdrant"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-13T17:56:24Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
