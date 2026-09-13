@@ -1,39 +1,21 @@
 [
   {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
+    "description": "",
+    "id": "bazanov05/semantic-movie-engine",
     "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 4,
-    "updated_at": "2026-09-13T16:29:44Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 3,
-    "updated_at": "2026-09-13T16:27:38Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search, ",
-    "id": "akarshjain05/rag",
-    "language": "Python",
-    "name": "akarshjain05/rag",
+    "name": "bazanov05/semantic-movie-engine",
     "stars": 0,
-    "updated_at": "2026-09-13T16:26:57Z",
-    "url": "https://github.com/akarshjain05/rag"
+    "updated_at": "2026-09-13T16:45:01Z",
+    "url": "https://github.com/bazanov05/semantic-movie-engine"
   },
   {
-    "description": "A lightweight bioacoustic search engine to classify European bird songs. ",
-    "id": "cestdove/aviora",
-    "language": "Python",
-    "name": "cestdove/aviora",
-    "stars": 0,
-    "updated_at": "2026-09-13T16:25:38Z",
-    "url": "https://github.com/cestdove/aviora"
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1909,
+    "updated_at": "2026-09-13T16:44:43Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "\ud83e\udde0 Mem\u00f3ria sem\u00e2ntica e relacional unificada (Go, SQLite-Vec, TurboQuant 4-bit, Grafo CTEs e MCP) para Agentes de IA",
@@ -41,8 +23,134 @@
     "language": "Go",
     "name": "FelipeMiiller/my-memory",
     "stars": 3,
-    "updated_at": "2026-09-13T16:21:56Z",
+    "updated_at": "2026-09-13T16:44:28Z",
     "url": "https://github.com/FelipeMiiller/my-memory"
+  },
+  {
+    "description": "Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search, ",
+    "id": "akarshjain05/rag",
+    "language": "Python",
+    "name": "akarshjain05/rag",
+    "stars": 0,
+    "updated_at": "2026-09-13T16:44:03Z",
+    "url": "https://github.com/akarshjain05/rag"
+  },
+  {
+    "description": "NextSQL is a new database engine, written primarily in Go.",
+    "id": "bzync/nextsql",
+    "language": "Go",
+    "name": "bzync/nextsql",
+    "stars": 0,
+    "updated_at": "2026-09-13T16:43:33Z",
+    "url": "https://github.com/bzync/nextsql"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-13T16:42:41Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 4,
+    "updated_at": "2026-09-13T16:42:19Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 8,
+    "updated_at": "2026-09-13T16:44:16Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
+    "id": "hoffresearch/nest",
+    "language": "Rust",
+    "name": "hoffresearch/nest",
+    "stars": 11,
+    "updated_at": "2026-09-13T16:42:46Z",
+    "url": "https://github.com/hoffresearch/nest"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-13T16:34:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A lightweight bioacoustic search engine to classify European bird songs. ",
+    "id": "cestdove/aviora",
+    "language": "Python",
+    "name": "cestdove/aviora",
+    "stars": 0,
+    "updated_at": "2026-09-13T16:33:28Z",
+    "url": "https://github.com/cestdove/aviora"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-13T16:33:06Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1888,
+    "updated_at": "2026-09-13T16:38:34Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 0,
+    "updated_at": "2026-09-13T16:30:50Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-13T16:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T16:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 3,
+    "updated_at": "2026-09-13T16:43:02Z",
+    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -52,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T16:21:14Z",
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1909,
-    "updated_at": "2026-09-13T16:20:23Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "TORVAK is a modular AI Operating System that integrates LLMs, RAG, memory, planning, and tools into a scalable personal ",
@@ -99,30 +198,12 @@
     "url": "https://github.com/Accessible-sloughing768/docustra"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T16:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-13T16:15:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 873,
-    "updated_at": "2026-09-13T16:15:12Z",
+    "updated_at": "2026-09-13T16:45:17Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -133,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T16:15:04Z",
     "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "NextSQL is a new database engine, written primarily in Go.",
-    "id": "bzync/nextsql",
-    "language": "Go",
-    "name": "bzync/nextsql",
-    "stars": 0,
-    "updated_at": "2026-09-13T16:14:59Z",
-    "url": "https://github.com/bzync/nextsql"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -225,15 +297,6 @@
     "url": "https://github.com/rehan243/rehan243"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-13T16:08:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
     "id": "Daubingweirdie414/multimodal-rag",
     "language": "Python",
@@ -259,15 +322,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T16:05:37Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1888,
-    "updated_at": "2026-09-13T16:05:36Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-13T15:49:57Z",
     "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
-    "id": "tryAGI/Milvus",
-    "language": "C#",
-    "name": "tryAGI/Milvus",
-    "stars": 0,
-    "updated_at": "2026-09-13T15:48:58Z",
-    "url": "https://github.com/tryAGI/Milvus"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-09-13T15:48:49Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "Interview Chat Bot.",
-    "id": "karinastha/data_engineering_interview_prep_chatbot",
-    "language": "Python",
-    "name": "karinastha/data_engineering_interview_prep_chatbot",
-    "stars": 0,
-    "updated_at": "2026-09-13T15:45:04Z",
-    "url": "https://github.com/karinastha/data_engineering_interview_prep_chatbot"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-09-13T15:44:24Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
-    "id": "britorbs/consciousdb",
-    "language": "Python",
-    "name": "britorbs/consciousdb",
-    "stars": 0,
-    "updated_at": "2026-09-13T15:42:24Z",
-    "url": "https://github.com/britorbs/consciousdb"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-13T15:42:17Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
