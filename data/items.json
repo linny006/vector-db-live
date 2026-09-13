@@ -1,5 +1,50 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 97,
+    "updated_at": "2026-09-13T08:25:57Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30657,
+    "updated_at": "2026-09-13T08:29:26Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "An embedded vector database backed by immutable Git snapshots",
+    "id": "nishu-builder/git-vdb",
+    "language": "Rust",
+    "name": "nishu-builder/git-vdb",
+    "stars": 1,
+    "updated_at": "2026-09-13T08:22:25Z",
+    "url": "https://github.com/nishu-builder/git-vdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-13T08:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T08:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -14,7 +59,7 @@
     "language": "C#",
     "name": "sharadverma810/working-with-vNext-cosmos-db-emulator",
     "stars": 0,
-    "updated_at": "2026-09-13T08:03:41Z",
+    "updated_at": "2026-09-13T08:24:17Z",
     "url": "https://github.com/sharadverma810/working-with-vNext-cosmos-db-emulator"
   },
   {
@@ -34,24 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T08:01:18Z",
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-13T08:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T08:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9256,
-    "updated_at": "2026-09-13T08:01:22Z",
+    "updated_at": "2026-09-13T08:23:58Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/Aashutosh31/arc-ai-project"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 96,
-    "updated_at": "2026-09-13T07:12:17Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
     "id": "LnYo-Cly/ai4j",
     "language": "Java",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-13T06:53:58Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "An embedded vector database backed by immutable Git snapshots",
-    "id": "nishu-builder/git-vdb",
-    "language": "Rust",
-    "name": "nishu-builder/git-vdb",
-    "stars": 1,
-    "updated_at": "2026-09-13T08:11:48Z",
-    "url": "https://github.com/nishu-builder/git-vdb"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 8,
-    "updated_at": "2026-09-13T07:49:18Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   }
 ]
