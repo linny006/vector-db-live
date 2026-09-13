@@ -1,11 +1,65 @@
 [
   {
+    "description": "API platform info for machine-learning",
+    "id": "api-evangelist/machine-learning",
+    "language": "HTML",
+    "name": "api-evangelist/machine-learning",
+    "stars": 0,
+    "updated_at": "2026-09-13T14:25:38Z",
+    "url": "https://github.com/api-evangelist/machine-learning"
+  },
+  {
+    "description": "API platform info for database",
+    "id": "api-evangelist/database",
+    "language": "HTML",
+    "name": "api-evangelist/database",
+    "stars": 0,
+    "updated_at": "2026-09-13T14:25:12Z",
+    "url": "https://github.com/api-evangelist/database"
+  },
+  {
+    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 2,
+    "updated_at": "2026-09-13T14:28:09Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "Interview Chat Bot.",
+    "id": "karinastha/data_engineering_interview_prep_chatbot",
+    "language": "Python",
+    "name": "karinastha/data_engineering_interview_prep_chatbot",
+    "stars": 0,
+    "updated_at": "2026-09-13T14:23:30Z",
+    "url": "https://github.com/karinastha/data_engineering_interview_prep_chatbot"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1888,
+    "updated_at": "2026-09-13T14:23:17Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-13T14:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-13T14:15:19Z",
+    "updated_at": "2026-09-13T14:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +77,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 36,
-    "updated_at": "2026-09-13T14:12:26Z",
+    "updated_at": "2026-09-13T14:20:01Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -158,7 +212,7 @@
     "language": "HTML",
     "name": "Fractera/fractera-memory-starter",
     "stars": 0,
-    "updated_at": "2026-09-13T14:14:05Z",
+    "updated_at": "2026-09-13T14:29:04Z",
     "url": "https://github.com/Fractera/fractera-memory-starter"
   },
   {
@@ -178,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T14:02:06Z",
     "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Interview Chat Bot.",
-    "id": "karinastha/data_engineering_interview_prep_chatbot",
-    "language": "Python",
-    "name": "karinastha/data_engineering_interview_prep_chatbot",
-    "stars": 0,
-    "updated_at": "2026-09-13T14:01:40Z",
-    "url": "https://github.com/karinastha/data_engineering_interview_prep_chatbot"
   },
   {
     "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T14:00:34Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-13T14:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
@@ -261,15 +297,6 @@
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
   },
   {
-    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
-    "id": "felixzhu97/explore-ai",
-    "language": "Java",
-    "name": "felixzhu97/explore-ai",
-    "stars": 2,
-    "updated_at": "2026-09-13T13:55:22Z",
-    "url": "https://github.com/felixzhu97/explore-ai"
-  },
-  {
     "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
     "id": "RoxyAPI/ai-spiritual-companion",
     "language": "TypeScript",
@@ -286,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T13:54:37Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1888,
-    "updated_at": "2026-09-13T13:52:03Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9256,
-    "updated_at": "2026-09-13T14:12:50Z",
+    "updated_at": "2026-09-13T14:23:37Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-13T13:39:10Z",
     "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-09-13T13:37:56Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30659,
-    "updated_at": "2026-09-13T14:03:13Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
