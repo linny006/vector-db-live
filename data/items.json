@@ -1,12 +1,75 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T23:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-13T23:43:31Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9256,
+    "updated_at": "2026-09-13T23:45:17Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
     "description": "Reproducible benchmark comparing full catalog context with metadata-filtered semantic retrieval using Amazon S3 Vectors ",
     "id": "AlejandroMorgante/semantic-layer-with-s3-vectors",
     "language": "Python",
     "name": "AlejandroMorgante/semantic-layer-with-s3-vectors",
     "stars": 0,
-    "updated_at": "2026-09-13T23:27:17Z",
+    "updated_at": "2026-09-13T23:38:31Z",
     "url": "https://github.com/AlejandroMorgante/semantic-layer-with-s3-vectors"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 91,
+    "updated_at": "2026-09-13T23:36:46Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46091,
+    "updated_at": "2026-09-13T23:39:34Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-13T23:33:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-13T23:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -25,33 +88,6 @@
     "stars": 2,
     "updated_at": "2026-09-13T23:19:16Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-13T23:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T23:15:17Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-13T23:07:13Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83e\udde0 Mem\u00f3ria sem\u00e2ntica e relacional unificada (Go, SQLite-Vec, TurboQuant 4-bit, Grafo CTEs e MCP) para Agentes de IA",
@@ -270,15 +306,6 @@
     "url": "https://github.com/giancarloerra/SocratiCode"
   },
   {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-13T21:52:41Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
     "id": "SKeditz42/Vec",
     "language": "C",
@@ -401,17 +428,8 @@
     "language": "Rust",
     "name": "mirkobozzetto/flowflow",
     "stars": 168,
-    "updated_at": "2026-09-13T21:15:49Z",
+    "updated_at": "2026-09-13T23:36:32Z",
     "url": "https://github.com/mirkobozzetto/flowflow"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9256,
-    "updated_at": "2026-09-13T23:16:02Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T20:35:07Z",
     "url": "https://github.com/yagosamu/juri_ai"
-  },
-  {
-    "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
-    "id": "Dakera-AI/dakera-rs",
-    "language": "Rust",
-    "name": "Dakera-AI/dakera-rs",
-    "stars": 5,
-    "updated_at": "2026-09-13T20:33:36Z",
-    "url": "https://github.com/Dakera-AI/dakera-rs"
-  },
-  {
-    "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
-    "id": "Dakera-AI/dakera-go",
-    "language": "Go",
-    "name": "Dakera-AI/dakera-go",
-    "stars": 7,
-    "updated_at": "2026-09-13T20:33:32Z",
-    "url": "https://github.com/Dakera-AI/dakera-go"
   }
 ]
