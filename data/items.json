@@ -1,5 +1,77 @@
 [
   {
+    "description": "A AI native event driven code reviewer for your multi-language codebases",
+    "id": "pirjademl/vento-bot",
+    "language": "Go",
+    "name": "pirjademl/vento-bot",
+    "stars": 0,
+    "updated_at": "2026-09-13T17:44:16Z",
+    "url": "https://github.com/pirjademl/vento-bot"
+  },
+  {
+    "description": "Conversational RAG pipline, query 600+ biology papers with charts and source citations.",
+    "id": "r6mez/BioTrek",
+    "language": "TypeScript",
+    "name": "r6mez/BioTrek",
+    "stars": 1,
+    "updated_at": "2026-09-13T17:41:58Z",
+    "url": "https://github.com/r6mez/BioTrek"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1888,
+    "updated_at": "2026-09-13T17:41:57Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T17:40:01Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Evidence-grounded agentic RAG for recovering the rationale behind technical decisions from repository history.",
+    "id": "sophiatheofanidou/RepoRationale",
+    "language": "Python",
+    "name": "sophiatheofanidou/RepoRationale",
+    "stars": 0,
+    "updated_at": "2026-09-13T17:38:32Z",
+    "url": "https://github.com/sophiatheofanidou/RepoRationale"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1153,
+    "updated_at": "2026-09-13T17:34:23Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-13T17:33:36Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-13T17:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A lightweight bioacoustic search engine to classify European bird songs. ",
     "id": "cestdove/aviora",
     "language": "Python",
@@ -45,24 +117,6 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-13T17:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T17:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -88,15 +142,6 @@
     "stars": 4,
     "updated_at": "2026-09-13T17:08:58Z",
     "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-13T17:06:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -162,15 +207,6 @@
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
-    "description": "Evidence-grounded agentic RAG for recovering the rationale behind technical decisions from repository history.",
-    "id": "sophiatheofanidou/RepoRationale",
-    "language": "Python",
-    "name": "sophiatheofanidou/RepoRationale",
-    "stars": 0,
-    "updated_at": "2026-09-13T17:01:56Z",
-    "url": "https://github.com/sophiatheofanidou/RepoRationale"
-  },
-  {
     "description": "RAG model for UK criminal law",
     "id": "sak3y/rag-project",
     "language": "Jupyter Notebook",
@@ -225,15 +261,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1888,
-    "updated_at": "2026-09-13T16:48:39Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
     "id": "hbar-systems/brainfoundry-nous",
     "language": "Python",
@@ -248,7 +275,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 3,
-    "updated_at": "2026-09-13T17:26:42Z",
+    "updated_at": "2026-09-13T17:43:13Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -360,15 +387,6 @@
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1153,
-    "updated_at": "2026-09-13T16:11:51Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
     "id": "roberthalfway204/Document-Intelligent-Assistant",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T16:00:38Z",
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-09-13T16:00:23Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 80,
-    "updated_at": "2026-09-13T15:59:46Z",
-    "url": "https://github.com/infino-ai/infino"
   }
 ]
