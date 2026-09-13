@@ -1,5 +1,77 @@
 [
   {
+    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
+    "id": "iksnerd/code-nexus",
+    "language": "Elixir",
+    "name": "iksnerd/code-nexus",
+    "stars": 0,
+    "updated_at": "2026-09-13T14:44:18Z",
+    "url": "https://github.com/iksnerd/code-nexus"
+  },
+  {
+    "description": "TalaDB - The embedded vector and document database for on-device AI.",
+    "id": "taladb/taladb",
+    "language": "Rust",
+    "name": "taladb/taladb",
+    "stars": 4,
+    "updated_at": "2026-09-13T14:42:03Z",
+    "url": "https://github.com/taladb/taladb"
+  },
+  {
+    "description": "Interview Chat Bot.",
+    "id": "karinastha/data_engineering_interview_prep_chatbot",
+    "language": "Python",
+    "name": "karinastha/data_engineering_interview_prep_chatbot",
+    "stars": 0,
+    "updated_at": "2026-09-13T14:41:11Z",
+    "url": "https://github.com/karinastha/data_engineering_interview_prep_chatbot"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 345,
+    "updated_at": "2026-09-13T14:38:37Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T14:35:45Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
+    "id": "surajkumarnavodya/text-to-sql-agent-langgraph",
+    "language": "Python",
+    "name": "surajkumarnavodya/text-to-sql-agent-langgraph",
+    "stars": 3,
+    "updated_at": "2026-09-13T14:33:39Z",
+    "url": "https://github.com/surajkumarnavodya/text-to-sql-agent-langgraph"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-13T14:33:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-13T14:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "API platform info for machine-learning",
     "id": "api-evangelist/machine-learning",
     "language": "HTML",
@@ -7,6 +79,15 @@
     "stars": 0,
     "updated_at": "2026-09-13T14:25:38Z",
     "url": "https://github.com/api-evangelist/machine-learning"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30658,
+    "updated_at": "2026-09-13T14:25:24Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "API platform info for database",
@@ -27,40 +108,13 @@
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
-    "description": "Interview Chat Bot.",
-    "id": "karinastha/data_engineering_interview_prep_chatbot",
-    "language": "Python",
-    "name": "karinastha/data_engineering_interview_prep_chatbot",
-    "stars": 0,
-    "updated_at": "2026-09-13T14:23:30Z",
-    "url": "https://github.com/karinastha/data_engineering_interview_prep_chatbot"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1888,
-    "updated_at": "2026-09-13T14:23:17Z",
+    "updated_at": "2026-09-13T14:42:33Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-13T14:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T14:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Vector compression with TurboQuant codecs for embeddings, retrieval, and KV-cache. 10x compression, pure NumPy core \u2014 op",
@@ -77,7 +131,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 36,
-    "updated_at": "2026-09-13T14:20:01Z",
+    "updated_at": "2026-09-13T14:42:41Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -162,15 +216,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-13T14:07:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
     "id": "api-evangelist/azure-cosmos-db",
     "language": "\u2014",
@@ -212,7 +257,7 @@
     "language": "HTML",
     "name": "Fractera/fractera-memory-starter",
     "stars": 0,
-    "updated_at": "2026-09-13T14:29:04Z",
+    "updated_at": "2026-09-13T14:33:44Z",
     "url": "https://github.com/Fractera/fractera-memory-starter"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 277,
     "updated_at": "2026-09-13T13:52:57Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-13T13:42:34Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-09-13T13:41:32Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9256,
-    "updated_at": "2026-09-13T14:23:37Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-13T13:39:45Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-09-13T13:39:10Z",
-    "url": "https://github.com/rein98/PsyChat"
   }
 ]
