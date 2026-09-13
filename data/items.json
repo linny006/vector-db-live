@@ -1,11 +1,38 @@
 [
   {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 276,
+    "updated_at": "2026-09-13T04:58:28Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search, ",
+    "id": "akarshjain05/rag",
+    "language": "Python",
+    "name": "akarshjain05/rag",
+    "stars": 0,
+    "updated_at": "2026-09-13T04:55:42Z",
+    "url": "https://github.com/akarshjain05/rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-13T04:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-13T04:45:21Z",
+    "updated_at": "2026-09-13T05:00:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -25,24 +52,6 @@
     "stars": 2,
     "updated_at": "2026-09-13T04:30:51Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-13T04:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search, ",
-    "id": "akarshjain05/rag",
-    "language": "Python",
-    "name": "akarshjain05/rag",
-    "stars": 0,
-    "updated_at": "2026-09-13T04:29:10Z",
-    "url": "https://github.com/akarshjain05/rag"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -77,7 +86,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1152,
-    "updated_at": "2026-09-13T04:37:42Z",
+    "updated_at": "2026-09-13T04:57:53Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T03:17:25Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Document-first sqlite3+faiss vector database",
-    "id": "thomas-villani/localvectordb",
-    "language": "Python",
-    "name": "thomas-villani/localvectordb",
-    "stars": 2,
-    "updated_at": "2026-09-13T03:14:20Z",
-    "url": "https://github.com/thomas-villani/localvectordb"
   }
 ]
