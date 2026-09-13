@@ -1,12 +1,93 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T03:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 345,
+    "updated_at": "2026-09-13T03:29:20Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-09-13T03:25:29Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-09-13T03:25:20Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-09-13T03:24:51Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
+    "id": "K2alyan/aksharaMD",
+    "language": "Python",
+    "name": "K2alyan/aksharaMD",
+    "stars": 9,
+    "updated_at": "2026-09-13T03:24:38Z",
+    "url": "https://github.com/K2alyan/aksharaMD"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1888,
+    "updated_at": "2026-09-13T03:20:30Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
     "id": "sergiunicoara/Generative-AI",
     "language": "Python",
     "name": "sergiunicoara/Generative-AI",
     "stars": 3,
-    "updated_at": "2026-09-13T03:14:23Z",
+    "updated_at": "2026-09-13T03:17:29Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-13T03:17:25Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-13T03:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Document-first sqlite3+faiss vector database",
@@ -23,7 +104,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-13T03:11:01Z",
+    "updated_at": "2026-09-13T03:25:01Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -43,24 +124,6 @@
     "stars": 149,
     "updated_at": "2026-09-13T03:05:54Z",
     "url": "https://github.com/ather-techie/rag-interview-system"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-13T03:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T03:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -160,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T02:09:49Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1888,
-    "updated_at": "2026-09-13T03:07:43Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -360,33 +414,6 @@
     "url": "https://github.com/hesamaria/rag-chatbot"
   },
   {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-09-13T01:34:12Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-09-13T01:34:08Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
-    "id": "ermermermermidk/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ermermermermidk/mcp-ai-memory",
-    "stars": 1,
-    "updated_at": "2026-09-13T01:33:37Z",
-    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
@@ -421,32 +448,5 @@
     "stars": 54,
     "updated_at": "2026-09-13T01:11:45Z",
     "url": "https://github.com/rustic-ai/uni-db"
-  },
-  {
-    "description": "AI-Native OSINT & 3D Link Analysis Platform",
-    "id": "sayan9168/nexus-osint",
-    "language": "Python",
-    "name": "sayan9168/nexus-osint",
-    "stars": 3,
-    "updated_at": "2026-09-13T01:08:23Z",
-    "url": "https://github.com/sayan9168/nexus-osint"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 31,
-    "updated_at": "2026-09-13T01:04:41Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-13T00:49:12Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   }
 ]
