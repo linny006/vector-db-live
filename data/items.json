@@ -1,12 +1,57 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-13T15:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A lightweight bioacoustic search engine to classify European bird songs. ",
+    "id": "cestdove/BioAcoustic-Vector-Search",
+    "language": "Python",
+    "name": "cestdove/BioAcoustic-Vector-Search",
+    "stars": 0,
+    "updated_at": "2026-09-13T14:54:33Z",
+    "url": "https://github.com/cestdove/BioAcoustic-Vector-Search"
+  },
+  {
+    "description": "Practical GenAI-Eshop application using Semantic Kernel, multi-agent orchestrations, Mcp tools, A2A Agents, Semantic Sea",
+    "id": "mehdihadeli/genai-eshop-semantic-kernel",
+    "language": "C#",
+    "name": "mehdihadeli/genai-eshop-semantic-kernel",
+    "stars": 15,
+    "updated_at": "2026-09-13T14:55:56Z",
+    "url": "https://github.com/mehdihadeli/genai-eshop-semantic-kernel"
+  },
+  {
     "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
     "id": "iksnerd/code-nexus",
     "language": "Elixir",
     "name": "iksnerd/code-nexus",
     "stars": 0,
-    "updated_at": "2026-09-13T14:44:18Z",
+    "updated_at": "2026-09-13T14:53:09Z",
     "url": "https://github.com/iksnerd/code-nexus"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 3247,
+    "updated_at": "2026-09-13T14:49:31Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-13T14:45:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "TalaDB - The embedded vector and document database for on-device AI.",
@@ -14,7 +59,7 @@
     "language": "Rust",
     "name": "taladb/taladb",
     "stars": 4,
-    "updated_at": "2026-09-13T14:42:03Z",
+    "updated_at": "2026-09-13T14:52:28Z",
     "url": "https://github.com/taladb/taladb"
   },
   {
@@ -36,15 +81,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-13T14:35:45Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
     "id": "surajkumarnavodya/text-to-sql-agent-langgraph",
     "language": "Python",
@@ -63,15 +99,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-13T14:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "API platform info for machine-learning",
     "id": "api-evangelist/machine-learning",
     "language": "HTML",
@@ -86,7 +113,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30658,
-    "updated_at": "2026-09-13T14:25:24Z",
+    "updated_at": "2026-09-13T14:48:04Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -257,7 +284,7 @@
     "language": "HTML",
     "name": "Fractera/fractera-memory-starter",
     "stars": 0,
-    "updated_at": "2026-09-13T14:33:44Z",
+    "updated_at": "2026-09-13T14:59:23Z",
     "url": "https://github.com/Fractera/fractera-memory-starter"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-13T13:46:00Z",
     "url": "https://github.com/bobaba76/Argos"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-09-13T13:45:13Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9440,
-    "updated_at": "2026-09-13T14:08:23Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 277,
-    "updated_at": "2026-09-13T13:52:57Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   }
 ]
