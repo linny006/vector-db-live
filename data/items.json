@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-13T06:15:20Z",
+    "updated_at": "2026-09-13T06:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-13T06:30:14Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-09-13T06:27:01Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-09-13T06:24:33Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-13T06:20:50Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "\ud83e\udde0 Predictable, embedded multimodal vector database & offline RAG engine for Edge AI (ARM64 / Zero-OOM). Built in C++20.",
+    "id": "pomagrenate/pomaidb",
+    "language": "C++",
+    "name": "pomagrenate/pomaidb",
+    "stars": 19,
+    "updated_at": "2026-09-13T06:18:51Z",
+    "url": "https://github.com/pomagrenate/pomaidb"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -14,8 +59,17 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-13T06:13:09Z",
+    "updated_at": "2026-09-13T06:15:59Z",
     "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-13T06:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
@@ -43,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T06:09:39Z",
     "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-13T06:09:38Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
@@ -95,7 +140,7 @@
     "language": "Python",
     "name": "rmednitzer/core-graph",
     "stars": 1,
-    "updated_at": "2026-09-13T06:01:11Z",
+    "updated_at": "2026-09-13T06:27:10Z",
     "url": "https://github.com/rmednitzer/core-graph"
   },
   {
@@ -124,15 +169,6 @@
     "stars": 36,
     "updated_at": "2026-09-13T06:03:13Z",
     "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 1,
-    "updated_at": "2026-09-13T05:58:30Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
   },
   {
     "description": "Local codebase memory for AI assistants. Because re-explaining your project structure to Claude or Antigravity for the f",
@@ -306,15 +342,6 @@
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   },
   {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-09-13T05:38:51Z",
-    "url": "https://github.com/23skdu/longbow"
-  },
-  {
     "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
     "id": "ibrahima0101/python-ai-chatbot-huggingface",
     "language": "Python",
@@ -356,7 +383,7 @@
     "language": "Java",
     "name": "LnYo-Cly/ai4j",
     "stars": 430,
-    "updated_at": "2026-09-13T05:27:29Z",
+    "updated_at": "2026-09-13T06:23:11Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1888,
-    "updated_at": "2026-09-13T05:18:42Z",
+    "updated_at": "2026-09-13T06:22:12Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 276,
     "updated_at": "2026-09-13T05:22:38Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Production-grade, horizontally scalable Retrieval-Augmented Generation (RAG) pipeline featuring temporal hybrid search, ",
-    "id": "akarshjain05/rag",
-    "language": "Python",
-    "name": "akarshjain05/rag",
-    "stars": 0,
-    "updated_at": "2026-09-13T04:55:42Z",
-    "url": "https://github.com/akarshjain05/rag"
-  },
-  {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-13T06:10:03Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 345,
-    "updated_at": "2026-09-13T04:25:20Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
