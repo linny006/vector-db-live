@@ -1,5 +1,50 @@
 [
   {
+    "description": "NextSQL is a new database engine, written primarily in Go.",
+    "id": "bzync/nextsql",
+    "language": "Go",
+    "name": "bzync/nextsql",
+    "stars": 0,
+    "updated_at": "2026-09-13T15:28:00Z",
+    "url": "https://github.com/bzync/nextsql"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 4,
+    "updated_at": "2026-09-13T15:26:43Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on ",
+    "id": "zacharydenton/hrxdb",
+    "language": "Rust",
+    "name": "zacharydenton/hrxdb",
+    "stars": 0,
+    "updated_at": "2026-09-13T15:21:58Z",
+    "url": "https://github.com/zacharydenton/hrxdb"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 345,
+    "updated_at": "2026-09-13T15:18:23Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-13T15:15:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,24 +61,6 @@
     "stars": 3,
     "updated_at": "2026-09-13T15:12:20Z",
     "url": "https://github.com/yp3y5akh0v/citadel"
-  },
-  {
-    "description": "NextSQL is a new database engine, written primarily in Go.",
-    "id": "bzync/nextsql",
-    "language": "Go",
-    "name": "bzync/nextsql",
-    "stars": 0,
-    "updated_at": "2026-09-13T15:12:07Z",
-    "url": "https://github.com/bzync/nextsql"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 4,
-    "updated_at": "2026-09-13T15:11:00Z",
-    "url": "https://github.com/imagodata/filter_mate"
   },
   {
     "description": "Evidence-linked multi-model database. Documents, graphs and vector search in one Rust binary",
@@ -90,22 +117,13 @@
     "url": "https://github.com/ricmed/zettel_app"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-13T15:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A lightweight bioacoustic search engine to classify European bird songs. ",
-    "id": "cestdove/BioAcoustic-Vector-Search",
+    "id": "cestdove/aviora",
     "language": "Python",
-    "name": "cestdove/BioAcoustic-Vector-Search",
+    "name": "cestdove/aviora",
     "stars": 0,
     "updated_at": "2026-09-13T14:54:33Z",
-    "url": "https://github.com/cestdove/BioAcoustic-Vector-Search"
+    "url": "https://github.com/cestdove/aviora"
   },
   {
     "description": "Practical GenAI-Eshop application using Semantic Kernel, multi-agent orchestrations, Mcp tools, A2A Agents, Semantic Sea",
@@ -130,9 +148,18 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 3247,
+    "stars": 3248,
     "updated_at": "2026-09-13T14:49:31Z",
     "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30659,
+    "updated_at": "2026-09-13T14:48:04Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "TalaDB - The embedded vector and document database for on-device AI.",
@@ -153,15 +180,6 @@
     "url": "https://github.com/karinastha/data_engineering_interview_prep_chatbot"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 345,
-    "updated_at": "2026-09-13T14:38:37Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
     "id": "surajkumarnavodya/text-to-sql-agent-langgraph",
     "language": "Python",
@@ -178,15 +196,6 @@
     "stars": 0,
     "updated_at": "2026-09-13T14:25:38Z",
     "url": "https://github.com/api-evangelist/machine-learning"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30658,
-    "updated_at": "2026-09-13T14:48:04Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "API platform info for database",
@@ -230,7 +239,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 36,
-    "updated_at": "2026-09-13T14:42:41Z",
+    "updated_at": "2026-09-13T15:25:50Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -356,7 +365,7 @@
     "language": "HTML",
     "name": "Fractera/fractera-memory-starter",
     "stars": 0,
-    "updated_at": "2026-09-13T14:59:23Z",
+    "updated_at": "2026-09-13T15:23:22Z",
     "url": "https://github.com/Fractera/fractera-memory-starter"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T13:56:03Z",
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
-    "id": "RoxyAPI/ai-spiritual-companion",
-    "language": "TypeScript",
-    "name": "RoxyAPI/ai-spiritual-companion",
-    "stars": 0,
-    "updated_at": "2026-09-13T13:57:27Z",
-    "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
   }
 ]
