@@ -1,5 +1,50 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 97,
+    "updated_at": "2026-09-13T10:40:49Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-13T10:35:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-09-13T10:32:43Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "Think Flow is an intelligent agent platform built with LangGraph and LangChain for automated reasoning, workflows, and A",
+    "id": "Harsh28Pandey/think-flow",
+    "language": "JavaScript",
+    "name": "Harsh28Pandey/think-flow",
+    "stars": 1,
+    "updated_at": "2026-09-13T10:31:20Z",
+    "url": "https://github.com/Harsh28Pandey/think-flow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-13T10:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,6 +52,15 @@
     "stars": 3,
     "updated_at": "2026-09-13T10:30:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local MCP server for authenticated documentation sites, using Playwright for login and crawling, SQLite full-text and ve",
+    "id": "veep2012/doc_mcp",
+    "language": "Python",
+    "name": "veep2012/doc_mcp",
+    "stars": 0,
+    "updated_at": "2026-09-13T10:30:18Z",
+    "url": "https://github.com/veep2012/doc_mcp"
   },
   {
     "description": "Reproducible local study: when is Qdrant preferable to MongoDB $vectorSearch? Frozen 384-d embeddings, iso-recall protoc",
@@ -54,15 +108,6 @@
     "url": "https://github.com/mmelmesary/rag-mcp"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-13T10:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -95,17 +140,8 @@
     "language": "Python",
     "name": "VectifyAI/PageIndex",
     "stars": 35628,
-    "updated_at": "2026-09-13T10:05:42Z",
+    "updated_at": "2026-09-13T10:34:31Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-13T10:03:09Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -266,7 +302,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9440,
-    "updated_at": "2026-09-13T10:00:32Z",
+    "updated_at": "2026-09-13T10:44:28Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -311,7 +347,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9256,
-    "updated_at": "2026-09-13T10:29:11Z",
+    "updated_at": "2026-09-13T10:39:31Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T09:23:49Z",
     "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2298,
-    "updated_at": "2026-09-13T09:23:01Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
-    "id": "techdomegh/ai-news-scraper",
-    "language": "Python",
-    "name": "techdomegh/ai-news-scraper",
-    "stars": 12,
-    "updated_at": "2026-09-13T09:20:33Z",
-    "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
-    "id": "Fractera/fractera-memory-starter",
-    "language": "HTML",
-    "name": "Fractera/fractera-memory-starter",
-    "stars": 0,
-    "updated_at": "2026-09-13T09:20:16Z",
-    "url": "https://github.com/Fractera/fractera-memory-starter"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-09-13T09:19:33Z",
-    "url": "https://github.com/Maurellone/TySVA"
   }
 ]
