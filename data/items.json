@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T14:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
+    "id": "deven96/ahnlich",
+    "language": "Rust",
+    "name": "deven96/ahnlich",
+    "stars": 244,
+    "updated_at": "2026-09-14T14:29:41Z",
+    "url": "https://github.com/deven96/ahnlich"
+  },
+  {
+    "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
+    "id": "qdrant/skills",
+    "language": "Python",
+    "name": "qdrant/skills",
+    "stars": 235,
+    "updated_at": "2026-09-14T14:28:51Z",
+    "url": "https://github.com/qdrant/skills"
+  },
+  {
+    "description": "MCP Server for vector-based semantic code search in Claude Code. Index your codebase locally with LanceDB and search cod",
+    "id": "Xveyn/codebase-semantic-search",
+    "language": "TypeScript",
+    "name": "Xveyn/codebase-semantic-search",
+    "stars": 0,
+    "updated_at": "2026-09-14T14:28:36Z",
+    "url": "https://github.com/Xveyn/codebase-semantic-search"
+  },
+  {
+    "description": "\ud83e\udde0 Predictable, embedded multimodal vector database & offline RAG engine for Edge AI (ARM64 / Zero-OOM). Built in C++20.",
+    "id": "pomagrenate/pomaidb",
+    "language": "C++",
+    "name": "pomagrenate/pomaidb",
+    "stars": 19,
+    "updated_at": "2026-09-14T14:27:17Z",
+    "url": "https://github.com/pomagrenate/pomaidb"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 4,
+    "updated_at": "2026-09-14T14:26:03Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-14T14:28:28Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
+    "id": "sh1v-max/AI-Backend",
+    "language": "TypeScript",
+    "name": "sh1v-max/AI-Backend",
+    "stars": 0,
+    "updated_at": "2026-09-14T14:21:11Z",
+    "url": "https://github.com/sh1v-max/AI-Backend"
+  },
+  {
+    "description": "Evidence-aware RAG system that detects conflicting claims across multiple documents and generates source-grounded answer",
+    "id": "VIS030/truthlens-ai",
+    "language": "\u2014",
+    "name": "VIS030/truthlens-ai",
+    "stars": 0,
+    "updated_at": "2026-09-14T14:21:03Z",
+    "url": "https://github.com/VIS030/truthlens-ai"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12947,
+    "updated_at": "2026-09-14T14:27:08Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
+    "id": "TanNguyen234/VietLex-Tech-Spec",
+    "language": "Python",
+    "name": "TanNguyen234/VietLex-Tech-Spec",
+    "stars": 0,
+    "updated_at": "2026-09-14T14:15:39Z",
+    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T14:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
     "id": "codecoradev/uteke",
     "language": "Rust",
@@ -7,6 +115,15 @@
     "stars": 243,
     "updated_at": "2026-09-14T14:15:22Z",
     "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-09-14T14:14:49Z",
+    "url": "https://github.com/weaviate/weaviate-io"
   },
   {
     "description": "Distributed hybrid-search RAG system for scientific literature: Go/Gin gateway, FastAPI + LlamaIndex ML service with Qdr",
@@ -27,15 +144,6 @@
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
-    "description": "MCP Server for vector-based semantic code search in Claude Code. Index your codebase locally with LanceDB and search cod",
-    "id": "Xveyn/codebase-semantic-search",
-    "language": "TypeScript",
-    "name": "Xveyn/codebase-semantic-search",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:15:05Z",
-    "url": "https://github.com/Xveyn/codebase-semantic-search"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -54,21 +162,12 @@
     "url": "https://github.com/wickra-lib/wickra-genome"
   },
   {
-    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:07:55Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9441,
-    "updated_at": "2026-09-14T14:06:14Z",
+    "updated_at": "2026-09-14T14:28:40Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -90,30 +189,12 @@
     "url": "https://github.com/diegormirhan/polyrag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T14:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T14:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1475,
-    "updated_at": "2026-09-14T14:07:22Z",
+    "updated_at": "2026-09-14T14:28:16Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -148,7 +229,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30678,
+    "stars": 30679,
     "updated_at": "2026-09-14T13:50:57Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -160,6 +241,15 @@
     "stars": 1,
     "updated_at": "2026-09-14T13:49:19Z",
     "url": "https://github.com/Krishna-Pratik/infosys-ai-document-search"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11421,
+    "updated_at": "2026-09-14T13:45:31Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
@@ -221,17 +311,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34541,
-    "updated_at": "2026-09-14T13:38:32Z",
+    "updated_at": "2026-09-14T14:15:32Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-14T14:14:14Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -241,15 +322,6 @@
     "stars": 1888,
     "updated_at": "2026-09-14T14:01:02Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 4,
-    "updated_at": "2026-09-14T14:11:21Z",
-    "url": "https://github.com/imagodata/filter_mate"
   },
   {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-14T13:25:51Z",
     "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-09-14T13:25:28Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-14T13:23:36Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-09-14T13:21:19Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-09-14T13:20:52Z",
-    "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
-    "id": "Anonymousforareason111/hybrid-orchestrator",
-    "language": "Python",
-    "name": "Anonymousforareason111/hybrid-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-09-14T13:19:23Z",
-    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8220,
-    "updated_at": "2026-09-14T14:12:29Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Declarative SQL query engine for Qdrant and edge vector databases. Multi-vector dense & BM25 sparse search, hybrid retri",
-    "id": "srimon12/qql-rs",
-    "language": "Rust",
-    "name": "srimon12/qql-rs",
-    "stars": 5,
-    "updated_at": "2026-09-14T13:16:11Z",
-    "url": "https://github.com/srimon12/qql-rs"
-  },
-  {
-    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
-    "id": "ELSAKKK/mnemos-mcp",
-    "language": "Python",
-    "name": "ELSAKKK/mnemos-mcp",
-    "stars": 5,
-    "updated_at": "2026-09-14T13:14:55Z",
-    "url": "https://github.com/ELSAKKK/mnemos-mcp"
   }
 ]
