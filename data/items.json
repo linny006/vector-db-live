@@ -1,5 +1,104 @@
 [
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34548,
+    "updated_at": "2026-09-14T16:13:52Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4435,
+    "updated_at": "2026-09-14T16:14:00Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-14T16:11:15Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-14T16:09:08Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "MCP Server for vector-based semantic code search in Claude Code. Index your codebase locally with LanceDB and search cod",
+    "id": "Xveyn/vectorgrep",
+    "language": "TypeScript",
+    "name": "Xveyn/vectorgrep",
+    "stars": 0,
+    "updated_at": "2026-09-14T16:11:52Z",
+    "url": "https://github.com/Xveyn/vectorgrep"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9262,
+    "updated_at": "2026-09-14T16:10:55Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3296,
+    "updated_at": "2026-09-14T16:06:03Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Enterprise-grade AI-powered document search system using Retrieval-Augmented Generation (RAG), Streamlit UI, multi-model",
+    "id": "Krishna-Pratik/infosys-ai-document-search",
+    "language": "JavaScript",
+    "name": "Krishna-Pratik/infosys-ai-document-search",
+    "stars": 1,
+    "updated_at": "2026-09-14T16:04:29Z",
+    "url": "https://github.com/Krishna-Pratik/infosys-ai-document-search"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 4,
+    "updated_at": "2026-09-14T16:04:51Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1475,
+    "updated_at": "2026-09-14T16:12:34Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T16:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,31 +108,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-14T15:58:27Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "MCP Server for vector-based semantic code search in Claude Code. Index your codebase locally with LanceDB and search cod",
-    "id": "Xveyn/vectorgrep",
-    "language": "TypeScript",
-    "name": "Xveyn/vectorgrep",
-    "stars": 0,
-    "updated_at": "2026-09-14T15:57:57Z",
-    "url": "https://github.com/Xveyn/vectorgrep"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1475,
-    "updated_at": "2026-09-14T15:56:25Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+    "name": "topoteretes/cognee",
+    "stars": 30680,
+    "updated_at": "2026-09-14T15:59:59Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -63,15 +144,6 @@
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T15:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
@@ -99,15 +171,6 @@
     "url": "https://github.com/k00000000/vecstore-lite"
   },
   {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 4,
-    "updated_at": "2026-09-14T16:00:06Z",
-    "url": "https://github.com/imagodata/filter_mate"
-  },
-  {
     "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
     "id": "maximilien/weave-cli",
     "language": "Go",
@@ -133,15 +196,6 @@
     "stars": 31,
     "updated_at": "2026-09-14T15:37:45Z",
     "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-14T15:37:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -189,15 +243,6 @@
     "url": "https://github.com/bobaba76/Argos"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34548,
-    "updated_at": "2026-09-14T15:58:14Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -221,7 +266,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 36,
-    "updated_at": "2026-09-14T15:57:50Z",
+    "updated_at": "2026-09-14T16:09:57Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -234,15 +279,6 @@
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9262,
-    "updated_at": "2026-09-14T15:48:27Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -250,15 +286,6 @@
     "stars": 1943,
     "updated_at": "2026-09-14T15:00:39Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30679,
-    "updated_at": "2026-09-14T15:59:59Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
@@ -347,7 +374,7 @@
     "language": "Rust",
     "name": "deven96/ahnlich",
     "stars": 244,
-    "updated_at": "2026-09-14T14:29:41Z",
+    "updated_at": "2026-09-14T16:03:01Z",
     "url": "https://github.com/deven96/ahnlich"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T14:13:34Z",
     "url": "https://github.com/AYUSHSAINI9876/axiom-ai"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3291,
-    "updated_at": "2026-09-14T14:12:30Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
-    "id": "wickra-lib/wickra-genome",
-    "language": "Rust",
-    "name": "wickra-lib/wickra-genome",
-    "stars": 1,
-    "updated_at": "2026-09-14T15:56:00Z",
-    "url": "https://github.com/wickra-lib/wickra-genome"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9441,
-    "updated_at": "2026-09-14T15:34:50Z",
-    "url": "https://github.com/databendlabs/databend"
   }
 ]
