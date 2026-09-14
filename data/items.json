@@ -1,11 +1,74 @@
 [
   {
+    "description": "Typed tenant-aware document chunking and vector ingestion service for B2B SaaS admin workflows.",
+    "id": "HollowGlow48271596/saas-tenant-vector-ingest-vector-ingest-saas-typescript-x",
+    "language": "TypeScript",
+    "name": "HollowGlow48271596/saas-tenant-vector-ingest-vector-ingest-saas-typescript-x",
+    "stars": 0,
+    "updated_at": "2026-09-14T00:28:12Z",
+    "url": "https://github.com/HollowGlow48271596/saas-tenant-vector-ingest-vector-ingest-saas-typescript-x"
+  },
+  {
+    "description": "RAG pipeline implementations with document ingestion, chunking, embedding, and retrieval-augmented generation",
+    "id": "amori27/rag-knowledge-base-system",
+    "language": "Python",
+    "name": "amori27/rag-knowledge-base-system",
+    "stars": 1,
+    "updated_at": "2026-09-14T00:28:10Z",
+    "url": "https://github.com/amori27/rag-knowledge-base-system"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-14T00:25:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 873,
+    "updated_at": "2026-09-14T00:20:16Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Track where a data subject's data actually went across a RAG/LLM stack, erase it everywhere, and get a receipt that says",
+    "id": "Poojan6216/tombstone",
+    "language": "Python",
+    "name": "Poojan6216/tombstone",
+    "stars": 1,
+    "updated_at": "2026-09-14T00:16:00Z",
+    "url": "https://github.com/Poojan6216/tombstone"
+  },
+  {
+    "description": "Typed field-service evidence ingestion with status-aware chunking and vector upsert.",
+    "id": "GageSterling7596/field-service-vector-ingest",
+    "language": "TypeScript",
+    "name": "GageSterling7596/field-service-vector-ingest",
+    "stars": 0,
+    "updated_at": "2026-09-14T00:15:51Z",
+    "url": "https://github.com/GageSterling7596/field-service-vector-ingest"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T00:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-14T00:15:20Z",
+    "updated_at": "2026-09-14T00:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,15 +79,6 @@
     "stars": 1888,
     "updated_at": "2026-09-14T00:15:15Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 873,
-    "updated_at": "2026-09-14T00:10:27Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
@@ -50,7 +104,7 @@
     "language": "Rust",
     "name": "codecoradev/uteke",
     "stars": 240,
-    "updated_at": "2026-09-14T00:07:22Z",
+    "updated_at": "2026-09-14T00:27:06Z",
     "url": "https://github.com/codecoradev/uteke"
   },
   {
@@ -70,15 +124,6 @@
     "stars": 11,
     "updated_at": "2026-09-14T00:01:52Z",
     "url": "https://github.com/angrysky56/emotion_ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T00:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
@@ -104,7 +149,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9256,
-    "updated_at": "2026-09-14T00:11:19Z",
+    "updated_at": "2026-09-14T00:29:26Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -131,17 +176,8 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46091,
-    "updated_at": "2026-09-13T23:39:34Z",
+    "updated_at": "2026-09-14T00:21:34Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-13T23:33:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-13T22:03:29Z",
     "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
-    "id": "fewshot-works/academy",
-    "language": "TypeScript",
-    "name": "fewshot-works/academy",
-    "stars": 4,
-    "updated_at": "2026-09-13T21:47:23Z",
-    "url": "https://github.com/fewshot-works/academy"
-  },
-  {
-    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
-    "id": "Fractera/fractera-memory-starter",
-    "language": "HTML",
-    "name": "Fractera/fractera-memory-starter",
-    "stars": 0,
-    "updated_at": "2026-09-13T21:46:47Z",
-    "url": "https://github.com/Fractera/fractera-memory-starter"
-  },
-  {
-    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
-    "id": "techdomegh/ai-news-scraper",
-    "language": "Python",
-    "name": "techdomegh/ai-news-scraper",
-    "stars": 12,
-    "updated_at": "2026-09-13T21:45:55Z",
-    "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "Code intelligence MCP server \u2014 graph-powered semantic search, call graph traversal, and impact analysis for any codebase",
-    "id": "iksnerd/code-nexus",
-    "language": "Elixir",
-    "name": "iksnerd/code-nexus",
-    "stars": 0,
-    "updated_at": "2026-09-13T21:45:32Z",
-    "url": "https://github.com/iksnerd/code-nexus"
   }
 ]
