@@ -1,12 +1,48 @@
 [
   {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1476,
+    "updated_at": "2026-09-14T23:29:17Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9263,
+    "updated_at": "2026-09-14T23:26:03Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
     "id": "monaccode/astromesh",
     "language": "Python",
     "name": "monaccode/astromesh",
     "stars": 32,
-    "updated_at": "2026-09-14T23:13:03Z",
+    "updated_at": "2026-09-14T23:23:48Z",
     "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl",
+    "id": "ashraful2871/Salon-Management-Frontend",
+    "language": "TypeScript",
+    "name": "ashraful2871/Salon-Management-Frontend",
+    "stars": 0,
+    "updated_at": "2026-09-14T23:17:31Z",
+    "url": "https://github.com/ashraful2871/Salon-Management-Frontend"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T23:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
@@ -14,8 +50,17 @@
     "language": "TypeScript",
     "name": "nishan-paul-hello/cmatrix-agentic-red-team",
     "stars": 0,
-    "updated_at": "2026-09-14T23:08:50Z",
+    "updated_at": "2026-09-14T23:15:55Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T23:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -32,7 +77,7 @@
     "language": "TypeScript",
     "name": "Tibab222/cvMaker",
     "stars": 13,
-    "updated_at": "2026-09-14T23:04:31Z",
+    "updated_at": "2026-09-14T23:26:35Z",
     "url": "https://github.com/Tibab222/cvMaker"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T23:04:22Z",
     "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9263,
-    "updated_at": "2026-09-14T23:03:25Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "",
@@ -97,33 +133,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T23:00:32Z",
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T23:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T23:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1476,
-    "updated_at": "2026-09-14T22:59:03Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -355,7 +364,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46108,
+    "stars": 46107,
     "updated_at": "2026-09-14T22:34:53Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T22:20:15Z",
     "url": "https://github.com/Masikomoore/agent-memory"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-09-14T22:18:45Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
   }
 ]
