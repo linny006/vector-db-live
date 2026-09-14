@@ -1,5 +1,41 @@
 [
   {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 101,
+    "updated_at": "2026-09-14T03:58:33Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Fully local vector memory plugin for DeepSeek Harness: local embeddings, SQLite storage, automatic recall injection, ded",
+    "id": "liangxiaobing520/dsh-local-vector-memory",
+    "language": "JavaScript",
+    "name": "liangxiaobing520/dsh-local-vector-memory",
+    "stars": 1,
+    "updated_at": "2026-09-14T03:57:43Z",
+    "url": "https://github.com/liangxiaobing520/dsh-local-vector-memory"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-14T03:54:44Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T03:46:00Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -135,15 +171,6 @@
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T03:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
     "id": "Arthrocentesisgenusphylloxera328/rag-forge",
     "language": "Python",
@@ -203,7 +230,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46095,
-    "updated_at": "2026-09-14T03:21:41Z",
+    "updated_at": "2026-09-14T03:49:32Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -250,6 +277,15 @@
     "stars": 2,
     "updated_at": "2026-09-14T03:14:36Z",
     "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7082,
+    "updated_at": "2026-09-14T03:14:34Z",
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
@@ -383,7 +419,7 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 62,
-    "updated_at": "2026-09-14T03:00:50Z",
+    "updated_at": "2026-09-14T03:57:44Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T02:58:11Z",
     "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-09-14T02:58:08Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9440,
-    "updated_at": "2026-09-14T03:39:32Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "LLM document ingestion pipeline with AI readiness scoring and structured Markdown/JSON output.",
-    "id": "K2alyan/aksharaMD",
-    "language": "Python",
-    "name": "K2alyan/aksharaMD",
-    "stars": 9,
-    "updated_at": "2026-09-14T03:34:50Z",
-    "url": "https://github.com/K2alyan/aksharaMD"
-  },
-  {
-    "description": "Simple, Composable, High-Performance, Safe and Web3 Friendly AI Agents and LazAI Gateway for Everyone",
-    "id": "0xLazAI/alith",
-    "language": "Rust",
-    "name": "0xLazAI/alith",
-    "stars": 44,
-    "updated_at": "2026-09-14T02:42:50Z",
-    "url": "https://github.com/0xLazAI/alith"
   }
 ]
