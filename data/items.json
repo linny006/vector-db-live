@@ -1,5 +1,59 @@
 [
   {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 36,
+    "updated_at": "2026-09-14T18:34:33Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "A modular Retrieval-Augmented Generation (RAG) system with query routing, structured citations, and a FastAPI + Streamli",
+    "id": "NaivedyaVishwakarma/LANGCHAIN_Project",
+    "language": "PowerShell",
+    "name": "NaivedyaVishwakarma/LANGCHAIN_Project",
+    "stars": 0,
+    "updated_at": "2026-09-14T18:33:17Z",
+    "url": "https://github.com/NaivedyaVishwakarma/LANGCHAIN_Project"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66009,
+    "updated_at": "2026-09-14T18:32:31Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-14T18:36:59Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 62,
+    "updated_at": "2026-09-14T18:31:19Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T18:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +77,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9262,
-    "updated_at": "2026-09-14T18:27:32Z",
+    "updated_at": "2026-09-14T18:38:03Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -59,7 +113,7 @@
     "language": "TypeScript",
     "name": "Fractera/fractera-memory-starter",
     "stars": 0,
-    "updated_at": "2026-09-14T18:28:52Z",
+    "updated_at": "2026-09-14T18:37:35Z",
     "url": "https://github.com/Fractera/fractera-memory-starter"
   },
   {
@@ -81,21 +135,12 @@
     "url": "https://github.com/MohanVishe/medical-rag-chatbot"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T18:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16807,
-    "updated_at": "2026-09-14T18:22:54Z",
+    "updated_at": "2026-09-14T18:34:45Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -124,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T18:19:22Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 36,
-    "updated_at": "2026-09-14T18:08:33Z",
-    "url": "https://github.com/rostamlabs/rostam"
   },
   {
     "description": "Profile README",
@@ -261,15 +297,6 @@
     "url": "https://github.com/DemigodDSK/hubmesh"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-14T17:37:32Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Self improving agents through iterations",
     "id": "AgentToolkit/altk-evolve",
     "language": "Python",
@@ -277,15 +304,6 @@
     "stars": 106,
     "updated_at": "2026-09-14T18:27:42Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 66009,
-    "updated_at": "2026-09-14T17:35:07Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
@@ -304,6 +322,15 @@
     "stars": 1,
     "updated_at": "2026-09-14T17:22:38Z",
     "url": "https://github.com/threefigure-achromia682/ai-memory"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8221,
+    "updated_at": "2026-09-14T17:21:57Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T17:09:12Z",
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:08:19Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-09-14T17:08:09Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:08:02Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   }
 ]
