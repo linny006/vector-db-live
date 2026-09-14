@@ -1,12 +1,102 @@
 [
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46100,
+    "updated_at": "2026-09-14T08:29:36Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 36,
+    "updated_at": "2026-09-14T08:29:15Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1888,
-    "updated_at": "2026-09-14T08:15:01Z",
+    "updated_at": "2026-09-14T08:27:45Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1352,
+    "updated_at": "2026-09-14T08:25:26Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 102,
+    "updated_at": "2026-09-14T08:24:33Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 11,
+    "updated_at": "2026-09-14T08:22:37Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-14T08:22:23Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
+    "id": "Fractera/fractera-memory-starter",
+    "language": "HTML",
+    "name": "Fractera/fractera-memory-starter",
+    "stars": 0,
+    "updated_at": "2026-09-14T08:21:08Z",
+    "url": "https://github.com/Fractera/fractera-memory-starter"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1153,
+    "updated_at": "2026-09-14T08:19:57Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T08:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T08:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -27,24 +117,6 @@
     "url": "https://github.com/superlinked/VectorHub"
   },
   {
-    "description": "The holographic core for leOS",
-    "id": "AnOversizedMooseWithSocks/leCore",
-    "language": "Python",
-    "name": "AnOversizedMooseWithSocks/leCore",
-    "stars": 11,
-    "updated_at": "2026-09-14T08:12:47Z",
-    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
-  },
-  {
-    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
-    "id": "Fractera/fractera-memory-starter",
-    "language": "HTML",
-    "name": "Fractera/fractera-memory-starter",
-    "stars": 0,
-    "updated_at": "2026-09-14T08:14:36Z",
-    "url": "https://github.com/Fractera/fractera-memory-starter"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -59,7 +131,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4435,
-    "updated_at": "2026-09-14T08:04:36Z",
+    "updated_at": "2026-09-14T08:18:48Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -86,26 +158,8 @@
     "language": "Python",
     "name": "desikai-lab/Marrow",
     "stars": 6,
-    "updated_at": "2026-09-14T08:00:46Z",
+    "updated_at": "2026-09-14T08:22:13Z",
     "url": "https://github.com/desikai-lab/Marrow"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T08:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T08:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
@@ -115,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T07:48:06Z",
     "url": "https://github.com/lingxinmind/vecmindb-sdk"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-14T08:10:25Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
@@ -142,15 +187,6 @@
     "stars": 4,
     "updated_at": "2026-09-14T07:43:26Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46100,
-    "updated_at": "2026-09-14T07:39:35Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -176,7 +212,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9440,
-    "updated_at": "2026-09-14T08:12:19Z",
+    "updated_at": "2026-09-14T08:28:03Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -230,7 +266,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1474,
-    "updated_at": "2026-09-14T08:11:22Z",
+    "updated_at": "2026-09-14T08:28:44Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -369,6 +405,15 @@
     "url": "https://github.com/Dangamuwagedilshan/x0"
   },
   {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59287,
+    "updated_at": "2026-09-14T07:15:17Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
     "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
     "id": "Alexreye/advance-nlp-generative-ai",
     "language": "\u2014",
@@ -396,15 +441,6 @@
     "url": "https://github.com/humanhady/DocMine"
   },
   {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1352,
-    "updated_at": "2026-09-14T07:09:48Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -412,41 +448,5 @@
     "stars": 11419,
     "updated_at": "2026-09-14T07:09:31Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-14T07:08:09Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-09-14T07:07:39Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-14T07:07:19Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-09-14T07:06:33Z",
-    "url": "https://github.com/ribagolx10/crossvector"
   }
 ]
