@@ -1,11 +1,92 @@
 [
   {
+    "description": "MCP Server for vector-based semantic code search in Claude Code. Index your codebase locally with LanceDB and search cod",
+    "id": "Xveyn/vectorgrep",
+    "language": "TypeScript",
+    "name": "Xveyn/vectorgrep",
+    "stars": 0,
+    "updated_at": "2026-09-14T14:59:01Z",
+    "url": "https://github.com/Xveyn/vectorgrep"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46103,
+    "updated_at": "2026-09-14T14:56:26Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
+    "id": "oracle/langchain-oracle",
+    "language": "Python",
+    "name": "oracle/langchain-oracle",
+    "stars": 60,
+    "updated_at": "2026-09-14T14:58:40Z",
+    "url": "https://github.com/oracle/langchain-oracle"
+  },
+  {
+    "description": "Multimodal semantic search over images and PDFs with no vector-database server: the LanceDB vector store and ANN index l",
+    "id": "backblaze-b2-samples/lance-multimodal-search",
+    "language": "TypeScript",
+    "name": "backblaze-b2-samples/lance-multimodal-search",
+    "stars": 1,
+    "updated_at": "2026-09-14T14:53:59Z",
+    "url": "https://github.com/backblaze-b2-samples/lance-multimodal-search"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 380,
+    "updated_at": "2026-09-14T14:51:25Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
+    "description": "A GenAI application exploring LLMs and Retrieval-Augmented Generation (RAG) with modular notebooks, a Streamlit/FastAPI ",
+    "id": "RedSamurai07/LLM-and-RAG-Application-GenAI-",
+    "language": "Python",
+    "name": "RedSamurai07/LLM-and-RAG-Application-GenAI-",
+    "stars": 1,
+    "updated_at": "2026-09-14T14:50:08Z",
+    "url": "https://github.com/RedSamurai07/LLM-and-RAG-Application-GenAI-"
+  },
+  {
+    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
+    "id": "Tanmoy095/Logiflow-platform",
+    "language": "Go",
+    "name": "Tanmoy095/Logiflow-platform",
+    "stars": 2,
+    "updated_at": "2026-09-14T14:49:08Z",
+    "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "Custom local rag setup based on Qdrant",
+    "id": "zerotropism/local-rag",
+    "language": "Jupyter Notebook",
+    "name": "zerotropism/local-rag",
+    "stars": 0,
+    "updated_at": "2026-09-14T14:51:34Z",
+    "url": "https://github.com/zerotropism/local-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T14:45:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-14T14:45:23Z",
+    "updated_at": "2026-09-14T15:00:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -43,24 +124,6 @@
     "stars": 3,
     "updated_at": "2026-09-14T14:37:57Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "MCP Server for vector-based semantic code search in Claude Code. Index your codebase locally with LanceDB and search cod",
-    "id": "Xveyn/vectorgrep",
-    "language": "TypeScript",
-    "name": "Xveyn/vectorgrep",
-    "stars": 0,
-    "updated_at": "2026-09-14T14:31:06Z",
-    "url": "https://github.com/Xveyn/vectorgrep"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T14:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
@@ -104,17 +167,8 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-14T14:28:28Z",
+    "updated_at": "2026-09-14T15:00:19Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46102,
-    "updated_at": "2026-09-14T14:22:29Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
@@ -157,8 +211,8 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34543,
-    "updated_at": "2026-09-14T14:15:32Z",
+    "stars": 34544,
+    "updated_at": "2026-09-14T14:59:23Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -193,7 +247,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 3290,
+    "stars": 3289,
     "updated_at": "2026-09-14T14:12:30Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -239,26 +293,8 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1475,
-    "updated_at": "2026-09-14T14:28:16Z",
+    "updated_at": "2026-09-14T14:59:53Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 380,
-    "updated_at": "2026-09-14T13:57:25Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Go",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 2,
-    "updated_at": "2026-09-14T13:57:20Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
   },
   {
     "description": "Embedded SQLite + NumPy vector store for local RAG prototypes (library + CLI).",
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30679,
-    "updated_at": "2026-09-14T13:50:57Z",
+    "updated_at": "2026-09-14T14:55:53Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -360,15 +396,6 @@
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   },
   {
-    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
-    "id": "oracle/langchain-oracle",
-    "language": "Python",
-    "name": "oracle/langchain-oracle",
-    "stars": 60,
-    "updated_at": "2026-09-14T13:34:54Z",
-    "url": "https://github.com/oracle/langchain-oracle"
-  },
-  {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
     "id": "constancywoodsy286/agentic-rag-for-practice",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-14T13:30:04Z",
     "url": "https://github.com/Krokz/grag"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-09-14T13:29:52Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-09-14T13:29:13Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-09-14T13:28:25Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
