@@ -1,5 +1,77 @@
 [
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9440,
+    "updated_at": "2026-09-14T11:15:14Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13089,
+    "updated_at": "2026-09-14T11:13:47Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30675,
+    "updated_at": "2026-09-14T11:14:09Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-14T11:08:41Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 102,
+    "updated_at": "2026-09-14T11:04:16Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": " Agentic AI Meeting Notes Analyzer built with LangGraph, LangChain, Qwen2.5-0.5B, Faiss & Streamlit. Generates meeting s",
+    "id": "ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph",
+    "language": "Jupyter Notebook",
+    "name": "ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph",
+    "stars": 0,
+    "updated_at": "2026-09-14T11:03:02Z",
+    "url": "https://github.com/ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T11:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T11:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Website for the Weaviate vector database",
     "id": "weaviate/weaviate-io",
     "language": "MDX",
@@ -27,15 +99,6 @@
     "url": "https://github.com/zmwzmo11130/neuraldocs"
   },
   {
-    "description": " Agentic AI Meeting Notes Analyzer built with LangGraph, LangChain, Qwen2.5-0.5B, Faiss & Streamlit. Generates meeting s",
-    "id": "ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph",
-    "language": "Jupyter Notebook",
-    "name": "ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph",
-    "stars": 0,
-    "updated_at": "2026-09-14T10:51:27Z",
-    "url": "https://github.com/ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph"
-  },
-  {
     "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
     "id": "Fractera/fractera-memory-starter",
     "language": "HTML",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 4,
-    "updated_at": "2026-09-14T10:56:24Z",
+    "updated_at": "2026-09-14T11:14:20Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -72,24 +135,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T10:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T11:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Declarative SQL query engine for Qdrant and edge vector databases. Multi-vector dense & BM25 sparse search, hybrid retri",
     "id": "srimon12/qql-rs",
     "language": "Rust",
@@ -97,24 +142,6 @@
     "stars": 5,
     "updated_at": "2026-09-14T10:39:46Z",
     "url": "https://github.com/srimon12/qql-rs"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9440,
-    "updated_at": "2026-09-14T10:55:55Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30674,
-    "updated_at": "2026-09-14T10:53:58Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T10:41:12Z",
     "url": "https://github.com/zvec-ai/zvec-java"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-14T10:36:07Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
@@ -203,7 +221,7 @@
     "language": "Python",
     "name": "Ontos-AI/knowhere",
     "stars": 3286,
-    "updated_at": "2026-09-14T10:18:16Z",
+    "updated_at": "2026-09-14T11:03:22Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 370,
     "updated_at": "2026-09-14T09:49:00Z",
     "url": "https://github.com/qdrant/vector-db-benchmark"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 102,
-    "updated_at": "2026-09-14T09:45:40Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "An embedded, serverless SQL database in Rust \u2014 one file, no server, MVCC concurrent writers, native vector + BM25 hybrid",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T09:27:07Z",
     "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-09-14T09:26:55Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
   }
 ]
