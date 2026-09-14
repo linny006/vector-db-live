@@ -5,8 +5,161 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-14T05:15:18Z",
+    "updated_at": "2026-09-14T05:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
+    "id": "Surging-scotandlot818/product-dev-blueprint",
+    "language": "TypeScript",
+    "name": "Surging-scotandlot818/product-dev-blueprint",
+    "stars": 0,
+    "updated_at": "2026-09-14T05:29:48Z",
+    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-09-14T05:29:41Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
+    "id": "Tobiaszn8972/turboquant-gpu",
+    "language": "Python",
+    "name": "Tobiaszn8972/turboquant-gpu",
+    "stars": 3,
+    "updated_at": "2026-09-14T05:28:41Z",
+    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
+  },
+  {
+    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
+    "id": "viviannenitrogenous100/mentedb",
+    "language": "\u2014",
+    "name": "viviannenitrogenous100/mentedb",
+    "stars": 0,
+    "updated_at": "2026-09-14T05:28:06Z",
+    "url": "https://github.com/viviannenitrogenous100/mentedb"
+  },
+  {
+    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
+    "id": "raymondmdzz123/agent-memory",
+    "language": "TypeScript",
+    "name": "raymondmdzz123/agent-memory",
+    "stars": 1,
+    "updated_at": "2026-09-14T05:27:39Z",
+    "url": "https://github.com/raymondmdzz123/agent-memory"
+  },
+  {
+    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
+    "id": "Synchronic-leafbud824/skill-vault",
+    "language": "\u2014",
+    "name": "Synchronic-leafbud824/skill-vault",
+    "stars": 2,
+    "updated_at": "2026-09-14T05:26:49Z",
+    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
+  },
+  {
+    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
+    "id": "Genusophiophagussqueezeplay359/ragpipe",
+    "language": "Python",
+    "name": "Genusophiophagussqueezeplay359/ragpipe",
+    "stars": 0,
+    "updated_at": "2026-09-14T05:26:40Z",
+    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
+  },
+  {
+    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
+    "id": "roberthalfway204/Document-Intelligent-Assistant",
+    "language": "Python",
+    "name": "roberthalfway204/Document-Intelligent-Assistant",
+    "stars": 2,
+    "updated_at": "2026-09-14T05:25:54Z",
+    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
+  },
+  {
+    "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
+    "id": "rmednitzer/core-graph",
+    "language": "Python",
+    "name": "rmednitzer/core-graph",
+    "stars": 1,
+    "updated_at": "2026-09-14T05:25:41Z",
+    "url": "https://github.com/rmednitzer/core-graph"
+  },
+  {
+    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
+    "id": "Daubingweirdie414/multimodal-rag",
+    "language": "Python",
+    "name": "Daubingweirdie414/multimodal-rag",
+    "stars": 4,
+    "updated_at": "2026-09-14T05:23:16Z",
+    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
+  },
+  {
+    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
+    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "language": "Python",
+    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "stars": 1,
+    "updated_at": "2026-09-14T05:22:28Z",
+    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 256,
+    "updated_at": "2026-09-14T05:21:44Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 1,
+    "updated_at": "2026-09-14T05:21:04Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 62,
+    "updated_at": "2026-09-14T05:19:40Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 4,
+    "updated_at": "2026-09-14T05:17:44Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-09-14T05:16:14Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T05:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
@@ -113,7 +266,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 8,
-    "updated_at": "2026-09-14T05:11:47Z",
+    "updated_at": "2026-09-14T05:16:14Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -133,15 +286,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T05:01:04Z",
     "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T05:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
@@ -205,15 +349,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T04:54:26Z",
     "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
-  },
-  {
-    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
-    "id": "yantrikos/yantrikdb",
-    "language": "Rust",
-    "name": "yantrikos/yantrikdb",
-    "stars": 62,
-    "updated_at": "2026-09-14T04:52:44Z",
-    "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
@@ -288,6 +423,15 @@
     "url": "https://github.com/allup2d8/trends"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46096,
+    "updated_at": "2026-09-14T04:33:03Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
     "id": "codelined-ag/Extracto",
     "language": "TypeScript",
@@ -304,149 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T04:27:52Z",
     "url": "https://github.com/irtazirfan08-source/VectorCore"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 101,
-    "updated_at": "2026-09-14T04:25:02Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "A production-grade, decoupled, and containerized Multimodal Digital Asset Management (DAM) & RAG platform featuring stre",
-    "id": "vipin-mo/multimodal-dam-rag-platform",
-    "language": "Python",
-    "name": "vipin-mo/multimodal-dam-rag-platform",
-    "stars": 0,
-    "updated_at": "2026-09-14T04:12:46Z",
-    "url": "https://github.com/vipin-mo/multimodal-dam-rag-platform"
-  },
-  {
-    "description": "\ud83e\udde0 Predictable, embedded multimodal vector database & offline RAG engine for Edge AI (ARM64 / Zero-OOM). Built in C++20.",
-    "id": "pomagrenate/pomaidb",
-    "language": "C++",
-    "name": "pomagrenate/pomaidb",
-    "stars": 19,
-    "updated_at": "2026-09-14T04:06:29Z",
-    "url": "https://github.com/pomagrenate/pomaidb"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 120,
-    "updated_at": "2026-09-14T04:12:15Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-14T03:54:44Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:43:19Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:39:26Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:37:45Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:37:27Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 3,
-    "updated_at": "2026-09-14T03:36:08Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
-  },
-  {
-    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
-    "id": "viviannenitrogenous100/mentedb",
-    "language": "\u2014",
-    "name": "viviannenitrogenous100/mentedb",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:35:57Z",
-    "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-09-14T03:35:33Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-09-14T03:34:42Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Training-free vector quantization (4/5/6-bit) and search \u2014 the SQLite profile for edge vector storage",
-    "id": "codecoradev/vecq",
-    "language": "Rust",
-    "name": "codecoradev/vecq",
-    "stars": 1,
-    "updated_at": "2026-09-14T03:41:56Z",
-    "url": "https://github.com/codecoradev/vecq"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:34:32Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 2,
-    "updated_at": "2026-09-14T03:33:43Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   }
 ]
