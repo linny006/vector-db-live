@@ -1,11 +1,56 @@
 [
   {
+    "description": "A production-grade, full-stack AI assistant platform for private document fleets \u2014 featuring real-time streaming, intell",
+    "id": "VampiricCyborg/DocuQuery",
+    "language": "TypeScript",
+    "name": "VampiricCyborg/DocuQuery",
+    "stars": 3,
+    "updated_at": "2026-09-14T05:43:30Z",
+    "url": "https://github.com/VampiricCyborg/DocuQuery"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-14T05:37:01Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
+    "id": "Raynerhalfandhalf451/writeback",
+    "language": "JavaScript",
+    "name": "Raynerhalfandhalf451/writeback",
+    "stars": 0,
+    "updated_at": "2026-09-14T05:35:37Z",
+    "url": "https://github.com/Raynerhalfandhalf451/writeback"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-09-14T05:31:38Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T05:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-14T05:30:22Z",
+    "updated_at": "2026-09-14T05:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -153,15 +198,6 @@
     "url": "https://github.com/kirill2911/awesome-vector-search"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T05:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
     "id": "buitoan112233/EleutherIA",
     "language": "Shell",
@@ -205,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T05:11:50Z",
     "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-14T05:09:28Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
@@ -266,7 +293,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 8,
-    "updated_at": "2026-09-14T05:16:14Z",
+    "updated_at": "2026-09-14T05:40:09Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T04:33:45Z",
     "url": "https://github.com/allup2d8/trends"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46096,
-    "updated_at": "2026-09-14T04:33:03Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
-    "id": "codelined-ag/Extracto",
-    "language": "TypeScript",
-    "name": "codelined-ag/Extracto",
-    "stars": 5,
-    "updated_at": "2026-09-14T04:30:57Z",
-    "url": "https://github.com/codelined-ag/Extracto"
-  },
-  {
-    "description": "Lightweight approximate nearest neighbor (ANN) vector search engine and embedding indexing pipeline.",
-    "id": "irtazirfan08-source/VectorCore",
-    "language": "Python",
-    "name": "irtazirfan08-source/VectorCore",
-    "stars": 0,
-    "updated_at": "2026-09-14T04:27:52Z",
-    "url": "https://github.com/irtazirfan08-source/VectorCore"
   }
 ]
