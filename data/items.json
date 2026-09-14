@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T21:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1352,
+    "updated_at": "2026-09-14T21:25:38Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 32,
+    "updated_at": "2026-09-14T21:23:47Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8222,
+    "updated_at": "2026-09-14T21:19:16Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "AI-powered legal SaaS for Brazilian lawyers, with client management, legal document analysis, RAG agents, WhatsApp CRM, ",
+    "id": "yagosamu/juri_ai",
+    "language": "HTML",
+    "name": "yagosamu/juri_ai",
+    "stars": 0,
+    "updated_at": "2026-09-14T21:16:59Z",
+    "url": "https://github.com/yagosamu/juri_ai"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11422,
+    "updated_at": "2026-09-14T21:15:24Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T21:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Experimental vector search + knowledge graph for learning ",
     "id": "aakinlalu/exprimental_vector_search_with_graph",
     "language": "Python",
@@ -58,7 +121,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46106,
+    "stars": 46107,
     "updated_at": "2026-09-14T21:09:35Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -88,24 +151,6 @@
     "stars": 6,
     "updated_at": "2026-09-14T21:00:56Z",
     "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T21:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T21:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
@@ -142,15 +187,6 @@
     "stars": 95,
     "updated_at": "2026-09-14T20:53:06Z",
     "url": "https://github.com/hfgwygey/yu-ai-agent"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1352,
-    "updated_at": "2026-09-14T20:52:45Z",
-    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
@@ -194,7 +230,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 36,
-    "updated_at": "2026-09-14T21:00:39Z",
+    "updated_at": "2026-09-14T21:19:10Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -216,15 +252,6 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11421,
-    "updated_at": "2026-09-14T20:28:19Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne",
     "id": "angrysky56/emotion_ai",
     "language": "Python",
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9262,
-    "updated_at": "2026-09-14T21:11:42Z",
+    "updated_at": "2026-09-14T21:27:23Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -270,15 +297,6 @@
     "url": "https://github.com/arnsri33/embedflow"
   },
   {
-    "description": "AI-powered legal SaaS for Brazilian lawyers, with client management, legal document analysis, RAG agents, WhatsApp CRM, ",
-    "id": "yagosamu/juri_ai",
-    "language": "HTML",
-    "name": "yagosamu/juri_ai",
-    "stars": 0,
-    "updated_at": "2026-09-14T20:37:07Z",
-    "url": "https://github.com/yagosamu/juri_ai"
-  },
-  {
     "description": "Production-style semantic search and RAG backend built as a distributed system.  Features async ingestion (Kafka), embed",
     "id": "NasitSony/SmartSearch",
     "language": "Java",
@@ -286,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-14T20:02:58Z",
     "url": "https://github.com/NasitSony/SmartSearch"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8222,
-    "updated_at": "2026-09-14T21:08:40Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -396,6 +405,15 @@
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16808,
+    "updated_at": "2026-09-14T19:13:54Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
     "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
     "id": "Anonymousforareason111/hybrid-orchestrator",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-14T19:07:37Z",
     "url": "https://github.com/hankamarvanova/unified-db"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-14T19:06:49Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "A RAG powered application to prepare for interviews. Upload sources, take test.",
-    "id": "prasadsumit/notebridge",
-    "language": "Java",
-    "name": "prasadsumit/notebridge",
-    "stars": 0,
-    "updated_at": "2026-09-14T19:06:09Z",
-    "url": "https://github.com/prasadsumit/notebridge"
   }
 ]
