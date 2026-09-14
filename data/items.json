@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T00:45:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 881,
+    "updated_at": "2026-09-14T00:44:53Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-14T00:44:32Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 347,
+    "updated_at": "2026-09-14T00:42:02Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Reproducible benchmark comparing full catalog context with metadata-filtered semantic retrieval using Amazon S3 Vectors ",
+    "id": "AlejandroMorgante/semantic-layer-with-s3-vectors",
+    "language": "Python",
+    "name": "AlejandroMorgante/semantic-layer-with-s3-vectors",
+    "stars": 0,
+    "updated_at": "2026-09-14T00:38:48Z",
+    "url": "https://github.com/AlejandroMorgante/semantic-layer-with-s3-vectors"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 240,
+    "updated_at": "2026-09-14T00:39:23Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-14T00:36:58Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-14T00:30:33Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T00:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Typed tenant-aware document chunking and vector ingestion service for B2B SaaS admin workflows.",
     "id": "HollowGlow48271596/saas-tenant-vector-ingest-vector-ingest-saas-typescript-x",
     "language": "TypeScript",
@@ -54,24 +135,6 @@
     "url": "https://github.com/GageSterling7596/field-service-vector-ingest"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T00:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T00:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -97,24 +160,6 @@
     "stars": 11,
     "updated_at": "2026-09-14T00:07:55Z",
     "url": "https://github.com/hoffresearch/nest"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 240,
-    "updated_at": "2026-09-14T00:27:06Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 346,
-    "updated_at": "2026-09-14T00:02:05Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne",
@@ -149,17 +194,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9256,
-    "updated_at": "2026-09-14T00:29:26Z",
+    "updated_at": "2026-09-14T00:44:15Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Reproducible benchmark comparing full catalog context with metadata-filtered semantic retrieval using Amazon S3 Vectors ",
-    "id": "AlejandroMorgante/semantic-layer-with-s3-vectors",
-    "language": "Python",
-    "name": "AlejandroMorgante/semantic-layer-with-s3-vectors",
-    "stars": 0,
-    "updated_at": "2026-09-13T23:38:31Z",
-    "url": "https://github.com/AlejandroMorgante/semantic-layer-with-s3-vectors"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -176,7 +212,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46091,
-    "updated_at": "2026-09-14T00:21:34Z",
+    "updated_at": "2026-09-14T00:31:35Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -214,24 +250,6 @@
     "stars": 1,
     "updated_at": "2026-09-13T22:56:32Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-13T22:53:06Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-13T22:47:32Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-13T21:51:14Z",
     "url": "https://github.com/GermaniU/mcp-memory"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
-    "id": "SAHIXXX12/AI-Search-Engine",
-    "language": "TypeScript",
-    "name": "SAHIXXX12/AI-Search-Engine",
-    "stars": 0,
-    "updated_at": "2026-09-13T21:49:08Z",
-    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-13T22:03:29Z",
-    "url": "https://github.com/vanedb/vanedb"
   }
 ]
