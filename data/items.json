@@ -1,11 +1,92 @@
 [
   {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-09-14T10:58:00Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 95,
+    "updated_at": "2026-09-14T10:54:01Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-09-14T10:53:37Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": " Agentic AI Meeting Notes Analyzer built with LangGraph, LangChain, Qwen2.5-0.5B, Faiss & Streamlit. Generates meeting s",
+    "id": "ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph",
+    "language": "Jupyter Notebook",
+    "name": "ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:51:27Z",
+    "url": "https://github.com/ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph"
+  },
+  {
+    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
+    "id": "Fractera/fractera-memory-starter",
+    "language": "HTML",
+    "name": "Fractera/fractera-memory-starter",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:50:35Z",
+    "url": "https://github.com/Fractera/fractera-memory-starter"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 4,
+    "updated_at": "2026-09-14T10:56:24Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
+    "id": "Parth-2004/Historical-AI-Assistant",
+    "language": "Python",
+    "name": "Parth-2004/Historical-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-09-14T10:47:49Z",
+    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46101,
+    "updated_at": "2026-09-14T10:45:34Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T10:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-14T10:45:20Z",
+    "updated_at": "2026-09-14T11:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +104,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9440,
-    "updated_at": "2026-09-14T10:38:33Z",
+    "updated_at": "2026-09-14T10:55:55Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -32,7 +113,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30674,
-    "updated_at": "2026-09-14T10:38:02Z",
+    "updated_at": "2026-09-14T10:53:58Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "schwichtgit/ai-resume",
     "stars": 7,
-    "updated_at": "2026-09-14T10:37:55Z",
+    "updated_at": "2026-09-14T10:54:40Z",
     "url": "https://github.com/schwichtgit/ai-resume"
   },
   {
@@ -70,15 +151,6 @@
     "stars": 168,
     "updated_at": "2026-09-14T10:33:15Z",
     "url": "https://github.com/mirkobozzetto/flowflow"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T10:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A is a high-performance, cloud-native multimodal AI tutor grounding Llama-3.3 in textbook facts via Zilliz Cloud. It del",
@@ -117,21 +189,12 @@
     "url": "https://github.com/alokpatel4357/Hyperion_VectorDB"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46101,
-    "updated_at": "2026-09-14T10:38:43Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
     "id": "rostamlabs/rostam",
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 36,
-    "updated_at": "2026-09-14T10:38:00Z",
+    "updated_at": "2026-09-14T10:54:03Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -139,18 +202,9 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 3285,
+    "stars": 3286,
     "updated_at": "2026-09-14T10:18:16Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": " Agentic AI Meeting Notes Analyzer built with LangGraph, LangChain, Qwen2.5-0.5B, Faiss & Streamlit. Generates meeting s",
-    "id": "ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph",
-    "language": "Jupyter Notebook",
-    "name": "ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph",
-    "stars": 0,
-    "updated_at": "2026-09-14T10:16:36Z",
-    "url": "https://github.com/ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph"
   },
   {
     "description": "Agentic AI platform for transforming software ideas into persistent, structured engineering blueprints using LangGraph, ",
@@ -194,7 +248,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4435,
-    "updated_at": "2026-09-14T10:37:02Z",
+    "updated_at": "2026-09-14T10:47:46Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -221,7 +275,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34536,
-    "updated_at": "2026-09-14T10:34:48Z",
+    "updated_at": "2026-09-14T10:54:35Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -293,7 +347,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59290,
-    "updated_at": "2026-09-14T10:39:17Z",
+    "updated_at": "2026-09-14T10:56:53Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T09:26:55Z",
     "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2093,
-    "updated_at": "2026-09-14T10:05:17Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 4,
-    "updated_at": "2026-09-14T09:26:06Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-09-14T09:25:34Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-09-14T09:24:52Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:24:10Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6238,
-    "updated_at": "2026-09-14T10:45:01Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   }
 ]
