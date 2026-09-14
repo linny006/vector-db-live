@@ -1,5 +1,176 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T01:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
+    "id": "Surging-scotandlot818/product-dev-blueprint",
+    "language": "TypeScript",
+    "name": "Surging-scotandlot818/product-dev-blueprint",
+    "stars": 0,
+    "updated_at": "2026-09-14T01:29:53Z",
+    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-09-14T01:29:45Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
+    "id": "Tobiaszn8972/turboquant-gpu",
+    "language": "Python",
+    "name": "Tobiaszn8972/turboquant-gpu",
+    "stars": 3,
+    "updated_at": "2026-09-14T01:28:18Z",
+    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
+  },
+  {
+    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
+    "id": "viviannenitrogenous100/mentedb",
+    "language": "\u2014",
+    "name": "viviannenitrogenous100/mentedb",
+    "stars": 0,
+    "updated_at": "2026-09-14T01:28:13Z",
+    "url": "https://github.com/viviannenitrogenous100/mentedb"
+  },
+  {
+    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
+    "id": "raymondmdzz123/agent-memory",
+    "language": "TypeScript",
+    "name": "raymondmdzz123/agent-memory",
+    "stars": 1,
+    "updated_at": "2026-09-14T01:27:34Z",
+    "url": "https://github.com/raymondmdzz123/agent-memory"
+  },
+  {
+    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
+    "id": "Synchronic-leafbud824/skill-vault",
+    "language": "\u2014",
+    "name": "Synchronic-leafbud824/skill-vault",
+    "stars": 2,
+    "updated_at": "2026-09-14T01:26:46Z",
+    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
+  },
+  {
+    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
+    "id": "Genusophiophagussqueezeplay359/ragpipe",
+    "language": "Python",
+    "name": "Genusophiophagussqueezeplay359/ragpipe",
+    "stars": 0,
+    "updated_at": "2026-09-14T01:26:39Z",
+    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
+  },
+  {
+    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
+    "id": "roberthalfway204/Document-Intelligent-Assistant",
+    "language": "Python",
+    "name": "roberthalfway204/Document-Intelligent-Assistant",
+    "stars": 2,
+    "updated_at": "2026-09-14T01:25:46Z",
+    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
+  },
+  {
+    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
+    "id": "Daubingweirdie414/multimodal-rag",
+    "language": "Python",
+    "name": "Daubingweirdie414/multimodal-rag",
+    "stars": 4,
+    "updated_at": "2026-09-14T01:23:17Z",
+    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-14T01:22:28Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
+    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "language": "Python",
+    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "stars": 1,
+    "updated_at": "2026-09-14T01:22:23Z",
+    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
+  },
+  {
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 1,
+    "updated_at": "2026-09-14T01:21:03Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
+  },
+  {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 4,
+    "updated_at": "2026-09-14T01:17:36Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-09-14T01:16:09Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 347,
+    "updated_at": "2026-09-14T01:16:06Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
+    "id": "wickra-lib/wickra-genome",
+    "language": "Rust",
+    "name": "wickra-lib/wickra-genome",
+    "stars": 1,
+    "updated_at": "2026-09-14T01:16:24Z",
+    "url": "https://github.com/wickra-lib/wickra-genome"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T01:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 3,
+    "updated_at": "2026-09-14T01:15:21Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
     "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
     "id": "codelined-ag/Extracto",
     "language": "TypeScript",
@@ -72,15 +243,6 @@
     "url": "https://github.com/humanhady/DocMine"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 347,
-    "updated_at": "2026-09-14T01:08:07Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
     "id": "shoaibraza123/promptbook-mcp",
     "language": "HTML",
@@ -108,15 +270,6 @@
     "url": "https://github.com/ribagolx10/crossvector"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T01:04:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
     "id": "Separative-involucre520/SearchPaperByEmbedding",
     "language": "Python",
@@ -124,15 +277,6 @@
     "stars": 1,
     "updated_at": "2026-09-14T01:01:04Z",
     "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T01:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
@@ -304,149 +448,5 @@
     "stars": 873,
     "updated_at": "2026-09-14T01:07:01Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Track where a data subject's data actually went across a RAG/LLM stack, erase it everywhere, and get a receipt that says",
-    "id": "Poojan6216/tombstone",
-    "language": "Python",
-    "name": "Poojan6216/tombstone",
-    "stars": 1,
-    "updated_at": "2026-09-14T00:16:00Z",
-    "url": "https://github.com/Poojan6216/tombstone"
-  },
-  {
-    "description": "Typed field-service evidence ingestion with status-aware chunking and vector upsert.",
-    "id": "GageSterling7596/field-service-vector-ingest",
-    "language": "TypeScript",
-    "name": "GageSterling7596/field-service-vector-ingest",
-    "stars": 0,
-    "updated_at": "2026-09-14T00:15:51Z",
-    "url": "https://github.com/GageSterling7596/field-service-vector-ingest"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1888,
-    "updated_at": "2026-09-14T00:55:38Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
-    "id": "mirkobozzetto/flowflow",
-    "language": "Rust",
-    "name": "mirkobozzetto/flowflow",
-    "stars": 168,
-    "updated_at": "2026-09-14T00:12:21Z",
-    "url": "https://github.com/mirkobozzetto/flowflow"
-  },
-  {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/nest",
-    "language": "Rust",
-    "name": "hoffresearch/nest",
-    "stars": 11,
-    "updated_at": "2026-09-14T00:07:55Z",
-    "url": "https://github.com/hoffresearch/nest"
-  },
-  {
-    "description": "The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne",
-    "id": "angrysky56/emotion_ai",
-    "language": "Python",
-    "name": "angrysky56/emotion_ai",
-    "stars": 11,
-    "updated_at": "2026-09-14T00:01:52Z",
-    "url": "https://github.com/angrysky56/emotion_ai"
-  },
-  {
-    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
-    "id": "OmniBioAI/omnibioai-dev-hub",
-    "language": "Python",
-    "name": "OmniBioAI/omnibioai-dev-hub",
-    "stars": 1,
-    "updated_at": "2026-09-13T23:46:01Z",
-    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-13T23:43:31Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9256,
-    "updated_at": "2026-09-14T00:44:15Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 91,
-    "updated_at": "2026-09-14T01:10:11Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46091,
-    "updated_at": "2026-09-14T00:31:35Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-13T23:19:16Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "\ud83e\udde0 Mem\u00f3ria sem\u00e2ntica e relacional unificada (Go, SQLite-Vec, TurboQuant 4-bit, Grafo CTEs e MCP) para Agentes de IA",
-    "id": "FelipeMiiller/my-memory",
-    "language": "Go",
-    "name": "FelipeMiiller/my-memory",
-    "stars": 4,
-    "updated_at": "2026-09-14T01:13:39Z",
-    "url": "https://github.com/FelipeMiiller/my-memory"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 18,
-    "updated_at": "2026-09-13T22:59:51Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
-    "id": "rostamlabs/rostam",
-    "language": "Go",
-    "name": "rostamlabs/rostam",
-    "stars": 36,
-    "updated_at": "2026-09-13T23:54:26Z",
-    "url": "https://github.com/rostamlabs/rostam"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 17,
-    "updated_at": "2026-09-13T22:42:28Z",
-    "url": "https://github.com/mmnto-ai/totem"
   }
 ]
