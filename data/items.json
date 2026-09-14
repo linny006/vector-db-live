@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-14T18:15:25Z",
+    "updated_at": "2026-09-14T18:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Semantic product search over descriptions \u2014 FastAPI + Chroma + all-MiniLM-L6-v2, with price and rating filters.",
+    "id": "MohanVishe/product-similarity-api",
+    "language": "Jupyter Notebook",
+    "name": "MohanVishe/product-similarity-api",
+    "stars": 1,
+    "updated_at": "2026-09-14T18:29:12Z",
+    "url": "https://github.com/MohanVishe/product-similarity-api"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9262,
+    "updated_at": "2026-09-14T18:27:32Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1476,
+    "updated_at": "2026-09-14T18:29:43Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-14T18:22:58Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Multi-Agent RAG assistant for codebase ingestion and QA. Features LlamaIndex, CrewAI agents, ChromaDB vector search, BGE",
+    "id": "mttpzz/repomind",
+    "language": "Python",
+    "name": "mttpzz/repomind",
+    "stars": 0,
+    "updated_at": "2026-09-14T18:21:14Z",
+    "url": "https://github.com/mttpzz/repomind"
+  },
+  {
+    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
+    "id": "Fractera/fractera-memory-starter",
+    "language": "TypeScript",
+    "name": "Fractera/fractera-memory-starter",
+    "stars": 0,
+    "updated_at": "2026-09-14T18:28:52Z",
+    "url": "https://github.com/Fractera/fractera-memory-starter"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-09-14T18:20:44Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "Medical Q&A chatbot grounded in a PDF corpus \u2014 RAG with Llama 3, LangChain and Pinecone, built to refuse questions its s",
+    "id": "MohanVishe/medical-rag-chatbot",
+    "language": "Python",
+    "name": "MohanVishe/medical-rag-chatbot",
+    "stars": 1,
+    "updated_at": "2026-09-14T18:20:10Z",
+    "url": "https://github.com/MohanVishe/medical-rag-chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T18:15:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -14,7 +95,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16807,
-    "updated_at": "2026-09-14T18:13:43Z",
+    "updated_at": "2026-09-14T18:22:54Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -25,15 +106,6 @@
     "stars": 1888,
     "updated_at": "2026-09-14T18:12:52Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
-    "id": "Fractera/fractera-memory-starter",
-    "language": "TypeScript",
-    "name": "Fractera/fractera-memory-starter",
-    "stars": 0,
-    "updated_at": "2026-09-14T18:12:06Z",
-    "url": "https://github.com/Fractera/fractera-memory-starter"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -50,7 +122,7 @@
     "language": "Python",
     "name": "hbar-systems/brainfoundry-nous",
     "stars": 0,
-    "updated_at": "2026-09-14T18:07:45Z",
+    "updated_at": "2026-09-14T18:19:22Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
@@ -99,15 +171,6 @@
     "url": "https://github.com/FelipeMiiller/my-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T18:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -117,15 +180,6 @@
     "url": "https://github.com/pixeltable/pixeltable"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9262,
-    "updated_at": "2026-09-14T18:14:50Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -133,15 +187,6 @@
     "stars": 46106,
     "updated_at": "2026-09-14T17:57:36Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1476,
-    "updated_at": "2026-09-14T17:55:36Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "Think Flow is an intelligent agent platform built with LangGraph and LangChain for automated reasoning, workflows, and A",
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 106,
-    "updated_at": "2026-09-14T17:35:36Z",
+    "updated_at": "2026-09-14T18:27:42Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -238,7 +283,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66008,
+    "stars": 66009,
     "updated_at": "2026-09-14T17:35:07Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-14T17:08:02Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:06:10Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "MCP Server for vector-based semantic code search in Claude Code. Index your codebase locally with LanceDB and search cod",
-    "id": "Xveyn/vectorgrep",
-    "language": "TypeScript",
-    "name": "Xveyn/vectorgrep",
-    "stars": 0,
-    "updated_at": "2026-09-14T17:08:27Z",
-    "url": "https://github.com/Xveyn/vectorgrep"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-09-14T17:05:42Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-09-14T17:05:39Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
-    "id": "oracle/langchain-oracle",
-    "language": "Python",
-    "name": "oracle/langchain-oracle",
-    "stars": 60,
-    "updated_at": "2026-09-14T17:04:22Z",
-    "url": "https://github.com/oracle/langchain-oracle"
   }
 ]
