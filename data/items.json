@@ -5,17 +5,17 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-14T20:15:20Z",
+    "updated_at": "2026-09-14T20:23:54Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-14T20:14:09Z",
-    "url": "https://github.com/makr-code/ThemisDB"
+    "description": "The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne",
+    "id": "angrysky56/emotion_ai",
+    "language": "Python",
+    "name": "angrysky56/emotion_ai",
+    "stars": 11,
+    "updated_at": "2026-09-14T20:23:00Z",
+    "url": "https://github.com/angrysky56/emotion_ai"
   },
   {
     "description": "MCP Server for vector-based semantic code search in Claude Code. Index your codebase locally with LanceDB and search cod",
@@ -23,8 +23,35 @@
     "language": "TypeScript",
     "name": "Xveyn/vectorgrep",
     "stars": 0,
-    "updated_at": "2026-09-14T20:12:04Z",
+    "updated_at": "2026-09-14T20:29:25Z",
     "url": "https://github.com/Xveyn/vectorgrep"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9262,
+    "updated_at": "2026-09-14T20:29:41Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T20:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-14T20:20:15Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "This repository shares end-to-end notebooks on how to use various Weaviate features and integrations!",
@@ -90,15 +117,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T20:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -113,7 +131,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-14T20:12:39Z",
+    "updated_at": "2026-09-14T20:29:18Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46106,
-    "updated_at": "2026-09-14T19:01:34Z",
+    "updated_at": "2026-09-14T20:26:40Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -324,15 +342,6 @@
     "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
   },
   {
-    "description": "The Aura Emotion AI system has chroma with a local embedding model, memvid qr code mp4 infinite memory, brainwave and ne",
-    "id": "angrysky56/emotion_ai",
-    "language": "Python",
-    "name": "angrysky56/emotion_ai",
-    "stars": 11,
-    "updated_at": "2026-09-14T18:58:04Z",
-    "url": "https://github.com/angrysky56/emotion_ai"
-  },
-  {
     "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
     "id": "Open-Source-Legal/OpenContracts",
     "language": "Python",
@@ -347,7 +356,7 @@
     "language": "Go",
     "name": "FelipeMiiller/my-memory",
     "stars": 4,
-    "updated_at": "2026-09-14T18:53:16Z",
+    "updated_at": "2026-09-14T20:15:44Z",
     "url": "https://github.com/FelipeMiiller/my-memory"
   },
   {
@@ -421,15 +430,6 @@
     "stars": 95,
     "updated_at": "2026-09-14T18:46:37Z",
     "url": "https://github.com/hfgwygey/yu-ai-agent"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9262,
-    "updated_at": "2026-09-14T20:15:14Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
