@@ -1,5 +1,95 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 8,
+    "updated_at": "2026-09-14T04:44:51Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11419,
+    "updated_at": "2026-09-14T04:44:14Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Persistent cognitive memory for AI agents \u2014 drop-in MCP server for Claude Code, Cursor, Windsurf. Temporal decay, contra",
+    "id": "yantrikos/yantrikdb-mcp",
+    "language": "Python",
+    "name": "yantrikos/yantrikdb-mcp",
+    "stars": 24,
+    "updated_at": "2026-09-14T04:42:18Z",
+    "url": "https://github.com/yantrikos/yantrikdb-mcp"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-14T04:41:11Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1888,
+    "updated_at": "2026-09-14T04:40:59Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Fully local vector memory plugin for DeepSeek Harness: local embeddings, SQLite storage, automatic recall injection, ded",
+    "id": "liangxiaobing520/dsh-local-vector-memory",
+    "language": "JavaScript",
+    "name": "liangxiaobing520/dsh-local-vector-memory",
+    "stars": 1,
+    "updated_at": "2026-09-14T04:37:15Z",
+    "url": "https://github.com/liangxiaobing520/dsh-local-vector-memory"
+  },
+  {
+    "description": "Evidence-led technology trends, updated weekly from up2d8.com \u2014 classification ladder, recommended actions, and the repo",
+    "id": "allup2d8/trends",
+    "language": "\u2014",
+    "name": "allup2d8/trends",
+    "stars": 0,
+    "updated_at": "2026-09-14T04:33:45Z",
+    "url": "https://github.com/allup2d8/trends"
+  },
+  {
+    "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
+    "id": "codelined-ag/Extracto",
+    "language": "TypeScript",
+    "name": "codelined-ag/Extracto",
+    "stars": 5,
+    "updated_at": "2026-09-14T04:30:57Z",
+    "url": "https://github.com/codelined-ag/Extracto"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T04:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T04:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Lightweight approximate nearest neighbor (ANN) vector search engine and embedding indexing pipeline.",
     "id": "irtazirfan08-source/VectorCore",
     "language": "Python",
@@ -23,44 +113,17 @@
     "language": "Rust",
     "name": "yantrikos/yantrikdb",
     "stars": 62,
-    "updated_at": "2026-09-14T04:24:23Z",
+    "updated_at": "2026-09-14T04:30:38Z",
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "A production-grade, decoupled, and containerized Multimodal Digital Asset Management (DAM) & RAG platform featuring stre",
+    "id": "vipin-mo/multimodal-dam-rag-platform",
     "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T04:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T04:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 8,
-    "updated_at": "2026-09-14T04:11:38Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-14T04:11:06Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "name": "vipin-mo/multimodal-dam-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-09-14T04:12:46Z",
+    "url": "https://github.com/vipin-mo/multimodal-dam-rag-platform"
   },
   {
     "description": "\ud83e\udde0 Predictable, embedded multimodal vector database & offline RAG engine for Edge AI (ARM64 / Zero-OOM). Built in C++20.",
@@ -79,15 +142,6 @@
     "stars": 120,
     "updated_at": "2026-09-14T04:12:15Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Fully local vector memory plugin for DeepSeek Harness: local embeddings, SQLite storage, automatic recall injection, ded",
-    "id": "liangxiaobing520/dsh-local-vector-memory",
-    "language": "JavaScript",
-    "name": "liangxiaobing520/dsh-local-vector-memory",
-    "stars": 1,
-    "updated_at": "2026-09-14T03:57:43Z",
-    "url": "https://github.com/liangxiaobing520/dsh-local-vector-memory"
   },
   {
     "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
@@ -266,7 +320,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46095,
-    "updated_at": "2026-09-14T04:06:29Z",
+    "updated_at": "2026-09-14T04:33:03Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-14T03:05:17Z",
     "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
-    "id": "zoepranataksm/Mind_Vault_AI",
-    "language": "JavaScript",
-    "name": "zoepranataksm/Mind_Vault_AI",
-    "stars": 1,
-    "updated_at": "2026-09-14T03:05:04Z",
-    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
-  },
-  {
-    "description": "A multimodal RAG assistant for Markdown and image notes with hybrid retrieval, source citations, and DeepSeek BYOK.",
-    "id": "yuyuyuoo55/Personal_Notes_Review_Assistant",
-    "language": "Python",
-    "name": "yuyuyuoo55/Personal_Notes_Review_Assistant",
-    "stars": 2,
-    "updated_at": "2026-09-14T03:03:33Z",
-    "url": "https://github.com/yuyuyuoo55/Personal_Notes_Review_Assistant"
-  },
-  {
-    "description": "Zero-bloat distributed vector memory, hardware-enforced domain firewalls, and NAT-traversing execution mesh for multi-in",
-    "id": "amrlazw/hermes-fleet-memory",
-    "language": "Python",
-    "name": "amrlazw/hermes-fleet-memory",
-    "stars": 3,
-    "updated_at": "2026-09-14T03:03:18Z",
-    "url": "https://github.com/amrlazw/hermes-fleet-memory"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1888,
-    "updated_at": "2026-09-14T03:24:38Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
-    "id": "SAHIXXX12/AI-Search-Engine",
-    "language": "TypeScript",
-    "name": "SAHIXXX12/AI-Search-Engine",
-    "stars": 0,
-    "updated_at": "2026-09-14T03:02:19Z",
-    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
-  },
-  {
-    "description": "",
-    "id": "dkylewillis/vera",
-    "language": "Python",
-    "name": "dkylewillis/vera",
-    "stars": 17,
-    "updated_at": "2026-09-14T02:59:45Z",
-    "url": "https://github.com/dkylewillis/vera"
   }
 ]
