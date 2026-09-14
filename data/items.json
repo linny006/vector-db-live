@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T11:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " Agentic AI Meeting Notes Analyzer built with LangGraph, LangChain, Qwen2.5-0.5B, Faiss & Streamlit. Generates meeting s",
+    "id": "ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph",
+    "language": "Jupyter Notebook",
+    "name": "ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph",
+    "stars": 0,
+    "updated_at": "2026-09-14T11:28:48Z",
+    "url": "https://github.com/ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph"
+  },
+  {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 11,
+    "updated_at": "2026-09-14T11:28:18Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13089,
+    "updated_at": "2026-09-14T11:25:44Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "RAG pipeline implementations with document ingestion, chunking, embedding, and retrieval-augmented generation",
+    "id": "amori27/rag-knowledge-base-system",
+    "language": "Python",
+    "name": "amori27/rag-knowledge-base-system",
+    "stars": 1,
+    "updated_at": "2026-09-14T11:16:12Z",
+    "url": "https://github.com/amori27/rag-knowledge-base-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T11:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 3286,
+    "updated_at": "2026-09-14T11:15:25Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -9,21 +72,12 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13089,
-    "updated_at": "2026-09-14T11:13:47Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30675,
-    "updated_at": "2026-09-14T11:14:09Z",
+    "updated_at": "2026-09-14T11:28:04Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -45,33 +99,6 @@
     "url": "https://github.com/hanyeol/model-compose"
   },
   {
-    "description": " Agentic AI Meeting Notes Analyzer built with LangGraph, LangChain, Qwen2.5-0.5B, Faiss & Streamlit. Generates meeting s",
-    "id": "ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph",
-    "language": "Jupyter Notebook",
-    "name": "ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph",
-    "stars": 0,
-    "updated_at": "2026-09-14T11:03:02Z",
-    "url": "https://github.com/ARCHITTOMAR15/ai-meeting-notes-analyzer-langgraph"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T11:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T11:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Website for the Weaviate vector database",
     "id": "weaviate/weaviate-io",
     "language": "MDX",
@@ -79,6 +106,15 @@
     "stars": 89,
     "updated_at": "2026-09-14T10:58:00Z",
     "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34537,
+    "updated_at": "2026-09-14T10:54:35Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
@@ -104,7 +140,7 @@
     "language": "HTML",
     "name": "Fractera/fractera-memory-starter",
     "stars": 0,
-    "updated_at": "2026-09-14T10:50:35Z",
+    "updated_at": "2026-09-14T11:24:47Z",
     "url": "https://github.com/Fractera/fractera-memory-starter"
   },
   {
@@ -113,7 +149,7 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 4,
-    "updated_at": "2026-09-14T11:14:20Z",
+    "updated_at": "2026-09-14T11:16:09Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -130,7 +166,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46101,
+    "stars": 46102,
     "updated_at": "2026-09-14T10:45:34Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -216,15 +252,6 @@
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3286,
-    "updated_at": "2026-09-14T11:03:22Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
     "description": "Agentic AI platform for transforming software ideas into persistent, structured engineering blueprints using LangGraph, ",
     "id": "mdwarishansari/ForgeFlow-AI",
     "language": "\u2014",
@@ -286,15 +313,6 @@
     "stars": 8,
     "updated_at": "2026-09-14T09:51:17Z",
     "url": "https://github.com/bobaba76/Argos"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34536,
-    "updated_at": "2026-09-14T10:54:35Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T09:28:25Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:27:08Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-09-14T09:27:07Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
   }
 ]
