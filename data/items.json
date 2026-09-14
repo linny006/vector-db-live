@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-14T10:30:24Z",
+    "updated_at": "2026-09-14T10:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Declarative SQL query engine for Qdrant and edge vector databases. Multi-vector dense & BM25 sparse search, hybrid retri",
+    "id": "srimon12/qql-rs",
+    "language": "Rust",
+    "name": "srimon12/qql-rs",
+    "stars": 5,
+    "updated_at": "2026-09-14T10:39:46Z",
+    "url": "https://github.com/srimon12/qql-rs"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9440,
+    "updated_at": "2026-09-14T10:38:33Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30674,
+    "updated_at": "2026-09-14T10:38:02Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 7,
+    "updated_at": "2026-09-14T10:37:55Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "zvec java binding",
+    "id": "zvec-ai/zvec-java",
+    "language": "Java",
+    "name": "zvec-ai/zvec-java",
+    "stars": 0,
+    "updated_at": "2026-09-14T10:41:12Z",
+    "url": "https://github.com/zvec-ai/zvec-java"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-14T10:36:07Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Agentic Voice Notes for iPhone and macOS - Rust, Dioxus, LanceDB + RIG + SQLite",
+    "id": "mirkobozzetto/flowflow",
+    "language": "Rust",
+    "name": "mirkobozzetto/flowflow",
+    "stars": 168,
+    "updated_at": "2026-09-14T10:33:15Z",
+    "url": "https://github.com/mirkobozzetto/flowflow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T10:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A is a high-performance, cloud-native multimodal AI tutor grounding Llama-3.3 in textbook facts via Zilliz Cloud. It del",
@@ -50,7 +122,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46101,
-    "updated_at": "2026-09-14T10:19:34Z",
+    "updated_at": "2026-09-14T10:38:43Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -59,7 +131,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 36,
-    "updated_at": "2026-09-14T10:26:05Z",
+    "updated_at": "2026-09-14T10:38:00Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -67,7 +139,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 3284,
+    "stars": 3285,
     "updated_at": "2026-09-14T10:18:16Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -90,24 +162,6 @@
     "url": "https://github.com/mdwarishansari/ForgeFlow-AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T10:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30673,
-    "updated_at": "2026-09-14T10:13:50Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -117,15 +171,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-14T10:08:55Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Coroutine-first Kotlin client for Qdrant, plus an MCP server for it that is a static binary instead of a Python runtime.",
     "id": "NaCode-Studios/Kdrant",
     "language": "Kotlin",
@@ -133,24 +178,6 @@
     "stars": 6,
     "updated_at": "2026-09-14T10:20:55Z",
     "url": "https://github.com/NaCode-Studios/Kdrant"
-  },
-  {
-    "description": "zvec java binding",
-    "id": "zvec-ai/zvec-java",
-    "language": "Java",
-    "name": "zvec-ai/zvec-java",
-    "stars": 0,
-    "updated_at": "2026-09-14T10:12:11Z",
-    "url": "https://github.com/zvec-ai/zvec-java"
-  },
-  {
-    "description": "Declarative SQL query engine for Qdrant and edge vector databases. Multi-vector dense & BM25 sparse search, hybrid retri",
-    "id": "srimon12/qql-rs",
-    "language": "Rust",
-    "name": "srimon12/qql-rs",
-    "stars": 5,
-    "updated_at": "2026-09-14T10:08:15Z",
-    "url": "https://github.com/srimon12/qql-rs"
   },
   {
     "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
@@ -167,7 +194,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4435,
-    "updated_at": "2026-09-14T10:20:34Z",
+    "updated_at": "2026-09-14T10:37:02Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -194,7 +221,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34536,
-    "updated_at": "2026-09-14T09:51:15Z",
+    "updated_at": "2026-09-14T10:34:48Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59290,
-    "updated_at": "2026-09-14T10:11:43Z",
+    "updated_at": "2026-09-14T10:39:17Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -419,34 +446,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6238,
-    "updated_at": "2026-09-14T10:28:01Z",
+    "updated_at": "2026-09-14T10:45:01Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:24:03Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-09-14T09:23:48Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-09-14T09:21:51Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   }
 ]
