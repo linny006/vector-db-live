@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-14T22:29:31Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-09-14T22:26:25Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46107,
+    "updated_at": "2026-09-14T22:25:17Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-09-14T22:21:02Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 7,
+    "updated_at": "2026-09-14T22:20:59Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "One memory for every AI agent \u2014 self-hosted long-term memory over MCP/REST for Claude Code, Codex, Cursor, Gemini CLI, V",
+    "id": "Masikomoore/agent-memory",
+    "language": "JavaScript",
+    "name": "Masikomoore/agent-memory",
+    "stars": 1,
+    "updated_at": "2026-09-14T22:20:15Z",
+    "url": "https://github.com/Masikomoore/agent-memory"
+  },
+  {
+    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
+    "id": "Shajo777/SupaAI-Framework-Template",
+    "language": "\u2014",
+    "name": "Shajo777/SupaAI-Framework-Template",
+    "stars": 0,
+    "updated_at": "2026-09-14T22:18:45Z",
+    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
+  },
+  {
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-09-14T22:18:20Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-14T22:18:16Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-14T22:16:07Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T22:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-14T22:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
     "id": "nishan-paul-hello/cmatrix-agentic-red-team",
     "language": "TypeScript",
@@ -32,7 +140,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1889,
-    "updated_at": "2026-09-14T22:11:21Z",
+    "updated_at": "2026-09-14T22:21:30Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -50,26 +158,8 @@
     "language": "TypeScript",
     "name": "Fractera/fractera-memory-starter",
     "stars": 0,
-    "updated_at": "2026-09-14T22:07:20Z",
+    "updated_at": "2026-09-14T22:23:37Z",
     "url": "https://github.com/Fractera/fractera-memory-starter"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T22:03:43Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-14T22:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -79,15 +169,6 @@
     "stars": 34558,
     "updated_at": "2026-09-14T21:59:29Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 7,
-    "updated_at": "2026-09-14T22:00:19Z",
-    "url": "https://github.com/FraiseHQ/fraise"
   },
   {
     "description": "Experimental vector search + knowledge graph for learning ",
@@ -122,17 +203,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9262,
-    "updated_at": "2026-09-14T22:11:47Z",
+    "updated_at": "2026-09-14T22:26:37Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "One memory for every AI agent \u2014 self-hosted long-term memory over MCP/REST for Claude Code, Codex, Cursor, Gemini CLI, V",
-    "id": "Masikomoore/agent-memory",
-    "language": "JavaScript",
-    "name": "Masikomoore/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-09-14T21:44:39Z",
-    "url": "https://github.com/Masikomoore/agent-memory"
   },
   {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
@@ -230,7 +302,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11422,
-    "updated_at": "2026-09-14T21:34:54Z",
+    "updated_at": "2026-09-14T22:20:08Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -257,62 +329,8 @@
     "language": "Python",
     "name": "leitoooatr/PythonVectorDB",
     "stars": 2,
-    "updated_at": "2026-09-14T21:10:39Z",
+    "updated_at": "2026-09-14T22:30:25Z",
     "url": "https://github.com/leitoooatr/PythonVectorDB"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
-    "id": "Jeroflo88/Self-Corrective-RAG",
-    "language": "Python",
-    "name": "Jeroflo88/Self-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-14T21:09:36Z",
-    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46107,
-    "updated_at": "2026-09-14T21:37:07Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-09-14T21:06:37Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-09-14T21:00:56Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-09-14T20:58:28Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
-  },
-  {
-    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
-    "id": "DanieldfMedina/GenAI-Course-Repo",
-    "language": "C++",
-    "name": "DanieldfMedina/GenAI-Course-Repo",
-    "stars": 0,
-    "updated_at": "2026-09-14T20:57:51Z",
-    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
   },
   {
     "description": "MCP Server for vector-based semantic code search in Claude Code. Index your codebase locally with LanceDB and search cod",
@@ -428,25 +446,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-14T20:33:14Z",
+    "updated_at": "2026-09-14T22:16:42Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Go",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 2,
-    "updated_at": "2026-09-14T19:54:40Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-09-14T19:19:50Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   }
 ]
