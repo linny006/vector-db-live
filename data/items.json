@@ -1,11 +1,38 @@
 [
   {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-09-14T12:27:36Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 4,
+    "updated_at": "2026-09-14T12:23:39Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-14T12:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-14T12:15:20Z",
+    "updated_at": "2026-09-14T12:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +41,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7083,
-    "updated_at": "2026-09-14T12:14:41Z",
+    "updated_at": "2026-09-14T12:26:11Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -27,12 +54,21 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46101,
+    "updated_at": "2026-09-14T12:12:37Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-14T12:13:51Z",
+    "updated_at": "2026-09-14T12:19:23Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -99,22 +135,22 @@
     "url": "https://github.com/CaviraOSS/LongMemory"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8219,
+    "updated_at": "2026-09-14T12:29:34Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Local-first persistent memory for AI agents \u2014 hybrid vector + graph store (Kuzu, DuckDB), local embeddings, versioned fa",
     "id": "bobaba76/Argos",
     "language": "Python",
     "name": "bobaba76/Argos",
     "stars": 8,
-    "updated_at": "2026-09-14T12:00:27Z",
+    "updated_at": "2026-09-14T12:21:28Z",
     "url": "https://github.com/bobaba76/Argos"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-14T12:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Playground : Sample development & integration of Ollama, RAG, Langchain, LagGraph, FastAPI using Docker",
@@ -166,18 +202,9 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15916,
+    "stars": 15915,
     "updated_at": "2026-09-14T11:47:51Z",
     "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46102,
-    "updated_at": "2026-09-14T12:12:37Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30676,
-    "updated_at": "2026-09-14T12:14:16Z",
+    "updated_at": "2026-09-14T12:28:38Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -194,8 +221,17 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4435,
-    "updated_at": "2026-09-14T11:58:40Z",
+    "updated_at": "2026-09-14T12:27:12Z",
     "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11419,
+    "updated_at": "2026-09-14T11:40:48Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
@@ -212,7 +248,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16805,
-    "updated_at": "2026-09-14T11:47:43Z",
+    "updated_at": "2026-09-14T12:20:22Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -288,15 +324,6 @@
     "url": "https://github.com/databendlabs/databend"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8218,
-    "updated_at": "2026-09-14T12:01:22Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
     "id": "hanyeol/model-compose",
     "language": "Python",
@@ -347,7 +374,7 @@
     "language": "HTML",
     "name": "Fractera/fractera-memory-starter",
     "stars": 0,
-    "updated_at": "2026-09-14T12:15:20Z",
+    "updated_at": "2026-09-14T12:19:30Z",
     "url": "https://github.com/Fractera/fractera-memory-starter"
   },
   {
@@ -356,7 +383,7 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 4,
-    "updated_at": "2026-09-14T11:16:09Z",
+    "updated_at": "2026-09-14T12:23:23Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Rust",
     "name": "srimon12/qql-rs",
     "stars": 5,
-    "updated_at": "2026-09-14T10:39:46Z",
+    "updated_at": "2026-09-14T12:29:56Z",
     "url": "https://github.com/srimon12/qql-rs"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-14T10:15:54Z",
     "url": "https://github.com/mdwarishansari/ForgeFlow-AI"
-  },
-  {
-    "description": "Coroutine-first Kotlin client for Qdrant, plus an MCP server for it that is a static binary instead of a Python runtime.",
-    "id": "NaCode-Studios/Kdrant",
-    "language": "Kotlin",
-    "name": "NaCode-Studios/Kdrant",
-    "stars": 6,
-    "updated_at": "2026-09-14T10:20:55Z",
-    "url": "https://github.com/NaCode-Studios/Kdrant"
-  },
-  {
-    "description": "Production GraphRAG portfolio \u2014 knowledge graph platform (Neo4j, hybrid retrieval, GNN reranking, RAGAS-evaluated), RAG ",
-    "id": "sergiunicoara/Generative-AI",
-    "language": "Python",
-    "name": "sergiunicoara/Generative-AI",
-    "stars": 3,
-    "updated_at": "2026-09-14T10:01:07Z",
-    "url": "https://github.com/sergiunicoara/Generative-AI"
-  },
-  {
-    "description": "AI memory system combining vector search with temporal knowledge graph. Built-in cognitive engine for agents. Supports m",
-    "id": "sanonone/kektordb",
-    "language": "Go",
-    "name": "sanonone/kektordb",
-    "stars": 83,
-    "updated_at": "2026-09-14T09:55:47Z",
-    "url": "https://github.com/sanonone/kektordb"
   }
 ]
