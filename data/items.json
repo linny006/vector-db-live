@@ -1,5 +1,23 @@
 [
   {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T10:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T10:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -34,24 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T10:03:15Z",
     "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T10:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T10:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-powered PDF chatbot built with Next.js and FastAPI, using RAG, vector search, and LLMs to understand documents and pr",
@@ -149,7 +149,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9443,
-    "updated_at": "2026-09-15T10:06:47Z",
+    "updated_at": "2026-09-15T10:16:06Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {

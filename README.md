@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-15 10:15 UTC
+> ⏰ Last updated: 2026-09-15 10:16 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-15 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 2 | [mdhabibi/llm-search-handbook](https://github.com/mdhabibi/llm-search-handbook) | 3 | Jupyter Notebook | 2026-09-15 | A beginner-to-expert, open-source course on Large Language Models & Semantic Search — keyword search, embeddings, dense  |
-| 3 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | 1352 | Java | 2026-09-15 | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. |
-| 4 | [RoxyAPI/ai-spiritual-companion](https://github.com/RoxyAPI/ai-spiritual-companion) | 0 | TypeScript | 2026-09-15 | Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-15 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-15 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-15 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-15 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-15 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 4 | [mdhabibi/llm-search-handbook](https://github.com/mdhabibi/llm-search-handbook) | 3 | Jupyter Notebook | 2026-09-15 | A beginner-to-expert, open-source course on Large Language Models & Semantic Search — keyword search, embeddings, dense  |
+| 5 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | 1352 | Java | 2026-09-15 | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. |
+| 6 | [RoxyAPI/ai-spiritual-companion](https://github.com/RoxyAPI/ai-spiritual-companion) | 0 | TypeScript | 2026-09-15 | Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov |
 | 7 | [waleedkhokar/pdf-rag-assistant-ai](https://github.com/waleedkhokar/pdf-rag-assistant-ai) | 0 | TypeScript | 2026-09-15 | AI-powered PDF chatbot built with Next.js and FastAPI, using RAG, vector search, and LLMs to understand documents and pr |
 | 8 | [sanjay-1458/VoloNexus.AI](https://github.com/sanjay-1458/VoloNexus.AI) | 1 | TypeScript | 2026-09-15 | VoloNexus.AI is a smart scheduling tool that takes the hassle out of managing meetings. It uses AI agents to read emails |
 | 9 | [Open-Source-Legal/OpenContracts](https://github.com/Open-Source-Legal/OpenContracts) | 1477 | Python | 2026-09-15 | The open document intelligence platform for builders and hackers - DMS for the agentic world |
