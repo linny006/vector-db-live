@@ -1,5 +1,131 @@
 [
   {
+    "description": "Self-hosted multimodal RAG cloud memory service \u2014 a shared brain for your AI agents. Multi-agent cross-query, LanceDB + ",
+    "id": "leekkk2/transcendence-memory-server",
+    "language": "Python",
+    "name": "leekkk2/transcendence-memory-server",
+    "stars": 6,
+    "updated_at": "2026-09-15T18:14:36Z",
+    "url": "https://github.com/leekkk2/transcendence-memory-server"
+  },
+  {
+    "description": "Zero-bloat distributed vector memory, hardware-enforced domain firewalls, and NAT-traversing execution mesh for multi-in",
+    "id": "amrlazw/hermes-fleet-memory",
+    "language": "Python",
+    "name": "amrlazw/hermes-fleet-memory",
+    "stars": 10,
+    "updated_at": "2026-09-15T18:14:10Z",
+    "url": "https://github.com/amrlazw/hermes-fleet-memory"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 874,
+    "updated_at": "2026-09-15T18:13:26Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Local-first personal memory + RAG engine - the reusable AI brain for future projects.",
+    "id": "zaidwhy/personal-llm",
+    "language": "Python",
+    "name": "zaidwhy/personal-llm",
+    "stars": 2,
+    "updated_at": "2026-09-15T18:13:06Z",
+    "url": "https://github.com/zaidwhy/personal-llm"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1154,
+    "updated_at": "2026-09-15T18:11:45Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-15T18:09:28Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1352,
+    "updated_at": "2026-09-15T18:09:06Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 347,
+    "updated_at": "2026-09-15T18:09:05Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-15T18:06:57Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-15T18:05:58Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Catches silent embedding-model swaps under a vector index before they corrupt similarity search -- provider-agnostic, ze",
+    "id": "jayblast-spec/embedguard",
+    "language": "TypeScript",
+    "name": "jayblast-spec/embedguard",
+    "stars": 0,
+    "updated_at": "2026-09-15T18:05:29Z",
+    "url": "https://github.com/jayblast-spec/embedguard"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11428,
+    "updated_at": "2026-09-15T18:01:11Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T18:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T18:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
     "id": "rostamlabs/rostam",
     "language": "Go",
@@ -45,15 +171,6 @@
     "url": "https://github.com/zaidwhy/recall"
   },
   {
-    "description": "Local-first personal memory + RAG engine - the reusable AI brain for future projects.",
-    "id": "zaidwhy/personal-llm",
-    "language": "Python",
-    "name": "zaidwhy/personal-llm",
-    "stars": 2,
-    "updated_at": "2026-09-15T17:48:41Z",
-    "url": "https://github.com/zaidwhy/personal-llm"
-  },
-  {
     "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
     "id": "sh1v-max/AI-Backend",
     "language": "TypeScript",
@@ -61,42 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T17:47:46Z",
     "url": "https://github.com/sh1v-max/AI-Backend"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T17:45:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T18:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-15T17:56:51Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-15T17:44:32Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
@@ -108,15 +189,6 @@
     "url": "https://github.com/AkashKundu114/COPPER"
   },
   {
-    "description": "Zero-bloat distributed vector memory, hardware-enforced domain firewalls, and NAT-traversing execution mesh for multi-in",
-    "id": "amrlazw/hermes-fleet-memory",
-    "language": "Python",
-    "name": "amrlazw/hermes-fleet-memory",
-    "stars": 10,
-    "updated_at": "2026-09-15T17:54:33Z",
-    "url": "https://github.com/amrlazw/hermes-fleet-memory"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -124,15 +196,6 @@
     "stars": 1890,
     "updated_at": "2026-09-15T17:39:14Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-15T17:33:29Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "One memory for every AI agent \u2014 self-hosted long-term memory over MCP/REST for Claude Code, Codex, Cursor, Gemini CLI, V",
@@ -175,7 +238,7 @@
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
-    "stars": 6442,
+    "stars": 6441,
     "updated_at": "2026-09-15T17:19:09Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
@@ -194,7 +257,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30704,
-    "updated_at": "2026-09-15T17:52:03Z",
+    "updated_at": "2026-09-15T18:03:25Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -338,7 +401,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-15T15:52:05Z",
+    "updated_at": "2026-09-15T18:03:09Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -356,7 +419,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2095,
-    "updated_at": "2026-09-15T17:20:43Z",
+    "updated_at": "2026-09-15T18:00:23Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -378,15 +441,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11428,
-    "updated_at": "2026-09-15T17:36:13Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
     "id": "SynapseKit/SynapseKit",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 23,
     "updated_at": "2026-09-15T15:23:30Z",
     "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "AI-powered legal SaaS for Brazilian lawyers, with client management, legal document analysis, RAG agents, WhatsApp CRM, ",
-    "id": "yagosamu/juri_ai",
-    "language": "HTML",
-    "name": "yagosamu/juri_ai",
-    "stars": 0,
-    "updated_at": "2026-09-15T15:18:54Z",
-    "url": "https://github.com/yagosamu/juri_ai"
-  },
-  {
-    "description": "Multi-tenant RAG platform \u2014 AI document intelligence with hybrid search, LLM failover, and source attribution. Built wit",
-    "id": "nicuk/docsflow",
-    "language": "TypeScript",
-    "name": "nicuk/docsflow",
-    "stars": 2,
-    "updated_at": "2026-09-15T15:18:42Z",
-    "url": "https://github.com/nicuk/docsflow"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1946,
-    "updated_at": "2026-09-15T15:18:41Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-15T15:11:29Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "TalaDB - The embedded vector and document database for on-device AI.",
-    "id": "taladb/taladb",
-    "language": "Rust",
-    "name": "taladb/taladb",
-    "stars": 4,
-    "updated_at": "2026-09-15T15:16:31Z",
-    "url": "https://github.com/taladb/taladb"
-  },
-  {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 33,
-    "updated_at": "2026-09-15T15:01:31Z",
-    "url": "https://github.com/maximilien/weave-cli"
   }
 ]
