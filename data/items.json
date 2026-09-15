@@ -1,5 +1,68 @@
 [
   {
+    "description": "Modular ML pipeline designed to classify notarial documents into predefined categories using LLM-based Retrieval-Augment",
+    "id": "nata-kostina/llm-classification-of-notarial-documents",
+    "language": "Python",
+    "name": "nata-kostina/llm-classification-of-notarial-documents",
+    "stars": 0,
+    "updated_at": "2026-09-15T13:41:43Z",
+    "url": "https://github.com/nata-kostina/llm-classification-of-notarial-documents"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-15T13:36:44Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Scheduled document ingestion into a vector index, with idempotent sync and a retrieval agent \u2014 built in n8n",
+    "id": "Eng-Rami-Khzam/n8n-rag-pipeline",
+    "language": "\u2014",
+    "name": "Eng-Rami-Khzam/n8n-rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-15T13:36:21Z",
+    "url": "https://github.com/Eng-Rami-Khzam/n8n-rag-pipeline"
+  },
+  {
+    "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, zero depe",
+    "id": "eminsk/nanovector",
+    "language": "C",
+    "name": "eminsk/nanovector",
+    "stars": 7,
+    "updated_at": "2026-09-15T13:35:40Z",
+    "url": "https://github.com/eminsk/nanovector"
+  },
+  {
+    "description": "Production RAG pipeline + multi-agent system for e-commerce analytics. Embeddings \u00b7 Pinecone \u00b7 MCP \u00b7 GPT-4o-mini \u00b7 Anoma",
+    "id": "Ogeanni/kira",
+    "language": "Python",
+    "name": "Ogeanni/kira",
+    "stars": 0,
+    "updated_at": "2026-09-15T13:35:15Z",
+    "url": "https://github.com/Ogeanni/kira"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30698,
+    "updated_at": "2026-09-15T13:32:15Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T13:30:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,13 +72,13 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Modular ML pipeline designed to classify notarial documents into predefined categories using LLM-based Retrieval-Augment",
-    "id": "nata-kostina/llm-classification-of-notarial-documents",
-    "language": "Python",
-    "name": "nata-kostina/llm-classification-of-notarial-documents",
-    "stars": 0,
-    "updated_at": "2026-09-15T13:30:23Z",
-    "url": "https://github.com/nata-kostina/llm-classification-of-notarial-documents"
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59296,
+    "updated_at": "2026-09-15T13:29:30Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "\u7aef\u5230\u7aef RAG \u6587\u6863\u95ee\u7b54 Demo\uff1adocx/pdf \u89e3\u6790 \u2192 \u7ae0\u8282\u611f\u77e5\u5206\u5757 \u2192 Chroma \u5411\u91cf\u68c0\u7d22 \u2192 LLM \u751f\u6210\uff0c\u542b Streamlit \u524d\u7aef\u3002| End-to-end RAG document Q&A demo (LangCha",
@@ -41,7 +104,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46119,
-    "updated_at": "2026-09-15T13:25:36Z",
+    "updated_at": "2026-09-15T13:38:01Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -63,40 +126,13 @@
     "url": "https://github.com/bazanov05/semantic-movie-engine"
   },
   {
-    "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, zero depe",
-    "id": "eminsk/nanovector",
-    "language": "C",
-    "name": "eminsk/nanovector",
-    "stars": 7,
-    "updated_at": "2026-09-15T13:24:29Z",
-    "url": "https://github.com/eminsk/nanovector"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6238,
-    "updated_at": "2026-09-15T13:18:22Z",
+    "updated_at": "2026-09-15T13:42:17Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-15T13:17:59Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T13:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -189,21 +225,12 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30697,
-    "updated_at": "2026-09-15T12:33:55Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8225,
-    "updated_at": "2026-09-15T13:27:57Z",
+    "updated_at": "2026-09-15T13:44:35Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -216,21 +243,12 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59295,
-    "updated_at": "2026-09-15T13:29:30Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4435,
-    "updated_at": "2026-09-15T13:02:16Z",
+    "updated_at": "2026-09-15T13:41:35Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1153,
-    "updated_at": "2026-09-15T13:21:07Z",
+    "updated_at": "2026-09-15T13:34:09Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9443,
-    "updated_at": "2026-09-15T13:28:42Z",
+    "updated_at": "2026-09-15T13:44:34Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -365,17 +383,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16813,
-    "updated_at": "2026-09-15T13:25:22Z",
+    "updated_at": "2026-09-15T13:36:19Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Production RAG pipeline + multi-agent system for e-commerce analytics. Embeddings \u00b7 Pinecone \u00b7 MCP \u00b7 GPT-4o-mini \u00b7 Anoma",
-    "id": "Ogeanni/kira",
-    "language": "Python",
-    "name": "Ogeanni/kira",
-    "stars": 0,
-    "updated_at": "2026-09-15T11:22:02Z",
-    "url": "https://github.com/Ogeanni/kira"
   },
   {
     "description": "A multilingual (Indic \u2194 English) weather and crop-risk assistant that combines live weather data, a deterministic hazard",
@@ -392,7 +401,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11427,
-    "updated_at": "2026-09-15T13:11:26Z",
+    "updated_at": "2026-09-15T13:32:47Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T11:01:56Z",
     "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-09-15T11:01:47Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
   }
 ]
