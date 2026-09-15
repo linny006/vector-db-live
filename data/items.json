@@ -1,21 +1,57 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1153,
+    "updated_at": "2026-09-15T12:13:05Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-15T12:12:53Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-15T12:00:24Z",
+    "updated_at": "2026-09-15T12:12:06Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Evidence-aware RAG system that detects conflicting claims across multiple documents and generates source-grounded answer",
-    "id": "VIS030/truthlens-ai",
-    "language": "\u2014",
-    "name": "VIS030/truthlens-ai",
-    "stars": 0,
-    "updated_at": "2026-09-15T11:59:57Z",
-    "url": "https://github.com/VIS030/truthlens-ai"
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6238,
+    "updated_at": "2026-09-15T12:15:18Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1352,
+    "updated_at": "2026-09-15T12:11:56Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
+    "id": "mdhabibi/llm-search-handbook",
+    "language": "Jupyter Notebook",
+    "name": "mdhabibi/llm-search-handbook",
+    "stars": 3,
+    "updated_at": "2026-09-15T12:10:47Z",
+    "url": "https://github.com/mdhabibi/llm-search-handbook"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -23,8 +59,44 @@
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-09-15T11:56:25Z",
+    "updated_at": "2026-09-15T12:10:16Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Evidence-aware RAG system that detects conflicting claims across multiple documents and generates source-grounded answer",
+    "id": "VIS030/truthlens-ai",
+    "language": "Python",
+    "name": "VIS030/truthlens-ai",
+    "stars": 0,
+    "updated_at": "2026-09-15T12:10:10Z",
+    "url": "https://github.com/VIS030/truthlens-ai"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34573,
+    "updated_at": "2026-09-15T12:03:10Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46119,
+    "updated_at": "2026-09-15T12:01:37Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T12:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -32,7 +104,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12949,
-    "updated_at": "2026-09-15T11:51:32Z",
+    "updated_at": "2026-09-15T12:02:02Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -41,7 +113,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9443,
-    "updated_at": "2026-09-15T11:55:42Z",
+    "updated_at": "2026-09-15T12:03:08Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -54,31 +126,13 @@
     "url": "https://github.com/eminsk/nanovector"
   },
   {
-    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
-    "id": "mdhabibi/llm-search-handbook",
-    "language": "Jupyter Notebook",
-    "name": "mdhabibi/llm-search-handbook",
-    "stars": 3,
-    "updated_at": "2026-09-15T11:49:42Z",
-    "url": "https://github.com/mdhabibi/llm-search-handbook"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1890,
-    "updated_at": "2026-09-15T11:54:49Z",
+    "updated_at": "2026-09-15T12:13:18Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T11:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -108,21 +162,12 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-15T11:34:42Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16813,
-    "updated_at": "2026-09-15T11:57:50Z",
+    "updated_at": "2026-09-15T12:14:55Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 1477,
     "updated_at": "2026-09-15T11:31:56Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46120,
-    "updated_at": "2026-09-15T11:27:42Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Production RAG pipeline + multi-agent system for e-commerce analytics. Embeddings \u00b7 Pinecone \u00b7 MCP \u00b7 GPT-4o-mini \u00b7 Anoma",
@@ -187,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-09-15T11:10:58Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6238,
-    "updated_at": "2026-09-15T11:59:50Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "RAG-EVDA v1.2.0: zero-cost, fully-local AI-search visibility auditor. Real live-harvest corpora + local embeddings (BGE/",
@@ -284,17 +311,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8224,
-    "updated_at": "2026-09-15T11:41:11Z",
+    "updated_at": "2026-09-15T12:08:00Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34572,
-    "updated_at": "2026-09-15T10:48:08Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
@@ -315,15 +333,6 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1153,
-    "updated_at": "2026-09-15T10:42:09Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
@@ -340,15 +349,6 @@
     "stars": 6,
     "updated_at": "2026-09-15T10:20:08Z",
     "url": "https://github.com/leekkk2/transcendence-memory-server"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1352,
-    "updated_at": "2026-09-15T10:02:23Z",
-    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
@@ -410,7 +410,7 @@
     "language": "Python",
     "name": "oracle/ai-optimizer",
     "stars": 101,
-    "updated_at": "2026-09-15T09:45:41Z",
+    "updated_at": "2026-09-15T12:12:15Z",
     "url": "https://github.com/oracle/ai-optimizer"
   },
   {
@@ -446,7 +446,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4435,
-    "updated_at": "2026-09-15T12:00:00Z",
+    "updated_at": "2026-09-15T12:07:01Z",
     "url": "https://github.com/crate/crate"
   }
 ]
