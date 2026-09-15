@@ -1,12 +1,30 @@
 [
   {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
+    "description": "Production RAG pipeline + multi-agent system for e-commerce analytics. Embeddings \u00b7 Pinecone \u00b7 MCP \u00b7 GPT-4o-mini \u00b7 Anoma",
+    "id": "Ogeanni/kira",
+    "language": "Python",
+    "name": "Ogeanni/kira",
+    "stars": 0,
+    "updated_at": "2026-09-15T05:42:46Z",
+    "url": "https://github.com/Ogeanni/kira"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-15T05:36:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
     "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 278,
-    "updated_at": "2026-09-15T05:27:47Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+    "name": "alibaba/zvec",
+    "stars": 15926,
+    "updated_at": "2026-09-15T05:35:21Z",
+    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +32,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-09-15T05:23:11Z",
+    "updated_at": "2026-09-15T05:30:20Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T05:30:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 278,
+    "updated_at": "2026-09-15T05:38:08Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
     "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
@@ -43,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-09-15T05:15:26Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T05:30:18Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "",
@@ -151,15 +178,6 @@
     "stars": 80,
     "updated_at": "2026-09-15T05:09:21Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-15T05:09:13Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
@@ -275,7 +293,7 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 120,
-    "updated_at": "2026-09-15T05:09:28Z",
+    "updated_at": "2026-09-15T05:35:55Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -333,15 +351,6 @@
     "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
   },
   {
-    "description": "Production RAG pipeline + multi-agent system for e-commerce analytics. Embeddings \u00b7 Pinecone \u00b7 MCP \u00b7 GPT-4o-mini \u00b7 Anoma",
-    "id": "Ogeanni/kira",
-    "language": "Python",
-    "name": "Ogeanni/kira",
-    "stars": 0,
-    "updated_at": "2026-09-15T04:53:30Z",
-    "url": "https://github.com/Ogeanni/kira"
-  },
-  {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
     "id": "Dakera-AI/dakera-deploy",
     "language": "JavaScript",
@@ -355,7 +364,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46114,
+    "stars": 46115,
     "updated_at": "2026-09-15T04:51:32Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-15T04:40:01Z",
     "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-09-15T04:39:50Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
   }
 ]
