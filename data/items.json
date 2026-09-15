@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-15T16:15:21Z",
+    "updated_at": "2026-09-15T16:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,53 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-15T16:13:06Z",
+    "updated_at": "2026-09-15T16:29:13Z",
     "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-15T16:18:22Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6238,
+    "updated_at": "2026-09-15T16:29:39Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59299,
+    "updated_at": "2026-09-15T16:16:19Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
+    "id": "KonNik88/ml-research-radar",
+    "language": "Python",
+    "name": "KonNik88/ml-research-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T16:15:45Z",
+    "url": "https://github.com/KonNik88/ml-research-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T16:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T16:00:50Z",
     "url": "https://github.com/jalasamir21/AI-ATS-Resume-Checker"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T16:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An intelligent customer support assistant that simulates a real-world music store support workflow. ",
@@ -140,7 +176,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 4,
-    "updated_at": "2026-09-15T15:40:42Z",
+    "updated_at": "2026-09-15T16:28:18Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -158,17 +194,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11428,
-    "updated_at": "2026-09-15T15:33:38Z",
+    "updated_at": "2026-09-15T16:29:40Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59299,
-    "updated_at": "2026-09-15T15:24:54Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
@@ -243,6 +270,15 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6441,
+    "updated_at": "2026-09-15T14:58:58Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
     "id": "hbar-systems/brainfoundry-nous",
     "language": "Python",
@@ -283,8 +319,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30701,
-    "updated_at": "2026-09-15T14:47:33Z",
+    "stars": 30702,
+    "updated_at": "2026-09-15T16:18:01Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -396,24 +432,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6440,
-    "updated_at": "2026-09-15T14:58:58Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6238,
-    "updated_at": "2026-09-15T15:52:48Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
     "description": "Recursive Abstractive Processing for Tree-Organized Retrieval - Neuron PHP Framework",
     "id": "neuron-core/raptor-retrieval",
     "language": "PHP",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T13:51:00Z",
     "url": "https://github.com/sh1v-max/AI-Backend"
-  },
-  {
-    "description": "Modular ML pipeline designed to classify notarial documents into predefined categories using LLM-based Retrieval-Augment",
-    "id": "nata-kostina/llm-classification-of-notarial-documents",
-    "language": "Python",
-    "name": "nata-kostina/llm-classification-of-notarial-documents",
-    "stars": 0,
-    "updated_at": "2026-09-15T13:41:43Z",
-    "url": "https://github.com/nata-kostina/llm-classification-of-notarial-documents"
-  },
-  {
-    "description": "Scheduled document ingestion into a vector index, with idempotent sync and a retrieval agent \u2014 built in n8n",
-    "id": "Eng-Rami-Khzam/n8n-rag-pipeline",
-    "language": "\u2014",
-    "name": "Eng-Rami-Khzam/n8n-rag-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-15T13:36:21Z",
-    "url": "https://github.com/Eng-Rami-Khzam/n8n-rag-pipeline"
   }
 ]
