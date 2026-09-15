@@ -1,11 +1,101 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1153,
+    "updated_at": "2026-09-15T01:59:54Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "A minimal storage layer for storing large matrices and embeddings",
+    "id": "tuned-org-uk/genegraph-storage",
+    "language": "Rust",
+    "name": "tuned-org-uk/genegraph-storage",
+    "stars": 2,
+    "updated_at": "2026-09-15T01:59:42Z",
+    "url": "https://github.com/tuned-org-uk/genegraph-storage"
+  },
+  {
+    "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
+    "id": "wickra-lib/wickra-genome",
+    "language": "Rust",
+    "name": "wickra-lib/wickra-genome",
+    "stars": 1,
+    "updated_at": "2026-09-15T01:56:41Z",
+    "url": "https://github.com/wickra-lib/wickra-genome"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-15T01:56:07Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "A production-grade vector database built from scratch in Rust \u2014 Flat, IVF, HNSW & PQ indexes, self-hostable via Docker, ",
+    "id": "dhanushkumar-amk/VECTA",
+    "language": "Rust",
+    "name": "dhanushkumar-amk/VECTA",
+    "stars": 1,
+    "updated_at": "2026-09-15T01:54:22Z",
+    "url": "https://github.com/dhanushkumar-amk/VECTA"
+  },
+  {
+    "description": "",
+    "id": "dkylewillis/vera",
+    "language": "Python",
+    "name": "dkylewillis/vera",
+    "stars": 17,
+    "updated_at": "2026-09-15T01:52:13Z",
+    "url": "https://github.com/dkylewillis/vera"
+  },
+  {
+    "description": "LlamaIndex is the document processing platform for AI",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 52162,
+    "updated_at": "2026-09-15T01:48:43Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-15T01:46:43Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1193 questions & 52 RAG types), system design scenarios, arch",
+    "id": "ather-techie/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "ather-techie/rag-interview-system",
+    "stars": 150,
+    "updated_at": "2026-09-15T01:46:39Z",
+    "url": "https://github.com/ather-techie/rag-interview-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T01:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-15T01:41:13Z",
+    "updated_at": "2026-09-15T01:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -31,18 +121,9 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46108,
+    "stars": 46109,
     "updated_at": "2026-09-15T01:39:34Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "LlamaIndex is the document processing platform for AI",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 52162,
-    "updated_at": "2026-09-15T01:39:23Z",
-    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
@@ -52,24 +133,6 @@
     "stars": 120,
     "updated_at": "2026-09-15T01:32:49Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "A minimal storage layer for storing large matrices and embeddings",
-    "id": "tuned-org-uk/genegraph-storage",
-    "language": "Rust",
-    "name": "tuned-org-uk/genegraph-storage",
-    "stars": 2,
-    "updated_at": "2026-09-15T01:32:39Z",
-    "url": "https://github.com/tuned-org-uk/genegraph-storage"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T01:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Point your phone at the dashboard. Get the answer from your car's own manual.  A bilingual, multimodal RAG assistant tha",
@@ -88,6 +151,15 @@
     "stars": 796,
     "updated_at": "2026-09-15T01:27:08Z",
     "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66023,
+    "updated_at": "2026-09-15T01:59:13Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
@@ -225,15 +297,6 @@
     "url": "https://github.com/aziz5971/TalentLens"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-15T01:07:39Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
     "id": "lannyfervent952/fastapi-agent-blueprint",
     "language": "Python",
@@ -293,7 +356,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9263,
-    "updated_at": "2026-09-15T01:45:15Z",
+    "updated_at": "2026-09-15T01:46:00Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-15T00:50:40Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-15T00:47:47Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-09-15T00:46:39Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 1,
-    "updated_at": "2026-09-15T00:46:11Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
-    "id": "leitoooatr/PythonVectorDB",
-    "language": "Python",
-    "name": "leitoooatr/PythonVectorDB",
-    "stars": 2,
-    "updated_at": "2026-09-15T00:46:01Z",
-    "url": "https://github.com/leitoooatr/PythonVectorDB"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
-    "id": "Jeroflo88/Self-Corrective-RAG",
-    "language": "Python",
-    "name": "Jeroflo88/Self-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-15T00:45:00Z",
-    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 257,
-    "updated_at": "2026-09-15T00:42:33Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-09-15T00:41:58Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
   }
 ]
