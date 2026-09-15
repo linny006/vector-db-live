@@ -1,5 +1,68 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-15T10:09:32Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
+    "id": "mdhabibi/llm-search-handbook",
+    "language": "Jupyter Notebook",
+    "name": "mdhabibi/llm-search-handbook",
+    "stars": 3,
+    "updated_at": "2026-09-15T10:06:08Z",
+    "url": "https://github.com/mdhabibi/llm-search-handbook"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1352,
+    "updated_at": "2026-09-15T10:02:23Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
+    "id": "RoxyAPI/ai-spiritual-companion",
+    "language": "TypeScript",
+    "name": "RoxyAPI/ai-spiritual-companion",
+    "stars": 0,
+    "updated_at": "2026-09-15T10:03:15Z",
+    "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T10:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T10:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-powered PDF chatbot built with Next.js and FastAPI, using RAG, vector search, and LLMs to understand documents and pr",
+    "id": "waleedkhokar/pdf-rag-assistant-ai",
+    "language": "TypeScript",
+    "name": "waleedkhokar/pdf-rag-assistant-ai",
+    "stars": 0,
+    "updated_at": "2026-09-15T09:56:59Z",
+    "url": "https://github.com/waleedkhokar/pdf-rag-assistant-ai"
+  },
+  {
     "description": "VoloNexus.AI is a smart scheduling tool that takes the hassle out of managing meetings. It uses AI agents to read emails",
     "id": "sanjay-1458/VoloNexus.AI",
     "language": "TypeScript",
@@ -16,15 +79,6 @@
     "stars": 1477,
     "updated_at": "2026-09-15T09:56:39Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1352,
-    "updated_at": "2026-09-15T09:49:37Z",
-    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
@@ -54,24 +108,6 @@
     "url": "https://github.com/oracle/ai-optimizer"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T09:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T10:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "C# SDK for the Chroma API -- open-source vector database",
     "id": "tryAGI/Chroma",
     "language": "C#",
@@ -86,17 +122,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30696,
-    "updated_at": "2026-09-15T09:52:35Z",
+    "updated_at": "2026-09-15T10:07:01Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-15T09:40:39Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "RAG-EVDA v1.2.0: zero-cost, fully-local AI-search visibility auditor. Real live-harvest corpora + local embeddings (BGE/",
@@ -122,7 +149,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9443,
-    "updated_at": "2026-09-15T09:39:09Z",
+    "updated_at": "2026-09-15T10:06:47Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -133,15 +160,6 @@
     "stars": 4435,
     "updated_at": "2026-09-15T09:37:21Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
-    "id": "mdhabibi/llm-search-handbook",
-    "language": "Jupyter Notebook",
-    "name": "mdhabibi/llm-search-handbook",
-    "stars": 3,
-    "updated_at": "2026-09-15T09:32:07Z",
-    "url": "https://github.com/mdhabibi/llm-search-handbook"
   },
   {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
@@ -185,7 +203,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16812,
-    "updated_at": "2026-09-15T09:58:31Z",
+    "updated_at": "2026-09-15T10:01:29Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-15T08:53:49Z",
     "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-09-15T08:53:18Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-15T08:50:58Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
   }
 ]
