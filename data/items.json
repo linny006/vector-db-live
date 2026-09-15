@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-15T03:45:17Z",
+    "updated_at": "2026-09-15T04:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46113,
+    "updated_at": "2026-09-15T03:53:34Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Self-hosted multimodal RAG cloud memory service \u2014 a shared brain for your AI agents. Multi-agent cross-query, LanceDB + ",
+    "id": "leekkk2/transcendence-memory-server",
+    "language": "Python",
+    "name": "leekkk2/transcendence-memory-server",
+    "stars": 6,
+    "updated_at": "2026-09-15T03:53:10Z",
+    "url": "https://github.com/leekkk2/transcendence-memory-server"
+  },
+  {
+    "description": "Centrality-aware GraphRAG retrieval planner \u2014 drop-in layer over any vector DB. Zero LLM in the query path; MCP server i",
+    "id": "DemigodDSK/hubmesh",
+    "language": "Python",
+    "name": "DemigodDSK/hubmesh",
+    "stars": 2,
+    "updated_at": "2026-09-15T03:47:24Z",
+    "url": "https://github.com/DemigodDSK/hubmesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T03:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Python SDK for Milvus Vector Database",
@@ -45,15 +81,6 @@
     "url": "https://github.com/alibaba/zvec"
   },
   {
-    "description": "Centrality-aware GraphRAG retrieval planner \u2014 drop-in layer over any vector DB. Zero LLM in the query path; MCP server i",
-    "id": "DemigodDSK/hubmesh",
-    "language": "Python",
-    "name": "DemigodDSK/hubmesh",
-    "stars": 2,
-    "updated_at": "2026-09-15T03:38:48Z",
-    "url": "https://github.com/DemigodDSK/hubmesh"
-  },
-  {
     "description": "One memory for every AI agent \u2014 self-hosted long-term memory over MCP/REST for Claude Code, Codex, Cursor, Gemini CLI, V",
     "id": "Masikomoore/agent-memory",
     "language": "JavaScript",
@@ -61,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-09-15T03:38:35Z",
     "url": "https://github.com/Masikomoore/agent-memory"
-  },
-  {
-    "description": "Self-hosted multimodal RAG cloud memory service \u2014 a shared brain for your AI agents. Multi-agent cross-query, LanceDB + ",
-    "id": "leekkk2/transcendence-memory-server",
-    "language": "Python",
-    "name": "leekkk2/transcendence-memory-server",
-    "stars": 6,
-    "updated_at": "2026-09-15T03:35:48Z",
-    "url": "https://github.com/leekkk2/transcendence-memory-server"
   },
   {
     "description": "The Vector Database for Agents & Humans.",
@@ -95,7 +113,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9442,
-    "updated_at": "2026-09-15T03:42:45Z",
+    "updated_at": "2026-09-15T03:57:40Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -106,15 +124,6 @@
     "stars": 2,
     "updated_at": "2026-09-15T03:31:32Z",
     "url": "https://github.com/tuned-org-uk/genegraph-storage"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T03:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "VTS is a tool designed for the transformation and transportation of vectors and unstructured data.",
@@ -205,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T03:07:06Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46113,
-    "updated_at": "2026-09-15T03:05:33Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
@@ -383,7 +383,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8222,
-    "updated_at": "2026-09-15T03:36:08Z",
+    "updated_at": "2026-09-15T03:48:30Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
