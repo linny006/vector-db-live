@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T12:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7085,
+    "updated_at": "2026-09-15T12:30:03Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4435,
+    "updated_at": "2026-09-15T12:29:00Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
+    "id": "oracle/ai-optimizer",
+    "language": "Python",
+    "name": "oracle/ai-optimizer",
+    "stars": 101,
+    "updated_at": "2026-09-15T12:28:48Z",
+    "url": "https://github.com/oracle/ai-optimizer"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 347,
+    "updated_at": "2026-09-15T12:27:52Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46120,
+    "updated_at": "2026-09-15T12:25:36Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13099,
+    "updated_at": "2026-09-15T12:24:22Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-15T12:18:42Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T12:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -18,21 +99,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T12:12:06Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6238,
-    "updated_at": "2026-09-15T12:15:18Z",
+    "updated_at": "2026-09-15T12:29:39Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -81,24 +153,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46119,
-    "updated_at": "2026-09-15T12:01:37Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T12:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
@@ -140,17 +194,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30698,
-    "updated_at": "2026-09-15T12:00:15Z",
+    "updated_at": "2026-09-15T12:28:30Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 347,
-    "updated_at": "2026-09-15T11:40:37Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -167,7 +212,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16813,
-    "updated_at": "2026-09-15T12:14:55Z",
+    "updated_at": "2026-09-15T12:26:18Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59294,
-    "updated_at": "2026-09-15T11:59:28Z",
+    "updated_at": "2026-09-15T12:29:25Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -311,7 +356,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8224,
-    "updated_at": "2026-09-15T12:08:00Z",
+    "updated_at": "2026-09-15T12:30:04Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -322,15 +367,6 @@
     "stars": 24,
     "updated_at": "2026-09-15T11:48:14Z",
     "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7085,
-    "updated_at": "2026-09-15T10:44:08Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
@@ -405,15 +441,6 @@
     "url": "https://github.com/lingxinmind/vecmindb-sdk"
   },
   {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 101,
-    "updated_at": "2026-09-15T12:12:15Z",
-    "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
     "description": "C# SDK for the Chroma API -- open-source vector database",
     "id": "tryAGI/Chroma",
     "language": "C#",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T09:45:02Z",
     "url": "https://github.com/tryAGI/Chroma"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 7,
-    "updated_at": "2026-09-15T09:40:38Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 252,
-    "updated_at": "2026-09-15T09:36:57Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4435,
-    "updated_at": "2026-09-15T12:07:01Z",
-    "url": "https://github.com/crate/crate"
   }
 ]
