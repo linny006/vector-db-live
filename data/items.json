@@ -1,12 +1,21 @@
 [
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-15T13:13:11Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T13:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Modular ML pipeline designed to classify notarial documents into predefined categories using LLM-based Retrieval-Augment",
+    "id": "nata-kostina/llm-classification-of-notarial-documents",
+    "language": "Python",
+    "name": "nata-kostina/llm-classification-of-notarial-documents",
+    "stars": 0,
+    "updated_at": "2026-09-15T13:30:23Z",
+    "url": "https://github.com/nata-kostina/llm-classification-of-notarial-documents"
   },
   {
     "description": "\u7aef\u5230\u7aef RAG \u6587\u6863\u95ee\u7b54 Demo\uff1adocx/pdf \u89e3\u6790 \u2192 \u7ae0\u8282\u611f\u77e5\u5206\u5757 \u2192 Chroma \u5411\u91cf\u68c0\u7d22 \u2192 LLM \u751f\u6210\uff0c\u542b Streamlit \u524d\u7aef\u3002| End-to-end RAG document Q&A demo (LangCha",
@@ -14,8 +23,62 @@
     "language": "Python",
     "name": "lvliyudashuai/rag_demo",
     "stars": 1,
-    "updated_at": "2026-09-15T13:10:06Z",
+    "updated_at": "2026-09-15T13:27:25Z",
     "url": "https://github.com/lvliyudashuai/rag_demo"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 874,
+    "updated_at": "2026-09-15T13:26:53Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46119,
+    "updated_at": "2026-09-15T13:25:36Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5907,
+    "updated_at": "2026-09-15T13:25:28Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "",
+    "id": "bazanov05/semantic-movie-engine",
+    "language": "Python",
+    "name": "bazanov05/semantic-movie-engine",
+    "stars": 0,
+    "updated_at": "2026-09-15T13:24:58Z",
+    "url": "https://github.com/bazanov05/semantic-movie-engine"
+  },
+  {
+    "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, zero depe",
+    "id": "eminsk/nanovector",
+    "language": "C",
+    "name": "eminsk/nanovector",
+    "stars": 7,
+    "updated_at": "2026-09-15T13:24:29Z",
+    "url": "https://github.com/eminsk/nanovector"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6238,
+    "updated_at": "2026-09-15T13:18:22Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -23,8 +86,26 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 3,
-    "updated_at": "2026-09-15T13:09:07Z",
+    "updated_at": "2026-09-15T13:17:59Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T13:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-15T13:13:11Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
@@ -41,26 +122,8 @@
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
     "stars": 1946,
-    "updated_at": "2026-09-15T13:02:10Z",
+    "updated_at": "2026-09-15T13:17:50Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T13:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T13:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RAG-EVDA v1.2.0: zero-cost, fully-local AI-search visibility auditor. Real live-harvest corpora + local embeddings (BGE/",
@@ -130,7 +193,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30696,
+    "stars": 30697,
     "updated_at": "2026-09-15T12:33:55Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -140,7 +203,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8225,
-    "updated_at": "2026-09-15T12:52:56Z",
+    "updated_at": "2026-09-15T13:27:57Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -158,7 +221,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59295,
-    "updated_at": "2026-09-15T12:29:25Z",
+    "updated_at": "2026-09-15T13:29:30Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -178,15 +241,6 @@
     "stars": 101,
     "updated_at": "2026-09-15T12:28:48Z",
     "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46119,
-    "updated_at": "2026-09-15T12:25:36Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -212,17 +266,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1153,
-    "updated_at": "2026-09-15T13:03:32Z",
+    "updated_at": "2026-09-15T13:21:07Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6238,
-    "updated_at": "2026-09-15T13:15:18Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
@@ -266,7 +311,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34577,
-    "updated_at": "2026-09-15T13:12:49Z",
+    "updated_at": "2026-09-15T13:29:29Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -293,17 +338,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9443,
-    "updated_at": "2026-09-15T12:32:48Z",
+    "updated_at": "2026-09-15T13:28:42Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, zero depe",
-    "id": "eminsk/nanovector",
-    "language": "C",
-    "name": "eminsk/nanovector",
-    "stars": 7,
-    "updated_at": "2026-09-15T11:50:21Z",
-    "url": "https://github.com/eminsk/nanovector"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -329,7 +365,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16813,
-    "updated_at": "2026-09-15T13:07:01Z",
+    "updated_at": "2026-09-15T13:25:22Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T11:01:47Z",
     "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-15T11:01:22Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
-    "id": "ermermermermidk/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ermermermermidk/mcp-ai-memory",
-    "stars": 1,
-    "updated_at": "2026-09-15T11:01:15Z",
-    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 24,
-    "updated_at": "2026-09-15T11:48:14Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5907,
-    "updated_at": "2026-09-15T11:44:46Z",
-    "url": "https://github.com/HelixDB/helix-db"
   }
 ]
