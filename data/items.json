@@ -1,12 +1,111 @@
 [
   {
+    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
+    "id": "Tanmoy095/Logiflow-platform",
+    "language": "Go",
+    "name": "Tanmoy095/Logiflow-platform",
+    "stars": 2,
+    "updated_at": "2026-09-15T14:23:25Z",
+    "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 347,
+    "updated_at": "2026-09-15T14:24:58Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 4,
+    "updated_at": "2026-09-15T14:29:51Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "\ud83e\udde0 Predictable, embedded multimodal vector database & offline RAG engine for Edge AI (ARM64 / Zero-OOM). Built in C++20.",
+    "id": "pomagrenate/pomaidb",
+    "language": "C++",
+    "name": "pomagrenate/pomaidb",
+    "stars": 19,
+    "updated_at": "2026-09-15T14:20:59Z",
+    "url": "https://github.com/pomagrenate/pomaidb"
+  },
+  {
+    "description": "One memory for every AI agent \u2014 self-hosted long-term memory over MCP/REST for Claude Code, Codex, Cursor, Gemini CLI, V",
+    "id": "Masikomoore/agent-memory",
+    "language": "JavaScript",
+    "name": "Masikomoore/agent-memory",
+    "stars": 3,
+    "updated_at": "2026-09-15T14:20:00Z",
+    "url": "https://github.com/Masikomoore/agent-memory"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4435,
+    "updated_at": "2026-09-15T14:25:53Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 0,
+    "updated_at": "2026-09-15T14:16:01Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T14:15:31Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T14:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Catches silent embedding-model swaps under a vector index before they corrupt similarity search -- provider-agnostic, ze",
+    "id": "jayblast-spec/embedguard",
+    "language": "TypeScript",
+    "name": "jayblast-spec/embedguard",
+    "stars": 0,
+    "updated_at": "2026-09-15T14:15:26Z",
+    "url": "https://github.com/jayblast-spec/embedguard"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 1890,
-    "updated_at": "2026-09-15T14:11:29Z",
+    "updated_at": "2026-09-15T14:28:52Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1154,
+    "updated_at": "2026-09-15T14:28:47Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -50,7 +149,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-15T14:15:08Z",
+    "updated_at": "2026-09-15T14:29:16Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -63,49 +162,13 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T14:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T14:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6238,
-    "updated_at": "2026-09-15T14:08:18Z",
+    "updated_at": "2026-09-15T14:27:31Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Catches silent embedding-model swaps under a vector index before they corrupt similarity search -- provider-agnostic, ze",
-    "id": "jayblast-spec/embedguard",
-    "language": "TypeScript",
-    "name": "jayblast-spec/embedguard",
-    "stars": 0,
-    "updated_at": "2026-09-15T14:15:26Z",
-    "url": "https://github.com/jayblast-spec/embedguard"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4435,
-    "updated_at": "2026-09-15T14:09:04Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "Recursive Abstractive Processing for Tree-Organized Retrieval - Neuron PHP Framework",
@@ -122,7 +185,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16814,
-    "updated_at": "2026-09-15T13:52:24Z",
+    "updated_at": "2026-09-15T14:29:55Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -315,15 +378,6 @@
     "url": "https://github.com/fewshot-works/academy"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 347,
-    "updated_at": "2026-09-15T12:40:39Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -360,15 +414,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1153,
-    "updated_at": "2026-09-15T14:10:55Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
@@ -392,7 +437,7 @@
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-09-15T14:08:44Z",
+    "updated_at": "2026-09-15T14:19:35Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T12:10:10Z",
     "url": "https://github.com/VIS030/truthlens-ai"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15932,
-    "updated_at": "2026-09-15T11:52:50Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12949,
-    "updated_at": "2026-09-15T12:02:02Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9443,
-    "updated_at": "2026-09-15T13:52:13Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1908,
-    "updated_at": "2026-09-15T11:40:10Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "A multilingual (Indic \u2194 English) weather and crop-risk assistant that combines live weather data, a deterministic hazard",
-    "id": "Blackblitz777/weatherGPT",
-    "language": "Python",
-    "name": "Blackblitz777/weatherGPT",
-    "stars": 0,
-    "updated_at": "2026-09-15T11:17:09Z",
-    "url": "https://github.com/Blackblitz777/weatherGPT"
   }
 ]
