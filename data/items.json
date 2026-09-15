@@ -1,5 +1,86 @@
 [
   {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 0,
+    "updated_at": "2026-09-15T14:55:47Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Open-source vector database and sub-microsecond key-value store in one Go engine \u2014 embed it as a library, run it standal",
+    "id": "rostamlabs/rostam",
+    "language": "Go",
+    "name": "rostamlabs/rostam",
+    "stars": 36,
+    "updated_at": "2026-09-15T14:56:09Z",
+    "url": "https://github.com/rostamlabs/rostam"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16814,
+    "updated_at": "2026-09-15T14:56:50Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 4,
+    "updated_at": "2026-09-15T14:53:03Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
+    "id": "Fractera/fractera-memory-starter",
+    "language": "TypeScript",
+    "name": "Fractera/fractera-memory-starter",
+    "stars": 0,
+    "updated_at": "2026-09-15T14:51:09Z",
+    "url": "https://github.com/Fractera/fractera-memory-starter"
+  },
+  {
+    "description": "Centrality-aware GraphRAG retrieval planner \u2014 drop-in layer over any vector DB. Zero LLM in the query path; MCP server i",
+    "id": "DemigodDSK/hubmesh",
+    "language": "Python",
+    "name": "DemigodDSK/hubmesh",
+    "stars": 2,
+    "updated_at": "2026-09-15T14:51:37Z",
+    "url": "https://github.com/DemigodDSK/hubmesh"
+  },
+  {
+    "description": "[NeurIPS'24] Approximate Nearest Neighbor search using reduced-rank regression, with extremely fast queries, tiny memory",
+    "id": "ejaasaari/lorann",
+    "language": "C++",
+    "name": "ejaasaari/lorann",
+    "stars": 52,
+    "updated_at": "2026-09-15T14:45:39Z",
+    "url": "https://github.com/ejaasaari/lorann"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T14:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T15:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\u4f01\u4e1a\u7ea7\u901a\u7528 RAG \u6587\u6863\u95ee\u7b54\uff1a8 \u79cd\u683c\u5f0f\u89e3\u6790 \u2192 \u7ed3\u6784\u611f\u77e5\u5206\u5757 \u2192 \u5411\u91cf+BM25 \u6df7\u5408\u68c0\u7d22(RRF) \u2192 \u5e26\u5f15\u7528\u751f\u6210\u3002\u542b Streamlit \u754c\u9762\u3001REST API\u3001\u79bb\u7ebf\u8bc4\u4f30\u4e0e\u6d4b\u8bd5\u3002| General-purpose RAG with h",
     "id": "lvliyudashuai/hybrid-rag",
     "language": "Python",
@@ -9,22 +90,13 @@
     "url": "https://github.com/lvliyudashuai/hybrid-rag"
   },
   {
-    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
-    "id": "Fractera/fractera-memory-starter",
-    "language": "TypeScript",
-    "name": "Fractera/fractera-memory-starter",
-    "stars": 0,
-    "updated_at": "2026-09-15T14:39:01Z",
-    "url": "https://github.com/Fractera/fractera-memory-starter"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16814,
-    "updated_at": "2026-09-15T14:38:19Z",
-    "url": "https://github.com/weaviate/weaviate"
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59298,
+    "updated_at": "2026-09-15T14:38:20Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -34,33 +106,6 @@
     "stars": 3,
     "updated_at": "2026-09-15T14:36:59Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 0,
-    "updated_at": "2026-09-15T14:31:17Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T14:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T14:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
@@ -79,15 +124,6 @@
     "stars": 347,
     "updated_at": "2026-09-15T14:24:58Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 4,
-    "updated_at": "2026-09-15T14:41:11Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "\ud83e\udde0 Predictable, embedded multimodal vector database & offline RAG engine for Edge AI (ARM64 / Zero-OOM). Built in C++20.",
@@ -131,7 +167,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8227,
-    "updated_at": "2026-09-15T14:12:01Z",
+    "updated_at": "2026-09-15T14:48:33Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -149,7 +185,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1154,
-    "updated_at": "2026-09-15T14:28:47Z",
+    "updated_at": "2026-09-15T14:59:47Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -158,7 +194,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34578,
-    "updated_at": "2026-09-15T14:10:13Z",
+    "updated_at": "2026-09-15T14:47:28Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -167,7 +203,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6440,
-    "updated_at": "2026-09-15T14:15:23Z",
+    "updated_at": "2026-09-15T14:58:58Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -185,7 +221,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-15T14:43:04Z",
+    "updated_at": "2026-09-15T14:59:54Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -198,21 +234,12 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59297,
-    "updated_at": "2026-09-15T14:38:20Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6238,
-    "updated_at": "2026-09-15T14:41:26Z",
+    "updated_at": "2026-09-15T14:54:22Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30701,
-    "updated_at": "2026-09-15T13:56:15Z",
+    "updated_at": "2026-09-15T14:47:33Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -302,7 +329,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46119,
-    "updated_at": "2026-09-15T13:38:01Z",
+    "updated_at": "2026-09-15T15:00:02Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-15T12:18:42Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1352,
-    "updated_at": "2026-09-15T12:11:56Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "A beginner-to-expert, open-source course on Large Language Models & Semantic Search \u2014 keyword search, embeddings, dense ",
-    "id": "mdhabibi/llm-search-handbook",
-    "language": "Jupyter Notebook",
-    "name": "mdhabibi/llm-search-handbook",
-    "stars": 3,
-    "updated_at": "2026-09-15T12:10:47Z",
-    "url": "https://github.com/mdhabibi/llm-search-handbook"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-09-15T14:19:35Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   }
 ]
