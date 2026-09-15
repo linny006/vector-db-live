@@ -1,5 +1,68 @@
 [
   {
+    "description": "\u4f01\u4e1a\u7ea7\u901a\u7528 RAG \u6587\u6863\u95ee\u7b54\uff1a8 \u79cd\u683c\u5f0f\u89e3\u6790 \u2192 \u7ed3\u6784\u611f\u77e5\u5206\u5757 \u2192 \u5411\u91cf+BM25 \u6df7\u5408\u68c0\u7d22(RRF) \u2192 \u5e26\u5f15\u7528\u751f\u6210\u3002\u542b Streamlit \u754c\u9762\u3001REST API\u3001\u79bb\u7ebf\u8bc4\u4f30\u4e0e\u6d4b\u8bd5\u3002| General-purpose RAG with h",
+    "id": "lvliyudashuai/hybrid-rag",
+    "language": "Python",
+    "name": "lvliyudashuai/hybrid-rag",
+    "stars": 1,
+    "updated_at": "2026-09-15T14:45:03Z",
+    "url": "https://github.com/lvliyudashuai/hybrid-rag"
+  },
+  {
+    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
+    "id": "Fractera/fractera-memory-starter",
+    "language": "TypeScript",
+    "name": "Fractera/fractera-memory-starter",
+    "stars": 0,
+    "updated_at": "2026-09-15T14:39:01Z",
+    "url": "https://github.com/Fractera/fractera-memory-starter"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16814,
+    "updated_at": "2026-09-15T14:38:19Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-15T14:36:59Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 0,
+    "updated_at": "2026-09-15T14:31:17Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T14:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T14:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
     "id": "Tanmoy095/Logiflow-platform",
     "language": "Go",
@@ -23,7 +86,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 4,
-    "updated_at": "2026-09-15T14:29:51Z",
+    "updated_at": "2026-09-15T14:41:11Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -50,35 +113,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4435,
-    "updated_at": "2026-09-15T14:25:53Z",
+    "updated_at": "2026-09-15T14:38:15Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 0,
-    "updated_at": "2026-09-15T14:16:01Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T14:15:31Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T14:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Catches silent embedding-model swaps under a vector index before they corrupt similarity search -- provider-agnostic, ze",
@@ -88,6 +124,15 @@
     "stars": 0,
     "updated_at": "2026-09-15T14:15:26Z",
     "url": "https://github.com/jayblast-spec/embedguard"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8227,
+    "updated_at": "2026-09-15T14:12:01Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -117,15 +162,6 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-15T14:09:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
     "id": "genkit-ai/genkit",
     "language": "TypeScript",
@@ -135,13 +171,13 @@
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
-    "description": "\u4f01\u4e1a\u7ea7\u901a\u7528 RAG \u6587\u6863\u95ee\u7b54\uff1a8 \u79cd\u683c\u5f0f\u89e3\u6790 \u2192 \u7ed3\u6784\u611f\u77e5\u5206\u5757 \u2192 \u5411\u91cf+BM25 \u6df7\u5408\u68c0\u7d22(RRF) \u2192 \u5e26\u5f15\u7528\u751f\u6210\u3002\u542b Streamlit \u754c\u9762\u3001REST API\u3001\u79bb\u7ebf\u8bc4\u4f30\u4e0e\u6d4b\u8bd5\u3002| General-purpose RAG with h",
-    "id": "lvliyudashuai/hybrid-rag",
-    "language": "Python",
-    "name": "lvliyudashuai/hybrid-rag",
-    "stars": 1,
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7086,
     "updated_at": "2026-09-15T14:05:48Z",
-    "url": "https://github.com/lvliyudashuai/hybrid-rag"
+    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -149,7 +185,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-15T14:29:16Z",
+    "updated_at": "2026-09-15T14:43:04Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -162,13 +198,31 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59297,
+    "updated_at": "2026-09-15T14:38:20Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6238,
-    "updated_at": "2026-09-15T14:27:31Z",
+    "updated_at": "2026-09-15T14:41:26Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30701,
+    "updated_at": "2026-09-15T13:56:15Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Recursive Abstractive Processing for Tree-Organized Retrieval - Neuron PHP Framework",
@@ -176,17 +230,8 @@
     "language": "PHP",
     "name": "neuron-core/raptor-retrieval",
     "stars": 9,
-    "updated_at": "2026-09-15T13:53:01Z",
+    "updated_at": "2026-09-15T14:44:01Z",
     "url": "https://github.com/neuron-core/raptor-retrieval"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16814,
-    "updated_at": "2026-09-15T14:29:55Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
@@ -205,24 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T13:50:10Z",
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8226,
-    "updated_at": "2026-09-15T14:12:01Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30699,
-    "updated_at": "2026-09-15T13:56:15Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Modular ML pipeline designed to classify notarial documents into predefined categories using LLM-based Retrieval-Augment",
@@ -261,15 +288,6 @@
     "url": "https://github.com/Ogeanni/kira"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59296,
-    "updated_at": "2026-09-15T14:00:31Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
@@ -293,7 +311,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5907,
-    "updated_at": "2026-09-15T13:25:28Z",
+    "updated_at": "2026-09-15T14:37:04Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -378,15 +396,6 @@
     "url": "https://github.com/fewshot-works/academy"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7085,
-    "updated_at": "2026-09-15T14:05:48Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
     "id": "oracle/ai-optimizer",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 8,
     "updated_at": "2026-09-15T14:19:35Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Evidence-aware RAG system that detects conflicting claims across multiple documents and generates source-grounded answer",
-    "id": "VIS030/truthlens-ai",
-    "language": "Python",
-    "name": "VIS030/truthlens-ai",
-    "stars": 0,
-    "updated_at": "2026-09-15T12:10:10Z",
-    "url": "https://github.com/VIS030/truthlens-ai"
   }
 ]
