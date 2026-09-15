@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-15 22:00 UTC
+> ⏰ Last updated: 2026-09-15 22:06 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-15 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1154 | Java | 2026-09-15 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 3 | [henny-bee/Turbovec-MCP-Tiar](https://github.com/henny-bee/Turbovec-MCP-Tiar) | 5 | Python | 2026-09-15 | Turbovec MCP Server: A local Retrieval-Augmented Generation (RAG) tool that allows AI to seamlessly read, chunk, remembe |
-| 4 | [sharfuddin18/Codemaster-Ai](https://github.com/sharfuddin18/Codemaster-Ai) | 2 | Python | 2026-09-15 | Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your  |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-15 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30705 | Python | 2026-09-15 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 7 | [Ahmed-Maher77/AI-Documentation-Assistant___Agentic-RAG-Style-Retrieval-Assistant](https://github.com/Ahmed-Maher77/AI-Documentation-Assistant___Agentic-RAG-Style-Retrieval-Assistant) | 0 | Python | 2026-09-15 | A lightweight agentic RAG-style chatbot that answers questions about LangChain using retrieved documentation as the prim |
-| 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-15 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 9 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 5 | Rust | 2026-09-15 |  Cognitive Memory Architecture for Agents |
-| 10 | [Tibab222/cvMaker](https://github.com/Tibab222/cvMaker) | 12 | TypeScript | 2026-09-15 | An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match |
-| 11 | [regabbb22/Flipkart-Product-Recommender-RAG](https://github.com/regabbb22/Flipkart-Product-Recommender-RAG) | 3 | Python | 2026-09-15 | 🛒 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de |
-| 12 | [shiro1707778/episodic-memory-pipeline](https://github.com/shiro1707778/episodic-memory-pipeline) | 1 | Python | 2026-09-15 | 🧠 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring |
-| 13 | [ibrahima0101/python-ai-chatbot-huggingface](https://github.com/ibrahima0101/python-ai-chatbot-huggingface) | 0 | Python | 2026-09-15 | 🤖 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning |
-| 14 | [arpan10000/simple-rag-pipeline-demo](https://github.com/arpan10000/simple-rag-pipeline-demo) | 2 | Jupyter Notebook | 2026-09-15 | 🌌 Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r |
-| 15 | [api-evangelist/ragflow](https://github.com/api-evangelist/ragflow) | 0 | — | 2026-09-15 | RAGFlow — independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev |
-| 16 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-09-15 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 17 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9442 | Rust | 2026-09-15 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
-| 18 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34581 | Rust | 2026-09-15 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 1 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 34582 | Rust | 2026-09-15 | Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-15 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-15 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1154 | Java | 2026-09-15 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 5 | [henny-bee/Turbovec-MCP-Tiar](https://github.com/henny-bee/Turbovec-MCP-Tiar) | 5 | Python | 2026-09-15 | Turbovec MCP Server: A local Retrieval-Augmented Generation (RAG) tool that allows AI to seamlessly read, chunk, remembe |
+| 6 | [sharfuddin18/Codemaster-Ai](https://github.com/sharfuddin18/Codemaster-Ai) | 2 | Python | 2026-09-15 | Codemaster-AI is a powerful, local-first coding assistant designed to live directly within your terminal, ensuring your  |
+| 7 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30705 | Python | 2026-09-15 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 8 | [Ahmed-Maher77/AI-Documentation-Assistant___Agentic-RAG-Style-Retrieval-Assistant](https://github.com/Ahmed-Maher77/AI-Documentation-Assistant___Agentic-RAG-Style-Retrieval-Assistant) | 0 | Python | 2026-09-15 | A lightweight agentic RAG-style chatbot that answers questions about LangChain using retrieved documentation as the prim |
+| 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-15 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 10 | [Cognilogical/NeuroStrata](https://github.com/Cognilogical/NeuroStrata) | 5 | Rust | 2026-09-15 |  Cognitive Memory Architecture for Agents |
+| 11 | [Tibab222/cvMaker](https://github.com/Tibab222/cvMaker) | 12 | TypeScript | 2026-09-15 | An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match |
+| 12 | [regabbb22/Flipkart-Product-Recommender-RAG](https://github.com/regabbb22/Flipkart-Product-Recommender-RAG) | 3 | Python | 2026-09-15 | 🛒 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de |
+| 13 | [shiro1707778/episodic-memory-pipeline](https://github.com/shiro1707778/episodic-memory-pipeline) | 1 | Python | 2026-09-15 | 🧠 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring |
+| 14 | [ibrahima0101/python-ai-chatbot-huggingface](https://github.com/ibrahima0101/python-ai-chatbot-huggingface) | 0 | Python | 2026-09-15 | 🤖 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning |
+| 15 | [arpan10000/simple-rag-pipeline-demo](https://github.com/arpan10000/simple-rag-pipeline-demo) | 2 | Jupyter Notebook | 2026-09-15 | 🌌 Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r |
+| 16 | [api-evangelist/ragflow](https://github.com/api-evangelist/ragflow) | 0 | — | 2026-09-15 | RAGFlow — independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev |
+| 17 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-09-15 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 18 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9442 | Rust | 2026-09-15 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
 | 19 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11430 | Rust | 2026-09-15 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 20 | [arnsri33/embedflow](https://github.com/arnsri33/embedflow) | 51 | Python | 2026-09-15 | Zero downtime embedding upgrades |
 | 21 | [ArcavenAE/flyloft](https://github.com/ArcavenAE/flyloft) | 0 | Rust | 2026-09-15 | Curated, graph-aware retrieval substrate for human-AI teams — RAG + reranker + curation surface. The casebook to kos's p |
