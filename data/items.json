@@ -1,11 +1,47 @@
 [
   {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 4,
+    "updated_at": "2026-09-15T16:44:53Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-15T16:37:30Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9264,
+    "updated_at": "2026-09-15T16:35:41Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T16:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-15T16:30:19Z",
+    "updated_at": "2026-09-15T16:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6238,
-    "updated_at": "2026-09-15T16:29:39Z",
+    "updated_at": "2026-09-15T16:39:01Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -54,15 +90,6 @@
     "url": "https://github.com/KonNik88/ml-research-radar"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T16:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -79,15 +106,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T16:11:12Z",
     "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-15T16:09:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The AI search platform",
@@ -158,7 +176,7 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2095,
-    "updated_at": "2026-09-15T15:50:43Z",
+    "updated_at": "2026-09-15T16:38:28Z",
     "url": "https://github.com/neuron-core/neuron-ai"
   },
   {
@@ -169,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T15:46:31Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 4,
-    "updated_at": "2026-09-15T16:28:18Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -194,7 +203,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11428,
-    "updated_at": "2026-09-15T16:29:40Z",
+    "updated_at": "2026-09-15T16:44:39Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -293,7 +302,7 @@
     "language": "Go",
     "name": "rostamlabs/rostam",
     "stars": 36,
-    "updated_at": "2026-09-15T14:56:09Z",
+    "updated_at": "2026-09-15T16:43:21Z",
     "url": "https://github.com/rostamlabs/rostam"
   },
   {
@@ -410,7 +419,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8227,
-    "updated_at": "2026-09-15T15:58:07Z",
+    "updated_at": "2026-09-15T16:32:07Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -419,7 +428,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1154,
-    "updated_at": "2026-09-15T15:57:59Z",
+    "updated_at": "2026-09-15T16:44:13Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 9,
     "updated_at": "2026-09-15T14:44:01Z",
     "url": "https://github.com/neuron-core/raptor-retrieval"
-  },
-  {
-    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
-    "id": "sh1v-max/AI-Backend",
-    "language": "TypeScript",
-    "name": "sh1v-max/AI-Backend",
-    "stars": 0,
-    "updated_at": "2026-09-15T13:51:00Z",
-    "url": "https://github.com/sh1v-max/AI-Backend"
   }
 ]
