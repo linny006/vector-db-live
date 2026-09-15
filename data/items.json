@@ -1,12 +1,66 @@
 [
   {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1352,
+    "updated_at": "2026-09-15T18:44:05Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 874,
+    "updated_at": "2026-09-15T18:41:58Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 23,
+    "updated_at": "2026-09-15T18:44:03Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30703,
+    "updated_at": "2026-09-15T18:38:42Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T18:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-15T18:30:24Z",
+    "updated_at": "2026-09-15T18:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8227,
+    "updated_at": "2026-09-15T18:28:39Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -18,7 +72,7 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "(module) A Go embedded database with Redis-like commands, JSON field operations, and semantic vector search",
+    "description": "(module) A Go embedded database with a shared socket daemon, JSON field operations, and semantic vector search",
     "id": "pardnchiu/ToriiDB",
     "language": "Go",
     "name": "pardnchiu/ToriiDB",
@@ -63,15 +117,6 @@
     "url": "https://github.com/zaidwhy/personal-llm"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T18:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-hosted multimodal RAG cloud memory service \u2014 a shared brain for your AI agents. Multi-agent cross-query, LanceDB + ",
     "id": "leekkk2/transcendence-memory-server",
     "language": "Python",
@@ -90,15 +135,6 @@
     "url": "https://github.com/amrlazw/hermes-fleet-memory"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 874,
-    "updated_at": "2026-09-15T18:23:07Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -106,15 +142,6 @@
     "stars": 3,
     "updated_at": "2026-09-15T18:09:28Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1352,
-    "updated_at": "2026-09-15T18:09:06Z",
-    "url": "https://github.com/infinispan/infinispan"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -185,7 +212,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46121,
-    "updated_at": "2026-09-15T17:55:33Z",
+    "updated_at": "2026-09-15T18:39:36Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -270,21 +297,12 @@
     "url": "https://github.com/paradedb/paradedb"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30704,
-    "updated_at": "2026-09-15T18:15:24Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16814,
-    "updated_at": "2026-09-15T18:30:05Z",
+    "updated_at": "2026-09-15T18:32:58Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -410,7 +428,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5907,
-    "updated_at": "2026-09-15T17:20:53Z",
+    "updated_at": "2026-09-15T18:41:08Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-15T18:03:09Z",
+    "updated_at": "2026-09-15T18:35:36Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T15:50:46Z",
     "url": "https://github.com/jalasamir21/Conversational-RAG-PDF-Assistant"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2095,
-    "updated_at": "2026-09-15T18:00:23Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-15T15:46:31Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   }
 ]
