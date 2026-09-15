@@ -1,11 +1,74 @@
 [
   {
+    "description": "\u7aef\u5230\u7aef RAG \u6587\u6863\u95ee\u7b54 Demo\uff1adocx/pdf \u89e3\u6790 \u2192 \u7ae0\u8282\u611f\u77e5\u5206\u5757 \u2192 Chroma \u5411\u91cf\u68c0\u7d22 \u2192 LLM \u751f\u6210\uff0c\u542b Streamlit \u524d\u7aef\u3002| End-to-end RAG document Q&A demo (LangCha",
+    "id": "lvliyudashuai/rag_demo",
+    "language": "Python",
+    "name": "lvliyudashuai/rag_demo",
+    "stars": 1,
+    "updated_at": "2026-09-15T12:59:26Z",
+    "url": "https://github.com/lvliyudashuai/rag_demo"
+  },
+  {
+    "description": "RAG-EVDA v1.2.0: zero-cost, fully-local AI-search visibility auditor. Real live-harvest corpora + local embeddings (BGE/",
+    "id": "dipakjad1993/RAG-Corpus-Entity-Vector-Distance-Auditor",
+    "language": "Python",
+    "name": "dipakjad1993/RAG-Corpus-Entity-Vector-Distance-Auditor",
+    "stars": 1,
+    "updated_at": "2026-09-15T12:59:18Z",
+    "url": "https://github.com/dipakjad1993/RAG-Corpus-Entity-Vector-Distance-Auditor"
+  },
+  {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1477,
+    "updated_at": "2026-09-15T12:54:01Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
+    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
+    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "language": "TypeScript",
+    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
+    "stars": 0,
+    "updated_at": "2026-09-15T12:51:42Z",
+    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
+  },
+  {
+    "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, epi",
+    "id": "NirDiamant/Agent_Memory_Techniques",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/Agent_Memory_Techniques",
+    "stars": 1058,
+    "updated_at": "2026-09-15T12:51:31Z",
+    "url": "https://github.com/NirDiamant/Agent_Memory_Techniques"
+  },
+  {
+    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
+    "id": "NirDiamant/RAG_Techniques",
+    "language": "Jupyter Notebook",
+    "name": "NirDiamant/RAG_Techniques",
+    "stars": 29489,
+    "updated_at": "2026-09-15T12:51:09Z",
+    "url": "https://github.com/NirDiamant/RAG_Techniques"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T12:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-15T12:45:22Z",
+    "updated_at": "2026-09-15T13:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,15 +90,6 @@
     "url": "https://github.com/fewshot-works/academy"
   },
   {
-    "description": "\ud83d\udee1\ufe0f CMatrix is an agentic red-team platform for running controlled, human-in-the-loop security simulations across modern ",
-    "id": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "language": "TypeScript",
-    "name": "nishan-paul-hello/cmatrix-agentic-red-team",
-    "stars": 0,
-    "updated_at": "2026-09-15T12:41:21Z",
-    "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
-  },
-  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -54,30 +108,12 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "RAG-EVDA v1.2.0: zero-cost, fully-local AI-search visibility auditor. Real live-harvest corpora + local embeddings (BGE/",
-    "id": "dipakjad1993/RAG-Corpus-Entity-Vector-Distance-Auditor",
-    "language": "Python",
-    "name": "dipakjad1993/RAG-Corpus-Entity-Vector-Distance-Auditor",
-    "stars": 1,
-    "updated_at": "2026-09-15T12:32:45Z",
-    "url": "https://github.com/dipakjad1993/RAG-Corpus-Entity-Vector-Distance-Auditor"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T12:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8225,
-    "updated_at": "2026-09-15T12:42:39Z",
+    "updated_at": "2026-09-15T12:52:56Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -88,6 +124,15 @@
     "stars": 7085,
     "updated_at": "2026-09-15T12:36:00Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59295,
+    "updated_at": "2026-09-15T12:29:25Z",
+    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
@@ -140,7 +185,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1153,
-    "updated_at": "2026-09-15T12:13:05Z",
+    "updated_at": "2026-09-15T12:48:42Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6238,
-    "updated_at": "2026-09-15T12:43:03Z",
+    "updated_at": "2026-09-15T12:58:06Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -193,7 +238,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34573,
+    "stars": 34577,
     "updated_at": "2026-09-15T12:03:10Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -266,17 +311,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16813,
-    "updated_at": "2026-09-15T12:38:37Z",
+    "updated_at": "2026-09-15T12:59:02Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1477,
-    "updated_at": "2026-09-15T11:31:56Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
     "description": "Production RAG pipeline + multi-agent system for e-commerce analytics. Embeddings \u00b7 Pinecone \u00b7 MCP \u00b7 GPT-4o-mini \u00b7 Anoma",
@@ -302,7 +338,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11427,
-    "updated_at": "2026-09-15T12:40:48Z",
+    "updated_at": "2026-09-15T12:52:20Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -378,15 +414,6 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59294,
-    "updated_at": "2026-09-15T12:29:25Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
     "id": "Cognipeer/console",
     "language": "TypeScript",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T10:03:15Z",
     "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
-  },
-  {
-    "description": "AI-powered PDF chatbot built with Next.js and FastAPI, using RAG, vector search, and LLMs to understand documents and pr",
-    "id": "waleedkhokar/pdf-rag-assistant-ai",
-    "language": "TypeScript",
-    "name": "waleedkhokar/pdf-rag-assistant-ai",
-    "stars": 0,
-    "updated_at": "2026-09-15T09:56:59Z",
-    "url": "https://github.com/waleedkhokar/pdf-rag-assistant-ai"
-  },
-  {
-    "description": "VoloNexus.AI is a smart scheduling tool that takes the hassle out of managing meetings. It uses AI agents to read emails",
-    "id": "sanjay-1458/VoloNexus.AI",
-    "language": "TypeScript",
-    "name": "sanjay-1458/VoloNexus.AI",
-    "stars": 1,
-    "updated_at": "2026-09-15T09:56:52Z",
-    "url": "https://github.com/sanjay-1458/VoloNexus.AI"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9264,
-    "updated_at": "2026-09-15T11:35:35Z",
-    "url": "https://github.com/paradedb/paradedb"
   }
 ]
