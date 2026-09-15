@@ -1,11 +1,56 @@
 [
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46120,
+    "updated_at": "2026-09-15T11:27:42Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1890,
+    "updated_at": "2026-09-15T11:25:53Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Production RAG pipeline + multi-agent system for e-commerce analytics. Embeddings \u00b7 Pinecone \u00b7 MCP \u00b7 GPT-4o-mini \u00b7 Anoma",
+    "id": "Ogeanni/kira",
+    "language": "Python",
+    "name": "Ogeanni/kira",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:22:02Z",
+    "url": "https://github.com/Ogeanni/kira"
+  },
+  {
+    "description": "A multilingual (Indic \u2194 English) weather and crop-risk assistant that combines live weather data, a deterministic hazard",
+    "id": "Blackblitz777/weatherGPT",
+    "language": "Python",
+    "name": "Blackblitz777/weatherGPT",
+    "stars": 0,
+    "updated_at": "2026-09-15T11:17:09Z",
+    "url": "https://github.com/Blackblitz777/weatherGPT"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T11:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-15T11:15:18Z",
+    "updated_at": "2026-09-15T11:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -32,7 +77,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16813,
-    "updated_at": "2026-09-15T11:13:27Z",
+    "updated_at": "2026-09-15T11:19:01Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -43,15 +88,6 @@
     "stars": 13,
     "updated_at": "2026-09-15T11:13:27Z",
     "url": "https://github.com/pinecone-io/pulumi-pinecone-byoc"
-  },
-  {
-    "description": "A multilingual (Indic \u2194 English) weather and crop-risk assistant that combines live weather data, a deterministic hazard",
-    "id": "Blackblitz777/weatherGPT",
-    "language": "Python",
-    "name": "Blackblitz777/weatherGPT",
-    "stars": 0,
-    "updated_at": "2026-09-15T11:12:22Z",
-    "url": "https://github.com/Blackblitz777/weatherGPT"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -77,7 +113,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6238,
-    "updated_at": "2026-09-15T11:11:06Z",
+    "updated_at": "2026-09-15T11:29:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -153,15 +189,6 @@
     "url": "https://github.com/alibaba/zvec"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T11:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
@@ -176,26 +203,17 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8224,
-    "updated_at": "2026-09-15T11:10:55Z",
+    "updated_at": "2026-09-15T11:29:07Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46120,
-    "updated_at": "2026-09-15T10:56:44Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Production RAG pipeline + multi-agent system for e-commerce analytics. Embeddings \u00b7 Pinecone \u00b7 MCP \u00b7 GPT-4o-mini \u00b7 Anoma",
-    "id": "Ogeanni/kira",
-    "language": "Python",
-    "name": "Ogeanni/kira",
-    "stars": 0,
-    "updated_at": "2026-09-15T10:55:51Z",
-    "url": "https://github.com/Ogeanni/kira"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34572,
+    "updated_at": "2026-09-15T10:48:08Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
@@ -239,7 +257,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30697,
-    "updated_at": "2026-09-15T10:07:01Z",
+    "updated_at": "2026-09-15T11:29:08Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -302,7 +320,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9264,
-    "updated_at": "2026-09-15T09:54:45Z",
+    "updated_at": "2026-09-15T11:27:16Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -373,7 +391,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35654,
+    "stars": 35655,
     "updated_at": "2026-09-15T09:32:00Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T09:15:17Z",
     "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 1,
-    "updated_at": "2026-09-15T09:13:17Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-09-15T09:12:52Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
   }
 ]
