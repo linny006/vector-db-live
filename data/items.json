@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-15T04:15:20Z",
+    "updated_at": "2026-09-15T04:30:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production RAG pipeline + multi-agent system for e-commerce analytics. Embeddings \u00b7 Pinecone \u00b7 MCP \u00b7 GPT-4o-mini \u00b7 Anoma",
+    "id": "Ogeanni/kira",
+    "language": "Python",
+    "name": "Ogeanni/kira",
+    "stars": 0,
+    "updated_at": "2026-09-15T04:29:27Z",
+    "url": "https://github.com/Ogeanni/kira"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 95,
+    "updated_at": "2026-09-15T04:28:14Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-15T04:28:04Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-09-15T04:27:55Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-09-15T04:24:46Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T04:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -16,15 +70,6 @@
     "stars": 1910,
     "updated_at": "2026-09-15T04:13:15Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-15T04:11:29Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -43,24 +88,6 @@
     "stars": 4,
     "updated_at": "2026-09-15T04:05:10Z",
     "url": "https://github.com/fewshot-works/academy"
-  },
-  {
-    "description": "Production RAG pipeline + multi-agent system for e-commerce analytics. Embeddings \u00b7 Pinecone \u00b7 MCP \u00b7 GPT-4o-mini \u00b7 Anoma",
-    "id": "Ogeanni/kira",
-    "language": "Python",
-    "name": "Ogeanni/kira",
-    "stars": 0,
-    "updated_at": "2026-09-15T04:04:27Z",
-    "url": "https://github.com/Ogeanni/kira"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T04:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -112,7 +139,7 @@
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15924,
+    "stars": 15926,
     "updated_at": "2026-09-15T03:38:52Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -121,7 +148,7 @@
     "id": "Masikomoore/agent-memory",
     "language": "JavaScript",
     "name": "Masikomoore/agent-memory",
-    "stars": 2,
+    "stars": 3,
     "updated_at": "2026-09-15T03:38:35Z",
     "url": "https://github.com/Masikomoore/agent-memory"
   },
@@ -410,7 +437,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8222,
-    "updated_at": "2026-09-15T03:48:30Z",
+    "updated_at": "2026-09-15T04:18:52Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-15T02:52:54Z",
     "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
-    "id": "Anonymousforareason111/hybrid-orchestrator",
-    "language": "Python",
-    "name": "Anonymousforareason111/hybrid-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-09-15T02:51:42Z",
-    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-  },
-  {
-    "description": "Time as geometry for vector search: moments become angles, durations become arcs, so a vector database can answer *when*",
-    "id": "robbybrodie/embeddingspin",
-    "language": "Python",
-    "name": "robbybrodie/embeddingspin",
-    "stars": 1,
-    "updated_at": "2026-09-15T02:48:53Z",
-    "url": "https://github.com/robbybrodie/embeddingspin"
-  },
-  {
-    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
-    "id": "ELSAKKK/mnemos-mcp",
-    "language": "Python",
-    "name": "ELSAKKK/mnemos-mcp",
-    "stars": 5,
-    "updated_at": "2026-09-15T02:47:30Z",
-    "url": "https://github.com/ELSAKKK/mnemos-mcp"
   }
 ]
