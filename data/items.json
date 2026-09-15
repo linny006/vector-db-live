@@ -1,5 +1,77 @@
 [
   {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 4,
+    "updated_at": "2026-09-15T15:29:04Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 23,
+    "updated_at": "2026-09-15T15:23:30Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "AI-powered legal SaaS for Brazilian lawyers, with client management, legal document analysis, RAG agents, WhatsApp CRM, ",
+    "id": "yagosamu/juri_ai",
+    "language": "HTML",
+    "name": "yagosamu/juri_ai",
+    "stars": 0,
+    "updated_at": "2026-09-15T15:18:54Z",
+    "url": "https://github.com/yagosamu/juri_ai"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59298,
+    "updated_at": "2026-09-15T15:24:54Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "Multi-tenant RAG platform \u2014 AI document intelligence with hybrid search, LLM failover, and source attribution. Built wit",
+    "id": "nicuk/docsflow",
+    "language": "TypeScript",
+    "name": "nicuk/docsflow",
+    "stars": 2,
+    "updated_at": "2026-09-15T15:18:42Z",
+    "url": "https://github.com/nicuk/docsflow"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1946,
+    "updated_at": "2026-09-15T15:18:41Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T15:15:30Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T15:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -18,15 +90,6 @@
     "url": "https://github.com/nishan-paul-hello/cmatrix-agentic-red-team"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T15:09:49Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -41,7 +104,7 @@
     "language": "Rust",
     "name": "taladb/taladb",
     "stars": 4,
-    "updated_at": "2026-09-15T15:06:05Z",
+    "updated_at": "2026-09-15T15:16:31Z",
     "url": "https://github.com/taladb/taladb"
   },
   {
@@ -54,13 +117,13 @@
     "url": "https://github.com/maximilien/weave-cli"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T15:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46119,
+    "updated_at": "2026-09-15T15:00:02Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
@@ -86,17 +149,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16814,
-    "updated_at": "2026-09-15T15:03:08Z",
+    "updated_at": "2026-09-15T15:26:27Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 4,
-    "updated_at": "2026-09-15T15:09:35Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
@@ -104,7 +158,7 @@
     "language": "TypeScript",
     "name": "Fractera/fractera-memory-starter",
     "stars": 0,
-    "updated_at": "2026-09-15T14:51:09Z",
+    "updated_at": "2026-09-15T15:20:42Z",
     "url": "https://github.com/Fractera/fractera-memory-starter"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-15T14:45:03Z",
     "url": "https://github.com/lvliyudashuai/hybrid-rag"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59298,
-    "updated_at": "2026-09-15T14:38:20Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
@@ -212,7 +257,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1154,
-    "updated_at": "2026-09-15T15:13:11Z",
+    "updated_at": "2026-09-15T15:30:21Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -266,7 +311,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6238,
-    "updated_at": "2026-09-15T15:08:34Z",
+    "updated_at": "2026-09-15T15:29:50Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -342,21 +387,12 @@
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46119,
-    "updated_at": "2026-09-15T15:00:02Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5907,
-    "updated_at": "2026-09-15T14:37:04Z",
+    "updated_at": "2026-09-15T15:19:29Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -387,15 +423,6 @@
     "url": "https://github.com/feather-store/feather"
   },
   {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1946,
-    "updated_at": "2026-09-15T15:09:47Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
     "description": "RAG-EVDA v1.2.0: zero-cost, fully-local AI-search visibility auditor. Real live-harvest corpora + local embeddings (BGE/",
     "id": "dipakjad1993/RAG-Corpus-Entity-Vector-Distance-Auditor",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1060,
     "updated_at": "2026-09-15T12:51:31Z",
     "url": "https://github.com/NirDiamant/Agent_Memory_Techniques"
-  },
-  {
-    "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique h",
-    "id": "NirDiamant/RAG_Techniques",
-    "language": "Jupyter Notebook",
-    "name": "NirDiamant/RAG_Techniques",
-    "stars": 29490,
-    "updated_at": "2026-09-15T12:51:09Z",
-    "url": "https://github.com/NirDiamant/RAG_Techniques"
-  },
-  {
-    "description": "Free, local-first, chapter-wise curriculum for LLMs, Vector DBs, RAG & Agents \u2014 from zero to your first AI agent.",
-    "id": "fewshot-works/academy",
-    "language": "TypeScript",
-    "name": "fewshot-works/academy",
-    "stars": 4,
-    "updated_at": "2026-09-15T12:42:29Z",
-    "url": "https://github.com/fewshot-works/academy"
-  },
-  {
-    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 101,
-    "updated_at": "2026-09-15T12:28:48Z",
-    "url": "https://github.com/oracle/ai-optimizer"
   }
 ]
