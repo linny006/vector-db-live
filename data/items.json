@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-15T02:13:08Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-09-15T02:29:46Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
   },
   {
     "description": "A production-grade vector database built from scratch in Rust \u2014 Flat, IVF, HNSW & PQ indexes, self-hostable via Docker, ",
@@ -14,8 +14,89 @@
     "language": "Rust",
     "name": "dhanushkumar-amk/VECTA",
     "stars": 1,
-    "updated_at": "2026-09-15T02:07:37Z",
+    "updated_at": "2026-09-15T02:26:21Z",
     "url": "https://github.com/dhanushkumar-amk/VECTA"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 95,
+    "updated_at": "2026-09-15T02:26:14Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-09-15T02:25:57Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9263,
+    "updated_at": "2026-09-15T02:24:02Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Time as geometry for vector search: moments become angles, durations become arcs, so a vector database can answer *when*",
+    "id": "robbybrodie/embeddingspin",
+    "language": "Python",
+    "name": "robbybrodie/embeddingspin",
+    "stars": 0,
+    "updated_at": "2026-09-15T02:20:59Z",
+    "url": "https://github.com/robbybrodie/embeddingspin"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46112,
+    "updated_at": "2026-09-15T02:19:34Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Zero-bloat distributed vector memory, hardware-enforced domain firewalls, and NAT-traversing execution mesh for multi-in",
+    "id": "amrlazw/hermes-fleet-memory",
+    "language": "Python",
+    "name": "amrlazw/hermes-fleet-memory",
+    "stars": 9,
+    "updated_at": "2026-09-15T02:17:55Z",
+    "url": "https://github.com/amrlazw/hermes-fleet-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-15T02:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-15T02:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-15T02:13:08Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -32,7 +113,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1153,
-    "updated_at": "2026-09-15T02:04:25Z",
+    "updated_at": "2026-09-15T02:25:54Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -41,35 +122,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9442,
-    "updated_at": "2026-09-15T02:06:48Z",
+    "updated_at": "2026-09-15T02:19:47Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46110,
-    "updated_at": "2026-09-15T02:13:36Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-15T02:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-15T02:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A minimal storage layer for storing large matrices and embeddings",
@@ -149,7 +203,7 @@
     "language": "JavaScript",
     "name": "nehalvaghasiya/agentic-rag",
     "stars": 0,
-    "updated_at": "2026-09-15T01:39:51Z",
+    "updated_at": "2026-09-15T02:28:36Z",
     "url": "https://github.com/nehalvaghasiya/agentic-rag"
   },
   {
@@ -158,7 +212,7 @@
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 120,
-    "updated_at": "2026-09-15T01:32:49Z",
+    "updated_at": "2026-09-15T02:17:04Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Swift",
     "name": "christopherkarani/Wax",
     "stars": 796,
-    "updated_at": "2026-09-15T01:27:08Z",
+    "updated_at": "2026-09-15T02:20:00Z",
     "url": "https://github.com/christopherkarani/Wax"
   },
   {
@@ -360,15 +414,6 @@
     "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9263,
-    "updated_at": "2026-09-15T01:46:00Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
     "id": "decided-indication109/AI-Engineer-in-90-Days",
     "language": "Mermaid",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-15T00:59:28Z",
     "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-09-15T00:58:29Z",
-    "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
-    "id": "Anonymousforareason111/hybrid-orchestrator",
-    "language": "Python",
-    "name": "Anonymousforareason111/hybrid-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-09-15T00:57:10Z",
-    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-  },
-  {
-    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
-    "id": "ELSAKKK/mnemos-mcp",
-    "language": "Python",
-    "name": "ELSAKKK/mnemos-mcp",
-    "stars": 5,
-    "updated_at": "2026-09-15T00:52:37Z",
-    "url": "https://github.com/ELSAKKK/mnemos-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
-    "id": "BiggerCap/agentops-hub",
-    "language": "TypeScript",
-    "name": "BiggerCap/agentops-hub",
-    "stars": 2,
-    "updated_at": "2026-09-15T00:51:34Z",
-    "url": "https://github.com/BiggerCap/agentops-hub"
-  },
-  {
-    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
-    "id": "hankamarvanova/unified-db",
-    "language": "Swift",
-    "name": "hankamarvanova/unified-db",
-    "stars": 2,
-    "updated_at": "2026-09-15T00:51:28Z",
-    "url": "https://github.com/hankamarvanova/unified-db"
   }
 ]
