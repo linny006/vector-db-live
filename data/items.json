@@ -1,12 +1,102 @@
 [
   {
+    "description": "\u4f01\u4e1a\u7ea7\u901a\u7528 RAG \u6587\u6863\u95ee\u7b54\uff1a8 \u79cd\u683c\u5f0f\u89e3\u6790 \u2192 \u7ed3\u6784\u611f\u77e5\u5206\u5757 \u2192 \u5411\u91cf+BM25 \u6df7\u5408\u68c0\u7d22(RRF) \u2192 \u5e26\u5f15\u7528\u751f\u6210\u3002\u542b Streamlit \u754c\u9762\u3001REST API\u3001\u79bb\u7ebf\u8bc4\u4f30\u4e0e\u6d4b\u8bd5\u3002| General-purpose RAG with h",
+    "id": "lvliyudashuai/hybrid-rag",
+    "language": "Python",
+    "name": "lvliyudashuai/hybrid-rag",
+    "stars": 1,
+    "updated_at": "2026-09-16T08:15:12Z",
+    "url": "https://github.com/lvliyudashuai/hybrid-rag"
+  },
+  {
+    "description": "A sample RAG (Retrieval-Augmented Generation) agent for documentation analysis \u2014 built with Pydantic-AI and OpenAI GPT-4",
+    "id": "SergeyGer/pydantic-ai-rag-agent",
+    "language": "Python",
+    "name": "SergeyGer/pydantic-ai-rag-agent",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:14:06Z",
+    "url": "https://github.com/SergeyGer/pydantic-ai-rag-agent"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-16T08:12:12Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-16T08:15:14Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1890,
+    "updated_at": "2026-09-16T08:11:47Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
+    "id": "zilliztech/knowhere",
+    "language": "C++",
+    "name": "zilliztech/knowhere",
+    "stars": 381,
+    "updated_at": "2026-09-16T08:11:24Z",
+    "url": "https://github.com/zilliztech/knowhere"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1154,
-    "updated_at": "2026-09-16T08:00:12Z",
+    "updated_at": "2026-09-16T08:08:47Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "FastAPI service exposing semantic search over Pinecone indexes with OpenAI embeddings, built as a retrieval backend for ",
+    "id": "shayanyadegari/pinecone-semantic-search-api",
+    "language": "Python",
+    "name": "shayanyadegari/pinecone-semantic-search-api",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:08:19Z",
+    "url": "https://github.com/shayanyadegari/pinecone-semantic-search-api"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 80,
+    "updated_at": "2026-09-16T08:07:38Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-16T08:00:32Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-16T08:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -54,31 +144,22 @@
     "url": "https://github.com/xbsheng/ai-from-scratch"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34587,
+    "updated_at": "2026-09-16T07:49:34Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8230,
-    "updated_at": "2026-09-16T07:56:03Z",
+    "updated_at": "2026-09-16T08:13:33Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-16T07:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T07:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -86,7 +167,7 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2301,
-    "updated_at": "2026-09-16T07:42:05Z",
+    "updated_at": "2026-09-16T08:11:51Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
@@ -117,13 +198,13 @@
     "url": "https://github.com/kakagawa/llm-master-ua"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-16T07:38:08Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15942,
+    "updated_at": "2026-09-16T07:36:33Z",
+    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": ".NET client for Meilisearch",
@@ -133,15 +214,6 @@
     "stars": 345,
     "updated_at": "2026-09-16T07:31:19Z",
     "url": "https://github.com/meilisearch/meilisearch-dotnet"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-16T08:00:18Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 4,
-    "updated_at": "2026-09-16T07:41:06Z",
+    "updated_at": "2026-09-16T08:13:25Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -196,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T07:17:50Z",
     "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15941,
-    "updated_at": "2026-09-16T07:36:33Z",
-    "url": "https://github.com/alibaba/zvec"
   },
   {
     "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
@@ -275,7 +338,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11433,
-    "updated_at": "2026-09-16T07:08:58Z",
+    "updated_at": "2026-09-16T08:01:48Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-16T06:56:40Z",
     "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 25,
-    "updated_at": "2026-09-16T06:55:01Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-16T06:54:19Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1890,
-    "updated_at": "2026-09-16T07:12:38Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-16T06:52:21Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-09-16T06:51:10Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-16T06:50:01Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-16T06:48:23Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
