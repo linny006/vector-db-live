@@ -1,21 +1,48 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-16T00:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-16T00:15:19Z",
+    "updated_at": "2026-09-16T00:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 120,
+    "updated_at": "2026-09-16T00:29:27Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 17,
+    "updated_at": "2026-09-16T00:29:05Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-16T00:22:51Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-16T00:19:41Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\u0938\u0942\u0924\u094d\u0930 DB: High-performance, zero-dependency hybrid vector search & BM25 lexical engine in pure Python",
@@ -50,17 +77,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11430,
-    "updated_at": "2026-09-15T23:35:38Z",
+    "updated_at": "2026-09-16T00:23:19Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-15T23:33:29Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-15T22:34:33Z",
     "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
-    "id": "ermermermermidk/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ermermermermidk/mcp-ai-memory",
-    "stars": 1,
-    "updated_at": "2026-09-15T22:34:00Z",
-    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1890,
-    "updated_at": "2026-09-15T22:20:47Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   }
 ]
