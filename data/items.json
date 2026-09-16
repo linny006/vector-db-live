@@ -1,5 +1,68 @@
 [
   {
+    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
+    "id": "amirhosssein0/ai-platform-lab",
+    "language": "TypeScript",
+    "name": "amirhosssein0/ai-platform-lab",
+    "stars": 5,
+    "updated_at": "2026-09-16T12:27:07Z",
+    "url": "https://github.com/amirhosssein0/ai-platform-lab"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16815,
+    "updated_at": "2026-09-16T12:28:39Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8232,
+    "updated_at": "2026-09-16T12:24:48Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
+    "id": "Fractera/fractera-memory-starter",
+    "language": "TypeScript",
+    "name": "Fractera/fractera-memory-starter",
+    "stars": 0,
+    "updated_at": "2026-09-16T12:22:15Z",
+    "url": "https://github.com/Fractera/fractera-memory-starter"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1155,
+    "updated_at": "2026-09-16T12:20:11Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-16T12:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-16T12:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -50,7 +113,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30712,
-    "updated_at": "2026-09-16T12:03:57Z",
+    "updated_at": "2026-09-16T12:29:20Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -59,33 +122,15 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9267,
-    "updated_at": "2026-09-16T12:14:40Z",
+    "updated_at": "2026-09-16T12:25:22Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-16T12:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T12:15:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A lightweight, lightning-fast, in-process vector database",
     "id": "alibaba/zvec",
     "language": "C++",
     "name": "alibaba/zvec",
-    "stars": 15944,
+    "stars": 15945,
     "updated_at": "2026-09-16T12:00:17Z",
     "url": "https://github.com/alibaba/zvec"
   },
@@ -122,7 +167,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 95,
-    "updated_at": "2026-09-16T11:48:26Z",
+    "updated_at": "2026-09-16T12:22:03Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9442,
-    "updated_at": "2026-09-16T11:44:38Z",
+    "updated_at": "2026-09-16T12:28:26Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6238,
-    "updated_at": "2026-09-16T12:11:15Z",
+    "updated_at": "2026-09-16T12:26:53Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -149,7 +194,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 4,
-    "updated_at": "2026-09-16T12:11:35Z",
+    "updated_at": "2026-09-16T12:18:44Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -158,7 +203,7 @@
     "language": "TypeScript",
     "name": "VampiricCyborg/DocuQuery",
     "stars": 3,
-    "updated_at": "2026-09-16T11:42:19Z",
+    "updated_at": "2026-09-16T12:26:58Z",
     "url": "https://github.com/VampiricCyborg/DocuQuery"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-09-16T11:36:51Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1155,
-    "updated_at": "2026-09-16T11:59:51Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -324,15 +360,6 @@
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   },
   {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8231,
-    "updated_at": "2026-09-16T11:52:57Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
     "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
     "id": "Arthrocentesisgenusphylloxera328/rag-forge",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-16T10:55:26Z",
     "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-09-16T10:54:15Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-09-16T10:52:53Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-16T10:50:07Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   }
 ]
