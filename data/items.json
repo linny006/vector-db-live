@@ -1,11 +1,83 @@
 [
   {
+    "description": "A production-grade, full-stack AI assistant platform for private document fleets \u2014 featuring real-time streaming, intell",
+    "id": "VampiricCyborg/DocuQuery",
+    "language": "TypeScript",
+    "name": "VampiricCyborg/DocuQuery",
+    "stars": 3,
+    "updated_at": "2026-09-16T18:26:17Z",
+    "url": "https://github.com/VampiricCyborg/DocuQuery"
+  },
+  {
+    "description": "An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match",
+    "id": "Tibab222/cvMaker",
+    "language": "TypeScript",
+    "name": "Tibab222/cvMaker",
+    "stars": 14,
+    "updated_at": "2026-09-16T18:26:06Z",
+    "url": "https://github.com/Tibab222/cvMaker"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1155,
+    "updated_at": "2026-09-16T18:25:07Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
+    "id": "88plug/total-recall",
+    "language": "Python",
+    "name": "88plug/total-recall",
+    "stars": 0,
+    "updated_at": "2026-09-16T18:21:37Z",
+    "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
+    "id": "Fractera/fractera-memory-starter",
+    "language": "TypeScript",
+    "name": "Fractera/fractera-memory-starter",
+    "stars": 0,
+    "updated_at": "2026-09-16T18:19:30Z",
+    "url": "https://github.com/Fractera/fractera-memory-starter"
+  },
+  {
+    "description": "Architecture, deployment, and CI/CD of an evidence-grounded RAG reference service. Docker, Helm/Kubernetes, multi-job CI",
+    "id": "MarwaBS/production-rag-platform",
+    "language": "Python",
+    "name": "MarwaBS/production-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-09-16T18:16:49Z",
+    "url": "https://github.com/MarwaBS/production-rag-platform"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-16T18:15:27Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-16T18:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
     "id": "thekaveh/atlas",
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-09-16T18:13:43Z",
+    "updated_at": "2026-09-16T18:15:26Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -45,15 +117,6 @@
     "url": "https://github.com/infinispan/infinispan"
   },
   {
-    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
-    "id": "Fractera/fractera-memory-starter",
-    "language": "TypeScript",
-    "name": "Fractera/fractera-memory-starter",
-    "stars": 0,
-    "updated_at": "2026-09-16T18:08:33Z",
-    "url": "https://github.com/Fractera/fractera-memory-starter"
-  },
-  {
     "description": "It relates with implementation of RAG pipelines. Quest to fine tune different elements(retrieval , generation broadly) o",
     "id": "vaibhav-rj/RAG-pipeline",
     "language": "Jupyter Notebook",
@@ -72,30 +135,12 @@
     "url": "https://github.com/surajkumarnavodya/text-to-sql-agent-langgraph"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-16T18:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T18:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30736,
-    "updated_at": "2026-09-16T18:09:53Z",
+    "updated_at": "2026-09-16T18:24:21Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 483,
     "updated_at": "2026-09-16T17:43:21Z",
     "url": "https://github.com/GlitterKill/sdl-mcp"
-  },
-  {
-    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
-    "id": "88plug/total-recall",
-    "language": "Python",
-    "name": "88plug/total-recall",
-    "stars": 0,
-    "updated_at": "2026-09-16T17:42:30Z",
-    "url": "https://github.com/88plug/total-recall"
   },
   {
     "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
@@ -293,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8233,
-    "updated_at": "2026-09-16T17:17:30Z",
+    "updated_at": "2026-09-16T18:18:11Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -304,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T17:16:31Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "A production-grade, full-stack AI assistant platform for private document fleets \u2014 featuring real-time streaming, intell",
-    "id": "VampiricCyborg/DocuQuery",
-    "language": "TypeScript",
-    "name": "VampiricCyborg/DocuQuery",
-    "stars": 3,
-    "updated_at": "2026-09-16T17:16:23Z",
-    "url": "https://github.com/VampiricCyborg/DocuQuery"
   },
   {
     "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
@@ -391,7 +418,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34594,
+    "stars": 34595,
     "updated_at": "2026-09-16T17:03:11Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-16T16:59:56Z",
     "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6238,
-    "updated_at": "2026-09-16T17:48:28Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-09-16T16:55:34Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
-    "id": "RohannShetty/gitbook-downloader",
-    "language": "Python",
-    "name": "RohannShetty/gitbook-downloader",
-    "stars": 2,
-    "updated_at": "2026-09-16T16:56:33Z",
-    "url": "https://github.com/RohannShetty/gitbook-downloader"
   }
 ]
