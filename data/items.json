@@ -1,5 +1,50 @@
 [
   {
+    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
+    "id": "Fractera/fractera-memory-starter",
+    "language": "JavaScript",
+    "name": "Fractera/fractera-memory-starter",
+    "stars": 0,
+    "updated_at": "2026-09-16T22:28:50Z",
+    "url": "https://github.com/Fractera/fractera-memory-starter"
+  },
+  {
+    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
+    "id": "api-evangelist/vespa-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/vespa-ai",
+    "stars": 0,
+    "updated_at": "2026-09-16T22:25:44Z",
+    "url": "https://github.com/api-evangelist/vespa-ai"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9271,
+    "updated_at": "2026-09-16T22:30:09Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1155,
+    "updated_at": "2026-09-16T22:29:23Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-16T22:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -7,15 +52,6 @@
     "stars": 3,
     "updated_at": "2026-09-16T22:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
-    "id": "Fractera/fractera-memory-starter",
-    "language": "JavaScript",
-    "name": "Fractera/fractera-memory-starter",
-    "stars": 0,
-    "updated_at": "2026-09-16T22:11:53Z",
-    "url": "https://github.com/Fractera/fractera-memory-starter"
   },
   {
     "description": "Upload PDFs/documents, create embeddings, retrieve relevant passages and answer questions with citations while evaluatin",
@@ -41,7 +77,7 @@
     "language": "Rust",
     "name": "wickra-lib/wickra-genome",
     "stars": 1,
-    "updated_at": "2026-09-16T22:06:15Z",
+    "updated_at": "2026-09-16T22:29:58Z",
     "url": "https://github.com/wickra-lib/wickra-genome"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 11438,
     "updated_at": "2026-09-16T22:03:09Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-16T22:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Headless Skill Hub and GitOps for Agentic Memory. Turn complex codebases and documents into version-controlled, immutabl",
@@ -232,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T21:18:51Z",
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1155,
-    "updated_at": "2026-09-16T22:08:43Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
@@ -428,25 +446,7 @@
     "language": "Python",
     "name": "pixeltable/pixeltable",
     "stars": 1623,
-    "updated_at": "2026-09-16T21:44:08Z",
+    "updated_at": "2026-09-16T22:27:41Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
-    "id": "SAHIXXX12/AI-Search-Engine",
-    "language": "TypeScript",
-    "name": "SAHIXXX12/AI-Search-Engine",
-    "stars": 0,
-    "updated_at": "2026-09-16T20:50:05Z",
-    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
-  },
-  {
-    "description": "Interactive real-time viewer and search engine across 100 million images, 50 million comments, and 20 million websites, ",
-    "id": "ClickHouse/embeddings",
-    "language": "HTML",
-    "name": "ClickHouse/embeddings",
-    "stars": 3,
-    "updated_at": "2026-09-16T20:48:53Z",
-    "url": "https://github.com/ClickHouse/embeddings"
   }
 ]
