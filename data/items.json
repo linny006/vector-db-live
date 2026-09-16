@@ -1,21 +1,147 @@
 [
   {
-    "description": "\u4f01\u4e1a\u7ea7\u901a\u7528 RAG \u6587\u6863\u95ee\u7b54\uff1a8 \u79cd\u683c\u5f0f\u89e3\u6790 \u2192 \u7ed3\u6784\u611f\u77e5\u5206\u5757 \u2192 \u5411\u91cf+BM25 \u6df7\u5408\u68c0\u7d22(RRF) \u2192 \u5e26\u5f15\u7528\u751f\u6210\u3002\u542b Streamlit \u754c\u9762\u3001REST API\u3001\u79bb\u7ebf\u8bc4\u4f30\u4e0e\u6d4b\u8bd5\u3002| General-purpose RAG with h",
-    "id": "lvliyudashuai/hybrid-rag",
-    "language": "Python",
-    "name": "lvliyudashuai/hybrid-rag",
-    "stars": 1,
-    "updated_at": "2026-09-16T08:15:12Z",
-    "url": "https://github.com/lvliyudashuai/hybrid-rag"
-  },
-  {
     "description": "A sample RAG (Retrieval-Augmented Generation) agent for documentation analysis \u2014 built with Pydantic-AI and OpenAI GPT-4",
     "id": "SergeyGer/pydantic-ai-rag-agent",
     "language": "Python",
     "name": "SergeyGer/pydantic-ai-rag-agent",
     "stars": 0,
-    "updated_at": "2026-09-16T08:14:06Z",
+    "updated_at": "2026-09-16T08:29:52Z",
     "url": "https://github.com/SergeyGer/pydantic-ai-rag-agent"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 80,
+    "updated_at": "2026-09-16T08:26:21Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-09-16T08:25:23Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 20,
+    "updated_at": "2026-09-16T08:24:54Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13108,
+    "updated_at": "2026-09-16T08:21:49Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Pure-Rust vector database for the Nubster Data Plane: ANN similarity search, single binary, edge-ready.",
+    "id": "nubster-opensources/eidosdb",
+    "language": "Rust",
+    "name": "nubster-opensources/eidosdb",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:21:18Z",
+    "url": "https://github.com/nubster-opensources/eidosdb"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 4,
+    "updated_at": "2026-09-16T08:20:31Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Spatial AI memory: point your phone camera, ask out loud where you left something, get the exact frame. Gemini Live + Ch",
+    "id": "zaidwhy/recall",
+    "language": "Python",
+    "name": "zaidwhy/recall",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:19:35Z",
+    "url": "https://github.com/zaidwhy/recall"
+  },
+  {
+    "description": "\u901a\u7528 RAG \u6587\u6863\u95ee\u7b54\u9879\u76ee\uff1a8 \u79cd\u683c\u5f0f\u89e3\u6790 \u2192 \u7ed3\u6784\u611f\u77e5\u5206\u5757 \u2192 \u5411\u91cf+BM25 \u6df7\u5408\u68c0\u7d22(RRF) \u2192 \u5e26\u5f15\u7528\u751f\u6210\u3002\u542b Streamlit \u754c\u9762\u3001REST API\u3001\u79bb\u7ebf\u8bc4\u4f30\u4e0e\u6d4b\u8bd5\u3002| A general-purpose RAG proje",
+    "id": "lvliyudashuai/hybrid-rag",
+    "language": "Python",
+    "name": "lvliyudashuai/hybrid-rag",
+    "stars": 1,
+    "updated_at": "2026-09-16T08:19:04Z",
+    "url": "https://github.com/lvliyudashuai/hybrid-rag"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46123,
+    "updated_at": "2026-09-16T08:18:23Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2301,
+    "updated_at": "2026-09-16T08:17:35Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "FastAPI service exposing semantic search over Pinecone indexes with OpenAI embeddings, built as a retrieval backend for ",
+    "id": "shayanyadegari/brand-knowledge-search-api",
+    "language": "Python",
+    "name": "shayanyadegari/brand-knowledge-search-api",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:17:09Z",
+    "url": "https://github.com/shayanyadegari/brand-knowledge-search-api"
+  },
+  {
+    "description": "DANA: dynamic multi-attribute range-filtered approximate nearest-neighbor search",
+    "id": "Guo-dp/DANA",
+    "language": "C++",
+    "name": "Guo-dp/DANA",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:16:19Z",
+    "url": "https://github.com/Guo-dp/DANA"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-16T08:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-16T08:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-grade RAG AI Assistant using LangChain, FAISS, Gemini 2.5 Flash & Streamlit with hybrid search, citation trac",
+    "id": "Manvithagopireddy/RAGBOT",
+    "language": "Python",
+    "name": "Manvithagopireddy/RAGBOT",
+    "stars": 0,
+    "updated_at": "2026-09-16T08:13:12Z",
+    "url": "https://github.com/Manvithagopireddy/RAGBOT"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -32,7 +158,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-16T08:15:14Z",
+    "updated_at": "2026-09-16T08:26:59Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -59,44 +185,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1154,
-    "updated_at": "2026-09-16T08:08:47Z",
+    "updated_at": "2026-09-16T08:29:16Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "FastAPI service exposing semantic search over Pinecone indexes with OpenAI embeddings, built as a retrieval backend for ",
-    "id": "shayanyadegari/pinecone-semantic-search-api",
-    "language": "Python",
-    "name": "shayanyadegari/pinecone-semantic-search-api",
-    "stars": 0,
-    "updated_at": "2026-09-16T08:08:19Z",
-    "url": "https://github.com/shayanyadegari/pinecone-semantic-search-api"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 80,
-    "updated_at": "2026-09-16T08:07:38Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T08:00:32Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-16T08:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -106,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-09-16T07:58:33Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13107,
-    "updated_at": "2026-09-16T07:54:36Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
@@ -158,17 +239,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8230,
-    "updated_at": "2026-09-16T08:13:33Z",
+    "updated_at": "2026-09-16T08:21:38Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2301,
-    "updated_at": "2026-09-16T08:11:51Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -223,15 +295,6 @@
     "stars": 9442,
     "updated_at": "2026-09-16T07:56:47Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 4,
-    "updated_at": "2026-09-16T08:13:25Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -315,15 +378,6 @@
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46124,
-    "updated_at": "2026-09-16T07:11:53Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
     "id": "jourdaninorder609/mind-query",
     "language": "TypeScript",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T07:02:36Z",
     "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-09-16T07:02:29Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-09-16T06:59:19Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-09-16T06:58:35Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
-    "id": "sshisto/mnemo-mcp",
-    "language": "Python",
-    "name": "sshisto/mnemo-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-16T06:57:14Z",
-    "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 3,
-    "updated_at": "2026-09-16T06:57:11Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-09-16T06:56:40Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
   }
 ]
