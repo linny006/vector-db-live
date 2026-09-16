@@ -5,8 +5,107 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-16T03:15:20Z",
+    "updated_at": "2026-09-16T03:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
+    "id": "ldclabs/anda-db",
+    "language": "Rust",
+    "name": "ldclabs/anda-db",
+    "stars": 30,
+    "updated_at": "2026-09-16T03:29:24Z",
+    "url": "https://github.com/ldclabs/anda-db"
+  },
+  {
+    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
+    "id": "sarthaksinha2600/LLM-Contract",
+    "language": "\u2014",
+    "name": "sarthaksinha2600/LLM-Contract",
+    "stars": 0,
+    "updated_at": "2026-09-16T03:27:20Z",
+    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
+  },
+  {
+    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
+    "id": "Shitless-jnr3697/rebasis",
+    "language": "Python",
+    "name": "Shitless-jnr3697/rebasis",
+    "stars": 0,
+    "updated_at": "2026-09-16T03:26:26Z",
+    "url": "https://github.com/Shitless-jnr3697/rebasis"
+  },
+  {
+    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
+    "id": "boulif781/enterprise-knowledge-assistant",
+    "language": "\u2014",
+    "name": "boulif781/enterprise-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-16T03:24:51Z",
+    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
+  },
+  {
+    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
+    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "language": "Jupyter Notebook",
+    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
+    "stars": 1,
+    "updated_at": "2026-09-16T03:22:52Z",
+    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
+  },
+  {
+    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
+    "id": "Bekhbekh7821/CanopyOps",
+    "language": "\u2014",
+    "name": "Bekhbekh7821/CanopyOps",
+    "stars": 1,
+    "updated_at": "2026-09-16T03:22:26Z",
+    "url": "https://github.com/Bekhbekh7821/CanopyOps"
+  },
+  {
+    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
+    "id": "doriapt53/spring-manifold-next-gen",
+    "language": "TypeScript",
+    "name": "doriapt53/spring-manifold-next-gen",
+    "stars": 0,
+    "updated_at": "2026-09-16T03:19:59Z",
+    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
+    "id": "jourdaninorder609/mind-query",
+    "language": "TypeScript",
+    "name": "jourdaninorder609/mind-query",
+    "stars": 0,
+    "updated_at": "2026-09-16T03:18:28Z",
+    "url": "https://github.com/jourdaninorder609/mind-query"
+  },
+  {
+    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
+    "id": "jefffergunson118-beep/smara",
+    "language": "\u2014",
+    "name": "jefffergunson118-beep/smara",
+    "stars": 1,
+    "updated_at": "2026-09-16T03:16:10Z",
+    "url": "https://github.com/jefffergunson118-beep/smara"
+  },
+  {
+    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
+    "id": "Twentyeight-lawnchair711/AlayaRenderer",
+    "language": "\u2014",
+    "name": "Twentyeight-lawnchair711/AlayaRenderer",
+    "stars": 0,
+    "updated_at": "2026-09-16T03:15:25Z",
+    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-16T03:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
@@ -77,7 +176,7 @@
     "language": "Python",
     "name": "darkzard05/rag-system-ollama",
     "stars": 4,
-    "updated_at": "2026-09-16T03:08:53Z",
+    "updated_at": "2026-09-16T03:27:03Z",
     "url": "https://github.com/darkzard05/rag-system-ollama"
   },
   {
@@ -162,15 +261,6 @@
     "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-16T03:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
     "id": "persona-net/rag-pipeline-dashboard",
     "language": "TypeScript",
@@ -214,6 +304,15 @@
     "stars": 0,
     "updated_at": "2026-09-16T02:54:32Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46123,
+    "updated_at": "2026-09-16T02:51:45Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
@@ -349,104 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-16T02:05:08Z",
     "url": "https://github.com/lingxinmind/vecmindb-sdk"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-16T02:03:28Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1890,
-    "updated_at": "2026-09-16T02:32:48Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1297 questions & 52 RAG types), system design scenarios, arch",
-    "id": "ather-techie/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "ather-techie/rag-interview-system",
-    "stars": 152,
-    "updated_at": "2026-09-16T01:57:20Z",
-    "url": "https://github.com/ather-techie/rag-interview-system"
-  },
-  {
-    "description": "Centrality-aware GraphRAG retrieval planner \u2014 drop-in layer over any vector DB. Zero LLM in the query path; MCP server i",
-    "id": "DemigodDSK/hubmesh",
-    "language": "Python",
-    "name": "DemigodDSK/hubmesh",
-    "stars": 2,
-    "updated_at": "2026-09-16T01:53:21Z",
-    "url": "https://github.com/DemigodDSK/hubmesh"
-  },
-  {
-    "description": "Vector-based semantic search engine using Sentence Transformers. Features automated weekly ingestion of research papers ",
-    "id": "RimaNafougui/ArxivSearchEngine",
-    "language": "Python",
-    "name": "RimaNafougui/ArxivSearchEngine",
-    "stars": 0,
-    "updated_at": "2026-09-16T01:48:36Z",
-    "url": "https://github.com/RimaNafougui/ArxivSearchEngine"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9442,
-    "updated_at": "2026-09-16T03:01:41Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "BalancedMultiDimensionMemory \u2014 a LangGraph AgentMiddleware for LLM long-term memory: Ebbinghaus decay, RAG staging,   \u258e ",
-    "id": "lijia-ming/memory-middleware",
-    "language": "Python",
-    "name": "lijia-ming/memory-middleware",
-    "stars": 0,
-    "updated_at": "2026-09-16T01:45:45Z",
-    "url": "https://github.com/lijia-ming/memory-middleware"
-  },
-  {
-    "description": "It relates with implementation of RAG pipelines. Quest to fine tune different elements(retrieval , generation broadly) o",
-    "id": "vaibhav-rj/RAG-pipeline",
-    "language": "Jupyter Notebook",
-    "name": "vaibhav-rj/RAG-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-16T01:45:41Z",
-    "url": "https://github.com/vaibhav-rj/RAG-pipeline"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46122,
-    "updated_at": "2026-09-16T02:51:45Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-09-16T01:36:04Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
-    "id": "Shitless-jnr3697/rebasis",
-    "language": "Python",
-    "name": "Shitless-jnr3697/rebasis",
-    "stars": 0,
-    "updated_at": "2026-09-16T01:35:09Z",
-    "url": "https://github.com/Shitless-jnr3697/rebasis"
   }
 ]
