@@ -1,21 +1,57 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T06:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Self-hosted, sovereign memory layer for AI coding agents. MCP-ready, local BGE-M3 ONNX embeddings, zero external API. pi",
     "id": "lingxinmind/vecmindb-sdk",
     "language": "Python",
     "name": "lingxinmind/vecmindb-sdk",
     "stars": 1,
-    "updated_at": "2026-09-16T06:14:36Z",
+    "updated_at": "2026-09-16T06:23:30Z",
     "url": "https://github.com/lingxinmind/vecmindb-sdk"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-16T06:21:54Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Python client for Qdrant vector search engine",
+    "id": "qdrant/qdrant-client",
+    "language": "Python",
+    "name": "qdrant/qdrant-client",
+    "stars": 1356,
+    "updated_at": "2026-09-16T06:17:10Z",
+    "url": "https://github.com/qdrant/qdrant-client"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-16T06:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-16T06:15:26Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-16T06:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Open source AI spiritual companion that remembers every user. Semantic memory on Supabase pgvector, readings grounded ov",
@@ -23,7 +59,7 @@
     "language": "TypeScript",
     "name": "RoxyAPI/ai-spiritual-companion",
     "stars": 0,
-    "updated_at": "2026-09-16T06:13:44Z",
+    "updated_at": "2026-09-16T06:16:06Z",
     "url": "https://github.com/RoxyAPI/ai-spiritual-companion"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 2,
     "updated_at": "2026-09-16T06:12:52Z",
     "url": "https://github.com/zaidwhy/personal-llm"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-16T06:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
@@ -90,15 +117,6 @@
     "url": "https://github.com/yantrikos/yantrikdb"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-16T06:09:58Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -106,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T05:41:13Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-16T05:37:13Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-16T04:42:47Z",
     "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
-    "id": "ermermermermidk/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ermermermermidk/mcp-ai-memory",
-    "stars": 1,
-    "updated_at": "2026-09-16T04:42:13Z",
-    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   }
 ]
