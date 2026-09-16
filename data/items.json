@@ -1,12 +1,66 @@
 [
   {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 0,
+    "updated_at": "2026-09-16T11:57:27Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "A cyber brain for your AI. It never forgets a detail, remembers exactly what you said, and learns how you work over time",
+    "id": "CodeAbra/iai-personal-memory-engine",
+    "language": "Python",
+    "name": "CodeAbra/iai-personal-memory-engine",
+    "stars": 884,
+    "updated_at": "2026-09-16T11:54:12Z",
+    "url": "https://github.com/CodeAbra/iai-personal-memory-engine"
+  },
+  {
     "description": "A suite of WAL-based embedded data stores. RDBMS, KV Store, GraphStore, VectorStore, Columnar and more",
     "id": "openpeeps/boogie",
     "language": "Nim",
     "name": "openpeeps/boogie",
     "stars": 6,
-    "updated_at": "2026-09-16T11:44:42Z",
+    "updated_at": "2026-09-16T11:51:22Z",
     "url": "https://github.com/openpeeps/boogie"
+  },
+  {
+    "description": "An Agentic RAG system built on Model Context Protocol (MCP) to decouple tool execution from agent logic, enabling scalab",
+    "id": "mpapachrys/agentic-rag-mcp-system",
+    "language": "Python",
+    "name": "mpapachrys/agentic-rag-mcp-system",
+    "stars": 2,
+    "updated_at": "2026-09-16T11:50:06Z",
+    "url": "https://github.com/mpapachrys/agentic-rag-mcp-system"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 95,
+    "updated_at": "2026-09-16T11:48:26Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-16T11:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-16T12:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -23,7 +77,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6238,
-    "updated_at": "2026-09-16T11:43:31Z",
+    "updated_at": "2026-09-16T12:00:20Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 4,
-    "updated_at": "2026-09-16T11:42:49Z",
+    "updated_at": "2026-09-16T11:55:48Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -81,29 +135,11 @@
     "url": "https://github.com/SergeyGer/pydantic-ai-rag-agent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-16T11:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T11:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1911,
+    "stars": 1912,
     "updated_at": "2026-09-16T11:27:29Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -122,7 +158,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1155,
-    "updated_at": "2026-09-16T11:24:20Z",
+    "updated_at": "2026-09-16T11:59:51Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -248,7 +284,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8231,
-    "updated_at": "2026-09-16T11:44:20Z",
+    "updated_at": "2026-09-16T11:52:57Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-16T10:46:00Z",
     "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-09-16T10:44:51Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-09-16T10:40:37Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59303,
-    "updated_at": "2026-09-16T10:40:13Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
-    "id": "britorbs/consciousdb",
-    "language": "Python",
-    "name": "britorbs/consciousdb",
-    "stars": 0,
-    "updated_at": "2026-09-16T10:38:38Z",
-    "url": "https://github.com/britorbs/consciousdb"
   }
 ]
