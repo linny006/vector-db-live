@@ -1,5 +1,23 @@
 [
   {
+    "description": "LiteGraph is a multi-modal AI data platform - a property graph with relational, vector, and MCP support, to power knowle",
+    "id": "litegraphdb/litegraph",
+    "language": "C#",
+    "name": "litegraphdb/litegraph",
+    "stars": 130,
+    "updated_at": "2026-09-16T23:48:03Z",
+    "url": "https://github.com/litegraphdb/litegraph"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-16T23:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +41,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9271,
-    "updated_at": "2026-09-16T23:38:42Z",
+    "updated_at": "2026-09-16T23:45:40Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -43,24 +61,6 @@
     "stars": 30749,
     "updated_at": "2026-09-16T23:32:06Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-16T23:30:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "LiteGraph is a multi-modal AI data platform - a property graph with relational, vector, and MCP support, to power knowle",
-    "id": "litegraphdb/litegraph",
-    "language": "C#",
-    "name": "litegraphdb/litegraph",
-    "stars": 130,
-    "updated_at": "2026-09-16T23:30:31Z",
-    "url": "https://github.com/litegraphdb/litegraph"
   },
   {
     "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
@@ -86,7 +86,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11439,
-    "updated_at": "2026-09-16T23:27:02Z",
+    "updated_at": "2026-09-16T23:51:04Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {

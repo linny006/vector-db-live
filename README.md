@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-16 23:45 UTC
+> ⏰ Last updated: 2026-09-16 23:51 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [AgentToolkit/altk-evolve](https://github.com/AgentToolkit/altk-evolve) | 111 | Python | 2026-09-16 | Self improving agents through iterations |
-| 3 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9271 | Rust | 2026-09-16 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30749 | Python | 2026-09-16 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [litegraphdb/litegraph](https://github.com/litegraphdb/litegraph) | 130 | C# | 2026-09-16 | LiteGraph is a multi-modal AI data platform - a property graph with relational, vector, and MCP support, to power knowle |
+| 1 | [litegraphdb/litegraph](https://github.com/litegraphdb/litegraph) | 130 | C# | 2026-09-16 | LiteGraph is a multi-modal AI data platform - a property graph with relational, vector, and MCP support, to power knowle |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-16 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-16 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [AgentToolkit/altk-evolve](https://github.com/AgentToolkit/altk-evolve) | 111 | Python | 2026-09-16 | Self improving agents through iterations |
+| 5 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9271 | Rust | 2026-09-16 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-16 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 7 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30749 | Python | 2026-09-16 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 8 | [Fractera/fractera-memory-starter](https://github.com/Fractera/fractera-memory-starter) | 0 | JavaScript | 2026-09-16 | The deterministic, multimodal, self-evolving memory engine for autonomous AI agents |
 | 9 | [zacharydenton/hrxdb](https://github.com/zacharydenton/hrxdb) | 0 | Rust | 2026-09-16 | A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on  |
 | 10 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11439 | Rust | 2026-09-16 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
