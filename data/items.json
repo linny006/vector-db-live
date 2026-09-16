@@ -1,5 +1,77 @@
 [
   {
+    "description": "Symbol Delta Ledger (SDL-MCP) is a policy-centered context budget layer for coding agents: Symbol-graph intelligence com",
+    "id": "GlitterKill/sdl-mcp",
+    "language": "TypeScript",
+    "name": "GlitterKill/sdl-mcp",
+    "stars": 483,
+    "updated_at": "2026-09-16T17:43:21Z",
+    "url": "https://github.com/GlitterKill/sdl-mcp"
+  },
+  {
+    "description": "Memory & RAG for Claude Code & Grok \u2014 mines transcripts into a local knowledge graph + MCP tools.",
+    "id": "88plug/total-recall",
+    "language": "Python",
+    "name": "88plug/total-recall",
+    "stars": 0,
+    "updated_at": "2026-09-16T17:42:30Z",
+    "url": "https://github.com/88plug/total-recall"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66097,
+    "updated_at": "2026-09-16T17:41:12Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
+    "id": "Fractera/fractera-memory-starter",
+    "language": "TypeScript",
+    "name": "Fractera/fractera-memory-starter",
+    "stars": 0,
+    "updated_at": "2026-09-16T17:36:12Z",
+    "url": "https://github.com/Fractera/fractera-memory-starter"
+  },
+  {
+    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
+    "id": "sh1v-max/AI-Backend",
+    "language": "TypeScript",
+    "name": "sh1v-max/AI-Backend",
+    "stars": 0,
+    "updated_at": "2026-09-16T17:35:38Z",
+    "url": "https://github.com/sh1v-max/AI-Backend"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-16T17:33:51Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
+    "id": "Raynerhalfandhalf451/writeback",
+    "language": "JavaScript",
+    "name": "Raynerhalfandhalf451/writeback",
+    "stars": 0,
+    "updated_at": "2026-09-16T17:31:56Z",
+    "url": "https://github.com/Raynerhalfandhalf451/writeback"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-16T17:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,15 +90,6 @@
     "url": "https://github.com/Accessible-sloughing768/docustra"
   },
   {
-    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
-    "id": "sh1v-max/AI-Backend",
-    "language": "TypeScript",
-    "name": "sh1v-max/AI-Backend",
-    "stars": 0,
-    "updated_at": "2026-09-16T17:26:30Z",
-    "url": "https://github.com/sh1v-max/AI-Backend"
-  },
-  {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
     "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
     "language": "Dockerfile",
@@ -43,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T17:25:45Z",
     "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 66097,
-    "updated_at": "2026-09-16T17:25:14Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -131,7 +185,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-16T17:25:49Z",
+    "updated_at": "2026-09-16T17:44:24Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -153,31 +207,13 @@
     "url": "https://github.com/VampiricCyborg/DocuQuery"
   },
   {
-    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
-    "id": "Fractera/fractera-memory-starter",
-    "language": "TypeScript",
-    "name": "Fractera/fractera-memory-starter",
-    "stars": 0,
-    "updated_at": "2026-09-16T17:15:54Z",
-    "url": "https://github.com/Fractera/fractera-memory-starter"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30733,
-    "updated_at": "2026-09-16T17:28:22Z",
+    "updated_at": "2026-09-16T17:42:10Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-16T17:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
@@ -232,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T17:08:14Z",
     "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-16T17:07:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
@@ -302,7 +329,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6238,
-    "updated_at": "2026-09-16T17:26:31Z",
+    "updated_at": "2026-09-16T17:44:18Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 4,
-    "updated_at": "2026-09-16T16:50:54Z",
+    "updated_at": "2026-09-16T17:40:50Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 24,
     "updated_at": "2026-09-16T16:53:39Z",
     "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Weaviate \u2014 independent third-party profile of a public API surface, by API Evangelist. Weaviate is an open-source, AI-na",
-    "id": "api-evangelist/weaviate",
-    "language": "\u2014",
-    "name": "api-evangelist/weaviate",
-    "stars": 1,
-    "updated_at": "2026-09-16T16:50:12Z",
-    "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Ultrafast native C++ JNI in-memory vector database for the FastJava AI ecosystem",
-    "id": "andrestubbe/FastAIVectorDB",
-    "language": "Java",
-    "name": "andrestubbe/FastAIVectorDB",
-    "stars": 0,
-    "updated_at": "2026-09-16T16:50:09Z",
-    "url": "https://github.com/andrestubbe/FastAIVectorDB"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
-    "id": "SAHIXXX12/AI-Search-Engine",
-    "language": "TypeScript",
-    "name": "SAHIXXX12/AI-Search-Engine",
-    "stars": 0,
-    "updated_at": "2026-09-16T16:48:46Z",
-    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
   }
 ]
