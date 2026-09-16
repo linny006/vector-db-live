@@ -1,11 +1,56 @@
 [
   {
+    "description": "A RAG agent that checks its own answers before trusting them and searches the web instead of guessing when its knowledge",
+    "id": "harshini-gadige-ai/corrective-rag-agent",
+    "language": "Python",
+    "name": "harshini-gadige-ai/corrective-rag-agent",
+    "stars": 1,
+    "updated_at": "2026-09-16T00:39:53Z",
+    "url": "https://github.com/harshini-gadige-ai/corrective-rag-agent"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-16T00:39:36Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Catches silent embedding-model swaps under a vector index before they corrupt similarity search -- provider-agnostic, ze",
+    "id": "jayblast-spec/embedguard",
+    "language": "TypeScript",
+    "name": "jayblast-spec/embedguard",
+    "stars": 0,
+    "updated_at": "2026-09-16T00:34:54Z",
+    "url": "https://github.com/jayblast-spec/embedguard"
+  },
+  {
+    "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1622,
+    "updated_at": "2026-09-16T00:36:24Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-16T00:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-16T00:30:20Z",
+    "updated_at": "2026-09-16T00:45:19Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,15 +81,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-16T00:19:41Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\u0938\u0942\u0924\u094d\u0930 DB: High-performance, zero-dependency hybrid vector search & BM25 lexical engine in pure Python",
     "id": "Sam-CodesAI/SutraDB",
     "language": "Python",
@@ -63,15 +99,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Catches silent embedding-model swaps under a vector index before they corrupt similarity search -- provider-agnostic, ze",
-    "id": "jayblast-spec/embedguard",
-    "language": "TypeScript",
-    "name": "jayblast-spec/embedguard",
-    "stars": 0,
-    "updated_at": "2026-09-15T23:44:57Z",
-    "url": "https://github.com/jayblast-spec/embedguard"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -88,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-15T23:37:58Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "The unified multimodal backend for AI data apps. Database, orchestration, and serving in one Python file.",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1622,
-    "updated_at": "2026-09-15T23:28:55Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
@@ -261,6 +279,15 @@
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34583,
+    "updated_at": "2026-09-15T23:02:05Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Identity and Authorization Service with Vector and AI Integration",
     "id": "StephenCote/AccountManager7",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-15T22:42:18Z",
     "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 4,
-    "updated_at": "2026-09-15T22:40:59Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-09-15T22:34:41Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-09-15T22:34:33Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
   }
 ]
