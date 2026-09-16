@@ -1,11 +1,47 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-16T05:45:04Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-16T05:41:13Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-16T05:37:13Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-16T05:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-16T05:30:19Z",
+    "updated_at": "2026-09-16T05:45:17Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -95,7 +131,7 @@
     "language": "Python",
     "name": "MaxFreedomPollard/Compartment",
     "stars": 587,
-    "updated_at": "2026-09-16T05:16:46Z",
+    "updated_at": "2026-09-16T05:33:32Z",
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-16T05:15:43Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-16T05:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
@@ -169,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-16T05:10:10Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-16T05:09:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
@@ -311,7 +329,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9266,
-    "updated_at": "2026-09-16T05:22:11Z",
+    "updated_at": "2026-09-16T05:37:53Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -401,7 +419,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8230,
-    "updated_at": "2026-09-16T05:28:24Z",
+    "updated_at": "2026-09-16T05:31:22Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -423,15 +441,6 @@
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-16T05:26:00Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
@@ -439,14 +448,5 @@
     "stars": 17,
     "updated_at": "2026-09-16T04:17:07Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1479,
-    "updated_at": "2026-09-16T04:06:49Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   }
 ]
