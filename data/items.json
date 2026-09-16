@@ -1,12 +1,12 @@
 [
   {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-16T00:00:14Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-16T00:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\u0938\u0942\u0924\u094d\u0930 DB: High-performance, zero-dependency hybrid vector search & BM25 lexical engine in pure Python",
@@ -14,7 +14,7 @@
     "language": "Python",
     "name": "Sam-CodesAI/SutraDB",
     "stars": 0,
-    "updated_at": "2026-09-15T23:52:58Z",
+    "updated_at": "2026-09-16T00:13:30Z",
     "url": "https://github.com/Sam-CodesAI/SutraDB"
   },
   {
@@ -23,17 +23,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-09-15T23:45:26Z",
+    "updated_at": "2026-09-16T00:00:24Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T00:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-16T00:00:14Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
     "description": "Catches silent embedding-model swaps under a vector index before they corrupt similarity search -- provider-agnostic, ze",
@@ -185,7 +185,7 @@
     "language": "Rust",
     "name": "kannaka-labs/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-09-15T23:32:46Z",
+    "updated_at": "2026-09-16T00:11:33Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
