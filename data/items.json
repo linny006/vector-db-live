@@ -1,5 +1,59 @@
 [
   {
+    "description": "Top Long Term Memory Platform (Opensource) \ud83c\udf1f Star if you like it! \ud83c\udf1f",
+    "id": "ishandutta2007/Awesome-Long-Term-Memory-Platform",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-Long-Term-Memory-Platform",
+    "stars": 0,
+    "updated_at": "2026-09-17T21:40:13Z",
+    "url": "https://github.com/ishandutta2007/Awesome-Long-Term-Memory-Platform"
+  },
+  {
+    "description": "An interactive marimo notebook on ICICLE AI Tapis services, a hands-on RAG playground that shows every step, from embedd",
+    "id": "ICICLE-ai/icicle-chatbook",
+    "language": "Python",
+    "name": "ICICLE-ai/icicle-chatbook",
+    "stars": 3,
+    "updated_at": "2026-09-17T21:38:39Z",
+    "url": "https://github.com/ICICLE-ai/icicle-chatbook"
+  },
+  {
+    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
+    "id": "kamilsj/vectors",
+    "language": "Rust",
+    "name": "kamilsj/vectors",
+    "stars": 4,
+    "updated_at": "2026-09-17T21:37:26Z",
+    "url": "https://github.com/kamilsj/vectors"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-17T21:33:16Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
+    "id": "josephkamau32/devintel",
+    "language": "Python",
+    "name": "josephkamau32/devintel",
+    "stars": 10,
+    "updated_at": "2026-09-17T21:33:10Z",
+    "url": "https://github.com/josephkamau32/devintel"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-17T21:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -45,42 +99,6 @@
     "url": "https://github.com/stuinfla/Repo-Explainer"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-17T21:25:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
-    "id": "kamilsj/vectors",
-    "language": "Rust",
-    "name": "kamilsj/vectors",
-    "stars": 4,
-    "updated_at": "2026-09-17T21:22:39Z",
-    "url": "https://github.com/kamilsj/vectors"
-  },
-  {
-    "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
-    "id": "josephkamau32/devintel",
-    "language": "Python",
-    "name": "josephkamau32/devintel",
-    "stars": 10,
-    "updated_at": "2026-09-17T21:22:20Z",
-    "url": "https://github.com/josephkamau32/devintel"
-  },
-  {
-    "description": "An interactive marimo notebook on ICICLE AI Tapis services, a hands-on RAG playground that shows every step, from embedd",
-    "id": "ICICLE-ai/icicle-chatbook",
-    "language": "Python",
-    "name": "ICICLE-ai/icicle-chatbook",
-    "stars": 3,
-    "updated_at": "2026-09-17T21:18:05Z",
-    "url": "https://github.com/ICICLE-ai/icicle-chatbook"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -117,15 +135,6 @@
     "url": "https://github.com/mastaan66/memolite"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-17T21:08:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "C# SDK for the Weaviate API -- open-source vector database",
     "id": "tryAGI/Weaviate",
     "language": "C#",
@@ -158,7 +167,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9276,
-    "updated_at": "2026-09-17T21:23:40Z",
+    "updated_at": "2026-09-17T21:39:33Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30784,
-    "updated_at": "2026-09-17T21:12:58Z",
+    "updated_at": "2026-09-17T21:44:04Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -205,6 +214,15 @@
     "stars": 8237,
     "updated_at": "2026-09-17T20:30:30Z",
     "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34639,
+    "updated_at": "2026-09-17T20:25:54Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -275,7 +293,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 91,
-    "updated_at": "2026-09-17T21:30:18Z",
+    "updated_at": "2026-09-17T21:44:12Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-17T19:42:53Z",
     "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-09-17T19:42:32Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-09-17T19:42:16Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
   }
 ]
