@@ -1,5 +1,59 @@
 [
   {
+    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
+    "id": "kamilsj/vectors",
+    "language": "Rust",
+    "name": "kamilsj/vectors",
+    "stars": 4,
+    "updated_at": "2026-09-17T21:22:39Z",
+    "url": "https://github.com/kamilsj/vectors"
+  },
+  {
+    "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
+    "id": "josephkamau32/devintel",
+    "language": "Python",
+    "name": "josephkamau32/devintel",
+    "stars": 10,
+    "updated_at": "2026-09-17T21:22:20Z",
+    "url": "https://github.com/josephkamau32/devintel"
+  },
+  {
+    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
+    "id": "stuinfla/Repo-Explainer",
+    "language": "JavaScript",
+    "name": "stuinfla/Repo-Explainer",
+    "stars": 58,
+    "updated_at": "2026-09-17T21:21:05Z",
+    "url": "https://github.com/stuinfla/Repo-Explainer"
+  },
+  {
+    "description": "An interactive marimo notebook on ICICLE AI Tapis services, a hands-on RAG playground that shows every step, from embedd",
+    "id": "ICICLE-ai/icicle-chatbook",
+    "language": "Python",
+    "name": "ICICLE-ai/icicle-chatbook",
+    "stars": 3,
+    "updated_at": "2026-09-17T21:18:05Z",
+    "url": "https://github.com/ICICLE-ai/icicle-chatbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-17T21:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T21:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -63,15 +117,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "An interactive marimo notebook on ICICLE AI Tapis services, a hands-on RAG playground that shows every step, from embedd",
-    "id": "ICICLE-ai/icicle-chatbook",
-    "language": "Python",
-    "name": "ICICLE-ai/icicle-chatbook",
-    "stars": 2,
-    "updated_at": "2026-09-17T21:07:52Z",
-    "url": "https://github.com/ICICLE-ai/icicle-chatbook"
-  },
-  {
     "description": "C# SDK for the Weaviate API -- open-source vector database",
     "id": "tryAGI/Weaviate",
     "language": "C#",
@@ -99,30 +144,12 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
-    "id": "stuinfla/Repo-Explainer",
-    "language": "JavaScript",
-    "name": "stuinfla/Repo-Explainer",
-    "stars": 58,
-    "updated_at": "2026-09-17T21:02:46Z",
-    "url": "https://github.com/stuinfla/Repo-Explainer"
-  },
-  {
-    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
-    "id": "kamilsj/vectors",
-    "language": "Rust",
-    "name": "kamilsj/vectors",
-    "stars": 4,
-    "updated_at": "2026-09-17T21:01:59Z",
-    "url": "https://github.com/kamilsj/vectors"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9276,
-    "updated_at": "2026-09-17T21:12:26Z",
+    "updated_at": "2026-09-17T21:23:40Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -133,33 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T21:00:37Z",
     "url": "https://github.com/sameerthawait/adaptive_sementic_chunking"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-17T21:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T21:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
-    "id": "josephkamau32/devintel",
-    "language": "Python",
-    "name": "josephkamau32/devintel",
-    "stars": 10,
-    "updated_at": "2026-09-17T20:57:21Z",
-    "url": "https://github.com/josephkamau32/devintel"
   },
   {
     "description": "",
@@ -212,7 +212,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 878,
-    "updated_at": "2026-09-17T21:08:10Z",
+    "updated_at": "2026-09-17T21:19:29Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
