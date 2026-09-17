@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-17T03:15:21Z",
+    "updated_at": "2026-09-17T03:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9442,
+    "updated_at": "2026-09-17T03:25:49Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1889,
+    "updated_at": "2026-09-17T03:18:43Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-09-17T03:19:09Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-17T03:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
@@ -43,6 +79,15 @@
     "stars": 1408,
     "updated_at": "2026-09-17T03:11:29Z",
     "url": "https://github.com/milvus-io/pymilvus"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11441,
+    "updated_at": "2026-09-17T03:08:29Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T03:00:51Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-17T03:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -252,15 +288,6 @@
     "url": "https://github.com/eliasepro/groq-pdf-chat"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1889,
-    "updated_at": "2026-09-17T02:39:59Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
     "id": "humanhady/DocMine",
     "language": "Python",
@@ -311,7 +338,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9272,
-    "updated_at": "2026-09-17T03:12:59Z",
+    "updated_at": "2026-09-17T03:22:06Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -410,7 +437,7 @@
     "language": "Rust",
     "name": "kannaka-labs/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-09-17T02:17:51Z",
+    "updated_at": "2026-09-17T03:18:24Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 6446,
     "updated_at": "2026-09-17T02:10:57Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9442,
-    "updated_at": "2026-09-17T03:11:50Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-17T02:07:20Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8236,
-    "updated_at": "2026-09-17T02:06:56Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
