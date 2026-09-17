@@ -1,5 +1,140 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T07:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 1,
+    "updated_at": "2026-09-17T07:26:50Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11443,
+    "updated_at": "2026-09-17T07:26:36Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
+    "id": "Fractera/fractera-memory-starter",
+    "language": "JavaScript",
+    "name": "Fractera/fractera-memory-starter",
+    "stars": 0,
+    "updated_at": "2026-09-17T07:25:34Z",
+    "url": "https://github.com/Fractera/fractera-memory-starter"
+  },
+  {
+    "description": "Long-term memory for a fleet of LLM agents: deterministic fact supersession, bitemporal soft-retire, physical multi-tena",
+    "id": "uestcyang/deepmemo",
+    "language": "Python",
+    "name": "uestcyang/deepmemo",
+    "stars": 0,
+    "updated_at": "2026-09-17T07:25:13Z",
+    "url": "https://github.com/uestcyang/deepmemo"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-17T07:24:28Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7090,
+    "updated_at": "2026-09-17T07:26:57Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 91,
+    "updated_at": "2026-09-17T07:30:13Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-17T07:19:20Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 4,
+    "updated_at": "2026-09-17T07:29:38Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34616,
+    "updated_at": "2026-09-17T07:18:19Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-17T07:16:18Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Asynchronous document ingestion and RAG pipeline \u2014 Node.js/TypeScript, BullMQ, Redis Stack (RediSearch HNSW), and Google",
+    "id": "Codeinexter/CogniStream",
+    "language": "TypeScript",
+    "name": "Codeinexter/CogniStream",
+    "stars": 0,
+    "updated_at": "2026-09-17T07:16:02Z",
+    "url": "https://github.com/Codeinexter/CogniStream"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-17T07:15:53Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-17T07:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -34,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T07:02:43Z",
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-17T07:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T07:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
@@ -202,7 +319,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46134,
+    "stars": 46135,
     "updated_at": "2026-09-17T07:06:50Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -279,15 +396,6 @@
     "url": "https://github.com/ribagolx10/crossvector"
   },
   {
-    "description": "100% offline, local-first personal AI OS - 30-agent orchestration, epistemic memory, Guardian safety engine & a molten-c",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 1,
-    "updated_at": "2026-09-17T06:27:36Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
     "id": "Separative-involucre520/SearchPaperByEmbedding",
     "language": "Python",
@@ -324,15 +432,6 @@
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   },
   {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 91,
-    "updated_at": "2026-09-17T07:07:43Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
     "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
     "id": "fub05/MCP---Agent-Starter-Kit",
     "language": "Python",
@@ -349,104 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-17T06:23:13Z",
     "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
-    "id": "zoepranataksm/Mind_Vault_AI",
-    "language": "JavaScript",
-    "name": "zoepranataksm/Mind_Vault_AI",
-    "stars": 1,
-    "updated_at": "2026-09-17T06:22:55Z",
-    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
-    "id": "SAHIXXX12/AI-Search-Engine",
-    "language": "TypeScript",
-    "name": "SAHIXXX12/AI-Search-Engine",
-    "stars": 0,
-    "updated_at": "2026-09-17T06:20:19Z",
-    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
-  },
-  {
-    "description": "Long-term memory for a fleet of LLM agents: deterministic fact supersession, bitemporal soft-retire, physical multi-tena",
-    "id": "uestcyang/deepmemo",
-    "language": "Python",
-    "name": "uestcyang/deepmemo",
-    "stars": 0,
-    "updated_at": "2026-09-17T06:19:28Z",
-    "url": "https://github.com/uestcyang/deepmemo"
-  },
-  {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/nest",
-    "language": "Rust",
-    "name": "hoffresearch/nest",
-    "stars": 11,
-    "updated_at": "2026-09-17T06:18:55Z",
-    "url": "https://github.com/hoffresearch/nest"
-  },
-  {
-    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
-    "id": "techdomegh/ai-news-scraper",
-    "language": "Python",
-    "name": "techdomegh/ai-news-scraper",
-    "stars": 12,
-    "updated_at": "2026-09-17T06:17:10Z",
-    "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-09-17T06:16:02Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-09-17T06:16:01Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-17T07:05:45Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-17T06:39:34Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1889,
-    "updated_at": "2026-09-17T06:50:44Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
-    "id": "amirhosssein0/ai-platform-lab",
-    "language": "TypeScript",
-    "name": "amirhosssein0/ai-platform-lab",
-    "stars": 5,
-    "updated_at": "2026-09-17T05:56:27Z",
-    "url": "https://github.com/amirhosssein0/ai-platform-lab"
   }
 ]
