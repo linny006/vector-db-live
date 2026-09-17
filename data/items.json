@@ -1,12 +1,39 @@
 [
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66141,
+    "updated_at": "2026-09-17T22:11:18Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-17T22:00:19Z",
+    "updated_at": "2026-09-17T22:08:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-17T22:08:06Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-17T22:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -63,15 +90,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-17T21:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "An interactive marimo notebook on ICICLE AI Tapis services, a hands-on RAG playground that shows every step, from embedd",
     "id": "ICICLE-ai/icicle-chatbook",
     "language": "Python",
@@ -88,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-09-17T21:37:26Z",
     "url": "https://github.com/kamilsj/vectors"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-17T21:33:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -194,7 +203,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9276,
-    "updated_at": "2026-09-17T21:59:55Z",
+    "updated_at": "2026-09-17T22:08:19Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -230,7 +239,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30784,
-    "updated_at": "2026-09-17T21:45:55Z",
+    "updated_at": "2026-09-17T22:13:59Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -274,7 +283,7 @@
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
-    "stars": 1950,
+    "stars": 1951,
     "updated_at": "2026-09-17T20:07:59Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-17T19:45:21Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-09-17T19:44:38Z",
-    "url": "https://github.com/aziz5971/TalentLens"
   }
 ]
