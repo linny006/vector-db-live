@@ -1,11 +1,47 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T18:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 858,
+    "updated_at": "2026-09-17T18:27:15Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-17T18:25:10Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "JavaScript",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-09-17T18:18:56Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7091,
-    "updated_at": "2026-09-17T18:15:02Z",
+    "updated_at": "2026-09-17T18:28:08Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-09-17T18:13:07Z",
+    "updated_at": "2026-09-17T18:15:25Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T18:10:23Z",
     "url": "https://github.com/Fractera/fractera-memory-starter"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 858,
-    "updated_at": "2026-09-17T18:08:48Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
     "description": "Repo Explainer \u2014 turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples.",
@@ -81,21 +108,12 @@
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T18:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11449,
-    "updated_at": "2026-09-17T18:12:22Z",
+    "updated_at": "2026-09-17T18:15:42Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -126,6 +144,24 @@
     "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
+    "description": "Open-source, privacy-first AI search engine & autonomous agent platform. Built with Flutter, FastAPI, SearXNG, and Qdran",
+    "id": "kamranxdev/searvo",
+    "language": "Dart",
+    "name": "kamranxdev/searvo",
+    "stars": 1,
+    "updated_at": "2026-09-17T17:53:05Z",
+    "url": "https://github.com/kamranxdev/searvo"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30777,
+    "updated_at": "2026-09-17T17:48:54Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -149,7 +185,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1156,
-    "updated_at": "2026-09-17T18:14:22Z",
+    "updated_at": "2026-09-17T18:29:47Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -194,7 +230,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16818,
-    "updated_at": "2026-09-17T17:20:52Z",
+    "updated_at": "2026-09-17T18:30:01Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9276,
-    "updated_at": "2026-09-17T18:12:02Z",
+    "updated_at": "2026-09-17T18:22:42Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -277,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-09-17T17:11:40Z",
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30778,
-    "updated_at": "2026-09-17T17:48:54Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T16:56:00Z",
     "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-09-17T16:52:24Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
-    "id": "KonNik88/ml-research-radar",
-    "language": "Python",
-    "name": "KonNik88/ml-research-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T16:51:18Z",
-    "url": "https://github.com/KonNik88/ml-research-radar"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 2,
-    "updated_at": "2026-09-17T16:50:26Z",
-    "url": "https://github.com/rehan243/rehan243"
   }
 ]
