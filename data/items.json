@@ -1,5 +1,59 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-17T07:11:48Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
+    "id": "devharis99/vectra",
+    "language": "Python",
+    "name": "devharis99/vectra",
+    "stars": 0,
+    "updated_at": "2026-09-17T07:07:33Z",
+    "url": "https://github.com/devharis99/vectra"
+  },
+  {
+    "description": "LLM First Graph RAG",
+    "id": "Krokz/grag",
+    "language": "Python",
+    "name": "Krokz/grag",
+    "stars": 2,
+    "updated_at": "2026-09-17T07:06:44Z",
+    "url": "https://github.com/Krokz/grag"
+  },
+  {
+    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
+    "id": "Raynerhalfandhalf451/writeback",
+    "language": "JavaScript",
+    "name": "Raynerhalfandhalf451/writeback",
+    "stars": 0,
+    "updated_at": "2026-09-17T07:02:43Z",
+    "url": "https://github.com/Raynerhalfandhalf451/writeback"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-17T07:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T07:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
     "id": "Accessible-sloughing768/docustra",
     "language": "Python",
@@ -90,15 +144,6 @@
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-17T06:50:44Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
     "id": "Daubingweirdie414/multimodal-rag",
     "language": "Python",
@@ -124,24 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-17T06:47:53Z",
     "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-17T06:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T07:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
@@ -176,7 +203,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46134,
-    "updated_at": "2026-09-17T06:41:36Z",
+    "updated_at": "2026-09-17T07:06:50Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -205,6 +232,15 @@
     "stars": 0,
     "updated_at": "2026-09-17T06:37:48Z",
     "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "Hallucination guardrail for AI output about indexed documents. POST a claim, get PASS or FAIL with the exact source pass",
+    "id": "henry-hai/SentryQuery-AI",
+    "language": "Python",
+    "name": "henry-hai/SentryQuery-AI",
+    "stars": 0,
+    "updated_at": "2026-09-17T07:01:20Z",
+    "url": "https://github.com/henry-hai/SentryQuery-AI"
   },
   {
     "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
@@ -293,7 +329,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 91,
-    "updated_at": "2026-09-17T06:37:02Z",
+    "updated_at": "2026-09-17T07:07:43Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -334,12 +370,12 @@
   },
   {
     "description": "Long-term memory for a fleet of LLM agents: deterministic fact supersession, bitemporal soft-retire, physical multi-tena",
-    "id": "shuoyediankong/deepmemo",
+    "id": "uestcyang/deepmemo",
     "language": "Python",
-    "name": "shuoyediankong/deepmemo",
+    "name": "uestcyang/deepmemo",
     "stars": 0,
     "updated_at": "2026-09-17T06:19:28Z",
-    "url": "https://github.com/shuoyediankong/deepmemo"
+    "url": "https://github.com/uestcyang/deepmemo"
   },
   {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
@@ -383,7 +419,7 @@
     "language": "Rust",
     "name": "kannaka-labs/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-09-17T06:52:38Z",
+    "updated_at": "2026-09-17T07:05:45Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-17T05:56:27Z",
     "url": "https://github.com/amirhosssein0/ai-platform-lab"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9275,
-    "updated_at": "2026-09-17T06:42:16Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-17T05:45:19Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 120,
-    "updated_at": "2026-09-17T05:41:28Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-09-17T07:00:13Z",
-    "url": "https://github.com/thekaveh/atlas"
   }
 ]
