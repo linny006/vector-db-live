@@ -1,5 +1,77 @@
 [
   {
+    "description": "Complete RAG solution for beniger with vector database",
+    "id": "RakeshRoy1995/Rag-vector-db-beginer",
+    "language": "Python",
+    "name": "RakeshRoy1995/Rag-vector-db-beginer",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:58:58Z",
+    "url": "https://github.com/RakeshRoy1995/Rag-vector-db-beginer"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-09-17T11:58:04Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46138,
+    "updated_at": "2026-09-17T11:57:35Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
+    "id": "redrob-labs/redrob-recall",
+    "language": "Rust",
+    "name": "redrob-labs/redrob-recall",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:55:47Z",
+    "url": "https://github.com/redrob-labs/redrob-recall"
+  },
+  {
+    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
+    "id": "LnYo-Cly/ai4j",
+    "language": "Java",
+    "name": "LnYo-Cly/ai4j",
+    "stars": 429,
+    "updated_at": "2026-09-17T11:53:43Z",
+    "url": "https://github.com/LnYo-Cly/ai4j"
+  },
+  {
+    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
+    "id": "Fractera/fractera-memory-starter",
+    "language": "JavaScript",
+    "name": "Fractera/fractera-memory-starter",
+    "stars": 0,
+    "updated_at": "2026-09-17T11:50:26Z",
+    "url": "https://github.com/Fractera/fractera-memory-starter"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T12:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-17T11:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -23,7 +95,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16815,
-    "updated_at": "2026-09-17T11:44:50Z",
+    "updated_at": "2026-09-17T11:58:40Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -72,30 +144,12 @@
     "url": "https://github.com/c4geeks/vector-db-benchmark"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-17T11:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-17T11:30:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6240,
-    "updated_at": "2026-09-17T11:29:57Z",
+    "updated_at": "2026-09-17T11:52:10Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -104,17 +158,8 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9442,
-    "updated_at": "2026-09-17T11:29:26Z",
+    "updated_at": "2026-09-17T11:58:19Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
-    "id": "Fractera/fractera-memory-starter",
-    "language": "JavaScript",
-    "name": "Fractera/fractera-memory-starter",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:28:41Z",
-    "url": "https://github.com/Fractera/fractera-memory-starter"
   },
   {
     "description": "SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - python sdk",
@@ -140,7 +185,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30767,
-    "updated_at": "2026-09-17T11:44:15Z",
+    "updated_at": "2026-09-17T11:57:35Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -160,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T11:21:12Z",
     "url": "https://github.com/sh1v-max/AI-Backend"
-  },
-  {
-    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
-    "id": "redrob-labs/redrob-recall",
-    "language": "Rust",
-    "name": "redrob-labs/redrob-recall",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:24:49Z",
-    "url": "https://github.com/redrob-labs/redrob-recall"
   },
   {
     "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
@@ -248,7 +284,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7090,
-    "updated_at": "2026-09-17T11:00:59Z",
+    "updated_at": "2026-09-17T11:54:09Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-17T10:47:55Z",
     "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-09-17T10:44:05Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-09-17T10:43:17Z",
-    "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "Pure Python vector database & nearest neighbors search engine (Flat, HNSW, IVF, BM25 hybrid) \u2014 FastMCP & Material 3 UI",
-    "id": "1nc0gn30/vector-search-engine",
-    "language": "Python",
-    "name": "1nc0gn30/vector-search-engine",
-    "stars": 0,
-    "updated_at": "2026-09-17T10:43:09Z",
-    "url": "https://github.com/1nc0gn30/vector-search-engine"
-  },
-  {
-    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
-    "id": "Anonymousforareason111/hybrid-orchestrator",
-    "language": "Python",
-    "name": "Anonymousforareason111/hybrid-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-09-17T10:42:08Z",
-    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
   }
 ]
