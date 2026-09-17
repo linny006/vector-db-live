@@ -5,8 +5,170 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-17T12:30:22Z",
+    "updated_at": "2026-09-17T12:45:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
+    "id": "Bielrezende/WMB-100K",
+    "language": "\u2014",
+    "name": "Bielrezende/WMB-100K",
+    "stars": 0,
+    "updated_at": "2026-09-17T12:44:48Z",
+    "url": "https://github.com/Bielrezende/WMB-100K"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-17T12:44:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
+    "id": "okeidontlike/Awareness-Local",
+    "language": "JavaScript",
+    "name": "okeidontlike/Awareness-Local",
+    "stars": 2,
+    "updated_at": "2026-09-17T12:44:36Z",
+    "url": "https://github.com/okeidontlike/Awareness-Local"
+  },
+  {
+    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
+    "id": "ahmahmahm/pdf-rag-assistant",
+    "language": "\u2014",
+    "name": "ahmahmahm/pdf-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-17T12:44:28Z",
+    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
+  },
+  {
+    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
+    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
+    "language": "\u2014",
+    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
+    "stars": 0,
+    "updated_at": "2026-09-17T12:42:48Z",
+    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
+  },
+  {
+    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
+    "id": "decided-indication109/AI-Engineer-in-90-Days",
+    "language": "Mermaid",
+    "name": "decided-indication109/AI-Engineer-in-90-Days",
+    "stars": 2,
+    "updated_at": "2026-09-17T12:42:08Z",
+    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
+  },
+  {
+    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
+    "id": "eastythenob8-svg/graph-memory",
+    "language": "TypeScript",
+    "name": "eastythenob8-svg/graph-memory",
+    "stars": 1,
+    "updated_at": "2026-09-17T12:41:53Z",
+    "url": "https://github.com/eastythenob8-svg/graph-memory"
+  },
+  {
+    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
+    "id": "Fractera/fractera-memory-starter",
+    "language": "JavaScript",
+    "name": "Fractera/fractera-memory-starter",
+    "stars": 0,
+    "updated_at": "2026-09-17T12:41:10Z",
+    "url": "https://github.com/Fractera/fractera-memory-starter"
+  },
+  {
+    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
+    "id": "sh1v-max/AI-Backend",
+    "language": "TypeScript",
+    "name": "sh1v-max/AI-Backend",
+    "stars": 0,
+    "updated_at": "2026-09-17T12:40:49Z",
+    "url": "https://github.com/sh1v-max/AI-Backend"
+  },
+  {
+    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
+    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
+    "language": "JavaScript",
+    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
+    "stars": 2,
+    "updated_at": "2026-09-17T12:38:04Z",
+    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
+  },
+  {
+    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
+    "id": "a258huit58/claude-memory",
+    "language": "JavaScript",
+    "name": "a258huit58/claude-memory",
+    "stars": 1,
+    "updated_at": "2026-09-17T12:37:11Z",
+    "url": "https://github.com/a258huit58/claude-memory"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30769,
+    "updated_at": "2026-09-17T12:40:29Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
+    "id": "Anonymousforareason111/hybrid-orchestrator",
+    "language": "Python",
+    "name": "Anonymousforareason111/hybrid-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-09-17T12:35:54Z",
+    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
+  },
+  {
+    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
+    "id": "ELSAKKK/mnemos-mcp",
+    "language": "Python",
+    "name": "ELSAKKK/mnemos-mcp",
+    "stars": 5,
+    "updated_at": "2026-09-17T12:31:29Z",
+    "url": "https://github.com/ELSAKKK/mnemos-mcp"
+  },
+  {
+    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
+    "id": "desikai-lab/Marrow",
+    "language": "Python",
+    "name": "desikai-lab/Marrow",
+    "stars": 7,
+    "updated_at": "2026-09-17T12:30:38Z",
+    "url": "https://github.com/desikai-lab/Marrow"
+  },
+  {
+    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
+    "id": "hankamarvanova/unified-db",
+    "language": "Swift",
+    "name": "hankamarvanova/unified-db",
+    "stars": 2,
+    "updated_at": "2026-09-17T12:30:31Z",
+    "url": "https://github.com/hankamarvanova/unified-db"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-17T12:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
+    "id": "BiggerCap/agentops-hub",
+    "language": "TypeScript",
+    "name": "BiggerCap/agentops-hub",
+    "stars": 2,
+    "updated_at": "2026-09-17T12:30:27Z",
+    "url": "https://github.com/BiggerCap/agentops-hub"
   },
   {
     "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
@@ -25,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-17T12:28:10Z",
     "url": "https://github.com/amaaxx/halkill"
-  },
-  {
-    "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
-    "id": "Fractera/fractera-memory-starter",
-    "language": "JavaScript",
-    "name": "Fractera/fractera-memory-starter",
-    "stars": 0,
-    "updated_at": "2026-09-17T12:27:41Z",
-    "url": "https://github.com/Fractera/fractera-memory-starter"
   },
   {
     "description": "DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind",
@@ -113,7 +266,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16815,
-    "updated_at": "2026-09-17T12:21:09Z",
+    "updated_at": "2026-09-17T12:45:00Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -131,7 +284,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1156,
-    "updated_at": "2026-09-17T12:20:19Z",
+    "updated_at": "2026-09-17T12:42:52Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -153,15 +306,6 @@
     "url": "https://github.com/roberto729a/OllamaRAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-17T12:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
     "id": "Shajo777/SupaAI-Framework-Template",
     "language": "\u2014",
@@ -169,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T12:13:35Z",
     "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-17T12:13:22Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
@@ -266,7 +401,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 91,
-    "updated_at": "2026-09-17T12:29:37Z",
+    "updated_at": "2026-09-17T12:37:31Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -293,17 +428,8 @@
     "language": "MDX",
     "name": "weaviate/weaviate-io",
     "stars": 89,
-    "updated_at": "2026-09-17T12:29:03Z",
+    "updated_at": "2026-09-17T12:40:13Z",
     "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30768,
-    "updated_at": "2026-09-17T11:57:35Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
@@ -311,7 +437,7 @@
     "language": "Rust",
     "name": "redrob-labs/redrob-recall",
     "stars": 0,
-    "updated_at": "2026-09-17T11:55:47Z",
+    "updated_at": "2026-09-17T12:31:56Z",
     "url": "https://github.com/redrob-labs/redrob-recall"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 429,
     "updated_at": "2026-09-17T11:53:43Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59314,
-    "updated_at": "2026-09-17T12:03:37Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-17T11:43:12Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1889,
-    "updated_at": "2026-09-17T11:41:27Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1913,
-    "updated_at": "2026-09-17T11:37:06Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "EKA Agent \u2014 Multi-device data ingestion, LoRA training pipeline, and vector DB for a private AI agent. Hub-and-spoke: 6 ",
-    "id": "jaytipargal/jayti",
-    "language": "Python",
-    "name": "jaytipargal/jayti",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:34:56Z",
-    "url": "https://github.com/jaytipargal/jayti"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 257,
-    "updated_at": "2026-09-17T11:34:29Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Companion repo for https://computingforgeeks.com/qdrant-weaviate-milvus-pgvector/ \u2014 reproducible single-host ANN benchma",
-    "id": "c4geeks/vector-db-benchmark",
-    "language": "Python",
-    "name": "c4geeks/vector-db-benchmark",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:31:26Z",
-    "url": "https://github.com/c4geeks/vector-db-benchmark"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6240,
-    "updated_at": "2026-09-17T12:13:00Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9442,
-    "updated_at": "2026-09-17T11:58:19Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "SochDB is a high-performance embedded, ACID-compliant database purpose-built for AI agents and memory - python sdk",
-    "id": "sochdb/sochdb-python-sdk",
-    "language": "Python",
-    "name": "sochdb/sochdb-python-sdk",
-    "stars": 2,
-    "updated_at": "2026-09-17T11:27:04Z",
-    "url": "https://github.com/sochdb/sochdb-python-sdk"
-  },
-  {
-    "description": "A library that's just an in-process indexer: A lightweight Rust engine with Python bindings for HNSW, PQ, and Flat that ",
-    "id": "one2seven-oss/vivy",
-    "language": "Rust",
-    "name": "one2seven-oss/vivy",
-    "stars": 4,
-    "updated_at": "2026-09-17T11:22:54Z",
-    "url": "https://github.com/one2seven-oss/vivy"
-  },
-  {
-    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
-    "id": "sh1v-max/AI-Backend",
-    "language": "TypeScript",
-    "name": "sh1v-max/AI-Backend",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:21:12Z",
-    "url": "https://github.com/sh1v-max/AI-Backend"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 18,
-    "updated_at": "2026-09-17T11:10:51Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
-    "id": "Constraintworthy6058/ai-github-repository-assistant",
-    "language": "TypeScript",
-    "name": "Constraintworthy6058/ai-github-repository-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-17T11:05:10Z",
-    "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
   }
 ]
