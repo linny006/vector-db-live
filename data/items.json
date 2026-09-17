@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-17T13:15:20Z",
+    "updated_at": "2026-09-17T13:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-09-17T13:29:04Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
+    "id": "redrob-labs/redrob-recall",
+    "language": "Rust",
+    "name": "redrob-labs/redrob-recall",
+    "stars": 0,
+    "updated_at": "2026-09-17T13:29:42Z",
+    "url": "https://github.com/redrob-labs/redrob-recall"
+  },
+  {
+    "description": "A full-stack Retrieval-Augmented Generation (RAG) web application built with FastAPI, Qdrant Vector Database, and Huggin",
+    "id": "hasinduudara/Simple-RAG-Website",
+    "language": "HTML",
+    "name": "hasinduudara/Simple-RAG-Website",
+    "stars": 1,
+    "updated_at": "2026-09-17T13:28:28Z",
+    "url": "https://github.com/hasinduudara/Simple-RAG-Website"
+  },
+  {
+    "description": "A suite of WAL-based embedded data stores. RDBMS, KV Store, GraphStore, VectorStore, Columnar and more",
+    "id": "openpeeps/boogie",
+    "language": "Nim",
+    "name": "openpeeps/boogie",
+    "stars": 6,
+    "updated_at": "2026-09-17T13:27:36Z",
+    "url": "https://github.com/openpeeps/boogie"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-09-17T13:25:22Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-17T13:25:17Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1889,
+    "updated_at": "2026-09-17T13:23:33Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "EKA Agent \u2014 Multi-device data ingestion, LoRA training pipeline, and vector DB for a private AI agent. Hub-and-spoke: 6 ",
+    "id": "jaytipargal/jayti",
+    "language": "Python",
+    "name": "jaytipargal/jayti",
+    "stars": 0,
+    "updated_at": "2026-09-17T13:22:45Z",
+    "url": "https://github.com/jaytipargal/jayti"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-17T13:16:52Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-17T13:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Public OpenAPI specs for Pinecone RESTful APIs and Protobuf definitions",
@@ -45,15 +135,6 @@
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-17T13:08:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
     "id": "hbar-systems/brainfoundry-nous",
     "language": "Python",
@@ -81,20 +162,11 @@
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1889,
-    "updated_at": "2026-09-17T13:14:44Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "End-to-end sovereign personal AI OS (FastAPI + React 19 + Electron). Features local 14B LLMs, wake-word voice pipelines,",
     "id": "AkashKundu114/COPPER",
     "language": "Python",
     "name": "AkashKundu114/COPPER",
-    "stars": 1,
+    "stars": 2,
     "updated_at": "2026-09-17T13:01:30Z",
     "url": "https://github.com/AkashKundu114/COPPER"
   },
@@ -106,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-17T13:00:50Z",
     "url": "https://github.com/pwolfey09-sketch/embedflow"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-17T13:00:47Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The deterministic, multimodal, self-evolving memory engine for autonomous AI agents",
@@ -216,15 +279,6 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "EKA Agent \u2014 Multi-device data ingestion, LoRA training pipeline, and vector DB for a private AI agent. Hub-and-spoke: 6 ",
-    "id": "jaytipargal/jayti",
-    "language": "Python",
-    "name": "jaytipargal/jayti",
-    "stars": 0,
-    "updated_at": "2026-09-17T12:51:49Z",
-    "url": "https://github.com/jaytipargal/jayti"
-  },
-  {
     "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
     "id": "maximilien/weave-cli",
     "language": "Go",
@@ -297,15 +351,6 @@
     "url": "https://github.com/cornelablastular720/dbdb-index"
   },
   {
-    "description": "A suite of WAL-based embedded data stores. RDBMS, KV Store, GraphStore, VectorStore, Columnar and more",
-    "id": "openpeeps/boogie",
-    "language": "Nim",
-    "name": "openpeeps/boogie",
-    "stars": 6,
-    "updated_at": "2026-09-17T12:47:48Z",
-    "url": "https://github.com/openpeeps/boogie"
-  },
-  {
     "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
     "id": "Ac3v3d0/semafold",
     "language": "Python",
@@ -320,7 +365,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30771,
-    "updated_at": "2026-09-17T13:09:06Z",
+    "updated_at": "2026-09-17T13:25:35Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -331,15 +376,6 @@
     "stars": 2,
     "updated_at": "2026-09-17T12:46:12Z",
     "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
-    "id": "redrob-labs/redrob-recall",
-    "language": "Rust",
-    "name": "redrob-labs/redrob-recall",
-    "stars": 0,
-    "updated_at": "2026-09-17T13:06:14Z",
-    "url": "https://github.com/redrob-labs/redrob-recall"
   },
   {
     "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
@@ -412,41 +448,5 @@
     "stars": 34631,
     "updated_at": "2026-09-17T13:13:39Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
-    "id": "sh1v-max/AI-Backend",
-    "language": "TypeScript",
-    "name": "sh1v-max/AI-Backend",
-    "stars": 0,
-    "updated_at": "2026-09-17T12:40:49Z",
-    "url": "https://github.com/sh1v-max/AI-Backend"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-09-17T12:38:04Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-09-17T12:37:11Z",
-    "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
-    "id": "Anonymousforareason111/hybrid-orchestrator",
-    "language": "Python",
-    "name": "Anonymousforareason111/hybrid-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-09-17T12:35:54Z",
-    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
   }
 ]
