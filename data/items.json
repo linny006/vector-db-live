@@ -1,5 +1,32 @@
 [
   {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 858,
+    "updated_at": "2026-09-17T23:44:29Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "The unified multimodal backend agents build with. Database, orchestration, and serving in one Python file.",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1623,
+    "updated_at": "2026-09-17T23:37:33Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-17T23:36:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
@@ -27,21 +54,12 @@
     "url": "https://github.com/MaxFreedomPollard/Compartment"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-17T23:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-17T23:30:22Z",
+    "updated_at": "2026-09-17T23:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -63,20 +81,11 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 858,
-    "updated_at": "2026-09-17T23:33:47Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66144,
+    "stars": 66143,
     "updated_at": "2026-09-17T23:23:19Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -97,6 +106,15 @@
     "stars": 1,
     "updated_at": "2026-09-17T23:18:30Z",
     "url": "https://github.com/diegormirhan/polyrag"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34643,
+    "updated_at": "2026-09-17T23:12:27Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
@@ -414,15 +432,6 @@
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34642,
-    "updated_at": "2026-09-17T23:12:27Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
     "id": "Edublackk/self-correcting-rag-chatbot",
     "language": "\u2014",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-17T22:32:28Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
-    "id": "leitoooatr/PythonVectorDB",
-    "language": "Python",
-    "name": "leitoooatr/PythonVectorDB",
-    "stars": 2,
-    "updated_at": "2026-09-17T22:32:21Z",
-    "url": "https://github.com/leitoooatr/PythonVectorDB"
   }
 ]
