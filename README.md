@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-17 21:25 UTC
+> ⏰ Last updated: 2026-09-17 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,27 +42,27 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kamilsj/vectors](https://github.com/kamilsj/vectors) | 4 | Rust | 2026-09-17 | SQL-first vector database written in Rust: relational filters and similarity search in one query. |
-| 2 | [josephkamau32/devintel](https://github.com/josephkamau32/devintel) | 10 | Python | 2026-09-17 | DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind |
-| 3 | [stuinfla/Repo-Explainer](https://github.com/stuinfla/Repo-Explainer) | 58 | JavaScript | 2026-09-17 | Repo Explainer — turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples. |
-| 4 | [ICICLE-ai/icicle-chatbook](https://github.com/ICICLE-ai/icicle-chatbook) | 3 | Python | 2026-09-17 | An interactive marimo notebook on ICICLE AI Tapis services, a hands-on RAG playground that shows every step, from embedd |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 7 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-09-17 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 8 | [schmitech/orbit](https://github.com/schmitech/orbit) | 350 | Python | 2026-09-17 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 9 | [1nc0gn30/vector-search-engine](https://github.com/1nc0gn30/vector-search-engine) | 0 | Python | 2026-09-17 | Pure Python vector database & nearest neighbors search engine (Flat, HNSW, IVF, BM25 hybrid) — FastMCP & Material 3 UI |
-| 10 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-09-17 | Identity and Authorization Service with Vector and AI Integration |
-| 11 | [mastaan66/memolite](https://github.com/mastaan66/memolite) | 1 | Python | 2026-09-17 | Single file SQLite memory for AI agents. Offline hybrid recall with FTS5. Session aware, thread safe, WAL durable. STM p |
-| 12 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1156 | Java | 2026-09-17 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 13 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-17 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 14 | [tryAGI/Weaviate](https://github.com/tryAGI/Weaviate) | 2 | C# | 2026-09-17 | C# SDK for the Weaviate API -- open-source vector database |
-| 15 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 3 | Python | 2026-09-17 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
-| 16 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-17 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 17 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9276 | Rust | 2026-09-17 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 18 | [sameerthawait/adaptive_sementic_chunking](https://github.com/sameerthawait/adaptive_sementic_chunking) | 0 | Python | 2026-09-17 |  Adaptive Semantic Chunking (ASC) Adaptive Semantic Chunking (ASC) is a research-grade RAG (Retrieval-Augmented Generati |
-| 19 | [dkylewillis/vera](https://github.com/dkylewillis/vera) | 18 | Python | 2026-09-17 |  |
-| 20 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-17 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 21 | [openpeeps/boogie](https://github.com/openpeeps/boogie) | 6 | Nim | 2026-09-17 | A suite of WAL-based embedded data stores. RDBMS, KV Store, GraphStore, VectorStore, Columnar and more |
+| 1 | [schmitech/orbit](https://github.com/schmitech/orbit) | 350 | Python | 2026-09-17 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [openpeeps/boogie](https://github.com/openpeeps/boogie) | 6 | Nim | 2026-09-17 | A suite of WAL-based embedded data stores. RDBMS, KV Store, GraphStore, VectorStore, Columnar and more |
+| 4 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1156 | Java | 2026-09-17 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 5 | [stuinfla/Repo-Explainer](https://github.com/stuinfla/Repo-Explainer) | 58 | JavaScript | 2026-09-17 | Repo Explainer — turn any GitHub repo into a visual explainer page. Pipeline + 5 live examples. |
+| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 7 | [kamilsj/vectors](https://github.com/kamilsj/vectors) | 4 | Rust | 2026-09-17 | SQL-first vector database written in Rust: relational filters and similarity search in one query. |
+| 8 | [josephkamau32/devintel](https://github.com/josephkamau32/devintel) | 10 | Python | 2026-09-17 | DevIntel AI is an AI-powered developer productivity platform that enables developers to connect GitHub repositories, ind |
+| 9 | [ICICLE-ai/icicle-chatbook](https://github.com/ICICLE-ai/icicle-chatbook) | 3 | Python | 2026-09-17 | An interactive marimo notebook on ICICLE AI Tapis services, a hands-on RAG playground that shows every step, from embedd |
+| 10 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-09-17 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 11 | [1nc0gn30/vector-search-engine](https://github.com/1nc0gn30/vector-search-engine) | 0 | Python | 2026-09-17 | Pure Python vector database & nearest neighbors search engine (Flat, HNSW, IVF, BM25 hybrid) — FastMCP & Material 3 UI |
+| 12 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | JavaScript | 2026-09-17 | Identity and Authorization Service with Vector and AI Integration |
+| 13 | [mastaan66/memolite](https://github.com/mastaan66/memolite) | 1 | Python | 2026-09-17 | Single file SQLite memory for AI agents. Offline hybrid recall with FTS5. Session aware, thread safe, WAL durable. STM p |
+| 14 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-17 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 15 | [tryAGI/Weaviate](https://github.com/tryAGI/Weaviate) | 2 | C# | 2026-09-17 | C# SDK for the Weaviate API -- open-source vector database |
+| 16 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 3 | Python | 2026-09-17 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
+| 17 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-17 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 18 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9276 | Rust | 2026-09-17 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 19 | [sameerthawait/adaptive_sementic_chunking](https://github.com/sameerthawait/adaptive_sementic_chunking) | 0 | Python | 2026-09-17 |  Adaptive Semantic Chunking (ASC) Adaptive Semantic Chunking (ASC) is a research-grade RAG (Retrieval-Augmented Generati |
+| 20 | [dkylewillis/vera](https://github.com/dkylewillis/vera) | 18 | Python | 2026-09-17 |  |
+| 21 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-17 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
 | 22 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30784 | Python | 2026-09-17 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
 | 23 | [MariaDB/server](https://github.com/MariaDB/server) | 8237 | C++ | 2026-09-17 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 24 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 878 | Go | 2026-09-17 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
