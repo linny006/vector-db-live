@@ -1,12 +1,21 @@
 [
   {
-    "description": "LiteGraph is a multi-modal AI data platform - a property graph with relational, vector, and MCP support, to power knowle",
-    "id": "litegraphdb/litegraph",
-    "language": "C#",
-    "name": "litegraphdb/litegraph",
-    "stars": 130,
-    "updated_at": "2026-09-16T23:48:03Z",
-    "url": "https://github.com/litegraphdb/litegraph"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-17T00:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-16T23:58:42Z",
+    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +23,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-09-16T23:45:25Z",
+    "updated_at": "2026-09-16T23:51:15Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-16T23:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "LiteGraph is a multi-modal AI data platform - a property graph with relational, vector, and MCP support, to power knowle",
+    "id": "litegraphdb/litegraph",
+    "language": "C#",
+    "name": "litegraphdb/litegraph",
+    "stars": 130,
+    "updated_at": "2026-09-16T23:48:03Z",
+    "url": "https://github.com/litegraphdb/litegraph"
   },
   {
     "description": "Self improving agents through iterations",
@@ -41,7 +50,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9271,
-    "updated_at": "2026-09-16T23:45:40Z",
+    "updated_at": "2026-09-16T23:56:25Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -59,7 +68,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30749,
-    "updated_at": "2026-09-16T23:32:06Z",
+    "updated_at": "2026-09-16T23:59:58Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -187,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-09-16T22:58:19Z",
     "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-16T23:28:04Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
@@ -374,7 +374,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1155,
-    "updated_at": "2026-09-16T23:39:16Z",
+    "updated_at": "2026-09-17T00:00:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -392,7 +392,7 @@
     "language": "Rust",
     "name": "wickra-lib/wickra-genome",
     "stars": 1,
-    "updated_at": "2026-09-16T22:29:58Z",
+    "updated_at": "2026-09-16T23:52:40Z",
     "url": "https://github.com/wickra-lib/wickra-genome"
   },
   {
