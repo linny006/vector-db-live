@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-17 03:30 UTC
+> ⏰ Last updated: 2026-09-17 03:33 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,11 +42,11 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9442 | Rust | 2026-09-17 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
-| 3 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1889 | Go | 2026-09-17 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 4 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 3 | Python | 2026-09-17 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 1889 | Go | 2026-09-17 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-17 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-17 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9442 | Rust | 2026-09-17 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
+| 5 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 3 | Python | 2026-09-17 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
 | 6 | [devharis99/vectra](https://github.com/devharis99/vectra) | 0 | Python | 2026-09-17 | Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite |
 | 7 | [litegraphdb/litegraph](https://github.com/litegraphdb/litegraph) | 130 | C# | 2026-09-17 | LiteGraph is a multi-modal AI data platform - a property graph with relational, vector, and MCP support, to power knowle |
 | 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-17 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
