@@ -1,11 +1,56 @@
 [
   {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-09-18T07:26:23Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 15965,
+    "updated_at": "2026-09-18T07:25:21Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16819,
+    "updated_at": "2026-09-18T07:21:40Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-18T07:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T07:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46152,
-    "updated_at": "2026-09-18T07:13:36Z",
+    "updated_at": "2026-09-18T07:23:36Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -50,7 +95,7 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 858,
-    "updated_at": "2026-09-18T07:06:00Z",
+    "updated_at": "2026-09-18T07:26:16Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
@@ -61,6 +106,15 @@
     "stars": 1,
     "updated_at": "2026-09-18T07:05:28Z",
     "url": "https://github.com/threefigure-achromia682/ai-memory"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8240,
+    "updated_at": "2026-09-18T07:22:08Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
@@ -106,24 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T07:03:02Z",
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-18T07:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T07:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
@@ -378,15 +414,6 @@
     "url": "https://github.com/surajkumarnavodya/text-to-sql-agent-langgraph"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16819,
-    "updated_at": "2026-09-18T06:38:17Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
     "id": "Edublackk/self-correcting-rag-chatbot",
     "language": "\u2014",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T06:33:15Z",
     "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8239,
-    "updated_at": "2026-09-18T07:05:12Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35703,
-    "updated_at": "2026-09-18T06:32:29Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "The fastest pure Go in-memory Redis alternative. 6.87M+ ops/s peak throughput, 119\u00b5s latency, Multi-Reactor engine, embe",
-    "id": "GargAnshu9468/vortexkv",
-    "language": "Go",
-    "name": "GargAnshu9468/vortexkv",
-    "stars": 1,
-    "updated_at": "2026-09-18T06:32:12Z",
-    "url": "https://github.com/GargAnshu9468/vortexkv"
   }
 ]
