@@ -1,12 +1,48 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 4,
+    "updated_at": "2026-09-18T16:11:50Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
     "language": "Python",
-    "name": "linny006/vector-db-live",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 25,
+    "updated_at": "2026-09-18T16:10:59Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+  },
+  {
+    "description": "\"When Springboot happened to AI\" - a new project for backend focused project named Filmoji",
+    "id": "Hajime-No-Ippo/Filmoji",
+    "language": "JavaScript",
+    "name": "Hajime-No-Ippo/Filmoji",
+    "stars": 0,
+    "updated_at": "2026-09-18T16:09:56Z",
+    "url": "https://github.com/Hajime-No-Ippo/Filmoji"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 3,
-    "updated_at": "2026-09-18T15:53:01Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-09-18T16:08:37Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "ZIM-based retrieval augmented proxy for OpenAI-compatible AI",
+    "id": "3M1RY33T/tensor-serve",
+    "language": "Python",
+    "name": "3M1RY33T/tensor-serve",
+    "stars": 5,
+    "updated_at": "2026-09-18T16:07:14Z",
+    "url": "https://github.com/3M1RY33T/tensor-serve"
   },
   {
     "description": "Embeddable vector database for edge AI",
@@ -14,8 +50,44 @@
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-09-18T15:59:48Z",
+    "updated_at": "2026-09-18T16:04:40Z",
     "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1919,
+    "updated_at": "2026-09-18T16:11:28Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-18T16:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T16:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30808,
+    "updated_at": "2026-09-18T16:10:42Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "A chat bot meant to be used as a Study buddy.",
@@ -45,15 +117,6 @@
     "url": "https://github.com/rao-studios/Sewn"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30806,
-    "updated_at": "2026-09-18T15:59:30Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "A local browser-based RAG application for document Q&A. Upload PDFs or images, extract text using PyMuPDF and EasyOCR, c",
     "id": "devanshkasaudhan/Document-RAG",
     "language": "Python",
@@ -70,33 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T15:48:15Z",
     "url": "https://github.com/rao-studios/Thread"
-  },
-  {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 4,
-    "updated_at": "2026-09-18T15:47:23Z",
-    "url": "https://github.com/d3uceY/vectile"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1917,
-    "updated_at": "2026-09-18T15:53:52Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T16:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl",
@@ -126,15 +162,6 @@
     "url": "https://github.com/3L0935/hermes-lancedb-memory-suite"
   },
   {
-    "description": "ZIM-based retrieval augmented proxy for OpenAI-compatible AI",
-    "id": "3M1RY33T/tensor-serve",
-    "language": "Python",
-    "name": "3M1RY33T/tensor-serve",
-    "stars": 5,
-    "updated_at": "2026-09-18T15:38:54Z",
-    "url": "https://github.com/3M1RY33T/tensor-serve"
-  },
-  {
     "description": "TitanRAG - An open-source RAG infrastructure for building scalable, multi-tenant and multimodal AI applications.",
     "id": "Aftabmallick/titanrag",
     "language": "Python",
@@ -162,15 +189,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-18T15:35:21Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
@@ -194,8 +212,17 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6451,
-    "updated_at": "2026-09-18T15:35:05Z",
+    "updated_at": "2026-09-18T16:09:23Z",
     "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34659,
+    "updated_at": "2026-09-18T15:34:05Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -241,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T15:29:32Z",
     "url": "https://github.com/Shitless-jnr3697/rebasis"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 25,
-    "updated_at": "2026-09-18T15:29:12Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
     "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
@@ -430,23 +448,5 @@
     "stars": 5,
     "updated_at": "2026-09-18T15:06:13Z",
     "url": "https://github.com/brodewa369/roowet-semantic-vault-search"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-09-18T15:05:55Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "The Kubernetes Operator of Milvus. ",
-    "id": "zilliztech/milvus-operator",
-    "language": "Go",
-    "name": "zilliztech/milvus-operator",
-    "stars": 131,
-    "updated_at": "2026-09-18T15:06:09Z",
-    "url": "https://github.com/zilliztech/milvus-operator"
   }
 ]
