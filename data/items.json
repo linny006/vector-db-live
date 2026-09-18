@@ -1,5 +1,122 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T14:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Support operations platform for B2B SaaS teams, featuring ticket triage, versioned knowledge base, grounded response dra",
+    "id": "rafael-acerqueira/support-ops",
+    "language": "Python",
+    "name": "rafael-acerqueira/support-ops",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:45:10Z",
+    "url": "https://github.com/rafael-acerqueira/support-ops"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:42:50Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:42:48Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-09-18T14:42:02Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "Local RAG semantic search for Obsidian vaults \u2014 Ollama + LanceDB + MCP. Search your markdown vault by meaning, not keywo",
+    "id": "brodewa369/roowet-semantic-vault-search",
+    "language": "Python",
+    "name": "brodewa369/roowet-semantic-vault-search",
+    "stars": 5,
+    "updated_at": "2026-09-18T14:40:02Z",
+    "url": "https://github.com/brodewa369/roowet-semantic-vault-search"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:38:55Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9281,
+    "updated_at": "2026-09-18T14:43:42Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "A FastAPI-based REST API service that provides OCR (Optical Character Recognition) for images, RAG (Retrieval-Augmented ",
+    "id": "kingrocfella/image-to-text-app",
+    "language": "Python",
+    "name": "kingrocfella/image-to-text-app",
+    "stars": 1,
+    "updated_at": "2026-09-18T14:37:53Z",
+    "url": "https://github.com/kingrocfella/image-to-text-app"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-18T14:36:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7093,
+    "updated_at": "2026-09-18T14:43:54Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-18T14:34:34Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-18T14:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
     "id": "hoffresearch/urna",
     "language": "Rust",
@@ -18,13 +135,13 @@
     "url": "https://github.com/tryAGI/Qdrant"
   },
   {
-    "description": "Local RAG semantic search for Obsidian vaults \u2014 Ollama + LanceDB + MCP. Search your markdown vault by meaning, not keywo",
-    "id": "brodewa369/roowet-semantic-vault-search",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "brodewa369/roowet-semantic-vault-search",
-    "stars": 5,
-    "updated_at": "2026-09-18T14:25:09Z",
-    "url": "https://github.com/brodewa369/roowet-semantic-vault-search"
+    "name": "topoteretes/cognee",
+    "stars": 30806,
+    "updated_at": "2026-09-18T14:45:23Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
@@ -68,7 +185,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 95,
-    "updated_at": "2026-09-18T14:19:11Z",
+    "updated_at": "2026-09-18T14:45:10Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -81,24 +198,6 @@
     "url": "https://github.com/NirDiamant/RAG_Techniques"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-18T14:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T14:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83e\udde0 Predictable, embedded multimodal vector database & offline RAG engine for Edge AI (ARM64 / Zero-OOM). Built in C++20.",
     "id": "pomagrenate/pomaidb",
     "language": "C++",
@@ -106,15 +205,6 @@
     "stars": 19,
     "updated_at": "2026-09-18T14:14:43Z",
     "url": "https://github.com/pomagrenate/pomaidb"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-18T14:14:14Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "The Kubernetes Operator of Milvus. ",
@@ -144,15 +234,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-18T14:08:45Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Local-first LanceDB memory suite for Hermes Agent - memory provider plugin (8 MCP tools), web visualizer (11 pages), scr",
     "id": "3L0935/hermes-lancedb-memory-suite",
     "language": "Python",
@@ -167,7 +248,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1157,
-    "updated_at": "2026-09-18T14:25:32Z",
+    "updated_at": "2026-09-18T14:40:00Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -221,17 +302,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6240,
-    "updated_at": "2026-09-18T14:16:33Z",
+    "updated_at": "2026-09-18T14:39:51Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7093,
-    "updated_at": "2026-09-18T14:16:30Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -241,15 +313,6 @@
     "stars": 1951,
     "updated_at": "2026-09-18T13:31:04Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30804,
-    "updated_at": "2026-09-18T14:24:55Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "TitanRAG - An open-source RAG infrastructure for building scalable, multi-tenant and multimodal AI applications.",
@@ -268,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T13:27:29Z",
     "url": "https://github.com/bazanov05/arxiv-rag-engine"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9281,
-    "updated_at": "2026-09-18T14:25:20Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T13:01:27Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-09-18T12:59:41Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
-    "id": "surajkumarnavodya/text-to-sql-agent-langgraph",
-    "language": "Python",
-    "name": "surajkumarnavodya/text-to-sql-agent-langgraph",
-    "stars": 3,
-    "updated_at": "2026-09-18T12:57:11Z",
-    "url": "https://github.com/surajkumarnavodya/text-to-sql-agent-langgraph"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-09-18T12:56:26Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-09-18T12:55:57Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
-    "id": "dovahkiin-v/mitos",
-    "language": "Python",
-    "name": "dovahkiin-v/mitos",
-    "stars": 4,
-    "updated_at": "2026-09-18T12:55:56Z",
-    "url": "https://github.com/dovahkiin-v/mitos"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-09-18T12:55:31Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   }
 ]
