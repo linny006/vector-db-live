@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-18T22:00:22Z",
+    "updated_at": "2026-09-18T22:14:46Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\u7121\u6599\u67a0\u3060\u3051\u30674\u3064\u306e\u30d9\u30af\u30c8\u30ebDB(Supabase/Qdrant/Turso/Cloudflare)\u3078\u540c\u4e00RAG\u3092\u6d41\u3057\u3001\u54c1\u8cea\u30fb\u30ec\u30a4\u30c6\u30f3\u30b7\u30fb\u7121\u6599\u67a0\u306e\u5f8b\u901f\u30e6\u30cb\u30c3\u30c8\u3092\u518d\u73fe\u53ef\u80fd\u306b\u5b9f\u6e2c\u3059\u308bPython\u30cf\u30fc\u30cd\u30b9",
+    "id": "sumitsuke/free-tier-vectordb-bench",
+    "language": "Python",
+    "name": "sumitsuke/free-tier-vectordb-bench",
+    "stars": 0,
+    "updated_at": "2026-09-18T22:14:02Z",
+    "url": "https://github.com/sumitsuke/free-tier-vectordb-bench"
+  },
+  {
+    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
+    "id": "hoffresearch/urna",
+    "language": "Rust",
+    "name": "hoffresearch/urna",
+    "stars": 11,
+    "updated_at": "2026-09-18T22:10:38Z",
+    "url": "https://github.com/hoffresearch/urna"
+  },
+  {
+    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
+    "id": "oracle/langchain-oracle",
+    "language": "Python",
+    "name": "oracle/langchain-oracle",
+    "stars": 60,
+    "updated_at": "2026-09-18T22:11:31Z",
+    "url": "https://github.com/oracle/langchain-oracle"
+  },
+  {
+    "description": "Local RAG semantic search for Obsidian vaults \u2014 Ollama + LanceDB + MCP. Search your markdown vault by meaning, not keywo",
+    "id": "brodewa369/roowet-semantic-vault-search",
+    "language": "Python",
+    "name": "brodewa369/roowet-semantic-vault-search",
+    "stars": 5,
+    "updated_at": "2026-09-18T22:08:41Z",
+    "url": "https://github.com/brodewa369/roowet-semantic-vault-search"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-18T22:07:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "LLM-native architecture decision record (ADR) tracking. Prevents Agents from repeating mistakes. SQLite + Qdrant + MCP. ",
+    "id": "dovahkiin-v/mitos",
+    "language": "Python",
+    "name": "dovahkiin-v/mitos",
+    "stars": 4,
+    "updated_at": "2026-09-18T22:07:35Z",
+    "url": "https://github.com/dovahkiin-v/mitos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-18T22:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Alice is a voice-first desktop AI assistant application built with Vue.js, Vite, and Electron. Advanced memory system, f",
@@ -41,7 +104,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30815,
-    "updated_at": "2026-09-18T21:59:08Z",
+    "updated_at": "2026-09-18T22:02:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -50,35 +113,8 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 92,
-    "updated_at": "2026-09-18T21:54:09Z",
+    "updated_at": "2026-09-18T22:09:43Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-18T21:45:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Local RAG semantic search for Obsidian vaults \u2014 Ollama + LanceDB + MCP. Search your markdown vault by meaning, not keywo",
-    "id": "brodewa369/roowet-semantic-vault-search",
-    "language": "Python",
-    "name": "brodewa369/roowet-semantic-vault-search",
-    "stars": 5,
-    "updated_at": "2026-09-18T21:40:14Z",
-    "url": "https://github.com/brodewa369/roowet-semantic-vault-search"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-18T21:33:31Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -88,6 +124,15 @@
     "stars": 1,
     "updated_at": "2026-09-18T21:26:57Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "LlamaIndex is the document processing platform for AI",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 52215,
+    "updated_at": "2026-09-18T21:24:50Z",
+    "url": "https://github.com/run-llama/llama_index"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -403,50 +448,5 @@
     "stars": 16821,
     "updated_at": "2026-09-18T19:43:59Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:43:17Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-09-18T19:42:56Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34664,
-    "updated_at": "2026-09-18T19:41:11Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:39:11Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:38:42Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   }
 ]
