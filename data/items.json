@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-18T03:15:19Z",
+    "updated_at": "2026-09-18T03:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-09-18T03:24:51Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-18T03:24:30Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 257,
+    "updated_at": "2026-09-18T03:27:00Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46153,
+    "updated_at": "2026-09-18T03:15:33Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-18T03:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -99,15 +144,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-18T03:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
     "id": "constancywoodsy286/agentic-rag-for-practice",
     "language": "Python",
@@ -133,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T02:59:00Z",
     "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46152,
-    "updated_at": "2026-09-18T02:58:59Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
@@ -187,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T02:56:43Z",
     "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 257,
-    "updated_at": "2026-09-18T02:59:44Z",
-    "url": "https://github.com/codecoradev/uteke"
   },
   {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-18T02:20:02Z",
     "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "Spring AI vs LangChain4j vs SAA \u4e09\u6846\u67b6\u540c\u53f0\u5bf9\u6bd4\uff08\u914d\u5957\u7bc72\uff09",
-    "id": "java-ai-in-action/framework-compare",
-    "language": "Java",
-    "name": "java-ai-in-action/framework-compare",
-    "stars": 0,
-    "updated_at": "2026-09-18T02:15:33Z",
-    "url": "https://github.com/java-ai-in-action/framework-compare"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 15963,
-    "updated_at": "2026-09-18T02:07:31Z",
-    "url": "https://github.com/alibaba/zvec"
   }
 ]
