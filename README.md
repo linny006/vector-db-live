@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-18 15:53 UTC
+> ⏰ Last updated: 2026-09-18 16:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,16 +42,16 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [vanedb/vanedb](https://github.com/vanedb/vanedb) | 0 | Rust | 2026-09-18 | Embeddable vector database for edge AI |
-| 2 | [Nuren7/studybuddy.io](https://github.com/Nuren7/studybuddy.io) | 0 | TypeScript | 2026-09-18 | A chat bot meant to be used as a Study buddy. |
-| 3 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2305 | JavaScript | 2026-09-18 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
-| 4 | [rao-studios/Sewn](https://github.com/rao-studios/Sewn) | 0 | Swift | 2026-09-18 | The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions. |
-| 5 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30806 | Python | 2026-09-18 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 6 | [devanshkasaudhan/Document-RAG](https://github.com/devanshkasaudhan/Document-RAG) | 0 | Python | 2026-09-18 | A local browser-based RAG application for document Q&A. Upload PDFs or images, extract text using PyMuPDF and EasyOCR, c |
-| 7 | [rao-studios/Thread](https://github.com/rao-studios/Thread) | 0 | Swift | 2026-09-18 | Distributed vector search node and client for Sewn and MaryOS. |
-| 8 | [d3uceY/vectile](https://github.com/d3uceY/vectile) | 4 | Go | 2026-09-18 | A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library |
-| 9 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1916 | Rust | 2026-09-18 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [vanedb/vanedb](https://github.com/vanedb/vanedb) | 0 | Rust | 2026-09-18 | Embeddable vector database for edge AI |
+| 3 | [Nuren7/studybuddy.io](https://github.com/Nuren7/studybuddy.io) | 0 | TypeScript | 2026-09-18 | A chat bot meant to be used as a Study buddy. |
+| 4 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2305 | JavaScript | 2026-09-18 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 5 | [rao-studios/Sewn](https://github.com/rao-studios/Sewn) | 0 | Swift | 2026-09-18 | The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions. |
+| 6 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30806 | Python | 2026-09-18 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 7 | [devanshkasaudhan/Document-RAG](https://github.com/devanshkasaudhan/Document-RAG) | 0 | Python | 2026-09-18 | A local browser-based RAG application for document Q&A. Upload PDFs or images, extract text using PyMuPDF and EasyOCR, c |
+| 8 | [rao-studios/Thread](https://github.com/rao-studios/Thread) | 0 | Swift | 2026-09-18 | Distributed vector search node and client for Sewn and MaryOS. |
+| 9 | [d3uceY/vectile](https://github.com/d3uceY/vectile) | 4 | Go | 2026-09-18 | A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library |
+| 10 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1917 | Rust | 2026-09-18 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
 | 11 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 12 | [ashraful2871/Salon-Management-Frontend](https://github.com/ashraful2871/Salon-Management-Frontend) | 0 | TypeScript | 2026-09-18 | The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl |
 | 13 | [kossakovsky/selfhost-ai](https://github.com/kossakovsky/selfhost-ai) | 933 | Shell | 2026-09-18 | 🚀 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTP |
