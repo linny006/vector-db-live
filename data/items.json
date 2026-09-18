@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-18T20:45:18Z",
+    "updated_at": "2026-09-18T21:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
+    "id": "Tanmoy095/Logiflow-platform",
+    "language": "Go",
+    "name": "Tanmoy095/Logiflow-platform",
+    "stars": 3,
+    "updated_at": "2026-09-18T20:55:51Z",
+    "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "Head of Product & Experience at Distinct AI. Official n8n creator building production-grade agentic RAG, multi-agent sys",
+    "id": "nenedesign/nenedesign",
+    "language": "\u2014",
+    "name": "nenedesign/nenedesign",
+    "stars": 0,
+    "updated_at": "2026-09-18T20:52:24Z",
+    "url": "https://github.com/nenedesign/nenedesign"
+  },
+  {
+    "description": "RAG",
+    "id": "MakabeD/Obsidian_RAG",
+    "language": "C#",
+    "name": "MakabeD/Obsidian_RAG",
+    "stars": 1,
+    "updated_at": "2026-09-18T20:51:35Z",
+    "url": "https://github.com/MakabeD/Obsidian_RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-18T20:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
@@ -45,15 +81,6 @@
     "url": "https://github.com/diskerror/ragger.cpp"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-18T20:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -88,6 +115,15 @@
     "stars": 15,
     "updated_at": "2026-09-18T20:17:07Z",
     "url": "https://github.com/ToucanDB/ToucanDB"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6451,
+    "updated_at": "2026-09-18T20:13:54Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Local RAG semantic search for Obsidian vaults \u2014 Ollama + LanceDB + MCP. Search your markdown vault by meaning, not keywo",
@@ -412,41 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-18T19:32:20Z",
     "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-09-18T19:31:40Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:28:47Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-18T19:27:56Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-18T19:26:16Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
   }
 ]
