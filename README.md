@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-18 21:30 UTC
+> ⏰ Last updated: 2026-09-18 21:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,24 +43,24 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-18 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-09-18 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 3 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 4 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-18 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 5 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30815 | Python | 2026-09-18 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
-| 6 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 3 | Python | 2026-09-18 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
-| 7 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-18 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 8 | [Tanmoy095/Logiflow-platform](https://github.com/Tanmoy095/Logiflow-platform) | 3 | Go | 2026-09-18 | Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te |
-| 9 | [nenedesign/nenedesign](https://github.com/nenedesign/nenedesign) | 0 | — | 2026-09-18 | Head of Product & Experience at Distinct AI. Official n8n creator building production-grade agentic RAG, multi-agent sys |
-| 10 | [MakabeD/Obsidian_RAG](https://github.com/MakabeD/Obsidian_RAG) | 1 | C# | 2026-09-18 | RAG |
-| 11 | [wickra-lib/wickra-genome](https://github.com/wickra-lib/wickra-genome) | 1 | Rust | 2026-09-18 | A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry  |
-| 12 | [hMRZQ21/CTP_slack-rag-bot](https://github.com/hMRZQ21/CTP_slack-rag-bot) | 1 | Python | 2026-09-18 | RAG-powered Slack bot that answers questions using retrieved Slack history and course documents — OpenAI, MongoDB Atlas  |
-| 13 | [diskerror/ragger.cpp](https://github.com/diskerror/ragger.cpp) | 1 | C++ | 2026-09-18 | Ragger — RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search. |
-| 14 | [HelixDB/helix-db](https://github.com/HelixDB/helix-db) | 5933 | Rust | 2026-09-18 | HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage. |
-| 15 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 17 | TypeScript | 2026-09-18 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
-| 16 | [iberi22/xavier](https://github.com/iberi22/xavier) | 0 | Rust | 2026-09-18 | Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context |
-| 17 | [ToucanDB/ToucanDB](https://github.com/ToucanDB/ToucanDB) | 15 | Python | 2026-09-18 | ToucanDB is a brand-new micro ML-first database engine 🦜 |
-| 18 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6451 | TypeScript | 2026-09-18 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
-| 19 | [brodewa369/roowet-semantic-vault-search](https://github.com/brodewa369/roowet-semantic-vault-search) | 5 | Python | 2026-09-18 | Local RAG semantic search for Obsidian vaults — Ollama + LanceDB + MCP. Search your markdown vault by meaning, not keywo |
+| 2 | [brodewa369/roowet-semantic-vault-search](https://github.com/brodewa369/roowet-semantic-vault-search) | 5 | Python | 2026-09-18 | Local RAG semantic search for Obsidian vaults — Ollama + LanceDB + MCP. Search your markdown vault by meaning, not keywo |
+| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-18 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-18 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-09-18 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 6 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-18 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 7 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 30815 | Python | 2026-09-18 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions |
+| 8 | [thekaveh/atlas](https://github.com/thekaveh/atlas) | 3 | Python | 2026-09-18 | Atlas — self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS |
+| 9 | [Tanmoy095/Logiflow-platform](https://github.com/Tanmoy095/Logiflow-platform) | 3 | Go | 2026-09-18 | Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te |
+| 10 | [nenedesign/nenedesign](https://github.com/nenedesign/nenedesign) | 0 | — | 2026-09-18 | Head of Product & Experience at Distinct AI. Official n8n creator building production-grade agentic RAG, multi-agent sys |
+| 11 | [MakabeD/Obsidian_RAG](https://github.com/MakabeD/Obsidian_RAG) | 1 | C# | 2026-09-18 | RAG |
+| 12 | [wickra-lib/wickra-genome](https://github.com/wickra-lib/wickra-genome) | 1 | Rust | 2026-09-18 | A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry  |
+| 13 | [hMRZQ21/CTP_slack-rag-bot](https://github.com/hMRZQ21/CTP_slack-rag-bot) | 1 | Python | 2026-09-18 | RAG-powered Slack bot that answers questions using retrieved Slack history and course documents — OpenAI, MongoDB Atlas  |
+| 14 | [diskerror/ragger.cpp](https://github.com/diskerror/ragger.cpp) | 1 | C++ | 2026-09-18 | Ragger — RAG and agent memory. A local semantic memory server with hybrid vector + custom FTS search. |
+| 15 | [HelixDB/helix-db](https://github.com/HelixDB/helix-db) | 5933 | Rust | 2026-09-18 | HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage. |
+| 16 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 17 | TypeScript | 2026-09-18 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
+| 17 | [iberi22/xavier](https://github.com/iberi22/xavier) | 0 | Rust | 2026-09-18 | Xavier — Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context |
+| 18 | [ToucanDB/ToucanDB](https://github.com/ToucanDB/ToucanDB) | 15 | Python | 2026-09-18 | ToucanDB is a brand-new micro ML-first database engine 🦜 |
+| 19 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | 6451 | TypeScript | 2026-09-18 | Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo |
 | 20 | [GargAnshu9468/vortexkv](https://github.com/GargAnshu9468/vortexkv) | 2 | Go | 2026-09-18 | The fastest pure Go in-memory Redis alternative. 6.87M+ ops/s peak throughput, 119µs latency, Multi-Reactor engine, embe |
 | 21 | [schmitech/orbit](https://github.com/schmitech/orbit) | 351 | Python | 2026-09-18 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
 | 22 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11461 | Rust | 2026-09-18 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
