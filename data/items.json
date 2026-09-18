@@ -1,5 +1,95 @@
 [
   {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-18T15:52:11Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "A chat bot meant to be used as a Study buddy.",
+    "id": "Nuren7/studybuddy.io",
+    "language": "TypeScript",
+    "name": "Nuren7/studybuddy.io",
+    "stars": 0,
+    "updated_at": "2026-09-18T15:49:54Z",
+    "url": "https://github.com/Nuren7/studybuddy.io"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2305,
+    "updated_at": "2026-09-18T15:49:45Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
+    "id": "rao-studios/Sewn",
+    "language": "Swift",
+    "name": "rao-studios/Sewn",
+    "stars": 0,
+    "updated_at": "2026-09-18T15:48:53Z",
+    "url": "https://github.com/rao-studios/Sewn"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30806,
+    "updated_at": "2026-09-18T15:48:24Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "A local browser-based RAG application for document Q&A. Upload PDFs or images, extract text using PyMuPDF and EasyOCR, c",
+    "id": "devanshkasaudhan/Document-RAG",
+    "language": "Python",
+    "name": "devanshkasaudhan/Document-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-18T15:48:24Z",
+    "url": "https://github.com/devanshkasaudhan/Document-RAG"
+  },
+  {
+    "description": "Distributed vector search node and client for Sewn and MaryOS.",
+    "id": "rao-studios/Thread",
+    "language": "Swift",
+    "name": "rao-studios/Thread",
+    "stars": 0,
+    "updated_at": "2026-09-18T15:48:15Z",
+    "url": "https://github.com/rao-studios/Thread"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 4,
+    "updated_at": "2026-09-18T15:47:23Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1916,
+    "updated_at": "2026-09-18T15:45:49Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-18T15:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -59,7 +149,7 @@
     "language": "MDX",
     "name": "weaviate/weaviate-io",
     "stars": 89,
-    "updated_at": "2026-09-18T15:37:17Z",
+    "updated_at": "2026-09-18T15:51:26Z",
     "url": "https://github.com/weaviate/weaviate-io"
   },
   {
@@ -95,7 +185,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 24,
-    "updated_at": "2026-09-18T15:35:11Z",
+    "updated_at": "2026-09-18T15:48:51Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -124,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T15:30:41Z",
     "url": "https://github.com/n9524726-star/chatpdf-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-18T15:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
@@ -189,15 +270,6 @@
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   },
   {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 4,
-    "updated_at": "2026-09-18T15:25:30Z",
-    "url": "https://github.com/d3uceY/vectile"
-  },
-  {
     "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
     "id": "Bekhbekh7821/CanopyOps",
     "language": "\u2014",
@@ -252,15 +324,6 @@
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1916,
-    "updated_at": "2026-09-18T15:33:48Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
     "id": "Deafened-vascularstructure846/pageindex-rag",
     "language": "Python",
@@ -313,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-09-18T15:11:53Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-18T15:24:47Z",
-    "url": "https://github.com/vanedb/vanedb"
   },
   {
     "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
@@ -394,59 +448,5 @@
     "stars": 131,
     "updated_at": "2026-09-18T15:06:09Z",
     "url": "https://github.com/zilliztech/milvus-operator"
-  },
-  {
-    "description": "Security-first AI platform on Kubernetes \u2014 FastAPI + Next.js chatbot with RAG, self-hosted model serving (vLLM), observa",
-    "id": "amirhosssein0/ai-platform-lab",
-    "language": "Python",
-    "name": "amirhosssein0/ai-platform-lab",
-    "stars": 5,
-    "updated_at": "2026-09-18T15:04:14Z",
-    "url": "https://github.com/amirhosssein0/ai-platform-lab"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-18T15:03:47Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-18T15:01:22Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-09-18T15:00:12Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7093,
-    "updated_at": "2026-09-18T15:13:04Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-18T14:58:53Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   }
 ]
