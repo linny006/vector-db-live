@@ -1,12 +1,93 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-18T12:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 91,
+    "updated_at": "2026-09-18T12:14:34Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
     "description": "Single file SQLite memory for AI agents. Offline hybrid recall with FTS5. Session aware, thread safe, WAL durable. STM p",
     "id": "mastaan66/memolite",
     "language": "Python",
     "name": "mastaan66/memolite",
     "stars": 1,
-    "updated_at": "2026-09-18T12:00:16Z",
+    "updated_at": "2026-09-18T12:13:57Z",
     "url": "https://github.com/mastaan66/memolite"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-18T12:13:03Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 257,
+    "updated_at": "2026-09-18T12:12:25Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-18T12:12:15Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The Kubernetes Operator of Milvus. ",
+    "id": "zilliztech/milvus-operator",
+    "language": "Go",
+    "name": "zilliztech/milvus-operator",
+    "stars": 131,
+    "updated_at": "2026-09-18T12:13:57Z",
+    "url": "https://github.com/zilliztech/milvus-operator"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1156,
+    "updated_at": "2026-09-18T12:06:50Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Flask API for a medical Q&A chatbot: JWT auth, session chat history, and RAG over a medical knowledge base (LangChain, G",
+    "id": "vishalsharma070901/Medical-bot-backend",
+    "language": "Python",
+    "name": "vishalsharma070901/Medical-bot-backend",
+    "stars": 0,
+    "updated_at": "2026-09-18T12:02:52Z",
+    "url": "https://github.com/vishalsharma070901/Medical-bot-backend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-18T12:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -16,15 +97,6 @@
     "stars": 111,
     "updated_at": "2026-09-18T11:59:53Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "The Kubernetes Operator of Milvus. ",
-    "id": "zilliztech/milvus-operator",
-    "language": "Go",
-    "name": "zilliztech/milvus-operator",
-    "stars": 131,
-    "updated_at": "2026-09-18T11:59:27Z",
-    "url": "https://github.com/zilliztech/milvus-operator"
   },
   {
     "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
@@ -58,7 +130,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34656,
+    "stars": 34655,
     "updated_at": "2026-09-18T11:53:01Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -72,15 +144,6 @@
     "url": "https://github.com/ian-cowley/Glacier.Vector"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-18T11:50:18Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
     "id": "LnYo-Cly/ai4j",
     "language": "HTML",
@@ -88,15 +151,6 @@
     "stars": 430,
     "updated_at": "2026-09-18T11:49:49Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-18T11:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI-powered meeting/video assistant \u2014 transcribes audio/video (English + Hinglish), generates summaries, extracts action ",
@@ -162,24 +216,6 @@
     "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-18T11:33:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1156,
-    "updated_at": "2026-09-18T11:38:40Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Website for the Weaviate vector database",
     "id": "weaviate/weaviate-io",
     "language": "MDX",
@@ -205,6 +241,15 @@
     "stars": 3,
     "updated_at": "2026-09-18T11:20:55Z",
     "url": "https://github.com/sergiunicoara/Generative-AI"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1916,
+    "updated_at": "2026-09-18T11:19:13Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -286,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-09-18T11:09:40Z",
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1915,
-    "updated_at": "2026-09-18T11:19:13Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T10:58:28Z",
     "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-09-18T10:58:11Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "30-day AI engineering internship at Muthu Soft Labs \u2014 from Python fundamentals to a production-ready RAG knowledge assis",
-    "id": "SamBhojwani/python-ai-internship",
-    "language": "Python",
-    "name": "SamBhojwani/python-ai-internship",
-    "stars": 0,
-    "updated_at": "2026-09-18T10:58:07Z",
-    "url": "https://github.com/SamBhojwani/python-ai-internship"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-09-18T10:54:53Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-09-18T10:54:09Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
   }
 ]
