@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-18T09:45:19Z",
+    "updated_at": "2026-09-18T10:00:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A local-first AI tutor that turns your own study material into a personalised curriculum: RAG-grounded chat, a prerequis",
+    "id": "GHOSTxASR/atlas",
+    "language": "Python",
+    "name": "GHOSTxASR/atlas",
+    "stars": 0,
+    "updated_at": "2026-09-18T09:58:34Z",
+    "url": "https://github.com/GHOSTxASR/atlas"
+  },
+  {
+    "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
+    "id": "pwolfey09-sketch/embedflow",
+    "language": "Python",
+    "name": "pwolfey09-sketch/embedflow",
+    "stars": 0,
+    "updated_at": "2026-09-18T09:57:39Z",
+    "url": "https://github.com/pwolfey09-sketch/embedflow"
+  },
+  {
+    "description": "TitanRAG - An open-source RAG infrastructure for building scalable, multi-tenant and multimodal AI applications.",
+    "id": "Aftabmallick/titanrag",
+    "language": "JavaScript",
+    "name": "Aftabmallick/titanrag",
+    "stars": 1,
+    "updated_at": "2026-09-18T09:57:03Z",
+    "url": "https://github.com/Aftabmallick/titanrag"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-09-18T09:57:02Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "An open, democratic World-Brain \u2014 the shared, decentralization-capable knowledge substrate beneath AI. Owned by no one, ",
+    "id": "theogony-project/theogony",
+    "language": "Python",
+    "name": "theogony-project/theogony",
+    "stars": 0,
+    "updated_at": "2026-09-18T09:53:01Z",
+    "url": "https://github.com/theogony-project/theogony"
+  },
+  {
+    "description": "A Blazor Web App and Minimal API for performing RAG (Retrieval Augmented Generation) and vector search using the native ",
+    "id": "marcominerva/SqlDatabaseVectorSearch",
+    "language": "C#",
+    "name": "marcominerva/SqlDatabaseVectorSearch",
+    "stars": 142,
+    "updated_at": "2026-09-18T09:52:21Z",
+    "url": "https://github.com/marcominerva/SqlDatabaseVectorSearch"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 111,
+    "updated_at": "2026-09-18T09:52:18Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "GenAI/RAG Optimizer and Toolkit for experimentation using Oracle Database AI Vector Search and NL2SQL",
+    "id": "oracle/ai-optimizer",
+    "language": "Python",
+    "name": "oracle/ai-optimizer",
+    "stars": 101,
+    "updated_at": "2026-09-18T09:56:28Z",
+    "url": "https://github.com/oracle/ai-optimizer"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,8 +86,35 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1156,
-    "updated_at": "2026-09-18T09:43:35Z",
+    "updated_at": "2026-09-18T09:56:30Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7093,
+    "updated_at": "2026-09-18T09:47:02Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "ToucanDB is a brand-new micro ML-first database engine \ud83e\udd9c",
+    "id": "ToucanDB/ToucanDB",
+    "language": "Python",
+    "name": "ToucanDB/ToucanDB",
+    "stars": 15,
+    "updated_at": "2026-09-18T09:50:58Z",
+    "url": "https://github.com/ToucanDB/ToucanDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-18T09:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -81,24 +180,6 @@
     "url": "https://github.com/weaviate/docs"
   },
   {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 111,
-    "updated_at": "2026-09-18T09:32:54Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-18T09:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
     "id": "SuperInstance/SuperInstance",
     "language": "Python",
@@ -122,7 +203,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8241,
-    "updated_at": "2026-09-18T09:25:51Z",
+    "updated_at": "2026-09-18T09:57:27Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -189,15 +270,6 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7093,
-    "updated_at": "2026-09-18T09:02:05Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
     "id": "sarthaksinha2600/LLM-Contract",
     "language": "\u2014",
@@ -211,7 +283,7 @@
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
-    "stars": 9279,
+    "stars": 9280,
     "updated_at": "2026-09-18T09:00:12Z",
     "url": "https://github.com/paradedb/paradedb"
   },
@@ -293,7 +365,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34656,
-    "updated_at": "2026-09-18T09:43:38Z",
+    "updated_at": "2026-09-18T09:53:13Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-18T08:37:28Z",
     "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 3,
-    "updated_at": "2026-09-18T08:37:21Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-09-18T08:36:55Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 380,
-    "updated_at": "2026-09-18T08:35:26Z",
-    "url": "https://github.com/zilliztech/knowhere"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-18T08:34:29Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-18T08:32:26Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "Memory SDK for AI agents \u2014 bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid",
-    "id": "Bitwarelabscom/bwmem",
-    "language": "TypeScript",
-    "name": "Bitwarelabscom/bwmem",
-    "stars": 1,
-    "updated_at": "2026-09-18T08:32:57Z",
-    "url": "https://github.com/Bitwarelabscom/bwmem"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-09-18T08:31:27Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-18T08:30:01Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   }
 ]
