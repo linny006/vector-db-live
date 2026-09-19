@@ -1,5 +1,77 @@
 [
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9443,
+    "updated_at": "2026-09-19T09:59:29Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 25,
+    "updated_at": "2026-09-19T10:00:03Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5943,
+    "updated_at": "2026-09-19T09:57:34Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "This project is a RAG based chat-bot that can read and send response about uploaded pdf based on queries  built using La",
+    "id": "iftiarrafi/PDF-RAG-Bot",
+    "language": "Python",
+    "name": "iftiarrafi/PDF-RAG-Bot",
+    "stars": 0,
+    "updated_at": "2026-09-19T09:53:53Z",
+    "url": "https://github.com/iftiarrafi/PDF-RAG-Bot"
+  },
+  {
+    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
+    "id": "devharis99/vectra",
+    "language": "Python",
+    "name": "devharis99/vectra",
+    "stars": 0,
+    "updated_at": "2026-09-19T09:50:06Z",
+    "url": "https://github.com/devharis99/vectra"
+  },
+  {
+    "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
+    "id": "KonNik88/ml-research-radar",
+    "language": "Python",
+    "name": "KonNik88/ml-research-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T09:47:58Z",
+    "url": "https://github.com/KonNik88/ml-research-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-19T09:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T10:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
     "id": "Raynerhalfandhalf451/writeback",
     "language": "JavaScript",
@@ -133,33 +205,6 @@
     "stars": 9,
     "updated_at": "2026-09-19T09:30:33Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-19T09:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T09:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 25,
-    "updated_at": "2026-09-19T09:37:54Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
     "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
@@ -403,50 +448,5 @@
     "stars": 858,
     "updated_at": "2026-09-19T08:57:47Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-09-19T08:57:45Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-09-19T08:57:39Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Runnable, minimal LLM examples for Java \u2014 Spring AI & LangChain4j. RAG, agents, MCP servers, tool calling, structured ou",
-    "id": "alxkm/java-ai-cookbook",
-    "language": "Java",
-    "name": "alxkm/java-ai-cookbook",
-    "stars": 1,
-    "updated_at": "2026-09-19T08:53:24Z",
-    "url": "https://github.com/alxkm/java-ai-cookbook"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 93,
-    "updated_at": "2026-09-19T08:50:00Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "\u7121\u6599\u67a0\u3060\u3051\u30674\u3064\u306e\u30d9\u30af\u30c8\u30ebDB(Supabase/Qdrant/Turso/Cloudflare)\u3078\u540c\u4e00RAG\u3092\u6d41\u3057\u3001\u54c1\u8cea\u30fb\u30ec\u30a4\u30c6\u30f3\u30b7\u30fb\u7121\u6599\u67a0\u306e\u5f8b\u901f\u30e6\u30cb\u30c3\u30c8\u3092\u518d\u73fe\u53ef\u80fd\u306b\u5b9f\u6e2c\u3059\u308bPython\u30cf\u30fc\u30cd\u30b9",
-    "id": "sumitsuke/free-tier-vectordb-bench",
-    "language": "Python",
-    "name": "sumitsuke/free-tier-vectordb-bench",
-    "stars": 0,
-    "updated_at": "2026-09-19T08:44:41Z",
-    "url": "https://github.com/sumitsuke/free-tier-vectordb-bench"
   }
 ]
