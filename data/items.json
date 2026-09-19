@@ -1,5 +1,140 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T15:30:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 1,
+    "updated_at": "2026-09-19T15:30:03Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
+  },
+  {
+    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-09-19T15:29:51Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 4,
+    "updated_at": "2026-09-19T15:26:32Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 5,
+    "updated_at": "2026-09-19T15:25:45Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
+  },
+  {
+    "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
+    "id": "api-evangelist/ironcore-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ironcore-labs",
+    "stars": 0,
+    "updated_at": "2026-09-19T15:25:39Z",
+    "url": "https://github.com/api-evangelist/ironcore-labs"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-09-19T15:24:15Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 2,
+    "updated_at": "2026-09-19T15:23:21Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-09-19T15:22:12Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-09-19T15:21:08Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-09-19T15:19:40Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-19T15:17:04Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-09-19T15:16:21Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
+    "id": "api-evangelist/gel-data",
+    "language": "\u2014",
+    "name": "api-evangelist/gel-data",
+    "stars": 0,
+    "updated_at": "2026-09-19T15:16:02Z",
+    "url": "https://github.com/api-evangelist/gel-data"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-19T15:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
     "id": "shoaibraza123/promptbook-mcp",
     "language": "HTML",
@@ -16,15 +151,6 @@
     "stars": 3,
     "updated_at": "2026-09-19T15:14:05Z",
     "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
-    "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 5,
-    "updated_at": "2026-09-19T15:13:44Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
@@ -59,7 +185,7 @@
     "language": "Python",
     "name": "Nazar-Plokhuta/docuquery-rag-agent",
     "stars": 1,
-    "updated_at": "2026-09-19T15:11:07Z",
+    "updated_at": "2026-09-19T15:20:33Z",
     "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
   },
   {
@@ -77,7 +203,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 1928,
-    "updated_at": "2026-09-19T15:14:46Z",
+    "updated_at": "2026-09-19T15:27:25Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -115,6 +241,15 @@
     "stars": 2,
     "updated_at": "2026-09-19T15:06:06Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11472,
+    "updated_at": "2026-09-19T15:05:58Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
@@ -189,33 +324,6 @@
     "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-19T15:00:54Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-19T15:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T15:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -230,7 +338,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9286,
-    "updated_at": "2026-09-19T15:09:51Z",
+    "updated_at": "2026-09-19T15:25:58Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 1157,
     "updated_at": "2026-09-19T14:33:46Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "",
-    "id": "bazanov05/arxiv-rag-engine",
-    "language": "Python",
-    "name": "bazanov05/arxiv-rag-engine",
-    "stars": 0,
-    "updated_at": "2026-09-19T14:32:07Z",
-    "url": "https://github.com/bazanov05/arxiv-rag-engine"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-09-19T14:47:10Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34680,
-    "updated_at": "2026-09-19T14:21:13Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Red Queen v2 is a multi-agent orchestration backend powering the Red Queen Council. It features a robust consensus engin",
-    "id": "Strawbrryvape/_red_queen",
-    "language": "JavaScript",
-    "name": "Strawbrryvape/_red_queen",
-    "stars": 0,
-    "updated_at": "2026-09-19T14:16:38Z",
-    "url": "https://github.com/Strawbrryvape/_red_queen"
-  },
-  {
-    "description": "Suite of tools containing an in-memory vector datastore and AI proxy",
-    "id": "deven96/ahnlich",
-    "language": "Rust",
-    "name": "deven96/ahnlich",
-    "stars": 244,
-    "updated_at": "2026-09-19T14:17:09Z",
-    "url": "https://github.com/deven96/ahnlich"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-19T14:10:40Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-19T14:10:15Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9444,
-    "updated_at": "2026-09-19T14:11:51Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
-    "id": "desikai-lab/Marrow",
-    "language": "Python",
-    "name": "desikai-lab/Marrow",
-    "stars": 7,
-    "updated_at": "2026-09-19T14:06:53Z",
-    "url": "https://github.com/desikai-lab/Marrow"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 280,
-    "updated_at": "2026-09-19T13:57:47Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 111,
-    "updated_at": "2026-09-19T13:55:02Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
-    "id": "devharis99/vectra",
-    "language": "Python",
-    "name": "devharis99/vectra",
-    "stars": 0,
-    "updated_at": "2026-09-19T13:54:15Z",
-    "url": "https://github.com/devharis99/vectra"
   }
 ]
