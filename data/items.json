@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-19T18:15:17Z",
+    "updated_at": "2026-09-19T18:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1157,
+    "updated_at": "2026-09-19T18:20:44Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 858,
+    "updated_at": "2026-09-19T18:20:09Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-19T18:18:25Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
+    "id": "yantrikos/yantrikdb",
+    "language": "Rust",
+    "name": "yantrikos/yantrikdb",
+    "stars": 62,
+    "updated_at": "2026-09-19T18:19:14Z",
+    "url": "https://github.com/yantrikos/yantrikdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-19T18:15:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match",
@@ -16,15 +61,6 @@
     "stars": 20,
     "updated_at": "2026-09-19T18:13:19Z",
     "url": "https://github.com/Tibab222/cvMaker"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 858,
-    "updated_at": "2026-09-19T18:10:20Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -70,15 +106,6 @@
     "stars": 9445,
     "updated_at": "2026-09-19T18:01:39Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-19T18:00:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "GraphRAG and long-context retrieval project for large fictional-world corpora, exploring knowledge graphs, entity resolu",
@@ -311,7 +338,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 4,
-    "updated_at": "2026-09-19T17:37:04Z",
+    "updated_at": "2026-09-19T18:19:09Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-19T17:26:15Z",
+    "updated_at": "2026-09-19T18:15:43Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-19T17:19:42Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
-    "id": "fub05/MCP---Agent-Starter-Kit",
-    "language": "Python",
-    "name": "fub05/MCP---Agent-Starter-Kit",
-    "stars": 6,
-    "updated_at": "2026-09-19T17:19:00Z",
-    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
-  },
-  {
-    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
-    "id": "SKeditz42/Vec",
-    "language": "C",
-    "name": "SKeditz42/Vec",
-    "stars": 2,
-    "updated_at": "2026-09-19T17:17:42Z",
-    "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 25,
-    "updated_at": "2026-09-19T17:17:35Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
   }
 ]
