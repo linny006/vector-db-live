@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-19 06:29 UTC
+> ⏰ Last updated: 2026-09-19 06:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,8 +42,8 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [venom312004/AI-video-assistant](https://github.com/venom312004/AI-video-assistant) | 2 | Python | 2026-09-19 | AI-powered meeting/video assistant — transcribes audio/video (English + Hinglish), generates summaries, extracts action  |
-| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-19 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [venom312004/AI-video-assistant](https://github.com/venom312004/AI-video-assistant) | 2 | Python | 2026-09-19 | AI-powered meeting/video assistant — transcribes audio/video (English + Hinglish), generates summaries, extracts action  |
 | 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-19 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-19 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 5 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 1951 | Python | 2026-09-19 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
