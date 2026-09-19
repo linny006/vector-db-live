@@ -1,12 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T12:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 5945,
-    "updated_at": "2026-09-19T11:41:09Z",
+    "updated_at": "2026-09-19T12:00:11Z",
     "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Document Q&A platform with RAG \u2014 upload PDFs, ask questions, get grounded answers with sources. Built with FastAPI, Cele",
+    "id": "jamalplatino/documents_q_and_a_pdf_upload_ai",
+    "language": "Python",
+    "name": "jamalplatino/documents_q_and_a_pdf_upload_ai",
+    "stars": 0,
+    "updated_at": "2026-09-19T11:59:05Z",
+    "url": "https://github.com/jamalplatino/documents_q_and_a_pdf_upload_ai"
+  },
+  {
+    "description": "End-to-end sovereign personal AI OS (FastAPI + React 19 + Electron). Features local 14B LLMs, wake-word voice pipelines,",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 2,
+    "updated_at": "2026-09-19T11:56:30Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "Postgres MCP Server",
+    "id": "devopam/MCPg",
+    "language": "Python",
+    "name": "devopam/MCPg",
+    "stars": 10,
+    "updated_at": "2026-09-19T11:51:29Z",
+    "url": "https://github.com/devopam/MCPg"
+  },
+  {
+    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
+    "id": "devharis99/vectra",
+    "language": "Python",
+    "name": "devharis99/vectra",
+    "stars": 0,
+    "updated_at": "2026-09-19T11:45:41Z",
+    "url": "https://github.com/devharis99/vectra"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-19T11:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -133,24 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-19T11:30:28Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-19T11:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T11:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "ARTEA: Theory-Guided Hierarchical Graph Index for High-Performance ANN Search",
@@ -409,44 +445,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30835,
+    "stars": 30836,
     "updated_at": "2026-09-19T10:54:09Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
-    "id": "techdomegh/ai-news-scraper",
-    "language": "Python",
-    "name": "techdomegh/ai-news-scraper",
-    "stars": 12,
-    "updated_at": "2026-09-19T10:53:55Z",
-    "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-09-19T10:52:47Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-09-19T10:52:46Z",
-    "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 858,
-    "updated_at": "2026-09-19T10:52:07Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
   }
 ]
