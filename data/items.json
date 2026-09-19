@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-19T18:45:20Z",
+    "updated_at": "2026-09-19T19:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "GraphRAG and long-context retrieval project for large fictional-world corpora, exploring knowledge graphs, entity resolu",
+    "id": "Vyce101/VySol",
+    "language": "\u2014",
+    "name": "Vyce101/VySol",
+    "stars": 0,
+    "updated_at": "2026-09-19T19:00:00Z",
+    "url": "https://github.com/Vyce101/VySol"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1157,
+    "updated_at": "2026-09-19T18:59:37Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 4,
+    "updated_at": "2026-09-19T18:57:21Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-19T18:53:15Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 858,
+    "updated_at": "2026-09-19T18:52:43Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "AI-powered HR Knowledge Assistant using RAG and vector databases for context-aware Q&A over HR policies and employee doc",
+    "id": "MLbyTharun/HR-Knowledge-Assistant",
+    "language": "Python",
+    "name": "MLbyTharun/HR-Knowledge-Assistant",
+    "stars": 0,
+    "updated_at": "2026-09-19T18:48:37Z",
+    "url": "https://github.com/MLbyTharun/HR-Knowledge-Assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-19T18:45:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Cognitive memory engine for AI agents \u2014 temporal decay, contradiction detection, autonomous consolidation, knowledge gra",
@@ -25,15 +88,6 @@
     "stars": 2308,
     "updated_at": "2026-09-19T18:42:53Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "AI-powered HR Knowledge Assistant using RAG and vector databases for context-aware Q&A over HR policies and employee doc",
-    "id": "MLbyTharun/HR-Knowledge-Assistant",
-    "language": "Python",
-    "name": "MLbyTharun/HR-Knowledge-Assistant",
-    "stars": 0,
-    "updated_at": "2026-09-19T18:39:26Z",
-    "url": "https://github.com/MLbyTharun/HR-Knowledge-Assistant"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -72,15 +126,6 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "GraphRAG and long-context retrieval project for large fictional-world corpora, exploring knowledge graphs, entity resolu",
-    "id": "Vyce101/VySol",
-    "language": "\u2014",
-    "name": "Vyce101/VySol",
-    "stars": 0,
-    "updated_at": "2026-09-19T18:32:15Z",
-    "url": "https://github.com/Vyce101/VySol"
-  },
-  {
     "description": "The fastest pure Go in-memory Redis alternative. 6.87M+ ops/s peak throughput, 119\u00b5s latency, Multi-Reactor engine, embe",
     "id": "GargAnshu9468/vortexkv",
     "language": "Go",
@@ -88,42 +133,6 @@
     "stars": 4,
     "updated_at": "2026-09-19T18:32:03Z",
     "url": "https://github.com/GargAnshu9468/vortexkv"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-19T18:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1157,
-    "updated_at": "2026-09-19T18:20:44Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 858,
-    "updated_at": "2026-09-19T18:20:09Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-19T18:18:25Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-19T17:29:15Z",
     "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-19T17:27:39Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
   }
 ]
