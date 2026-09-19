@@ -1,5 +1,32 @@
 [
   {
+    "description": "AI-powered meeting/video assistant \u2014 transcribes audio/video (English + Hinglish), generates summaries, extracts action ",
+    "id": "venom312004/AI-video-assistant",
+    "language": "Python",
+    "name": "venom312004/AI-video-assistant",
+    "stars": 2,
+    "updated_at": "2026-09-19T06:17:10Z",
+    "url": "https://github.com/venom312004/AI-video-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-19T06:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T06:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -34,24 +61,6 @@
     "stars": 9,
     "updated_at": "2026-09-19T06:03:03Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-19T06:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T06:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A unified, async Python framework for LLM applications\u2014chat, autonomous agents, RAG, and sandboxed code execution. Suppo",
@@ -151,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-09-19T05:42:30Z",
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "AI-powered meeting/video assistant \u2014 transcribes audio/video (English + Hinglish), generates summaries, extracts action ",
-    "id": "venom312004/AI-video-assistant",
-    "language": "Python",
-    "name": "venom312004/AI-video-assistant",
-    "stars": 2,
-    "updated_at": "2026-09-19T05:40:49Z",
-    "url": "https://github.com/venom312004/AI-video-assistant"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -284,7 +284,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1157,
-    "updated_at": "2026-09-19T06:09:15Z",
+    "updated_at": "2026-09-19T06:25:13Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
