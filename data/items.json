@@ -1,11 +1,29 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1931,
+    "updated_at": "2026-09-19T22:46:42Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-19T22:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-19T22:45:18Z",
+    "updated_at": "2026-09-19T23:00:18Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,24 +54,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-19T22:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1930,
-    "updated_at": "2026-09-19T22:45:12Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -68,7 +68,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9286,
-    "updated_at": "2026-09-19T22:36:12Z",
+    "updated_at": "2026-09-19T22:47:11Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -86,7 +86,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-19T22:29:27Z",
+    "updated_at": "2026-09-19T22:59:31Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -293,7 +293,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1157,
-    "updated_at": "2026-09-19T22:32:15Z",
+    "updated_at": "2026-09-19T22:50:50Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
