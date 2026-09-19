@@ -1,12 +1,84 @@
 [
   {
-    "description": " Cognitive Memory Architecture for Agents",
-    "id": "Cognilogical/NeuroStrata",
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 858,
+    "updated_at": "2026-09-19T16:15:01Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
+    "id": "Senthilsivam41/kinegraph-v",
+    "language": "JavaScript",
+    "name": "Senthilsivam41/kinegraph-v",
+    "stars": 1,
+    "updated_at": "2026-09-19T16:10:47Z",
+    "url": "https://github.com/Senthilsivam41/kinegraph-v"
+  },
+  {
+    "description": "NextSQL is a new database engine, written primarily in Go.",
+    "id": "bzync/nextsql",
+    "language": "Go",
+    "name": "bzync/nextsql",
+    "stars": 0,
+    "updated_at": "2026-09-19T16:09:42Z",
+    "url": "https://github.com/bzync/nextsql"
+  },
+  {
+    "description": "\ud83e\udde0 Stop building AI that forgets. Master MCP (Model Context Protocol) with production-ready semantic memory, hybrid RAG, ",
+    "id": "timothywarner-org/context-engineering",
+    "language": "Python",
+    "name": "timothywarner-org/context-engineering",
+    "stars": 27,
+    "updated_at": "2026-09-19T16:09:11Z",
+    "url": "https://github.com/timothywarner-org/context-engineering"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-19T16:08:09Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-19T16:08:08Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
+    "id": "api-evangelist/surrealdb",
+    "language": "\u2014",
+    "name": "api-evangelist/surrealdb",
+    "stars": 0,
+    "updated_at": "2026-09-19T16:07:07Z",
+    "url": "https://github.com/api-evangelist/surrealdb"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
-    "name": "Cognilogical/NeuroStrata",
-    "stars": 5,
-    "updated_at": "2026-09-19T15:57:56Z",
-    "url": "https://github.com/Cognilogical/NeuroStrata"
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 93,
+    "updated_at": "2026-09-19T16:06:54Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-19T16:04:59Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -14,8 +86,44 @@
     "language": "Python",
     "name": "schmitech/orbit",
     "stars": 351,
-    "updated_at": "2026-09-19T15:59:12Z",
+    "updated_at": "2026-09-19T16:03:32Z",
     "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "SequoiaDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distribut",
+    "id": "api-evangelist/sequoiadb",
+    "language": "\u2014",
+    "name": "api-evangelist/sequoiadb",
+    "stars": 0,
+    "updated_at": "2026-09-19T16:00:25Z",
+    "url": "https://github.com/api-evangelist/sequoiadb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-19T16:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T16:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": " Cognitive Memory Architecture for Agents",
+    "id": "Cognilogical/NeuroStrata",
+    "language": "Rust",
+    "name": "Cognilogical/NeuroStrata",
+    "stars": 5,
+    "updated_at": "2026-09-19T15:57:56Z",
+    "url": "https://github.com/Cognilogical/NeuroStrata"
   },
   {
     "description": "RAGFlow \u2014 independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev",
@@ -43,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T15:49:40Z",
     "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-19T15:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T16:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
@@ -207,15 +297,6 @@
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 858,
-    "updated_at": "2026-09-19T16:00:17Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
     "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
     "id": "Genusophiophagussqueezeplay359/ragpipe",
     "language": "Python",
@@ -250,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T15:34:34Z",
     "url": "https://github.com/api-evangelist/marqo"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-19T15:33:30Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
@@ -376,77 +448,5 @@
     "stars": 10,
     "updated_at": "2026-09-19T15:57:10Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-09-19T15:16:21Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
-    "id": "api-evangelist/gel-data",
-    "language": "\u2014",
-    "name": "api-evangelist/gel-data",
-    "stars": 0,
-    "updated_at": "2026-09-19T15:16:02Z",
-    "url": "https://github.com/api-evangelist/gel-data"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-19T15:14:34Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-09-19T15:14:05Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-09-19T15:12:52Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
-    "id": "RohannShetty/gitbook-downloader",
-    "language": "Python",
-    "name": "RohannShetty/gitbook-downloader",
-    "stars": 2,
-    "updated_at": "2026-09-19T15:12:35Z",
-    "url": "https://github.com/RohannShetty/gitbook-downloader"
-  },
-  {
-    "description": "FERPA/HIPAA/GDPR-compliant RAG patterns: identity-scoped retrieval, audit logging, and framework adapters for regulated ",
-    "id": "ashutoshrana/enterprise-rag-patterns",
-    "language": "Python",
-    "name": "ashutoshrana/enterprise-rag-patterns",
-    "stars": 1,
-    "updated_at": "2026-09-19T15:12:33Z",
-    "url": "https://github.com/ashutoshrana/enterprise-rag-patterns"
-  },
-  {
-    "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
-    "id": "Nazar-Plokhuta/docuquery-rag-agent",
-    "language": "Python",
-    "name": "Nazar-Plokhuta/docuquery-rag-agent",
-    "stars": 1,
-    "updated_at": "2026-09-19T15:20:33Z",
-    "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
   }
 ]
