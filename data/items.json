@@ -1,5 +1,167 @@
 [
   {
+    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
+    "id": "Daubingweirdie414/multimodal-rag",
+    "language": "Python",
+    "name": "Daubingweirdie414/multimodal-rag",
+    "stars": 4,
+    "updated_at": "2026-09-19T17:44:51Z",
+    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
+  },
+  {
+    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
+    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "language": "Python",
+    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "stars": 1,
+    "updated_at": "2026-09-19T17:44:03Z",
+    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
+  },
+  {
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 1,
+    "updated_at": "2026-09-19T17:42:39Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
+  },
+  {
+    "description": "Retrieval-Augmented Generation backend with FastAPI, PostgreSQL + pgvector, and Groq LLM. Full RAG pipeline: document up",
+    "id": "MZohaibBaig/rag-search-api",
+    "language": "Python",
+    "name": "MZohaibBaig/rag-search-api",
+    "stars": 0,
+    "updated_at": "2026-09-19T17:42:18Z",
+    "url": "https://github.com/MZohaibBaig/rag-search-api"
+  },
+  {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 4,
+    "updated_at": "2026-09-19T17:39:21Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "",
+    "id": "bazanov05/arxiv-rag-engine",
+    "language": "Python",
+    "name": "bazanov05/arxiv-rag-engine",
+    "stars": 0,
+    "updated_at": "2026-09-19T17:39:12Z",
+    "url": "https://github.com/bazanov05/arxiv-rag-engine"
+  },
+  {
+    "description": "NextSQL is a new database engine, written primarily in Go.",
+    "id": "bzync/nextsql",
+    "language": "Go",
+    "name": "bzync/nextsql",
+    "stars": 0,
+    "updated_at": "2026-09-19T17:38:57Z",
+    "url": "https://github.com/bzync/nextsql"
+  },
+  {
+    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Python clien",
+    "id": "MontyGovernance/montycat_python",
+    "language": "Python",
+    "name": "MontyGovernance/montycat_python",
+    "stars": 13,
+    "updated_at": "2026-09-19T17:38:45Z",
+    "url": "https://github.com/MontyGovernance/montycat_python"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-09-19T17:37:39Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 4,
+    "updated_at": "2026-09-19T17:37:04Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 2,
+    "updated_at": "2026-09-19T17:36:48Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-09-19T17:35:37Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-09-19T17:34:34Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-19T17:33:35Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-09-19T17:33:16Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "Agentic AI framework that drafts FDA cybersecurity SRAs for connected medical devices. Vector DB + Graph DB + MCP + Lang",
+    "id": "balajibankapur/agentic-sra-framework",
+    "language": "Python",
+    "name": "balajibankapur/agentic-sra-framework",
+    "stars": 0,
+    "updated_at": "2026-09-19T17:31:07Z",
+    "url": "https://github.com/balajibankapur/agentic-sra-framework"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-19T17:30:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T17:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
     "id": "humanhady/DocMine",
     "language": "Python",
@@ -25,15 +187,6 @@
     "stars": 3,
     "updated_at": "2026-09-19T17:26:56Z",
     "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-19T17:26:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -68,7 +221,7 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 858,
-    "updated_at": "2026-09-19T17:20:25Z",
+    "updated_at": "2026-09-19T17:35:56Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
@@ -131,17 +284,17 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-09-19T17:16:18Z",
+    "updated_at": "2026-09-19T17:36:44Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Shared, persistent memory for AI agents. Self-hosted MCP server with semantic search, vector RAG, and live updates. Work",
+    "id": "MontyGovernance/montycat-mcp",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T17:15:17Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "MontyGovernance/montycat-mcp",
+    "stars": 54,
+    "updated_at": "2026-09-19T17:16:13Z",
+    "url": "https://github.com/MontyGovernance/montycat-mcp"
   },
   {
     "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
@@ -180,15 +333,6 @@
     "url": "https://github.com/clizardyy/unbody"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-19T17:06:47Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
@@ -202,7 +346,7 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 1889,
+    "stars": 1888,
     "updated_at": "2026-09-19T17:01:07Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -230,7 +374,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-19T16:59:23Z",
+    "updated_at": "2026-09-19T17:41:45Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -241,15 +385,6 @@
     "stars": 5,
     "updated_at": "2026-09-19T16:58:46Z",
     "url": "https://github.com/Cognilogical/NeuroStrata"
-  },
-  {
-    "description": "Agentic AI framework that drafts FDA cybersecurity SRAs for connected medical devices. Vector DB + Graph DB + MCP + Lang",
-    "id": "balajibankapur/agentic-sra-framework",
-    "language": "Python",
-    "name": "balajibankapur/agentic-sra-framework",
-    "stars": 0,
-    "updated_at": "2026-09-19T16:50:47Z",
-    "url": "https://github.com/balajibankapur/agentic-sra-framework"
   },
   {
     "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
@@ -313,140 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T16:19:05Z",
     "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-19T16:18:57Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-19T16:18:40Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-09-19T16:17:08Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Vectorize \u2014 independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au",
-    "id": "api-evangelist/vectorize-io",
-    "language": "\u2014",
-    "name": "api-evangelist/vectorize-io",
-    "stars": 0,
-    "updated_at": "2026-09-19T16:16:28Z",
-    "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
-    "id": "api-evangelist/upstash",
-    "language": "\u2014",
-    "name": "api-evangelist/upstash",
-    "stars": 0,
-    "updated_at": "2026-09-19T16:15:18Z",
-    "url": "https://github.com/api-evangelist/upstash"
-  },
-  {
-    "description": "NextSQL is a new database engine, written primarily in Go.",
-    "id": "bzync/nextsql",
-    "language": "Go",
-    "name": "bzync/nextsql",
-    "stars": 0,
-    "updated_at": "2026-09-19T16:09:42Z",
-    "url": "https://github.com/bzync/nextsql"
-  },
-  {
-    "description": "\ud83e\udde0 Stop building AI that forgets. Master MCP (Model Context Protocol) with production-ready semantic memory, hybrid RAG, ",
-    "id": "timothywarner-org/context-engineering",
-    "language": "Python",
-    "name": "timothywarner-org/context-engineering",
-    "stars": 27,
-    "updated_at": "2026-09-19T16:09:11Z",
-    "url": "https://github.com/timothywarner-org/context-engineering"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-19T16:08:09Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-09-19T16:07:07Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-19T16:04:59Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 351,
-    "updated_at": "2026-09-19T16:03:32Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "SequoiaDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distribut",
-    "id": "api-evangelist/sequoiadb",
-    "language": "\u2014",
-    "name": "api-evangelist/sequoiadb",
-    "stars": 0,
-    "updated_at": "2026-09-19T16:00:25Z",
-    "url": "https://github.com/api-evangelist/sequoiadb"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9445,
-    "updated_at": "2026-09-19T17:05:54Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "RAGFlow \u2014 independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev",
-    "id": "api-evangelist/ragflow",
-    "language": "\u2014",
-    "name": "api-evangelist/ragflow",
-    "stars": 0,
-    "updated_at": "2026-09-19T15:54:04Z",
-    "url": "https://github.com/api-evangelist/ragflow"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 0,
-    "updated_at": "2026-09-19T15:52:00Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
   }
 ]
