@@ -1,11 +1,47 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T05:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 2,
+    "updated_at": "2026-09-19T04:59:38Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1917,
+    "updated_at": "2026-09-19T04:57:37Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-19T04:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1157,
-    "updated_at": "2026-09-19T04:43:19Z",
+    "updated_at": "2026-09-19T05:00:19Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -27,24 +63,6 @@
     "url": "https://github.com/DopamineDriven/slipstream"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-19T04:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T04:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
@@ -58,7 +76,7 @@
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 52219,
+    "stars": 52220,
     "updated_at": "2026-09-19T04:27:01Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -77,7 +95,7 @@
     "language": "Python",
     "name": "araray/llmcore",
     "stars": 4,
-    "updated_at": "2026-09-19T04:23:44Z",
+    "updated_at": "2026-09-19T04:53:32Z",
     "url": "https://github.com/araray/llmcore"
   },
   {
@@ -124,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T03:57:49Z",
     "url": "https://github.com/AlirezaAbedinii/agent-orchestration-system"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1917,
-    "updated_at": "2026-09-19T04:41:40Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -212,7 +221,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 92,
-    "updated_at": "2026-09-19T03:55:43Z",
+    "updated_at": "2026-09-19T04:45:58Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-19T02:15:16Z",
     "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-19T02:12:57Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
   }
 ]
