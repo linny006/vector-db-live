@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-19T00:00:20Z",
+    "updated_at": "2026-09-19T00:15:18Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-09-19T00:13:28Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1352,
+    "updated_at": "2026-09-19T00:01:33Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-19T00:00:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -61,15 +88,6 @@
     "stars": 3,
     "updated_at": "2026-09-18T23:33:15Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-18T23:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -194,7 +212,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11462,
-    "updated_at": "2026-09-18T23:08:22Z",
+    "updated_at": "2026-09-19T00:03:02Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -392,7 +410,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9283,
-    "updated_at": "2026-09-18T23:58:06Z",
+    "updated_at": "2026-09-19T00:06:58Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T22:31:53Z",
     "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-09-18T22:31:34Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
-    "id": "ermermermermidk/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ermermermermidk/mcp-ai-memory",
-    "stars": 1,
-    "updated_at": "2026-09-18T22:30:55Z",
-    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   }
 ]
