@@ -1,11 +1,56 @@
 [
   {
+    "description": "GraphRAG and long-context retrieval project for large fictional-world corpora, exploring knowledge graphs, entity resolu",
+    "id": "Vyce101/VySol",
+    "language": "\u2014",
+    "name": "Vyce101/VySol",
+    "stars": 0,
+    "updated_at": "2026-09-19T16:40:44Z",
+    "url": "https://github.com/Vyce101/VySol"
+  },
+  {
+    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
+    "id": "desikai-lab/Marrow",
+    "language": "Python",
+    "name": "desikai-lab/Marrow",
+    "stars": 7,
+    "updated_at": "2026-09-19T16:40:01Z",
+    "url": "https://github.com/desikai-lab/Marrow"
+  },
+  {
+    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
+    "id": "Senthilsivam41/kinegraph-v",
+    "language": "JavaScript",
+    "name": "Senthilsivam41/kinegraph-v",
+    "stars": 1,
+    "updated_at": "2026-09-19T16:36:50Z",
+    "url": "https://github.com/Senthilsivam41/kinegraph-v"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 3,
+    "updated_at": "2026-09-19T16:34:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-19T16:30:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-19T16:30:17Z",
+    "updated_at": "2026-09-19T16:45:17Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +68,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 10,
-    "updated_at": "2026-09-19T16:24:31Z",
+    "updated_at": "2026-09-19T16:38:09Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -108,15 +153,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-19T16:15:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
     "id": "api-evangelist/upstash",
     "language": "\u2014",
@@ -131,17 +167,8 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 858,
-    "updated_at": "2026-09-19T16:25:34Z",
+    "updated_at": "2026-09-19T16:42:47Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
-    "id": "Senthilsivam41/kinegraph-v",
-    "language": "JavaScript",
-    "name": "Senthilsivam41/kinegraph-v",
-    "stars": 1,
-    "updated_at": "2026-09-19T16:10:47Z",
-    "url": "https://github.com/Senthilsivam41/kinegraph-v"
   },
   {
     "description": "NextSQL is a new database engine, written primarily in Go.",
@@ -169,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-09-19T16:08:09Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-19T16:08:08Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
@@ -230,7 +248,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9445,
-    "updated_at": "2026-09-19T15:56:29Z",
+    "updated_at": "2026-09-19T16:33:30Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-19T15:32:18Z",
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-09-19T15:31:25Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "LF AI and Data \u2014 independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation",
-    "id": "api-evangelist/lf-ai-and-data",
-    "language": "\u2014",
-    "name": "api-evangelist/lf-ai-and-data",
-    "stars": 0,
-    "updated_at": "2026-09-19T15:31:11Z",
-    "url": "https://github.com/api-evangelist/lf-ai-and-data"
   }
 ]
