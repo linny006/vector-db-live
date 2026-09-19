@@ -1,21 +1,48 @@
 [
   {
-    "description": "SequoiaDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distribut",
-    "id": "api-evangelist/sequoiadb",
+    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
+    "id": "api-evangelist/vespa-ai",
     "language": "\u2014",
-    "name": "api-evangelist/sequoiadb",
+    "name": "api-evangelist/vespa-ai",
     "stars": 0,
-    "updated_at": "2026-09-19T01:29:33Z",
-    "url": "https://github.com/api-evangelist/sequoiadb"
+    "updated_at": "2026-09-19T01:45:04Z",
+    "url": "https://github.com/api-evangelist/vespa-ai"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
+    "description": "Vectorize \u2014 independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au",
+    "id": "api-evangelist/vectorize-io",
+    "language": "\u2014",
+    "name": "api-evangelist/vectorize-io",
+    "stars": 0,
+    "updated_at": "2026-09-19T01:44:27Z",
+    "url": "https://github.com/api-evangelist/vectorize-io"
+  },
+  {
+    "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
+    "id": "api-evangelist/upstash",
+    "language": "\u2014",
+    "name": "api-evangelist/upstash",
+    "stars": 0,
+    "updated_at": "2026-09-19T01:43:22Z",
+    "url": "https://github.com/api-evangelist/upstash"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-19T01:43:08Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 3,
-    "updated_at": "2026-09-19T01:29:17Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "updated_at": "2026-09-19T01:42:33Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "RAG, MCP, Machine Learning, Fuzzy Logic + Kalman + LLMs",
@@ -23,8 +50,44 @@
     "language": "Python",
     "name": "agustindiazcano/mcp-transactional-agent",
     "stars": 0,
-    "updated_at": "2026-09-19T01:27:12Z",
+    "updated_at": "2026-09-19T01:41:01Z",
     "url": "https://github.com/agustindiazcano/mcp-transactional-agent"
+  },
+  {
+    "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
+    "id": "api-evangelist/surrealdb",
+    "language": "\u2014",
+    "name": "api-evangelist/surrealdb",
+    "stars": 0,
+    "updated_at": "2026-09-19T01:35:55Z",
+    "url": "https://github.com/api-evangelist/surrealdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-19T01:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-19T01:45:16Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "SequoiaDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distribut",
+    "id": "api-evangelist/sequoiadb",
+    "language": "\u2014",
+    "name": "api-evangelist/sequoiadb",
+    "stars": 0,
+    "updated_at": "2026-09-19T01:29:33Z",
+    "url": "https://github.com/api-evangelist/sequoiadb"
   },
   {
     "description": "RAGFlow \u2014 independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev",
@@ -52,15 +115,6 @@
     "stars": 111,
     "updated_at": "2026-09-19T01:16:57Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-19T01:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
@@ -124,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-09-19T01:07:08Z",
     "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-19T01:04:37Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
@@ -212,7 +257,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9283,
-    "updated_at": "2026-09-19T01:28:11Z",
+    "updated_at": "2026-09-19T01:36:34Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -342,15 +387,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:43:47Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-18T23:19:00Z",
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-09-18T23:18:35Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "NextSQL is a new database engine, written primarily in Go.",
-    "id": "bzync/nextsql",
-    "language": "Go",
-    "name": "bzync/nextsql",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:16:24Z",
-    "url": "https://github.com/bzync/nextsql"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-09-18T23:15:42Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8243,
-    "updated_at": "2026-09-18T23:15:15Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
