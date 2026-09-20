@@ -1,5 +1,50 @@
 [
   {
+    "description": "ObjectBox \u2014 independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance,",
+    "id": "api-evangelist/objectbox",
+    "language": "\u2014",
+    "name": "api-evangelist/objectbox",
+    "stars": 0,
+    "updated_at": "2026-09-20T16:20:07Z",
+    "url": "https://github.com/api-evangelist/objectbox"
+  },
+  {
+    "description": "Nomic AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib",
+    "id": "api-evangelist/nomic-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/nomic-ai",
+    "stars": 0,
+    "updated_at": "2026-09-20T16:18:54Z",
+    "url": "https://github.com/api-evangelist/nomic-ai"
+  },
+  {
+    "description": "AI-powered PDF chat application using RAG (Retrieval-Augmented Generation) that enables users to upload documents, gener",
+    "id": "aashutosh585/chatpdf",
+    "language": "JavaScript",
+    "name": "aashutosh585/chatpdf",
+    "stars": 0,
+    "updated_at": "2026-09-20T16:17:14Z",
+    "url": "https://github.com/aashutosh585/chatpdf"
+  },
+  {
+    "description": "MyScale \u2014 independent third-party profile of a public API surface, by API Evangelist. MyScale is a SQL vector database b",
+    "id": "api-evangelist/myscale",
+    "language": "\u2014",
+    "name": "api-evangelist/myscale",
+    "stars": 0,
+    "updated_at": "2026-09-20T16:16:07Z",
+    "url": "https://github.com/api-evangelist/myscale"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-20T16:15:44Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T16:13:40Z",
     "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "AI-powered PDF chat application using RAG (Retrieval-Augmented Generation) that enables users to upload documents, gener",
-    "id": "aashutosh585/chatpdf",
-    "language": "JavaScript",
-    "name": "aashutosh585/chatpdf",
-    "stars": 0,
-    "updated_at": "2026-09-20T16:11:32Z",
-    "url": "https://github.com/aashutosh585/chatpdf"
   },
   {
     "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
@@ -97,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T16:01:17Z",
     "url": "https://github.com/api-evangelist/ironcore-labs"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-20T16:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-20T15:24:01Z",
     "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 281,
-    "updated_at": "2026-09-20T15:23:51Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9445,
-    "updated_at": "2026-09-20T16:13:28Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
-    "id": "Anonymousforareason111/hybrid-orchestrator",
-    "language": "Python",
-    "name": "Anonymousforareason111/hybrid-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-09-20T15:22:57Z",
-    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
   }
 ]
