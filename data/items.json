@@ -1,5 +1,86 @@
 [
   {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 12,
+    "updated_at": "2026-09-20T04:59:00Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-09-20T04:57:57Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-09-20T04:57:55Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 1946,
+    "updated_at": "2026-09-20T04:55:57Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "The LangChain wrapper of Milvus vector database for efficient vector search, full-text search, hybrid retrieval and RAG.",
+    "id": "langchain-ai/langchain-milvus",
+    "language": "Python",
+    "name": "langchain-ai/langchain-milvus",
+    "stars": 58,
+    "updated_at": "2026-09-20T04:51:25Z",
+    "url": "https://github.com/langchain-ai/langchain-milvus"
+  },
+  {
+    "description": "The unified multimodal backend agents build with. Database, orchestration, and serving in one Python file.",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1622,
+    "updated_at": "2026-09-20T04:51:17Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "FERPA/HIPAA/GDPR-compliant RAG patterns: identity-scoped retrieval, audit logging, and framework adapters for regulated ",
+    "id": "ashutoshrana/enterprise-rag-patterns",
+    "language": "Python",
+    "name": "ashutoshrana/enterprise-rag-patterns",
+    "stars": 1,
+    "updated_at": "2026-09-20T04:48:25Z",
+    "url": "https://github.com/ashutoshrana/enterprise-rag-patterns"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T05:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-20T04:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -18,15 +99,6 @@
     "url": "https://github.com/A3S-Lab/Vec"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 1945,
-    "updated_at": "2026-09-20T04:30:33Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "\ud83e\udde0 Predictable, embedded multimodal vector database & offline RAG engine for Edge AI (ARM64 / Zero-OOM). Built in C++20.",
     "id": "pomagrenate/pomaidb",
     "language": "C++",
@@ -36,30 +108,12 @@
     "url": "https://github.com/pomagrenate/pomaidb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-20T04:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-20T04:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
     "id": "puffball1567/koutendb",
     "language": "Nim",
     "name": "puffball1567/koutendb",
     "stars": 16,
-    "updated_at": "2026-09-20T04:28:40Z",
+    "updated_at": "2026-09-20T04:55:14Z",
     "url": "https://github.com/puffball1567/koutendb"
   },
   {
@@ -122,7 +176,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46166,
-    "updated_at": "2026-09-20T04:07:37Z",
+    "updated_at": "2026-09-20T04:48:05Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9444,
-    "updated_at": "2026-09-20T04:21:55Z",
+    "updated_at": "2026-09-20T04:46:53Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1157,
-    "updated_at": "2026-09-20T04:39:12Z",
+    "updated_at": "2026-09-20T05:00:01Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-20T03:17:15Z",
     "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "The unified multimodal backend agents build with. Database, orchestration, and serving in one Python file.",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1622,
-    "updated_at": "2026-09-20T03:45:47Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-09-20T03:13:53Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-20T03:12:10Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-09-20T03:11:39Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-09-20T03:10:30Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-09-20T03:06:37Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
   }
 ]
