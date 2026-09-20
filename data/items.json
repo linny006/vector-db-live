@@ -1,12 +1,39 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 858,
+    "updated_at": "2026-09-20T06:14:30Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 3,
-    "updated_at": "2026-09-20T06:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-09-20T06:13:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Autonomous, persistent, memory-aware AI coding agent with procedural reflection, UI inspector, and confidence decay",
+    "id": "Chaitu03-alt/athena-agent",
+    "language": "Python",
+    "name": "Chaitu03-alt/athena-agent",
+    "stars": 0,
+    "updated_at": "2026-09-20T06:10:14Z",
+    "url": "https://github.com/Chaitu03-alt/athena-agent"
+  },
+  {
+    "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
+    "id": "musabbozkurt/oauth2-authorization-server",
+    "language": "Java",
+    "name": "musabbozkurt/oauth2-authorization-server",
+    "stars": 6,
+    "updated_at": "2026-09-20T06:09:31Z",
+    "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -14,8 +41,35 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-20T05:59:05Z",
+    "updated_at": "2026-09-20T06:11:39Z",
     "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 81,
+    "updated_at": "2026-09-20T06:08:58Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-20T06:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T06:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -34,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T05:47:49Z",
     "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-20T05:45:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -124,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T05:35:25Z",
     "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 3,
-    "updated_at": "2026-09-20T05:34:46Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
@@ -275,7 +311,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1157,
-    "updated_at": "2026-09-20T05:51:52Z",
+    "updated_at": "2026-09-20T06:12:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -400,7 +436,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 1954,
+    "stars": 1956,
     "updated_at": "2026-09-20T04:55:57Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -412,41 +448,5 @@
     "stars": 58,
     "updated_at": "2026-09-20T04:51:25Z",
     "url": "https://github.com/langchain-ai/langchain-milvus"
-  },
-  {
-    "description": "The unified multimodal backend agents build with. Database, orchestration, and serving in one Python file.",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1622,
-    "updated_at": "2026-09-20T04:51:17Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "FERPA/HIPAA/GDPR-compliant RAG patterns: identity-scoped retrieval, audit logging, and framework adapters for regulated ",
-    "id": "ashutoshrana/enterprise-rag-patterns",
-    "language": "Python",
-    "name": "ashutoshrana/enterprise-rag-patterns",
-    "stars": 1,
-    "updated_at": "2026-09-20T04:48:25Z",
-    "url": "https://github.com/ashutoshrana/enterprise-rag-patterns"
-  },
-  {
-    "description": "Process-local Retrieval Engine",
-    "id": "A3S-Lab/Vec",
-    "language": "Rust",
-    "name": "A3S-Lab/Vec",
-    "stars": 1,
-    "updated_at": "2026-09-20T04:31:32Z",
-    "url": "https://github.com/A3S-Lab/Vec"
-  },
-  {
-    "description": "\ud83e\udde0 Predictable, embedded multimodal vector database & offline RAG engine for Edge AI (ARM64 / Zero-OOM). Built in C++20.",
-    "id": "pomagrenate/pomaidb",
-    "language": "C++",
-    "name": "pomagrenate/pomaidb",
-    "stars": 19,
-    "updated_at": "2026-09-20T04:30:28Z",
-    "url": "https://github.com/pomagrenate/pomaidb"
   }
 ]
