@@ -1,5 +1,59 @@
 [
   {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-20T21:18:56Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "Fastest Open-source AI infrastructure for model routing, agents, sandboxes, memory, MCP, workflows, and observability.",
+    "id": "everstacklabs/everstack",
+    "language": "Go",
+    "name": "everstacklabs/everstack",
+    "stars": 1,
+    "updated_at": "2026-09-20T21:18:02Z",
+    "url": "https://github.com/everstacklabs/everstack"
+  },
+  {
+    "description": "A modular Retrieval-Augmented Generation (RAG) system with query routing, structured citations, and a FastAPI + Streamli",
+    "id": "Neeleshsingh30/RAG-BASED-CHATBOT",
+    "language": "Python",
+    "name": "Neeleshsingh30/RAG-BASED-CHATBOT",
+    "stars": 0,
+    "updated_at": "2026-09-20T21:17:18Z",
+    "url": "https://github.com/Neeleshsingh30/RAG-BASED-CHATBOT"
+  },
+  {
+    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
+    "id": "Shajo777/SupaAI-Framework-Template",
+    "language": "\u2014",
+    "name": "Shajo777/SupaAI-Framework-Template",
+    "stars": 0,
+    "updated_at": "2026-09-20T21:17:13Z",
+    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
+  },
+  {
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-09-20T21:16:47Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-20T21:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -81,15 +135,6 @@
     "url": "https://github.com/MakabeD/Obsidian_RAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-20T21:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "aicubetechnology/qilbeeDB",
     "stars": 22,
-    "updated_at": "2026-09-20T21:12:12Z",
+    "updated_at": "2026-09-20T21:16:40Z",
     "url": "https://github.com/aicubetechnology/qilbeeDB"
   },
   {
@@ -169,15 +214,6 @@
     "stars": 34716,
     "updated_at": "2026-09-20T20:34:27Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A modular Retrieval-Augmented Generation (RAG) system with query routing, structured citations, and a FastAPI + Streamli",
-    "id": "Neeleshsingh30/RAG-BASED-CHATBOT",
-    "language": "Python",
-    "name": "Neeleshsingh30/RAG-BASED-CHATBOT",
-    "stars": 0,
-    "updated_at": "2026-09-20T20:21:02Z",
-    "url": "https://github.com/Neeleshsingh30/RAG-BASED-CHATBOT"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -214,24 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T20:12:23Z",
     "url": "https://github.com/alieneseren/fly-vector"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-20T21:04:09Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "Fastest Open-source AI infrastructure for model routing, agents, sandboxes, memory, MCP, workflows, and observability.",
-    "id": "everstacklabs/everstack",
-    "language": "Go",
-    "name": "everstacklabs/everstack",
-    "stars": 1,
-    "updated_at": "2026-09-20T20:55:52Z",
-    "url": "https://github.com/everstacklabs/everstack"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-20T19:35:24Z",
     "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-09-20T19:35:11Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Persistent, token-efficient memory for Claude Code \u2014 5 memory layers (vector store, file facts, Obsidian vault, code gra",
-    "id": "jushayden/claude-code-memory-cache",
-    "language": "Python",
-    "name": "jushayden/claude-code-memory-cache",
-    "stars": 6,
-    "updated_at": "2026-09-20T19:34:09Z",
-    "url": "https://github.com/jushayden/claude-code-memory-cache"
   }
 ]
