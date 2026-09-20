@@ -1,12 +1,12 @@
 [
   {
-    "description": "Offline RAG assistant for renewable energy maintenance using local LLMs, ChromaDB and semantic search.",
-    "id": "zeynepsumeyyedemirel-code/AeroGrid_AI",
-    "language": "Python",
-    "name": "zeynepsumeyyedemirel-code/AeroGrid_AI",
-    "stars": 0,
-    "updated_at": "2026-09-20T12:45:15Z",
-    "url": "https://github.com/zeynepsumeyyedemirel-code/AeroGrid_AI"
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1888,
+    "updated_at": "2026-09-20T12:56:20Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -14,8 +14,62 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-20T12:43:38Z",
+    "updated_at": "2026-09-20T12:52:24Z",
     "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-20T12:51:52Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
+    "id": "LnYo-Cly/ai4j",
+    "language": "HTML",
+    "name": "LnYo-Cly/ai4j",
+    "stars": 429,
+    "updated_at": "2026-09-20T12:50:01Z",
+    "url": "https://github.com/LnYo-Cly/ai4j"
+  },
+  {
+    "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, zero depe",
+    "id": "eminsk/nanovector",
+    "language": "C",
+    "name": "eminsk/nanovector",
+    "stars": 6,
+    "updated_at": "2026-09-20T12:49:22Z",
+    "url": "https://github.com/eminsk/nanovector"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-20T12:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-20T12:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Offline RAG assistant for renewable energy maintenance using local LLMs, ChromaDB and semantic search.",
+    "id": "zeynepsumeyyedemirel-code/AeroGrid_AI",
+    "language": "Python",
+    "name": "zeynepsumeyyedemirel-code/AeroGrid_AI",
+    "stars": 0,
+    "updated_at": "2026-09-20T12:45:15Z",
+    "url": "https://github.com/zeynepsumeyyedemirel-code/AeroGrid_AI"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -52,24 +106,6 @@
     "stars": 1178,
     "updated_at": "2026-09-20T12:33:13Z",
     "url": "https://github.com/zilliztech/VectorDBBench"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-20T12:30:27Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-20T12:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
@@ -140,7 +176,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9444,
-    "updated_at": "2026-09-20T12:41:18Z",
+    "updated_at": "2026-09-20T12:53:49Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -178,15 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-20T11:48:22Z",
     "url": "https://github.com/aashutosh585/chatpdf"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1888,
-    "updated_at": "2026-09-20T11:59:08Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -261,6 +288,15 @@
     "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
   },
   {
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 3396,
+    "updated_at": "2026-09-20T11:39:40Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
+  },
+  {
     "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
     "id": "Wry-letters233/notes-quiz-agent",
     "language": "JavaScript",
@@ -295,15 +331,6 @@
     "stars": 1,
     "updated_at": "2026-09-20T11:33:10Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3395,
-    "updated_at": "2026-09-20T11:39:40Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-20T11:22:22Z",
     "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-09-20T11:21:29Z",
-    "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
-    "id": "Anonymousforareason111/hybrid-orchestrator",
-    "language": "Python",
-    "name": "Anonymousforareason111/hybrid-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-09-20T11:20:15Z",
-    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-  },
-  {
-    "description": "A lightweight agentic RAG-style chatbot and Model Context Protocol (MCP) server that answers questions about LangChain u",
-    "id": "Ahmed-Maher77/AI-Documentation-Assistant___Agentic-RAG-and-MCP-Retrieval-Assistant",
-    "language": "Python",
-    "name": "Ahmed-Maher77/AI-Documentation-Assistant___Agentic-RAG-and-MCP-Retrieval-Assistant",
-    "stars": 0,
-    "updated_at": "2026-09-20T11:20:00Z",
-    "url": "https://github.com/Ahmed-Maher77/AI-Documentation-Assistant___Agentic-RAG-and-MCP-Retrieval-Assistant"
   }
 ]
