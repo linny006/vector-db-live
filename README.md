@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-20 04:30 UTC
+> ⏰ Last updated: 2026-09-20 04:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,24 +42,24 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [puffball1567/koutendb](https://github.com/puffball1567/koutendb) | 16 | Nim | 2026-09-20 | KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval |
-| 2 | [schmitech/orbit](https://github.com/schmitech/orbit) | 351 | Python | 2026-09-20 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 3 | [A3S-Lab/Vec](https://github.com/A3S-Lab/Vec) | 1 | Rust | 2026-09-20 | Process-local Retrieval Engine |
-| 4 | [vanedb/vanedb](https://github.com/vanedb/vanedb) | 0 | Rust | 2026-09-20 | Embeddable vector database for edge AI |
-| 5 | [LnYo-Cly/ai4j](https://github.com/LnYo-Cly/ai4j) | 429 | HTML | 2026-09-20 | Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R |
-| 6 | [ldclabs/anda-db](https://github.com/ldclabs/anda-db) | 31 | Rust | 2026-09-20 | 🗄 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory. |
-| 7 | [tala-io/taladb](https://github.com/tala-io/taladb) | 4 | Rust | 2026-09-20 | TalaDB - The embedded vector and document database for on-device AI. |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-20 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-20 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 10 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1944 | Rust | 2026-09-20 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
-| 11 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-09-20 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-20 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 13 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46166 | Go | 2026-09-20 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
-| 14 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 93 | Rust | 2026-09-20 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
-| 15 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9444 | Rust | 2026-09-20 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
-| 16 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1157 | Java | 2026-09-20 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 17 | [Buffden/rag-document-engine](https://github.com/Buffden/rag-document-engine) | 1 | Python | 2026-09-20 |  A progressive RAG system built from scratch in Python, starting from raw embeddings and cosine similarity, evolving int |
-| 18 | [pomagrenate/pomaidb](https://github.com/pomagrenate/pomaidb) | 19 | C++ | 2026-09-20 | 🧠 Predictable, embedded multimodal vector database & offline RAG engine for Edge AI (ARM64 / Zero-OOM). Built in C++20. |
+| 1 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 3 | HTML | 2026-09-20 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 2 | [A3S-Lab/Vec](https://github.com/A3S-Lab/Vec) | 1 | Rust | 2026-09-20 | Process-local Retrieval Engine |
+| 3 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 1945 | Rust | 2026-09-20 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 4 | [pomagrenate/pomaidb](https://github.com/pomagrenate/pomaidb) | 19 | C++ | 2026-09-20 | 🧠 Predictable, embedded multimodal vector database & offline RAG engine for Edge AI (ARM64 / Zero-OOM). Built in C++20. |
+| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-20 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-20 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 7 | [puffball1567/koutendb](https://github.com/puffball1567/koutendb) | 16 | Nim | 2026-09-20 | KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval |
+| 8 | [schmitech/orbit](https://github.com/schmitech/orbit) | 351 | Python | 2026-09-20 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
+| 9 | [vanedb/vanedb](https://github.com/vanedb/vanedb) | 0 | Rust | 2026-09-20 | Embeddable vector database for edge AI |
+| 10 | [LnYo-Cly/ai4j](https://github.com/LnYo-Cly/ai4j) | 429 | HTML | 2026-09-20 | Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R |
+| 11 | [ldclabs/anda-db](https://github.com/ldclabs/anda-db) | 31 | Rust | 2026-09-20 | 🗄 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory. |
+| 12 | [tala-io/taladb](https://github.com/tala-io/taladb) | 4 | Rust | 2026-09-20 | TalaDB - The embedded vector and document database for on-device AI. |
+| 13 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-09-20 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 14 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 46166 | Go | 2026-09-20 | Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search |
+| 15 | [cyberlife-coder/VelesDB](https://github.com/cyberlife-coder/VelesDB) | 93 | Rust | 2026-09-20 | The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL |
+| 16 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9444 | Rust | 2026-09-20 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
+| 17 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1157 | Java | 2026-09-20 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 18 | [Buffden/rag-document-engine](https://github.com/Buffden/rag-document-engine) | 1 | Python | 2026-09-20 |  A progressive RAG system built from scratch in Python, starting from raw embeddings and cosine similarity, evolving int |
 | 19 | [lopadova/AskMyDocs](https://github.com/lopadova/AskMyDocs) | 9 | PHP | 2026-09-20 | AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge. |
 | 20 | [nehalvaghasiya/agentic-rag](https://github.com/nehalvaghasiya/agentic-rag) | 1 | JavaScript | 2026-09-20 | An Agentic RAG platform featuring per-project knowledge bases, real-time reasoning steps (query rewriting, grading), and |
 | 21 | [ks-1220/mandi-single-stage-filtering](https://github.com/ks-1220/mandi-single-stage-filtering) | 0 | Python | 2026-09-20 | Benchmarking Qdrant's single-stage vector filtering against legacy pre- and post-filtering on a 120,000-listing Indian A |
