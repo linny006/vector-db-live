@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-20 16:22 UTC
+> ⏰ Last updated: 2026-09-20 16:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [api-evangelist/objectbox](https://github.com/api-evangelist/objectbox) | 0 | — | 2026-09-20 | ObjectBox — independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance, |
-| 2 | [api-evangelist/nomic-ai](https://github.com/api-evangelist/nomic-ai) | 0 | — | 2026-09-20 | Nomic AI — independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib |
-| 3 | [aashutosh585/chatpdf](https://github.com/aashutosh585/chatpdf) | 0 | JavaScript | 2026-09-20 | AI-powered PDF chat application using RAG (Retrieval-Augmented Generation) that enables users to upload documents, gener |
-| 4 | [api-evangelist/myscale](https://github.com/api-evangelist/myscale) | 0 | — | 2026-09-20 | MyScale — independent third-party profile of a public API surface, by API Evangelist. MyScale is a SQL vector database b |
-| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-20 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-20 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-20 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-20 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [api-evangelist/objectbox](https://github.com/api-evangelist/objectbox) | 0 | — | 2026-09-20 | ObjectBox — independent third-party profile of a public API surface, by API Evangelist. ObjectBox is a high-performance, |
+| 4 | [api-evangelist/nomic-ai](https://github.com/api-evangelist/nomic-ai) | 0 | — | 2026-09-20 | Nomic AI — independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib |
+| 5 | [aashutosh585/chatpdf](https://github.com/aashutosh585/chatpdf) | 0 | JavaScript | 2026-09-20 | AI-powered PDF chat application using RAG (Retrieval-Augmented Generation) that enables users to upload documents, gener |
+| 6 | [api-evangelist/myscale](https://github.com/api-evangelist/myscale) | 0 | — | 2026-09-20 | MyScale — independent third-party profile of a public API surface, by API Evangelist. MyScale is a SQL vector database b |
 | 7 | [api-evangelist/mixedbread-ai](https://github.com/api-evangelist/mixedbread-ai) | 1 | — | 2026-09-20 | Mixedbread — independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI |
 | 8 | [api-evangelist/milvus](https://github.com/api-evangelist/milvus) | 0 | — | 2026-09-20 | Milvus — independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source |
 | 9 | [api-evangelist/marqo](https://github.com/api-evangelist/marqo) | 0 | — | 2026-09-20 | Marqo — independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal  |
