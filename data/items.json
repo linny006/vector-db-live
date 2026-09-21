@@ -1,5 +1,68 @@
 [
   {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7102,
+    "updated_at": "2026-09-21T08:00:03Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Agentic RAG system \u2014 routes natural language to SQL, industry documents, or both. LangGraph + Pinecone + GPT-4o-mini. 86",
+    "id": "SAMithila/nl-db-agent",
+    "language": "Python",
+    "name": "SAMithila/nl-db-agent",
+    "stars": 1,
+    "updated_at": "2026-09-21T07:58:46Z",
+    "url": "https://github.com/SAMithila/nl-db-agent"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46186,
+    "updated_at": "2026-09-21T07:56:21Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Runnable, minimal LLM examples for Java - Spring AI & LangChain4j. RAG, agents, MCP servers, tool calling, structured ou",
+    "id": "alxkm/java-ai-cookbook",
+    "language": "Java",
+    "name": "alxkm/java-ai-cookbook",
+    "stars": 1,
+    "updated_at": "2026-09-21T07:51:11Z",
+    "url": "https://github.com/alxkm/java-ai-cookbook"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-21T07:47:07Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-21T07:46:01Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2143,
+    "updated_at": "2026-09-21T07:45:58Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,15 +72,6 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Agentic RAG system \u2014 routes natural language to SQL, industry documents, or both. LangGraph + Pinecone + GPT-4o-mini. 86",
-    "id": "SAMithila/nl-db-agent",
-    "language": "Python",
-    "name": "SAMithila/nl-db-agent",
-    "stars": 1,
-    "updated_at": "2026-09-21T07:45:07Z",
-    "url": "https://github.com/SAMithila/nl-db-agent"
-  },
-  {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
     "id": "LnYo-Cly/ai4j",
     "language": "HTML",
@@ -25,24 +79,6 @@
     "stars": 429,
     "updated_at": "2026-09-21T07:44:20Z",
     "url": "https://github.com/LnYo-Cly/ai4j"
-  },
-  {
-    "description": "Multilingual RAG system (FastAPI + pgvector backend, Streamlit UI) with swappable LLM providers and grounded, source-att",
-    "id": "mariiammaysara/Docsly",
-    "language": "Python",
-    "name": "mariiammaysara/Docsly",
-    "stars": 0,
-    "updated_at": "2026-09-21T07:42:59Z",
-    "url": "https://github.com/mariiammaysara/Docsly"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46185,
-    "updated_at": "2026-09-21T07:45:37Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -108,15 +144,6 @@
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-21T07:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
     "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
     "language": "Jupyter Notebook",
@@ -133,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T07:29:18Z",
     "url": "https://github.com/Sam-CodesAI/SutraDB"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2140,
-    "updated_at": "2026-09-21T07:45:58Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
@@ -202,7 +220,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30875,
+    "stars": 30876,
     "updated_at": "2026-09-21T07:23:18Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -297,15 +315,6 @@
     "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7102,
-    "updated_at": "2026-09-21T07:11:05Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "Your private document brain. PDFs in, RAG out. Self-hosted. Plug everywhere.",
     "id": "codelined-ag/Extracto",
     "language": "TypeScript",
@@ -313,6 +322,15 @@
     "stars": 5,
     "updated_at": "2026-09-21T07:10:39Z",
     "url": "https://github.com/codelined-ag/Extracto"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8255,
+    "updated_at": "2026-09-21T07:10:00Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
@@ -374,7 +392,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16832,
-    "updated_at": "2026-09-21T07:42:26Z",
+    "updated_at": "2026-09-21T07:57:17Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -383,7 +401,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4436,
-    "updated_at": "2026-09-21T07:43:21Z",
+    "updated_at": "2026-09-21T07:59:59Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -403,15 +421,6 @@
     "stars": 94,
     "updated_at": "2026-09-21T07:01:58Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-21T07:01:57Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T07:00:57Z",
     "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
-    "id": "Siddhant-K-code/distill",
-    "language": "Go",
-    "name": "Siddhant-K-code/distill",
-    "stars": 180,
-    "updated_at": "2026-09-21T06:59:15Z",
-    "url": "https://github.com/Siddhant-K-code/distill"
   }
 ]
