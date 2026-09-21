@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-21 20:30 UTC
+> ⏰ Last updated: 2026-09-21 20:45 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [kannaka-labs/kannaka-memory](https://github.com/kannaka-labs/kannaka-memory) | 2 | Rust | 2026-09-21 | The Holographic Resonance Medium — wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b |
-| 3 | [crate/crate](https://github.com/crate/crate) | 4436 | Java | 2026-09-21 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
-| 4 | [openeverest/provider-milvus](https://github.com/openeverest/provider-milvus) | 0 | Go | 2026-09-21 | OpenEverest provider for Milvus |
-| 5 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-09-21 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
-| 6 | [AgentToolkit/altk-evolve](https://github.com/AgentToolkit/altk-evolve) | 116 | Python | 2026-09-21 | Self improving agents through iterations |
-| 7 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9297 | Rust | 2026-09-21 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 9 | [prasadsumit/notebridge](https://github.com/prasadsumit/notebridge) | 0 | Java | 2026-09-21 | A tool that helps serious independent learners turn their existing notes into cited, trustworthy practice quizzes—withou |
-| 10 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-21 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 11 | [rao-studios/Thread](https://github.com/rao-studios/Thread) | 0 | Swift | 2026-09-21 | Distributed vector search node and client for Sewn and MaryOS. |
-| 12 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 4 | HTML | 2026-09-21 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 13 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 17 | TypeScript | 2026-09-21 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
-| 14 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1159 | Java | 2026-09-21 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 15 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-09-21 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
-| 16 | [ricmed/zettel_app](https://github.com/ricmed/zettel_app) | 0 | Python | 2026-09-21 | Pipeline Python que transforma PDFs e Markdown em um Zettelkasten conectado no Obsidian, com revisão humana, RAG híbrido |
-| 17 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | 1352 | Java | 2026-09-21 | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. |
-| 18 | [ness-e/Vantadb](https://github.com/ness-e/Vantadb) | 2 | Rust | 2026-09-21 | Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva |
-| 19 | [Daaboulex/openviking-nix](https://github.com/Daaboulex/openviking-nix) | 3 | Shell | 2026-09-21 | OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module |
-| 20 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2318 | JavaScript | 2026-09-21 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 1 | [AgentToolkit/altk-evolve](https://github.com/AgentToolkit/altk-evolve) | 116 | Python | 2026-09-21 | Self improving agents through iterations |
+| 2 | [openeverest/provider-milvus](https://github.com/openeverest/provider-milvus) | 0 | Go | 2026-09-21 | OpenEverest provider for Milvus |
+| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 4 | HTML | 2026-09-21 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 4 | [lioensky/VCPToolBox](https://github.com/lioensky/VCPToolBox) | 2318 | JavaScript | 2026-09-21 | VCP 部署在 AI 模型 API 与前端应用之间，是面向AGI OS开发和探索的工业级基建示范项目。通过统一指令协议、多层级持久化记忆、分布式插件引擎及多 Agent 协作框架，将原本“无状态、无记忆、无工具调用能力”的大语言模型，彻底改 |
+| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-21 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 6 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-21 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 7 | [kannaka-labs/kannaka-memory](https://github.com/kannaka-labs/kannaka-memory) | 2 | Rust | 2026-09-21 | The Holographic Resonance Medium — wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b |
+| 8 | [crate/crate](https://github.com/crate/crate) | 4436 | Java | 2026-09-21 | CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time,  |
+| 9 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-09-21 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
+| 10 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9297 | Rust | 2026-09-21 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 11 | [prasadsumit/notebridge](https://github.com/prasadsumit/notebridge) | 0 | Java | 2026-09-21 | A tool that helps serious independent learners turn their existing notes into cited, trustworthy practice quizzes—withou |
+| 12 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-09-21 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 13 | [rao-studios/Thread](https://github.com/rao-studios/Thread) | 0 | Swift | 2026-09-21 | Distributed vector search node and client for Sewn and MaryOS. |
+| 14 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 17 | TypeScript | 2026-09-21 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
+| 15 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1159 | Java | 2026-09-21 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 16 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-09-21 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
+| 17 | [ricmed/zettel_app](https://github.com/ricmed/zettel_app) | 0 | Python | 2026-09-21 | Pipeline Python que transforma PDFs e Markdown em um Zettelkasten conectado no Obsidian, com revisão humana, RAG híbrido |
+| 18 | [infinispan/infinispan](https://github.com/infinispan/infinispan) | 1352 | Java | 2026-09-21 | Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store. |
+| 19 | [ness-e/Vantadb](https://github.com/ness-e/Vantadb) | 2 | Rust | 2026-09-21 | Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva |
+| 20 | [Daaboulex/openviking-nix](https://github.com/Daaboulex/openviking-nix) | 3 | Shell | 2026-09-21 | OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module |
 | 21 | [MariaDB/server](https://github.com/MariaDB/server) | 8258 | C++ | 2026-09-21 | MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD |
 | 22 | [danielsousaoliveira/cs-fundamentals](https://github.com/danielsousaoliveira/cs-fundamentals) | 0 | MDX | 2026-09-21 | An in-depth, visual intro to CS: every complexity bound derived on the page, every structure shown running, and every fa |
 | 23 | [Mid-D-Man/msx](https://github.com/Mid-D-Man/msx) | 0 | Rust | 2026-09-21 | Vector graphics format authored in DixScript, compressed with MBFA |
