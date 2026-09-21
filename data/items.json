@@ -1,19 +1,118 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T13:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-21T13:28:33Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1916,
+    "updated_at": "2026-09-21T13:27:09Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI intelligent customer service built with SpringBoot, supports RAG knowledge base and LLM dialogue for enterprise priva",
+    "id": "HuangRenhui/ai-cs-parent",
+    "language": "Java",
+    "name": "HuangRenhui/ai-cs-parent",
+    "stars": 0,
+    "updated_at": "2026-09-21T13:26:07Z",
+    "url": "https://github.com/HuangRenhui/ai-cs-parent"
+  },
+  {
+    "description": "Agentic RAG system \u2014 routes natural language to SQL, industry documents, or both. LangGraph + Pinecone + GPT-4o-mini. 86",
+    "id": "SAMithila/nl-db-agent",
+    "language": "Python",
+    "name": "SAMithila/nl-db-agent",
+    "stars": 1,
+    "updated_at": "2026-09-21T13:24:04Z",
+    "url": "https://github.com/SAMithila/nl-db-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Predictable, embedded multimodal vector database & offline RAG engine for Edge AI (ARM64 / Zero-OOM). Built in C++20.",
+    "id": "pomagrenate/pomaidb",
+    "language": "C++",
+    "name": "pomagrenate/pomaidb",
+    "stars": 19,
+    "updated_at": "2026-09-21T13:21:39Z",
+    "url": "https://github.com/pomagrenate/pomaidb"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-21T13:21:58Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "A comprehensive Retrieval-Augmented Generation (RAG) system built with LangChain that enables document processing, quest",
+    "id": "Kunj2710/rag-document-qa",
+    "language": "Python",
+    "name": "Kunj2710/rag-document-qa",
+    "stars": 0,
+    "updated_at": "2026-09-21T13:18:13Z",
+    "url": "https://github.com/Kunj2710/rag-document-qa"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 4,
-    "updated_at": "2026-09-21T13:08:40Z",
+    "updated_at": "2026-09-21T13:17:52Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
+    "id": "gxc02529-jpg/KnowLoop",
+    "language": "Python",
+    "name": "gxc02529-jpg/KnowLoop",
+    "stars": 0,
+    "updated_at": "2026-09-21T13:16:15Z",
+    "url": "https://github.com/gxc02529-jpg/KnowLoop"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-21T13:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 0,
+    "updated_at": "2026-09-21T13:15:22Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2211,
+    "stars": 2214,
     "updated_at": "2026-09-21T13:06:46Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -43,24 +142,6 @@
     "stars": 115,
     "updated_at": "2026-09-21T13:01:16Z",
     "url": "https://github.com/ogham-mcp/ogham-mcp"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-21T13:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T13:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "High-quality search for AI-native applications.",
@@ -104,7 +185,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30882,
-    "updated_at": "2026-09-21T13:13:27Z",
+    "updated_at": "2026-09-21T13:21:31Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -113,26 +194,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6453,
-    "updated_at": "2026-09-21T13:08:30Z",
+    "updated_at": "2026-09-21T13:28:02Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-21T12:53:50Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-21T13:11:14Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -158,7 +221,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4436,
-    "updated_at": "2026-09-21T12:54:06Z",
+    "updated_at": "2026-09-21T13:25:05Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -167,7 +230,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8256,
-    "updated_at": "2026-09-21T12:28:30Z",
+    "updated_at": "2026-09-21T13:18:52Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -193,7 +256,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 3420,
+    "stars": 3421,
     "updated_at": "2026-09-21T12:20:02Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-21T11:38:57Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34727,
-    "updated_at": "2026-09-21T13:13:32Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-09-21T11:35:43Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-09-21T11:35:24Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "AutoPA is a full-stack State-Machine Agent application that acts as a digital clinical investigator. Instead of a human ",
-    "id": "NegiSushant/Autonomous-Prior-Authorization-Agent",
-    "language": "TypeScript",
-    "name": "NegiSushant/Autonomous-Prior-Authorization-Agent",
-    "stars": 0,
-    "updated_at": "2026-09-21T11:35:04Z",
-    "url": "https://github.com/NegiSushant/Autonomous-Prior-Authorization-Agent"
-  },
-  {
-    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
-    "id": "sshisto/mnemo-mcp",
-    "language": "Python",
-    "name": "sshisto/mnemo-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-21T11:33:22Z",
-    "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16833,
-    "updated_at": "2026-09-21T13:11:25Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 3,
-    "updated_at": "2026-09-21T11:33:17Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
   }
 ]
