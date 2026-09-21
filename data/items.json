@@ -1,5 +1,77 @@
 [
   {
+    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
+    "id": "VectorDB-NTU/RaBitQ-Library",
+    "language": "C++",
+    "name": "VectorDB-NTU/RaBitQ-Library",
+    "stars": 282,
+    "updated_at": "2026-09-21T15:09:49Z",
+    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-21T15:08:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "An Amazon S3 service implementation based on Netty.",
+    "id": "Robothy/local-s3",
+    "language": "Java",
+    "name": "Robothy/local-s3",
+    "stars": 75,
+    "updated_at": "2026-09-21T15:07:02Z",
+    "url": "https://github.com/Robothy/local-s3"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1158,
+    "updated_at": "2026-09-21T15:12:04Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9295,
+    "updated_at": "2026-09-21T15:02:54Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T15:00:28Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-21T15:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34729,
+    "updated_at": "2026-09-21T14:59:38Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
@@ -27,15 +99,6 @@
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9295,
-    "updated_at": "2026-09-21T14:57:22Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
     "id": "Tanmoy095/Logiflow-platform",
     "language": "Go",
@@ -61,24 +124,6 @@
     "stars": 2,
     "updated_at": "2026-09-21T14:49:32Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-21T14:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T14:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Persistent, token-efficient memory for Claude Code \u2014 5 memory layers (vector store, file facts, Obsidian vault, code gra",
@@ -112,18 +157,9 @@
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
-    "stars": 16834,
+    "stars": 16835,
     "updated_at": "2026-09-21T14:40:34Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "An Amazon S3 service implementation based on Netty.",
-    "id": "Robothy/local-s3",
-    "language": "Java",
-    "name": "Robothy/local-s3",
-    "stars": 75,
-    "updated_at": "2026-09-21T14:40:21Z",
-    "url": "https://github.com/Robothy/local-s3"
   },
   {
     "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
@@ -133,15 +169,6 @@
     "stars": 108,
     "updated_at": "2026-09-21T14:50:46Z",
     "url": "https://github.com/Nayjest/ai-microcore"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-21T14:38:18Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Self-hosted document intelligence for RAG \u2014 parse, classify, split, and extract from PDF/DOCX/PPTX and images: searchabl",
@@ -157,7 +184,7 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 5988,
+    "stars": 5990,
     "updated_at": "2026-09-21T14:33:51Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
@@ -167,7 +194,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8258,
-    "updated_at": "2026-09-21T14:32:37Z",
+    "updated_at": "2026-09-21T15:09:34Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -230,7 +257,7 @@
     "language": "Python",
     "name": "dennysjmarquez/MemoryBioRAG",
     "stars": 8,
-    "updated_at": "2026-09-21T14:43:05Z",
+    "updated_at": "2026-09-21T15:14:36Z",
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
@@ -239,7 +266,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6453,
-    "updated_at": "2026-09-21T14:45:34Z",
+    "updated_at": "2026-09-21T15:02:31Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -313,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T14:13:25Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34728,
-    "updated_at": "2026-09-21T14:59:38Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T14:00:05Z",
     "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "RAG over PDFs, web, Wikipedia & arXiv: swappable vector stores and LLMs, Streamlit UI + FastAPI",
-    "id": "Kunj2710/rag-document-qa",
-    "language": "Python",
-    "name": "Kunj2710/rag-document-qa",
-    "stars": 0,
-    "updated_at": "2026-09-21T13:58:59Z",
-    "url": "https://github.com/Kunj2710/rag-document-qa"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 3,
-    "updated_at": "2026-09-21T13:58:39Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
   }
 ]
