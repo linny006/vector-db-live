@@ -1,11 +1,65 @@
 [
   {
+    "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and ente",
+    "id": "aicubetechnology/qilbeeDB",
+    "language": "Rust",
+    "name": "aicubetechnology/qilbeeDB",
+    "stars": 22,
+    "updated_at": "2026-09-21T00:14:07Z",
+    "url": "https://github.com/aicubetechnology/qilbeeDB"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2104,
+    "updated_at": "2026-09-21T00:10:59Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Decentralized Graph Database with Integrated Vector Search",
+    "id": "perforate-org/gleaph",
+    "language": "Rust",
+    "name": "perforate-org/gleaph",
+    "stars": 2,
+    "updated_at": "2026-09-21T00:08:24Z",
+    "url": "https://github.com/perforate-org/gleaph"
+  },
+  {
+    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
+    "id": "ness-e/Vantadb",
+    "language": "Rust",
+    "name": "ness-e/Vantadb",
+    "stars": 2,
+    "updated_at": "2026-09-21T00:14:09Z",
+    "url": "https://github.com/ness-e/Vantadb"
+  },
+  {
+    "description": "Memory SDK for AI agents \u2014 bi-temporal facts, pgvector semantic search, contradiction detection and multi-stage consolid",
+    "id": "Bitwarelabscom/bwmem",
+    "language": "TypeScript",
+    "name": "Bitwarelabscom/bwmem",
+    "stars": 1,
+    "updated_at": "2026-09-21T00:02:28Z",
+    "url": "https://github.com/Bitwarelabscom/bwmem"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-21T00:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-21T00:00:20Z",
+    "updated_at": "2026-09-21T00:15:17Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -99,15 +153,6 @@
     "url": "https://github.com/Wry-letters233/notes-quiz-agent"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2104,
-    "updated_at": "2026-09-20T23:48:47Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
     "id": "retrograde-prosceniumwall239/ai-search-engine",
     "language": "Python",
@@ -135,21 +180,12 @@
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-20T23:45:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9447,
-    "updated_at": "2026-09-20T23:44:24Z",
+    "updated_at": "2026-09-21T00:10:32Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -392,7 +428,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-20T23:18:50Z",
+    "updated_at": "2026-09-21T00:14:05Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-20T23:16:35Z",
     "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46178,
-    "updated_at": "2026-09-20T23:13:35Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-09-20T23:11:07Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1888,
-    "updated_at": "2026-09-20T23:10:41Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-09-20T23:09:08Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
   }
 ]
