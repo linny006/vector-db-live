@@ -1,11 +1,65 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T15:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
+    "id": "Nayjest/ai-microcore",
+    "language": "Python",
+    "name": "Nayjest/ai-microcore",
+    "stars": 108,
+    "updated_at": "2026-09-21T15:29:04Z",
+    "url": "https://github.com/Nayjest/ai-microcore"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-21T15:24:53Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-21T15:26:28Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-09-21T15:16:21Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-21T15:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
     "id": "VectorDB-NTU/RaBitQ-Library",
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 282,
-    "updated_at": "2026-09-21T15:09:49Z",
+    "updated_at": "2026-09-21T15:20:41Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -32,7 +86,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1158,
-    "updated_at": "2026-09-21T15:12:04Z",
+    "updated_at": "2026-09-21T15:27:09Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -45,30 +99,12 @@
     "url": "https://github.com/paradedb/paradedb"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T15:00:28Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-21T15:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34729,
-    "updated_at": "2026-09-21T14:59:38Z",
+    "updated_at": "2026-09-21T15:24:49Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -76,7 +112,7 @@
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 13139,
+    "stars": 13140,
     "updated_at": "2026-09-21T14:58:22Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -85,8 +121,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30884,
-    "updated_at": "2026-09-21T14:54:07Z",
+    "stars": 30885,
+    "updated_at": "2026-09-21T15:27:49Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T14:49:57Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-21T14:49:32Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
     "description": "Persistent, token-efficient memory for Claude Code \u2014 5 memory layers (vector store, file facts, Obsidian vault, code gra",
@@ -158,17 +185,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16835,
-    "updated_at": "2026-09-21T14:40:34Z",
+    "updated_at": "2026-09-21T15:26:15Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "A handy lib for smooth interaction with large language models (LLMs) and crafting AI apps.",
-    "id": "Nayjest/ai-microcore",
-    "language": "Python",
-    "name": "Nayjest/ai-microcore",
-    "stars": 108,
-    "updated_at": "2026-09-21T14:50:46Z",
-    "url": "https://github.com/Nayjest/ai-microcore"
   },
   {
     "description": "Self-hosted document intelligence for RAG \u2014 parse, classify, split, and extract from PDF/DOCX/PPTX and images: searchabl",
@@ -184,8 +202,8 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 5990,
-    "updated_at": "2026-09-21T14:33:51Z",
+    "stars": 5991,
+    "updated_at": "2026-09-21T15:22:57Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -250,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T14:22:37Z",
     "url": "https://github.com/Shitless-jnr3697/rebasis"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-09-21T15:14:36Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-21T14:00:52Z",
     "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-09-21T14:00:05Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
   }
 ]
