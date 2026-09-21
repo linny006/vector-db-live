@@ -1,12 +1,93 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T06:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2121,
+    "updated_at": "2026-09-21T06:00:04Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 81,
+    "updated_at": "2026-09-21T05:58:39Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-21T05:54:48Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "ARTEA: Theory-Guided Hierarchical Graph Index for High-Performance ANN Search",
+    "id": "NTU-Siqiang-Group/Artea",
+    "language": "C++",
+    "name": "NTU-Siqiang-Group/Artea",
+    "stars": 4,
+    "updated_at": "2026-09-21T05:53:35Z",
+    "url": "https://github.com/NTU-Siqiang-Group/Artea"
+  },
+  {
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "Siddhant-K-code/distill",
+    "language": "Go",
+    "name": "Siddhant-K-code/distill",
+    "stars": 180,
+    "updated_at": "2026-09-21T05:52:45Z",
+    "url": "https://github.com/Siddhant-K-code/distill"
+  },
+  {
     "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
     "id": "rmednitzer/core-graph",
     "language": "Python",
     "name": "rmednitzer/core-graph",
     "stars": 1,
-    "updated_at": "2026-09-21T05:44:06Z",
+    "updated_at": "2026-09-21T05:47:44Z",
     "url": "https://github.com/rmednitzer/core-graph"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-21T05:47:04Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
+    "id": "nikoma/bicdb",
+    "language": "Rust",
+    "name": "nikoma/bicdb",
+    "stars": 0,
+    "updated_at": "2026-09-21T05:46:59Z",
+    "url": "https://github.com/nikoma/bicdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-21T05:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -90,13 +171,13 @@
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
     "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2119,
-    "updated_at": "2026-09-21T05:34:04Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "name": "qdrant/qdrant",
+    "stars": 34720,
+    "updated_at": "2026-09-21T05:34:05Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
@@ -106,15 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T05:33:28Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-21T05:35:08Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
@@ -160,24 +232,6 @@
     "stars": 4,
     "updated_at": "2026-09-21T05:30:28Z",
     "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T05:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-21T05:30:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
@@ -320,7 +374,7 @@
     "language": "Rust",
     "name": "kannaka-labs/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-09-21T05:16:46Z",
+    "updated_at": "2026-09-21T05:53:37Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
@@ -378,15 +432,6 @@
     "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
   },
   {
-    "description": "ARTEA: Theory-Guided Hierarchical Graph Index for High-Performance ANN Search",
-    "id": "NTU-Siqiang-Group/Artea",
-    "language": "C++",
-    "name": "NTU-Siqiang-Group/Artea",
-    "stars": 4,
-    "updated_at": "2026-09-21T05:10:31Z",
-    "url": "https://github.com/NTU-Siqiang-Group/Artea"
-  },
-  {
     "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
     "id": "leitoooatr/PythonVectorDB",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T05:10:14Z",
     "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
-    "id": "Jeroflo88/Self-Corrective-RAG",
-    "language": "Python",
-    "name": "Jeroflo88/Self-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-21T05:09:20Z",
-    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-09-21T05:06:30Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-09-21T05:01:03Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-09-21T04:59:08Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
-  },
-  {
-    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
-    "id": "DanieldfMedina/GenAI-Course-Repo",
-    "language": "C++",
-    "name": "DanieldfMedina/GenAI-Course-Repo",
-    "stars": 0,
-    "updated_at": "2026-09-21T04:58:39Z",
-    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
   }
 ]
