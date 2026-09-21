@@ -1,5 +1,32 @@
 [
   {
+    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
+    "id": "sh1v-max/AI-Backend",
+    "language": "TypeScript",
+    "name": "sh1v-max/AI-Backend",
+    "stars": 0,
+    "updated_at": "2026-09-21T18:57:38Z",
+    "url": "https://github.com/sh1v-max/AI-Backend"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1352,
+    "updated_at": "2026-09-21T18:55:18Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-21T18:54:05Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
@@ -36,21 +63,12 @@
     "url": "https://github.com/nisg-phys/RAG-for-Python3.14"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-21T18:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-21T18:45:24Z",
+    "updated_at": "2026-09-21T19:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -59,7 +77,7 @@
     "language": "Python",
     "name": "MZohaibBaig/rag-search-api",
     "stars": 0,
-    "updated_at": "2026-09-21T18:45:10Z",
+    "updated_at": "2026-09-21T18:58:49Z",
     "url": "https://github.com/MZohaibBaig/rag-search-api"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Go",
     "name": "openeverest/provider-milvus",
     "stars": 0,
-    "updated_at": "2026-09-21T18:51:47Z",
+    "updated_at": "2026-09-21T18:54:43Z",
     "url": "https://github.com/openeverest/provider-milvus"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-21T17:57:42Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-21T17:56:07Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\u57fa\u4e8e RAG \u7684\u672c\u5730\u4e2a\u4eba\u77e5\u8bc6\u5e93\u7cfb\u7edf\uff1a\u6587\u6863\u89e3\u6790\u3001\u5411\u91cf\u68c0\u7d22\u3001\u6df7\u5408\u68c0\u7d22\u7cbe\u6392\u5e8f\u3001SSE \u6d41\u5f0f\u95ee\u7b54\uff08FastAPI + React + ChromaDB\uff09",
-    "id": "YEYUbaka/LocalRAG",
-    "language": "Python",
-    "name": "YEYUbaka/LocalRAG",
-    "stars": 2,
-    "updated_at": "2026-09-21T17:55:17Z",
-    "url": "https://github.com/YEYUbaka/LocalRAG"
   }
 ]
