@@ -1,11 +1,65 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-21T13:08:40Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2211,
+    "updated_at": "2026-09-21T13:06:46Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-09-21T13:05:56Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5979,
+    "updated_at": "2026-09-21T13:04:16Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
+    "id": "ogham-mcp/ogham-mcp",
+    "language": "Python",
+    "name": "ogham-mcp/ogham-mcp",
+    "stars": 115,
+    "updated_at": "2026-09-21T13:01:16Z",
+    "url": "https://github.com/ogham-mcp/ogham-mcp"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-21T13:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-21T13:00:21Z",
+    "updated_at": "2026-09-21T13:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 95,
-    "updated_at": "2026-09-21T12:58:29Z",
+    "updated_at": "2026-09-21T13:10:34Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -45,21 +99,12 @@
     "url": "https://github.com/065008gif/enterprise-rag-platform"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-21T12:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30882,
-    "updated_at": "2026-09-21T12:44:52Z",
+    "updated_at": "2026-09-21T13:13:27Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -68,7 +113,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6453,
-    "updated_at": "2026-09-21T12:59:46Z",
+    "updated_at": "2026-09-21T13:08:30Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -81,47 +126,29 @@
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2207,
-    "updated_at": "2026-09-21T12:43:01Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-21T12:42:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5979,
-    "updated_at": "2026-09-21T12:59:54Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 10,
-    "updated_at": "2026-09-21T12:42:03Z",
+    "updated_at": "2026-09-21T13:11:14Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46191,
+    "updated_at": "2026-09-21T12:35:38Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11488,
+    "stars": 11489,
     "updated_at": "2026-09-21T12:33:52Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -162,13 +189,13 @@
     "url": "https://github.com/rahul-1909/multi-agent-autonomous-rag-engine"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46190,
-    "updated_at": "2026-09-21T12:35:38Z",
-    "url": "https://github.com/milvus-io/milvus"
+    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
+    "id": "Ontos-AI/knowhere",
+    "language": "Python",
+    "name": "Ontos-AI/knowhere",
+    "stars": 3420,
+    "updated_at": "2026-09-21T12:20:02Z",
+    "url": "https://github.com/Ontos-AI/knowhere"
   },
   {
     "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
@@ -270,15 +297,6 @@
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
   },
   {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3419,
-    "updated_at": "2026-09-21T12:20:02Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
     "id": "doriapt53/spring-manifold-next-gen",
     "language": "TypeScript",
@@ -374,7 +392,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34727,
-    "updated_at": "2026-09-21T12:46:44Z",
+    "updated_at": "2026-09-21T13:13:32Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -419,7 +437,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16833,
-    "updated_at": "2026-09-21T12:55:46Z",
+    "updated_at": "2026-09-21T13:11:25Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-21T11:33:17Z",
     "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-09-21T11:32:51Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
-    "id": "LnYo-Cly/ai4j",
-    "language": "HTML",
-    "name": "LnYo-Cly/ai4j",
-    "stars": 429,
-    "updated_at": "2026-09-21T11:31:17Z",
-    "url": "https://github.com/LnYo-Cly/ai4j"
   }
 ]
