@@ -1,12 +1,102 @@
 [
   {
+    "description": "Bring AI search to SQLite, the pure .NET native way.\ubb34\uac70\uc6b4 \uc678\ubd80 \ubca1\ud130 DB \uc5c6\uc774, SQLite\ub9cc\uc73c\ub85c \uc644\uc131\ud558\ub294 \uc644\ubcbd\ud55c .NET \ub85c\uceec AI \uac80\uc0c9.",
+    "id": "Ashegyu/SqliteVector.Net",
+    "language": "C#",
+    "name": "Ashegyu/SqliteVector.Net",
+    "stars": 0,
+    "updated_at": "2026-09-21T12:44:07Z",
+    "url": "https://github.com/Ashegyu/SqliteVector.Net"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-21T12:43:23Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2204,
+    "updated_at": "2026-09-21T12:43:01Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-21T12:42:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 5979,
+    "updated_at": "2026-09-21T12:41:35Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-21T12:42:03Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11488,
+    "updated_at": "2026-09-21T12:33:52Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T12:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-21T12:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4436,
-    "updated_at": "2026-09-21T12:29:46Z",
+    "updated_at": "2026-09-21T12:41:47Z",
     "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8256,
+    "updated_at": "2026-09-21T12:28:30Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Embeddable vector database for edge AI",
@@ -16,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T12:27:42Z",
     "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 5979,
-    "updated_at": "2026-09-21T12:23:08Z",
-    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Autonomous Multi-Agent RAG workflow engine with LangGraph, Qdrant vector search, and FastAPI. Implements self-correcting",
@@ -41,7 +122,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46190,
-    "updated_at": "2026-09-21T12:23:36Z",
+    "updated_at": "2026-09-21T12:35:38Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -54,24 +135,6 @@
     "url": "https://github.com/edwardtay/awesome-ai"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T12:15:56Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2202,
-    "updated_at": "2026-09-21T12:15:55Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "DANA: Decoupled Attribute Navigation and Predicate Admission for Dynamic Multi-Attribute Range-Filtered ANN Search",
     "id": "Guo-dp/DANA",
     "language": "C++",
@@ -81,24 +144,6 @@
     "url": "https://github.com/Guo-dp/DANA"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-21T12:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-21T12:12:44Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -106,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T12:09:59Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-21T12:14:34Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -257,7 +293,7 @@
     "language": "Rust",
     "name": "topk-io/topk",
     "stars": 95,
-    "updated_at": "2026-09-21T11:40:26Z",
+    "updated_at": "2026-09-21T12:40:00Z",
     "url": "https://github.com/topk-io/topk"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34727,
-    "updated_at": "2026-09-21T11:38:29Z",
+    "updated_at": "2026-09-21T12:44:17Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -347,7 +383,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16833,
-    "updated_at": "2026-09-21T11:53:14Z",
+    "updated_at": "2026-09-21T12:45:07Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -392,7 +428,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30881,
-    "updated_at": "2026-09-21T11:29:31Z",
+    "updated_at": "2026-09-21T12:44:52Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-21T11:28:17Z",
     "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-09-21T11:27:06Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-21T11:25:50Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "Complete RAG solution for beniger with vector database",
-    "id": "RakeshRoy1995/Rag-vector-db-beginer",
-    "language": "Python",
-    "name": "RakeshRoy1995/Rag-vector-db-beginer",
-    "stars": 0,
-    "updated_at": "2026-09-21T11:25:30Z",
-    "url": "https://github.com/RakeshRoy1995/Rag-vector-db-beginer"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-21T11:24:09Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
