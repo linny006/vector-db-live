@@ -1,5 +1,86 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T19:15:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-21T19:14:34Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1352,
+    "updated_at": "2026-09-21T19:12:45Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Hybrid RAG bot for Python docs using Pinecone, OpenAI embeddings, and Groq, with live deployment at https://ragbot-j58i.",
+    "id": "nisg-phys/RAG-for-Python3.14",
+    "language": "Python",
+    "name": "nisg-phys/RAG-for-Python3.14",
+    "stars": 0,
+    "updated_at": "2026-09-21T19:09:49Z",
+    "url": "https://github.com/nisg-phys/RAG-for-Python3.14"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-21T19:08:53Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-21T19:07:35Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1158,
+    "updated_at": "2026-09-21T19:05:09Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Retrieval-Augmented Generation backend with FastAPI, PostgreSQL + pgvector, and Groq LLM. Full RAG pipeline: document up",
+    "id": "MZohaibBaig/rag-search-api",
+    "language": "Python",
+    "name": "MZohaibBaig/rag-search-api",
+    "stars": 0,
+    "updated_at": "2026-09-21T19:01:34Z",
+    "url": "https://github.com/MZohaibBaig/rag-search-api"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-21T19:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
     "id": "sh1v-max/AI-Backend",
     "language": "TypeScript",
@@ -9,30 +90,12 @@
     "url": "https://github.com/sh1v-max/AI-Backend"
   },
   {
-    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
-    "id": "infinispan/infinispan",
-    "language": "Java",
-    "name": "infinispan/infinispan",
-    "stars": 1352,
-    "updated_at": "2026-09-21T18:55:18Z",
-    "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-21T18:54:05Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11491,
-    "updated_at": "2026-09-21T18:53:15Z",
+    "updated_at": "2026-09-21T19:03:38Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -52,33 +115,6 @@
     "stars": 17,
     "updated_at": "2026-09-21T18:49:07Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Hybrid RAG bot for Python docs using Pinecone, OpenAI embeddings, and Groq, with live deployment at https://ragbot-j58i.",
-    "id": "nisg-phys/RAG-for-Python3.14",
-    "language": "Python",
-    "name": "nisg-phys/RAG-for-Python3.14",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:46:58Z",
-    "url": "https://github.com/nisg-phys/RAG-for-Python3.14"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T19:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Retrieval-Augmented Generation backend with FastAPI, PostgreSQL + pgvector, and Groq LLM. Full RAG pipeline: document up",
-    "id": "MZohaibBaig/rag-search-api",
-    "language": "Python",
-    "name": "MZohaibBaig/rag-search-api",
-    "stars": 0,
-    "updated_at": "2026-09-21T18:58:49Z",
-    "url": "https://github.com/MZohaibBaig/rag-search-api"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -126,15 +162,6 @@
     "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-21T18:39:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
     "id": "fenecdb/fenec",
     "language": "Rust",
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34735,
-    "updated_at": "2026-09-21T18:36:13Z",
+    "updated_at": "2026-09-21T19:04:22Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -184,7 +211,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66304,
+    "stars": 66305,
     "updated_at": "2026-09-21T18:34:13Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -221,7 +248,7 @@
     "language": "Go",
     "name": "openeverest/provider-milvus",
     "stars": 0,
-    "updated_at": "2026-09-21T18:54:43Z",
+    "updated_at": "2026-09-21T19:08:47Z",
     "url": "https://github.com/openeverest/provider-milvus"
   },
   {
@@ -313,15 +340,6 @@
     "stars": 1,
     "updated_at": "2026-09-21T18:11:35Z",
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-21T18:47:57Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
     "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-21T17:59:33Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "Production-grade hybrid RAG system for querying GitHub repositories \u2014 BM25 + dense retrieval fused via RRF, cross-encode",
-    "id": "shreeragkh/Repo-context-copilot",
-    "language": "Jupyter Notebook",
-    "name": "shreeragkh/Repo-context-copilot",
-    "stars": 0,
-    "updated_at": "2026-09-21T17:58:18Z",
-    "url": "https://github.com/shreeragkh/Repo-context-copilot"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-21T17:57:42Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
