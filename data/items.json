@@ -1,11 +1,227 @@
 [
   {
+    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
+    "id": "Uncomfortable-filagree112/OpenViking",
+    "language": "\u2014",
+    "name": "Uncomfortable-filagree112/OpenViking",
+    "stars": 0,
+    "updated_at": "2026-09-21T18:13:16Z",
+    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
+  },
+  {
+    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
+    "id": "cornellebivalved856/example-multimodal-rag",
+    "language": "Python",
+    "name": "cornellebivalved856/example-multimodal-rag",
+    "stars": 0,
+    "updated_at": "2026-09-21T18:12:44Z",
+    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
+  },
+  {
+    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
+    "id": "Boney-massiveness357/ragscope",
+    "language": "Python",
+    "name": "Boney-massiveness357/ragscope",
+    "stars": 0,
+    "updated_at": "2026-09-21T18:12:20Z",
+    "url": "https://github.com/Boney-massiveness357/ragscope"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 2,
+    "updated_at": "2026-09-21T18:12:15Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
+    "id": "conceited-watergillyflower311/meilisearch-desktop",
+    "language": "TypeScript",
+    "name": "conceited-watergillyflower311/meilisearch-desktop",
+    "stars": 1,
+    "updated_at": "2026-09-21T18:11:58Z",
+    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
+  },
+  {
+    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
+    "id": "rehan243/RAG-Enterprise-Search",
+    "language": "Python",
+    "name": "rehan243/RAG-Enterprise-Search",
+    "stars": 1,
+    "updated_at": "2026-09-21T18:11:35Z",
+    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-21T18:10:40Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-21T18:10:26Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
+    "id": "FIRE-hub911/citation-assistant",
+    "language": "Shell",
+    "name": "FIRE-hub911/citation-assistant",
+    "stars": 3,
+    "updated_at": "2026-09-21T18:08:50Z",
+    "url": "https://github.com/FIRE-hub911/citation-assistant"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11491,
+    "updated_at": "2026-09-21T18:12:24Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
+    "id": "K3Tamaa/Vector-Forge",
+    "language": "\u2014",
+    "name": "K3Tamaa/Vector-Forge",
+    "stars": 0,
+    "updated_at": "2026-09-21T18:08:06Z",
+    "url": "https://github.com/K3Tamaa/Vector-Forge"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66304,
+    "updated_at": "2026-09-21T18:07:47Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Agentic AI framework that drafts FDA cybersecurity SRAs for connected medical devices. Vector DB + Graph DB + MCP + Lang",
+    "id": "balajibankapur/agentic-sra-framework",
+    "language": "Python",
+    "name": "balajibankapur/agentic-sra-framework",
+    "stars": 0,
+    "updated_at": "2026-09-21T18:07:20Z",
+    "url": "https://github.com/balajibankapur/agentic-sra-framework"
+  },
+  {
+    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
+    "id": "sshisto/mnemo-mcp",
+    "language": "Python",
+    "name": "sshisto/mnemo-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-21T18:06:40Z",
+    "url": "https://github.com/sshisto/mnemo-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
+    "id": "sen-igga/IndexGPT",
+    "language": "JavaScript",
+    "name": "sen-igga/IndexGPT",
+    "stars": 3,
+    "updated_at": "2026-09-21T18:06:36Z",
+    "url": "https://github.com/sen-igga/IndexGPT"
+  },
+  {
+    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
+    "id": "Zopze/TV-Show-Recommender-AI",
+    "language": "Python",
+    "name": "Zopze/TV-Show-Recommender-AI",
+    "stars": 1,
+    "updated_at": "2026-09-21T18:06:07Z",
+    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
+  },
+  {
+    "description": "Python SDK for vector search, semantic search, RAG, embeddings, and AI agents on Oracle AI Database",
+    "id": "oracle/vecdb-python-sdk",
+    "language": "Python",
+    "name": "oracle/vecdb-python-sdk",
+    "stars": 70,
+    "updated_at": "2026-09-21T18:14:15Z",
+    "url": "https://github.com/oracle/vecdb-python-sdk"
+  },
+  {
+    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
+    "id": "Ojcalzada/pulsepoint-RAG",
+    "language": "Python",
+    "name": "Ojcalzada/pulsepoint-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-21T18:03:48Z",
+    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34733,
+    "updated_at": "2026-09-21T18:08:57Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
+    "id": "persona-net/rag-pipeline-dashboard",
+    "language": "TypeScript",
+    "name": "persona-net/rag-pipeline-dashboard",
+    "stars": 0,
+    "updated_at": "2026-09-21T18:01:51Z",
+    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 17,
+    "updated_at": "2026-09-21T18:13:30Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
+    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "language": "Python",
+    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "stars": 2,
+    "updated_at": "2026-09-21T18:00:51Z",
+    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-21T18:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-21T18:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
     "id": "nadeem4/nl2sql",
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-09-21T18:00:08Z",
+    "updated_at": "2026-09-21T18:00:29Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -25,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T17:58:18Z",
     "url": "https://github.com/shreeragkh/Repo-context-copilot"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 66304,
-    "updated_at": "2026-09-21T17:57:51Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
@@ -72,15 +279,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Agentic AI framework that drafts FDA cybersecurity SRAs for connected medical devices. Vector DB + Graph DB + MCP + Lang",
-    "id": "balajibankapur/agentic-sra-framework",
-    "language": "Python",
-    "name": "balajibankapur/agentic-sra-framework",
-    "stars": 0,
-    "updated_at": "2026-09-21T17:53:49Z",
-    "url": "https://github.com/balajibankapur/agentic-sra-framework"
-  },
-  {
     "description": "The backend agents build with Multimodal database, orchestration, and serving in one file",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -95,7 +293,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-21T17:52:34Z",
+    "updated_at": "2026-09-21T18:02:37Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -108,15 +306,6 @@
     "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-21T17:50:39Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
     "id": "hesamaria/rag-chatbot",
     "language": "Python",
@@ -124,15 +313,6 @@
     "stars": 4,
     "updated_at": "2026-09-21T17:50:05Z",
     "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-21T17:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
@@ -162,15 +342,6 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-21T17:44:06Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
     "id": "dennysjmarquez/MemoryBioRAG",
     "language": "Python",
@@ -196,15 +367,6 @@
     "stars": 2318,
     "updated_at": "2026-09-21T17:35:24Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-21T17:33:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -286,167 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-21T17:03:43Z",
     "url": "https://github.com/Adhith004/pdf-rag-chatbot"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-21T17:03:26Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11491,
-    "updated_at": "2026-09-21T17:45:01Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "OpenAI-compatible RAG API with FastAPI, ChromaDB, hybrid retrieval, Persian-aware search, streaming, and pluggable AI pr",
-    "id": "MassoudKargar/RAG",
-    "language": "Python",
-    "name": "MassoudKargar/RAG",
-    "stars": 1,
-    "updated_at": "2026-09-21T16:57:04Z",
-    "url": "https://github.com/MassoudKargar/RAG"
-  },
-  {
-    "description": "Local-first personal memory + RAG engine - the reusable AI brain for future projects.",
-    "id": "zaidwhy/personal-llm",
-    "language": "Python",
-    "name": "zaidwhy/personal-llm",
-    "stars": 2,
-    "updated_at": "2026-09-21T16:55:35Z",
-    "url": "https://github.com/zaidwhy/personal-llm"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4436,
-    "updated_at": "2026-09-21T17:54:53Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
-    "id": "edheltzel/Recall",
-    "language": "TypeScript",
-    "name": "edheltzel/Recall",
-    "stars": 3,
-    "updated_at": "2026-09-21T16:39:23Z",
-    "url": "https://github.com/edheltzel/Recall"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34732,
-    "updated_at": "2026-09-21T16:28:54Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1158,
-    "updated_at": "2026-09-21T17:57:30Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
-    "id": "n9524726-star/chatpdf-rag",
-    "language": "Python",
-    "name": "n9524726-star/chatpdf-rag",
-    "stars": 0,
-    "updated_at": "2026-09-21T16:23:10Z",
-    "url": "https://github.com/n9524726-star/chatpdf-rag"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-09-21T16:22:53Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "LlamaIndex is the document processing platform for AI",
-    "id": "run-llama/llama_index",
-    "language": "Python",
-    "name": "run-llama/llama_index",
-    "stars": 52264,
-    "updated_at": "2026-09-21T16:22:26Z",
-    "url": "https://github.com/run-llama/llama_index"
-  },
-  {
-    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
-    "id": "Shitless-jnr3697/rebasis",
-    "language": "Python",
-    "name": "Shitless-jnr3697/rebasis",
-    "stars": 0,
-    "updated_at": "2026-09-21T16:22:01Z",
-    "url": "https://github.com/Shitless-jnr3697/rebasis"
-  },
-  {
-    "description": "Synthetic dataset + agent-memory benchmark for an MSc thesis comparing vector, knowledge-graph, and hybrid memory archit",
-    "id": "Hemant-1821/memory_arch_evaluation",
-    "language": "Python",
-    "name": "Hemant-1821/memory_arch_evaluation",
-    "stars": 0,
-    "updated_at": "2026-09-21T16:21:08Z",
-    "url": "https://github.com/Hemant-1821/memory_arch_evaluation"
-  },
-  {
-    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
-    "id": "boulif781/enterprise-knowledge-assistant",
-    "language": "\u2014",
-    "name": "boulif781/enterprise-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-21T16:20:15Z",
-    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 115,
-    "updated_at": "2026-09-21T16:19:34Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "Retrieval-Augmented Generation backend with FastAPI, PostgreSQL + pgvector, and Groq LLM. Full RAG pipeline: document up",
-    "id": "MZohaibBaig/rag-search-api",
-    "language": "Python",
-    "name": "MZohaibBaig/rag-search-api",
-    "stars": 0,
-    "updated_at": "2026-09-21T16:18:29Z",
-    "url": "https://github.com/MZohaibBaig/rag-search-api"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-09-21T16:18:09Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-09-21T16:17:43Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
   }
 ]
