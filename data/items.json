@@ -1,11 +1,29 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1158,
+    "updated_at": "2026-09-21T19:25:29Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-21T19:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-21T19:15:23Z",
+    "updated_at": "2026-09-21T19:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +32,7 @@
     "language": "Rust",
     "name": "kannaka-labs/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-09-21T19:14:34Z",
+    "updated_at": "2026-09-21T19:15:31Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
@@ -54,15 +72,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1158,
-    "updated_at": "2026-09-21T19:05:09Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Retrieval-Augmented Generation backend with FastAPI, PostgreSQL + pgvector, and Groq LLM. Full RAG pipeline: document up",
     "id": "MZohaibBaig/rag-search-api",
     "language": "Python",
@@ -70,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-21T19:01:34Z",
     "url": "https://github.com/MZohaibBaig/rag-search-api"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-21T19:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
@@ -142,6 +142,15 @@
     "stars": 0,
     "updated_at": "2026-09-21T18:42:27Z",
     "url": "https://github.com/Shitless-jnr3697/rebasis"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2254,
+    "updated_at": "2026-09-21T18:42:18Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Distributed vector search node and client for Sewn and MaryOS.",
@@ -211,7 +220,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66305,
+    "stars": 66306,
     "updated_at": "2026-09-21T18:34:13Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -248,7 +257,7 @@
     "language": "Go",
     "name": "openeverest/provider-milvus",
     "stars": 0,
-    "updated_at": "2026-09-21T19:08:47Z",
+    "updated_at": "2026-09-21T19:16:47Z",
     "url": "https://github.com/openeverest/provider-milvus"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-21T18:00:51Z",
     "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-21T17:59:33Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
   }
 ]
