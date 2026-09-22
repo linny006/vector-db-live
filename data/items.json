@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-22T17:15:23Z",
+    "updated_at": "2026-09-22T17:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "KenBoller/Snowball",
+    "language": "Python",
+    "name": "KenBoller/Snowball",
+    "stars": 1,
+    "updated_at": "2026-09-22T17:30:15Z",
+    "url": "https://github.com/KenBoller/Snowball"
+  },
+  {
+    "description": "An open-source, local-first CV & resume management platform featuring privacy-focused semantic search to instantly match",
+    "id": "Tibab222/cvMaker",
+    "language": "TypeScript",
+    "name": "Tibab222/cvMaker",
+    "stars": 23,
+    "updated_at": "2026-09-22T17:22:22Z",
+    "url": "https://github.com/Tibab222/cvMaker"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 23,
+    "updated_at": "2026-09-22T17:28:40Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11503,
+    "updated_at": "2026-09-22T17:16:22Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-22T17:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-powered RAG chatbot built with LangChain, FastAPI, ChromaDB, and Next.js for semantic PDF question answering with sou",
@@ -18,13 +63,13 @@
     "url": "https://github.com/Rishabh150102/DocMind-AI"
   },
   {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 23,
-    "updated_at": "2026-09-22T17:14:05Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16838,
+    "updated_at": "2026-09-22T17:13:33Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Citation-grounded health Q&A over WHO/CDC/NICE guidelines. Patient and clinician profiles from one retrieval core. Refus",
@@ -63,15 +108,6 @@
     "url": "https://github.com/alxkm/java-ai-cookbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-22T17:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -79,15 +115,6 @@
     "stars": 5,
     "updated_at": "2026-09-22T17:00:14Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11503,
-    "updated_at": "2026-09-22T17:14:57Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Profile README",
@@ -122,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1159,
-    "updated_at": "2026-09-22T17:13:02Z",
+    "updated_at": "2026-09-22T17:22:42Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -148,7 +175,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30910,
+    "stars": 30911,
     "updated_at": "2026-09-22T16:24:53Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "aicubetechnology/qilbeeDB",
     "stars": 22,
-    "updated_at": "2026-09-22T16:09:29Z",
+    "updated_at": "2026-09-22T17:18:38Z",
     "url": "https://github.com/aicubetechnology/qilbeeDB"
   },
   {
@@ -211,7 +238,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46217,
+    "stars": 46218,
     "updated_at": "2026-09-22T15:54:24Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -284,7 +311,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 289,
-    "updated_at": "2026-09-22T16:38:49Z",
+    "updated_at": "2026-09-22T17:29:16Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -292,7 +319,7 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 6076,
+    "stars": 6077,
     "updated_at": "2026-09-22T15:18:46Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
@@ -346,7 +373,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34754,
+    "stars": 34755,
     "updated_at": "2026-09-22T15:04:27Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T14:55:16Z",
     "url": "https://github.com/api-evangelist/vespa-ai"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:54:36Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Vectorize \u2014 independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au",
-    "id": "api-evangelist/vectorize-io",
-    "language": "\u2014",
-    "name": "api-evangelist/vectorize-io",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:54:29Z",
-    "url": "https://github.com/api-evangelist/vectorize-io"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:54:16Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
   }
 ]
