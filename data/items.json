@@ -1,11 +1,101 @@
 [
   {
+    "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-09-22T12:58:05Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
+    "id": "Tanmoy095/Logiflow-platform",
+    "language": "Go",
+    "name": "Tanmoy095/Logiflow-platform",
+    "stars": 3,
+    "updated_at": "2026-09-22T12:56:49Z",
+    "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "Citation-grounded health Q&A over WHO/CDC/NICE guidelines. Patient and clinician profiles from one retrieval core. Refus",
+    "id": "charllote122/medrag",
+    "language": "Python",
+    "name": "charllote122/medrag",
+    "stars": 0,
+    "updated_at": "2026-09-22T12:56:19Z",
+    "url": "https://github.com/charllote122/medrag"
+  },
+  {
+    "description": "Low-resource Ethiopic NLP RAG system with custom hybrid dense+BM25 retrieval, ChromaDB, and Streamlit.",
+    "id": "IsaakAlemu/amharic-rag-assistant",
+    "language": "Python",
+    "name": "IsaakAlemu/amharic-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-22T12:55:05Z",
+    "url": "https://github.com/IsaakAlemu/amharic-rag-assistant"
+  },
+  {
+    "description": "\ud83e\udde0 Mem\u00f3ria sem\u00e2ntica e relacional unificada (Go, SQLite-Vec, TurboQuant 4-bit, Grafo CTEs e MCP) para Agentes de IA",
+    "id": "FelipeMiiller/my-memory",
+    "language": "Go",
+    "name": "FelipeMiiller/my-memory",
+    "stars": 7,
+    "updated_at": "2026-09-22T12:55:44Z",
+    "url": "https://github.com/FelipeMiiller/my-memory"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7106,
+    "updated_at": "2026-09-22T12:57:43Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "ChunkLab is a browser-based sandbox for testing, visualizing, and validating text chunking strategies before deploying t",
+    "id": "ziffan/ChunkLab",
+    "language": "Python",
+    "name": "ziffan/ChunkLab",
+    "stars": 0,
+    "updated_at": "2026-09-22T12:50:22Z",
+    "url": "https://github.com/ziffan/ChunkLab"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34751,
+    "updated_at": "2026-09-22T12:49:06Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1975,
+    "updated_at": "2026-09-22T12:47:37Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-22T12:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-22T12:45:22Z",
+    "updated_at": "2026-09-22T13:00:26Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -36,13 +126,13 @@
     "url": "https://github.com/ldclabs/anda-db"
   },
   {
-    "description": "Citation-grounded health Q&A over WHO/CDC/NICE guidelines. Patient and clinician profiles from one retrieval core. Refus",
-    "id": "charllote122/medrag",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "charllote122/medrag",
-    "stars": 0,
-    "updated_at": "2026-09-22T12:36:15Z",
-    "url": "https://github.com/charllote122/medrag"
+    "name": "topoteretes/cognee",
+    "stars": 30909,
+    "updated_at": "2026-09-22T12:35:51Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
@@ -54,21 +144,12 @@
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-22T12:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46211,
-    "updated_at": "2026-09-22T12:25:34Z",
+    "updated_at": "2026-09-22T12:59:21Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -113,17 +194,8 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8257,
-    "updated_at": "2026-09-22T12:27:59Z",
+    "updated_at": "2026-09-22T12:52:11Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Low-resource Ethiopic NLP RAG system with custom hybrid dense+BM25 retrieval, ChromaDB, and Streamlit.",
-    "id": "IsaakAlemu/amharic-rag-assistant",
-    "language": "Python",
-    "name": "IsaakAlemu/amharic-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-22T12:09:28Z",
-    "url": "https://github.com/IsaakAlemu/amharic-rag-assistant"
   },
   {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
@@ -158,7 +230,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-09-22T12:45:21Z",
+    "updated_at": "2026-09-22T12:59:11Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -171,15 +243,6 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30906,
-    "updated_at": "2026-09-22T12:35:51Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
     "id": "Amz34/awesome-agent-infrastructure",
     "language": "Python",
@@ -189,20 +252,11 @@
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7106,
-    "updated_at": "2026-09-22T12:23:20Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2300,
+    "stars": 2303,
     "updated_at": "2026-09-22T11:33:22Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -221,7 +275,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4436,
-    "updated_at": "2026-09-22T12:41:48Z",
+    "updated_at": "2026-09-22T12:56:12Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -270,21 +324,12 @@
     "url": "https://github.com/devharis99/vectra"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1975,
-    "updated_at": "2026-09-22T11:19:47Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9451,
-    "updated_at": "2026-09-22T12:40:53Z",
+    "updated_at": "2026-09-22T12:46:08Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -387,15 +432,6 @@
     "url": "https://github.com/raymondmdzz123/agent-memory"
   },
   {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Go",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 3,
-    "updated_at": "2026-09-22T10:56:32Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
-  },
-  {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
     "id": "Synchronic-leafbud824/skill-vault",
     "language": "\u2014",
@@ -412,41 +448,5 @@
     "stars": 12966,
     "updated_at": "2026-09-22T11:02:25Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-09-22T10:55:27Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 3,
-    "updated_at": "2026-09-22T10:54:09Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-09-22T10:50:59Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 4,
-    "updated_at": "2026-09-22T10:49:55Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
