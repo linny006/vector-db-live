@@ -1,11 +1,83 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1159,
+    "updated_at": "2026-09-22T17:45:02Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
+    "id": "kunal-rathore-111/Neptune",
+    "language": "TypeScript",
+    "name": "kunal-rathore-111/Neptune",
+    "stars": 1,
+    "updated_at": "2026-09-22T17:44:02Z",
+    "url": "https://github.com/kunal-rathore-111/Neptune"
+  },
+  {
+    "description": "ID-based RAG FastAPI: Integration with Langchain and PostgreSQL/pgvector",
+    "id": "danny-avila/rag_api",
+    "language": "Python",
+    "name": "danny-avila/rag_api",
+    "stars": 904,
+    "updated_at": "2026-09-22T17:43:57Z",
+    "url": "https://github.com/danny-avila/rag_api"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-22T17:41:31Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
+    "id": "SynapseKit/SynapseKit",
+    "language": "Python",
+    "name": "SynapseKit/SynapseKit",
+    "stars": 23,
+    "updated_at": "2026-09-22T17:37:33Z",
+    "url": "https://github.com/SynapseKit/SynapseKit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-22T17:33:56Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-powered RAG chatbot built with LangChain, FastAPI, ChromaDB, and Next.js for semantic PDF question answering with sou",
+    "id": "Rishabh150102/DocMind-AI",
+    "language": "TypeScript",
+    "name": "Rishabh150102/DocMind-AI",
+    "stars": 0,
+    "updated_at": "2026-09-22T17:31:11Z",
+    "url": "https://github.com/Rishabh150102/DocMind-AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-22T17:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-22T17:30:20Z",
+    "updated_at": "2026-09-22T17:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,40 +99,13 @@
     "url": "https://github.com/Tibab222/cvMaker"
   },
   {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 23,
-    "updated_at": "2026-09-22T17:28:40Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11503,
-    "updated_at": "2026-09-22T17:16:22Z",
+    "stars": 11504,
+    "updated_at": "2026-09-22T17:42:42Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-22T17:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI-powered RAG chatbot built with LangChain, FastAPI, ChromaDB, and Next.js for semantic PDF question answering with sou",
-    "id": "Rishabh150102/DocMind-AI",
-    "language": "TypeScript",
-    "name": "Rishabh150102/DocMind-AI",
-    "stars": 0,
-    "updated_at": "2026-09-22T17:14:54Z",
-    "url": "https://github.com/Rishabh150102/DocMind-AI"
   },
   {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T17:08:59Z",
     "url": "https://github.com/charllote122/medrag"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-22T17:08:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Process-local retrieval for Coding Agent workspaces.",
@@ -144,15 +180,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1159,
-    "updated_at": "2026-09-22T17:22:42Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "RAG-grounded SOC alert triage: Wazuh alerts classified via deterministic MITRE ATT&CK/CAPEC/CWE/CVE retrieval, calibrate",
     "id": "harshalbadgujar1053/VigilanceAI-Autonomous_Security_survilance",
     "language": "HTML",
@@ -162,31 +189,22 @@
     "url": "https://github.com/harshalbadgujar1053/VigilanceAI-Autonomous_Security_survilance"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-22T16:39:10Z",
-    "url": "https://github.com/makr-code/ThemisDB"
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12967,
+    "updated_at": "2026-09-22T16:29:39Z",
+    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30911,
+    "stars": 30913,
     "updated_at": "2026-09-22T16:24:53Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12966,
-    "updated_at": "2026-09-22T16:29:39Z",
-    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -203,7 +221,7 @@
     "language": "Rust",
     "name": "aicubetechnology/qilbeeDB",
     "stars": 22,
-    "updated_at": "2026-09-22T17:18:38Z",
+    "updated_at": "2026-09-22T17:42:20Z",
     "url": "https://github.com/aicubetechnology/qilbeeDB"
   },
   {
@@ -238,8 +256,8 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46218,
-    "updated_at": "2026-09-22T15:54:24Z",
+    "stars": 46219,
+    "updated_at": "2026-09-22T17:31:34Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -283,7 +301,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59369,
+    "stars": 59370,
     "updated_at": "2026-09-22T15:36:30Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -338,7 +356,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 882,
-    "updated_at": "2026-09-22T15:56:48Z",
+    "updated_at": "2026-09-22T17:33:00Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -364,7 +382,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66328,
+    "stars": 66329,
     "updated_at": "2026-09-22T15:08:11Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -373,7 +391,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34755,
+    "stars": 34756,
     "updated_at": "2026-09-22T15:04:27Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T14:57:38Z",
     "url": "https://github.com/api-evangelist/weaviate"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:57:21Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
-    "id": "api-evangelist/vespa-ai",
-    "language": "\u2014",
-    "name": "api-evangelist/vespa-ai",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:55:16Z",
-    "url": "https://github.com/api-evangelist/vespa-ai"
   }
 ]
