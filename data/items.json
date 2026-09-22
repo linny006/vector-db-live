@@ -1,12 +1,66 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-22T13:43:38Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Conversational RAG system built from first principles in .NET 10 (Clean Architecture), Qdrant Vector DB, Ollama, Groq, S",
+    "id": "adarshsince90/rag-dotnet",
+    "language": "C#",
+    "name": "adarshsince90/rag-dotnet",
+    "stars": 0,
+    "updated_at": "2026-09-22T13:43:01Z",
+    "url": "https://github.com/adarshsince90/rag-dotnet"
+  },
+  {
+    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
+    "id": "api-evangelist/gel-data",
+    "language": "\u2014",
+    "name": "api-evangelist/gel-data",
+    "stars": 0,
+    "updated_at": "2026-09-22T13:40:50Z",
+    "url": "https://github.com/api-evangelist/gel-data"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T13:30:29Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-09-22T13:41:26Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4436,
+    "updated_at": "2026-09-22T13:42:37Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-22T13:37:43Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The fastest pure Go in-memory Redis alternative. 6.87M+ ops/s peak throughput, 119\u00b5s latency, Multi-Reactor engine, embe",
+    "id": "GargAnshu9468/vortexkv",
+    "language": "Go",
+    "name": "GargAnshu9468/vortexkv",
+    "stars": 6,
+    "updated_at": "2026-09-22T13:36:08Z",
+    "url": "https://github.com/GargAnshu9468/vortexkv"
   },
   {
     "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
@@ -14,8 +68,26 @@
     "language": "Go",
     "name": "Tanmoy095/Logiflow-platform",
     "stars": 3,
-    "updated_at": "2026-09-22T13:29:26Z",
+    "updated_at": "2026-09-22T13:32:36Z",
     "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-22T13:30:39Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T13:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "ChunkLab is a browser-based sandbox for testing, visualizing, and validating text chunking strategies before deploying t",
@@ -25,15 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T13:28:22Z",
     "url": "https://github.com/ziffan/ChunkLab"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-09-22T13:28:39Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
@@ -90,15 +153,6 @@
     "url": "https://github.com/api-evangelist/chroma"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-22T13:17:19Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
     "id": "hbar-systems/brainfoundry-nous",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T13:15:50Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-22T13:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Hybrid RAG bot for Python docs using Pinecone, OpenAI embeddings, and Groq, with live deployment at https://ragbot-j58i.",
@@ -126,21 +171,12 @@
     "url": "https://github.com/nisg-phys/RAG-for-Python3.14"
   },
   {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4436,
-    "updated_at": "2026-09-22T13:17:50Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
     "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
     "id": "kannaka-labs/kannaka-memory",
     "language": "Rust",
     "name": "kannaka-labs/kannaka-memory",
     "stars": 2,
-    "updated_at": "2026-09-22T13:09:30Z",
+    "updated_at": "2026-09-22T13:37:56Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
@@ -212,7 +248,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7106,
-    "updated_at": "2026-09-22T12:57:43Z",
+    "updated_at": "2026-09-22T13:44:12Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -239,7 +275,7 @@
     "language": "Go",
     "name": "FelipeMiiller/my-memory",
     "stars": 7,
-    "updated_at": "2026-09-22T13:04:55Z",
+    "updated_at": "2026-09-22T13:39:43Z",
     "url": "https://github.com/FelipeMiiller/my-memory"
   },
   {
@@ -284,7 +320,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46211,
-    "updated_at": "2026-09-22T13:23:43Z",
+    "updated_at": "2026-09-22T13:44:58Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -302,7 +338,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16837,
-    "updated_at": "2026-09-22T13:13:27Z",
+    "updated_at": "2026-09-22T13:44:44Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -329,7 +365,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8257,
-    "updated_at": "2026-09-22T13:08:41Z",
+    "updated_at": "2026-09-22T13:41:37Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -382,7 +418,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2305,
+    "stars": 2306,
     "updated_at": "2026-09-22T11:33:22Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T11:27:03Z",
     "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
-  },
-  {
-    "description": "24x faster AI embedding compression & vector search inspired by the Drosophila connectome (Science 2017)",
-    "id": "alieneseren/fly-vector",
-    "language": "Python",
-    "name": "alieneseren/fly-vector",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:24:37Z",
-    "url": "https://github.com/alieneseren/fly-vector"
-  },
-  {
-    "description": "AI-powered academic research engine with FAISS vector retrieval, Gemini embeddings, and recency-weighted re-ranking.",
-    "id": "RamillaSmridhi27/academic-research-rag",
-    "language": "Jupyter Notebook",
-    "name": "RamillaSmridhi27/academic-research-rag",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:23:51Z",
-    "url": "https://github.com/RamillaSmridhi27/academic-research-rag"
-  },
-  {
-    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
-    "id": "devharis99/vectra",
-    "language": "Python",
-    "name": "devharis99/vectra",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:19:47Z",
-    "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9451,
-    "updated_at": "2026-09-22T13:19:43Z",
-    "url": "https://github.com/databendlabs/databend"
   }
 ]
