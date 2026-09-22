@@ -1,11 +1,110 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T11:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46208,
+    "updated_at": "2026-09-22T11:29:34Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4436,
+    "updated_at": "2026-09-22T11:29:37Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "An agentic, plug-and-play RAG architecture utilizing Two-Stage Vector Retrieval, RAPTOR, and Neo4j Knowledge Graphs for ",
+    "id": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
+    "language": "JavaScript",
+    "name": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
+    "stars": 0,
+    "updated_at": "2026-09-22T11:27:39Z",
+    "url": "https://github.com/Saransh482003/RAGner-Tri-Modal-RAG-Framework"
+  },
+  {
+    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
+    "id": "Parth-2004/Historical-AI-Assistant",
+    "language": "Python",
+    "name": "Parth-2004/Historical-AI-Assistant",
+    "stars": 1,
+    "updated_at": "2026-09-22T11:27:03Z",
+    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
+  },
+  {
+    "description": "24x faster AI embedding compression & vector search inspired by the Drosophila connectome (Science 2017)",
+    "id": "alieneseren/fly-vector",
+    "language": "Python",
+    "name": "alieneseren/fly-vector",
+    "stars": 0,
+    "updated_at": "2026-09-22T11:24:37Z",
+    "url": "https://github.com/alieneseren/fly-vector"
+  },
+  {
+    "description": "AI-powered academic research engine with FAISS vector retrieval, Gemini embeddings, and recency-weighted re-ranking.",
+    "id": "RamillaSmridhi27/academic-research-rag",
+    "language": "Jupyter Notebook",
+    "name": "RamillaSmridhi27/academic-research-rag",
+    "stars": 0,
+    "updated_at": "2026-09-22T11:23:51Z",
+    "url": "https://github.com/RamillaSmridhi27/academic-research-rag"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-22T11:22:51Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
+    "id": "devharis99/vectra",
+    "language": "Python",
+    "name": "devharis99/vectra",
+    "stars": 0,
+    "updated_at": "2026-09-22T11:19:47Z",
+    "url": "https://github.com/devharis99/vectra"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8258,
+    "updated_at": "2026-09-22T11:16:03Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-22T11:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9451,
-    "updated_at": "2026-09-22T11:14:51Z",
+    "updated_at": "2026-09-22T11:22:11Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -34,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-09-22T11:08:23Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-22T11:15:17Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "An Amazon S3 service implementation based on Netty.",
@@ -79,24 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T11:00:49Z",
     "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-22T11:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T11:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
@@ -243,15 +315,6 @@
     "url": "https://github.com/karthikbilaspur/ai_learning"
   },
   {
-    "description": "An agentic, plug-and-play RAG architecture utilizing Two-Stage Vector Retrieval, RAPTOR, and Neo4j Knowledge Graphs for ",
-    "id": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
-    "language": "JavaScript",
-    "name": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
-    "stars": 0,
-    "updated_at": "2026-09-22T10:41:26Z",
-    "url": "https://github.com/Saransh482003/RAGner-Tri-Modal-RAG-Framework"
-  },
-  {
     "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
     "id": "leo2007960216/deeprecall",
     "language": "Python",
@@ -315,15 +378,6 @@
     "url": "https://github.com/eliasepro/groq-pdf-chat"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46208,
-    "updated_at": "2026-09-22T10:27:34Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
     "id": "humanhady/DocMine",
     "language": "Python",
@@ -382,18 +436,9 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 1971,
-    "updated_at": "2026-09-22T10:11:50Z",
+    "stars": 1972,
+    "updated_at": "2026-09-22T11:19:47Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4436,
-    "updated_at": "2026-09-22T10:59:30Z",
-    "url": "https://github.com/crate/crate"
   },
   {
     "description": "Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.",
@@ -403,50 +448,5 @@
     "stars": 8275,
     "updated_at": "2026-09-22T10:08:42Z",
     "url": "https://github.com/zilliztech/deep-searcher"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-09-22T10:08:00Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "Conversational RAG system built from first principles in .NET 10 (Clean Architecture), Qdrant Vector DB, Ollama, Groq, S",
-    "id": "adarshsince90/rag-dotnet",
-    "language": "C#",
-    "name": "adarshsince90/rag-dotnet",
-    "stars": 0,
-    "updated_at": "2026-09-22T10:05:42Z",
-    "url": "https://github.com/adarshsince90/rag-dotnet"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
-    "id": "britorbs/consciousdb",
-    "language": "Python",
-    "name": "britorbs/consciousdb",
-    "stars": 0,
-    "updated_at": "2026-09-22T10:04:43Z",
-    "url": "https://github.com/britorbs/consciousdb"
-  },
-  {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/urna",
-    "language": "Rust",
-    "name": "hoffresearch/urna",
-    "stars": 11,
-    "updated_at": "2026-09-22T10:04:40Z",
-    "url": "https://github.com/hoffresearch/urna"
-  },
-  {
-    "description": "",
-    "id": "sanitprime/Advanced_Graph_RAG",
-    "language": "Python",
-    "name": "sanitprime/Advanced_Graph_RAG",
-    "stars": 2,
-    "updated_at": "2026-09-22T10:04:39Z",
-    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
   }
 ]
