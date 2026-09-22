@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T07:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-22T07:39:26Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Citation-grounded health Q&A over WHO/CDC/NICE guidelines. Patient and clinician profiles from one retrieval core. Refus",
+    "id": "charllote122/medrag",
+    "language": "Python",
+    "name": "charllote122/medrag",
+    "stars": 0,
+    "updated_at": "2026-09-22T07:38:13Z",
+    "url": "https://github.com/charllote122/medrag"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 0,
+    "updated_at": "2026-09-22T07:37:29Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
+    "id": "weaviate/docs",
+    "language": "Python",
+    "name": "weaviate/docs",
+    "stars": 20,
+    "updated_at": "2026-09-22T07:35:24Z",
+    "url": "https://github.com/weaviate/docs"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9449,
+    "updated_at": "2026-09-22T07:33:33Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
+    "id": "n9524726-star/chatpdf-rag",
+    "language": "Python",
+    "name": "n9524726-star/chatpdf-rag",
+    "stars": 0,
+    "updated_at": "2026-09-22T07:31:50Z",
+    "url": "https://github.com/n9524726-star/chatpdf-rag"
+  },
+  {
+    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
+    "id": "sarthaksinha2600/LLM-Contract",
+    "language": "\u2014",
+    "name": "sarthaksinha2600/LLM-Contract",
+    "stars": 0,
+    "updated_at": "2026-09-22T07:31:32Z",
+    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
+  },
+  {
+    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
+    "id": "Shitless-jnr3697/rebasis",
+    "language": "Python",
+    "name": "Shitless-jnr3697/rebasis",
+    "stars": 0,
+    "updated_at": "2026-09-22T07:30:47Z",
+    "url": "https://github.com/Shitless-jnr3697/rebasis"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-22T07:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Turn any YouTube channel into a local, searchable knowledge base with a per-channel AI chat agent. Fetches transcripts (",
+    "id": "frandemona/Youtube-Channel-Knowledge-base",
+    "language": "Python",
+    "name": "frandemona/Youtube-Channel-Knowledge-base",
+    "stars": 0,
+    "updated_at": "2026-09-22T07:30:22Z",
+    "url": "https://github.com/frandemona/Youtube-Channel-Knowledge-base"
+  },
+  {
     "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
     "id": "boulif781/enterprise-knowledge-assistant",
     "language": "\u2014",
@@ -14,7 +113,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1159,
-    "updated_at": "2026-09-22T07:29:42Z",
+    "updated_at": "2026-09-22T07:37:13Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -63,6 +162,15 @@
     "url": "https://github.com/Siddhant-K-code/distill"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30901,
+    "updated_at": "2026-09-22T07:32:22Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
     "id": "jefffergunson118-beep/smara",
     "language": "\u2014",
@@ -99,15 +207,6 @@
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   },
   {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 0,
-    "updated_at": "2026-09-22T07:17:21Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -133,24 +232,6 @@
     "stars": 288,
     "updated_at": "2026-09-22T07:21:09Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-22T07:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T07:15:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
@@ -193,7 +274,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2281,
+    "stars": 2282,
     "updated_at": "2026-09-22T07:13:34Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -212,17 +293,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34745,
-    "updated_at": "2026-09-22T07:30:04Z",
+    "updated_at": "2026-09-22T07:35:46Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-22T07:10:47Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
@@ -376,77 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T06:45:41Z",
     "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-09-22T06:45:33Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
-    "id": "ermermermermidk/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ermermermermidk/mcp-ai-memory",
-    "stars": 1,
-    "updated_at": "2026-09-22T06:45:00Z",
-    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
-    "id": "gxc02529-jpg/KnowLoop",
-    "language": "Python",
-    "name": "gxc02529-jpg/KnowLoop",
-    "stars": 0,
-    "updated_at": "2026-09-22T06:39:35Z",
-    "url": "https://github.com/gxc02529-jpg/KnowLoop"
-  },
-  {
-    "description": "The fastest pure Go in-memory Redis alternative. 6.87M+ ops/s peak throughput, 119\u00b5s latency, Multi-Reactor engine, embe",
-    "id": "GargAnshu9468/vortexkv",
-    "language": "Go",
-    "name": "GargAnshu9468/vortexkv",
-    "stars": 5,
-    "updated_at": "2026-09-22T06:38:02Z",
-    "url": "https://github.com/GargAnshu9468/vortexkv"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16836,
-    "updated_at": "2026-09-22T07:15:49Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
-    "id": "puffball1567/koutendb",
-    "language": "Nim",
-    "name": "puffball1567/koutendb",
-    "stars": 16,
-    "updated_at": "2026-09-22T06:36:08Z",
-    "url": "https://github.com/puffball1567/koutendb"
-  },
-  {
-    "description": "Source repo for knowledge-vault: SQLite + BGE-Micro embeddings vector DB for RAG (Rust)",
-    "id": "SuperInstance/knowledge-vault-rs",
-    "language": "Rust",
-    "name": "SuperInstance/knowledge-vault-rs",
-    "stars": 0,
-    "updated_at": "2026-09-22T06:35:01Z",
-    "url": "https://github.com/SuperInstance/knowledge-vault-rs"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 7,
-    "updated_at": "2026-09-22T06:31:23Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
   }
 ]
