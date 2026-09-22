@@ -1,5 +1,122 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T13:30:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
+    "id": "Tanmoy095/Logiflow-platform",
+    "language": "Go",
+    "name": "Tanmoy095/Logiflow-platform",
+    "stars": 3,
+    "updated_at": "2026-09-22T13:29:26Z",
+    "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "ChunkLab is a browser-based sandbox for testing, visualizing, and validating text chunking strategies before deploying t",
+    "id": "ziffan/ChunkLab",
+    "language": "Python",
+    "name": "ziffan/ChunkLab",
+    "stars": 0,
+    "updated_at": "2026-09-22T13:28:22Z",
+    "url": "https://github.com/ziffan/ChunkLab"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-09-22T13:28:39Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
+    "id": "api-evangelist/datastax",
+    "language": "\u2014",
+    "name": "api-evangelist/datastax",
+    "stars": 0,
+    "updated_at": "2026-09-22T13:27:12Z",
+    "url": "https://github.com/api-evangelist/datastax"
+  },
+  {
+    "description": "Data Object Layer for ChromaDB",
+    "id": "i2mint/chromadol",
+    "language": "Python",
+    "name": "i2mint/chromadol",
+    "stars": 1,
+    "updated_at": "2026-09-22T13:25:39Z",
+    "url": "https://github.com/i2mint/chromadol"
+  },
+  {
+    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
+    "id": "api-evangelist/crate-io",
+    "language": "\u2014",
+    "name": "api-evangelist/crate-io",
+    "stars": 0,
+    "updated_at": "2026-09-22T13:24:32Z",
+    "url": "https://github.com/api-evangelist/crate-io"
+  },
+  {
+    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-09-22T13:22:57Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1159,
+    "updated_at": "2026-09-22T13:22:27Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma",
+    "stars": 0,
+    "updated_at": "2026-09-22T13:18:27Z",
+    "url": "https://github.com/api-evangelist/chroma"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-22T13:17:19Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 0,
+    "updated_at": "2026-09-22T13:15:50Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-22T13:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Hybrid RAG bot for Python docs using Pinecone, OpenAI embeddings, and Groq, with live deployment at https://ragbot-j58i.",
     "id": "nisg-phys/RAG-for-Python3.14",
     "language": "Python",
@@ -9,21 +126,12 @@
     "url": "https://github.com/nisg-phys/RAG-for-Python3.14"
   },
   {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-09-22T13:15:15Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
     "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
     "id": "crate/crate",
     "language": "Java",
     "name": "crate/crate",
     "stars": 4436,
-    "updated_at": "2026-09-22T13:13:56Z",
+    "updated_at": "2026-09-22T13:17:50Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -34,15 +142,6 @@
     "stars": 2,
     "updated_at": "2026-09-22T13:09:30Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-22T13:09:01Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
@@ -59,7 +158,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-09-22T13:06:58Z",
+    "updated_at": "2026-09-22T13:16:31Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -68,7 +167,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34752,
-    "updated_at": "2026-09-22T13:06:06Z",
+    "updated_at": "2026-09-22T13:21:13Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -99,24 +198,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-22T13:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T13:15:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
     "id": "api-evangelist/aerospike",
     "language": "\u2014",
@@ -133,15 +214,6 @@
     "stars": 7106,
     "updated_at": "2026-09-22T12:57:43Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Go",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 3,
-    "updated_at": "2026-09-22T12:56:49Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
   },
   {
     "description": "Citation-grounded health Q&A over WHO/CDC/NICE guidelines. Patient and clinician profiles from one retrieval core. Refus",
@@ -169,15 +241,6 @@
     "stars": 7,
     "updated_at": "2026-09-22T13:04:55Z",
     "url": "https://github.com/FelipeMiiller/my-memory"
-  },
-  {
-    "description": "ChunkLab is a browser-based sandbox for testing, visualizing, and validating text chunking strategies before deploying t",
-    "id": "ziffan/ChunkLab",
-    "language": "Python",
-    "name": "ziffan/ChunkLab",
-    "stars": 0,
-    "updated_at": "2026-09-22T12:50:22Z",
-    "url": "https://github.com/ziffan/ChunkLab"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -211,18 +274,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30909,
+    "stars": 30908,
     "updated_at": "2026-09-22T12:35:51Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 0,
-    "updated_at": "2026-09-22T12:33:31Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -230,7 +284,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46211,
-    "updated_at": "2026-09-22T12:59:21Z",
+    "updated_at": "2026-09-22T13:23:43Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -238,7 +292,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59368,
+    "stars": 59367,
     "updated_at": "2026-09-22T12:23:40Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -328,7 +382,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2304,
+    "stars": 2305,
     "updated_at": "2026-09-22T11:33:22Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -392,61 +446,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9451,
-    "updated_at": "2026-09-22T12:46:08Z",
+    "updated_at": "2026-09-22T13:19:43Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "NextSQL is a new database engine, written primarily in Go.",
-    "id": "bzync/nextsql",
-    "language": "Go",
-    "name": "bzync/nextsql",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:12:46Z",
-    "url": "https://github.com/bzync/nextsql"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:11:08Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "An Amazon S3 service implementation based on Netty.",
-    "id": "Robothy/local-s3",
-    "language": "Java",
-    "name": "Robothy/local-s3",
-    "stars": 75,
-    "updated_at": "2026-09-22T11:05:13Z",
-    "url": "https://github.com/Robothy/local-s3"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:03:37Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:03:25Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-09-22T11:00:49Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
   }
 ]
