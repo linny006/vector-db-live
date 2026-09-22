@@ -1,11 +1,56 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T19:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-22T19:22:57Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
+    "id": "devharis99/vectra",
+    "language": "Python",
+    "name": "devharis99/vectra",
+    "stars": 0,
+    "updated_at": "2026-09-22T19:19:54Z",
+    "url": "https://github.com/devharis99/vectra"
+  },
+  {
+    "description": "A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on ",
+    "id": "zacharydenton/hrxdb",
+    "language": "Rust",
+    "name": "zacharydenton/hrxdb",
+    "stars": 0,
+    "updated_at": "2026-09-22T19:18:41Z",
+    "url": "https://github.com/zacharydenton/hrxdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-22T19:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 5,
-    "updated_at": "2026-09-22T19:13:04Z",
+    "updated_at": "2026-09-22T19:29:42Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -14,7 +59,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1159,
-    "updated_at": "2026-09-22T19:14:07Z",
+    "updated_at": "2026-09-22T19:21:19Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -25,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T19:12:10Z",
     "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-22T19:11:00Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -106,24 +142,6 @@
     "stars": 1624,
     "updated_at": "2026-09-22T19:00:49Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-22T19:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T19:00:27Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
@@ -266,7 +284,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16839,
-    "updated_at": "2026-09-22T18:57:14Z",
+    "updated_at": "2026-09-22T19:27:58Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -311,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8260,
-    "updated_at": "2026-09-22T19:02:32Z",
+    "updated_at": "2026-09-22T19:27:35Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -356,7 +374,7 @@
     "language": "Python",
     "name": "thekaveh/atlas",
     "stars": 3,
-    "updated_at": "2026-09-22T18:28:05Z",
+    "updated_at": "2026-09-22T19:18:44Z",
     "url": "https://github.com/thekaveh/atlas"
   },
   {
@@ -385,15 +403,6 @@
     "stars": 1,
     "updated_at": "2026-09-22T18:20:53Z",
     "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on ",
-    "id": "zacharydenton/hrxdb",
-    "language": "Rust",
-    "name": "zacharydenton/hrxdb",
-    "stars": 0,
-    "updated_at": "2026-09-22T18:17:31Z",
-    "url": "https://github.com/zacharydenton/hrxdb"
   },
   {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
@@ -439,14 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-22T18:09:51Z",
     "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
-  },
-  {
-    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
-    "id": "SKeditz42/Vec",
-    "language": "C",
-    "name": "SKeditz42/Vec",
-    "stars": 2,
-    "updated_at": "2026-09-22T18:07:43Z",
-    "url": "https://github.com/SKeditz42/Vec"
   }
 ]
