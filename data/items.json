@@ -1,5 +1,104 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T18:30:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1159,
+    "updated_at": "2026-09-22T18:30:01Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-22T18:29:54Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-09-22T18:26:24Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-09-22T18:28:05Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-22T18:23:27Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 3,
+    "updated_at": "2026-09-22T18:22:38Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-09-22T18:20:53Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Conversational RAG system built from first principles in .NET 10 (Clean Architecture), Qdrant Vector DB, Ollama, Groq, S",
+    "id": "adarshsince90/rag-dotnet",
+    "language": "C#",
+    "name": "adarshsince90/rag-dotnet",
+    "stars": 0,
+    "updated_at": "2026-09-22T18:19:38Z",
+    "url": "https://github.com/adarshsince90/rag-dotnet"
+  },
+  {
+    "description": "A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on ",
+    "id": "zacharydenton/hrxdb",
+    "language": "Rust",
+    "name": "zacharydenton/hrxdb",
+    "stars": 0,
+    "updated_at": "2026-09-22T18:17:31Z",
+    "url": "https://github.com/zacharydenton/hrxdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-22T18:15:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
     "id": "Separative-involucre520/SearchPaperByEmbedding",
     "language": "Python",
@@ -108,24 +207,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-22T18:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T18:15:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
     "id": "neuml/txtai",
     "language": "Python",
@@ -133,15 +214,6 @@
     "stars": 12967,
     "updated_at": "2026-09-22T18:12:40Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on ",
-    "id": "zacharydenton/hrxdb",
-    "language": "Rust",
-    "name": "zacharydenton/hrxdb",
-    "stars": 0,
-    "updated_at": "2026-09-22T17:58:04Z",
-    "url": "https://github.com/zacharydenton/hrxdb"
   },
   {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
@@ -187,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-09-22T17:47:51Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1159,
-    "updated_at": "2026-09-22T18:14:28Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
@@ -293,7 +356,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 5,
-    "updated_at": "2026-09-22T17:58:46Z",
+    "updated_at": "2026-09-22T18:29:06Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -337,7 +400,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30915,
+    "stars": 30916,
     "updated_at": "2026-09-22T16:24:53Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -356,7 +419,7 @@
     "language": "Rust",
     "name": "aicubetechnology/qilbeeDB",
     "stars": 22,
-    "updated_at": "2026-09-22T18:04:00Z",
+    "updated_at": "2026-09-22T18:16:09Z",
     "url": "https://github.com/aicubetechnology/qilbeeDB"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T15:58:24Z",
     "url": "https://github.com/re-Isearch/Schmate"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46219,
-    "updated_at": "2026-09-22T17:31:34Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8259,
-    "updated_at": "2026-09-22T18:13:49Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
-    "id": "oracle/langchain-oracle",
-    "language": "Python",
-    "name": "oracle/langchain-oracle",
-    "stars": 60,
-    "updated_at": "2026-09-22T15:49:04Z",
-    "url": "https://github.com/oracle/langchain-oracle"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:38:08Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": " An Agentic RAG Assistant built with LangChain, Streamlit, Groq, Hugging Face embeddings, and Chroma. Upload PDFs, ask q",
-    "id": "amnsingh05/agentic-rag-sih26117",
-    "language": "Python",
-    "name": "amnsingh05/agentic-rag-sih26117",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:37:47Z",
-    "url": "https://github.com/amnsingh05/agentic-rag-sih26117"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59370,
-    "updated_at": "2026-09-22T15:36:30Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Dependency-free Elixir client for PaveDB\u2019s HTTP API, covering collections, text/file/vector ingestion, search, shared sc",
-    "id": "rodrigopitanga/pavedb-client-elixir",
-    "language": "Elixir",
-    "name": "rodrigopitanga/pavedb-client-elixir",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:31:50Z",
-    "url": "https://github.com/rodrigopitanga/pavedb-client-elixir"
   }
 ]
