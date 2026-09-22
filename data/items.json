@@ -1,11 +1,65 @@
 [
   {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-22T15:38:08Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+    "id": "meilisearch/meilisearch",
+    "language": "Rust",
+    "name": "meilisearch/meilisearch",
+    "stars": 59369,
+    "updated_at": "2026-09-22T15:36:30Z",
+    "url": "https://github.com/meilisearch/meilisearch"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-22T15:35:35Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Dependency-free Elixir client for PaveDB\u2019s HTTP API, covering collections, text/file/vector ingestion, search, shared sc",
+    "id": "rodrigopitanga/pavedb-client-elixir",
+    "language": "Elixir",
+    "name": "rodrigopitanga/pavedb-client-elixir",
+    "stars": 0,
+    "updated_at": "2026-09-22T15:31:50Z",
+    "url": "https://github.com/rodrigopitanga/pavedb-client-elixir"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T15:30:40Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-22T15:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6241,
-    "updated_at": "2026-09-22T15:27:34Z",
+    "updated_at": "2026-09-22T15:42:09Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -14,7 +68,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 289,
-    "updated_at": "2026-09-22T15:26:20Z",
+    "updated_at": "2026-09-22T15:34:05Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -23,7 +77,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-22T15:21:17Z",
+    "updated_at": "2026-09-22T15:41:14Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -68,26 +122,8 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 282,
-    "updated_at": "2026-09-22T15:16:54Z",
+    "updated_at": "2026-09-22T15:42:19Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-22T15:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T15:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
@@ -108,15 +144,6 @@
     "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
-    "description": "Dependency-free Elixir client for PaveDB\u2019s HTTP API, covering collections, text/file/vector ingestion, search, shared sc",
-    "id": "rodrigopitanga/pavedb-client-elixir",
-    "language": "Elixir",
-    "name": "rodrigopitanga/pavedb-client-elixir",
-    "stars": 0,
-    "updated_at": "2026-09-22T15:11:27Z",
-    "url": "https://github.com/rodrigopitanga/pavedb-client-elixir"
-  },
-  {
     "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
     "id": "devharis99/vectra",
     "language": "Python",
@@ -126,20 +153,11 @@
     "url": "https://github.com/devharis99/vectra"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-22T15:08:37Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66327,
+    "stars": 66326,
     "updated_at": "2026-09-22T15:08:11Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -162,6 +180,15 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34752,
+    "updated_at": "2026-09-22T15:04:27Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Website for the Weaviate vector database",
     "id": "weaviate/weaviate-io",
     "language": "MDX",
@@ -175,7 +202,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46216,
+    "stars": 46217,
     "updated_at": "2026-09-22T15:03:51Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -277,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-22T14:54:16Z",
     "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59369,
-    "updated_at": "2026-09-22T14:53:43Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
@@ -410,8 +428,17 @@
     "language": "Rust",
     "name": "aicubetechnology/qilbeeDB",
     "stars": 22,
-    "updated_at": "2026-09-22T15:21:07Z",
+    "updated_at": "2026-09-22T15:36:18Z",
     "url": "https://github.com/aicubetechnology/qilbeeDB"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8258,
+    "updated_at": "2026-09-22T14:44:22Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-22T14:43:16Z",
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
-    "id": "api-evangelist/surrealdb",
-    "language": "\u2014",
-    "name": "api-evangelist/surrealdb",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:43:16Z",
-    "url": "https://github.com/api-evangelist/surrealdb"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-09-22T14:41:13Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Hallucination resistant full-stack RAG system using FastAPI, React, and LangChain.",
-    "id": "amaaxx/halkill",
-    "language": "JavaScript",
-    "name": "amaaxx/halkill",
-    "stars": 1,
-    "updated_at": "2026-09-22T14:36:10Z",
-    "url": "https://github.com/amaaxx/halkill"
   }
 ]
