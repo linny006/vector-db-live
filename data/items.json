@@ -1,5 +1,50 @@
 [
   {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 5,
+    "updated_at": "2026-09-22T17:00:14Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11503,
+    "updated_at": "2026-09-22T16:54:26Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 2,
+    "updated_at": "2026-09-22T16:48:17Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-22T16:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-22T17:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri",
     "id": "Tamilmani027/Context-IQ",
     "language": "JavaScript",
@@ -23,7 +68,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1159,
-    "updated_at": "2026-09-22T16:44:13Z",
+    "updated_at": "2026-09-22T16:59:38Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -54,24 +99,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-22T16:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-22T16:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Process-local retrieval for Coding Agent workspaces.",
     "id": "A3S-Lab/Vec",
     "language": "Rust",
@@ -85,7 +112,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30909,
+    "stars": 30910,
     "updated_at": "2026-09-22T16:24:53Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -229,7 +256,7 @@
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
-    "stars": 6074,
+    "stars": 6075,
     "updated_at": "2026-09-22T15:18:46Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
@@ -284,7 +311,7 @@
     "language": "Java",
     "name": "alxkm/java-ai-cookbook",
     "stars": 1,
-    "updated_at": "2026-09-22T15:07:25Z",
+    "updated_at": "2026-09-22T16:58:36Z",
     "url": "https://github.com/alxkm/java-ai-cookbook"
   },
   {
@@ -304,15 +331,6 @@
     "stars": 89,
     "updated_at": "2026-09-22T15:04:08Z",
     "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11503,
-    "updated_at": "2026-09-22T15:12:10Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T14:51:55Z",
     "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
-    "id": "raymondmdzz123/agent-memory",
-    "language": "TypeScript",
-    "name": "raymondmdzz123/agent-memory",
-    "stars": 1,
-    "updated_at": "2026-09-22T14:51:22Z",
-    "url": "https://github.com/raymondmdzz123/agent-memory"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-09-22T14:50:14Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   }
 ]
