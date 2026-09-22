@@ -1,5 +1,104 @@
 [
   {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-09-22T14:28:45Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-09-22T14:26:35Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-09-22T14:26:58Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "RAGFlow \u2014 independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev",
+    "id": "api-evangelist/ragflow",
+    "language": "\u2014",
+    "name": "api-evangelist/ragflow",
+    "stars": 0,
+    "updated_at": "2026-09-22T14:25:10Z",
+    "url": "https://github.com/api-evangelist/ragflow"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-22T14:24:46Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-09-22T14:20:53Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-22T14:20:26Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-22T14:17:59Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 3,
+    "updated_at": "2026-09-22T14:17:18Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-09-22T14:16:23Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-22T14:16:02Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -27,13 +126,13 @@
     "url": "https://github.com/i2mint/chromadol"
   },
   {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-09-22T14:12:11Z",
-    "url": "https://github.com/nadeem4/nl2sql"
+    "name": "topoteretes/cognee",
+    "stars": 30910,
+    "updated_at": "2026-09-22T14:26:33Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -198,15 +297,6 @@
     "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-22T14:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "LF AI and Data \u2014 independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation",
     "id": "api-evangelist/lf-ai-and-data",
     "language": "\u2014",
@@ -239,7 +329,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16837,
-    "updated_at": "2026-09-22T14:13:55Z",
+    "updated_at": "2026-09-22T14:28:48Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -250,15 +340,6 @@
     "stars": 2,
     "updated_at": "2026-09-22T13:55:04Z",
     "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30909,
-    "updated_at": "2026-09-22T14:13:07Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
@@ -320,7 +401,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46213,
-    "updated_at": "2026-09-22T13:44:58Z",
+    "updated_at": "2026-09-22T14:20:20Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -342,6 +423,15 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 10,
+    "updated_at": "2026-09-22T13:43:11Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
     "description": "Conversational RAG system built from first principles in .NET 10 (Clean Architecture), Qdrant Vector DB, Ollama, Groq, S",
     "id": "adarshsince90/rag-dotnet",
     "language": "C#",
@@ -358,95 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T13:40:50Z",
     "url": "https://github.com/api-evangelist/gel-data"
-  },
-  {
-    "description": "The fastest pure Go in-memory Redis alternative. 6.87M+ ops/s peak throughput, 119\u00b5s latency, Multi-Reactor engine, embe",
-    "id": "GargAnshu9468/vortexkv",
-    "language": "Go",
-    "name": "GargAnshu9468/vortexkv",
-    "stars": 6,
-    "updated_at": "2026-09-22T13:36:08Z",
-    "url": "https://github.com/GargAnshu9468/vortexkv"
-  },
-  {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Go",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 3,
-    "updated_at": "2026-09-22T13:32:36Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
-  },
-  {
-    "description": "ChunkLab is a browser-based sandbox for testing, visualizing, and validating text chunking strategies before deploying t",
-    "id": "ziffan/ChunkLab",
-    "language": "Python",
-    "name": "ziffan/ChunkLab",
-    "stars": 0,
-    "updated_at": "2026-09-22T13:28:22Z",
-    "url": "https://github.com/ziffan/ChunkLab"
-  },
-  {
-    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
-    "id": "api-evangelist/datastax",
-    "language": "\u2014",
-    "name": "api-evangelist/datastax",
-    "stars": 0,
-    "updated_at": "2026-09-22T13:27:12Z",
-    "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
-    "id": "api-evangelist/crate-io",
-    "language": "\u2014",
-    "name": "api-evangelist/crate-io",
-    "stars": 0,
-    "updated_at": "2026-09-22T13:24:32Z",
-    "url": "https://github.com/api-evangelist/crate-io"
-  },
-  {
-    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
-    "id": "api-evangelist/contentstack",
-    "language": "\u2014",
-    "name": "api-evangelist/contentstack",
-    "stars": 0,
-    "updated_at": "2026-09-22T13:22:57Z",
-    "url": "https://github.com/api-evangelist/contentstack"
-  },
-  {
-    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
-    "id": "api-evangelist/chroma",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma",
-    "stars": 0,
-    "updated_at": "2026-09-22T13:18:27Z",
-    "url": "https://github.com/api-evangelist/chroma"
-  },
-  {
-    "description": "Hybrid RAG bot for Python docs using Pinecone, OpenAI embeddings, and Groq, with live deployment at https://ragbot-j58i.",
-    "id": "nisg-phys/RAG-for-Python3.14",
-    "language": "Python",
-    "name": "nisg-phys/RAG-for-Python3.14",
-    "stars": 0,
-    "updated_at": "2026-09-22T13:15:16Z",
-    "url": "https://github.com/nisg-phys/RAG-for-Python3.14"
-  },
-  {
-    "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
-    "id": "api-evangelist/azure-cosmos-db",
-    "language": "\u2014",
-    "name": "api-evangelist/azure-cosmos-db",
-    "stars": 0,
-    "updated_at": "2026-09-22T13:08:02Z",
-    "url": "https://github.com/api-evangelist/azure-cosmos-db"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-09-22T13:16:31Z",
-    "url": "https://github.com/thekaveh/atlas"
   }
 ]
