@@ -1,5 +1,41 @@
 [
   {
+    "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
+    "id": "api-evangelist/azure-cosmos-db",
+    "language": "\u2014",
+    "name": "api-evangelist/azure-cosmos-db",
+    "stars": 0,
+    "updated_at": "2026-09-23T00:12:09Z",
+    "url": "https://github.com/api-evangelist/azure-cosmos-db"
+  },
+  {
+    "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-09-23T00:04:54Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-23T00:04:42Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-23T00:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +59,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 10,
-    "updated_at": "2026-09-22T23:55:54Z",
+    "updated_at": "2026-09-23T00:03:39Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -32,7 +68,7 @@
     "language": "Rust",
     "name": "aicubetechnology/qilbeeDB",
     "stars": 22,
-    "updated_at": "2026-09-22T23:47:50Z",
+    "updated_at": "2026-09-23T00:06:47Z",
     "url": "https://github.com/aicubetechnology/qilbeeDB"
   },
   {
@@ -43,15 +79,6 @@
     "stars": 11,
     "updated_at": "2026-09-22T23:45:50Z",
     "url": "https://github.com/hoffresearch/urna"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-22T23:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -234,6 +261,15 @@
     "url": "https://github.com/devharis99/vectra"
   },
   {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9452,
+    "updated_at": "2026-09-22T22:31:24Z",
+    "url": "https://github.com/databendlabs/databend"
+  },
+  {
     "description": "LangGraph multi-agent customer support API in Python. Triage routes to sales, billing and support specialists over OpenS",
     "id": "IbiliAze/chatagent",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-22T22:01:42Z",
     "url": "https://github.com/Mohit-Kumar-Thakur/ai-research-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 2,
-    "updated_at": "2026-09-22T22:00:56Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-09-22T21:59:29Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "EKA Agent \u2014 Multi-device data ingestion, LoRA training pipeline, and vector DB for a private AI agent. Hub-and-spoke: 6 ",
-    "id": "jaytipargal/jayti",
-    "language": "Python",
-    "name": "jaytipargal/jayti",
-    "stars": 0,
-    "updated_at": "2026-09-22T23:51:43Z",
-    "url": "https://github.com/jaytipargal/jayti"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-09-22T21:58:08Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
   }
 ]
