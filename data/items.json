@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T20:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 25,
+    "updated_at": "2026-09-23T20:00:02Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 5,
+    "updated_at": "2026-09-23T20:00:23Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "EKA Agent \u2014 Multi-device data ingestion, LoRA training pipeline, and vector DB for a private AI agent. Hub-and-spoke: 6 ",
+    "id": "jaytipargal/jayti",
+    "language": "Python",
+    "name": "jaytipargal/jayti",
+    "stars": 0,
+    "updated_at": "2026-09-23T19:59:10Z",
+    "url": "https://github.com/jaytipargal/jayti"
+  },
+  {
+    "description": "ragsearch is a Python library designed for building a Retrieval-Augmented Generation (RAG) application that enables natu",
+    "id": "mrutunjay-kinagi/ragsearch",
+    "language": "Python",
+    "name": "mrutunjay-kinagi/ragsearch",
+    "stars": 3,
+    "updated_at": "2026-09-23T19:57:26Z",
+    "url": "https://github.com/mrutunjay-kinagi/ragsearch"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16840,
+    "updated_at": "2026-09-23T19:57:12Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
+    "id": "Tanmoy095/Logiflow-platform",
+    "language": "Go",
+    "name": "Tanmoy095/Logiflow-platform",
+    "stars": 3,
+    "updated_at": "2026-09-23T19:54:11Z",
+    "url": "https://github.com/Tanmoy095/Logiflow-platform"
+  },
+  {
+    "description": "Answers grounded in your documents, not the model's guesses every claim traceable back to its source.",
+    "id": "DanishShaikh18/Multi-Agent-RAG-System",
+    "language": "Python",
+    "name": "DanishShaikh18/Multi-Agent-RAG-System",
+    "stars": 0,
+    "updated_at": "2026-09-23T19:53:31Z",
+    "url": "https://github.com/DanishShaikh18/Multi-Agent-RAG-System"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-23T19:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34766,
+    "updated_at": "2026-09-23T19:42:52Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
     "id": "mudassirshahzad/project-eka",
     "language": "Java",
@@ -16,24 +106,6 @@
     "stars": 4,
     "updated_at": "2026-09-23T19:42:00Z",
     "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 5,
-    "updated_at": "2026-09-23T19:45:14Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Answers grounded in your documents, not the model's guesses every claim traceable back to its source.",
-    "id": "DanishShaikh18/Multi-Agent-RAG-System",
-    "language": "Python",
-    "name": "DanishShaikh18/Multi-Agent-RAG-System",
-    "stars": 0,
-    "updated_at": "2026-09-23T19:38:28Z",
-    "url": "https://github.com/DanishShaikh18/Multi-Agent-RAG-System"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -72,15 +144,6 @@
     "url": "https://github.com/YEYUbaka/LocalRAG"
   },
   {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 25,
-    "updated_at": "2026-09-23T19:31:53Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
     "id": "al7o/DocuMind-AI-Engine",
     "language": "HTML",
@@ -88,24 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T19:30:33Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-23T19:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T19:30:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Typed tenant-aware document chunking and vector ingestion service for a controlled SaaS cutover.",
@@ -144,15 +189,6 @@
     "url": "https://github.com/evgeniycheban/spring-data-reindexer"
   },
   {
-    "description": "ragsearch is a Python library designed for building a Retrieval-Augmented Generation (RAG) application that enables natu",
-    "id": "mrutunjay-kinagi/ragsearch",
-    "language": "Python",
-    "name": "mrutunjay-kinagi/ragsearch",
-    "stars": 3,
-    "updated_at": "2026-09-23T19:25:58Z",
-    "url": "https://github.com/mrutunjay-kinagi/ragsearch"
-  },
-  {
     "description": "Spatial AI memory: point your phone camera, ask out loud where you left something, get the exact frame. Gemini Live + Ch",
     "id": "zaidwhy/recall",
     "language": "Python",
@@ -189,15 +225,6 @@
     "url": "https://github.com/MeetRamani28/Nexus-RAG"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16839,
-    "updated_at": "2026-09-23T19:43:33Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "AI Document assistant",
     "id": "CodebyKumar/QueryWise",
     "language": "JavaScript",
@@ -212,7 +239,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-23T19:42:50Z",
+    "updated_at": "2026-09-23T19:45:41Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -232,15 +259,6 @@
     "stars": 22,
     "updated_at": "2026-09-23T18:58:56Z",
     "url": "https://github.com/aicubetechnology/qilbeeDB"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34763,
-    "updated_at": "2026-09-23T19:42:52Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "An interactive marimo notebook on ICICLE AI Tapis services, a hands-on RAG playground that shows every step, from embedd",
@@ -301,7 +319,7 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 1995,
+    "stars": 1996,
     "updated_at": "2026-09-23T18:39:30Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -369,15 +387,6 @@
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   },
   {
-    "description": "Multi-tenant operational intelligence platform AI control plane in Go/K8s. Features custom operator, Kafka ingestion, Te",
-    "id": "Tanmoy095/Logiflow-platform",
-    "language": "Go",
-    "name": "Tanmoy095/Logiflow-platform",
-    "stars": 3,
-    "updated_at": "2026-09-23T18:28:20Z",
-    "url": "https://github.com/Tanmoy095/Logiflow-platform"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-23T18:19:48Z",
     "url": "https://github.com/mattmre/CHELATEDAI"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 4,
-    "updated_at": "2026-09-23T18:19:31Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
   }
 ]
