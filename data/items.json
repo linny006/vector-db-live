@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-23T14:45:24Z",
+    "updated_at": "2026-09-23T15:00:28Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-23T14:58:13Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 884,
+    "updated_at": "2026-09-23T14:56:27Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
+    "id": "hseshadr/edgeproc-core",
+    "language": "Python",
+    "name": "hseshadr/edgeproc-core",
+    "stars": 0,
+    "updated_at": "2026-09-23T14:53:34Z",
+    "url": "https://github.com/hseshadr/edgeproc-core"
+  },
+  {
+    "description": "",
+    "id": "KenBoller/Snowball",
+    "language": "Python",
+    "name": "KenBoller/Snowball",
+    "stars": 1,
+    "updated_at": "2026-09-23T14:53:31Z",
+    "url": "https://github.com/KenBoller/Snowball"
+  },
+  {
+    "description": "Evidence-linked multi-model database. Documents, graphs and vector search in one Rust binary",
+    "id": "cognigraphdb/cognigraph",
+    "language": "Rust",
+    "name": "cognigraphdb/cognigraph",
+    "stars": 1,
+    "updated_at": "2026-09-23T14:52:51Z",
+    "url": "https://github.com/cognigraphdb/cognigraph"
+  },
+  {
+    "description": "LLM First Graph RAG",
+    "id": "Krokz/grag",
+    "language": "Python",
+    "name": "Krokz/grag",
+    "stars": 2,
+    "updated_at": "2026-09-23T14:49:51Z",
+    "url": "https://github.com/Krokz/grag"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-23T14:46:41Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-23T14:45:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 4,
+    "updated_at": "2026-09-23T14:45:31Z",
+    "url": "https://github.com/d3uceY/vectile"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -99,15 +180,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-23T14:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "End-to-end sovereign personal AI OS (FastAPI + React 19 + Electron). Features local 14B LLMs, wake-word voice pipelines,",
     "id": "AkashKundu114/COPPER",
     "language": "Python",
@@ -149,7 +221,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8265,
-    "updated_at": "2026-09-23T14:22:09Z",
+    "updated_at": "2026-09-23T14:49:10Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -169,6 +241,15 @@
     "stars": 0,
     "updated_at": "2026-09-23T14:20:13Z",
     "url": "https://github.com/Saransh482003/RAGner-Tri-Modal-RAG-Framework"
+  },
+  {
+    "description": "Retrieval Augmented Generation pipeline that indexes the vLLM codebase, retrieves relevant source code/documentation sni",
+    "id": "Jalal-Amourgha/RAG-Against-The-Machine",
+    "language": "Python",
+    "name": "Jalal-Amourgha/RAG-Against-The-Machine",
+    "stars": 0,
+    "updated_at": "2026-09-23T14:20:10Z",
+    "url": "https://github.com/Jalal-Amourgha/RAG-Against-The-Machine"
   },
   {
     "description": "Multi-modal AI platform for automated media verification. Built with MERN, Gemini API, Groq Whisper, and Vector DB.",
@@ -212,17 +293,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1163,
-    "updated_at": "2026-09-23T14:29:53Z",
+    "updated_at": "2026-09-23T14:48:53Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 4,
-    "updated_at": "2026-09-23T14:01:01Z",
-    "url": "https://github.com/d3uceY/vectile"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -232,15 +304,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T13:58:14Z",
     "url": "https://github.com/pwolfey09-sketch/embedflow"
-  },
-  {
-    "description": "Evidence-linked multi-model database. Documents, graphs and vector search in one Rust binary",
-    "id": "cognigraphdb/cognigraph",
-    "language": "Rust",
-    "name": "cognigraphdb/cognigraph",
-    "stars": 1,
-    "updated_at": "2026-09-23T14:21:47Z",
-    "url": "https://github.com/cognigraphdb/cognigraph"
   },
   {
     "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
@@ -275,7 +338,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-09-23T14:45:24Z",
+    "updated_at": "2026-09-23T14:56:20Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -311,7 +374,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 10,
-    "updated_at": "2026-09-23T14:42:11Z",
+    "updated_at": "2026-09-23T14:58:14Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -319,7 +382,7 @@
     "id": "amirhosssein0/ai-platform-lab",
     "language": "Python",
     "name": "amirhosssein0/ai-platform-lab",
-    "stars": 9,
+    "stars": 10,
     "updated_at": "2026-09-23T13:50:43Z",
     "url": "https://github.com/amirhosssein0/ai-platform-lab"
   },
@@ -356,7 +419,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11508,
-    "updated_at": "2026-09-23T14:37:00Z",
+    "updated_at": "2026-09-23T14:51:53Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T13:44:35Z",
     "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 4,
-    "updated_at": "2026-09-23T13:43:44Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-09-23T13:43:02Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-09-23T13:42:22Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-09-23T13:41:36Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-09-23T13:41:19Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-23T13:41:12Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34759,
-    "updated_at": "2026-09-23T14:43:02Z",
-    "url": "https://github.com/qdrant/qdrant"
   }
 ]
