@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T00:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
+    "id": "api-evangelist/datastax",
+    "language": "\u2014",
+    "name": "api-evangelist/datastax",
+    "stars": 0,
+    "updated_at": "2026-09-23T00:24:33Z",
+    "url": "https://github.com/api-evangelist/datastax"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-09-23T00:23:02Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
+    "id": "api-evangelist/crate-io",
+    "language": "\u2014",
+    "name": "api-evangelist/crate-io",
+    "stars": 0,
+    "updated_at": "2026-09-23T00:22:46Z",
+    "url": "https://github.com/api-evangelist/crate-io"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-23T00:22:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-09-23T00:21:52Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 112,
+    "updated_at": "2026-09-23T00:21:36Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "PolicyCue is an AI powered RAG document analysis for websites, PDFs, and policy text with grounded answers, source citat",
+    "id": "Zohaib-mzb/PolicyCue",
+    "language": "Python",
+    "name": "Zohaib-mzb/PolicyCue",
+    "stars": 1,
+    "updated_at": "2026-09-23T00:20:09Z",
+    "url": "https://github.com/Zohaib-mzb/PolicyCue"
+  },
+  {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma",
+    "stars": 0,
+    "updated_at": "2026-09-23T00:19:11Z",
+    "url": "https://github.com/api-evangelist/chroma"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-23T00:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
     "id": "api-evangelist/azure-cosmos-db",
     "language": "\u2014",
@@ -27,24 +117,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-23T00:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T00:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -59,8 +131,17 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 10,
-    "updated_at": "2026-09-23T00:03:39Z",
+    "updated_at": "2026-09-23T00:30:18Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
+    "id": "mattmre/CHELATEDAI",
+    "language": "Python",
+    "name": "mattmre/CHELATEDAI",
+    "stars": 2,
+    "updated_at": "2026-09-22T23:49:19Z",
+    "url": "https://github.com/mattmre/CHELATEDAI"
   },
   {
     "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and ente",
@@ -68,7 +149,7 @@
     "language": "Rust",
     "name": "aicubetechnology/qilbeeDB",
     "stars": 22,
-    "updated_at": "2026-09-23T00:06:47Z",
+    "updated_at": "2026-09-23T00:25:26Z",
     "url": "https://github.com/aicubetechnology/qilbeeDB"
   },
   {
@@ -90,15 +171,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
-    "id": "mattmre/CHELATEDAI",
-    "language": "Python",
-    "name": "mattmre/CHELATEDAI",
-    "stars": 2,
-    "updated_at": "2026-09-22T23:49:19Z",
-    "url": "https://github.com/mattmre/CHELATEDAI"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
@@ -106,15 +178,6 @@
     "stars": 6,
     "updated_at": "2026-09-22T23:37:56Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-22T23:33:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "An agentic, plug-and-play RAG architecture utilizing Two-Stage Vector Retrieval, RAPTOR, and Neo4j Knowledge Graphs for ",
@@ -151,6 +214,24 @@
     "stars": 81,
     "updated_at": "2026-09-22T23:13:16Z",
     "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8262,
+    "updated_at": "2026-09-22T23:13:06Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46220,
+    "updated_at": "2026-09-22T23:07:36Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -194,7 +275,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9298,
-    "updated_at": "2026-09-22T23:37:28Z",
+    "updated_at": "2026-09-23T00:28:30Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -203,7 +284,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 882,
-    "updated_at": "2026-09-22T22:53:06Z",
+    "updated_at": "2026-09-23T00:29:29Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-22T22:15:37Z",
     "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 3,
-    "updated_at": "2026-09-22T22:14:25Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Vector DB Subsystem. Enabling a better dense passage retrieval (DPR) for retrieval augmented generation (RAG) and hybrid",
-    "id": "re-Isearch/Schmate",
-    "language": "Makefile",
-    "name": "re-Isearch/Schmate",
-    "stars": 1,
-    "updated_at": "2026-09-22T22:11:50Z",
-    "url": "https://github.com/re-Isearch/Schmate"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 4,
-    "updated_at": "2026-09-22T22:11:17Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-09-22T22:10:06Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-09-22T22:08:16Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8262,
-    "updated_at": "2026-09-22T23:13:06Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 4,
-    "updated_at": "2026-09-22T22:04:02Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-09-22T22:02:07Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "AI-powered research agent that autonomously searches the web, retrieves relevant information using RAG, and delivers str",
-    "id": "Mohit-Kumar-Thakur/ai-research-agent",
-    "language": "JavaScript",
-    "name": "Mohit-Kumar-Thakur/ai-research-agent",
-    "stars": 0,
-    "updated_at": "2026-09-22T22:01:42Z",
-    "url": "https://github.com/Mohit-Kumar-Thakur/ai-research-agent"
   }
 ]
