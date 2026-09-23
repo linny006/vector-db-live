@@ -1,12 +1,12 @@
 [
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 884,
-    "updated_at": "2026-09-23T22:28:25Z",
-    "url": "https://github.com/orneryd/NornicDB"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T22:45:17Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "",
@@ -14,8 +14,44 @@
     "language": "Python",
     "name": "KenBoller/Snowball",
     "stars": 1,
-    "updated_at": "2026-09-23T22:28:15Z",
+    "updated_at": "2026-09-23T22:42:29Z",
     "url": "https://github.com/KenBoller/Snowball"
+  },
+  {
+    "description": "Aplicaci\u00f3n RAG local desarrollada con Spring Boot, Java 21, Spring AI, PostgreSQL (pgvector), Apache Tika y Ollama.",
+    "id": "cris959/spring-ai-rag",
+    "language": "Java",
+    "name": "cris959/spring-ai-rag",
+    "stars": 0,
+    "updated_at": "2026-09-23T22:38:04Z",
+    "url": "https://github.com/cris959/spring-ai-rag"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 884,
+    "updated_at": "2026-09-23T22:34:14Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-23T22:34:10Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-23T22:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "FastAPI + Qdrant vector storage and retrieval service for the ICICLE AI Tapis tenant. ",
@@ -54,15 +90,6 @@
     "url": "https://github.com/desikai-lab/Marrow"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-23T22:17:19Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -70,15 +97,6 @@
     "stars": 46241,
     "updated_at": "2026-09-23T22:21:35Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T22:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An agentic, plug-and-play RAG architecture utilizing Two-Stage Vector Retrieval, RAPTOR, and Neo4j Knowledge Graphs for ",
@@ -97,15 +115,6 @@
     "stars": 115,
     "updated_at": "2026-09-23T22:09:10Z",
     "url": "https://github.com/ogham-mcp/ogham-mcp"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-23T22:08:12Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores",
@@ -131,7 +140,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-23T22:06:28Z",
+    "updated_at": "2026-09-23T22:36:02Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -410,7 +419,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11511,
-    "updated_at": "2026-09-23T22:28:10Z",
+    "updated_at": "2026-09-23T22:38:01Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T21:29:05Z",
     "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
-    "id": "Anonymousforareason111/hybrid-orchestrator",
-    "language": "Python",
-    "name": "Anonymousforareason111/hybrid-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-09-23T21:27:50Z",
-    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
   }
 ]
