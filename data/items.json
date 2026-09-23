@@ -1,5 +1,32 @@
 [
   {
+    "description": "RAG \ud30c\uc774\ud504\ub77c\uc778\uc744 \ucc98\uc74c\ubd80\ud130 \ub9cc\ub4e4\uc5b4\ubcf4\ub294 PoC. \uccad\ud0b9\u00b7\uc784\ubca0\ub529\u00b7\ubca1\ud130 DB \ub97c \ub2e8\uacc4\ub9c8\ub2e4 \uc65c \uadf8\ub807\uac8c \uace8\ub790\ub294\uc9c0 \uae30\ub85d (bge-m3 + Qdrant)",
+    "id": "YunanJeong/rag-poc",
+    "language": "Python",
+    "name": "YunanJeong/rag-poc",
+    "stars": 0,
+    "updated_at": "2026-09-23T10:15:24Z",
+    "url": "https://github.com/YunanJeong/rag-poc"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T10:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-23T10:14:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Redis Vector Library. The AI-native Python client for Redis.",
     "id": "redis/redis-vl-python",
     "language": "Python",
@@ -63,15 +90,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-23T10:01:06Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -106,15 +124,6 @@
     "stars": 1163,
     "updated_at": "2026-09-23T10:12:31Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T10:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -171,13 +180,13 @@
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
-    "description": "RAG \ud30c\uc774\ud504\ub77c\uc778\uc744 \ucc98\uc74c\ubd80\ud130 \ub9cc\ub4e4\uc5b4\ubcf4\ub294 PoC. \uccad\ud0b9\u00b7\uc784\ubca0\ub529\u00b7\ubca1\ud130 DB \ub97c \ub2e8\uacc4\ub9c8\ub2e4 \uc65c \uadf8\ub807\uac8c \uace8\ub790\ub294\uc9c0 \uae30\ub85d (bge-m3 + Qdrant)",
-    "id": "YunanJeong/rag-poc",
-    "language": "Python",
-    "name": "YunanJeong/rag-poc",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:49:30Z",
-    "url": "https://github.com/YunanJeong/rag-poc"
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9299,
+    "updated_at": "2026-09-23T09:49:07Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -439,14 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-23T09:23:24Z",
     "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
-    "id": "Anonymousforareason111/hybrid-orchestrator",
-    "language": "Python",
-    "name": "Anonymousforareason111/hybrid-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-09-23T09:22:14Z",
-    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
   }
 ]
