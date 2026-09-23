@@ -1,5 +1,176 @@
 [
   {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-23T01:14:48Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 3,
+    "updated_at": "2026-09-23T01:14:25Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "SequoiaDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distribut",
+    "id": "api-evangelist/sequoiadb",
+    "language": "\u2014",
+    "name": "api-evangelist/sequoiadb",
+    "stars": 0,
+    "updated_at": "2026-09-23T01:13:59Z",
+    "url": "https://github.com/api-evangelist/sequoiadb"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-09-23T01:13:10Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46221,
+    "updated_at": "2026-09-23T01:09:35Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-09-23T01:09:07Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "RAGFlow \u2014 independent third-party profile of a public API surface, by API Evangelist. RAGFlow is the open-source Retriev",
+    "id": "api-evangelist/ragflow",
+    "language": "\u2014",
+    "name": "api-evangelist/ragflow",
+    "stars": 0,
+    "updated_at": "2026-09-23T01:08:16Z",
+    "url": "https://github.com/api-evangelist/ragflow"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-09-23T01:07:20Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-23T01:07:15Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-09-23T01:06:32Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-23T01:05:54Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 2,
+    "updated_at": "2026-09-23T01:05:09Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-09-23T01:04:56Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
+    "id": "mattmre/CHELATEDAI",
+    "language": "Python",
+    "name": "mattmre/CHELATEDAI",
+    "stars": 2,
+    "updated_at": "2026-09-23T01:03:01Z",
+    "url": "https://github.com/mattmre/CHELATEDAI"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
+    "id": "SAHIXXX12/AI-Search-Engine",
+    "language": "TypeScript",
+    "name": "SAHIXXX12/AI-Search-Engine",
+    "stars": 0,
+    "updated_at": "2026-09-23T01:02:20Z",
+    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
+  },
+  {
+    "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and ente",
+    "id": "aicubetechnology/qilbeeDB",
+    "language": "Rust",
+    "name": "aicubetechnology/qilbeeDB",
+    "stars": 22,
+    "updated_at": "2026-09-23T01:12:19Z",
+    "url": "https://github.com/aicubetechnology/qilbeeDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-23T01:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T01:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "OceanBase is the unified distributed database for the AI era \u2014 open-source, multi-model, one engine for your most demand",
+    "id": "oceanbase/oceanbase",
+    "language": "C++",
+    "name": "oceanbase/oceanbase",
+    "stars": 10285,
+    "updated_at": "2026-09-23T01:00:38Z",
+    "url": "https://github.com/oceanbase/oceanbase"
+  },
+  {
     "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
     "id": "techdomegh/ai-news-scraper",
     "language": "Python",
@@ -41,7 +212,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-23T00:57:53Z",
+    "updated_at": "2026-09-23T01:12:40Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -81,15 +252,6 @@
     "url": "https://github.com/api-evangelist/mixedbread-ai"
   },
   {
-    "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and ente",
-    "id": "aicubetechnology/qilbeeDB",
-    "language": "Rust",
-    "name": "aicubetechnology/qilbeeDB",
-    "stars": 22,
-    "updated_at": "2026-09-23T00:53:16Z",
-    "url": "https://github.com/aicubetechnology/qilbeeDB"
-  },
-  {
     "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
     "id": "api-evangelist/milvus",
     "language": "\u2014",
@@ -106,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T00:50:57Z",
     "url": "https://github.com/api-evangelist/marqo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-23T00:49:37Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "LF AI and Data \u2014 independent third-party profile of a public API surface, by API Evangelist. The LF AI & Data Foundation",
@@ -135,15 +288,6 @@
     "url": "https://github.com/api-evangelist/lancedb"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T01:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
     "id": "api-evangelist/ironcore-labs",
     "language": "\u2014",
@@ -151,15 +295,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T00:43:40Z",
     "url": "https://github.com/api-evangelist/ironcore-labs"
-  },
-  {
-    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
-    "id": "mattmre/CHELATEDAI",
-    "language": "Python",
-    "name": "mattmre/CHELATEDAI",
-    "stars": 2,
-    "updated_at": "2026-09-23T00:49:16Z",
-    "url": "https://github.com/mattmre/CHELATEDAI"
   },
   {
     "description": "An embeddable vector database in Rust \u2014 no server, SQLite-style. HNSW + BM25 + hybrid + filtered search, in-process.",
@@ -223,15 +358,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T00:22:46Z",
     "url": "https://github.com/api-evangelist/crate-io"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-23T00:22:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
@@ -311,7 +437,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 10,
-    "updated_at": "2026-09-23T00:30:18Z",
+    "updated_at": "2026-09-23T01:13:02Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 11,
     "updated_at": "2026-09-22T23:45:50Z",
     "url": "https://github.com/hoffresearch/urna"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-22T23:42:26Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-09-22T23:37:56Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "An agentic, plug-and-play RAG architecture utilizing Two-Stage Vector Retrieval, RAPTOR, and Neo4j Knowledge Graphs for ",
-    "id": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
-    "language": "JavaScript",
-    "name": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
-    "stars": 0,
-    "updated_at": "2026-09-22T23:29:22Z",
-    "url": "https://github.com/Saransh482003/RAGner-Tri-Modal-RAG-Framework"
-  },
-  {
-    "description": "Federated RAG that picks the right store with arithmetic, not an agent. Runs locally based on Vulkan.",
-    "id": "diegormirhan/polyrag",
-    "language": "Python",
-    "name": "diegormirhan/polyrag",
-    "stars": 1,
-    "updated_at": "2026-09-22T23:26:46Z",
-    "url": "https://github.com/diegormirhan/polyrag"
-  },
-  {
-    "description": "ID-based RAG FastAPI: Integration with Langchain and PostgreSQL/pgvector",
-    "id": "LibreChat-AI/rag-api",
-    "language": "Python",
-    "name": "LibreChat-AI/rag-api",
-    "stars": 904,
-    "updated_at": "2026-09-22T23:26:33Z",
-    "url": "https://github.com/LibreChat-AI/rag-api"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 81,
-    "updated_at": "2026-09-22T23:13:16Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8262,
-    "updated_at": "2026-09-22T23:13:06Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46220,
-    "updated_at": "2026-09-23T00:53:35Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 18,
-    "updated_at": "2026-09-22T23:06:15Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1624,
-    "updated_at": "2026-09-22T23:03:28Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
-    "id": "StarTrail-org/LEANN",
-    "language": "Python",
-    "name": "StarTrail-org/LEANN",
-    "stars": 12957,
-    "updated_at": "2026-09-22T23:00:56Z",
-    "url": "https://github.com/StarTrail-org/LEANN"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1161,
-    "updated_at": "2026-09-22T22:56:43Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9298,
-    "updated_at": "2026-09-23T00:53:58Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on ",
-    "id": "zacharydenton/hrxdb",
-    "language": "Rust",
-    "name": "zacharydenton/hrxdb",
-    "stars": 0,
-    "updated_at": "2026-09-22T22:45:13Z",
-    "url": "https://github.com/zacharydenton/hrxdb"
   }
 ]
