@@ -1,11 +1,101 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T04:15:17Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-09-23T04:15:03Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-23T04:15:03Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "FastAPI + Qdrant vector storage and retrieval service for the ICICLE AI Tapis tenant. ",
+    "id": "ICICLE-ai/icicle-ai-vector-service",
+    "language": "Python",
+    "name": "ICICLE-ai/icicle-ai-vector-service",
+    "stars": 1,
+    "updated_at": "2026-09-23T04:11:12Z",
+    "url": "https://github.com/ICICLE-ai/icicle-ai-vector-service"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-23T04:10:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-09-23T04:10:57Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Spring AI vs LangChain4j vs SAA \u4e09\u6846\u67b6\u540c\u53f0\u5bf9\u6bd4\uff08\u914d\u5957\u7bc72\uff09",
+    "id": "java-ai-in-action/framework-compare",
+    "language": "Java",
+    "name": "java-ai-in-action/framework-compare",
+    "stars": 4,
+    "updated_at": "2026-09-23T04:10:26Z",
+    "url": "https://github.com/java-ai-in-action/framework-compare"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 81,
+    "updated_at": "2026-09-23T04:08:09Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-23T04:13:58Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-23T04:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-23T03:59:58Z",
+    "updated_at": "2026-09-23T04:03:33Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -14,7 +104,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46222,
-    "updated_at": "2026-09-23T03:57:33Z",
+    "updated_at": "2026-09-23T04:15:11Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -45,15 +135,6 @@
     "url": "https://github.com/kunal-rathore-111/Neptune"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-23T03:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on ",
     "id": "zacharydenton/hrxdb",
     "language": "Rust",
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T03:45:20Z",
     "url": "https://github.com/zacharydenton/hrxdb"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T03:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vecto",
@@ -81,24 +153,6 @@
     "url": "https://github.com/infiniflow/infinity"
   },
   {
-    "description": "FastAPI + Qdrant vector storage and retrieval service for the ICICLE AI Tapis tenant. ",
-    "id": "ICICLE-ai/icicle-ai-vector-service",
-    "language": "Python",
-    "name": "ICICLE-ai/icicle-ai-vector-service",
-    "stars": 1,
-    "updated_at": "2026-09-23T03:43:01Z",
-    "url": "https://github.com/ICICLE-ai/icicle-ai-vector-service"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-09-23T03:51:04Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
     "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
     "id": "devharis99/vectra",
     "language": "Python",
@@ -106,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T03:41:30Z",
     "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-23T03:39:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -239,7 +284,7 @@
     "language": "Python",
     "name": "Open-Source-Legal/OpenContracts",
     "stars": 1487,
-    "updated_at": "2026-09-23T03:55:43Z",
+    "updated_at": "2026-09-23T04:14:38Z",
     "url": "https://github.com/Open-Source-Legal/OpenContracts"
   },
   {
@@ -279,15 +324,6 @@
     "url": "https://github.com/milvus-io/pymilvus"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-23T03:47:35Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
     "id": "leo2007960216/deeprecall",
     "language": "Python",
@@ -306,15 +342,6 @@
     "url": "https://github.com/kirill2911/awesome-vector-search"
   },
   {
-    "description": "Spring AI vs LangChain4j vs SAA \u4e09\u6846\u67b6\u540c\u53f0\u5bf9\u6bd4\uff08\u914d\u5957\u7bc72\uff09",
-    "id": "java-ai-in-action/framework-compare",
-    "language": "Java",
-    "name": "java-ai-in-action/framework-compare",
-    "stars": 4,
-    "updated_at": "2026-09-23T03:17:30Z",
-    "url": "https://github.com/java-ai-in-action/framework-compare"
-  },
-  {
     "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
     "id": "buitoan112233/EleutherIA",
     "language": "Shell",
@@ -322,15 +349,6 @@
     "stars": 2,
     "updated_at": "2026-09-23T03:16:39Z",
     "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-09-23T03:16:18Z",
-    "url": "https://github.com/23skdu/longbow"
   },
   {
     "description": "",
@@ -347,7 +365,7 @@
     "language": "Rust",
     "name": "aicubetechnology/qilbeeDB",
     "stars": 22,
-    "updated_at": "2026-09-23T03:54:11Z",
+    "updated_at": "2026-09-23T04:14:05Z",
     "url": "https://github.com/aicubetechnology/qilbeeDB"
   },
   {
@@ -405,15 +423,6 @@
     "url": "https://github.com/ribagolx10/crossvector"
   },
   {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 81,
-    "updated_at": "2026-09-23T03:03:14Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
     "id": "Separative-involucre520/SearchPaperByEmbedding",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-23T03:00:36Z",
     "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
-  },
-  {
-    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
-    "id": "fub05/MCP---Agent-Starter-Kit",
-    "language": "Python",
-    "name": "fub05/MCP---Agent-Starter-Kit",
-    "stars": 6,
-    "updated_at": "2026-09-23T02:59:59Z",
-    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
   }
 ]
