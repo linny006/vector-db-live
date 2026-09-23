@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T21:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An agentic, plug-and-play RAG architecture utilizing Two-Stage Vector Retrieval, RAPTOR, and Neo4j Knowledge Graphs for ",
+    "id": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
+    "language": "JavaScript",
+    "name": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
+    "stars": 0,
+    "updated_at": "2026-09-23T21:15:13Z",
+    "url": "https://github.com/Saransh482003/RAGner-Tri-Modal-RAG-Framework"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-09-23T21:13:39Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "Semantic long-term memory extension for SillyTavern. RAG, Knowledge Graph, Lorebook ingestion",
+    "id": "ShinRalexis/Silly-Tavern-MemPalace-Extension",
+    "language": "JavaScript",
+    "name": "ShinRalexis/Silly-Tavern-MemPalace-Extension",
+    "stars": 1,
+    "updated_at": "2026-09-23T21:09:33Z",
+    "url": "https://github.com/ShinRalexis/Silly-Tavern-MemPalace-Extension"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-23T21:08:18Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
+    "id": "roberto729a/OllamaRAG",
+    "language": "Python",
+    "name": "roberto729a/OllamaRAG",
+    "stars": 6,
+    "updated_at": "2026-09-23T21:08:15Z",
+    "url": "https://github.com/roberto729a/OllamaRAG"
+  },
+  {
+    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
+    "id": "Shajo777/SupaAI-Framework-Template",
+    "language": "\u2014",
+    "name": "Shajo777/SupaAI-Framework-Template",
+    "stars": 0,
+    "updated_at": "2026-09-23T21:06:15Z",
+    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
+  },
+  {
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-09-23T21:05:43Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 95,
+    "updated_at": "2026-09-23T21:02:06Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-09-23T21:01:46Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 884,
+    "updated_at": "2026-09-23T21:00:29Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-23T21:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
@@ -18,15 +126,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 884,
-    "updated_at": "2026-09-23T20:56:17Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
@@ -43,24 +142,6 @@
     "stars": 6,
     "updated_at": "2026-09-23T20:47:26Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-23T20:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T21:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "cyborginc/cyborgdb-py",
     "stars": 8,
-    "updated_at": "2026-09-23T20:47:16Z",
+    "updated_at": "2026-09-23T21:13:27Z",
     "url": "https://github.com/cyborginc/cyborgdb-py"
   },
   {
@@ -144,15 +225,6 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-23T20:36:05Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Spring Data Reindexer",
     "id": "evgeniycheban/spring-data-reindexer",
     "language": "Java",
@@ -187,15 +259,6 @@
     "stars": 108,
     "updated_at": "2026-09-23T20:33:11Z",
     "url": "https://github.com/Nayjest/ai-microcore"
-  },
-  {
-    "description": "An agentic, plug-and-play RAG architecture utilizing Two-Stage Vector Retrieval, RAPTOR, and Neo4j Knowledge Graphs for ",
-    "id": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
-    "language": "JavaScript",
-    "name": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
-    "stars": 0,
-    "updated_at": "2026-09-23T20:01:51Z",
-    "url": "https://github.com/Saransh482003/RAGner-Tri-Modal-RAG-Framework"
   },
   {
     "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
@@ -385,68 +448,5 @@
     "stars": 22,
     "updated_at": "2026-09-23T18:58:56Z",
     "url": "https://github.com/aicubetechnology/qilbeeDB"
-  },
-  {
-    "description": "An interactive marimo notebook on ICICLE AI Tapis services, a hands-on RAG playground that shows every step, from embedd",
-    "id": "ICICLE-ai/icicle-chatbook",
-    "language": "Python",
-    "name": "ICICLE-ai/icicle-chatbook",
-    "stars": 3,
-    "updated_at": "2026-09-23T18:51:53Z",
-    "url": "https://github.com/ICICLE-ai/icicle-chatbook"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:51:00Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-23T19:26:14Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1163,
-    "updated_at": "2026-09-23T18:40:54Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
-    "id": "pwolfey09-sketch/embedflow",
-    "language": "Python",
-    "name": "pwolfey09-sketch/embedflow",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:40:23Z",
-    "url": "https://github.com/pwolfey09-sketch/embedflow"
-  },
-  {
-    "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
-    "id": "Constraintworthy6058/ai-github-repository-assistant",
-    "language": "TypeScript",
-    "name": "Constraintworthy6058/ai-github-repository-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-23T18:39:49Z",
-    "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
-  },
-  {
-    "description": "",
-    "id": "threefigure-achromia682/ai-memory",
-    "language": "\u2014",
-    "name": "threefigure-achromia682/ai-memory",
-    "stars": 1,
-    "updated_at": "2026-09-23T18:37:57Z",
-    "url": "https://github.com/threefigure-achromia682/ai-memory"
   }
 ]
