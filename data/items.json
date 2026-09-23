@@ -1,30 +1,66 @@
 [
   {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6241,
+    "updated_at": "2026-09-23T10:27:37Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-23T10:26:45Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-23T10:29:53Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16839,
+    "updated_at": "2026-09-23T10:23:08Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
     "description": "RAG \ud30c\uc774\ud504\ub77c\uc778\uc744 \ucc98\uc74c\ubd80\ud130 \ub9cc\ub4e4\uc5b4\ubcf4\ub294 PoC. \uccad\ud0b9\u00b7\uc784\ubca0\ub529\u00b7\ubca1\ud130 DB \ub97c \ub2e8\uacc4\ub9c8\ub2e4 \uc65c \uadf8\ub807\uac8c \uace8\ub790\ub294\uc9c0 \uae30\ub85d (bge-m3 + Qdrant)",
     "id": "YunanJeong/rag-poc",
     "language": "Python",
     "name": "YunanJeong/rag-poc",
     "stars": 0,
-    "updated_at": "2026-09-23T10:15:24Z",
+    "updated_at": "2026-09-23T10:20:14Z",
     "url": "https://github.com/YunanJeong/rag-poc"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T10:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
+    "id": "Siddhant-K-code/distill",
+    "language": "Go",
+    "name": "Siddhant-K-code/distill",
+    "stars": 180,
+    "updated_at": "2026-09-23T10:19:38Z",
+    "url": "https://github.com/Siddhant-K-code/distill"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-23T10:14:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6084,
+    "updated_at": "2026-09-23T10:19:01Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Redis Vector Library. The AI-native Python client for Redis.",
@@ -32,8 +68,35 @@
     "language": "Python",
     "name": "redis/redis-vl-python",
     "stars": 428,
-    "updated_at": "2026-09-23T10:13:50Z",
+    "updated_at": "2026-09-23T10:17:55Z",
     "url": "https://github.com/redis/redis-vl-python"
+  },
+  {
+    "description": "Multi-agent clinical AI system built with LangGraph, LangChain, ChromaDB, FastAPI, and Gemini. Processes medical reports",
+    "id": "pranav-varma13/MultiAgent_Clinical_Intelligence_system",
+    "language": "Python",
+    "name": "pranav-varma13/MultiAgent_Clinical_Intelligence_system",
+    "stars": 1,
+    "updated_at": "2026-09-23T10:17:07Z",
+    "url": "https://github.com/pranav-varma13/MultiAgent_Clinical_Intelligence_system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-23T10:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T10:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
@@ -59,17 +122,8 @@
     "language": "Python",
     "name": "sahnsookyung/JobScout",
     "stars": 2,
-    "updated_at": "2026-09-23T10:08:09Z",
+    "updated_at": "2026-09-23T10:27:08Z",
     "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
-    "id": "Siddhant-K-code/distill",
-    "language": "Go",
-    "name": "Siddhant-K-code/distill",
-    "stars": 180,
-    "updated_at": "2026-09-23T10:04:09Z",
-    "url": "https://github.com/Siddhant-K-code/distill"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -77,17 +131,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 5,
-    "updated_at": "2026-09-23T10:04:25Z",
+    "updated_at": "2026-09-23T10:29:58Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-23T10:08:56Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -122,8 +167,17 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1163,
-    "updated_at": "2026-09-23T10:12:31Z",
+    "updated_at": "2026-09-23T10:16:02Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30934,
+    "updated_at": "2026-09-23T10:28:26Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -158,7 +212,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7107,
-    "updated_at": "2026-09-23T09:51:12Z",
+    "updated_at": "2026-09-23T10:23:20Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 112,
     "updated_at": "2026-09-23T09:29:48Z",
     "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
-    "id": "ldclabs/anda-db",
-    "language": "Rust",
-    "name": "ldclabs/anda-db",
-    "stars": 31,
-    "updated_at": "2026-09-23T09:29:31Z",
-    "url": "https://github.com/ldclabs/anda-db"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-09-23T09:28:45Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-09-23T09:28:19Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-09-23T09:28:02Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-09-23T09:24:16Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-09-23T09:23:24Z",
-    "url": "https://github.com/a258huit58/claude-memory"
   }
 ]
