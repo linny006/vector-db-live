@@ -1,5 +1,176 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T23:45:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
+    "id": "pwolfey09-sketch/embedflow",
+    "language": "Python",
+    "name": "pwolfey09-sketch/embedflow",
+    "stars": 0,
+    "updated_at": "2026-09-23T23:42:42Z",
+    "url": "https://github.com/pwolfey09-sketch/embedflow"
+  },
+  {
+    "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
+    "id": "Constraintworthy6058/ai-github-repository-assistant",
+    "language": "TypeScript",
+    "name": "Constraintworthy6058/ai-github-repository-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-23T23:41:38Z",
+    "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11511,
+    "updated_at": "2026-09-23T23:41:01Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66380,
+    "updated_at": "2026-09-23T23:43:28Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "",
+    "id": "threefigure-achromia682/ai-memory",
+    "language": "\u2014",
+    "name": "threefigure-achromia682/ai-memory",
+    "stars": 1,
+    "updated_at": "2026-09-23T23:40:21Z",
+    "url": "https://github.com/threefigure-achromia682/ai-memory"
+  },
+  {
+    "description": "Curated, graph-aware retrieval substrate for human-AI teams \u2014 RAG + reranker + curation surface. The casebook to kos's p",
+    "id": "ArcavenAE/flyloft",
+    "language": "Rust",
+    "name": "ArcavenAE/flyloft",
+    "stars": 0,
+    "updated_at": "2026-09-23T23:40:00Z",
+    "url": "https://github.com/ArcavenAE/flyloft"
+  },
+  {
+    "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
+    "id": "alegameplays14-del/leica-infinity-2026",
+    "language": "\u2014",
+    "name": "alegameplays14-del/leica-infinity-2026",
+    "stars": 0,
+    "updated_at": "2026-09-23T23:39:34Z",
+    "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
+  },
+  {
+    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
+    "id": "Divine-vision-visiondivine21/less-tokens",
+    "language": "\u2014",
+    "name": "Divine-vision-visiondivine21/less-tokens",
+    "stars": 0,
+    "updated_at": "2026-09-23T23:38:35Z",
+    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
+  },
+  {
+    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
+    "id": "Wry-letters233/notes-quiz-agent",
+    "language": "JavaScript",
+    "name": "Wry-letters233/notes-quiz-agent",
+    "stars": 0,
+    "updated_at": "2026-09-23T23:38:09Z",
+    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
+  },
+  {
+    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
+    "id": "retrograde-prosceniumwall239/ai-search-engine",
+    "language": "Python",
+    "name": "retrograde-prosceniumwall239/ai-search-engine",
+    "stars": 2,
+    "updated_at": "2026-09-23T23:38:04Z",
+    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
+  },
+  {
+    "description": "Red Queen v2 is a multi-agent orchestration backend powering the Red Queen Council. It features a robust consensus engin",
+    "id": "Strawbrryvape/_red_queen",
+    "language": "JavaScript",
+    "name": "Strawbrryvape/_red_queen",
+    "stars": 0,
+    "updated_at": "2026-09-23T23:37:35Z",
+    "url": "https://github.com/Strawbrryvape/_red_queen"
+  },
+  {
+    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
+    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "language": "Jupyter Notebook",
+    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
+    "stars": 0,
+    "updated_at": "2026-09-23T23:34:55Z",
+    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-23T23:34:07Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
+    "id": "constancywoodsy286/agentic-rag-for-practice",
+    "language": "Python",
+    "name": "constancywoodsy286/agentic-rag-for-practice",
+    "stars": 1,
+    "updated_at": "2026-09-23T23:32:06Z",
+    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
+  },
+  {
+    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
+    "id": "sarcosomebankcheck694/coordinode",
+    "language": "Rust",
+    "name": "sarcosomebankcheck694/coordinode",
+    "stars": 0,
+    "updated_at": "2026-09-23T23:30:55Z",
+    "url": "https://github.com/sarcosomebankcheck694/coordinode"
+  },
+  {
+    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
+    "id": "Rippledirham767/LongParser",
+    "language": "Python",
+    "name": "Rippledirham767/LongParser",
+    "stars": 1,
+    "updated_at": "2026-09-23T23:30:50Z",
+    "url": "https://github.com/Rippledirham767/LongParser"
+  },
+  {
+    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
+    "id": "cornelablastular720/dbdb-index",
+    "language": "Go",
+    "name": "cornelablastular720/dbdb-index",
+    "stars": 1,
+    "updated_at": "2026-09-23T23:30:42Z",
+    "url": "https://github.com/cornelablastular720/dbdb-index"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-23T23:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
     "id": "Ac3v3d0/semafold",
     "language": "Python",
@@ -144,24 +315,6 @@
     "url": "https://github.com/ELSAKKK/mnemos-mcp"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-23T23:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T23:15:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
     "id": "BiggerCap/agentops-hub",
     "language": "TypeScript",
@@ -252,15 +405,6 @@
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-23T23:06:49Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "",
     "id": "juliusadroit905/RAG-vs-Fine-Tuning",
     "language": "\u2014",
@@ -275,7 +419,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1163,
-    "updated_at": "2026-09-23T23:14:53Z",
+    "updated_at": "2026-09-23T23:44:59Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -304,149 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T22:58:36Z",
     "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 95,
-    "updated_at": "2026-09-23T23:25:32Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
-  },
-  {
-    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
-    "id": "hfgwygey/yu-ai-agent",
-    "language": "Java",
-    "name": "hfgwygey/yu-ai-agent",
-    "stars": 95,
-    "updated_at": "2026-09-23T22:55:11Z",
-    "url": "https://github.com/hfgwygey/yu-ai-agent"
-  },
-  {
-    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
-    "id": "zmwzmo11130/neuraldocs",
-    "language": "Python",
-    "name": "zmwzmo11130/neuraldocs",
-    "stars": 2,
-    "updated_at": "2026-09-23T22:54:49Z",
-    "url": "https://github.com/zmwzmo11130/neuraldocs"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-23T22:45:51Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Aplicaci\u00f3n RAG local desarrollada con Spring Boot, Java 21, Spring AI, PostgreSQL (pgvector), Apache Tika y Ollama.",
-    "id": "cris959/spring-ai-rag",
-    "language": "Java",
-    "name": "cris959/spring-ai-rag",
-    "stars": 0,
-    "updated_at": "2026-09-23T22:38:04Z",
-    "url": "https://github.com/cris959/spring-ai-rag"
-  },
-  {
-    "description": "FastAPI + Qdrant vector storage and retrieval service for the ICICLE AI Tapis tenant. ",
-    "id": "ICICLE-ai/icicle-ai-vector-service",
-    "language": "Python",
-    "name": "ICICLE-ai/icicle-ai-vector-service",
-    "stars": 1,
-    "updated_at": "2026-09-23T22:24:57Z",
-    "url": "https://github.com/ICICLE-ai/icicle-ai-vector-service"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-23T22:24:50Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-09-23T22:23:16Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
-    "id": "desikai-lab/Marrow",
-    "language": "Python",
-    "name": "desikai-lab/Marrow",
-    "stars": 7,
-    "updated_at": "2026-09-23T22:19:40Z",
-    "url": "https://github.com/desikai-lab/Marrow"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46241,
-    "updated_at": "2026-09-23T22:21:35Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "An agentic, plug-and-play RAG architecture utilizing Two-Stage Vector Retrieval, RAPTOR, and Neo4j Knowledge Graphs for ",
-    "id": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
-    "language": "JavaScript",
-    "name": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
-    "stars": 0,
-    "updated_at": "2026-09-23T22:13:17Z",
-    "url": "https://github.com/Saransh482003/RAGner-Tri-Modal-RAG-Framework"
-  },
-  {
-    "description": "Shared memory MCP server \u2014 persistent, searchable, cross-client Claude, Opencode",
-    "id": "ogham-mcp/ogham-mcp",
-    "language": "Python",
-    "name": "ogham-mcp/ogham-mcp",
-    "stars": 115,
-    "updated_at": "2026-09-23T22:09:10Z",
-    "url": "https://github.com/ogham-mcp/ogham-mcp"
-  },
-  {
-    "description": "Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores",
-    "id": "4thel00z/qdrant-operator",
-    "language": "Python",
-    "name": "4thel00z/qdrant-operator",
-    "stars": 1,
-    "updated_at": "2026-09-23T22:10:36Z",
-    "url": "https://github.com/4thel00z/qdrant-operator"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-23T22:04:03Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34768,
-    "updated_at": "2026-09-23T23:07:40Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "PolicyCue is an AI powered RAG document analysis for websites, PDFs, and policy text with grounded answers, source citat",
-    "id": "Zohaib-mzb/PolicyCue",
-    "language": "Python",
-    "name": "Zohaib-mzb/PolicyCue",
-    "stars": 1,
-    "updated_at": "2026-09-23T21:54:04Z",
-    "url": "https://github.com/Zohaib-mzb/PolicyCue"
   }
 ]
