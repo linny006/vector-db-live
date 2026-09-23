@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-23T17:15:20Z",
+    "updated_at": "2026-09-23T17:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-23T17:28:50Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 95,
+    "updated_at": "2026-09-23T17:28:43Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 25,
+    "updated_at": "2026-09-23T17:28:11Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -14,8 +41,44 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 884,
-    "updated_at": "2026-09-23T17:13:14Z",
+    "updated_at": "2026-09-23T17:26:56Z",
     "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9300,
+    "updated_at": "2026-09-23T17:29:08Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-09-23T17:19:46Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "RAG-powered anime recommendation bot.",
+    "id": "izynegallardo/watchuwanime",
+    "language": "JavaScript",
+    "name": "izynegallardo/watchuwanime",
+    "stars": 0,
+    "updated_at": "2026-09-23T17:18:31Z",
+    "url": "https://github.com/izynegallardo/watchuwanime"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-23T17:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "FastAPI + Qdrant vector storage and retrieval service for the ICICLE AI Tapis tenant. ",
@@ -68,26 +131,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11508,
-    "updated_at": "2026-09-23T17:14:30Z",
+    "updated_at": "2026-09-23T17:23:10Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-09-23T17:12:59Z",
-    "url": "https://github.com/nadeem4/nl2sql"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-23T17:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Head of Product & Experience at Distinct AI. Official n8n creator building production-grade agentic RAG, multi-agent sys",
@@ -131,17 +176,8 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 290,
-    "updated_at": "2026-09-23T16:57:40Z",
+    "updated_at": "2026-09-23T17:18:17Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9300,
-    "updated_at": "2026-09-23T17:11:31Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "TitanRAG - An open-source RAG infrastructure for building scalable, multi-tenant and multimodal AI applications.",
@@ -194,7 +230,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-23T17:15:20Z",
+    "updated_at": "2026-09-23T17:22:39Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -205,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-23T16:44:22Z",
     "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "\ud83d\ude80 Self-hosted AI automation platform. Deploy n8n, Ollama, Flowise, RAG, Supabase & 30+ tools with one command. Auto HTTP",
-    "id": "kossakovsky/selfhost-ai",
-    "language": "Shell",
-    "name": "kossakovsky/selfhost-ai",
-    "stars": 936,
-    "updated_at": "2026-09-23T16:42:26Z",
-    "url": "https://github.com/kossakovsky/selfhost-ai"
   },
   {
     "description": "AI habit coach on a live habit tracker: a tool-calling Claude agent with RAG over habit research, SSE streaming, and a f",
@@ -257,7 +284,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30944,
-    "updated_at": "2026-09-23T17:11:25Z",
+    "updated_at": "2026-09-23T17:25:40Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -286,15 +313,6 @@
     "stars": 1163,
     "updated_at": "2026-09-23T16:13:55Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 25,
-    "updated_at": "2026-09-23T16:08:27Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
     "description": "\ud83e\udd16 Intelligent RAG chatbot with dual modes: COVID-19 medical assistant + custom document Q&A. Built with LangChain, Chrom",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T15:47:35Z",
     "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-09-23T15:47:18Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 4,
-    "updated_at": "2026-09-23T15:46:28Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
   }
 ]
