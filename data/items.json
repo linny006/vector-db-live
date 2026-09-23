@@ -1,5 +1,176 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T01:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 1,
+    "updated_at": "2026-09-23T01:29:23Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
+  },
+  {
+    "description": "Vespa \u2014 independent third-party profile of a public API surface, by API Evangelist. Vespa is an open-source AI search en",
+    "id": "api-evangelist/vespa-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/vespa-ai",
+    "stars": 0,
+    "updated_at": "2026-09-23T01:29:13Z",
+    "url": "https://github.com/api-evangelist/vespa-ai"
+  },
+  {
+    "description": "Vectorize \u2014 independent third-party profile of a public API surface, by API Evangelist. Vectorize is a RAG (retrieval-au",
+    "id": "api-evangelist/vectorize-io",
+    "language": "\u2014",
+    "name": "api-evangelist/vectorize-io",
+    "stars": 0,
+    "updated_at": "2026-09-23T01:28:39Z",
+    "url": "https://github.com/api-evangelist/vectorize-io"
+  },
+  {
+    "description": "Upstash \u2014 independent third-party profile of a public API surface, by API Evangelist. Upstash provides serverless data p",
+    "id": "api-evangelist/upstash",
+    "language": "\u2014",
+    "name": "api-evangelist/upstash",
+    "stars": 0,
+    "updated_at": "2026-09-23T01:27:29Z",
+    "url": "https://github.com/api-evangelist/upstash"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-09-23T01:27:51Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
+    "id": "LuisinTheLegend/ConciergeGraph",
+    "language": "Python",
+    "name": "LuisinTheLegend/ConciergeGraph",
+    "stars": 1,
+    "updated_at": "2026-09-23T01:26:12Z",
+    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
+  },
+  {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 4,
+    "updated_at": "2026-09-23T01:25:57Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-09-23T01:24:30Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 2,
+    "updated_at": "2026-09-23T01:23:32Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-23T01:23:12Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-09-23T01:22:30Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-09-23T01:21:16Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-09-23T01:19:59Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "SurrealDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SurrealDB is a multi-model datab",
+    "id": "api-evangelist/surrealdb",
+    "language": "\u2014",
+    "name": "api-evangelist/surrealdb",
+    "stars": 0,
+    "updated_at": "2026-09-23T01:19:56Z",
+    "url": "https://github.com/api-evangelist/surrealdb"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-23T01:25:07Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-09-23T01:17:14Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-09-23T01:16:33Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-23T01:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
     "id": "shoaibraza123/promptbook-mcp",
     "language": "HTML",
@@ -41,7 +212,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46221,
-    "updated_at": "2026-09-23T01:09:35Z",
+    "updated_at": "2026-09-23T01:17:35Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -122,7 +293,7 @@
     "language": "Python",
     "name": "mattmre/CHELATEDAI",
     "stars": 2,
-    "updated_at": "2026-09-23T01:03:01Z",
+    "updated_at": "2026-09-23T01:15:49Z",
     "url": "https://github.com/mattmre/CHELATEDAI"
   },
   {
@@ -140,26 +311,8 @@
     "language": "Rust",
     "name": "aicubetechnology/qilbeeDB",
     "stars": 22,
-    "updated_at": "2026-09-23T01:12:19Z",
+    "updated_at": "2026-09-23T01:30:14Z",
     "url": "https://github.com/aicubetechnology/qilbeeDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-23T01:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T01:00:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "OceanBase is the unified distributed database for the AI era \u2014 open-source, multi-model, one engine for your most demand",
@@ -212,7 +365,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-23T01:12:40Z",
+    "updated_at": "2026-09-23T01:25:37Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -295,158 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-23T00:43:40Z",
     "url": "https://github.com/api-evangelist/ironcore-labs"
-  },
-  {
-    "description": "An embeddable vector database in Rust \u2014 no server, SQLite-style. HNSW + BM25 + hybrid + filtered search, in-process.",
-    "id": "zaydmulani09/vecdb",
-    "language": "Rust",
-    "name": "zaydmulani09/vecdb",
-    "stars": 10,
-    "updated_at": "2026-09-23T00:37:18Z",
-    "url": "https://github.com/zaydmulani09/vecdb"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34758,
-    "updated_at": "2026-09-23T00:35:49Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Gel Data \u2014 independent third-party profile of a public API surface, by API Evangelist. Gel Data (formerly EdgeDB Inc.) b",
-    "id": "api-evangelist/gel-data",
-    "language": "\u2014",
-    "name": "api-evangelist/gel-data",
-    "stars": 0,
-    "updated_at": "2026-09-23T00:34:34Z",
-    "url": "https://github.com/api-evangelist/gel-data"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 883,
-    "updated_at": "2026-09-23T00:54:02Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
-    "id": "api-evangelist/datastax",
-    "language": "\u2014",
-    "name": "api-evangelist/datastax",
-    "stars": 0,
-    "updated_at": "2026-09-23T00:24:33Z",
-    "url": "https://github.com/api-evangelist/datastax"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-09-23T00:23:02Z",
-    "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
-    "id": "api-evangelist/crate-io",
-    "language": "\u2014",
-    "name": "api-evangelist/crate-io",
-    "stars": 0,
-    "updated_at": "2026-09-23T00:22:46Z",
-    "url": "https://github.com/api-evangelist/crate-io"
-  },
-  {
-    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
-    "id": "api-evangelist/contentstack",
-    "language": "\u2014",
-    "name": "api-evangelist/contentstack",
-    "stars": 0,
-    "updated_at": "2026-09-23T00:21:52Z",
-    "url": "https://github.com/api-evangelist/contentstack"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 112,
-    "updated_at": "2026-09-23T00:21:36Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "PolicyCue is an AI powered RAG document analysis for websites, PDFs, and policy text with grounded answers, source citat",
-    "id": "Zohaib-mzb/PolicyCue",
-    "language": "Python",
-    "name": "Zohaib-mzb/PolicyCue",
-    "stars": 1,
-    "updated_at": "2026-09-23T00:20:09Z",
-    "url": "https://github.com/Zohaib-mzb/PolicyCue"
-  },
-  {
-    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
-    "id": "api-evangelist/chroma",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma",
-    "stars": 0,
-    "updated_at": "2026-09-23T00:19:11Z",
-    "url": "https://github.com/api-evangelist/chroma"
-  },
-  {
-    "description": "Azure Cosmos DB \u2014 independent third-party profile of a public API surface, by API Evangelist. Azure Cosmos DB is a fully",
-    "id": "api-evangelist/azure-cosmos-db",
-    "language": "\u2014",
-    "name": "api-evangelist/azure-cosmos-db",
-    "stars": 0,
-    "updated_at": "2026-09-23T00:12:09Z",
-    "url": "https://github.com/api-evangelist/azure-cosmos-db"
-  },
-  {
-    "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
-    "id": "api-evangelist/aerospike",
-    "language": "\u2014",
-    "name": "api-evangelist/aerospike",
-    "stars": 0,
-    "updated_at": "2026-09-23T00:04:54Z",
-    "url": "https://github.com/api-evangelist/aerospike"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-23T00:04:42Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-22T23:59:35Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-23T01:13:02Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/urna",
-    "language": "Rust",
-    "name": "hoffresearch/urna",
-    "stars": 11,
-    "updated_at": "2026-09-22T23:45:50Z",
-    "url": "https://github.com/hoffresearch/urna"
   }
 ]
