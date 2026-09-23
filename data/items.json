@@ -1,5 +1,122 @@
 [
   {
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-09-23T17:45:04Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 82,
+    "updated_at": "2026-09-23T17:44:42Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-23T17:43:31Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9300,
+    "updated_at": "2026-09-23T17:43:07Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 95,
+    "updated_at": "2026-09-23T17:40:41Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Spring Data Reindexer",
+    "id": "evgeniycheban/spring-data-reindexer",
+    "language": "Java",
+    "name": "evgeniycheban/spring-data-reindexer",
+    "stars": 23,
+    "updated_at": "2026-09-23T17:40:26Z",
+    "url": "https://github.com/evgeniycheban/spring-data-reindexer"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-09-23T17:40:18Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 884,
+    "updated_at": "2026-09-23T17:37:03Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "",
+    "id": "KenBoller/Snowball",
+    "language": "Python",
+    "name": "KenBoller/Snowball",
+    "stars": 1,
+    "updated_at": "2026-09-23T17:36:41Z",
+    "url": "https://github.com/KenBoller/Snowball"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-23T17:35:34Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
+    "id": "kunal-rathore-111/Neptune",
+    "language": "TypeScript",
+    "name": "kunal-rathore-111/Neptune",
+    "stars": 1,
+    "updated_at": "2026-09-23T17:34:58Z",
+    "url": "https://github.com/kunal-rathore-111/Neptune"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-23T17:32:35Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-23T17:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -9,21 +126,12 @@
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-23T17:28:50Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
     "id": "cyberlife-coder/VelesDB",
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 95,
-    "updated_at": "2026-09-23T17:28:43Z",
+    "updated_at": "2026-09-23T17:42:20Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -34,24 +142,6 @@
     "stars": 25,
     "updated_at": "2026-09-23T17:28:11Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 884,
-    "updated_at": "2026-09-23T17:26:56Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9300,
-    "updated_at": "2026-09-23T17:29:08Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
@@ -70,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T17:18:31Z",
     "url": "https://github.com/izynegallardo/watchuwanime"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-23T17:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "FastAPI + Qdrant vector storage and retrieval service for the ICICLE AI Tapis tenant. ",
@@ -108,15 +189,6 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-23T17:08:20Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
     "id": "LnYo-Cly/ai4j",
     "language": "HTML",
@@ -142,24 +214,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T16:59:03Z",
     "url": "https://github.com/nenedesign/nenedesign"
-  },
-  {
-    "description": "",
-    "id": "KenBoller/Snowball",
-    "language": "Python",
-    "name": "KenBoller/Snowball",
-    "stars": 1,
-    "updated_at": "2026-09-23T16:58:32Z",
-    "url": "https://github.com/KenBoller/Snowball"
-  },
-  {
-    "description": "Neptune is an AI-powered second brain and intelligent bookmarking platform using semantic vector search, and AI web scra",
-    "id": "kunal-rathore-111/Neptune",
-    "language": "TypeScript",
-    "name": "kunal-rathore-111/Neptune",
-    "stars": 1,
-    "updated_at": "2026-09-23T16:58:22Z",
-    "url": "https://github.com/kunal-rathore-111/Neptune"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -212,7 +266,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-09-23T16:46:52Z",
+    "updated_at": "2026-09-23T17:42:24Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -230,7 +284,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-23T17:22:39Z",
+    "updated_at": "2026-09-23T17:35:36Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -284,7 +338,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30944,
-    "updated_at": "2026-09-23T17:25:40Z",
+    "updated_at": "2026-09-23T17:43:40Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-23T15:56:01Z",
     "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
-    "id": "mattmre/CHELATEDAI",
-    "language": "Python",
-    "name": "mattmre/CHELATEDAI",
-    "stars": 2,
-    "updated_at": "2026-09-23T15:52:55Z",
-    "url": "https://github.com/mattmre/CHELATEDAI"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-09-23T15:52:32Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-09-23T15:49:03Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Advanced local-first RAG system powered by Ollama and LangGraph. Optimized for high-performance sLLM orchestration   fea",
-    "id": "darkzard05/rag-system-ollama",
-    "language": "Python",
-    "name": "darkzard05/rag-system-ollama",
-    "stars": 4,
-    "updated_at": "2026-09-23T15:48:49Z",
-    "url": "https://github.com/darkzard05/rag-system-ollama"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-09-23T15:47:36Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-09-23T15:47:35Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
   }
 ]
