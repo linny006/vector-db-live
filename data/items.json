@@ -1,12 +1,30 @@
 [
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1992,
-    "updated_at": "2026-09-23T05:55:43Z",
-    "url": "https://github.com/matrixorigin/matrixone"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-23T06:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A RAG evaluation pipeline that scores retrieval-augmented generation outputs on Faithfulness, Answer Relevancy, Context ",
+    "id": "Nitesh-lng/RAGAS",
+    "language": "Python",
+    "name": "Nitesh-lng/RAGAS",
+    "stars": 1,
+    "updated_at": "2026-09-23T06:11:05Z",
+    "url": "https://github.com/Nitesh-lng/RAGAS"
+  },
+  {
+    "description": "Self-RAG: a self-reflective RAG system built from scratch in LangGraph. Grades its own retrieved documents and generated",
+    "id": "Nitesh-lng/Self_RAG",
+    "language": "Python",
+    "name": "Nitesh-lng/Self_RAG",
+    "stars": 1,
+    "updated_at": "2026-09-23T06:06:48Z",
+    "url": "https://github.com/Nitesh-lng/Self_RAG"
   },
   {
     "description": "The AI search platform",
@@ -14,8 +32,26 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7107,
-    "updated_at": "2026-09-23T05:59:47Z",
+    "updated_at": "2026-09-23T06:02:20Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-23T06:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 1992,
+    "updated_at": "2026-09-23T05:55:43Z",
+    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Persistent memory MCP server for opencode \u2014 Redis facts, ChromaDB semantic search, document storage, power-law memory de",
@@ -54,31 +90,13 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-23T06:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
     "id": "ness-e/Vantadb",
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-09-23T05:53:53Z",
+    "updated_at": "2026-09-23T06:04:01Z",
     "url": "https://github.com/ness-e/Vantadb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-23T05:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
@@ -122,7 +140,7 @@
     "language": "HTML",
     "name": "MrPeppersDev/agent-infrastructure-landscape",
     "stars": 4,
-    "updated_at": "2026-09-23T05:37:19Z",
+    "updated_at": "2026-09-23T06:15:22Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-23T05:01:13Z",
     "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
-    "id": "zoepranataksm/Mind_Vault_AI",
-    "language": "JavaScript",
-    "name": "zoepranataksm/Mind_Vault_AI",
-    "stars": 1,
-    "updated_at": "2026-09-23T05:01:04Z",
-    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
-    "id": "SAHIXXX12/AI-Search-Engine",
-    "language": "TypeScript",
-    "name": "SAHIXXX12/AI-Search-Engine",
-    "stars": 0,
-    "updated_at": "2026-09-23T04:58:23Z",
-    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
   }
 ]
