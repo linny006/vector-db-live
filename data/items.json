@@ -1,21 +1,57 @@
 [
   {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 884,
+    "updated_at": "2026-09-23T22:28:25Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "",
+    "id": "KenBoller/Snowball",
+    "language": "Python",
+    "name": "KenBoller/Snowball",
+    "stars": 1,
+    "updated_at": "2026-09-23T22:28:15Z",
+    "url": "https://github.com/KenBoller/Snowball"
+  },
+  {
+    "description": "FastAPI + Qdrant vector storage and retrieval service for the ICICLE AI Tapis tenant. ",
+    "id": "ICICLE-ai/icicle-ai-vector-service",
+    "language": "Python",
+    "name": "ICICLE-ai/icicle-ai-vector-service",
+    "stars": 1,
+    "updated_at": "2026-09-23T22:24:57Z",
+    "url": "https://github.com/ICICLE-ai/icicle-ai-vector-service"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-23T22:24:50Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
     "name": "structured-world/coordinode",
     "stars": 6,
-    "updated_at": "2026-09-23T22:17:07Z",
+    "updated_at": "2026-09-23T22:23:16Z",
     "url": "https://github.com/structured-world/coordinode"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46241,
-    "updated_at": "2026-09-23T22:15:34Z",
-    "url": "https://github.com/milvus-io/milvus"
+    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
+    "id": "desikai-lab/Marrow",
+    "language": "Python",
+    "name": "desikai-lab/Marrow",
+    "stars": 7,
+    "updated_at": "2026-09-23T22:19:40Z",
+    "url": "https://github.com/desikai-lab/Marrow"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -23,8 +59,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-09-23T22:15:25Z",
+    "updated_at": "2026-09-23T22:17:19Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46241,
+    "updated_at": "2026-09-23T22:21:35Z",
+    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -34,15 +79,6 @@
     "stars": 3,
     "updated_at": "2026-09-23T22:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 884,
-    "updated_at": "2026-09-23T22:14:41Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "An agentic, plug-and-play RAG architecture utilizing Two-Stage Vector Retrieval, RAPTOR, and Neo4j Knowledge Graphs for ",
@@ -86,7 +122,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 95,
-    "updated_at": "2026-09-23T22:06:23Z",
+    "updated_at": "2026-09-23T22:22:05Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T21:43:38Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
-    "id": "desikai-lab/Marrow",
-    "language": "Python",
-    "name": "desikai-lab/Marrow",
-    "stars": 7,
-    "updated_at": "2026-09-23T21:43:02Z",
-    "url": "https://github.com/desikai-lab/Marrow"
   },
   {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
@@ -383,7 +410,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11511,
-    "updated_at": "2026-09-23T21:58:00Z",
+    "updated_at": "2026-09-23T22:28:10Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-23T21:27:50Z",
     "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-  },
-  {
-    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
-    "id": "ELSAKKK/mnemos-mcp",
-    "language": "Python",
-    "name": "ELSAKKK/mnemos-mcp",
-    "stars": 5,
-    "updated_at": "2026-09-23T21:23:39Z",
-    "url": "https://github.com/ELSAKKK/mnemos-mcp"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 6,
-    "updated_at": "2026-09-23T21:22:56Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
-    "id": "BiggerCap/agentops-hub",
-    "language": "TypeScript",
-    "name": "BiggerCap/agentops-hub",
-    "stars": 2,
-    "updated_at": "2026-09-23T21:22:36Z",
-    "url": "https://github.com/BiggerCap/agentops-hub"
   }
 ]
