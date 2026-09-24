@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-24T17:45:21Z",
+    "updated_at": "2026-09-24T18:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "KenBoller/Snowball",
+    "language": "Python",
+    "name": "KenBoller/Snowball",
+    "stars": 1,
+    "updated_at": "2026-09-24T17:56:40Z",
+    "url": "https://github.com/KenBoller/Snowball"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 884,
+    "updated_at": "2026-09-24T17:55:40Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
+    "id": "ompatel3158/ULTSQL",
+    "language": "Dart",
+    "name": "ompatel3158/ULTSQL",
+    "stars": 1,
+    "updated_at": "2026-09-24T17:55:24Z",
+    "url": "https://github.com/ompatel3158/ULTSQL"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-24T17:54:34Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Spring Data Reindexer",
+    "id": "evgeniycheban/spring-data-reindexer",
+    "language": "Java",
+    "name": "evgeniycheban/spring-data-reindexer",
+    "stars": 23,
+    "updated_at": "2026-09-24T17:54:33Z",
+    "url": "https://github.com/evgeniycheban/spring-data-reindexer"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30961,
+    "updated_at": "2026-09-24T18:00:02Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Agentic AI framework that drafts FDA cybersecurity SRAs for connected medical devices. Vector DB + Graph DB + MCP + Lang",
+    "id": "balajibankapur/agentic-sra-framework",
+    "language": "Python",
+    "name": "balajibankapur/agentic-sra-framework",
+    "stars": 0,
+    "updated_at": "2026-09-24T17:45:32Z",
+    "url": "https://github.com/balajibankapur/agentic-sra-framework"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-24T17:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 116,
+    "updated_at": "2026-09-24T17:45:20Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
     "description": "Website for the Weaviate vector database",
@@ -25,15 +106,6 @@
     "stars": 6,
     "updated_at": "2026-09-24T17:42:09Z",
     "url": "https://github.com/hallengray/rag-forge"
-  },
-  {
-    "description": "Agentic customer support platform \u2014 hand-written agent loop, RAG, human-in-the-loop approvals, multi-agent specialists, ",
-    "id": "Akshay-professor/helpdesk-copilot",
-    "language": "JavaScript",
-    "name": "Akshay-professor/helpdesk-copilot",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:41:47Z",
-    "url": "https://github.com/Akshay-professor/helpdesk-copilot"
   },
   {
     "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
@@ -72,33 +144,6 @@
     "url": "https://github.com/sheshpalsingh01/langchain_vectordb_in_production"
   },
   {
-    "description": "",
-    "id": "KenBoller/Snowball",
-    "language": "Python",
-    "name": "KenBoller/Snowball",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:31:19Z",
-    "url": "https://github.com/KenBoller/Snowball"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-24T17:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
-    "id": "ompatel3158/ULTSQL",
-    "language": "Dart",
-    "name": "ompatel3158/ULTSQL",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:29:58Z",
-    "url": "https://github.com/ompatel3158/ULTSQL"
-  },
-  {
     "description": "KoutenDB: locality-aware NoSQL document/vector database built around rings and orbit-inspired retrieval",
     "id": "puffball1567/koutendb",
     "language": "Nim",
@@ -113,7 +158,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-24T17:24:58Z",
+    "updated_at": "2026-09-24T17:52:20Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -333,15 +378,6 @@
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 884,
-    "updated_at": "2026-09-24T17:02:11Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
     "id": "infino-ai/infino",
     "language": "Rust",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T16:55:35Z",
     "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34791,
-    "updated_at": "2026-09-24T16:54:22Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Vietnamese Legal RAG with hybrid retrieval, reranking, Vertex AI, and evidence-backed evaluation.",
-    "id": "TanNguyen234/VietLex-Tech-Spec",
-    "language": "Python",
-    "name": "TanNguyen234/VietLex-Tech-Spec",
-    "stars": 0,
-    "updated_at": "2026-09-24T16:54:01Z",
-    "url": "https://github.com/TanNguyen234/VietLex-Tech-Spec"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-24T16:53:45Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-09-24T16:52:28Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
   }
 ]
