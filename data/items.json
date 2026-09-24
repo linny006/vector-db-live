@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T17:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Website for the Weaviate vector database",
+    "id": "weaviate/weaviate-io",
+    "language": "MDX",
+    "name": "weaviate/weaviate-io",
+    "stars": 89,
+    "updated_at": "2026-09-24T17:43:40Z",
+    "url": "https://github.com/weaviate/weaviate-io"
+  },
+  {
+    "description": "Production-grade RAG pipelines with evaluation baked in",
+    "id": "hallengray/rag-forge",
+    "language": "Python",
+    "name": "hallengray/rag-forge",
+    "stars": 6,
+    "updated_at": "2026-09-24T17:42:09Z",
+    "url": "https://github.com/hallengray/rag-forge"
+  },
+  {
+    "description": "Agentic customer support platform \u2014 hand-written agent loop, RAG, human-in-the-loop approvals, multi-agent specialists, ",
+    "id": "Akshay-professor/helpdesk-copilot",
+    "language": "JavaScript",
+    "name": "Akshay-professor/helpdesk-copilot",
+    "stars": 0,
+    "updated_at": "2026-09-24T17:41:47Z",
+    "url": "https://github.com/Akshay-professor/helpdesk-copilot"
+  },
+  {
+    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
+    "id": "TowsifAhamed/GameRagKit",
+    "language": "C#",
+    "name": "TowsifAhamed/GameRagKit",
+    "stars": 2,
+    "updated_at": "2026-09-24T17:39:18Z",
+    "url": "https://github.com/TowsifAhamed/GameRagKit"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16842,
+    "updated_at": "2026-09-24T17:38:20Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-24T17:34:30Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Learn basic to advance concept  and also understand the Production grade Concept and build Production Grade Product not ",
+    "id": "sheshpalsingh01/langchain_vectordb_in_production",
+    "language": "Jupyter Notebook",
+    "name": "sheshpalsingh01/langchain_vectordb_in_production",
+    "stars": 0,
+    "updated_at": "2026-09-24T17:31:36Z",
+    "url": "https://github.com/sheshpalsingh01/langchain_vectordb_in_production"
+  },
+  {
+    "description": "",
+    "id": "KenBoller/Snowball",
+    "language": "Python",
+    "name": "KenBoller/Snowball",
+    "stars": 1,
+    "updated_at": "2026-09-24T17:31:19Z",
+    "url": "https://github.com/KenBoller/Snowball"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-24T17:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
     "id": "ompatel3158/ULTSQL",
     "language": "Dart",
@@ -90,24 +180,6 @@
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-24T17:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T17:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
     "id": "doriapt53/spring-manifold-next-gen",
     "language": "TypeScript",
@@ -133,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T17:13:17Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Production-grade RAG pipelines with evaluation baked in",
-    "id": "hallengray/rag-forge",
-    "language": "Python",
-    "name": "hallengray/rag-forge",
-    "stars": 6,
-    "updated_at": "2026-09-24T17:12:18Z",
-    "url": "https://github.com/hallengray/rag-forge"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -198,15 +261,6 @@
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-24T17:08:15Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
     "id": "Deafened-vascularstructure846/pageindex-rag",
     "language": "Python",
@@ -221,7 +275,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2004,
-    "updated_at": "2026-09-24T17:11:05Z",
+    "updated_at": "2026-09-24T17:31:44Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-24T16:52:28Z",
     "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6456,
-    "updated_at": "2026-09-24T17:22:07Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-24T16:51:20Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46247,
-    "updated_at": "2026-09-24T16:50:27Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-24T16:49:41Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "The high-performance AI engine for Lodexi. Handles Retrieval-Augmented Generation (RAG), vector embeddings, and LLM inte",
-    "id": "lodexi/lodexi-core",
-    "language": "Python",
-    "name": "lodexi/lodexi-core",
-    "stars": 4,
-    "updated_at": "2026-09-24T16:48:24Z",
-    "url": "https://github.com/lodexi/lodexi-core"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-24T16:48:09Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   }
 ]
