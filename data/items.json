@@ -1,12 +1,48 @@
 [
   {
-    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
-    "id": "api-evangelist/chroma-db",
-    "language": "\u2014",
-    "name": "api-evangelist/chroma-db",
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9301,
+    "updated_at": "2026-09-24T00:30:08Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46242,
+    "updated_at": "2026-09-24T00:25:34Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
     "stars": 0,
-    "updated_at": "2026-09-24T00:15:18Z",
-    "url": "https://github.com/api-evangelist/chroma-db"
+    "updated_at": "2026-09-24T00:23:37Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 802,
+    "updated_at": "2026-09-24T00:23:25Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-24T00:23:01Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -14,7 +50,7 @@
     "language": "Go",
     "name": "23skdu/longbow",
     "stars": 13,
-    "updated_at": "2026-09-24T00:15:01Z",
+    "updated_at": "2026-09-24T00:20:24Z",
     "url": "https://github.com/23skdu/longbow"
   },
   {
@@ -23,26 +59,17 @@
     "language": "Python",
     "name": "Vyce101/VySol",
     "stars": 0,
-    "updated_at": "2026-09-24T00:14:08Z",
+    "updated_at": "2026-09-24T00:17:44Z",
     "url": "https://github.com/Vyce101/VySol"
   },
   {
-    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 802,
-    "updated_at": "2026-09-24T00:11:59Z",
-    "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-24T00:04:55Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-24T00:16:30Z",
+    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -50,7 +77,7 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-09-24T00:00:22Z",
+    "updated_at": "2026-09-24T00:15:26Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
@@ -61,6 +88,24 @@
     "stars": 3,
     "updated_at": "2026-09-24T00:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma-db",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma-db",
+    "stars": 0,
+    "updated_at": "2026-09-24T00:15:18Z",
+    "url": "https://github.com/api-evangelist/chroma-db"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-24T00:04:55Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -86,7 +131,7 @@
     "language": "Python",
     "name": "LibreChat-AI/rag-api",
     "stars": 906,
-    "updated_at": "2026-09-23T23:47:06Z",
+    "updated_at": "2026-09-24T00:25:51Z",
     "url": "https://github.com/LibreChat-AI/rag-api"
   },
   {
@@ -131,7 +176,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 66380,
-    "updated_at": "2026-09-24T00:11:54Z",
+    "updated_at": "2026-09-24T00:18:04Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -205,15 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-23T23:34:55Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-23T23:34:07Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
@@ -333,15 +369,6 @@
     "url": "https://github.com/eastythenob8-svg/graph-memory"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:54:11Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
     "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
     "language": "JavaScript",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-23T23:13:55Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-23T23:11:58Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-09-23T23:10:26Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-23T23:09:57Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
   }
 ]
