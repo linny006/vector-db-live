@@ -1,12 +1,39 @@
 [
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34777,
-    "updated_at": "2026-09-24T05:42:22Z",
-    "url": "https://github.com/qdrant/qdrant"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T06:00:18Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2000,
+    "updated_at": "2026-09-24T05:58:57Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-24T05:54:58Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-09-24T05:54:13Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "Agentic RAG system \u2014 routes natural language to SQL, industry documents, or both. LangGraph + Pinecone + GPT-4o-mini. 86",
@@ -14,8 +41,35 @@
     "language": "Python",
     "name": "SAMithila/nl-db-agent",
     "stars": 1,
-    "updated_at": "2026-09-24T05:42:06Z",
+    "updated_at": "2026-09-24T05:51:17Z",
     "url": "https://github.com/SAMithila/nl-db-agent"
+  },
+  {
+    "description": "Evidence-based clinical workflow assistant with agentic RAG for hypertension care with LangGraph orchestration, hybrid r",
+    "id": "jeevesh2515/clinical-rag-agent",
+    "language": "Python",
+    "name": "jeevesh2515/clinical-rag-agent",
+    "stars": 5,
+    "updated_at": "2026-09-24T05:48:34Z",
+    "url": "https://github.com/jeevesh2515/clinical-rag-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-24T05:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34777,
+    "updated_at": "2026-09-24T05:42:22Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -72,15 +126,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 1999,
-    "updated_at": "2026-09-24T05:34:23Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Distributed vector search node and client for Sewn and MaryOS.",
     "id": "rao-studios/Thread",
     "language": "Swift",
@@ -95,26 +140,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 5,
-    "updated_at": "2026-09-24T05:35:20Z",
+    "updated_at": "2026-09-24T06:00:03Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T05:45:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-24T05:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -171,15 +198,6 @@
     "url": "https://github.com/Wry-letters233/notes-quiz-agent"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-24T05:45:06Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
     "id": "retrograde-prosceniumwall239/ai-search-engine",
     "language": "Python",
@@ -205,6 +223,15 @@
     "stars": 0,
     "updated_at": "2026-09-24T05:21:47Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11512,
+    "updated_at": "2026-09-24T05:20:23Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
@@ -302,7 +329,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9452,
-    "updated_at": "2026-09-24T05:13:27Z",
+    "updated_at": "2026-09-24T05:51:58Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 180,
     "updated_at": "2026-09-24T05:00:13Z",
     "url": "https://github.com/Siddhant-K-code/distill"
-  },
-  {
-    "description": "Evidence-based clinical workflow assistant with agentic RAG for hypertension care with LangGraph orchestration, hybrid r",
-    "id": "jeevesh2515/clinical-rag-agent",
-    "language": "Python",
-    "name": "jeevesh2515/clinical-rag-agent",
-    "stars": 5,
-    "updated_at": "2026-09-24T04:58:38Z",
-    "url": "https://github.com/jeevesh2515/clinical-rag-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-09-24T04:57:30Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-24T04:57:01Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
   }
 ]
