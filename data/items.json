@@ -1,5 +1,158 @@
 [
   {
+    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
+    "id": "FIRE-hub911/citation-assistant",
+    "language": "Shell",
+    "name": "FIRE-hub911/citation-assistant",
+    "stars": 3,
+    "updated_at": "2026-09-24T21:14:18Z",
+    "url": "https://github.com/FIRE-hub911/citation-assistant"
+  },
+  {
+    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
+    "id": "K3Tamaa/Vector-Forge",
+    "language": "\u2014",
+    "name": "K3Tamaa/Vector-Forge",
+    "stars": 0,
+    "updated_at": "2026-09-24T21:13:31Z",
+    "url": "https://github.com/K3Tamaa/Vector-Forge"
+  },
+  {
+    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
+    "id": "sshisto/mnemo-mcp",
+    "language": "Python",
+    "name": "sshisto/mnemo-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-24T21:12:17Z",
+    "url": "https://github.com/sshisto/mnemo-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
+    "id": "sen-igga/IndexGPT",
+    "language": "JavaScript",
+    "name": "sen-igga/IndexGPT",
+    "stars": 3,
+    "updated_at": "2026-09-24T21:12:12Z",
+    "url": "https://github.com/sen-igga/IndexGPT"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 95,
+    "updated_at": "2026-09-24T21:11:52Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
+    "id": "Zopze/TV-Show-Recommender-AI",
+    "language": "Python",
+    "name": "Zopze/TV-Show-Recommender-AI",
+    "stars": 1,
+    "updated_at": "2026-09-24T21:11:46Z",
+    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
+  },
+  {
+    "description": "A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on ",
+    "id": "zacharydenton/hrxdb",
+    "language": "Rust",
+    "name": "zacharydenton/hrxdb",
+    "stars": 0,
+    "updated_at": "2026-09-24T21:10:58Z",
+    "url": "https://github.com/zacharydenton/hrxdb"
+  },
+  {
+    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
+    "id": "Ojcalzada/pulsepoint-RAG",
+    "language": "Python",
+    "name": "Ojcalzada/pulsepoint-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-24T21:09:12Z",
+    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 5,
+    "updated_at": "2026-09-24T21:12:31Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-24T21:08:37Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 3,
+    "updated_at": "2026-09-24T21:09:44Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
+    "id": "persona-net/rag-pipeline-dashboard",
+    "language": "TypeScript",
+    "name": "persona-net/rag-pipeline-dashboard",
+    "stars": 0,
+    "updated_at": "2026-09-24T21:07:18Z",
+    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
+    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "language": "Python",
+    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "stars": 2,
+    "updated_at": "2026-09-24T21:06:12Z",
+    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
+  },
+  {
+    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
+    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "language": "Python",
+    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
+    "stars": 3,
+    "updated_at": "2026-09-24T21:04:58Z",
+    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
+  },
+  {
+    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
+    "id": "shiro1707778/episodic-memory-pipeline",
+    "language": "Python",
+    "name": "shiro1707778/episodic-memory-pipeline",
+    "stars": 1,
+    "updated_at": "2026-09-24T21:03:32Z",
+    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
+    "id": "ibrahima0101/python-ai-chatbot-huggingface",
+    "language": "Python",
+    "name": "ibrahima0101/python-ai-chatbot-huggingface",
+    "stars": 0,
+    "updated_at": "2026-09-24T21:01:59Z",
+    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-24T21:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +167,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12977,
-    "updated_at": "2026-09-24T20:58:47Z",
+    "updated_at": "2026-09-24T21:05:53Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -90,13 +243,13 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-24T20:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8272,
+    "updated_at": "2026-09-24T20:44:12Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
@@ -108,15 +261,6 @@
     "url": "https://github.com/IronCoreLabs/ironcore-alloy"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-24T20:37:39Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
     "id": "TowsifAhamed/GameRagKit",
     "language": "C#",
@@ -126,15 +270,6 @@
     "url": "https://github.com/TowsifAhamed/GameRagKit"
   },
   {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 3,
-    "updated_at": "2026-09-24T20:55:01Z",
-    "url": "https://github.com/thameema/memnos"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -142,15 +277,6 @@
     "stars": 2,
     "updated_at": "2026-09-24T20:30:30Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8272,
-    "updated_at": "2026-09-24T20:44:12Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Local memory for AI coding agents. Recall remembers your past sessions so your agent doesn't start from scratch every ti",
@@ -167,7 +293,7 @@
     "language": "Python",
     "name": "ahb-sjsu/turboquant-pro",
     "stars": 25,
-    "updated_at": "2026-09-24T20:22:00Z",
+    "updated_at": "2026-09-24T21:00:43Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
@@ -176,7 +302,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11522,
-    "updated_at": "2026-09-24T20:19:47Z",
+    "updated_at": "2026-09-24T21:03:07Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -185,17 +311,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9304,
-    "updated_at": "2026-09-24T20:53:49Z",
+    "updated_at": "2026-09-24T21:15:16Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 5,
-    "updated_at": "2026-09-24T20:58:46Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T19:21:53Z",
     "url": "https://github.com/n9524726-star/chatpdf-rag"
-  },
-  {
-    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
-    "id": "sarthaksinha2600/LLM-Contract",
-    "language": "\u2014",
-    "name": "sarthaksinha2600/LLM-Contract",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:21:31Z",
-    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
-  },
-  {
-    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
-    "id": "Shitless-jnr3697/rebasis",
-    "language": "Python",
-    "name": "Shitless-jnr3697/rebasis",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:20:38Z",
-    "url": "https://github.com/Shitless-jnr3697/rebasis"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 24,
-    "updated_at": "2026-09-24T19:19:42Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
-    "id": "boulif781/enterprise-knowledge-assistant",
-    "language": "\u2014",
-    "name": "boulif781/enterprise-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:18:48Z",
-    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-24T20:55:59Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
-    "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "language": "Jupyter Notebook",
-    "name": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:16:54Z",
-    "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-09-24T19:16:13Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:13:38Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:11:51Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34796,
-    "updated_at": "2026-09-24T19:11:47Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-09-24T19:09:30Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "An Enterprise-Grade Advanced RAG Engine powered by FastAPI, LangChain, Qdrant, and React. Engineered with Hybrid Search ",
-    "id": "MeetRamani28/Nexus-RAG",
-    "language": "TypeScript",
-    "name": "MeetRamani28/Nexus-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:09:05Z",
-    "url": "https://github.com/MeetRamani28/Nexus-RAG"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:08:33Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
   }
 ]
