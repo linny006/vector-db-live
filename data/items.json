@@ -1,5 +1,50 @@
 [
   {
+    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
+    "id": "10xHub/Agentflow",
+    "language": "Python",
+    "name": "10xHub/Agentflow",
+    "stars": 21,
+    "updated_at": "2026-09-24T10:24:09Z",
+    "url": "https://github.com/10xHub/Agentflow"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 113,
+    "updated_at": "2026-09-24T10:23:10Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7110,
+    "updated_at": "2026-09-24T10:18:56Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-09-24T10:18:02Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-24T10:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -59,17 +104,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11517,
-    "updated_at": "2026-09-24T10:05:16Z",
+    "updated_at": "2026-09-24T10:16:10Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7110,
-    "updated_at": "2026-09-24T10:06:17Z",
-    "url": "https://github.com/vespa-engine/vespa"
   },
   {
     "description": "Embeddable vector database for edge AI",
@@ -79,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T10:05:34Z",
     "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-24T10:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted, offline-first multi-agent meeting assistant for Agile teams with local LLMs, and real-time insights.",
@@ -117,21 +144,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Production-grade framework for building multi-agent AI systems. Graph-based orchestration, LLM-agnostic (OpenAI, Google ",
-    "id": "10xHub/Agentflow",
-    "language": "Python",
-    "name": "10xHub/Agentflow",
-    "stars": 21,
-    "updated_at": "2026-09-24T09:57:36Z",
-    "url": "https://github.com/10xHub/Agentflow"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9303,
-    "updated_at": "2026-09-24T09:49:35Z",
+    "updated_at": "2026-09-24T10:22:02Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -194,7 +212,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4439,
-    "updated_at": "2026-09-24T10:04:46Z",
+    "updated_at": "2026-09-24T10:16:03Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -203,7 +221,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34782,
-    "updated_at": "2026-09-24T09:37:24Z",
+    "updated_at": "2026-09-24T10:16:44Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -266,7 +284,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-09-24T10:06:07Z",
+    "updated_at": "2026-09-24T10:19:10Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-24T08:57:57Z",
     "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-09-24T08:57:36Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-24T08:55:13Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
   }
 ]
