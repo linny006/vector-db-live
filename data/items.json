@@ -1,12 +1,75 @@
 [
   {
+    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
+    "id": "hivellm/vectorizer",
+    "language": "Rust",
+    "name": "hivellm/vectorizer",
+    "stars": 27,
+    "updated_at": "2026-09-24T21:59:37Z",
+    "url": "https://github.com/hivellm/vectorizer"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-24T21:58:04Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "An interactive marimo notebook on ICICLE AI Tapis services, a hands-on RAG playground that shows every step, from embedd",
+    "id": "ICICLE-ai/icicle-chatbook",
+    "language": "Python",
+    "name": "ICICLE-ai/icicle-chatbook",
+    "stars": 3,
+    "updated_at": "2026-09-24T21:55:20Z",
+    "url": "https://github.com/ICICLE-ai/icicle-chatbook"
+  },
+  {
+    "description": "FastAPI + Qdrant vector storage and retrieval service for the ICICLE AI Tapis tenant. ",
+    "id": "ICICLE-ai/icicle-ai-vector-service",
+    "language": "Python",
+    "name": "ICICLE-ai/icicle-ai-vector-service",
+    "stars": 1,
+    "updated_at": "2026-09-24T21:49:37Z",
+    "url": "https://github.com/ICICLE-ai/icicle-ai-vector-service"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 7,
+    "updated_at": "2026-09-24T22:00:18Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-24T21:39:46Z",
+    "updated_at": "2026-09-24T22:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-24T21:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34797,
+    "updated_at": "2026-09-24T21:43:41Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -25,15 +88,6 @@
     "stars": 1163,
     "updated_at": "2026-09-24T21:37:02Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "A high-performance, in-memory vector database written in Rust, designed for semantic search and top-k nearest neighbor q",
-    "id": "hivellm/vectorizer",
-    "language": "Rust",
-    "name": "hivellm/vectorizer",
-    "stars": 27,
-    "updated_at": "2026-09-24T21:36:03Z",
-    "url": "https://github.com/hivellm/vectorizer"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -72,15 +126,6 @@
     "url": "https://github.com/Shitless-jnr3697/rebasis"
   },
   {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 7,
-    "updated_at": "2026-09-24T21:40:23Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
     "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
     "id": "boulif781/enterprise-knowledge-assistant",
     "language": "\u2014",
@@ -97,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T21:45:11Z",
     "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-24T21:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
@@ -185,7 +221,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 5,
-    "updated_at": "2026-09-24T21:39:21Z",
+    "updated_at": "2026-09-24T21:54:24Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -214,15 +250,6 @@
     "stars": 2,
     "updated_at": "2026-09-24T21:19:38Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
-    "description": "FastAPI + Qdrant vector storage and retrieval service for the ICICLE AI Tapis tenant. ",
-    "id": "ICICLE-ai/icicle-ai-vector-service",
-    "language": "Python",
-    "name": "ICICLE-ai/icicle-ai-vector-service",
-    "stars": 1,
-    "updated_at": "2026-09-24T21:18:24Z",
-    "url": "https://github.com/ICICLE-ai/icicle-ai-vector-service"
   },
   {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-24T20:57:06Z",
     "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-09-24T20:50:26Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-09-24T20:50:14Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7110,
-    "updated_at": "2026-09-24T21:37:32Z",
-    "url": "https://github.com/vespa-engine/vespa"
   }
 ]
