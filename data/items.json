@@ -1,11 +1,83 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T20:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
+    "id": "IronCoreLabs/ironcore-alloy",
+    "language": "Rust",
+    "name": "IronCoreLabs/ironcore-alloy",
+    "stars": 30,
+    "updated_at": "2026-09-24T20:38:25Z",
+    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-24T20:37:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12977,
+    "updated_at": "2026-09-24T20:43:07Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
+    "id": "TowsifAhamed/GameRagKit",
+    "language": "C#",
+    "name": "TowsifAhamed/GameRagKit",
+    "stars": 2,
+    "updated_at": "2026-09-24T20:35:26Z",
+    "url": "https://github.com/TowsifAhamed/GameRagKit"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 3,
+    "updated_at": "2026-09-24T20:34:12Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-24T20:30:30Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-24T20:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8272,
-    "updated_at": "2026-09-24T20:26:17Z",
+    "updated_at": "2026-09-24T20:44:12Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -41,35 +113,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9304,
-    "updated_at": "2026-09-24T20:27:39Z",
+    "updated_at": "2026-09-24T20:35:54Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
-    "id": "IronCoreLabs/ironcore-alloy",
-    "language": "Rust",
-    "name": "IronCoreLabs/ironcore-alloy",
-    "stars": 30,
-    "updated_at": "2026-09-24T20:15:31Z",
-    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-24T20:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T20:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -90,21 +135,12 @@
     "url": "https://github.com/vanedb/vanedb"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-24T20:09:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
     "id": "tradik/mddb",
     "language": "Go",
     "name": "tradik/mddb",
     "stars": 4,
-    "updated_at": "2026-09-24T20:03:47Z",
+    "updated_at": "2026-09-24T20:45:19Z",
     "url": "https://github.com/tradik/mddb"
   },
   {
@@ -142,15 +178,6 @@
     "stars": 1352,
     "updated_at": "2026-09-24T19:52:10Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 3,
-    "updated_at": "2026-09-24T20:25:14Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "",
@@ -293,7 +320,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 10,
-    "updated_at": "2026-09-24T20:20:47Z",
+    "updated_at": "2026-09-24T20:43:45Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -374,7 +401,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7110,
-    "updated_at": "2026-09-24T20:29:25Z",
+    "updated_at": "2026-09-24T20:44:07Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-24T19:02:27Z",
     "url": "https://github.com/therajarshichakraborty/Generative-And-Agentic-AI"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-09-24T19:02:22Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "",
-    "id": "KenBoller/Snowball",
-    "language": "Python",
-    "name": "KenBoller/Snowball",
-    "stars": 1,
-    "updated_at": "2026-09-24T19:00:17Z",
-    "url": "https://github.com/KenBoller/Snowball"
-  },
-  {
-    "description": "A tool that helps serious independent learners turn their existing notes into cited, trustworthy practice quizzes\u2014withou",
-    "id": "prasadsumit/notebridge",
-    "language": "Java",
-    "name": "prasadsumit/notebridge",
-    "stars": 0,
-    "updated_at": "2026-09-24T19:00:00Z",
-    "url": "https://github.com/prasadsumit/notebridge"
   }
 ]
