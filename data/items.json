@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T19:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 884,
+    "updated_at": "2026-09-24T19:43:25Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
+    "id": "kamilsj/vectors",
+    "language": "Rust",
+    "name": "kamilsj/vectors",
+    "stars": 4,
+    "updated_at": "2026-09-24T19:42:16Z",
+    "url": "https://github.com/kamilsj/vectors"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2004,
+    "updated_at": "2026-09-24T19:38:42Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-24T19:34:34Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-24T19:33:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 3,
+    "updated_at": "2026-09-24T19:39:49Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-24T19:31:04Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "A Q&A system over the FastAPI codebase and docs, built around a rigorous evaluation harness: retrieval and generation me",
     "id": "shaurmittal/rag-fastapi-eval",
     "language": "Python",
@@ -7,15 +79,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T19:30:43Z",
     "url": "https://github.com/shaurmittal/rag-fastapi-eval"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T19:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "RAG-based assistant that answers questions from research papers with cited evidence and flags unsupported claims",
@@ -27,15 +90,6 @@
     "url": "https://github.com/AreebaZubair28/research-paper-intelligence-assistant"
   },
   {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 3,
-    "updated_at": "2026-09-24T19:26:37Z",
-    "url": "https://github.com/thameema/memnos"
-  },
-  {
     "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
     "id": "hseshadr/edgeproc-core",
     "language": "Python",
@@ -45,15 +99,6 @@
     "url": "https://github.com/hseshadr/edgeproc-core"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2004,
-    "updated_at": "2026-09-24T19:25:47Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
     "id": "api-evangelist/milvus",
     "language": "\u2014",
@@ -61,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T19:24:19Z",
     "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-24T19:24:14Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
@@ -135,15 +171,6 @@
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 884,
-    "updated_at": "2026-09-24T19:17:16Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
     "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
     "language": "Jupyter Notebook",
@@ -180,6 +207,15 @@
     "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34795,
+    "updated_at": "2026-09-24T19:11:47Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
     "id": "jefffergunson118-beep/smara",
     "language": "\u2014",
@@ -194,7 +230,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9304,
-    "updated_at": "2026-09-24T19:30:27Z",
+    "updated_at": "2026-09-24T19:38:25Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -223,15 +259,6 @@
     "stars": 7110,
     "updated_at": "2026-09-24T19:07:59Z",
     "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-24T19:07:42Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
@@ -360,15 +387,6 @@
     "url": "https://github.com/sen-igga/IndexGPT"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34794,
-    "updated_at": "2026-09-24T19:11:47Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
     "id": "Zopze/TV-Show-Recommender-AI",
     "language": "Python",
@@ -401,7 +419,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 5,
-    "updated_at": "2026-09-24T18:51:14Z",
+    "updated_at": "2026-09-24T19:44:57Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T18:47:28Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 25,
-    "updated_at": "2026-09-24T18:46:56Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-24T18:45:54Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   }
 ]
