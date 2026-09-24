@@ -1,12 +1,129 @@
 [
   {
+    "description": "Agentic AI framework that drafts FDA cybersecurity SRAs for connected medical devices. Vector DB + Graph DB + MCP + Lang",
+    "id": "balajibankapur/agentic-sra-framework",
+    "language": "Python",
+    "name": "balajibankapur/agentic-sra-framework",
+    "stars": 0,
+    "updated_at": "2026-09-24T18:29:24Z",
+    "url": "https://github.com/balajibankapur/agentic-sra-framework"
+  },
+  {
+    "description": "",
+    "id": "KenBoller/Snowball",
+    "language": "Python",
+    "name": "KenBoller/Snowball",
+    "stars": 1,
+    "updated_at": "2026-09-24T18:29:15Z",
+    "url": "https://github.com/KenBoller/Snowball"
+  },
+  {
+    "description": "FastAPI + Qdrant vector storage and retrieval service for the ICICLE AI Tapis tenant. ",
+    "id": "ICICLE-ai/icicle-ai-vector-service",
+    "language": "Python",
+    "name": "ICICLE-ai/icicle-ai-vector-service",
+    "stars": 1,
+    "updated_at": "2026-09-24T18:28:45Z",
+    "url": "https://github.com/ICICLE-ai/icicle-ai-vector-service"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6456,
+    "updated_at": "2026-09-24T18:26:58Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-24T18:15:22Z",
+    "updated_at": "2026-09-24T18:24:50Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 83,
+    "updated_at": "2026-09-24T18:24:41Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 350,
+    "updated_at": "2026-09-24T18:24:18Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
+    "id": "TowsifAhamed/GameRagKit",
+    "language": "C#",
+    "name": "TowsifAhamed/GameRagKit",
+    "stars": 2,
+    "updated_at": "2026-09-24T18:22:43Z",
+    "url": "https://github.com/TowsifAhamed/GameRagKit"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-09-24T18:24:28Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Documenting my Generative & Agentic AI journey through projects, experiments, real-world applications, and hands-on expl",
+    "id": "therajarshichakraborty/Generative-And-Agentic-AI",
+    "language": "TypeScript",
+    "name": "therajarshichakraborty/Generative-And-Agentic-AI",
+    "stars": 2,
+    "updated_at": "2026-09-24T18:18:47Z",
+    "url": "https://github.com/therajarshichakraborty/Generative-And-Agentic-AI"
+  },
+  {
+    "description": "Spring Data Reindexer",
+    "id": "evgeniycheban/spring-data-reindexer",
+    "language": "Java",
+    "name": "evgeniycheban/spring-data-reindexer",
+    "stars": 23,
+    "updated_at": "2026-09-24T18:18:15Z",
+    "url": "https://github.com/evgeniycheban/spring-data-reindexer"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1352,
+    "updated_at": "2026-09-24T18:18:03Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-24T18:16:20Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-24T18:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -16,15 +133,6 @@
     "stars": 9,
     "updated_at": "2026-09-24T18:15:08Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
-    "id": "TowsifAhamed/GameRagKit",
-    "language": "C#",
-    "name": "TowsifAhamed/GameRagKit",
-    "stars": 2,
-    "updated_at": "2026-09-24T18:14:22Z",
-    "url": "https://github.com/TowsifAhamed/GameRagKit"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -95,7 +203,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9304,
-    "updated_at": "2026-09-24T18:14:47Z",
+    "updated_at": "2026-09-24T18:25:16Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -106,15 +214,6 @@
     "stars": 4,
     "updated_at": "2026-09-24T18:08:04Z",
     "url": "https://github.com/one2seven-oss/vivy"
-  },
-  {
-    "description": "Agentic AI framework that drafts FDA cybersecurity SRAs for connected medical devices. Vector DB + Graph DB + MCP + Lang",
-    "id": "balajibankapur/agentic-sra-framework",
-    "language": "Python",
-    "name": "balajibankapur/agentic-sra-framework",
-    "stars": 0,
-    "updated_at": "2026-09-24T18:04:22Z",
-    "url": "https://github.com/balajibankapur/agentic-sra-framework"
   },
   {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
@@ -135,31 +234,13 @@
     "url": "https://github.com/qdrant/qdrant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-24T18:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 30962,
+    "stars": 30963,
     "updated_at": "2026-09-24T18:00:02Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "",
-    "id": "KenBoller/Snowball",
-    "language": "Python",
-    "name": "KenBoller/Snowball",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:56:40Z",
-    "url": "https://github.com/KenBoller/Snowball"
   },
   {
     "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
@@ -178,15 +259,6 @@
     "stars": 6088,
     "updated_at": "2026-09-24T17:54:54Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Spring Data Reindexer",
-    "id": "evgeniycheban/spring-data-reindexer",
-    "language": "Java",
-    "name": "evgeniycheban/spring-data-reindexer",
-    "stars": 23,
-    "updated_at": "2026-09-24T18:14:11Z",
-    "url": "https://github.com/evgeniycheban/spring-data-reindexer"
   },
   {
     "description": "Self improving agents through iterations",
@@ -376,77 +448,5 @@
     "stars": 25,
     "updated_at": "2026-09-24T17:08:15Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:08:13Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2004,
-    "updated_at": "2026-09-24T17:31:44Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Hybrid RAG approach which blends Vector, Graph Database and Vectorless RAG for Retrieval of data and which will scale",
-    "id": "Senthilsivam41/kinegraph-v",
-    "language": "JavaScript",
-    "name": "Senthilsivam41/kinegraph-v",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:12:32Z",
-    "url": "https://github.com/Senthilsivam41/kinegraph-v"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:04:54Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:04:29Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 2,
-    "updated_at": "2026-09-24T17:04:13Z",
-    "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:04:08Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:03:51Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   }
 ]
