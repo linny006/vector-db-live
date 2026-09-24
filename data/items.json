@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T16:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-24T16:10:09Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30962,
+    "updated_at": "2026-09-24T16:08:06Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9303,
+    "updated_at": "2026-09-24T16:15:19Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 884,
+    "updated_at": "2026-09-24T16:05:04Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-24T16:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
     "id": "ahb-sjsu/turboquant-pro",
     "language": "Python",
@@ -23,8 +77,17 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1163,
-    "updated_at": "2026-09-24T15:54:06Z",
+    "updated_at": "2026-09-24T16:14:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6087,
+    "updated_at": "2026-09-24T16:12:22Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Self improving agents through iterations",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 116,
-    "updated_at": "2026-09-24T15:51:29Z",
+    "updated_at": "2026-09-24T16:03:44Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34789,
-    "updated_at": "2026-09-24T15:50:36Z",
+    "updated_at": "2026-09-24T16:12:59Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -50,7 +113,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8273,
-    "updated_at": "2026-09-24T15:49:28Z",
+    "updated_at": "2026-09-24T16:05:55Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -70,33 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T15:46:05Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-24T15:45:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T15:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-24T15:37:20Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -162,15 +198,6 @@
     "url": "https://github.com/evgeniycheban/spring-data-reindexer"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9303,
-    "updated_at": "2026-09-24T15:44:35Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
     "id": "n9524726-star/chatpdf-rag",
     "language": "Python",
@@ -203,7 +230,7 @@
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 8,
-    "updated_at": "2026-09-24T15:14:07Z",
+    "updated_at": "2026-09-24T16:12:28Z",
     "url": "https://github.com/sunormesky-max/epicode"
   },
   {
@@ -342,15 +369,6 @@
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 884,
-    "updated_at": "2026-09-24T14:58:18Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "\u4f01\u4e1a\u77e5\u8bc6\u5e93 RAG \u95ee\u7b54\u7cfb\u7edf\uff1aFastAPI + LangChain + ChromaDB + DeepSeek\uff1b34 \u4efd\u8bba\u6587\u8bed\u6599\u5b9e\u6d4b 10,643 \u5757\uff0cTop-3 \u6587\u6863\u7ea7\u547d\u4e2d\u7387 97.1%\uff0c\u7aef\u5230\u7aef 0.97s",
     "id": "Chihaya-Anon1/ai-demo",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-24T14:49:01Z",
     "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-09-24T14:48:28Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9450,
-    "updated_at": "2026-09-24T15:37:33Z",
-    "url": "https://github.com/databendlabs/databend"
   }
 ]
