@@ -1,5 +1,95 @@
 [
   {
+    "description": "Personal portfolio showcasing AI/ML projects, Python and PyTorch work, and my journey into deep learning.",
+    "id": "Qureshiii/Qureshiii",
+    "language": "\u2014",
+    "name": "Qureshiii/Qureshiii",
+    "stars": 0,
+    "updated_at": "2026-09-24T09:42:19Z",
+    "url": "https://github.com/Qureshiii/Qureshiii"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 25,
+    "updated_at": "2026-09-24T09:42:18Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4439,
+    "updated_at": "2026-09-24T09:42:13Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2001,
+    "updated_at": "2026-09-24T09:40:06Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7110,
+    "updated_at": "2026-09-24T09:39:59Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores",
+    "id": "4thel00z/qdrant-operator",
+    "language": "Python",
+    "name": "4thel00z/qdrant-operator",
+    "stars": 1,
+    "updated_at": "2026-09-24T09:39:07Z",
+    "url": "https://github.com/4thel00z/qdrant-operator"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-24T09:37:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34782,
+    "updated_at": "2026-09-24T09:37:24Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-24T09:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-24T09:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
     "id": "Cognipeer/console",
     "language": "TypeScript",
@@ -14,17 +104,8 @@
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-09-24T09:29:25Z",
+    "updated_at": "2026-09-24T09:31:02Z",
     "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 25,
-    "updated_at": "2026-09-24T09:28:53Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
@@ -34,24 +115,6 @@
     "stars": 46246,
     "updated_at": "2026-09-24T09:25:36Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4438,
-    "updated_at": "2026-09-24T09:27:57Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores",
-    "id": "4thel00z/qdrant-operator",
-    "language": "Python",
-    "name": "4thel00z/qdrant-operator",
-    "stars": 1,
-    "updated_at": "2026-09-24T09:23:16Z",
-    "url": "https://github.com/4thel00z/qdrant-operator"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -104,7 +167,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-09-24T09:16:11Z",
+    "updated_at": "2026-09-24T09:41:46Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -117,15 +180,6 @@
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2001,
-    "updated_at": "2026-09-24T09:15:59Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
     "id": "Bekhbekh7821/CanopyOps",
     "language": "\u2014",
@@ -133,24 +187,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T09:15:41Z",
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-24T09:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-24T09:15:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -169,15 +205,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T09:11:32Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-24T09:09:35Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -203,7 +230,7 @@
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 290,
-    "updated_at": "2026-09-24T09:12:26Z",
+    "updated_at": "2026-09-24T09:43:26Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -293,7 +320,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11517,
-    "updated_at": "2026-09-24T08:58:37Z",
+    "updated_at": "2026-09-24T09:41:26Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -356,7 +383,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-09-24T09:18:23Z",
+    "updated_at": "2026-09-24T09:41:29Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -396,15 +423,6 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34781,
-    "updated_at": "2026-09-24T08:47:14Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
     "id": "arpan10000/simple-rag-pipeline-demo",
     "language": "Jupyter Notebook",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-24T08:41:23Z",
     "url": "https://github.com/karthikbilaspur/ai_learning"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 16001,
-    "updated_at": "2026-09-24T08:41:07Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30957,
-    "updated_at": "2026-09-24T08:39:18Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
