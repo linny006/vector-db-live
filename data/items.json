@@ -5,8 +5,152 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-24T18:00:22Z",
+    "updated_at": "2026-09-24T18:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-24T18:15:08Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
+    "id": "TowsifAhamed/GameRagKit",
+    "language": "C#",
+    "name": "TowsifAhamed/GameRagKit",
+    "stars": 2,
+    "updated_at": "2026-09-24T18:14:22Z",
+    "url": "https://github.com/TowsifAhamed/GameRagKit"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-24T18:14:47Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Head of Product & Experience at Distinct AI. Official n8n creator building production-grade agentic RAG, multi-agent sys",
+    "id": "nenedesign/nenedesign",
+    "language": "\u2014",
+    "name": "nenedesign/nenedesign",
+    "stars": 0,
+    "updated_at": "2026-09-24T18:13:52Z",
+    "url": "https://github.com/nenedesign/nenedesign"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-24T18:12:00Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "An Enterprise-Grade Advanced RAG Engine powered by FastAPI, LangChain, Qdrant, and React. Engineered with Hybrid Search ",
+    "id": "MeetRamani28/Nexus-RAG",
+    "language": "TypeScript",
+    "name": "MeetRamani28/Nexus-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-24T18:11:08Z",
+    "url": "https://github.com/MeetRamani28/Nexus-RAG"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-24T18:11:07Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
+    "id": "DevAnimecx/free-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "DevAnimecx/free-ai-agent-stack",
+    "stars": 1,
+    "updated_at": "2026-09-24T18:10:00Z",
+    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 884,
+    "updated_at": "2026-09-24T18:09:47Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9304,
+    "updated_at": "2026-09-24T18:14:47Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "A library that's just an in-process indexer: A lightweight Rust engine with Python bindings for HNSW, PQ, and Flat that ",
+    "id": "one2seven-oss/vivy",
+    "language": "Rust",
+    "name": "one2seven-oss/vivy",
+    "stars": 4,
+    "updated_at": "2026-09-24T18:08:04Z",
+    "url": "https://github.com/one2seven-oss/vivy"
+  },
+  {
+    "description": "Agentic AI framework that drafts FDA cybersecurity SRAs for connected medical devices. Vector DB + Graph DB + MCP + Lang",
+    "id": "balajibankapur/agentic-sra-framework",
+    "language": "Python",
+    "name": "balajibankapur/agentic-sra-framework",
+    "stars": 0,
+    "updated_at": "2026-09-24T18:04:22Z",
+    "url": "https://github.com/balajibankapur/agentic-sra-framework"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 34,
+    "updated_at": "2026-09-24T18:01:06Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34792,
+    "updated_at": "2026-09-24T18:00:49Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-24T18:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30962,
+    "updated_at": "2026-09-24T18:00:02Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "",
@@ -18,15 +162,6 @@
     "url": "https://github.com/KenBoller/Snowball"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 884,
-    "updated_at": "2026-09-24T17:55:40Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
     "id": "ompatel3158/ULTSQL",
     "language": "Dart",
@@ -36,13 +171,13 @@
     "url": "https://github.com/ompatel3158/ULTSQL"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-24T17:54:34Z",
-    "url": "https://github.com/makr-code/ThemisDB"
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6088,
+    "updated_at": "2026-09-24T17:54:54Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Spring Data Reindexer",
@@ -50,35 +185,8 @@
     "language": "Java",
     "name": "evgeniycheban/spring-data-reindexer",
     "stars": 23,
-    "updated_at": "2026-09-24T17:54:33Z",
+    "updated_at": "2026-09-24T18:14:11Z",
     "url": "https://github.com/evgeniycheban/spring-data-reindexer"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30961,
-    "updated_at": "2026-09-24T18:00:02Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Agentic AI framework that drafts FDA cybersecurity SRAs for connected medical devices. Vector DB + Graph DB + MCP + Lang",
-    "id": "balajibankapur/agentic-sra-framework",
-    "language": "Python",
-    "name": "balajibankapur/agentic-sra-framework",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:45:32Z",
-    "url": "https://github.com/balajibankapur/agentic-sra-framework"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-24T17:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self improving agents through iterations",
@@ -108,15 +216,6 @@
     "url": "https://github.com/hallengray/rag-forge"
   },
   {
-    "description": "A RAG toolkit for building NPCs in game engines with Unity and Unreal Engine support",
-    "id": "TowsifAhamed/GameRagKit",
-    "language": "C#",
-    "name": "TowsifAhamed/GameRagKit",
-    "stars": 2,
-    "updated_at": "2026-09-24T17:39:18Z",
-    "url": "https://github.com/TowsifAhamed/GameRagKit"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
@@ -124,15 +223,6 @@
     "stars": 16842,
     "updated_at": "2026-09-24T17:38:20Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-24T17:34:30Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Learn basic to advance concept  and also understand the Production grade Concept and build Production Grade Product not ",
@@ -151,15 +241,6 @@
     "stars": 16,
     "updated_at": "2026-09-24T17:26:54Z",
     "url": "https://github.com/puffball1567/koutendb"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:52:20Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
@@ -232,15 +313,6 @@
     "stars": 0,
     "updated_at": "2026-09-24T17:14:57Z",
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
-    "id": "DevAnimecx/free-ai-agent-stack",
-    "language": "TypeScript",
-    "name": "DevAnimecx/free-ai-agent-stack",
-    "stars": 1,
-    "updated_at": "2026-09-24T17:14:49Z",
-    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -376,77 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-24T17:03:51Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 83,
-    "updated_at": "2026-09-24T17:01:07Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-09-24T17:00:54Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-09-24T17:00:08Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "\ud83d\uddfa\ufe0f Learn Vector Databases the school way: 8 branch-by-branch lessons + a REAL zero-dependency mini vector DB you can rea",
-    "id": "BaluRaut/learn-vectordb-school",
-    "language": "Python",
-    "name": "BaluRaut/learn-vectordb-school",
-    "stars": 0,
-    "updated_at": "2026-09-24T16:59:08Z",
-    "url": "https://github.com/BaluRaut/learn-vectordb-school"
-  },
-  {
-    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
-    "id": "sshisto/mnemo-mcp",
-    "language": "Python",
-    "name": "sshisto/mnemo-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-24T16:58:39Z",
-    "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 3,
-    "updated_at": "2026-09-24T16:58:35Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-09-24T16:58:05Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-24T16:55:35Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
   }
 ]
