@@ -1,12 +1,12 @@
 [
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6242,
-    "updated_at": "2026-09-24T15:24:06Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 7,
+    "updated_at": "2026-09-24T15:28:39Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
   },
   {
     "description": "Adaptive vector search with self-correcting embeddings. Fixes semantic collapse in RAG systems via spectral chelation, d",
@@ -14,8 +14,26 @@
     "language": "Python",
     "name": "mattmre/CHELATEDAI",
     "stars": 2,
-    "updated_at": "2026-09-24T15:24:04Z",
+    "updated_at": "2026-09-24T15:28:25Z",
     "url": "https://github.com/mattmre/CHELATEDAI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-24T15:24:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6242,
+    "updated_at": "2026-09-24T15:26:21Z",
+    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "\u533b\u5b66\u4f20\u64ad\u521b\u610f\u5411\u91cf\u77e5\u8bc6\u5e93 \u2014 \u8bed\u4e49\u68c0\u7d22 RAG + 52\u4e2a\u5168\u7403\u521b\u610f\u6848\u4f8b\u6df1\u5ea6\u62a5\u544a",
@@ -32,17 +50,8 @@
     "language": "Java",
     "name": "evgeniycheban/spring-data-reindexer",
     "stars": 23,
-    "updated_at": "2026-09-24T15:15:31Z",
+    "updated_at": "2026-09-24T15:25:20Z",
     "url": "https://github.com/evgeniycheban/spring-data-reindexer"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-24T15:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
@@ -59,7 +68,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9303,
-    "updated_at": "2026-09-24T15:23:37Z",
+    "updated_at": "2026-09-24T15:30:00Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 133,
     "updated_at": "2026-09-24T14:39:29Z",
     "url": "https://github.com/zilliztech/milvus-operator"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-24T14:38:34Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   }
 ]
