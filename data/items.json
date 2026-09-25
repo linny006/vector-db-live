@@ -1,5 +1,59 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-25T17:30:02Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2010,
+    "updated_at": "2026-09-25T17:26:07Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-25T17:23:51Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9306,
+    "updated_at": "2026-09-25T17:30:02Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
+    "id": "mudassirshahzad/project-eka",
+    "language": "Java",
+    "name": "mudassirshahzad/project-eka",
+    "stars": 1,
+    "updated_at": "2026-09-25T17:17:36Z",
+    "url": "https://github.com/mudassirshahzad/project-eka"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-25T17:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +77,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1164,
-    "updated_at": "2026-09-25T17:09:49Z",
+    "updated_at": "2026-09-25T17:20:54Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -81,24 +135,6 @@
     "url": "https://github.com/alxkm/java-ai-cookbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-25T17:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-25T17:03:20Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "A modern portfolio website powered by Strapi CMS and Next.js, featuring dynamic custom pages, flexible content rendering",
     "id": "PrathameshDhande22/Portfolio-Website",
     "language": "TypeScript",
@@ -126,24 +162,6 @@
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9306,
-    "updated_at": "2026-09-25T17:14:24Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-25T17:06:03Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "Head of Product & Experience at Distinct AI. Official n8n creator building production-grade agentic RAG, multi-agent sys",
     "id": "nenedesign/nenedesign",
     "language": "\u2014",
@@ -151,15 +169,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T16:43:12Z",
     "url": "https://github.com/nenedesign/nenedesign"
-  },
-  {
-    "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
-    "id": "mudassirshahzad/project-eka",
-    "language": "Java",
-    "name": "mudassirshahzad/project-eka",
-    "stars": 1,
-    "updated_at": "2026-09-25T16:42:20Z",
-    "url": "https://github.com/mudassirshahzad/project-eka"
   },
   {
     "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
@@ -356,7 +365,7 @@
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 8,
-    "updated_at": "2026-09-25T17:11:49Z",
+    "updated_at": "2026-09-25T17:22:00Z",
     "url": "https://github.com/sunormesky-max/epicode"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 1625,
     "updated_at": "2026-09-25T16:05:45Z",
     "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-25T16:04:40Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
   }
 ]
