@@ -1,5 +1,68 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T14:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A modern portfolio website powered by Strapi CMS and Next.js, featuring dynamic custom pages, flexible content rendering",
+    "id": "PrathameshDhande22/Portfolio-Website",
+    "language": "TypeScript",
+    "name": "PrathameshDhande22/Portfolio-Website",
+    "stars": 2,
+    "updated_at": "2026-09-25T14:42:59Z",
+    "url": "https://github.com/PrathameshDhande22/Portfolio-Website"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-25T14:38:03Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 24,
+    "updated_at": "2026-09-25T14:37:40Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 884,
+    "updated_at": "2026-09-25T14:33:33Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "LlamaIndex is the document processing platform for AI",
+    "id": "run-llama/llama_index",
+    "language": "Python",
+    "name": "run-llama/llama_index",
+    "stars": 52315,
+    "updated_at": "2026-09-25T14:31:14Z",
+    "url": "https://github.com/run-llama/llama_index"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-25T14:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Self-hosted, offline-first multi-agent meeting assistant for Agile teams with local LLMs, and real-time insights.",
     "id": "MeetingMind-AI/meetingmind-ai",
     "language": "Shell",
@@ -23,17 +86,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 5,
-    "updated_at": "2026-09-25T14:22:53Z",
+    "updated_at": "2026-09-25T14:44:12Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 884,
-    "updated_at": "2026-09-25T14:20:57Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
@@ -43,24 +97,6 @@
     "stars": 10,
     "updated_at": "2026-09-25T14:19:51Z",
     "url": "https://github.com/gonicolas12/My_AI"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-25T14:15:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T14:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain",
@@ -81,20 +117,11 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-25T14:10:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34814,
+    "stars": 34815,
     "updated_at": "2026-09-25T14:02:34Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -104,7 +131,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11528,
-    "updated_at": "2026-09-25T14:13:07Z",
+    "updated_at": "2026-09-25T14:44:25Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -121,8 +148,8 @@
     "id": "MariaDB/server",
     "language": "C++",
     "name": "MariaDB/server",
-    "stars": 8277,
-    "updated_at": "2026-09-25T14:00:48Z",
+    "stars": 8278,
+    "updated_at": "2026-09-25T14:42:27Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2009,
-    "updated_at": "2026-09-25T13:46:13Z",
+    "updated_at": "2026-09-25T14:30:39Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -167,7 +194,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30977,
-    "updated_at": "2026-09-25T14:02:33Z",
+    "updated_at": "2026-09-25T14:44:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T12:48:24Z",
     "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-25T12:46:36Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-25T12:46:08Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-09-25T12:44:04Z",
-    "url": "https://github.com/humanhady/DocMine"
   }
 ]
