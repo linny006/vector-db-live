@@ -1,11 +1,83 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T15:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multilingual hybrid-search RAG with FastAPI, LangChain & ChromaDB",
+    "id": "colombefioren/NUGGET--BACKEND",
+    "language": "Python",
+    "name": "colombefioren/NUGGET--BACKEND",
+    "stars": 0,
+    "updated_at": "2026-09-25T15:27:03Z",
+    "url": "https://github.com/colombefioren/NUGGET--BACKEND"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-25T15:25:54Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "A modern portfolio website powered by Strapi CMS and Next.js, featuring dynamic custom pages, flexible content rendering",
+    "id": "PrathameshDhande22/Portfolio-Website",
+    "language": "TypeScript",
+    "name": "PrathameshDhande22/Portfolio-Website",
+    "stars": 2,
+    "updated_at": "2026-09-25T15:24:42Z",
+    "url": "https://github.com/PrathameshDhande22/Portfolio-Website"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-09-25T15:24:28Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
+    "id": "ness-e/Vantadb",
+    "language": "Rust",
+    "name": "ness-e/Vantadb",
+    "stars": 2,
+    "updated_at": "2026-09-25T15:20:55Z",
+    "url": "https://github.com/ness-e/Vantadb"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 351,
+    "updated_at": "2026-09-25T15:19:09Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-25T15:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9306,
-    "updated_at": "2026-09-25T15:14:44Z",
+    "updated_at": "2026-09-25T15:19:42Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -45,24 +117,6 @@
     "url": "https://github.com/MZohaibBaig/rag-search-api"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-25T15:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T15:00:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Semantic product search over descriptions \u2014 FastAPI + Chroma + all-MiniLM-L6-v2, with price and rating filters.",
     "id": "MohanVishe/product-similarity-api",
     "language": "Jupyter Notebook",
@@ -79,15 +133,6 @@
     "stars": 34,
     "updated_at": "2026-09-25T14:59:56Z",
     "url": "https://github.com/maximilien/weave-cli"
-  },
-  {
-    "description": "A modern portfolio website powered by Strapi CMS and Next.js, featuring dynamic custom pages, flexible content rendering",
-    "id": "PrathameshDhande22/Portfolio-Website",
-    "language": "TypeScript",
-    "name": "PrathameshDhande22/Portfolio-Website",
-    "stars": 2,
-    "updated_at": "2026-09-25T15:04:37Z",
-    "url": "https://github.com/PrathameshDhande22/Portfolio-Website"
   },
   {
     "description": "Agentic AI framework that drafts FDA cybersecurity SRAs for connected medical devices. Vector DB + Graph DB + MCP + Lang",
@@ -113,7 +158,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30978,
-    "updated_at": "2026-09-25T14:55:14Z",
+    "updated_at": "2026-09-25T15:19:28Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -133,15 +178,6 @@
     "stars": 7,
     "updated_at": "2026-09-25T14:53:05Z",
     "url": "https://github.com/GCTRL-TECH/platform"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-25T15:05:12Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -212,7 +248,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34817,
-    "updated_at": "2026-09-25T14:02:34Z",
+    "updated_at": "2026-09-25T15:25:31Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 3,
-    "updated_at": "2026-09-25T14:52:09Z",
+    "updated_at": "2026-09-25T15:24:15Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -275,7 +311,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2009,
-    "updated_at": "2026-09-25T14:30:39Z",
+    "updated_at": "2026-09-25T15:22:14Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T13:05:15Z",
     "url": "https://github.com/Ayan-Ahmad-0/DocGuide"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 4,
-    "updated_at": "2026-09-25T13:02:28Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "AI-powered YouTube Q&A Assistant that extracts video transcripts and lets you chat, summarize, and semantically search t",
-    "id": "AbdulRehman393/youtube-qa-assistant",
-    "language": "Python",
-    "name": "AbdulRehman393/youtube-qa-assistant",
-    "stars": 9,
-    "updated_at": "2026-09-25T13:01:55Z",
-    "url": "https://github.com/AbdulRehman393/youtube-qa-assistant"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-09-25T13:01:50Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "Java",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-09-25T13:00:27Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
   }
 ]
