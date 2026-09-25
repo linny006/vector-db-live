@@ -1,5 +1,158 @@
 [
   {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 884,
+    "updated_at": "2026-09-25T07:14:55Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-25T07:14:10Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-25T07:12:23Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-25T07:12:17Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 5,
+    "updated_at": "2026-09-25T07:15:10Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
+    "id": "LnYo-Cly/ai4j",
+    "language": "HTML",
+    "name": "LnYo-Cly/ai4j",
+    "stars": 432,
+    "updated_at": "2026-09-25T07:11:58Z",
+    "url": "https://github.com/LnYo-Cly/ai4j"
+  },
+  {
+    "description": "TitanRAG - An open-source RAG infrastructure for building scalable, multi-tenant and multimodal AI applications.",
+    "id": "Aftabmallick/titanrag",
+    "language": "Python",
+    "name": "Aftabmallick/titanrag",
+    "stars": 3,
+    "updated_at": "2026-09-25T07:10:01Z",
+    "url": "https://github.com/Aftabmallick/titanrag"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-25T07:09:43Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7110,
+    "updated_at": "2026-09-25T07:06:49Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1624,
+    "updated_at": "2026-09-25T07:05:08Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
+    "id": "n9524726-star/chatpdf-rag",
+    "language": "Python",
+    "name": "n9524726-star/chatpdf-rag",
+    "stars": 0,
+    "updated_at": "2026-09-25T07:04:29Z",
+    "url": "https://github.com/n9524726-star/chatpdf-rag"
+  },
+  {
+    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
+    "id": "sarthaksinha2600/LLM-Contract",
+    "language": "\u2014",
+    "name": "sarthaksinha2600/LLM-Contract",
+    "stars": 0,
+    "updated_at": "2026-09-25T07:04:14Z",
+    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
+  },
+  {
+    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
+    "id": "Shitless-jnr3697/rebasis",
+    "language": "Python",
+    "name": "Shitless-jnr3697/rebasis",
+    "stars": 0,
+    "updated_at": "2026-09-25T07:03:21Z",
+    "url": "https://github.com/Shitless-jnr3697/rebasis"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 113,
+    "updated_at": "2026-09-25T07:02:31Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
+    "id": "boulif781/enterprise-knowledge-assistant",
+    "language": "\u2014",
+    "name": "boulif781/enterprise-knowledge-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-25T07:01:39Z",
+    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-25T07:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T07:15:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
     "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
     "language": "Jupyter Notebook",
@@ -18,6 +171,15 @@
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
   },
   {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9305,
+    "updated_at": "2026-09-25T06:58:47Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
     "id": "doriapt53/spring-manifold-next-gen",
     "language": "TypeScript",
@@ -25,6 +187,15 @@
     "stars": 0,
     "updated_at": "2026-09-25T06:56:59Z",
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16845,
+    "updated_at": "2026-09-25T06:55:26Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -68,17 +239,8 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 857,
-    "updated_at": "2026-09-25T06:57:54Z",
+    "updated_at": "2026-09-25T07:12:11Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-25T06:51:49Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
@@ -97,15 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-25T06:50:07Z",
     "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 5,
-    "updated_at": "2026-09-25T06:54:00Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
@@ -153,33 +306,6 @@
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-25T06:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T06:45:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 884,
-    "updated_at": "2026-09-25T07:00:11Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
     "id": "FIRE-hub911/citation-assistant",
     "language": "Shell",
@@ -187,15 +313,6 @@
     "stars": 3,
     "updated_at": "2026-09-25T06:44:13Z",
     "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
-    "id": "LnYo-Cly/ai4j",
-    "language": "HTML",
-    "name": "LnYo-Cly/ai4j",
-    "stars": 432,
-    "updated_at": "2026-09-25T06:56:01Z",
-    "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
     "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
@@ -252,6 +369,24 @@
     "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34805,
+    "updated_at": "2026-09-25T06:38:03Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11524,
+    "updated_at": "2026-09-25T06:37:52Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
     "id": "persona-net/rag-pipeline-dashboard",
     "language": "TypeScript",
@@ -259,15 +394,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T06:37:31Z",
     "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 113,
-    "updated_at": "2026-09-25T06:37:15Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
@@ -302,7 +428,7 @@
     "language": "Python",
     "name": "ahb-sjsu/turboquant-pro",
     "stars": 25,
-    "updated_at": "2026-09-25T06:34:34Z",
+    "updated_at": "2026-09-25T07:00:24Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
@@ -322,131 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T06:32:19Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2008,
-    "updated_at": "2026-09-25T06:29:40Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 83,
-    "updated_at": "2026-09-25T06:28:44Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
-    "id": "gxc02529-jpg/KnowLoop",
-    "language": "Python",
-    "name": "gxc02529-jpg/KnowLoop",
-    "stars": 0,
-    "updated_at": "2026-09-25T06:28:34Z",
-    "url": "https://github.com/gxc02529-jpg/KnowLoop"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-09-25T06:27:45Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7110,
-    "updated_at": "2026-09-25T06:55:46Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "\ud83d\uddc4 A Rust library designed as a specialized database for AI Agents, focusing on knowledge memory.",
-    "id": "ldclabs/anda-db",
-    "language": "Rust",
-    "name": "ldclabs/anda-db",
-    "stars": 31,
-    "updated_at": "2026-09-25T06:44:59Z",
-    "url": "https://github.com/ldclabs/anda-db"
-  },
-  {
-    "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and ente",
-    "id": "aicubetechnology/qilbeeDB",
-    "language": "Rust",
-    "name": "aicubetechnology/qilbeeDB",
-    "stars": 22,
-    "updated_at": "2026-09-25T06:26:58Z",
-    "url": "https://github.com/aicubetechnology/qilbeeDB"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 4,
-    "updated_at": "2026-09-25T06:26:29Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34806,
-    "updated_at": "2026-09-25T06:38:03Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-09-25T06:20:31Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-09-25T06:20:28Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
-    "id": "ermermermermidk/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ermermermermidk/mcp-ai-memory",
-    "stars": 1,
-    "updated_at": "2026-09-25T06:19:55Z",
-    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-09-25T06:17:35Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
-    "id": "ness-e/Vantadb",
-    "language": "Rust",
-    "name": "ness-e/Vantadb",
-    "stars": 2,
-    "updated_at": "2026-09-25T06:16:36Z",
-    "url": "https://github.com/ness-e/Vantadb"
   }
 ]
