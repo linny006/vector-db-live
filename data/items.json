@@ -1,5 +1,41 @@
 [
   {
+    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
+    "id": "clizardyy/unbody",
+    "language": "TypeScript",
+    "name": "clizardyy/unbody",
+    "stars": 5,
+    "updated_at": "2026-09-25T23:05:16Z",
+    "url": "https://github.com/clizardyy/unbody"
+  },
+  {
+    "description": "Learn TypeScript chatting effortlessly with AI",
+    "id": "Maurellone/TySVA",
+    "language": "Python",
+    "name": "Maurellone/TySVA",
+    "stars": 1,
+    "updated_at": "2026-09-25T23:05:15Z",
+    "url": "https://github.com/Maurellone/TySVA"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1625,
+    "updated_at": "2026-09-25T23:04:11Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-25T23:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,7 +68,7 @@
     "language": "TypeScript",
     "name": "nacre-work/nacre",
     "stars": 1,
-    "updated_at": "2026-09-25T22:59:13Z",
+    "updated_at": "2026-09-25T23:03:26Z",
     "url": "https://github.com/nacre-work/nacre"
   },
   {
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T22:46:25Z",
     "url": "https://github.com/DanielTrindade/ask-me-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-25T22:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An air-gapped, multi-modal AI architecture integrating Llama 3.2 1B, FAISS vector embeddings, and Hugging Face diffusers",
@@ -212,7 +239,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9307,
-    "updated_at": "2026-09-25T22:40:26Z",
+    "updated_at": "2026-09-25T23:01:26Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -232,15 +259,6 @@
     "stars": 2,
     "updated_at": "2026-09-25T21:08:36Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1625,
-    "updated_at": "2026-09-25T22:39:52Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -311,7 +329,7 @@
     "language": "Python",
     "name": "jaytipargal/jayti",
     "stars": 0,
-    "updated_at": "2026-09-25T20:48:52Z",
+    "updated_at": "2026-09-25T23:03:41Z",
     "url": "https://github.com/jaytipargal/jayti"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-25T20:34:28Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline.",
-    "id": "darylalim/rag-pipeline",
-    "language": "Python",
-    "name": "darylalim/rag-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-25T20:33:31Z",
-    "url": "https://github.com/darylalim/rag-pipeline"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 4,
-    "updated_at": "2026-09-25T20:31:48Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
