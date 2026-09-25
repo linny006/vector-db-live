@@ -1,12 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T19:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9308,
+    "updated_at": "2026-09-25T19:49:03Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
@@ -14,8 +14,26 @@
     "language": "TypeScript",
     "name": "PunGrumpy/vecstore-sdk",
     "stars": 2,
-    "updated_at": "2026-09-25T19:42:50Z",
+    "updated_at": "2026-09-25T19:48:52Z",
     "url": "https://github.com/PunGrumpy/vecstore-sdk"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-25T19:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T19:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -97,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T19:31:53Z",
     "url": "https://github.com/dudanogueira/weaviate-php-client"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-25T19:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self improving agents through iterations",
@@ -221,7 +230,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-09-25T19:41:13Z",
+    "updated_at": "2026-09-25T19:46:50Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -313,15 +322,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T18:33:12Z",
     "url": "https://github.com/api-evangelist/chroma"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9308,
-    "updated_at": "2026-09-25T19:43:01Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
