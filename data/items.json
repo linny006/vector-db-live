@@ -1,5 +1,95 @@
 [
   {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 857,
+    "updated_at": "2026-09-25T07:44:39Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "An agentic, plug-and-play RAG architecture utilizing Two-Stage Vector Retrieval, RAPTOR, and Neo4j Knowledge Graphs for ",
+    "id": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
+    "language": "JavaScript",
+    "name": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
+    "stars": 1,
+    "updated_at": "2026-09-25T07:41:57Z",
+    "url": "https://github.com/Saransh482003/RAGner-Tri-Modal-RAG-Framework"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-25T07:39:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 290,
+    "updated_at": "2026-09-25T07:43:39Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 7,
+    "updated_at": "2026-09-25T07:40:45Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-09-25T07:38:18Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1352,
+    "updated_at": "2026-09-25T07:37:11Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 884,
+    "updated_at": "2026-09-25T07:35:45Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-09-25T07:32:59Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-25T07:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -36,6 +126,15 @@
     "url": "https://github.com/aicubetechnology/qilbeeDB"
   },
   {
+    "description": "This is an RAG chat application where users can upload a PDF document and ask questions related to its content",
+    "id": "BharateshPoojary/ask-pdf",
+    "language": "TypeScript",
+    "name": "BharateshPoojary/ask-pdf",
+    "stars": 0,
+    "updated_at": "2026-09-25T07:24:39Z",
+    "url": "https://github.com/BharateshPoojary/ask-pdf"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -52,24 +151,6 @@
     "stars": 1965,
     "updated_at": "2026-09-25T07:16:36Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-25T07:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 884,
-    "updated_at": "2026-09-25T07:14:55Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -90,15 +171,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-25T07:12:17Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...), Tool Calling, MCP, RAG, Agent R",
     "id": "LnYo-Cly/ai4j",
     "language": "HTML",
@@ -113,7 +185,7 @@
     "language": "Python",
     "name": "Aftabmallick/titanrag",
     "stars": 3,
-    "updated_at": "2026-09-25T07:10:01Z",
+    "updated_at": "2026-09-25T07:45:15Z",
     "url": "https://github.com/Aftabmallick/titanrag"
   },
   {
@@ -212,7 +284,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9305,
-    "updated_at": "2026-09-25T07:28:14Z",
+    "updated_at": "2026-09-25T07:36:54Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -230,7 +302,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16845,
-    "updated_at": "2026-09-25T06:55:26Z",
+    "updated_at": "2026-09-25T07:43:58Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -268,15 +340,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T06:52:18Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 857,
-    "updated_at": "2026-09-25T07:28:59Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-25T06:41:40Z",
     "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 7,
-    "updated_at": "2026-09-25T06:41:40Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-25T06:39:28Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34805,
-    "updated_at": "2026-09-25T06:38:03Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11524,
-    "updated_at": "2026-09-25T06:37:52Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-25T06:37:31Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-09-25T06:36:25Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "An embedded vector database written from scratch in C++ \u2014 HNSW index, WAL-backed storage, benchmarked against Qdrant and",
-    "id": "amankarki151/lattice",
-    "language": "C++",
-    "name": "amankarki151/lattice",
-    "stars": 1,
-    "updated_at": "2026-09-25T06:35:46Z",
-    "url": "https://github.com/amankarki151/lattice"
   }
 ]
