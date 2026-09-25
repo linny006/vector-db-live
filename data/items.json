@@ -5,17 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-25T19:15:23Z",
+    "updated_at": "2026-09-25T19:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
     "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 25,
-    "updated_at": "2026-09-25T19:13:44Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 116,
+    "updated_at": "2026-09-25T19:29:46Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 351,
+    "updated_at": "2026-09-25T19:28:10Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "PHP client for the Weaviate vector database: gRPC-first, with feature parity to the Python v4 client",
+    "id": "dudanogueira/weaviate-php-client",
+    "language": "PHP",
+    "name": "dudanogueira/weaviate-php-client",
+    "stars": 0,
+    "updated_at": "2026-09-25T19:26:28Z",
+    "url": "https://github.com/dudanogueira/weaviate-php-client"
+  },
+  {
+    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
+    "id": "nacre-work/nacre",
+    "language": "TypeScript",
+    "name": "nacre-work/nacre",
+    "stars": 1,
+    "updated_at": "2026-09-25T19:27:53Z",
+    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -23,8 +50,71 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 66466,
-    "updated_at": "2026-09-25T19:08:30Z",
+    "updated_at": "2026-09-25T19:23:13Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
+    "id": "api-evangelist/datastax",
+    "language": "\u2014",
+    "name": "api-evangelist/datastax",
+    "stars": 0,
+    "updated_at": "2026-09-25T19:22:38Z",
+    "url": "https://github.com/api-evangelist/datastax"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 25,
+    "updated_at": "2026-09-25T19:28:02Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-25T19:28:58Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
+    "id": "ness-e/Vantadb",
+    "language": "Rust",
+    "name": "ness-e/Vantadb",
+    "stars": 2,
+    "updated_at": "2026-09-25T19:29:40Z",
+    "url": "https://github.com/ness-e/Vantadb"
+  },
+  {
+    "description": "Agent driven workflow for the talent acquisition department, solves issues for both end of the spectrum ie the Recruiter",
+    "id": "Srijan-Petwal/Talent-Acquisition-Agent",
+    "language": "Python",
+    "name": "Srijan-Petwal/Talent-Acquisition-Agent",
+    "stars": 0,
+    "updated_at": "2026-09-25T19:16:56Z",
+    "url": "https://github.com/Srijan-Petwal/Talent-Acquisition-Agent"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 2,
+    "updated_at": "2026-09-25T19:16:25Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-25T19:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -63,15 +153,6 @@
     "url": "https://github.com/remembra-ai/remembra"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-25T19:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Streaming RAG chatbot over personal documents - live at ask.danieltrindade.dev (Next.js, Vercel AI SDK, Supabase pgvecto",
     "id": "DanielTrindade/ask-me-rag",
     "language": "TypeScript",
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-09-25T19:07:51Z",
+    "updated_at": "2026-09-25T19:29:19Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -104,7 +185,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1164,
-    "updated_at": "2026-09-25T19:03:46Z",
+    "updated_at": "2026-09-25T19:30:19Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -126,15 +207,6 @@
     "url": "https://github.com/Yasou13/MESA"
   },
   {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 2,
-    "updated_at": "2026-09-25T19:04:04Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
     "description": "This is an RAG chat application where users can upload a PDF document and ask questions related to its content",
     "id": "BharateshPoojary/ask-pdf",
     "language": "TypeScript",
@@ -149,26 +221,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34822,
-    "updated_at": "2026-09-25T18:47:11Z",
+    "updated_at": "2026-09-25T19:25:39Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
-    "id": "ness-e/Vantadb",
-    "language": "Rust",
-    "name": "ness-e/Vantadb",
-    "stars": 2,
-    "updated_at": "2026-09-25T19:00:24Z",
-    "url": "https://github.com/ness-e/Vantadb"
-  },
-  {
-    "description": "Self-hosted permission-aware context layer for agents. MCP + API.",
-    "id": "nacre-work/nacre",
-    "language": "TypeScript",
-    "name": "nacre-work/nacre",
-    "stars": 1,
-    "updated_at": "2026-09-25T18:45:00Z",
-    "url": "https://github.com/nacre-work/nacre"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -198,15 +252,6 @@
     "url": "https://github.com/devharis99/vectra"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 351,
-    "updated_at": "2026-09-25T18:33:12Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
     "id": "api-evangelist/chroma",
     "language": "\u2014",
@@ -221,7 +266,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9308,
-    "updated_at": "2026-09-25T19:14:22Z",
+    "updated_at": "2026-09-25T19:16:41Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -378,15 +423,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-25T19:04:43Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
     "id": "leo2007960216/deeprecall",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-25T18:10:51Z",
     "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-09-25T18:09:47Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-25T18:09:20Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
-    "id": "hseshadr/edgeproc-core",
-    "language": "Python",
-    "name": "hseshadr/edgeproc-core",
-    "stars": 0,
-    "updated_at": "2026-09-25T18:09:17Z",
-    "url": "https://github.com/hseshadr/edgeproc-core"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 884,
-    "updated_at": "2026-09-25T19:08:11Z",
-    "url": "https://github.com/orneryd/NornicDB"
   }
 ]
