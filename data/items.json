@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-25T00:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 113,
+    "updated_at": "2026-09-25T00:30:19Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
+    "id": "tapiruslab/TapirusDB",
+    "language": "Rust",
+    "name": "tapiruslab/TapirusDB",
+    "stars": 0,
+    "updated_at": "2026-09-25T00:29:00Z",
+    "url": "https://github.com/tapiruslab/TapirusDB"
+  },
+  {
+    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
+    "id": "2B-4G10/NoLockQS",
+    "language": "Kotlin",
+    "name": "2B-4G10/NoLockQS",
+    "stars": 0,
+    "updated_at": "2026-09-25T00:26:45Z",
+    "url": "https://github.com/2B-4G10/NoLockQS"
+  },
+  {
+    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
+    "id": "LuisinTheLegend/ConciergeGraph",
+    "language": "Python",
+    "name": "LuisinTheLegend/ConciergeGraph",
+    "stars": 1,
+    "updated_at": "2026-09-25T00:25:26Z",
+    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
+  },
+  {
+    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
+    "id": "SuperInstance/SuperInstance",
+    "language": "Python",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-09-25T00:24:45Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-25T00:24:10Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Embeddable vector database for edge AI",
+    "id": "vanedb/vanedb",
+    "language": "Rust",
+    "name": "vanedb/vanedb",
+    "stars": 0,
+    "updated_at": "2026-09-25T00:25:35Z",
+    "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-25T00:24:06Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 4,
+    "updated_at": "2026-09-25T00:17:11Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1624,
+    "updated_at": "2026-09-25T00:21:25Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-25T00:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "QilbeeDB is a cloud-agnostic, high-performance graph database built for autonomous AI agents, real-time memory, and ente",
     "id": "aicubetechnology/qilbeeDB",
     "language": "Rust",
@@ -14,53 +122,17 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-25T00:14:12Z",
+    "updated_at": "2026-09-25T00:20:02Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
-    "id": "LuisinTheLegend/ConciergeGraph",
+    "description": "A developer toolkit for analyzing RAG pipelines. Includes implementations of advanced retrieval strategies and diagnosti",
+    "id": "Piyush-Sambyall/rag-patterns-and-pitfalls",
     "language": "Python",
-    "name": "LuisinTheLegend/ConciergeGraph",
-    "stars": 1,
-    "updated_at": "2026-09-25T00:12:19Z",
-    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
+    "name": "Piyush-Sambyall/rag-patterns-and-pitfalls",
     "stars": 0,
-    "updated_at": "2026-09-25T00:11:20Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
-    "id": "tapiruslab/TapirusDB",
-    "language": "Rust",
-    "name": "tapiruslab/TapirusDB",
-    "stars": 0,
-    "updated_at": "2026-09-25T00:02:19Z",
-    "url": "https://github.com/tapiruslab/TapirusDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-25T00:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-25T00:00:11Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-09-25T00:10:54Z",
+    "url": "https://github.com/Piyush-Sambyall/rag-patterns-and-pitfalls"
   },
   {
     "description": "",
@@ -86,7 +158,7 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 66433,
-    "updated_at": "2026-09-24T23:52:54Z",
+    "updated_at": "2026-09-25T00:25:56Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -97,15 +169,6 @@
     "stars": 801,
     "updated_at": "2026-09-24T23:52:49Z",
     "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1624,
-    "updated_at": "2026-09-24T23:51:41Z",
-    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "Local-first encrypted memory for AI agents",
@@ -140,26 +203,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9304,
-    "updated_at": "2026-09-25T00:07:50Z",
+    "updated_at": "2026-09-25T00:28:42Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 113,
-    "updated_at": "2026-09-24T23:34:26Z",
-    "url": "https://github.com/hanyeol/model-compose"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-24T23:33:41Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -250,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-09-24T23:21:03Z",
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "The system that builds itself. 500+ repos, 6000+ tests. Agent-readable onboarding from nothing to everything. Read ONBOA",
-    "id": "SuperInstance/SuperInstance",
-    "language": "Python",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 7,
-    "updated_at": "2026-09-24T23:28:29Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-24T23:00:56Z",
     "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-24T22:59:06Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-09-24T22:58:00Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-09-24T22:56:45Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-24T22:55:18Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
