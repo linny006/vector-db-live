@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-25T14:45:21Z",
+    "updated_at": "2026-09-25T15:00:26Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Semantic product search over descriptions \u2014 FastAPI + Chroma + all-MiniLM-L6-v2, with price and rating filters.",
+    "id": "MohanVishe/product-similarity-api",
+    "language": "Jupyter Notebook",
+    "name": "MohanVishe/product-similarity-api",
+    "stars": 0,
+    "updated_at": "2026-09-25T15:00:25Z",
+    "url": "https://github.com/MohanVishe/product-similarity-api"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 34,
+    "updated_at": "2026-09-25T14:59:56Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "Universal memory layer for AI applications. Self-host in minutes. Open source.",
+    "id": "remembra-ai/remembra",
+    "language": "HTML",
+    "name": "remembra-ai/remembra",
+    "stars": 15,
+    "updated_at": "2026-09-25T14:59:14Z",
+    "url": "https://github.com/remembra-ai/remembra"
   },
   {
     "description": "A modern portfolio website powered by Strapi CMS and Next.js, featuring dynamic custom pages, flexible content rendering",
@@ -14,8 +41,62 @@
     "language": "TypeScript",
     "name": "PrathameshDhande22/Portfolio-Website",
     "stars": 2,
-    "updated_at": "2026-09-25T14:42:59Z",
+    "updated_at": "2026-09-25T14:59:55Z",
     "url": "https://github.com/PrathameshDhande22/Portfolio-Website"
+  },
+  {
+    "description": "Agentic AI framework that drafts FDA cybersecurity SRAs for connected medical devices. Vector DB + Graph DB + MCP + Lang",
+    "id": "balajibankapur/agentic-sra-framework",
+    "language": "Python",
+    "name": "balajibankapur/agentic-sra-framework",
+    "stars": 0,
+    "updated_at": "2026-09-25T14:56:01Z",
+    "url": "https://github.com/balajibankapur/agentic-sra-framework"
+  },
+  {
+    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
+    "id": "sh1v-max/AI-Backend",
+    "language": "TypeScript",
+    "name": "sh1v-max/AI-Backend",
+    "stars": 0,
+    "updated_at": "2026-09-25T14:55:42Z",
+    "url": "https://github.com/sh1v-max/AI-Backend"
+  },
+  {
+    "description": "Medical Q&A chatbot grounded in a PDF corpus \u2014 RAG with Llama 2, LangChain and Pinecone. Answers cite their pages; the p",
+    "id": "MohanVishe/medical-rag-chatbot",
+    "language": "Python",
+    "name": "MohanVishe/medical-rag-chatbot",
+    "stars": 1,
+    "updated_at": "2026-09-25T14:54:36Z",
+    "url": "https://github.com/MohanVishe/medical-rag-chatbot"
+  },
+  {
+    "description": "Governed graph-native agent memory: knowledge extraction, fusion, hybrid RAG, scoped access tokens. A push for data sove",
+    "id": "GCTRL-TECH/platform",
+    "language": "TypeScript",
+    "name": "GCTRL-TECH/platform",
+    "stars": 7,
+    "updated_at": "2026-09-25T14:53:05Z",
+    "url": "https://github.com/GCTRL-TECH/platform"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-25T14:54:57Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-25T14:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -32,7 +113,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 24,
-    "updated_at": "2026-09-25T14:37:40Z",
+    "updated_at": "2026-09-25T14:52:49Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -41,7 +122,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 884,
-    "updated_at": "2026-09-25T14:33:33Z",
+    "updated_at": "2026-09-25T14:57:27Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -54,15 +135,6 @@
     "url": "https://github.com/run-llama/llama_index"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-25T14:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Self-hosted, offline-first multi-agent meeting assistant for Agile teams with local LLMs, and real-time insights.",
     "id": "MeetingMind-AI/meetingmind-ai",
     "language": "Shell",
@@ -70,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-09-25T14:25:12Z",
     "url": "https://github.com/MeetingMind-AI/meetingmind-ai"
-  },
-  {
-    "description": "Agentic AI framework that drafts FDA cybersecurity SRAs for connected medical devices. Vector DB + Graph DB + MCP + Lang",
-    "id": "balajibankapur/agentic-sra-framework",
-    "language": "Python",
-    "name": "balajibankapur/agentic-sra-framework",
-    "stars": 0,
-    "updated_at": "2026-09-25T14:21:47Z",
-    "url": "https://github.com/balajibankapur/agentic-sra-framework"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -121,7 +184,7 @@
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
-    "stars": 34815,
+    "stars": 34817,
     "updated_at": "2026-09-25T14:02:34Z",
     "url": "https://github.com/qdrant/qdrant"
   },
@@ -131,7 +194,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11528,
-    "updated_at": "2026-09-25T14:44:25Z",
+    "updated_at": "2026-09-25T14:57:18Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -149,7 +212,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8278,
-    "updated_at": "2026-09-25T14:42:27Z",
+    "updated_at": "2026-09-25T14:57:44Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -176,7 +239,7 @@
     "language": "Python",
     "name": "thameema/memnos",
     "stars": 3,
-    "updated_at": "2026-09-25T13:51:39Z",
+    "updated_at": "2026-09-25T14:52:09Z",
     "url": "https://github.com/thameema/memnos"
   },
   {
@@ -194,8 +257,17 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30977,
-    "updated_at": "2026-09-25T14:44:23Z",
+    "updated_at": "2026-09-25T14:55:14Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12979,
+    "updated_at": "2026-09-25T13:25:26Z",
+    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
@@ -223,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-09-25T13:19:39Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12978,
-    "updated_at": "2026-09-25T13:25:26Z",
-    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -383,70 +446,7 @@
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 8,
-    "updated_at": "2026-09-25T14:10:09Z",
+    "updated_at": "2026-09-25T14:51:10Z",
     "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
-    "description": "Model Context Protocol (MCP) Bootcamp offers a deep dive into MCP architecture and its role in the Agentic AI ecosystem.",
-    "id": "Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP",
-    "language": "\u2014",
-    "name": "Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP",
-    "stars": 5,
-    "updated_at": "2026-09-25T12:55:51Z",
-    "url": "https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 4,
-    "updated_at": "2026-09-25T12:55:31Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-09-25T12:53:03Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 2,
-    "updated_at": "2026-09-25T12:52:16Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-09-25T12:51:00Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-09-25T12:49:57Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-09-25T12:48:24Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
   }
 ]
