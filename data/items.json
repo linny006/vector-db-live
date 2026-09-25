@@ -5,8 +5,188 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-25T04:45:18Z",
+    "updated_at": "2026-09-25T05:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
+    "id": "Deafened-vascularstructure846/pageindex-rag",
+    "language": "Python",
+    "name": "Deafened-vascularstructure846/pageindex-rag",
+    "stars": 1,
+    "updated_at": "2026-09-25T04:59:46Z",
+    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
+  },
+  {
+    "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
+    "id": "mudassirshahzad/project-eka",
+    "language": "Java",
+    "name": "mudassirshahzad/project-eka",
+    "stars": 1,
+    "updated_at": "2026-09-25T04:59:01Z",
+    "url": "https://github.com/mudassirshahzad/project-eka"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 113,
+    "updated_at": "2026-09-25T04:57:00Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
+    "id": "Uncomfortable-filagree112/OpenViking",
+    "language": "\u2014",
+    "name": "Uncomfortable-filagree112/OpenViking",
+    "stars": 0,
+    "updated_at": "2026-09-25T04:56:54Z",
+    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
+  },
+  {
+    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
+    "id": "cornellebivalved856/example-multimodal-rag",
+    "language": "Python",
+    "name": "cornellebivalved856/example-multimodal-rag",
+    "stars": 0,
+    "updated_at": "2026-09-25T04:56:28Z",
+    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
+  },
+  {
+    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
+    "id": "Boney-massiveness357/ragscope",
+    "language": "Python",
+    "name": "Boney-massiveness357/ragscope",
+    "stars": 0,
+    "updated_at": "2026-09-25T04:56:21Z",
+    "url": "https://github.com/Boney-massiveness357/ragscope"
+  },
+  {
+    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
+    "id": "conceited-watergillyflower311/meilisearch-desktop",
+    "language": "TypeScript",
+    "name": "conceited-watergillyflower311/meilisearch-desktop",
+    "stars": 1,
+    "updated_at": "2026-09-25T04:56:00Z",
+    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
+  },
+  {
+    "description": "Heros is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. Bayma",
+    "id": "Hudsonmathew1910/Hero-s-AI",
+    "language": "JavaScript",
+    "name": "Hudsonmathew1910/Hero-s-AI",
+    "stars": 2,
+    "updated_at": "2026-09-25T04:55:49Z",
+    "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
+  },
+  {
+    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
+    "id": "FIRE-hub911/citation-assistant",
+    "language": "Shell",
+    "name": "FIRE-hub911/citation-assistant",
+    "stars": 3,
+    "updated_at": "2026-09-25T04:53:06Z",
+    "url": "https://github.com/FIRE-hub911/citation-assistant"
+  },
+  {
+    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
+    "id": "K3Tamaa/Vector-Forge",
+    "language": "\u2014",
+    "name": "K3Tamaa/Vector-Forge",
+    "stars": 0,
+    "updated_at": "2026-09-25T04:52:28Z",
+    "url": "https://github.com/K3Tamaa/Vector-Forge"
+  },
+  {
+    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
+    "id": "sshisto/mnemo-mcp",
+    "language": "Python",
+    "name": "sshisto/mnemo-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-25T04:51:07Z",
+    "url": "https://github.com/sshisto/mnemo-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
+    "id": "sen-igga/IndexGPT",
+    "language": "JavaScript",
+    "name": "sen-igga/IndexGPT",
+    "stars": 3,
+    "updated_at": "2026-09-25T04:51:05Z",
+    "url": "https://github.com/sen-igga/IndexGPT"
+  },
+  {
+    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
+    "id": "Zopze/TV-Show-Recommender-AI",
+    "language": "Python",
+    "name": "Zopze/TV-Show-Recommender-AI",
+    "stars": 1,
+    "updated_at": "2026-09-25T04:50:38Z",
+    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 884,
+    "updated_at": "2026-09-25T04:49:28Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-25T04:48:33Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
+    "id": "Ojcalzada/pulsepoint-RAG",
+    "language": "Python",
+    "name": "Ojcalzada/pulsepoint-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-25T04:48:26Z",
+    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
+  },
+  {
+    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
+    "id": "persona-net/rag-pipeline-dashboard",
+    "language": "TypeScript",
+    "name": "persona-net/rag-pipeline-dashboard",
+    "stars": 0,
+    "updated_at": "2026-09-25T04:46:33Z",
+    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 83,
+    "updated_at": "2026-09-25T04:46:16Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
+    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "language": "Python",
+    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
+    "stars": 2,
+    "updated_at": "2026-09-25T04:45:29Z",
+    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-25T04:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
@@ -41,7 +221,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 285,
-    "updated_at": "2026-09-25T04:42:29Z",
+    "updated_at": "2026-09-25T04:52:31Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -52,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T04:41:16Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
-    "id": "mudassirshahzad/project-eka",
-    "language": "Java",
-    "name": "mudassirshahzad/project-eka",
-    "stars": 1,
-    "updated_at": "2026-09-25T04:44:19Z",
-    "url": "https://github.com/mudassirshahzad/project-eka"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -126,15 +297,6 @@
     "url": "https://github.com/LnYo-Cly/ai4j"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-25T04:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
     "id": "Mehdi138534/ai-news-scraper",
     "language": "HTML",
@@ -167,7 +329,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-25T04:44:00Z",
+    "updated_at": "2026-09-25T04:53:11Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -212,7 +374,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1163,
-    "updated_at": "2026-09-25T03:46:33Z",
+    "updated_at": "2026-09-25T04:56:24Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -223,15 +385,6 @@
     "stars": 0,
     "updated_at": "2026-09-25T03:36:51Z",
     "url": "https://github.com/BaluRaut/learn-vectordb-school"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 884,
-    "updated_at": "2026-09-25T03:23:25Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
@@ -295,158 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-25T03:10:51Z",
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
-    "id": "Bekhbekh7821/CanopyOps",
-    "language": "\u2014",
-    "name": "Bekhbekh7821/CanopyOps",
-    "stars": 1,
-    "updated_at": "2026-09-25T03:10:30Z",
-    "url": "https://github.com/Bekhbekh7821/CanopyOps"
-  },
-  {
-    "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
-    "id": "doriapt53/spring-manifold-next-gen",
-    "language": "TypeScript",
-    "name": "doriapt53/spring-manifold-next-gen",
-    "stars": 0,
-    "updated_at": "2026-09-25T03:08:09Z",
-    "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
-    "stars": 0,
-    "updated_at": "2026-09-25T03:06:33Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
-    "id": "jefffergunson118-beep/smara",
-    "language": "\u2014",
-    "name": "jefffergunson118-beep/smara",
-    "stars": 1,
-    "updated_at": "2026-09-25T03:04:28Z",
-    "url": "https://github.com/jefffergunson118-beep/smara"
-  },
-  {
-    "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
-    "id": "Twentyeight-lawnchair711/AlayaRenderer",
-    "language": "\u2014",
-    "name": "Twentyeight-lawnchair711/AlayaRenderer",
-    "stars": 0,
-    "updated_at": "2026-09-25T03:03:36Z",
-    "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11522,
-    "updated_at": "2026-09-25T03:51:54Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-09-25T03:02:05Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
-    "id": "project-david-ai/projectdavid-platform",
-    "language": "Python",
-    "name": "project-david-ai/projectdavid-platform",
-    "stars": 1,
-    "updated_at": "2026-09-25T03:01:25Z",
-    "url": "https://github.com/project-david-ai/projectdavid-platform"
-  },
-  {
-    "description": "Self-hosted Dakera AI memory server \u2014 Docker Compose, Kubernetes, Helm, HA cluster setup, and monitoring.",
-    "id": "Dakera-AI/dakera-deploy",
-    "language": "JavaScript",
-    "name": "Dakera-AI/dakera-deploy",
-    "stars": 18,
-    "updated_at": "2026-09-25T03:00:42Z",
-    "url": "https://github.com/Dakera-AI/dakera-deploy"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-09-25T02:59:09Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-09-25T02:58:50Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-09-25T02:58:34Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-09-25T02:58:21Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
-    "id": "2B-4G10/NoLockQS",
-    "language": "Kotlin",
-    "name": "2B-4G10/NoLockQS",
-    "stars": 0,
-    "updated_at": "2026-09-25T02:56:05Z",
-    "url": "https://github.com/2B-4G10/NoLockQS"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-09-25T02:55:33Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
-    "id": "K3Tamaa/Vector-Forge",
-    "language": "\u2014",
-    "name": "K3Tamaa/Vector-Forge",
-    "stars": 0,
-    "updated_at": "2026-09-25T02:54:50Z",
-    "url": "https://github.com/K3Tamaa/Vector-Forge"
-  },
-  {
-    "description": "\ud83e\udde0 Manage persistent AI memory with hybrid search and embedded sync for open, free, and unlimited access.",
-    "id": "sshisto/mnemo-mcp",
-    "language": "Python",
-    "name": "sshisto/mnemo-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-25T02:53:34Z",
-    "url": "https://github.com/sshisto/mnemo-mcp"
   }
 ]
