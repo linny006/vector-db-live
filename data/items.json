@@ -1,12 +1,21 @@
 [
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-09-26T15:50:05Z",
-    "url": "https://github.com/GiulioDER/RE-call"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T16:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-09-26T15:59:58Z",
+    "url": "https://github.com/sunormesky-max/epicode"
   },
   {
     "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
@@ -14,8 +23,26 @@
     "language": "Python",
     "name": "desikai-lab/Marrow",
     "stars": 7,
-    "updated_at": "2026-09-26T15:47:21Z",
+    "updated_at": "2026-09-26T15:59:20Z",
     "url": "https://github.com/desikai-lab/Marrow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-26T15:50:39Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-09-26T15:59:45Z",
+    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -36,15 +63,6 @@
     "url": "https://github.com/vanedb/vanedb"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-26T15:45:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "This is a RAG AI agent deployed as a FastAPI to optimize resume based on provided job description.",
     "id": "sourav-625/Resume-Optimizer-RAG-agent",
     "language": "Python",
@@ -52,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T15:45:22Z",
     "url": "https://github.com/sourav-625/Resume-Optimizer-RAG-agent"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T15:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Hybrid BM25 + dense RAG over documents and GitHub repositories. Exact file:line citations, grounded refusal, and a contr",
@@ -86,7 +95,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1164,
-    "updated_at": "2026-09-26T15:41:11Z",
+    "updated_at": "2026-09-26T15:54:58Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -153,6 +162,15 @@
     "url": "https://github.com/mudassirshahzad/project-eka"
   },
   {
+    "description": "Opensource AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 10,
+    "updated_at": "2026-09-26T15:27:28Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
     "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
     "id": "d3uceY/vectile",
     "language": "Go",
@@ -189,6 +207,15 @@
     "url": "https://github.com/ompatel3158/ULTSQL"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30990,
+    "updated_at": "2026-09-26T15:10:23Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Small n8n proof of concept for routing questions across document-specific PostgreSQL vector stores. Local prototype.",
     "id": "Javier-Briceno/conversational-doc-agent",
     "language": "\u2014",
@@ -223,15 +250,6 @@
     "stars": 885,
     "updated_at": "2026-09-26T14:56:09Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 30989,
-    "updated_at": "2026-09-26T15:10:23Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Autonomous Multi-Agent RAG workflow engine with LangGraph, Qdrant vector search, and FastAPI. Implements self-correcting",
@@ -286,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-09-26T14:19:23Z",
     "url": "https://github.com/karthikbilaspur/ai_learning"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-09-26T15:43:15Z",
-    "url": "https://github.com/sunormesky-max/epicode"
   },
   {
     "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
@@ -356,7 +365,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7110,
-    "updated_at": "2026-09-26T15:20:42Z",
+    "updated_at": "2026-09-26T15:53:29Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T13:35:01Z",
     "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-09-26T13:33:49Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
   }
 ]
