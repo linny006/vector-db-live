@@ -1,5 +1,50 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T02:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 113,
+    "updated_at": "2026-09-26T01:59:57Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 10,
+    "updated_at": "2026-09-26T01:59:44Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "Internal support RAG assistant with hybrid (BM25 + vector) retrieval, grounded generation, and RAGAs-evaluated citation ",
+    "id": "saftyy/hybrid-rag-enterprise-support",
+    "language": "Python",
+    "name": "saftyy/hybrid-rag-enterprise-support",
+    "stars": 0,
+    "updated_at": "2026-09-26T01:55:37Z",
+    "url": "https://github.com/saftyy/hybrid-rag-enterprise-support"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-26T01:45:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -16,15 +61,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T01:41:59Z",
     "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "Internal support RAG assistant with hybrid (BM25 + vector) retrieval, grounded generation, and RAGAs-evaluated citation ",
-    "id": "saftyy/hybrid-rag-enterprise-support",
-    "language": "Python",
-    "name": "saftyy/hybrid-rag-enterprise-support",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:40:06Z",
-    "url": "https://github.com/saftyy/hybrid-rag-enterprise-support"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -52,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T01:33:57Z",
     "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-26T01:33:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T01:30:43Z",
     "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T01:30:19Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-26T00:52:52Z",
     "url": "https://github.com/ICICLE-ai/icicle-chatbook"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "Java",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-09-26T00:28:41Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
-    "id": "LuisinTheLegend/ConciergeGraph",
-    "language": "Python",
-    "name": "LuisinTheLegend/ConciergeGraph",
-    "stars": 1,
-    "updated_at": "2026-09-26T00:15:02Z",
-    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
   }
 ]
