@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-26 21:15 UTC
+> ⏰ Last updated: 2026-09-26 21:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,26 +43,26 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-26 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 6 | Python | 2026-09-26 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
-| 3 | [HelixDB/helix-db](https://github.com/HelixDB/helix-db) | 6098 | Rust | 2026-09-26 | HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage. |
-| 4 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 4 | HTML | 2026-09-26 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 5 | [evgeniycheban/spring-data-reindexer](https://github.com/evgeniycheban/spring-data-reindexer) | 24 | Java | 2026-09-26 | Spring Data Reindexer |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [srimon12/qql-rs](https://github.com/srimon12/qql-rs) | 5 | Rust | 2026-09-26 | Declarative SQL query engine for Qdrant and edge vector databases. Multi-vector dense & BM25 sparse search, hybrid retri |
-| 8 | [hoffresearch/urna](https://github.com/hoffresearch/urna) | 11 | Rust | 2026-09-26 | sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds, |
-| 9 | [darylalim/rag-pipeline](https://github.com/darylalim/rag-pipeline) | 0 | Python | 2026-09-26 | CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline. |
-| 10 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9309 | Rust | 2026-09-26 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 11 | [ayushman-ece/mem0-ai-interview-coach](https://github.com/ayushman-ece/mem0-ai-interview-coach) | 0 | Python | 2026-09-26 | 🧠 AI Interview Prep Coach built with LangChain, Mem0, Groq, Gemini, Qdrant and Streamlit with persistent user-based memo |
-| 12 | [Yasou13/MESA](https://github.com/Yasou13/MESA) | 6 | Python | 2026-09-26 | An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus |
-| 13 | [PersonalClaw/PersonalClawApps](https://github.com/PersonalClaw/PersonalClawApps) | 0 | Python | 2026-09-26 | First-party app bundles for PersonalClaw — 69 apps across model providers, search, speech (STT/TTS), local models, agent |
-| 14 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-26 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 15 | [Vigneshkumar-29/simple-rag-document-qa](https://github.com/Vigneshkumar-29/simple-rag-document-qa) | 2 | Python | 2026-09-26 | Simple RAG Document QA is a lightweight Retrieval-Augmented Generation (RAG) project that answers user questions using i |
-| 16 | [neomjs/neo-agent-brain](https://github.com/neomjs/neo-agent-brain) | 10 | JavaScript | 2026-09-26 | Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory |
-| 17 | [niklasmellgren/unrent](https://github.com/niklasmellgren/unrent) | 0 | Python | 2026-09-26 | Find the rented parts of your AI stack. Swap them for open source. Rank the open source you already run. |
-| 18 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9451 | Rust | 2026-09-26 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
-| 19 | [desikai-lab/Marrow](https://github.com/desikai-lab/Marrow) | 7 | Python | 2026-09-26 | Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac |
-| 20 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7110 | Java | 2026-09-26 | The AI search platform |
-| 21 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-09-26 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
+| 2 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9309 | Rust | 2026-09-26 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 3 | [vespa-engine/vespa](https://github.com/vespa-engine/vespa) | 7110 | Java | 2026-09-26 | The AI search platform |
+| 4 | [srimon12/qql-rs](https://github.com/srimon12/qql-rs) | 5 | Rust | 2026-09-26 | Declarative SQL query engine for Qdrant and edge vector databases. Multi-vector dense & BM25 sparse search, hybrid retri |
+| 5 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-09-26 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
+| 6 | [desikai-lab/Marrow](https://github.com/desikai-lab/Marrow) | 7 | Python | 2026-09-26 | Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac |
+| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 8 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 6 | Python | 2026-09-26 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
+| 9 | [HelixDB/helix-db](https://github.com/HelixDB/helix-db) | 6098 | Rust | 2026-09-26 | HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage. |
+| 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 4 | HTML | 2026-09-26 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 11 | [evgeniycheban/spring-data-reindexer](https://github.com/evgeniycheban/spring-data-reindexer) | 24 | Java | 2026-09-26 | Spring Data Reindexer |
+| 12 | [hoffresearch/urna](https://github.com/hoffresearch/urna) | 11 | Rust | 2026-09-26 | sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds, |
+| 13 | [darylalim/rag-pipeline](https://github.com/darylalim/rag-pipeline) | 0 | Python | 2026-09-26 | CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline. |
+| 14 | [ayushman-ece/mem0-ai-interview-coach](https://github.com/ayushman-ece/mem0-ai-interview-coach) | 0 | Python | 2026-09-26 | 🧠 AI Interview Prep Coach built with LangChain, Mem0, Groq, Gemini, Qdrant and Streamlit with persistent user-based memo |
+| 15 | [Yasou13/MESA](https://github.com/Yasou13/MESA) | 6 | Python | 2026-09-26 | An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus |
+| 16 | [PersonalClaw/PersonalClawApps](https://github.com/PersonalClaw/PersonalClawApps) | 0 | Python | 2026-09-26 | First-party app bundles for PersonalClaw — 69 apps across model providers, search, speech (STT/TTS), local models, agent |
+| 17 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-09-26 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
+| 18 | [Vigneshkumar-29/simple-rag-document-qa](https://github.com/Vigneshkumar-29/simple-rag-document-qa) | 2 | Python | 2026-09-26 | Simple RAG Document QA is a lightweight Retrieval-Augmented Generation (RAG) project that answers user questions using i |
+| 19 | [neomjs/neo-agent-brain](https://github.com/neomjs/neo-agent-brain) | 10 | JavaScript | 2026-09-26 | Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory |
+| 20 | [niklasmellgren/unrent](https://github.com/niklasmellgren/unrent) | 0 | Python | 2026-09-26 | Find the rented parts of your AI stack. Swap them for open source. Rank the open source you already run. |
+| 21 | [databendlabs/databend](https://github.com/databendlabs/databend) | 9451 | Rust | 2026-09-26 | Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architectu |
 | 22 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 887 | Go | 2026-09-26 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
 | 23 | [4nur4gmishr4/4nur4gmishr4](https://github.com/4nur4gmishr4/4nur4gmishr4) | 2 | JavaScript | 2026-09-26 | Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s |
 | 24 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 2494 | Rust | 2026-09-26 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
