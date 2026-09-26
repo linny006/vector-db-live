@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-26 06:00 UTC
+> ⏰ Last updated: 2026-09-26 06:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,19 +42,19 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [kwhorne/ElyraSQL](https://github.com/kwhorne/ElyraSQL) | 5 | Rust | 2026-09-26 | A robust, MySQL-compatible SQL server in Rust — single ACID file, vector search (HNSW), and parallel OLAP. |
-| 2 | [ishandutta2007/Awesome-AI-Agent-Memory-Platform](https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Platform) | 0 | — | 2026-09-26 | Top AI Agent Memory Platform (Opensource) 🌟 Star if you like it! 🌟 |
-| 3 | [infino-ai/infino](https://github.com/infino-ai/infino) | 83 | Rust | 2026-09-26 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
-| 4 | [PersonalClaw/PersonalClawApps](https://github.com/PersonalClaw/PersonalClawApps) | 0 | Python | 2026-09-26 | First-party app bundles for PersonalClaw — 69 apps across model providers, search, speech (STT/TTS), local models, agent |
-| 5 | [karthikbilaspur/ai_learning](https://github.com/karthikbilaspur/ai_learning) | 2 | Python | 2026-09-26 | AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-26 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 8 | [tapiruslab/TapirusDB](https://github.com/tapiruslab/TapirusDB) | 0 | Rust | 2026-09-26 | The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents) |
-| 9 | [rodrigopitanga/pavedb](https://github.com/rodrigopitanga/pavedb) | 7 | Python | 2026-09-26 | PaveDB is an inspectable retrieval database for AI applications: text-backed vector search with source provenance and qu |
-| 10 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 4 | HTML | 2026-09-26 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 11 | [devharis99/vectra](https://github.com/devharis99/vectra) | 1 | Python | 2026-09-26 | Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite |
-| 12 | [Raynerhalfandhalf451/writeback](https://github.com/Raynerhalfandhalf451/writeback) | 0 | JavaScript | 2026-09-26 | Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with |
-| 13 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-09-26 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-26 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 4 | HTML | 2026-09-26 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 3 | [karthikbilaspur/ai_learning](https://github.com/karthikbilaspur/ai_learning) | 2 | Python | 2026-09-26 | AI Learning is my structured, hands-on journey into modern AI. This repo is in setup phase and will host practical proje |
+| 4 | [ishandutta2007/Awesome-AI-Agent-Memory-Platform](https://github.com/ishandutta2007/Awesome-AI-Agent-Memory-Platform) | 0 | — | 2026-09-26 | Top AI Agent Memory Platform (Opensource) 🌟 Star if you like it! 🌟 |
+| 5 | [kwhorne/ElyraSQL](https://github.com/kwhorne/ElyraSQL) | 5 | Rust | 2026-09-26 | A robust, MySQL-compatible SQL server in Rust — single ACID file, vector search (HNSW), and parallel OLAP. |
+| 6 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-09-26 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-26 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 8 | [infino-ai/infino](https://github.com/infino-ai/infino) | 83 | Rust | 2026-09-26 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
+| 9 | [PersonalClaw/PersonalClawApps](https://github.com/PersonalClaw/PersonalClawApps) | 0 | Python | 2026-09-26 | First-party app bundles for PersonalClaw — 69 apps across model providers, search, speech (STT/TTS), local models, agent |
+| 10 | [tapiruslab/TapirusDB](https://github.com/tapiruslab/TapirusDB) | 0 | Rust | 2026-09-26 | The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents) |
+| 11 | [rodrigopitanga/pavedb](https://github.com/rodrigopitanga/pavedb) | 7 | Python | 2026-09-26 | PaveDB is an inspectable retrieval database for AI applications: text-backed vector search with source provenance and qu |
+| 12 | [devharis99/vectra](https://github.com/devharis99/vectra) | 1 | Python | 2026-09-26 | Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite |
+| 13 | [Raynerhalfandhalf451/writeback](https://github.com/Raynerhalfandhalf451/writeback) | 0 | JavaScript | 2026-09-26 | Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with |
 | 14 | [jaytipargal/jayti](https://github.com/jaytipargal/jayti) | 0 | Python | 2026-09-26 | EKA Agent — Multi-device data ingestion, LoRA training pipeline, and vector DB for a private AI agent. Hub-and-spoke: 6  |
 | 15 | [Accessible-sloughing768/docustra](https://github.com/Accessible-sloughing768/docustra) | 0 | Python | 2026-09-26 | Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen |
 | 16 | [project-david-ai/projectdavid-platform](https://github.com/project-david-ai/projectdavid-platform) | 1 | Python | 2026-09-26 | A single pip installed package will orchestrate a production ready instance of the AI stack in any environment |
