@@ -1,5 +1,50 @@
 [
   {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 801,
+    "updated_at": "2026-09-26T17:26:46Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-09-26T17:24:46Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-09-26T17:26:55Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 34,
+    "updated_at": "2026-09-26T17:18:31Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-26T17:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -23,7 +68,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-26T17:11:59Z",
+    "updated_at": "2026-09-26T17:23:38Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -54,24 +99,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-09-26T17:12:47Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-26T17:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -99,15 +126,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-09-26T16:52:44Z",
-    "url": "https://github.com/23skdu/longbow"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
@@ -115,6 +133,15 @@
     "stars": 886,
     "updated_at": "2026-09-26T16:49:39Z",
     "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8281,
+    "updated_at": "2026-09-26T16:49:09Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
@@ -140,7 +167,7 @@
     "language": "PHP",
     "name": "lopadova/AskMyDocs",
     "stars": 10,
-    "updated_at": "2026-09-26T16:43:54Z",
+    "updated_at": "2026-09-26T17:26:17Z",
     "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
@@ -221,7 +248,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1164,
-    "updated_at": "2026-09-26T17:11:03Z",
+    "updated_at": "2026-09-26T17:30:14Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -306,6 +333,15 @@
     "url": "https://github.com/rodrigopitanga/pavedb-client-elixir"
   },
   {
+    "description": "Self-hosted Enterprise AI framework built with Hexagonal Architecture, Spring AI, Weaviate, Ollama, and reusable compone",
+    "id": "mudassirshahzad/project-eka",
+    "language": "Java",
+    "name": "mudassirshahzad/project-eka",
+    "stars": 2,
+    "updated_at": "2026-09-26T15:37:55Z",
+    "url": "https://github.com/mudassirshahzad/project-eka"
+  },
+  {
     "description": "Python client SDK for YantrikDB \u2014 typed persistent memory over HTTP: remember, recall with retrieval reasons, reflection",
     "id": "yantrikos/yantrikdb-client",
     "language": "Python",
@@ -349,15 +385,6 @@
     "stars": 34836,
     "updated_at": "2026-09-26T15:29:40Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Enterprise Knowledge Assistant built with Spring Boot, Spring AI, Weaviate, Ollama and Hexagonal Architecture.",
-    "id": "mudassirshahzad/project-eka",
-    "language": "Java",
-    "name": "mudassirshahzad/project-eka",
-    "stars": 1,
-    "updated_at": "2026-09-26T15:37:55Z",
-    "url": "https://github.com/mudassirshahzad/project-eka"
   },
   {
     "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T14:58:22Z",
     "url": "https://github.com/A-Navaneetha/Ai-pdf-chatbot"
-  },
-  {
-    "description": "Autonomous Multi-Agent RAG workflow engine with LangGraph, Qdrant vector search, and FastAPI. Implements self-correcting",
-    "id": "rahul-1909/NexusAI",
-    "language": "Python",
-    "name": "rahul-1909/NexusAI",
-    "stars": 0,
-    "updated_at": "2026-09-26T14:41:24Z",
-    "url": "https://github.com/rahul-1909/NexusAI"
-  },
-  {
-    "description": "TitanRAG - An open-source RAG infrastructure for building scalable, multi-tenant and multimodal AI applications.",
-    "id": "Aftabmallick/titanrag",
-    "language": "Python",
-    "name": "Aftabmallick/titanrag",
-    "stars": 3,
-    "updated_at": "2026-09-26T14:37:56Z",
-    "url": "https://github.com/Aftabmallick/titanrag"
-  },
-  {
-    "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
-    "id": "rao-studios/Sewn",
-    "language": "Swift",
-    "name": "rao-studios/Sewn",
-    "stars": 0,
-    "updated_at": "2026-09-26T14:32:42Z",
-    "url": "https://github.com/rao-studios/Sewn"
   }
 ]
