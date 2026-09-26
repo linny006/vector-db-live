@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-26T18:15:22Z",
+    "updated_at": "2026-09-26T18:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
+    "id": "marco-spagn/pcmi",
+    "language": "Go",
+    "name": "marco-spagn/pcmi",
+    "stars": 5,
+    "updated_at": "2026-09-26T18:28:16Z",
+    "url": "https://github.com/marco-spagn/pcmi"
+  },
+  {
+    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
+    "id": "kamilsj/vectors",
+    "language": "Rust",
+    "name": "kamilsj/vectors",
+    "stars": 4,
+    "updated_at": "2026-09-26T18:25:33Z",
+    "url": "https://github.com/kamilsj/vectors"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1164,
+    "updated_at": "2026-09-26T18:25:17Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Self-hosted Enterprise AI framework built with Hexagonal Architecture, Spring AI, Weaviate, Ollama, and reusable compone",
+    "id": "mudassirshahzad/project-eka",
+    "language": "Java",
+    "name": "mudassirshahzad/project-eka",
+    "stars": 2,
+    "updated_at": "2026-09-26T18:24:28Z",
+    "url": "https://github.com/mudassirshahzad/project-eka"
+  },
+  {
+    "description": "TitanRAG - An open-source RAG infrastructure for building scalable, multi-tenant and multimodal AI applications.",
+    "id": "Aftabmallick/titanrag",
+    "language": "Python",
+    "name": "Aftabmallick/titanrag",
+    "stars": 3,
+    "updated_at": "2026-09-26T18:24:20Z",
+    "url": "https://github.com/Aftabmallick/titanrag"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2493,
+    "updated_at": "2026-09-26T18:20:50Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-09-26T18:20:14Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-09-26T18:19:51Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 801,
+    "updated_at": "2026-09-26T18:18:56Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-26T18:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -25,15 +115,6 @@
     "stars": 3,
     "updated_at": "2026-09-26T18:14:27Z",
     "url": "https://github.com/rooneyrulz/memomind-ai-chatbot"
-  },
-  {
-    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 801,
-    "updated_at": "2026-09-26T18:11:48Z",
-    "url": "https://github.com/christopherkarani/Wax"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -68,7 +149,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-09-26T18:06:14Z",
+    "updated_at": "2026-09-26T18:29:34Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -79,15 +160,6 @@
     "stars": 9309,
     "updated_at": "2026-09-26T18:04:47Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-26T18:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
@@ -153,15 +225,6 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-09-26T18:12:47Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
     "description": "Dependency-free Elixir client for PaveDB\u2019s HTTP API, covering collections, text/file/vector ingestion, search, shared sc",
     "id": "rodrigopitanga/pavedb-client-elixir",
     "language": "Elixir",
@@ -178,15 +241,6 @@
     "stars": 2,
     "updated_at": "2026-09-26T17:37:28Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Self-hosted Enterprise AI framework built with Hexagonal Architecture, Spring AI, Weaviate, Ollama, and reusable compone",
-    "id": "mudassirshahzad/project-eka",
-    "language": "Java",
-    "name": "mudassirshahzad/project-eka",
-    "stars": 2,
-    "updated_at": "2026-09-26T17:34:38Z",
-    "url": "https://github.com/mudassirshahzad/project-eka"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -214,15 +268,6 @@
     "stars": 11,
     "updated_at": "2026-09-26T17:14:09Z",
     "url": "https://github.com/hoffresearch/urna"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2493,
-    "updated_at": "2026-09-26T17:43:11Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -333,15 +378,6 @@
     "url": "https://github.com/rehan243/rehan243"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1164,
-    "updated_at": "2026-09-26T17:30:14Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Cutting edge cloud AI technology put into a Bleeding blunt decade old server. Who would have thought about that.",
     "id": "interamps/broseidon",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T15:44:58Z",
     "url": "https://github.com/mohdnayif799/Hybrid-Retrieval-RAG-for-Documents-Code-and-Repositories"
-  },
-  {
-    "description": "Python client SDK for YantrikDB \u2014 typed persistent memory over HTTP: remember, recall with retrieval reasons, reflection",
-    "id": "yantrikos/yantrikdb-client",
-    "language": "Python",
-    "name": "yantrikos/yantrikdb-client",
-    "stars": 0,
-    "updated_at": "2026-09-26T15:33:34Z",
-    "url": "https://github.com/yantrikos/yantrikdb-client"
-  },
-  {
-    "description": "Lightweight locally run system to improve agentic AI information retrieval . Multilingual and supports images, graphs, s",
-    "id": "lychee888/Rag-Kit",
-    "language": "Python",
-    "name": "lychee888/Rag-Kit",
-    "stars": 0,
-    "updated_at": "2026-09-26T15:32:21Z",
-    "url": "https://github.com/lychee888/Rag-Kit"
-  },
-  {
-    "description": "YantrikDB integration for LangChain \u2014 cognitive memory as a VectorStore and ChatMessageHistory",
-    "id": "yantrikos/langchain-yantrikdb",
-    "language": "Python",
-    "name": "yantrikos/langchain-yantrikdb",
-    "stars": 0,
-    "updated_at": "2026-09-26T15:30:47Z",
-    "url": "https://github.com/yantrikos/langchain-yantrikdb"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 7,
-    "updated_at": "2026-09-26T15:31:06Z",
-    "url": "https://github.com/FraiseHQ/fraise"
   }
 ]
