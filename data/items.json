@@ -1,12 +1,12 @@
 [
   {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-09-26T18:45:14Z",
-    "url": "https://github.com/sunormesky-max/epicode"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T19:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Cerebro, a Second Brain\u2013inspired knowledge management platform using React, TypeScript, Node.js, and MongoDB.",
@@ -14,8 +14,80 @@
     "language": "TypeScript",
     "name": "Brijesh-0106/Cerebro",
     "stars": 1,
-    "updated_at": "2026-09-26T18:44:40Z",
+    "updated_at": "2026-09-26T18:59:52Z",
     "url": "https://github.com/Brijesh-0106/Cerebro"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-26T19:00:10Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Memory infrastructure for AI agents \u2014 agent-native memory engine in Rust (HNSW + BM25 + entity graph + recency behind re",
+    "id": "AIAnytime/memrust",
+    "language": "Rust",
+    "name": "AIAnytime/memrust",
+    "stars": 1,
+    "updated_at": "2026-09-26T18:52:27Z",
+    "url": "https://github.com/AIAnytime/memrust"
+  },
+  {
+    "description": "Zero-dependency browser UI for pdf-inspector (Firecrawl) \u2014 parse PDFs to structured Markdown entirely client-side via We",
+    "id": "AIAnytime/pdf-inspector-web-ui",
+    "language": "JavaScript",
+    "name": "AIAnytime/pdf-inspector-web-ui",
+    "stars": 4,
+    "updated_at": "2026-09-26T18:52:24Z",
+    "url": "https://github.com/AIAnytime/pdf-inspector-web-ui"
+  },
+  {
+    "description": "AI-powered RAG system that answers questions from your own documents using Gemini 2.5 Flash, LangChain & FAISS vector da",
+    "id": "Swaraj-Mandre/RAG-KNOWLEDGE-SYSTEM",
+    "language": "Python",
+    "name": "Swaraj-Mandre/RAG-KNOWLEDGE-SYSTEM",
+    "stars": 1,
+    "updated_at": "2026-09-26T18:51:35Z",
+    "url": "https://github.com/Swaraj-Mandre/RAG-KNOWLEDGE-SYSTEM"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-26T18:47:07Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
+    "id": "kamilsj/vectors",
+    "language": "Rust",
+    "name": "kamilsj/vectors",
+    "stars": 4,
+    "updated_at": "2026-09-26T18:45:51Z",
+    "url": "https://github.com/kamilsj/vectors"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-26T18:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-09-26T18:45:33Z",
+    "url": "https://github.com/sunormesky-max/epicode"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -23,7 +95,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-09-26T18:44:23Z",
+    "updated_at": "2026-09-26T18:57:36Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -95,26 +167,8 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 10,
-    "updated_at": "2026-09-26T18:31:22Z",
+    "updated_at": "2026-09-26T18:54:03Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-26T18:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T18:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
@@ -124,15 +178,6 @@
     "stars": 5,
     "updated_at": "2026-09-26T18:28:16Z",
     "url": "https://github.com/marco-spagn/pcmi"
-  },
-  {
-    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
-    "id": "kamilsj/vectors",
-    "language": "Rust",
-    "name": "kamilsj/vectors",
-    "stars": 4,
-    "updated_at": "2026-09-26T18:25:33Z",
-    "url": "https://github.com/kamilsj/vectors"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -158,7 +203,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2493,
-    "updated_at": "2026-09-26T18:20:50Z",
+    "updated_at": "2026-09-26T18:54:05Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -167,7 +212,7 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-09-26T18:20:14Z",
+    "updated_at": "2026-09-26T18:47:38Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9309,
-    "updated_at": "2026-09-26T18:04:47Z",
+    "updated_at": "2026-09-26T18:55:46Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -329,7 +374,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8281,
-    "updated_at": "2026-09-26T16:49:09Z",
+    "updated_at": "2026-09-26T18:56:07Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 11,
     "updated_at": "2026-09-26T16:37:15Z",
     "url": "https://github.com/Eigen-DB/eigen-db"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 2,
-    "updated_at": "2026-09-26T16:17:22Z",
-    "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Cutting edge cloud AI technology put into a Bleeding blunt decade old server. Who would have thought about that.",
-    "id": "interamps/broseidon",
-    "language": "Python",
-    "name": "interamps/broseidon",
-    "stars": 2,
-    "updated_at": "2026-09-26T16:12:33Z",
-    "url": "https://github.com/interamps/broseidon"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7110,
-    "updated_at": "2026-09-26T16:05:54Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "A project to show howto use SpringAI with Ollama to chat with the documents in a library. Documents are stored in a norm",
-    "id": "Angular2Guy/AIDocumentLibraryChat",
-    "language": "Java",
-    "name": "Angular2Guy/AIDocumentLibraryChat",
-    "stars": 31,
-    "updated_at": "2026-09-26T16:01:28Z",
-    "url": "https://github.com/Angular2Guy/AIDocumentLibraryChat"
-  },
-  {
-    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
-    "id": "desikai-lab/Marrow",
-    "language": "Python",
-    "name": "desikai-lab/Marrow",
-    "stars": 7,
-    "updated_at": "2026-09-26T15:59:20Z",
-    "url": "https://github.com/desikai-lab/Marrow"
   }
 ]
