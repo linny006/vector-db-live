@@ -1,12 +1,48 @@
 [
   {
-    "description": "Chat with PDF \u2014 AI-Powered PDF Retrieval & Question Answering System",
-    "id": "A-Navaneetha/Ai-pdf-chatbot",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "A-Navaneetha/Ai-pdf-chatbot",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T15:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
+    "id": "ompatel3158/ULTSQL",
+    "language": "Dart",
+    "name": "ompatel3158/ULTSQL",
+    "stars": 1,
+    "updated_at": "2026-09-26T15:12:16Z",
+    "url": "https://github.com/ompatel3158/ULTSQL"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-26T15:07:44Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 7,
+    "updated_at": "2026-09-26T15:06:24Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "Small n8n proof of concept for routing questions across document-specific PostgreSQL vector stores. Local prototype.",
+    "id": "Javier-Briceno/conversational-doc-agent",
+    "language": "\u2014",
+    "name": "Javier-Briceno/conversational-doc-agent",
     "stars": 0,
-    "updated_at": "2026-09-26T14:58:22Z",
-    "url": "https://github.com/A-Navaneetha/Ai-pdf-chatbot"
+    "updated_at": "2026-09-26T15:04:07Z",
+    "url": "https://github.com/Javier-Briceno/conversational-doc-agent"
   },
   {
     "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
@@ -14,8 +50,26 @@
     "language": "Rust",
     "name": "tapiruslab/TapirusDB",
     "stars": 0,
-    "updated_at": "2026-09-26T14:56:27Z",
+    "updated_at": "2026-09-26T15:02:39Z",
     "url": "https://github.com/tapiruslab/TapirusDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-26T15:00:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Chat with PDF \u2014 AI-Powered PDF Retrieval & Question Answering System",
+    "id": "A-Navaneetha/Ai-pdf-chatbot",
+    "language": "Python",
+    "name": "A-Navaneetha/Ai-pdf-chatbot",
+    "stars": 0,
+    "updated_at": "2026-09-26T14:58:22Z",
+    "url": "https://github.com/A-Navaneetha/Ai-pdf-chatbot"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -36,30 +90,12 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-26T14:45:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T15:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 30989,
-    "updated_at": "2026-09-26T14:41:26Z",
+    "updated_at": "2026-09-26T15:10:23Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -81,15 +117,6 @@
     "url": "https://github.com/Aftabmallick/titanrag"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-26T14:35:17Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
     "id": "rao-studios/Sewn",
     "language": "Swift",
@@ -97,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T14:32:42Z",
     "url": "https://github.com/rao-studios/Sewn"
-  },
-  {
-    "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
-    "id": "ompatel3158/ULTSQL",
-    "language": "Dart",
-    "name": "ompatel3158/ULTSQL",
-    "stars": 1,
-    "updated_at": "2026-09-26T14:31:46Z",
-    "url": "https://github.com/ompatel3158/ULTSQL"
   },
   {
     "description": "Declarative SQL query engine for Qdrant and edge vector databases. Multi-vector dense & BM25 sparse search, hybrid retri",
@@ -149,7 +167,7 @@
     "language": "Python",
     "name": "notadev-iamaura/OneRAG",
     "stars": 126,
-    "updated_at": "2026-09-26T14:59:51Z",
+    "updated_at": "2026-09-26T15:01:21Z",
     "url": "https://github.com/notadev-iamaura/OneRAG"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-26T13:19:09Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-09-26T13:17:18Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
-  },
-  {
-    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
-    "id": "decided-indication109/AI-Engineer-in-90-Days",
-    "language": "Mermaid",
-    "name": "decided-indication109/AI-Engineer-in-90-Days",
-    "stars": 2,
-    "updated_at": "2026-09-26T13:16:49Z",
-    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
   }
 ]
