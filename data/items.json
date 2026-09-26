@@ -1,5 +1,167 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T03:15:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-09-26T03:15:12Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-09-26T03:14:14Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:12:58Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9307,
+    "updated_at": "2026-09-26T03:12:16Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-26T03:09:58Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-09-26T03:09:38Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-26T03:08:01Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:07:49Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 3,
+    "updated_at": "2026-09-26T03:07:33Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
+    "id": "hanyeol/model-compose",
+    "language": "Python",
+    "name": "hanyeol/model-compose",
+    "stars": 113,
+    "updated_at": "2026-09-26T03:07:02Z",
+    "url": "https://github.com/hanyeol/model-compose"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 25,
+    "updated_at": "2026-09-26T03:06:32Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-09-26T03:06:30Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-09-26T03:02:45Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-09-26T03:00:55Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-26T03:00:53Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-26T03:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-09-26T03:00:19Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
     "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
     "id": "SKeditz42/Vec",
     "language": "C",
@@ -90,33 +252,6 @@
     "url": "https://github.com/0xLazAI/alith"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T03:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-26T02:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-26T02:40:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "EKA Agent \u2014 Multi-device data ingestion, LoRA training pipeline, and vector DB for a private AI agent. Hub-and-spoke: 6 ",
     "id": "jaytipargal/jayti",
     "language": "Python",
@@ -142,15 +277,6 @@
     "stars": 30986,
     "updated_at": "2026-09-26T02:07:27Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Deploy production-ready AI services in minutes. One YAML file for agents, RAG pipelines, and MCP servers \u2014 run anywhere.",
-    "id": "hanyeol/model-compose",
-    "language": "Python",
-    "name": "hanyeol/model-compose",
-    "stars": 113,
-    "updated_at": "2026-09-26T01:59:57Z",
-    "url": "https://github.com/hanyeol/model-compose"
   },
   {
     "description": "AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
@@ -322,131 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-26T01:25:22Z",
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:24:01Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 4,
-    "updated_at": "2026-09-26T01:20:53Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline.",
-    "id": "darylalim/rag-pipeline",
-    "language": "Python",
-    "name": "darylalim/rag-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:20:27Z",
-    "url": "https://github.com/darylalim/rag-pipeline"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:19:31Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 2,
-    "updated_at": "2026-09-26T01:18:43Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:17:54Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:16:44Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-09-26T01:15:30Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:14:00Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-09-26T01:12:18Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-26T01:10:46Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-09-26T01:10:13Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:09:14Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-09-26T01:05:27Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
   }
 ]
