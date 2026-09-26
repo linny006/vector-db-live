@@ -1,11 +1,38 @@
 [
   {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-26T23:27:13Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-09-26T23:21:36Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-26T23:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-26T23:15:19Z",
+    "updated_at": "2026-09-26T23:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,21 +54,12 @@
     "url": "https://github.com/niklasmellgren/unrent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-26T23:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
     "id": "hoffresearch/urna",
     "language": "Rust",
     "name": "hoffresearch/urna",
     "stars": 11,
-    "updated_at": "2026-09-26T22:55:35Z",
+    "updated_at": "2026-09-26T23:30:10Z",
     "url": "https://github.com/hoffresearch/urna"
   },
   {
@@ -70,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T23:10:23Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-09-26T23:11:03Z",
-    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -158,7 +167,7 @@
     "language": "Rust",
     "name": "cyberlife-coder/VelesDB",
     "stars": 95,
-    "updated_at": "2026-09-26T22:59:27Z",
+    "updated_at": "2026-09-26T23:29:26Z",
     "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
@@ -376,15 +385,6 @@
     "stars": 2,
     "updated_at": "2026-09-26T21:57:01Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "",
-    "id": "SuperInstance/SuperInstance",
-    "language": "HTML",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 7,
-    "updated_at": "2026-09-26T21:53:51Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
   },
   {
     "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
