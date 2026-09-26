@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-26T20:45:20Z",
+    "updated_at": "2026-09-26T21:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Declarative SQL query engine for Qdrant and edge vector databases. Multi-vector dense & BM25 sparse search, hybrid retri",
+    "id": "srimon12/qql-rs",
+    "language": "Rust",
+    "name": "srimon12/qql-rs",
+    "stars": 5,
+    "updated_at": "2026-09-26T20:58:11Z",
+    "url": "https://github.com/srimon12/qql-rs"
+  },
+  {
+    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
+    "id": "hoffresearch/urna",
+    "language": "Rust",
+    "name": "hoffresearch/urna",
+    "stars": 11,
+    "updated_at": "2026-09-26T20:57:05Z",
+    "url": "https://github.com/hoffresearch/urna"
+  },
+  {
+    "description": "CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline.",
+    "id": "darylalim/rag-pipeline",
+    "language": "Python",
+    "name": "darylalim/rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-26T20:53:58Z",
+    "url": "https://github.com/darylalim/rag-pipeline"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9309,
+    "updated_at": "2026-09-26T20:57:30Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "\ud83e\udde0 AI Interview Prep Coach built with LangChain, Mem0, Groq, Gemini, Qdrant and Streamlit with persistent user-based memo",
+    "id": "ayushman-ece/mem0-ai-interview-coach",
+    "language": "Python",
+    "name": "ayushman-ece/mem0-ai-interview-coach",
+    "stars": 0,
+    "updated_at": "2026-09-26T20:46:10Z",
+    "url": "https://github.com/ayushman-ece/mem0-ai-interview-coach"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-09-26T20:51:28Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-26T20:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 6,
+    "updated_at": "2026-09-26T20:45:21Z",
+    "url": "https://github.com/Yasou13/MESA"
   },
   {
     "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
@@ -36,33 +108,6 @@
     "url": "https://github.com/Vigneshkumar-29/simple-rag-document-qa"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9309,
-    "updated_at": "2026-09-26T20:37:39Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-09-26T20:38:26Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "\ud83e\udde0 AI Interview Prep Coach built with LangChain, Mem0, Groq, Gemini, Qdrant and Streamlit with persistent user-based memo",
-    "id": "ayushman-ece/mem0-ai-interview-coach",
-    "language": "Python",
-    "name": "ayushman-ece/mem0-ai-interview-coach",
-    "stars": 0,
-    "updated_at": "2026-09-26T20:36:14Z",
-    "url": "https://github.com/ayushman-ece/mem0-ai-interview-coach"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -81,15 +126,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline.",
-    "id": "darylalim/rag-pipeline",
-    "language": "Python",
-    "name": "darylalim/rag-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-26T20:35:14Z",
-    "url": "https://github.com/darylalim/rag-pipeline"
-  },
-  {
     "description": "Find the rented parts of your AI stack. Swap them for open source. Rank the open source you already run.",
     "id": "niklasmellgren/unrent",
     "language": "Python",
@@ -99,15 +135,6 @@
     "url": "https://github.com/niklasmellgren/unrent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-26T20:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
     "id": "desikai-lab/Marrow",
     "language": "Python",
@@ -115,15 +142,6 @@
     "stars": 7,
     "updated_at": "2026-09-26T20:28:04Z",
     "url": "https://github.com/desikai-lab/Marrow"
-  },
-  {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/urna",
-    "language": "Rust",
-    "name": "hoffresearch/urna",
-    "stars": 11,
-    "updated_at": "2026-09-26T20:42:47Z",
-    "url": "https://github.com/hoffresearch/urna"
   },
   {
     "description": "The AI search platform",
@@ -149,7 +167,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 887,
-    "updated_at": "2026-09-26T20:18:42Z",
+    "updated_at": "2026-09-26T20:59:57Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -160,6 +178,15 @@
     "stars": 2,
     "updated_at": "2026-09-26T20:08:28Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2494,
+    "updated_at": "2026-09-26T20:06:07Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -205,15 +232,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T19:51:56Z",
     "url": "https://github.com/arpitkashyap22/multi-workspace-rag"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2494,
-    "updated_at": "2026-09-26T20:06:07Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Hybrid BM25 + dense RAG over documents and GitHub repositories. Exact file:line citations, grounded refusal, and a contr",
@@ -430,23 +448,5 @@
     "stars": 801,
     "updated_at": "2026-09-26T18:18:56Z",
     "url": "https://github.com/christopherkarani/Wax"
-  },
-  {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-09-26T18:09:48Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
-    "id": "RishabhMathur06/CASO-RAG",
-    "language": "Python",
-    "name": "RishabhMathur06/CASO-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-26T18:06:33Z",
-    "url": "https://github.com/RishabhMathur06/CASO-RAG"
   }
 ]
