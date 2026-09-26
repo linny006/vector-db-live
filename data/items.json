@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-26T20:15:21Z",
+    "updated_at": "2026-09-26T20:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-09-26T20:30:09Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
+    "id": "desikai-lab/Marrow",
+    "language": "Python",
+    "name": "desikai-lab/Marrow",
+    "stars": 7,
+    "updated_at": "2026-09-26T20:28:04Z",
+    "url": "https://github.com/desikai-lab/Marrow"
   },
   {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
@@ -14,8 +32,62 @@
     "language": "Rust",
     "name": "hoffresearch/urna",
     "stars": 11,
-    "updated_at": "2026-09-26T20:15:15Z",
+    "updated_at": "2026-09-26T20:26:56Z",
     "url": "https://github.com/hoffresearch/urna"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9309,
+    "updated_at": "2026-09-26T20:26:04Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7111,
+    "updated_at": "2026-09-26T20:24:51Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "\ud83e\udde0 AI Interview Prep Coach built with LangChain, Mem0, Groq, Gemini, Qdrant and Streamlit with persistent user-based memo",
+    "id": "ayushman-ece/mem0-ai-interview-coach",
+    "language": "Python",
+    "name": "ayushman-ece/mem0-ai-interview-coach",
+    "stars": 0,
+    "updated_at": "2026-09-26T20:24:29Z",
+    "url": "https://github.com/ayushman-ece/mem0-ai-interview-coach"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-09-26T20:23:58Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-26T20:23:04Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline.",
+    "id": "darylalim/rag-pipeline",
+    "language": "Python",
+    "name": "darylalim/rag-pipeline",
+    "stars": 0,
+    "updated_at": "2026-09-26T20:20:49Z",
+    "url": "https://github.com/darylalim/rag-pipeline"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -23,8 +95,17 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 887,
-    "updated_at": "2026-09-26T20:14:56Z",
+    "updated_at": "2026-09-26T20:18:42Z",
     "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-26T20:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -54,15 +135,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-09-26T20:13:36Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
     "id": "surajkumarnavodya/text-to-sql-agent-langgraph",
     "language": "Python",
@@ -81,15 +153,6 @@
     "url": "https://github.com/harishdeepak-msba/Amazon-NLP-pipeline"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-26T20:00:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -106,15 +169,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T19:55:52Z",
     "url": "https://github.com/gmr/dotilla"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-09-26T20:01:54Z",
-    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "",
@@ -214,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T19:09:08Z",
     "url": "https://github.com/Swaraj-Mandre/RAG-KNOWLEDGE-SYSTEM"
-  },
-  {
-    "description": "CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline.",
-    "id": "darylalim/rag-pipeline",
-    "language": "Python",
-    "name": "darylalim/rag-pipeline",
-    "stars": 0,
-    "updated_at": "2026-09-26T19:09:16Z",
-    "url": "https://github.com/darylalim/rag-pipeline"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -347,7 +392,7 @@
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-09-26T18:47:38Z",
+    "updated_at": "2026-09-26T20:20:43Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -387,15 +432,6 @@
     "url": "https://github.com/RishabhMathur06/CASO-RAG"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9309,
-    "updated_at": "2026-09-26T18:55:46Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "An interactive marimo notebook on ICICLE AI Tapis services, a hands-on RAG playground that shows every step, from embedd",
     "id": "ICICLE-ai/icicle-chatbook",
     "language": "Python",
@@ -412,41 +448,5 @@
     "stars": 6097,
     "updated_at": "2026-09-26T17:54:30Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
-    "id": "project-david-ai/projectdavid-platform",
-    "language": "Python",
-    "name": "project-david-ai/projectdavid-platform",
-    "stars": 1,
-    "updated_at": "2026-09-26T17:54:29Z",
-    "url": "https://github.com/project-david-ai/projectdavid-platform"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:49:29Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Dependency-free Elixir client for PaveDB\u2019s HTTP API, covering collections, text/file/vector ingestion, search, shared sc",
-    "id": "rodrigopitanga/pavedb-client-elixir",
-    "language": "Elixir",
-    "name": "rodrigopitanga/pavedb-client-elixir",
-    "stars": 0,
-    "updated_at": "2026-09-26T17:38:23Z",
-    "url": "https://github.com/rodrigopitanga/pavedb-client-elixir"
-  },
-  {
-    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
-    "id": "maximilien/weave-cli",
-    "language": "Go",
-    "name": "maximilien/weave-cli",
-    "stars": 34,
-    "updated_at": "2026-09-26T17:18:31Z",
-    "url": "https://github.com/maximilien/weave-cli"
   }
 ]
