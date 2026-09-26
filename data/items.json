@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T20:00:19Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-26T19:57:19Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "This is a hobby project to build a Graph database in Rust.",
+    "id": "gmr/dotilla",
+    "language": "Rust",
+    "name": "gmr/dotilla",
+    "stars": 1,
+    "updated_at": "2026-09-26T19:55:52Z",
+    "url": "https://github.com/gmr/dotilla"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-26T19:52:24Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "",
+    "id": "arpitkashyap22/multi-workspace-rag",
+    "language": "Python",
+    "name": "arpitkashyap22/multi-workspace-rag",
+    "stars": 0,
+    "updated_at": "2026-09-26T19:51:56Z",
+    "url": "https://github.com/arpitkashyap22/multi-workspace-rag"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-26T19:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Simple RAG Document QA is a lightweight Retrieval-Augmented Generation (RAG) project that answers user questions using i",
     "id": "Vigneshkumar-29/simple-rag-document-qa",
     "language": "Python",
@@ -63,24 +117,6 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-26T19:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T19:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Cerebro, a Second Brain\u2013inspired knowledge management platform using React, TypeScript, Node.js, and MongoDB.",
     "id": "Brijesh-0106/Cerebro",
     "language": "TypeScript",
@@ -115,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-26T19:13:20Z",
     "url": "https://github.com/BaluRaut/learn-vectordb-school"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-09-26T19:39:26Z",
-    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "AI-powered RAG system that answers questions from your own documents using Gemini 2.5 Flash, LangChain & FAISS vector da",
@@ -203,7 +230,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-09-26T19:22:01Z",
+    "updated_at": "2026-09-26T19:55:25Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -214,15 +241,6 @@
     "stars": 9,
     "updated_at": "2026-09-26T18:43:02Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "This is a hobby project to build a Graph database in Rust.",
-    "id": "gmr/dotilla",
-    "language": "Rust",
-    "name": "gmr/dotilla",
-    "stars": 1,
-    "updated_at": "2026-09-26T18:42:00Z",
-    "url": "https://github.com/gmr/dotilla"
   },
   {
     "description": "Memomind is a sleek note-taking app built with React 18, Next.js 14, and TypeScript. It features a chat-based RAG workfl",
@@ -259,15 +277,6 @@
     "stars": 13,
     "updated_at": "2026-09-26T18:31:37Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-26T19:24:02Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "Persistent Cognitive Memory Infrastructure \u2014 durable, multi-tenant memory layer for AI agents. HTTP + gRPC, hybrid retri",
@@ -439,14 +448,5 @@
     "stars": 8281,
     "updated_at": "2026-09-26T18:56:07Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-09-26T16:48:10Z",
-    "url": "https://github.com/Cognipeer/console"
   }
 ]
