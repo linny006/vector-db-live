@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-26T18:00:21Z",
+    "updated_at": "2026-09-26T18:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 886,
+    "updated_at": "2026-09-26T18:15:16Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Memomind is a sleek note-taking app built with React 18, Next.js 14, and TypeScript. It features a chat-based RAG workfl",
+    "id": "rooneyrulz/memomind-ai-chatbot",
+    "language": "TypeScript",
+    "name": "rooneyrulz/memomind-ai-chatbot",
+    "stars": 3,
+    "updated_at": "2026-09-26T18:14:27Z",
+    "url": "https://github.com/rooneyrulz/memomind-ai-chatbot"
+  },
+  {
+    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
+    "id": "christopherkarani/Wax",
+    "language": "Swift",
+    "name": "christopherkarani/Wax",
+    "stars": 801,
+    "updated_at": "2026-09-26T18:11:48Z",
+    "url": "https://github.com/christopherkarani/Wax"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-26T18:09:50Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-09-26T18:09:48Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
+    "id": "RishabhMathur06/CASO-RAG",
+    "language": "Python",
+    "name": "RishabhMathur06/CASO-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-26T18:06:33Z",
+    "url": "https://github.com/RishabhMathur06/CASO-RAG"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-09-26T18:06:14Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9309,
+    "updated_at": "2026-09-26T18:04:47Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-26T18:00:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
@@ -27,15 +108,6 @@
     "url": "https://github.com/ICICLE-ai/icicle-chatbook"
   },
   {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-09-26T17:55:34Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
@@ -52,15 +124,6 @@
     "stars": 1,
     "updated_at": "2026-09-26T17:54:29Z",
     "url": "https://github.com/project-david-ai/projectdavid-platform"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-09-26T17:52:11Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline.",
@@ -90,21 +153,12 @@
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-26T17:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
     "id": "Artemon-line/ai-memory-hub",
     "language": "Python",
     "name": "Artemon-line/ai-memory-hub",
     "stars": 2,
-    "updated_at": "2026-09-26T17:42:12Z",
+    "updated_at": "2026-09-26T18:12:47Z",
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
@@ -133,24 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-26T17:34:38Z",
     "url": "https://github.com/mudassirshahzad/project-eka"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-26T17:34:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Shared Single-file memory layer for all your agents, sub mili-second RAG over text, photo and video on Apple Silicon.. N",
-    "id": "christopherkarani/Wax",
-    "language": "Swift",
-    "name": "christopherkarani/Wax",
-    "stars": 801,
-    "updated_at": "2026-09-26T17:33:11Z",
-    "url": "https://github.com/christopherkarani/Wax"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -205,15 +241,6 @@
     "stars": 351,
     "updated_at": "2026-09-26T16:55:15Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 886,
-    "updated_at": "2026-09-26T16:49:39Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -355,7 +382,7 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 2015,
+    "stars": 2016,
     "updated_at": "2026-09-26T15:46:03Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -421,32 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-26T15:31:06Z",
     "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34837,
-    "updated_at": "2026-09-26T15:29:40Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 4,
-    "updated_at": "2026-09-26T15:26:31Z",
-    "url": "https://github.com/d3uceY/vectile"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-09-26T15:15:16Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   }
 ]
