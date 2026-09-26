@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Chat with PDF \u2014 AI-Powered PDF Retrieval & Question Answering System",
+    "id": "A-Navaneetha/Ai-pdf-chatbot",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T14:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "A-Navaneetha/Ai-pdf-chatbot",
+    "stars": 0,
+    "updated_at": "2026-09-26T14:58:22Z",
+    "url": "https://github.com/A-Navaneetha/Ai-pdf-chatbot"
+  },
+  {
+    "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
+    "id": "tapiruslab/TapirusDB",
+    "language": "Rust",
+    "name": "tapiruslab/TapirusDB",
+    "stars": 0,
+    "updated_at": "2026-09-26T14:56:27Z",
+    "url": "https://github.com/tapiruslab/TapirusDB"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -14,8 +23,44 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 884,
-    "updated_at": "2026-09-26T14:42:40Z",
+    "updated_at": "2026-09-26T14:56:09Z",
     "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 351,
+    "updated_at": "2026-09-26T14:54:16Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-26T14:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T15:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 30989,
+    "updated_at": "2026-09-26T14:41:26Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Autonomous Multi-Agent RAG workflow engine with LangGraph, Qdrant vector search, and FastAPI. Implements self-correcting",
@@ -45,15 +90,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
-    "id": "tapiruslab/TapirusDB",
-    "language": "Rust",
-    "name": "tapiruslab/TapirusDB",
-    "stars": 0,
-    "updated_at": "2026-09-26T14:33:35Z",
-    "url": "https://github.com/tapiruslab/TapirusDB"
-  },
-  {
     "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
     "id": "rao-studios/Sewn",
     "language": "Swift",
@@ -72,15 +108,6 @@
     "url": "https://github.com/ompatel3158/ULTSQL"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-26T14:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Declarative SQL query engine for Qdrant and edge vector databases. Multi-vector dense & BM25 sparse search, hybrid retri",
     "id": "srimon12/qql-rs",
     "language": "Rust",
@@ -95,7 +122,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2492,
-    "updated_at": "2026-09-26T14:24:52Z",
+    "updated_at": "2026-09-26T14:49:47Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -122,7 +149,7 @@
     "language": "Python",
     "name": "notadev-iamaura/OneRAG",
     "stars": 126,
-    "updated_at": "2026-09-26T14:13:37Z",
+    "updated_at": "2026-09-26T14:59:51Z",
     "url": "https://github.com/notadev-iamaura/OneRAG"
   },
   {
@@ -162,13 +189,13 @@
     "url": "https://github.com/HHHFFF-HHHFFF/CleanPilot-AI"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 351,
-    "updated_at": "2026-09-26T13:57:28Z",
-    "url": "https://github.com/schmitech/orbit"
+    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
+    "id": "varun29ankuS/shodh-memory",
+    "language": "Rust",
+    "name": "varun29ankuS/shodh-memory",
+    "stars": 293,
+    "updated_at": "2026-09-26T13:53:32Z",
+    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "The AI search platform",
@@ -196,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-09-26T13:49:10Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 292,
-    "updated_at": "2026-09-26T13:53:32Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -430,23 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-26T13:16:49Z",
     "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
-  },
-  {
-    "description": "Embeddable vector database for edge AI",
-    "id": "vanedb/vanedb",
-    "language": "Rust",
-    "name": "vanedb/vanedb",
-    "stars": 0,
-    "updated_at": "2026-09-26T13:19:54Z",
-    "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "Manage and compress long conversation histories into structured knowledge graphs to improve context retention across ses",
-    "id": "eastythenob8-svg/graph-memory",
-    "language": "TypeScript",
-    "name": "eastythenob8-svg/graph-memory",
-    "stars": 1,
-    "updated_at": "2026-09-26T13:16:33Z",
-    "url": "https://github.com/eastythenob8-svg/graph-memory"
   }
 ]
