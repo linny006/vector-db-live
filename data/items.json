@@ -1,12 +1,75 @@
 [
   {
-    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
-    "id": "LuisinTheLegend/ConciergeGraph",
+    "description": "Opensource AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
+    "id": "lopadova/AskMyDocs",
+    "language": "PHP",
+    "name": "lopadova/AskMyDocs",
+    "stars": 10,
+    "updated_at": "2026-09-26T16:43:54Z",
+    "url": "https://github.com/lopadova/AskMyDocs"
+  },
+  {
+    "description": "A private, fully local RAG system designed to run open-source LLMs like Llama 3 securely on consumer hardware.",
+    "id": "Shashank17singh/Your-Own-AI",
+    "language": "C",
+    "name": "Shashank17singh/Your-Own-AI",
+    "stars": 0,
+    "updated_at": "2026-09-26T16:43:34Z",
+    "url": "https://github.com/Shashank17singh/Your-Own-AI"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
     "language": "Python",
-    "name": "LuisinTheLegend/ConciergeGraph",
-    "stars": 1,
-    "updated_at": "2026-09-26T16:28:10Z",
-    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1966,
+    "updated_at": "2026-09-26T16:43:14Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-26T16:41:32Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 886,
+    "updated_at": "2026-09-26T16:40:49Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Demo project. Semantic audio search for journalists",
+    "id": "hordiales/audio-semantic-search-for-journalists",
+    "language": "Python",
+    "name": "hordiales/audio-semantic-search-for-journalists",
+    "stars": 0,
+    "updated_at": "2026-09-26T16:40:43Z",
+    "url": "https://github.com/hordiales/audio-semantic-search-for-journalists"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-09-26T16:39:45Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-26T16:37:01Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -14,8 +77,44 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-09-26T16:25:45Z",
+    "updated_at": "2026-09-26T16:40:22Z",
     "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Decoupled microservices RAG backend routing a Django API Gateway to a dedicated FastAPI model inference engine to isolat",
+    "id": "shreeramkedlaya/fullstack-rag-platform",
+    "language": "TypeScript",
+    "name": "shreeramkedlaya/fullstack-rag-platform",
+    "stars": 0,
+    "updated_at": "2026-09-26T16:34:29Z",
+    "url": "https://github.com/shreeramkedlaya/fullstack-rag-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-26T16:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-26T16:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-Source Long-Term Memory (LTM) Palace for AI Agents & IDEs (Cursor, Claude Desktop) via MCP.",
+    "id": "LuisinTheLegend/ConciergeGraph",
+    "language": "Python",
+    "name": "LuisinTheLegend/ConciergeGraph",
+    "stars": 1,
+    "updated_at": "2026-09-26T16:28:10Z",
+    "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
   },
   {
     "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
@@ -50,7 +149,7 @@
     "language": "Go",
     "name": "Eigen-DB/eigen-db",
     "stars": 11,
-    "updated_at": "2026-09-26T16:18:52Z",
+    "updated_at": "2026-09-26T16:37:15Z",
     "url": "https://github.com/Eigen-DB/eigen-db"
   },
   {
@@ -77,26 +176,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1164,
-    "updated_at": "2026-09-26T16:16:09Z",
+    "updated_at": "2026-09-26T16:41:57Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-26T16:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-26T16:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Cutting edge cloud AI technology put into a Bleeding blunt decade old server. Who would have thought about that.",
@@ -106,24 +187,6 @@
     "stars": 2,
     "updated_at": "2026-09-26T16:12:33Z",
     "url": "https://github.com/interamps/broseidon"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-26T16:09:24Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Opensource AI Hub & Intelligent Agentic Platform for the Enterprise - self-hostable AI hub for enterprise knowledge.",
-    "id": "lopadova/AskMyDocs",
-    "language": "PHP",
-    "name": "lopadova/AskMyDocs",
-    "stars": 10,
-    "updated_at": "2026-09-26T16:10:43Z",
-    "url": "https://github.com/lopadova/AskMyDocs"
   },
   {
     "description": "The AI search platform",
@@ -324,15 +387,6 @@
     "url": "https://github.com/A-Navaneetha/Ai-pdf-chatbot"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 886,
-    "updated_at": "2026-09-26T14:56:09Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "Autonomous Multi-Agent RAG workflow engine with LangGraph, Qdrant vector search, and FastAPI. Implements self-correcting",
     "id": "rahul-1909/NexusAI",
     "language": "Python",
@@ -394,59 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-26T14:07:36Z",
     "url": "https://github.com/darkzard05/rag-system-ollama"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-09-26T14:07:19Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Production-ready RAG AI agent for document ingestion, semantic retrieval, and grounded question answering using Gemini, ",
-    "id": "unimjohn-stack/production-RAG-",
-    "language": "Python",
-    "name": "unimjohn-stack/production-RAG-",
-    "stars": 0,
-    "updated_at": "2026-09-26T14:05:05Z",
-    "url": "https://github.com/unimjohn-stack/production-RAG-"
-  },
-  {
-    "description": "CleanPilot AI\uff5c\u9762\u5411\u667a\u80fd\u6e05\u6d01\u8bbe\u5907\u7684\u4f01\u4e1a\u7ea7\u591a\u667a\u80fd\u4f53\u670d\u52a1\u5e73\u53f0\u3002\u91c7\u7528\u8c03\u5ea6 Agent + 3 \u4e2a\u529f\u80fd Agent\u3001\u6df7\u5408 RAG\uff08Chroma/FTS5/RRF/\u7cbe\u6392\uff09\u3001\u53d7\u63a7 Skill\u3001\u5206\u5c42\u8bed\u4e49\u8bb0\u5fc6\u3001JWT/RBAC \u4e0e React ",
-    "id": "HHHFFF-HHHFFF/CleanPilot-AI",
-    "language": "Python",
-    "name": "HHHFFF-HHHFFF/CleanPilot-AI",
-    "stars": 6,
-    "updated_at": "2026-09-26T14:04:08Z",
-    "url": "https://github.com/HHHFFF-HHHFFF/CleanPilot-AI"
-  },
-  {
-    "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
-    "id": "varun29ankuS/shodh-memory",
-    "language": "Rust",
-    "name": "varun29ankuS/shodh-memory",
-    "stars": 293,
-    "updated_at": "2026-09-26T13:53:32Z",
-    "url": "https://github.com/varun29ankuS/shodh-memory"
-  },
-  {
-    "description": "Local-first, privacy-native embedded vector search engine with optional encrypted sync to S3/Cloudflare R2.",
-    "id": "Evangelikcaos/local-vector-sync",
-    "language": "TypeScript",
-    "name": "Evangelikcaos/local-vector-sync",
-    "stars": 1,
-    "updated_at": "2026-09-26T13:50:03Z",
-    "url": "https://github.com/Evangelikcaos/local-vector-sync"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-26T13:49:10Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   }
 ]
