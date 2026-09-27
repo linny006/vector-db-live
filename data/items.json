@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-27T22:30:22Z",
+    "updated_at": "2026-09-27T22:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-27T22:36:27Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
+    "id": "rmednitzer/core-graph",
+    "language": "Python",
+    "name": "rmednitzer/core-graph",
+    "stars": 1,
+    "updated_at": "2026-09-27T22:32:24Z",
+    "url": "https://github.com/rmednitzer/core-graph"
+  },
+  {
+    "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
+    "id": "project-david-ai/projectdavid-platform",
+    "language": "Python",
+    "name": "project-david-ai/projectdavid-platform",
+    "stars": 1,
+    "updated_at": "2026-09-27T22:32:04Z",
+    "url": "https://github.com/project-david-ai/projectdavid-platform"
+  },
+  {
+    "description": "A typed service that chunks seller, buyer, and handoff documents into a vector collection.",
+    "id": "BrodyVance8567/marketplace-document-vector-ingest",
+    "language": "TypeScript",
+    "name": "BrodyVance8567/marketplace-document-vector-ingest",
+    "stars": 0,
+    "updated_at": "2026-09-27T22:31:39Z",
+    "url": "https://github.com/BrodyVance8567/marketplace-document-vector-ingest"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-27T22:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
@@ -32,17 +77,8 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 887,
-    "updated_at": "2026-09-27T22:28:23Z",
+    "updated_at": "2026-09-27T22:34:55Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-27T22:26:53Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -50,7 +86,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2512,
-    "updated_at": "2026-09-27T22:23:17Z",
+    "updated_at": "2026-09-27T22:40:16Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -68,17 +104,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-09-27T22:11:31Z",
+    "updated_at": "2026-09-27T22:41:23Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-27T22:07:39Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on ",
@@ -320,7 +347,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1164,
-    "updated_at": "2026-09-27T22:27:45Z",
+    "updated_at": "2026-09-27T22:44:25Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 18,
     "updated_at": "2026-09-27T21:11:18Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-09-27T21:11:06Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "An Agentic AI teaching platform featuring a human-in-the-loop architecture where teachers can dynamically guide AI tutor",
-    "id": "asimansari-git/teaching-loop",
-    "language": "Python",
-    "name": "asimansari-git/teaching-loop",
-    "stars": 0,
-    "updated_at": "2026-09-27T21:11:04Z",
-    "url": "https://github.com/asimansari-git/teaching-loop"
-  },
-  {
-    "description": "On-device, natural-language file search for Windows \u2014 finds files and images by what's actually inside them, using only ",
-    "id": "aryantyagi2211/smart-file-finder",
-    "language": "Python",
-    "name": "aryantyagi2211/smart-file-finder",
-    "stars": 0,
-    "updated_at": "2026-09-27T21:06:18Z",
-    "url": "https://github.com/aryantyagi2211/smart-file-finder"
   }
 ]
