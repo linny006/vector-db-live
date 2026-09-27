@@ -1,11 +1,101 @@
 [
   {
+    "description": "ARTEA: Theory-Guided Hierarchical Graph Index for High-Performance ANN Search",
+    "id": "NTU-Siqiang-Group/Artea",
+    "language": "C++",
+    "name": "NTU-Siqiang-Group/Artea",
+    "stars": 4,
+    "updated_at": "2026-09-27T18:12:07Z",
+    "url": "https://github.com/NTU-Siqiang-Group/Artea"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-09-27T18:11:36Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-27T18:10:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Local-first memory + RAG kernel imported by three apps. Answers with cited sources, or says it has nothing in memory. 18",
+    "id": "zaidwhy/personal-llm",
+    "language": "Python",
+    "name": "zaidwhy/personal-llm",
+    "stars": 2,
+    "updated_at": "2026-09-27T18:09:49Z",
+    "url": "https://github.com/zaidwhy/personal-llm"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-09-27T18:04:30Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-09-27T18:03:14Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31041,
+    "updated_at": "2026-09-27T18:14:43Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI-powered meeting/video assistant \u2014 transcribes audio/video (English + Hinglish), generates summaries, extracts action ",
+    "id": "venom312004/AI-video-assistant",
+    "language": "Python",
+    "name": "venom312004/AI-video-assistant",
+    "stars": 2,
+    "updated_at": "2026-09-27T18:03:03Z",
+    "url": "https://github.com/venom312004/AI-video-assistant"
+  },
+  {
+    "description": "A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on ",
+    "id": "zacharydenton/hrxdb",
+    "language": "Rust",
+    "name": "zacharydenton/hrxdb",
+    "stars": 0,
+    "updated_at": "2026-09-27T18:00:45Z",
+    "url": "https://github.com/zacharydenton/hrxdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-27T18:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-27T18:00:23Z",
+    "updated_at": "2026-09-27T18:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -16,6 +106,24 @@
     "stars": 0,
     "updated_at": "2026-09-27T17:55:07Z",
     "url": "https://github.com/rahulboby/ChatVeritas"
+  },
+  {
+    "description": "Hexagonal RAG over your own codebase, with a deterministic, eval-first core.",
+    "id": "jordimarsal/codebaserag",
+    "language": "Python",
+    "name": "jordimarsal/codebaserag",
+    "stars": 0,
+    "updated_at": "2026-09-27T17:54:05Z",
+    "url": "https://github.com/jordimarsal/codebaserag"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6101,
+    "updated_at": "2026-09-27T18:15:21Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Demo project. Semantic audio search for journalists",
@@ -45,24 +153,6 @@
     "url": "https://github.com/integrallis/vectors"
   },
   {
-    "description": "AI-powered meeting/video assistant \u2014 transcribes audio/video (English + Hinglish), generates summaries, extracts action ",
-    "id": "venom312004/AI-video-assistant",
-    "language": "Python",
-    "name": "venom312004/AI-video-assistant",
-    "stars": 2,
-    "updated_at": "2026-09-27T17:48:37Z",
-    "url": "https://github.com/venom312004/AI-video-assistant"
-  },
-  {
-    "description": "Local-first memory + RAG kernel imported by three apps. Answers with cited sources, or says it has nothing in memory. 18",
-    "id": "zaidwhy/personal-llm",
-    "language": "Python",
-    "name": "zaidwhy/personal-llm",
-    "stars": 2,
-    "updated_at": "2026-09-27T17:48:18Z",
-    "url": "https://github.com/zaidwhy/personal-llm"
-  },
-  {
     "description": "Production-grade Zero-Trust AI RAG Security Audit, Multi-Tenant Vector Chunk RBAC Isolation (Qdrant Rust OSS), Prompt In",
     "id": "Namanbhatt-01/zero-trust-ai-rag-security-lab",
     "language": "Python",
@@ -70,15 +160,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T17:47:07Z",
     "url": "https://github.com/Namanbhatt-01/zero-trust-ai-rag-security-lab"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-27T17:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "",
@@ -99,24 +180,6 @@
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31041,
-    "updated_at": "2026-09-27T17:59:08Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-27T17:33:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -131,7 +194,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 887,
-    "updated_at": "2026-09-27T17:56:09Z",
+    "updated_at": "2026-09-27T18:07:34Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -356,7 +419,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-27T16:57:10Z",
+    "updated_at": "2026-09-27T18:08:06Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 1965,
     "updated_at": "2026-09-27T16:56:28Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-09-27T16:56:21Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-27T16:53:57Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-09-27T16:52:37Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 2,
-    "updated_at": "2026-09-27T16:52:37Z",
-    "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "Production RAG pipeline \u2014 enterprise knowledge retrieval across 2TB+ data using LangChain, FAISS, ChromaDB, PG-Vector wi",
-    "id": "rehan243/RAG-Enterprise-Search",
-    "language": "Python",
-    "name": "rehan243/RAG-Enterprise-Search",
-    "stars": 1,
-    "updated_at": "2026-09-27T16:51:22Z",
-    "url": "https://github.com/rehan243/RAG-Enterprise-Search"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-09-27T16:51:01Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "In-process Python metaframework on Pydantic AI for production GenAI \u2014 composable, protocol-driven layers for agents & mi",
-    "id": "fireflyframework/fireflyframework-agentic",
-    "language": "Python",
-    "name": "fireflyframework/fireflyframework-agentic",
-    "stars": 4,
-    "updated_at": "2026-09-27T16:50:55Z",
-    "url": "https://github.com/fireflyframework/fireflyframework-agentic"
   }
 ]
