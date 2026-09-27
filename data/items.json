@@ -1,5 +1,41 @@
 [
   {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-27T15:28:20Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 351,
+    "updated_at": "2026-09-27T15:24:49Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6243,
+    "updated_at": "2026-09-27T15:25:35Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-27T15:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,15 +52,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T15:15:17Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-27T15:13:29Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -59,7 +86,7 @@
     "language": "TypeScript",
     "name": "UsamaImran/pdf-rag",
     "stars": 0,
-    "updated_at": "2026-09-27T15:03:31Z",
+    "updated_at": "2026-09-27T15:28:54Z",
     "url": "https://github.com/UsamaImran/pdf-rag"
   },
   {
@@ -79,15 +106,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T15:01:57Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-27T15:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
@@ -133,24 +151,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T14:34:18Z",
     "url": "https://github.com/HuangRenhui/ai-cs-parent"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 351,
-    "updated_at": "2026-09-27T14:20:01Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6243,
-    "updated_at": "2026-09-27T15:08:47Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
@@ -203,7 +203,7 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13163,
-    "updated_at": "2026-09-27T13:50:48Z",
+    "updated_at": "2026-09-27T15:29:10Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
@@ -302,7 +302,7 @@
     "language": "Java",
     "name": "integrallis/vectors",
     "stars": 18,
-    "updated_at": "2026-09-27T14:16:31Z",
+    "updated_at": "2026-09-27T15:25:06Z",
     "url": "https://github.com/integrallis/vectors"
   },
   {
