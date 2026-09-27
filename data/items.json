@@ -1,5 +1,95 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T19:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri",
+    "id": "Tamilmani027/Context-IQ",
+    "language": "JavaScript",
+    "name": "Tamilmani027/Context-IQ",
+    "stars": 0,
+    "updated_at": "2026-09-27T18:59:50Z",
+    "url": "https://github.com/Tamilmani027/Context-IQ"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-27T18:59:26Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1164,
+    "updated_at": "2026-09-27T18:56:45Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-27T18:49:36Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-09-27T18:47:40Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2508,
+    "updated_at": "2026-09-27T18:46:37Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
+    "id": "OmniBioAI/omnibioai-dev-hub",
+    "language": "Python",
+    "name": "OmniBioAI/omnibioai-dev-hub",
+    "stars": 1,
+    "updated_at": "2026-09-27T18:46:14Z",
+    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
+  },
+  {
+    "description": "A production-grade RAG ingestion pipeline and semantic search API built in Go, utilizing concurrent worker pools and Pos",
+    "id": "Rebira678/Retriever",
+    "language": "Go",
+    "name": "Rebira678/Retriever",
+    "stars": 0,
+    "updated_at": "2026-09-27T18:45:55Z",
+    "url": "https://github.com/Rebira678/Retriever"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-27T18:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -45,24 +135,6 @@
     "url": "https://github.com/ujjawalsinghsde/documind-ai-research-assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-27T18:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T18:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
     "id": "PersonalClaw/PersonalClawApps",
     "language": "Python",
@@ -94,8 +166,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31040,
-    "updated_at": "2026-09-27T18:17:53Z",
+    "stars": 31041,
+    "updated_at": "2026-09-27T18:56:09Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -124,15 +196,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T18:04:30Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-09-27T18:33:41Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "AI-powered meeting/video assistant \u2014 transcribes audio/video (English + Hinglish), generates summaries, extracts action ",
@@ -333,15 +396,6 @@
     "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-09-27T18:37:20Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
     "id": "jefffergunson118-beep/smara",
     "language": "\u2014",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T17:03:05Z",
     "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-09-27T17:02:43Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-09-27T17:02:39Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Private AI knowledge assistant built with local LLMs, RAG, Qdrant, FastAPI, and Next.js. Ask questions over private docu",
-    "id": "thanavreddy/CogniVault",
-    "language": "Python",
-    "name": "thanavreddy/CogniVault",
-    "stars": 0,
-    "updated_at": "2026-09-27T16:59:29Z",
-    "url": "https://github.com/thanavreddy/CogniVault"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-09-27T16:59:24Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 351,
-    "updated_at": "2026-09-27T16:59:20Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "PDF RAG is an end-to-end Retrieval-Augmented Generation system for processing and querying PDF documents. It supports PD",
-    "id": "UsamaImran/pdf-rag",
-    "language": "TypeScript",
-    "name": "UsamaImran/pdf-rag",
-    "stars": 0,
-    "updated_at": "2026-09-27T17:09:36Z",
-    "url": "https://github.com/UsamaImran/pdf-rag"
   }
 ]
