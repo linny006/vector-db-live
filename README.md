@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-27 22:26 UTC
+> ⏰ Last updated: 2026-09-27 22:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 887 | Go | 2026-09-27 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 2 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 2512 | Rust | 2026-09-27 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-27 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [schmitech/orbit](https://github.com/schmitech/orbit) | 351 | Python | 2026-09-27 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
 | 3 | [kwhorne/ElyraSQL](https://github.com/kwhorne/ElyraSQL) | 5 | Rust | 2026-09-27 | A robust, MySQL-compatible SQL server in Rust — single ACID file, vector search (HNSW), and parallel OLAP. |
-| 4 | [Joguisa/rag-basico-dotnet-pgvector](https://github.com/Joguisa/rag-basico-dotnet-pgvector) | 0 | C# | 2026-09-27 | RAG básico que responde preguntas sobre documentos |
-| 5 | [schmitech/orbit](https://github.com/schmitech/orbit) | 351 | Python | 2026-09-27 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-27 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-27 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 887 | Go | 2026-09-27 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
+| 5 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-27 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 6 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 2512 | Rust | 2026-09-27 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 7 | [Joguisa/rag-basico-dotnet-pgvector](https://github.com/Joguisa/rag-basico-dotnet-pgvector) | 0 | C# | 2026-09-27 | RAG básico que responde preguntas sobre documentos |
 | 8 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 6 | Python | 2026-09-27 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
 | 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 4 | HTML | 2026-09-27 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 10 | [zacharydenton/hrxdb](https://github.com/zacharydenton/hrxdb) | 0 | Rust | 2026-09-27 | A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on  |
