@@ -1,21 +1,12 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T22:15:18Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 5,
-    "updated_at": "2026-09-27T22:14:38Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 887,
+    "updated_at": "2026-09-27T22:23:38Z",
+    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -23,8 +14,53 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2512,
-    "updated_at": "2026-09-27T22:13:11Z",
+    "updated_at": "2026-09-27T22:23:17Z",
     "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 5,
+    "updated_at": "2026-09-27T22:22:11Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
+  },
+  {
+    "description": "RAG b\u00e1sico que responde preguntas sobre documentos",
+    "id": "Joguisa/rag-basico-dotnet-pgvector",
+    "language": "C#",
+    "name": "Joguisa/rag-basico-dotnet-pgvector",
+    "stars": 0,
+    "updated_at": "2026-09-27T22:19:54Z",
+    "url": "https://github.com/Joguisa/rag-basico-dotnet-pgvector"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 351,
+    "updated_at": "2026-09-27T22:18:28Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-27T22:15:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T22:15:18Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -61,24 +97,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T22:03:38Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-27T22:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 887,
-    "updated_at": "2026-09-27T21:54:13Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -207,15 +225,6 @@
     "url": "https://github.com/jefffergunson118-beep/smara"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 351,
-    "updated_at": "2026-09-27T21:35:37Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Build an AI-native renderer for games and virtual worlds, with data and tools for world creation and editing",
     "id": "Twentyeight-lawnchair711/AlayaRenderer",
     "language": "\u2014",
@@ -311,7 +320,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1164,
-    "updated_at": "2026-09-27T22:10:28Z",
+    "updated_at": "2026-09-27T22:26:09Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T21:06:18Z",
     "url": "https://github.com/aryantyagi2211/smart-file-finder"
-  },
-  {
-    "description": "Local-first encrypted memory for AI agents",
-    "id": "yp3y5akh0v/citadel",
-    "language": "Rust",
-    "name": "yp3y5akh0v/citadel",
-    "stars": 3,
-    "updated_at": "2026-09-27T21:03:32Z",
-    "url": "https://github.com/yp3y5akh0v/citadel"
   }
 ]
