@@ -1,12 +1,75 @@
 [
   {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1164,
+    "updated_at": "2026-09-27T08:59:22Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
+    "id": "sahnsookyung/JobScout",
+    "language": "Python",
+    "name": "sahnsookyung/JobScout",
+    "stars": 2,
+    "updated_at": "2026-09-27T08:59:11Z",
+    "url": "https://github.com/sahnsookyung/JobScout"
+  },
+  {
+    "description": "A production-grade RAG ingestion pipeline and semantic search API built in Go, utilizing concurrent worker pools and Pos",
+    "id": "Rebira678/Retriever",
+    "language": "Go",
+    "name": "Rebira678/Retriever",
+    "stars": 0,
+    "updated_at": "2026-09-27T08:57:04Z",
+    "url": "https://github.com/Rebira678/Retriever"
+  },
+  {
+    "description": "Going through an advanced process to make the process simpler. What's better than using a corporate service for a few mi",
+    "id": "interamps/broseidon",
+    "language": "Python",
+    "name": "interamps/broseidon",
+    "stars": 2,
+    "updated_at": "2026-09-27T08:55:26Z",
+    "url": "https://github.com/interamps/broseidon"
+  },
+  {
     "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
     "id": "tapiruslab/TapirusDB",
     "language": "Rust",
     "name": "tapiruslab/TapirusDB",
     "stars": 0,
-    "updated_at": "2026-09-27T08:43:38Z",
+    "updated_at": "2026-09-27T08:53:16Z",
     "url": "https://github.com/tapiruslab/TapirusDB"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6243,
+    "updated_at": "2026-09-27T09:00:02Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-27T08:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T08:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -27,30 +90,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-27T08:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T08:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Local, LLM-free memory for AI agents. A single offline Rust binary \u2014 deterministic and auditable \u2014 that learns from use,",
     "id": "varun29ankuS/shodh-memory",
     "language": "Rust",
     "name": "varun29ankuS/shodh-memory",
     "stars": 293,
-    "updated_at": "2026-09-27T08:34:35Z",
+    "updated_at": "2026-09-27T08:59:36Z",
     "url": "https://github.com/varun29ankuS/shodh-memory"
   },
   {
@@ -131,7 +176,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 10,
-    "updated_at": "2026-09-27T08:42:56Z",
+    "updated_at": "2026-09-27T08:59:56Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -178,15 +223,6 @@
     "stars": 1,
     "updated_at": "2026-09-27T08:09:33Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "AI-powered, resume-based job with a configurable matching pipeline that scrapes, analyzes, and scores jobs via alignment",
-    "id": "sahnsookyung/JobScout",
-    "language": "Python",
-    "name": "sahnsookyung/JobScout",
-    "stars": 2,
-    "updated_at": "2026-09-27T08:39:50Z",
-    "url": "https://github.com/sahnsookyung/JobScout"
   },
   {
     "description": "Multi-tenant AI SaaS platform \u2014 autonomous agentic routing (RAG/CNN/chat), PyTorch vision, FAISS retrieval, Celery/Redis",
@@ -369,15 +405,6 @@
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1164,
-    "updated_at": "2026-09-27T08:41:34Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "pro vector database written in the best worst language of all time",
     "id": "KineticTactic/vector-db",
     "language": "C++",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T07:41:43Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-09-27T07:37:35Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-09-27T07:37:30Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
-  },
-  {
-    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
-    "id": "ermermermermidk/mcp-ai-memory",
-    "language": "TypeScript",
-    "name": "ermermermermidk/mcp-ai-memory",
-    "stars": 1,
-    "updated_at": "2026-09-27T07:36:58Z",
-    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   }
 ]
