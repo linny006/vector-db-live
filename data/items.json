@@ -1,12 +1,57 @@
 [
   {
-    "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
-    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
     "language": "Python",
-    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "name": "hbar-systems/brainfoundry-nous",
     "stars": 0,
-    "updated_at": "2026-09-27T19:56:10Z",
-    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
+    "updated_at": "2026-09-27T20:15:03Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2333,
+    "updated_at": "2026-09-27T20:13:07Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2510,
+    "updated_at": "2026-09-27T20:12:27Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-27T20:10:19Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-27T20:10:05Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-27T20:08:42Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
@@ -14,8 +59,44 @@
     "language": "Python",
     "name": "PersonalClaw/PersonalClawApps",
     "stars": 0,
-    "updated_at": "2026-09-27T19:54:43Z",
+    "updated_at": "2026-09-27T20:08:05Z",
     "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "\ud83d\uddc2\ufe0f A Model Context Protocol (MCP) server that provides integration with Turso databases for LLMs. This server implements",
+    "id": "spences10/mcp-turso-cloud",
+    "language": "TypeScript",
+    "name": "spences10/mcp-turso-cloud",
+    "stars": 18,
+    "updated_at": "2026-09-27T20:05:33Z",
+    "url": "https://github.com/spences10/mcp-turso-cloud"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-27T20:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-27T20:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI/RAG platform blueprint with Python release gates for routing, privacy, citations, vector recovery, and offline eviden",
+    "id": "AliZahiri/ai-rag-platform-blueprint",
+    "language": "Python",
+    "name": "AliZahiri/ai-rag-platform-blueprint",
+    "stars": 0,
+    "updated_at": "2026-09-27T19:56:10Z",
+    "url": "https://github.com/AliZahiri/ai-rag-platform-blueprint"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -68,7 +149,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 887,
-    "updated_at": "2026-09-27T19:54:49Z",
+    "updated_at": "2026-09-27T20:12:26Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -90,24 +171,6 @@
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-27T19:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-27T19:45:19Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
     "id": "doriapt53/spring-manifold-next-gen",
     "language": "TypeScript",
@@ -124,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T19:41:36Z",
     "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "\ud83d\uddc2\ufe0f A Model Context Protocol (MCP) server that provides integration with Turso databases for LLMs. This server implements",
-    "id": "spences10/mcp-turso-cloud",
-    "language": "TypeScript",
-    "name": "spences10/mcp-turso-cloud",
-    "stars": 18,
-    "updated_at": "2026-09-27T19:41:19Z",
-    "url": "https://github.com/spences10/mcp-turso-cloud"
   },
   {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
@@ -169,15 +223,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T19:34:10Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-27T19:33:54Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
@@ -378,15 +423,6 @@
     "url": "https://github.com/zubairporag/yu-ai-agent"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-09-27T19:05:05Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
     "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
     "id": "ermermermermidk/mcp-ai-memory",
     "language": "TypeScript",
@@ -401,7 +437,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31047,
-    "updated_at": "2026-09-27T19:04:38Z",
+    "updated_at": "2026-09-27T20:11:30Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-27T18:59:50Z",
     "url": "https://github.com/Tamilmani027/Context-IQ"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-27T18:49:36Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-09-27T18:47:40Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2509,
-    "updated_at": "2026-09-27T19:20:04Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
-    "id": "OmniBioAI/omnibioai-dev-hub",
-    "language": "Python",
-    "name": "OmniBioAI/omnibioai-dev-hub",
-    "stars": 1,
-    "updated_at": "2026-09-27T18:46:14Z",
-    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
   }
 ]
