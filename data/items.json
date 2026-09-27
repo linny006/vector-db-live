@@ -1,5 +1,68 @@
 [
   {
+    "description": "Top Embedding Management (Opensource) \ud83c\udf1f Star if you like it! \ud83c\udf1f",
+    "id": "ishandutta2007/Awesome-Embedding-Management",
+    "language": "\u2014",
+    "name": "ishandutta2007/Awesome-Embedding-Management",
+    "stars": 0,
+    "updated_at": "2026-09-27T06:45:14Z",
+    "url": "https://github.com/ishandutta2007/Awesome-Embedding-Management"
+  },
+  {
+    "description": "A lightweight bioacoustic search engine to classify European bird songs. ",
+    "id": "cestdove/aviora",
+    "language": "Python",
+    "name": "cestdove/aviora",
+    "stars": 1,
+    "updated_at": "2026-09-27T06:43:26Z",
+    "url": "https://github.com/cestdove/aviora"
+  },
+  {
+    "description": "Cerebro, a Second Brain\u2013inspired knowledge management platform using React, TypeScript, Node.js, and MongoDB.",
+    "id": "Brijesh-0106/Cerebro",
+    "language": "TypeScript",
+    "name": "Brijesh-0106/Cerebro",
+    "stars": 1,
+    "updated_at": "2026-09-27T06:42:49Z",
+    "url": "https://github.com/Brijesh-0106/Cerebro"
+  },
+  {
+    "description": "The fastest pure Go in-memory Redis alternative. 6.87M+ ops/s peak throughput, 119\u00b5s latency, Multi-Reactor engine, embe",
+    "id": "GargAnshu9468/vortexkv",
+    "language": "Go",
+    "name": "GargAnshu9468/vortexkv",
+    "stars": 9,
+    "updated_at": "2026-09-27T06:39:07Z",
+    "url": "https://github.com/GargAnshu9468/vortexkv"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-27T06:36:53Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 887,
+    "updated_at": "2026-09-27T06:34:39Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-27T06:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -16,15 +79,6 @@
     "stars": 4,
     "updated_at": "2026-09-27T06:28:51Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "The fastest pure Go in-memory Redis alternative. 6.87M+ ops/s peak throughput, 119\u00b5s latency, Multi-Reactor engine, embe",
-    "id": "GargAnshu9468/vortexkv",
-    "language": "Go",
-    "name": "GargAnshu9468/vortexkv",
-    "stars": 9,
-    "updated_at": "2026-09-27T06:24:26Z",
-    "url": "https://github.com/GargAnshu9468/vortexkv"
   },
   {
     "description": "Going through an advanced process to make the process simpler. What's better than using a corporate service for a few mi",
@@ -54,15 +108,6 @@
     "url": "https://github.com/Constraintworthy6058/ai-github-repository-assistant"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 887,
-    "updated_at": "2026-09-27T06:16:55Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "",
     "id": "threefigure-achromia682/ai-memory",
     "language": "\u2014",
@@ -79,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T06:15:57Z",
     "url": "https://github.com/alegameplays14-del/leica-infinity-2026"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-27T06:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
@@ -214,15 +250,6 @@
     "stars": 11,
     "updated_at": "2026-09-27T06:04:50Z",
     "url": "https://github.com/hoffresearch/urna"
-  },
-  {
-    "description": "Cerebro, a Second Brain\u2013inspired knowledge management platform using React, TypeScript, Node.js, and MongoDB.",
-    "id": "Brijesh-0106/Cerebro",
-    "language": "TypeScript",
-    "name": "Brijesh-0106/Cerebro",
-    "stars": 1,
-    "updated_at": "2026-09-27T06:04:40Z",
-    "url": "https://github.com/Brijesh-0106/Cerebro"
   },
   {
     "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-27T05:46:39Z",
     "url": "https://github.com/leitoooatr/PythonVectorDB"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
-    "id": "Jeroflo88/Self-Corrective-RAG",
-    "language": "Python",
-    "name": "Jeroflo88/Self-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-27T05:45:47Z",
-    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-09-27T05:43:00Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-09-27T05:37:44Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
   }
 ]
