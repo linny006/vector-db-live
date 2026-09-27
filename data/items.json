@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-27T04:30:19Z",
+    "updated_at": "2026-09-27T04:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
+    "id": "hoffresearch/urna",
+    "language": "Rust",
+    "name": "hoffresearch/urna",
+    "stars": 11,
+    "updated_at": "2026-09-27T04:45:15Z",
+    "url": "https://github.com/hoffresearch/urna"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 887,
+    "updated_at": "2026-09-27T04:42:29Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "SQLite of agent memory \u2014 single-file, embeddable, zero-config. Episodic + semantic memory, hybrid BM25+vector recall, bi",
+    "id": "TAIPANBOX/engram",
+    "language": "Python",
+    "name": "TAIPANBOX/engram",
+    "stars": 2,
+    "updated_at": "2026-09-27T04:41:22Z",
+    "url": "https://github.com/TAIPANBOX/engram"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-27T04:39:47Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Cerebro, a Second Brain\u2013inspired knowledge management platform using React, TypeScript, Node.js, and MongoDB.",
+    "id": "Brijesh-0106/Cerebro",
+    "language": "TypeScript",
+    "name": "Brijesh-0106/Cerebro",
+    "stars": 1,
+    "updated_at": "2026-09-27T04:37:08Z",
+    "url": "https://github.com/Brijesh-0106/Cerebro"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-09-27T04:36:02Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-27T04:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -70,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-09-27T04:24:33Z",
     "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/urna",
-    "language": "Rust",
-    "name": "hoffresearch/urna",
-    "stars": 11,
-    "updated_at": "2026-09-27T04:24:16Z",
-    "url": "https://github.com/hoffresearch/urna"
   },
   {
     "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
@@ -160,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-09-27T04:15:40Z",
     "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-27T04:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
@@ -259,15 +304,6 @@
     "stars": 2,
     "updated_at": "2026-09-27T04:10:55Z",
     "url": "https://github.com/sahnsookyung/JobScout"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-27T04:10:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-27T03:52:07Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-09-27T03:47:45Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "A multi-user load benchmark for Long-Term Memory (LTM) systems",
-    "id": "skhynix/LTM100",
-    "language": "Python",
-    "name": "skhynix/LTM100",
-    "stars": 4,
-    "updated_at": "2026-09-27T03:47:27Z",
-    "url": "https://github.com/skhynix/LTM100"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-09-27T03:45:54Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
-  },
-  {
-    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
-    "id": "DanieldfMedina/GenAI-Course-Repo",
-    "language": "C++",
-    "name": "DanieldfMedina/GenAI-Course-Repo",
-    "stars": 0,
-    "updated_at": "2026-09-27T03:45:24Z",
-    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
   }
 ]
