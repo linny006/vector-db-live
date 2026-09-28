@@ -1,21 +1,102 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46262,
+    "updated_at": "2026-09-28T02:29:36Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Large document Q&A agent using RAG",
+    "id": "djleamen/doc-reader",
     "language": "Python",
-    "name": "linny006/rag-radar",
+    "name": "djleamen/doc-reader",
     "stars": 3,
-    "updated_at": "2026-09-28T02:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "updated_at": "2026-09-28T02:26:45Z",
+    "url": "https://github.com/djleamen/doc-reader"
+  },
+  {
+    "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
+    "id": "tryAGI/Turbopuffer",
+    "language": "C#",
+    "name": "tryAGI/Turbopuffer",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:26:06Z",
+    "url": "https://github.com/tryAGI/Turbopuffer"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 351,
+    "updated_at": "2026-09-28T02:24:44Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Distributed vector search node and client for Sewn and MaryOS.",
+    "id": "rao-studios/Thread",
+    "language": "Swift",
+    "name": "rao-studios/Thread",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:23:05Z",
+    "url": "https://github.com/rao-studios/Thread"
+  },
+  {
+    "description": "DBX is an open-source, high-density in-memory database engine built in Go, engineered specifically to serve as the secur",
+    "id": "vanshjain-0702/DBX-Database-Extreme",
+    "language": "Go",
+    "name": "vanshjain-0702/DBX-Database-Extreme",
+    "stars": 3,
+    "updated_at": "2026-09-28T02:22:38Z",
+    "url": "https://github.com/vanshjain-0702/DBX-Database-Extreme"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-28T02:22:02Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
     "name": "databendlabs/databend",
-    "stars": 9452,
-    "updated_at": "2026-09-28T02:13:39Z",
+    "stars": 9453,
+    "updated_at": "2026-09-28T02:22:01Z",
     "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on ",
+    "id": "zacharydenton/hrxdb",
+    "language": "Rust",
+    "name": "zacharydenton/hrxdb",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:21:39Z",
+    "url": "https://github.com/zacharydenton/hrxdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T02:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T02:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Aturan.org is Indonesia\u2019s first public semantic search for laws and regulations, AI-ready with an MCP server, REST API, ",
@@ -34,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T02:13:07Z",
     "url": "https://github.com/Achal13jain/vectormeta"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T02:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -72,15 +144,6 @@
     "url": "https://github.com/sarthaksinha2600/LLM-Contract"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-28T01:55:22Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
     "id": "Shitless-jnr3697/rebasis",
     "language": "Python",
@@ -104,7 +167,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 887,
-    "updated_at": "2026-09-28T02:12:29Z",
+    "updated_at": "2026-09-28T02:19:10Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -288,15 +351,6 @@
     "url": "https://github.com/K3Tamaa/Vector-Forge"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 351,
-    "updated_at": "2026-09-28T01:34:27Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T01:21:11Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-09-28T01:16:28Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 4,
-    "updated_at": "2026-09-28T01:15:14Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "An AI-powered job search and career assistant that helps candidates discover relevant opportunities, apply more efficien",
-    "id": "mohocodes-team/job-assistant-agent",
-    "language": "\u2014",
-    "name": "mohocodes-team/job-assistant-agent",
-    "stars": 4,
-    "updated_at": "2026-09-28T01:14:16Z",
-    "url": "https://github.com/mohocodes-team/job-assistant-agent"
-  },
-  {
-    "description": "A RAG pipeline for question answering about PES University",
-    "id": "pesu-dev/ask-pesu",
-    "language": "TypeScript",
-    "name": "pesu-dev/ask-pesu",
-    "stars": 10,
-    "updated_at": "2026-09-28T01:17:35Z",
-    "url": "https://github.com/pesu-dev/ask-pesu"
-  },
-  {
-    "description": "Semantic candidate search and information retrieval over ~200K profiles: Voyage-3 embeddings, hard/soft relevance filter",
-    "id": "jameswniu/candidate-vector-search-rerank-semantics",
-    "language": "Python",
-    "name": "jameswniu/candidate-vector-search-rerank-semantics",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:09:52Z",
-    "url": "https://github.com/jameswniu/candidate-vector-search-rerank-semantics"
-  },
-  {
-    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
-    "id": "zubairporag/yu-ai-agent",
-    "language": "Java",
-    "name": "zubairporag/yu-ai-agent",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:08:38Z",
-    "url": "https://github.com/zubairporag/yu-ai-agent"
   }
 ]
