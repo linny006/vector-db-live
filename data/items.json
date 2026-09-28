@@ -1,11 +1,56 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-28T16:30:06Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-09-28T16:29:02Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1354,
+    "updated_at": "2026-09-28T16:21:54Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T16:15:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T16:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
     "id": "fenecdb/fenec",
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-09-28T16:14:05Z",
+    "updated_at": "2026-09-28T16:29:36Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -23,7 +68,7 @@
     "language": "Kotlin",
     "name": "2B-4G10/NoLockQS",
     "stars": 0,
-    "updated_at": "2026-09-28T16:10:45Z",
+    "updated_at": "2026-09-28T16:21:22Z",
     "url": "https://github.com/2B-4G10/NoLockQS"
   },
   {
@@ -34,6 +79,15 @@
     "stars": 4,
     "updated_at": "2026-09-28T16:10:35Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31125,
+    "updated_at": "2026-09-28T16:09:13Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -50,35 +104,8 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6456,
-    "updated_at": "2026-09-28T16:07:56Z",
+    "updated_at": "2026-09-28T16:26:03Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-28T16:00:56Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T16:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T16:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -162,6 +189,15 @@
     "url": "https://github.com/erenyanic/sec-semanticsearch"
   },
   {
+    "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
+    "id": "StarTrail-org/LEANN",
+    "language": "Python",
+    "name": "StarTrail-org/LEANN",
+    "stars": 12966,
+    "updated_at": "2026-09-28T15:35:05Z",
+    "url": "https://github.com/StarTrail-org/LEANN"
+  },
+  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -176,7 +212,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1166,
-    "updated_at": "2026-09-28T16:13:33Z",
+    "updated_at": "2026-09-28T16:23:27Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -266,7 +302,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34865,
-    "updated_at": "2026-09-28T16:13:34Z",
+    "updated_at": "2026-09-28T16:27:02Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -293,17 +329,8 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 6102,
-    "updated_at": "2026-09-28T16:10:46Z",
+    "updated_at": "2026-09-28T16:27:47Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-09-28T16:06:46Z",
-    "url": "https://github.com/sunormesky-max/epicode"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -421,32 +448,5 @@
     "stars": 46272,
     "updated_at": "2026-09-28T14:13:37Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-09-28T14:22:25Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "ARTEA: Theory-Guided Hierarchical Graph Index for High-Performance ANN Search",
-    "id": "NTU-Siqiang-Group/Artea",
-    "language": "C++",
-    "name": "NTU-Siqiang-Group/Artea",
-    "stars": 4,
-    "updated_at": "2026-09-28T14:07:53Z",
-    "url": "https://github.com/NTU-Siqiang-Group/Artea"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-28T16:10:18Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   }
 ]
