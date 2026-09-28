@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-28T15:30:24Z",
+    "updated_at": "2026-09-28T15:45:25Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-09-28T15:44:47Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 34,
+    "updated_at": "2026-09-28T15:43:11Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 84,
+    "updated_at": "2026-09-28T15:41:47Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "Natural language search for SEC filings. Fetch 10-K/10-Q/8-K from EDGAR, parse into segments, chunk text, generate GPU-a",
+    "id": "erenyanic/sec-semanticsearch",
+    "language": "Python",
+    "name": "erenyanic/sec-semanticsearch",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:41:47Z",
+    "url": "https://github.com/erenyanic/sec-semanticsearch"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-28T15:39:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
@@ -14,8 +59,17 @@
     "language": "Kotlin",
     "name": "2B-4G10/NoLockQS",
     "stars": 0,
-    "updated_at": "2026-09-28T15:30:27Z",
+    "updated_at": "2026-09-28T15:36:29Z",
     "url": "https://github.com/2B-4G10/NoLockQS"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T15:30:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The AI search platform",
@@ -52,24 +106,6 @@
     "stars": 2,
     "updated_at": "2026-09-28T15:18:03Z",
     "url": "https://github.com/N2FlowJS/nbase"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T15:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-28T15:09:45Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Scala client for Pinecone vector database",
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-09-28T14:45:03Z",
+    "updated_at": "2026-09-28T15:34:41Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -234,20 +270,11 @@
     "url": "https://github.com/surajkumarnavodya/text-to-sql-agent-langgraph"
   },
   {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 34,
-    "updated_at": "2026-09-28T14:32:23Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
     "id": "langchain4j/langchain4j",
     "language": "Java",
     "name": "langchain4j/langchain4j",
-    "stars": 13170,
+    "stars": 13171,
     "updated_at": "2026-09-28T14:31:43Z",
     "url": "https://github.com/langchain4j/langchain4j"
   },
@@ -274,7 +301,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2334,
+    "stars": 2335,
     "updated_at": "2026-09-28T14:25:18Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -329,7 +356,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-28T15:21:07Z",
+    "updated_at": "2026-09-28T15:31:08Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -347,7 +374,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 10,
-    "updated_at": "2026-09-28T15:28:59Z",
+    "updated_at": "2026-09-28T15:44:30Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -355,18 +382,9 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 35897,
+    "stars": 35896,
     "updated_at": "2026-09-28T14:01:31Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-09-28T15:23:41Z",
-    "url": "https://github.com/Cognipeer/console"
   },
   {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-28T13:46:52Z",
     "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16857,
-    "updated_at": "2026-09-28T15:14:40Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Vector search engine inside Milvus, integrating FAISS, HNSW, DiskANN.",
-    "id": "zilliztech/knowhere",
-    "language": "C++",
-    "name": "zilliztech/knowhere",
-    "stars": 387,
-    "updated_at": "2026-09-28T13:43:30Z",
-    "url": "https://github.com/zilliztech/knowhere"
   }
 ]
