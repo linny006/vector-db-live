@@ -1,5 +1,185 @@
 [
   {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-09-28T13:14:33Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "A lightweight bioacoustic search engine to classify European bird songs. ",
+    "id": "cestdove/aviora",
+    "language": "Python",
+    "name": "cestdove/aviora",
+    "stars": 1,
+    "updated_at": "2026-09-28T13:14:02Z",
+    "url": "https://github.com/cestdove/aviora"
+  },
+  {
+    "description": "C# SDK for the Milvus vector database REST API -- collections, vectors, partitions, indexes, users, and roles management",
+    "id": "tryAGI/Milvus",
+    "language": "C#",
+    "name": "tryAGI/Milvus",
+    "stars": 0,
+    "updated_at": "2026-09-28T13:13:42Z",
+    "url": "https://github.com/tryAGI/Milvus"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6102,
+    "updated_at": "2026-09-28T13:13:27Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "A universal CLI for Weaviate, Milvus, Chroma, Qdrant, and other vector DBs to help view, list, create, delete, and searc",
+    "id": "maximilien/weave-cli",
+    "language": "Go",
+    "name": "maximilien/weave-cli",
+    "stars": 34,
+    "updated_at": "2026-09-28T13:12:10Z",
+    "url": "https://github.com/maximilien/weave-cli"
+  },
+  {
+    "description": "A curated list of 400+ AI APIs, tools, frameworks, and platforms across 40+ categories",
+    "id": "edwardtay/awesome-ai",
+    "language": "\u2014",
+    "name": "edwardtay/awesome-ai",
+    "stars": 4,
+    "updated_at": "2026-09-28T13:12:04Z",
+    "url": "https://github.com/edwardtay/awesome-ai"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-09-28T13:11:16Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-28T13:10:57Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-28T13:09:29Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 3,
+    "updated_at": "2026-09-28T13:09:04Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-09-28T13:06:55Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 3,
+    "updated_at": "2026-09-28T13:06:44Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "The 100% Safe-Rust Embedded Quad-Model AI Database & Cognitive Memory Engine (SQL, Vectors, GraphRAG, Documents)",
+    "id": "tapiruslab/TapirusDB",
+    "language": "Rust",
+    "name": "tapiruslab/TapirusDB",
+    "stars": 0,
+    "updated_at": "2026-09-28T13:06:38Z",
+    "url": "https://github.com/tapiruslab/TapirusDB"
+  },
+  {
+    "description": "Enterprise SaaS platform for AI agent communication inspired by fungal mycelia. Agents exchange knowledge through semant",
+    "id": "aicubetechnology/qilbee-mycelial-network",
+    "language": "Python",
+    "name": "aicubetechnology/qilbee-mycelial-network",
+    "stars": 1,
+    "updated_at": "2026-09-28T13:05:59Z",
+    "url": "https://github.com/aicubetechnology/qilbee-mycelial-network"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-09-28T13:02:51Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-09-28T13:00:56Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-28T13:00:50Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T13:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T13:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "C# SDK for the Pinecone API -- vector database with similarity search, index management, and inference",
+    "id": "tryAGI/Pinecone",
+    "language": "C#",
+    "name": "tryAGI/Pinecone",
+    "stars": 8,
+    "updated_at": "2026-09-28T13:00:21Z",
+    "url": "https://github.com/tryAGI/Pinecone"
+  },
+  {
     "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
     "id": "fub05/MCP---Agent-Starter-Kit",
     "language": "Python",
@@ -72,15 +252,6 @@
     "url": "https://github.com/techdomegh/ai-news-scraper"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-28T12:51:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
     "id": "clizardyy/unbody",
     "language": "TypeScript",
@@ -115,24 +286,6 @@
     "stars": 4,
     "updated_at": "2026-09-28T12:47:02Z",
     "url": "https://github.com/landedjobs/rag-engineer-interview-questions"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T12:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T12:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
@@ -252,21 +405,12 @@
     "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
   },
   {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6102,
-    "updated_at": "2026-09-28T12:59:54Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
     "id": "surrealdb/docs.surrealdb.com",
     "language": "MDX",
     "name": "surrealdb/docs.surrealdb.com",
     "stars": 121,
-    "updated_at": "2026-09-28T12:56:48Z",
+    "updated_at": "2026-09-28T13:00:30Z",
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
@@ -304,149 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-28T12:10:43Z",
     "url": "https://github.com/schwichtgit/ai-resume"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-28T12:17:19Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 84,
-    "updated_at": "2026-09-28T11:59:43Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Bayesian MMM\uacfc \ucd5c\uc2e0 \uc2dc\uc7a5 \ud2b8\ub80c\ub4dc\ub97c \ud65c\uc6a9\ud574 \ub2e4\uc74c \ubd84\uae30 \ub9c8\ucf00\ud305 \uc608\uc0b0 \ubc30\ubd84\uc744 \ucd94\ucc9c\ud558\uace0, \uc608\uc0c1 \uc131\uacfc\uc640 \ubd88\ud655\uc2e4\uc131\uc744 \ube44\uad50\ud558\ub294 \uc2dc\ubbac\ub808\uc774\ud130",
-    "id": "LEE-ok/trend-aware-mmm",
-    "language": "Python",
-    "name": "LEE-ok/trend-aware-mmm",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:59:01Z",
-    "url": "https://github.com/LEE-ok/trend-aware-mmm"
-  },
-  {
-    "description": "Redis Vector Library. The AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 429,
-    "updated_at": "2026-09-28T12:31:50Z",
-    "url": "https://github.com/redis/redis-vl-python"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-28T12:54:42Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 20,
-    "updated_at": "2026-09-28T11:54:25Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
-    "id": "wickra-lib/wickra-genome",
-    "language": "Rust",
-    "name": "wickra-lib/wickra-genome",
-    "stars": 1,
-    "updated_at": "2026-09-28T12:11:25Z",
-    "url": "https://github.com/wickra-lib/wickra-genome"
-  },
-  {
-    "description": "A developer toolkit for analyzing RAG pipelines. Includes implementations of advanced retrieval strategies and diagnosti",
-    "id": "Piyush-Sambyall/rag-patterns-and-pitfalls",
-    "language": "Python",
-    "name": "Piyush-Sambyall/rag-patterns-and-pitfalls",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:51:42Z",
-    "url": "https://github.com/Piyush-Sambyall/rag-patterns-and-pitfalls"
-  },
-  {
-    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
-    "id": "devharis99/vectra",
-    "language": "Python",
-    "name": "devharis99/vectra",
-    "stars": 1,
-    "updated_at": "2026-09-28T11:47:15Z",
-    "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores",
-    "id": "4thel00z/qdrant-operator",
-    "language": "Python",
-    "name": "4thel00z/qdrant-operator",
-    "stars": 1,
-    "updated_at": "2026-09-28T11:43:40Z",
-    "url": "https://github.com/4thel00z/qdrant-operator"
-  },
-  {
-    "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
-    "id": "Parth-2004/Historical-AI-Assistant",
-    "language": "Python",
-    "name": "Parth-2004/Historical-AI-Assistant",
-    "stars": 1,
-    "updated_at": "2026-09-28T11:42:32Z",
-    "url": "https://github.com/Parth-2004/Historical-AI-Assistant"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:42:30Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16857,
-    "updated_at": "2026-09-28T12:54:02Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Node.js client for Aspected database",
-    "id": "Aspected-Dev/aspected-js",
-    "language": "TypeScript",
-    "name": "Aspected-Dev/aspected-js",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:39:27Z",
-    "url": "https://github.com/Aspected-Dev/aspected-js"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:38:40Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:36:55Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
   }
 ]
