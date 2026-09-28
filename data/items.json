@@ -1,5 +1,149 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T23:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-09-28T23:00:17Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "Autonomous developer orchestration challenge. Hierarchical vector memory via Qdrant & Redis",
+    "id": "samettemizer/nesti",
+    "language": "Python",
+    "name": "samettemizer/nesti",
+    "stars": 0,
+    "updated_at": "2026-09-28T22:59:31Z",
+    "url": "https://github.com/samettemizer/nesti"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-09-28T22:56:58Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 2,
+    "updated_at": "2026-09-28T22:55:19Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 3,
+    "updated_at": "2026-09-28T22:54:53Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-09-28T22:53:41Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Distributed vector search node and client for Sewn and MaryOS.",
+    "id": "rao-studios/Thread",
+    "language": "Swift",
+    "name": "rao-studios/Thread",
+    "stars": 0,
+    "updated_at": "2026-09-28T22:53:02Z",
+    "url": "https://github.com/rao-studios/Thread"
+  },
+  {
+    "description": "Memseek is an open source declarative context engine for AI agents. Define agent memory in versioned YAML \u2014 like Terrafo",
+    "id": "memseekai/memseek",
+    "language": "Python",
+    "name": "memseekai/memseek",
+    "stars": 10,
+    "updated_at": "2026-09-28T22:50:58Z",
+    "url": "https://github.com/memseekai/memseek"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-09-28T22:49:55Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-09-28T22:48:09Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-28T22:48:04Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-09-28T22:47:27Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 2,
+    "updated_at": "2026-09-28T22:46:17Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-09-28T22:45:59Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T22:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
@@ -72,15 +216,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Autonomous developer orchestration challenge. Hierarchical vector memory via Qdrant & Redis",
-    "id": "samettemizer/nesti",
-    "language": "Python",
-    "name": "samettemizer/nesti",
-    "stars": 0,
-    "updated_at": "2026-09-28T22:35:57Z",
-    "url": "https://github.com/samettemizer/nesti"
-  },
-  {
     "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
     "id": "kannaka-labs/kannaka-memory",
     "language": "Rust",
@@ -90,22 +225,13 @@
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T22:32:05Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T22:30:36Z",
-    "url": "https://github.com/linny006/vector-db-live"
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6457,
+    "updated_at": "2026-09-28T22:29:46Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "RAG over the FastAPI codebase and docs with cited answers, and an eval harness that measures retrieval and generation se",
@@ -121,7 +247,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31145,
+    "stars": 31147,
     "updated_at": "2026-09-28T22:16:04Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -167,7 +293,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9313,
-    "updated_at": "2026-09-28T22:31:54Z",
+    "updated_at": "2026-09-28T22:56:03Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -185,7 +311,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8292,
-    "updated_at": "2026-09-28T22:21:42Z",
+    "updated_at": "2026-09-28T22:45:53Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -205,33 +331,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T21:37:40Z",
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-28T21:31:44Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-09-28T21:31:14Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-09-28T21:30:09Z",
-    "url": "https://github.com/ribagolx10/crossvector"
   },
   {
     "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
@@ -261,33 +360,6 @@
     "url": "https://github.com/run-llama/llama_index"
   },
   {
-    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
-    "id": "britorbs/consciousdb",
-    "language": "Python",
-    "name": "britorbs/consciousdb",
-    "stars": 0,
-    "updated_at": "2026-09-28T21:24:12Z",
-    "url": "https://github.com/britorbs/consciousdb"
-  },
-  {
-    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
-    "id": "SKeditz42/Vec",
-    "language": "C",
-    "name": "SKeditz42/Vec",
-    "stars": 2,
-    "updated_at": "2026-09-28T21:22:19Z",
-    "url": "https://github.com/SKeditz42/Vec"
-  },
-  {
-    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
-    "id": "zoepranataksm/Mind_Vault_AI",
-    "language": "JavaScript",
-    "name": "zoepranataksm/Mind_Vault_AI",
-    "stars": 1,
-    "updated_at": "2026-09-28T21:22:02Z",
-    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
-  },
-  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -313,6 +385,15 @@
     "stars": 1,
     "updated_at": "2026-09-28T21:03:24Z",
     "url": "https://github.com/tryAGI/Chroma"
+  },
+  {
+    "description": "Grounded document question-answering pipeline with local embeddings, ChromaDB retrieval, Groq LLM generation, source cit",
+    "id": "alifarzadjamali/local-document-rag-qa",
+    "language": "Python",
+    "name": "alifarzadjamali/local-document-rag-qa",
+    "stars": 1,
+    "updated_at": "2026-09-28T20:54:16Z",
+    "url": "https://github.com/alifarzadjamali/local-document-rag-qa"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -367,86 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-28T20:21:53Z",
     "url": "https://github.com/ssrjkk/claude-skills"
-  },
-  {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-09-28T20:15:09Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "On-device, natural-language file search for Windows \u2014 finds files and images by what's actually inside them, using only ",
-    "id": "aryantyagi2211/smart-file-finder",
-    "language": "Python",
-    "name": "aryantyagi2211/smart-file-finder",
-    "stars": 0,
-    "updated_at": "2026-09-28T20:08:23Z",
-    "url": "https://github.com/aryantyagi2211/smart-file-finder"
-  },
-  {
-    "description": "JurisRAG is a citation-enforced legal RAG system delivering grounded answers from Indian legal documents using hybrid BM",
-    "id": "Parth-Udawant/JurisRAG---Citation-Enforced-Legal-RAG-System",
-    "language": "Python",
-    "name": "Parth-Udawant/JurisRAG---Citation-Enforced-Legal-RAG-System",
-    "stars": 0,
-    "updated_at": "2026-09-28T20:05:01Z",
-    "url": "https://github.com/Parth-Udawant/JurisRAG---Citation-Enforced-Legal-RAG-System"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 34,
-    "updated_at": "2026-09-28T20:21:18Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1628,
-    "updated_at": "2026-09-28T22:35:39Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6456,
-    "updated_at": "2026-09-28T22:29:46Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 2,
-    "updated_at": "2026-09-28T19:52:32Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-09-28T19:51:33Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
-    "id": "sh1v-max/AI-Backend",
-    "language": "TypeScript",
-    "name": "sh1v-max/AI-Backend",
-    "stars": 0,
-    "updated_at": "2026-09-28T19:47:36Z",
-    "url": "https://github.com/sh1v-max/AI-Backend"
   }
 ]
