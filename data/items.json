@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-28T15:45:25Z",
+    "updated_at": "2026-09-28T16:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-28T15:58:59Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-28T15:59:42Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 352,
+    "updated_at": "2026-09-28T15:54:33Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
+    "id": "2B-4G10/NoLockQS",
+    "language": "Kotlin",
+    "name": "2B-4G10/NoLockQS",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:54:25Z",
+    "url": "https://github.com/2B-4G10/NoLockQS"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:53:26Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
+    "id": "rao-studios/Sewn",
+    "language": "Swift",
+    "name": "rao-studios/Sewn",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:52:40Z",
+    "url": "https://github.com/rao-studios/Sewn"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:58:26Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T15:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "RAG-based knowledge assistant for pharmacy inventory management using Gemini, ChromaDB, LangGraph and Streamlit.",
+    "id": "dalvaromartinez/farmastock-rag-assistant",
+    "language": "Jupyter Notebook",
+    "name": "dalvaromartinez/farmastock-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-28T15:44:48Z",
+    "url": "https://github.com/dalvaromartinez/farmastock-rag-assistant"
   },
   {
     "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
@@ -54,24 +135,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
-    "id": "2B-4G10/NoLockQS",
-    "language": "Kotlin",
-    "name": "2B-4G10/NoLockQS",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:36:29Z",
-    "url": "https://github.com/2B-4G10/NoLockQS"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T15:30:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -86,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1166,
-    "updated_at": "2026-09-28T15:24:00Z",
+    "updated_at": "2026-09-28T15:47:44Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -106,6 +169,15 @@
     "stars": 2,
     "updated_at": "2026-09-28T15:18:03Z",
     "url": "https://github.com/N2FlowJS/nbase"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16857,
+    "updated_at": "2026-09-28T15:14:40Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Scala client for Pinecone vector database",
@@ -167,7 +239,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34865,
-    "updated_at": "2026-09-28T15:29:16Z",
+    "updated_at": "2026-09-28T15:58:01Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -194,17 +266,8 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 6102,
-    "updated_at": "2026-09-28T14:49:25Z",
+    "updated_at": "2026-09-28T15:47:20Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:34:41Z",
-    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
@@ -239,7 +302,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9313,
-    "updated_at": "2026-09-28T14:40:19Z",
+    "updated_at": "2026-09-28T15:47:24Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -301,7 +364,7 @@
     "id": "lioensky/VCPToolBox",
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
-    "stars": 2335,
+    "stars": 2336,
     "updated_at": "2026-09-28T14:25:18Z",
     "url": "https://github.com/lioensky/VCPToolBox"
   },
@@ -324,15 +387,6 @@
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 352,
-    "updated_at": "2026-09-28T14:20:10Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
@@ -351,15 +405,6 @@
     "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:31:08Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "ARTEA: Theory-Guided Hierarchical Graph Index for High-Performance ANN Search",
     "id": "NTU-Siqiang-Group/Artea",
     "language": "C++",
@@ -374,7 +419,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 10,
-    "updated_at": "2026-09-28T15:44:30Z",
+    "updated_at": "2026-09-28T15:47:19Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-28T13:56:47Z",
     "url": "https://github.com/Daaboulex/openviking-nix"
-  },
-  {
-    "description": "Identity and Authorization Service with Vector and AI Integration",
-    "id": "StephenCote/AccountManager7",
-    "language": "Java",
-    "name": "StephenCote/AccountManager7",
-    "stars": 2,
-    "updated_at": "2026-09-28T13:55:22Z",
-    "url": "https://github.com/StephenCote/AccountManager7"
-  },
-  {
-    "description": "",
-    "id": "Minns-ai/MinnsDB",
-    "language": "Rust",
-    "name": "Minns-ai/MinnsDB",
-    "stars": 18,
-    "updated_at": "2026-09-28T13:52:02Z",
-    "url": "https://github.com/Minns-ai/MinnsDB"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3548,
-    "updated_at": "2026-09-28T14:01:15Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2525,
-    "updated_at": "2026-09-28T13:47:53Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
-    "id": "devharis99/vectra",
-    "language": "Python",
-    "name": "devharis99/vectra",
-    "stars": 1,
-    "updated_at": "2026-09-28T13:46:52Z",
-    "url": "https://github.com/devharis99/vectra"
   }
 ]
