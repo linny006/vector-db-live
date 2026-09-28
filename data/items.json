@@ -1,5 +1,41 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-28T21:08:06Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "C# SDK for the Chroma API -- open-source vector database",
+    "id": "tryAGI/Chroma",
+    "language": "C#",
+    "name": "tryAGI/Chroma",
+    "stars": 1,
+    "updated_at": "2026-09-28T21:03:24Z",
+    "url": "https://github.com/tryAGI/Chroma"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T21:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T21:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Pipeline Python que transforma PDFs e Markdown em um Zettelkasten conectado no Obsidian, com revis\u00e3o humana, RAG h\u00edbrido",
     "id": "ricmed/zettel_app",
     "language": "Python",
@@ -16,24 +52,6 @@
     "stars": 2,
     "updated_at": "2026-09-28T20:54:10Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T20:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T21:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -58,18 +76,9 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66558,
+    "stars": 66559,
     "updated_at": "2026-09-28T20:42:58Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-28T20:38:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -77,7 +86,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1166,
-    "updated_at": "2026-09-28T20:56:41Z",
+    "updated_at": "2026-09-28T21:03:06Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -131,7 +140,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9313,
-    "updated_at": "2026-09-28T20:58:11Z",
+    "updated_at": "2026-09-28T21:07:57Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-28T18:54:14Z",
     "url": "https://github.com/enkinvsh/crystallized"
-  },
-  {
-    "description": "Hexagonal RAG over your own codebase, with a deterministic, eval-first core.",
-    "id": "jordimarsal/codebaserag",
-    "language": "Python",
-    "name": "jordimarsal/codebaserag",
-    "stars": 0,
-    "updated_at": "2026-09-28T18:52:29Z",
-    "url": "https://github.com/jordimarsal/codebaserag"
   }
 ]
