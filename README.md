@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-28 14:57 UTC
+> ⏰ Last updated: 2026-09-28 15:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [redis/redis-vl-python](https://github.com/redis/redis-vl-python) | 429 | Python | 2026-09-28 | Redis Vector Library. The AI-native Python client for Redis. |
-| 2 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2019 | Go | 2026-09-28 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 3 | [api-evangelist/chroma](https://github.com/api-evangelist/chroma) | 0 | — | 2026-09-28 | Chroma — independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc |
-| 4 | [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) | 1711 | PHP | 2026-09-28 | LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain |
-| 5 | [HelixDB/helix-db](https://github.com/HelixDB/helix-db) | 6102 | Rust | 2026-09-28 | HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage. |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-28 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-28 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [redis/redis-vl-python](https://github.com/redis/redis-vl-python) | 429 | Python | 2026-09-28 | Redis Vector Library. The AI-native Python client for Redis. |
+| 3 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2019 | Go | 2026-09-28 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 4 | [api-evangelist/chroma](https://github.com/api-evangelist/chroma) | 0 | — | 2026-09-28 | Chroma — independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc |
+| 5 | [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) | 1711 | PHP | 2026-09-28 | LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain |
+| 6 | [HelixDB/helix-db](https://github.com/HelixDB/helix-db) | 6102 | Rust | 2026-09-28 | HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage. |
 | 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-28 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
 | 8 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-09-28 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
 | 9 | [sunormesky-max/epicode](https://github.com/sunormesky-max/epicode) | 8 | Rust | 2026-09-28 | Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense. |
