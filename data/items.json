@@ -1,11 +1,128 @@
 [
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66551,
+    "updated_at": "2026-09-28T19:29:48Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-09-28T19:24:20Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6102,
+    "updated_at": "2026-09-28T19:26:42Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Pipeline Python que transforma PDFs e Markdown em um Zettelkasten conectado no Obsidian, com revis\u00e3o humana, RAG h\u00edbrido",
+    "id": "ricmed/zettel_app",
+    "language": "Python",
+    "name": "ricmed/zettel_app",
+    "stars": 0,
+    "updated_at": "2026-09-28T19:22:18Z",
+    "url": "https://github.com/ricmed/zettel_app"
+  },
+  {
+    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
+    "id": "OmniBioAI/omnibioai-dev-hub",
+    "language": "Python",
+    "name": "OmniBioAI/omnibioai-dev-hub",
+    "stars": 1,
+    "updated_at": "2026-09-28T19:20:45Z",
+    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
+  },
+  {
+    "description": "FanVault AI is a RAG chatbot works as an intelligent sports knowledge assistant that helps fans instantly discover playe",
+    "id": "t0rresmarcus/FanVault-AI",
+    "language": "TypeScript",
+    "name": "t0rresmarcus/FanVault-AI",
+    "stars": 0,
+    "updated_at": "2026-09-28T19:20:23Z",
+    "url": "https://github.com/t0rresmarcus/FanVault-AI"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Streamline data analysis with ConsciousDB, a vector database that integrates directly with your models for enhanced p",
+    "id": "britorbs/consciousdb",
+    "language": "Python",
+    "name": "britorbs/consciousdb",
+    "stars": 0,
+    "updated_at": "2026-09-28T19:19:36Z",
+    "url": "https://github.com/britorbs/consciousdb"
+  },
+  {
+    "description": "",
+    "id": "sanitprime/Advanced_Graph_RAG",
+    "language": "Python",
+    "name": "sanitprime/Advanced_Graph_RAG",
+    "stars": 2,
+    "updated_at": "2026-09-28T19:19:33Z",
+    "url": "https://github.com/sanitprime/Advanced_Graph_RAG"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-09-28T19:18:53Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 2,
+    "updated_at": "2026-09-28T19:17:36Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-09-28T19:17:35Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T19:15:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T19:30:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "RAG application for pharmacovigilance: ingest adverse event report PDFs and get source-cited answers. Built with FastAPI",
     "id": "nabeofchanKo/pv-rag-assistant",
     "language": "Python",
     "name": "nabeofchanKo/pv-rag-assistant",
     "stars": 0,
-    "updated_at": "2026-09-28T19:13:28Z",
+    "updated_at": "2026-09-28T19:18:58Z",
     "url": "https://github.com/nabeofchanKo/pv-rag-assistant"
   },
   {
@@ -14,7 +131,7 @@
     "language": "Python",
     "name": "monaccode/astromesh",
     "stars": 34,
-    "updated_at": "2026-09-28T19:12:16Z",
+    "updated_at": "2026-09-28T19:19:21Z",
     "url": "https://github.com/monaccode/astromesh"
   },
   {
@@ -36,15 +153,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
-    "id": "OmniBioAI/omnibioai-dev-hub",
-    "language": "Python",
-    "name": "OmniBioAI/omnibioai-dev-hub",
-    "stars": 1,
-    "updated_at": "2026-09-28T19:04:02Z",
-    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
-  },
-  {
     "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
     "id": "clizardyy/unbody",
     "language": "TypeScript",
@@ -63,39 +171,12 @@
     "url": "https://github.com/Maurellone/TySVA"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T19:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T19:15:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6102,
-    "updated_at": "2026-09-28T19:11:58Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9313,
-    "updated_at": "2026-09-28T19:14:59Z",
+    "updated_at": "2026-09-28T19:23:42Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -106,15 +187,6 @@
     "stars": 6,
     "updated_at": "2026-09-28T18:56:51Z",
     "url": "https://github.com/eminsk/nanovector"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 66551,
-    "updated_at": "2026-09-28T18:54:36Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Persistent memory MCP server for opencode \u2014 Redis facts, ChromaDB semantic search, document storage, power-law memory de",
@@ -149,7 +221,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-28T19:11:17Z",
+    "updated_at": "2026-09-28T19:17:13Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -157,7 +229,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31128,
+    "stars": 31129,
     "updated_at": "2026-09-28T18:42:59Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -221,7 +293,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46274,
-    "updated_at": "2026-09-28T18:54:08Z",
+    "updated_at": "2026-09-28T19:28:00Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -342,21 +414,12 @@
     "url": "https://github.com/sunormesky-max/epicode"
   },
   {
-    "description": "Pipeline Python que transforma PDFs e Markdown em um Zettelkasten conectado no Obsidian, com revis\u00e3o humana, RAG h\u00edbrido",
-    "id": "ricmed/zettel_app",
-    "language": "Python",
-    "name": "ricmed/zettel_app",
-    "stars": 0,
-    "updated_at": "2026-09-28T18:24:44Z",
-    "url": "https://github.com/ricmed/zettel_app"
-  },
-  {
     "description": "Natural language search for SEC filings. Fetch 10-K/10-Q/8-K from EDGAR, parse into segments, chunk text, generate GPU-a",
     "id": "erenyanic/sec-semanticsearch",
     "language": "Python",
     "name": "erenyanic/sec-semanticsearch",
     "stars": 0,
-    "updated_at": "2026-09-28T18:59:05Z",
+    "updated_at": "2026-09-28T19:20:01Z",
     "url": "https://github.com/erenyanic/sec-semanticsearch"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-28T17:04:30Z",
     "url": "https://github.com/fomativeh/RAG-Chatbot"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1166,
-    "updated_at": "2026-09-28T19:04:00Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2336,
-    "updated_at": "2026-09-28T16:56:02Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "A tool that helps serious independent learners turn their existing notes into cited, trustworthy practice quizzes\u2014withou",
-    "id": "prasadsumit/notebridge",
-    "language": "Java",
-    "name": "prasadsumit/notebridge",
-    "stars": 0,
-    "updated_at": "2026-09-28T16:54:59Z",
-    "url": "https://github.com/prasadsumit/notebridge"
-  },
-  {
-    "description": "Minimal, async-first Python framework for production LLM apps- 2 hard deps, no magic, no SaaS. ",
-    "id": "SynapseKit/SynapseKit",
-    "language": "Python",
-    "name": "SynapseKit/SynapseKit",
-    "stars": 23,
-    "updated_at": "2026-09-28T16:48:56Z",
-    "url": "https://github.com/SynapseKit/SynapseKit"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1970,
-    "updated_at": "2026-09-28T16:42:14Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "RAG-based knowledge assistant for pharmacy inventory management using Gemini, ChromaDB, LangGraph and Streamlit.",
-    "id": "dalvaromartinez/farmastock-rag-assistant",
-    "language": "Jupyter Notebook",
-    "name": "dalvaromartinez/farmastock-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-28T16:38:45Z",
-    "url": "https://github.com/dalvaromartinez/farmastock-rag-assistant"
-  },
-  {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 20,
-    "updated_at": "2026-09-28T16:32:26Z",
-    "url": "https://github.com/opencrawling/opencrawling"
   }
 ]
