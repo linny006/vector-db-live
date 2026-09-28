@@ -1,5 +1,77 @@
 [
   {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-28T16:14:05Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "MCP server and agent that answer questions about property listings from the record and pass viewings, negotiation, legal",
+    "id": "srnux/proptech-inquiry-agent",
+    "language": "TypeScript",
+    "name": "srnux/proptech-inquiry-agent",
+    "stars": 0,
+    "updated_at": "2026-09-28T16:13:45Z",
+    "url": "https://github.com/srnux/proptech-inquiry-agent"
+  },
+  {
+    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
+    "id": "2B-4G10/NoLockQS",
+    "language": "Kotlin",
+    "name": "2B-4G10/NoLockQS",
+    "stars": 0,
+    "updated_at": "2026-09-28T16:10:45Z",
+    "url": "https://github.com/2B-4G10/NoLockQS"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-28T16:10:35Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-09-28T16:09:27Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6456,
+    "updated_at": "2026-09-28T16:07:56Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-28T16:00:56Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T16:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -18,15 +90,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-28T15:59:42Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -34,15 +97,6 @@
     "stars": 352,
     "updated_at": "2026-09-28T15:54:33Z",
     "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
-    "id": "2B-4G10/NoLockQS",
-    "language": "Kotlin",
-    "name": "2B-4G10/NoLockQS",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:54:25Z",
-    "url": "https://github.com/2B-4G10/NoLockQS"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -63,30 +117,12 @@
     "url": "https://github.com/rao-studios/Sewn"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:58:26Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T15:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "RAG-based knowledge assistant for pharmacy inventory management using Gemini, ChromaDB, LangGraph and Streamlit.",
     "id": "dalvaromartinez/farmastock-rag-assistant",
     "language": "Jupyter Notebook",
     "name": "dalvaromartinez/farmastock-rag-assistant",
     "stars": 0,
-    "updated_at": "2026-09-28T15:44:48Z",
+    "updated_at": "2026-09-28T16:14:58Z",
     "url": "https://github.com/dalvaromartinez/farmastock-rag-assistant"
   },
   {
@@ -126,15 +162,6 @@
     "url": "https://github.com/erenyanic/sec-semanticsearch"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-28T15:39:24Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -149,7 +176,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1166,
-    "updated_at": "2026-09-28T15:47:44Z",
+    "updated_at": "2026-09-28T16:13:33Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -239,7 +266,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34865,
-    "updated_at": "2026-09-28T15:58:01Z",
+    "updated_at": "2026-09-28T16:13:34Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -266,7 +293,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 6102,
-    "updated_at": "2026-09-28T15:47:20Z",
+    "updated_at": "2026-09-28T16:10:46Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -275,7 +302,7 @@
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 8,
-    "updated_at": "2026-09-28T14:43:43Z",
+    "updated_at": "2026-09-28T16:06:46Z",
     "url": "https://github.com/sunormesky-max/epicode"
   },
   {
@@ -419,34 +446,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 10,
-    "updated_at": "2026-09-28T15:47:19Z",
+    "updated_at": "2026-09-28T16:10:18Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "id": "VectifyAI/PageIndex",
-    "language": "Python",
-    "name": "VectifyAI/PageIndex",
-    "stars": 35896,
-    "updated_at": "2026-09-28T14:01:31Z",
-    "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 0,
-    "updated_at": "2026-09-28T13:57:13Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
-    "id": "Daaboulex/openviking-nix",
-    "language": "Shell",
-    "name": "Daaboulex/openviking-nix",
-    "stars": 3,
-    "updated_at": "2026-09-28T13:56:47Z",
-    "url": "https://github.com/Daaboulex/openviking-nix"
   }
 ]
