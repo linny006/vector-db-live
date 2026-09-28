@@ -1,12 +1,21 @@
 [
   {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 25,
-    "updated_at": "2026-09-28T12:29:45Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T12:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "C# SDK for the Qdrant API -- vector database with points, collections, snapshots, and cluster management",
+    "id": "tryAGI/Qdrant",
+    "language": "C#",
+    "name": "tryAGI/Qdrant",
+    "stars": 0,
+    "updated_at": "2026-09-28T12:44:23Z",
+    "url": "https://github.com/tryAGI/Qdrant"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -14,8 +23,53 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-28T12:28:28Z",
+    "updated_at": "2026-09-28T12:44:06Z",
     "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1166,
+    "updated_at": "2026-09-28T12:38:55Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "The holographic core for leOS",
+    "id": "AnOversizedMooseWithSocks/leCore",
+    "language": "Python",
+    "name": "AnOversizedMooseWithSocks/leCore",
+    "stars": 12,
+    "updated_at": "2026-09-28T12:36:24Z",
+    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46270,
+    "updated_at": "2026-09-28T12:35:36Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T12:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 25,
+    "updated_at": "2026-09-28T12:29:45Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
     "description": "AI-powered PDF Question Answering System using RAG, Gemini, LangChain, and ChromaDB.",
@@ -104,26 +158,8 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 6102,
-    "updated_at": "2026-09-28T12:16:56Z",
+    "updated_at": "2026-09-28T12:33:39Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T12:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T12:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -167,7 +203,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-09-28T12:10:34Z",
+    "updated_at": "2026-09-28T12:44:25Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -216,21 +252,12 @@
     "url": "https://github.com/LEE-ok/trend-aware-mmm"
   },
   {
-    "description": "The holographic core for leOS",
-    "id": "AnOversizedMooseWithSocks/leCore",
-    "language": "Python",
-    "name": "AnOversizedMooseWithSocks/leCore",
-    "stars": 12,
-    "updated_at": "2026-09-28T11:59:00Z",
-    "url": "https://github.com/AnOversizedMooseWithSocks/leCore"
-  },
-  {
     "description": "Redis Vector Library. The AI-native Python client for Redis.",
     "id": "redis/redis-vl-python",
     "language": "Python",
     "name": "redis/redis-vl-python",
     "stars": 429,
-    "updated_at": "2026-09-28T11:56:08Z",
+    "updated_at": "2026-09-28T12:31:50Z",
     "url": "https://github.com/redis/redis-vl-python"
   },
   {
@@ -284,7 +311,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7112,
-    "updated_at": "2026-09-28T11:46:35Z",
+    "updated_at": "2026-09-28T12:37:27Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -320,7 +347,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16857,
-    "updated_at": "2026-09-28T12:14:40Z",
+    "updated_at": "2026-09-28T12:42:18Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-28T11:32:55Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Benchmarking Vector Quantization (VQ) Methods for Approximate Nearest Neighbor Search",
-    "id": "JingLiuchang/VQ-for-ANNS",
-    "language": "JavaScript",
-    "name": "JingLiuchang/VQ-for-ANNS",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:32:03Z",
-    "url": "https://github.com/JingLiuchang/VQ-for-ANNS"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 4,
-    "updated_at": "2026-09-28T11:30:06Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-09-28T11:29:18Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
   }
 ]
