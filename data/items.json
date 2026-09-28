@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-28T18:45:23Z",
+    "updated_at": "2026-09-28T19:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6102,
+    "updated_at": "2026-09-28T19:00:06Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9313,
+    "updated_at": "2026-09-28T18:59:21Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, zero depe",
+    "id": "eminsk/nanovector",
+    "language": "C",
+    "name": "eminsk/nanovector",
+    "stars": 6,
+    "updated_at": "2026-09-28T18:56:51Z",
+    "url": "https://github.com/eminsk/nanovector"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66551,
+    "updated_at": "2026-09-28T18:54:36Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Persistent memory MCP server for opencode \u2014 Redis facts, ChromaDB semantic search, document storage, power-law memory de",
+    "id": "enkinvsh/crystallized",
+    "language": "Python",
+    "name": "enkinvsh/crystallized",
+    "stars": 3,
+    "updated_at": "2026-09-28T18:54:14Z",
+    "url": "https://github.com/enkinvsh/crystallized"
+  },
+  {
+    "description": "On-device, natural-language file search for Windows \u2014 finds files and images by what's actually inside them, using only ",
+    "id": "aryantyagi2211/smart-file-finder",
+    "language": "Python",
+    "name": "aryantyagi2211/smart-file-finder",
+    "stars": 0,
+    "updated_at": "2026-09-28T18:52:42Z",
+    "url": "https://github.com/aryantyagi2211/smart-file-finder"
+  },
+  {
+    "description": "Hexagonal RAG over your own codebase, with a deterministic, eval-first core.",
+    "id": "jordimarsal/codebaserag",
+    "language": "Python",
+    "name": "jordimarsal/codebaserag",
+    "stars": 0,
+    "updated_at": "2026-09-28T18:52:29Z",
+    "url": "https://github.com/jordimarsal/codebaserag"
   },
   {
     "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
@@ -14,8 +77,35 @@
     "language": "Python",
     "name": "monaccode/astromesh",
     "stars": 34,
-    "updated_at": "2026-09-28T18:45:19Z",
+    "updated_at": "2026-09-28T18:49:40Z",
     "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-28T18:46:57Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T18:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31128,
+    "updated_at": "2026-09-28T18:42:59Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -25,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-09-28T18:42:56Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-28T18:41:54Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "The AI search platform",
@@ -63,49 +144,22 @@
     "url": "https://github.com/thameema/memnos"
   },
   {
-    "description": "Hexagonal RAG over your own codebase, with a deterministic, eval-first core.",
-    "id": "jordimarsal/codebaserag",
-    "language": "Python",
-    "name": "jordimarsal/codebaserag",
-    "stars": 0,
-    "updated_at": "2026-09-28T18:36:44Z",
-    "url": "https://github.com/jordimarsal/codebaserag"
-  },
-  {
     "description": "Pinecone.io Golang Client",
     "id": "pinecone-io/go-pinecone",
     "language": "Go",
     "name": "pinecone-io/go-pinecone",
     "stars": 68,
-    "updated_at": "2026-09-28T18:35:50Z",
+    "updated_at": "2026-09-28T18:53:18Z",
     "url": "https://github.com/pinecone-io/go-pinecone"
   },
   {
-    "description": "Persistent memory MCP server for opencode \u2014 Redis facts, ChromaDB semantic search, document storage, power-law memory de",
-    "id": "enkinvsh/crystallized",
-    "language": "Python",
-    "name": "enkinvsh/crystallized",
-    "stars": 3,
-    "updated_at": "2026-09-28T18:32:57Z",
-    "url": "https://github.com/enkinvsh/crystallized"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T18:30:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 66551,
-    "updated_at": "2026-09-28T18:30:26Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6457,
+    "updated_at": "2026-09-28T18:33:33Z",
+    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -122,17 +176,8 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46274,
-    "updated_at": "2026-09-28T18:27:05Z",
+    "updated_at": "2026-09-28T18:54:08Z",
     "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31128,
-    "updated_at": "2026-09-28T18:42:59Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
@@ -142,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T18:23:27Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "The SQLite of Vector Search & Episodic Memory for AI Agents in ~120KB. Pure C99, AVX2+FMA, ARM NEON, FASM x64, zero depe",
-    "id": "eminsk/nanovector",
-    "language": "C",
-    "name": "eminsk/nanovector",
-    "stars": 6,
-    "updated_at": "2026-09-28T18:23:15Z",
-    "url": "https://github.com/eminsk/nanovector"
   },
   {
     "description": "\ud83d\uddfa\ufe0f Learn Vector Databases the school way: 8 branch-by-branch lessons + a REAL zero-dependency mini vector DB you can rea",
@@ -198,15 +234,6 @@
     "url": "https://github.com/RohannShetty/DocHarvest"
   },
   {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6102,
-    "updated_at": "2026-09-28T18:44:58Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
     "description": "Self-RAG microservice (FastAPI + LangGraph) with hybrid vector+graph retrieval, self-correction, human-in-the-loop revie",
     "id": "kanderson-ai-dev/agentic-rag-system",
     "language": "Python",
@@ -214,15 +241,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T17:56:53Z",
     "url": "https://github.com/kanderson-ai-dev/agentic-rag-system"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9313,
-    "updated_at": "2026-09-28T18:12:56Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -265,7 +283,7 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 2020,
+    "stars": 2021,
     "updated_at": "2026-09-28T17:36:35Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -302,7 +320,7 @@
     "language": "Python",
     "name": "erenyanic/sec-semanticsearch",
     "stars": 0,
-    "updated_at": "2026-09-28T18:43:54Z",
+    "updated_at": "2026-09-28T18:59:05Z",
     "url": "https://github.com/erenyanic/sec-semanticsearch"
   },
   {
@@ -311,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8292,
-    "updated_at": "2026-09-28T18:42:22Z",
+    "updated_at": "2026-09-28T18:56:08Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1166,
-    "updated_at": "2026-09-28T18:40:37Z",
+    "updated_at": "2026-09-28T18:59:25Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 13,
     "updated_at": "2026-09-28T16:09:27Z",
     "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6456,
-    "updated_at": "2026-09-28T18:33:33Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-28T15:58:59Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   }
 ]
