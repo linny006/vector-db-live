@@ -1,5 +1,68 @@
 [
   {
+    "description": "CiteRight: A full-stack AI app built with React, FastAPI, Groq, and Supabase that grounds LLM generation in your real do",
+    "id": "sadvik-asus/CiteRight",
+    "language": "Python",
+    "name": "sadvik-asus/CiteRight",
+    "stars": 0,
+    "updated_at": "2026-09-28T10:00:14Z",
+    "url": "https://github.com/sadvik-asus/CiteRight"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 0,
+    "updated_at": "2026-09-28T09:57:04Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
+    "id": "giancarloerra/SocratiCode",
+    "language": "TypeScript",
+    "name": "giancarloerra/SocratiCode",
+    "stars": 3322,
+    "updated_at": "2026-09-28T09:56:40Z",
+    "url": "https://github.com/giancarloerra/SocratiCode"
+  },
+  {
+    "description": "Benchmarking Vector Quantization (VQ) Methods for Approximate Nearest Neighbor Search",
+    "id": "JingLiuchang/VQ-for-ANNS",
+    "language": "JavaScript",
+    "name": "JingLiuchang/VQ-for-ANNS",
+    "stars": 0,
+    "updated_at": "2026-09-28T09:50:43Z",
+    "url": "https://github.com/JingLiuchang/VQ-for-ANNS"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-28T09:47:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6102,
+    "updated_at": "2026-09-28T09:56:38Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T09:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-28T09:41:55Z",
+    "updated_at": "2026-09-28T09:58:01Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -34,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T09:41:16Z",
     "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "Benchmarking Vector Quantization (VQ) Methods for Approximate Nearest Neighbor Search",
-    "id": "JingLiuchang/VQ-for-ANNS",
-    "language": "JavaScript",
-    "name": "JingLiuchang/VQ-for-ANNS",
-    "stars": 0,
-    "updated_at": "2026-09-28T09:39:43Z",
-    "url": "https://github.com/JingLiuchang/VQ-for-ANNS"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -68,7 +122,7 @@
     "language": "TypeScript",
     "name": "Cognipeer/console",
     "stars": 26,
-    "updated_at": "2026-09-28T09:44:33Z",
+    "updated_at": "2026-09-28T09:46:28Z",
     "url": "https://github.com/Cognipeer/console"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/Accessible-sloughing768/docustra"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T09:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Agent skills for Qdrant vector search: scaling, performance optimization, search quality, monitoring, deployment, model ",
     "id": "qdrant/skills",
     "language": "Python",
@@ -140,7 +185,7 @@
     "language": "Rust",
     "name": "meilisearch/meilisearch",
     "stars": 59429,
-    "updated_at": "2026-09-28T09:40:44Z",
+    "updated_at": "2026-09-28T09:49:48Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
   {
@@ -293,7 +338,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34859,
-    "updated_at": "2026-09-28T09:35:26Z",
+    "updated_at": "2026-09-28T09:58:57Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -302,7 +347,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4441,
-    "updated_at": "2026-09-28T09:19:40Z",
+    "updated_at": "2026-09-28T09:55:50Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -313,15 +358,6 @@
     "stars": 4,
     "updated_at": "2026-09-28T09:16:59Z",
     "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-28T09:16:13Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-28T09:07:58Z",
     "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-09-28T09:06:17Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-09-28T09:05:50Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "C# SDK for the Turbopuffer API -- serverless vector database for search and retrieval",
-    "id": "tryAGI/Turbopuffer",
-    "language": "C#",
-    "name": "tryAGI/Turbopuffer",
-    "stars": 0,
-    "updated_at": "2026-09-28T09:05:35Z",
-    "url": "https://github.com/tryAGI/Turbopuffer"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-09-28T09:04:40Z",
-    "url": "https://github.com/ribagolx10/crossvector"
   }
 ]
