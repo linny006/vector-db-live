@@ -1,5 +1,113 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T18:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 34,
+    "updated_at": "2026-09-28T18:45:19Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-28T18:42:56Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-28T18:41:54Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7112,
+    "updated_at": "2026-09-28T18:42:21Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 7,
+    "updated_at": "2026-09-28T18:36:22Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
+    "id": "thameema/memnos",
+    "language": "Python",
+    "name": "thameema/memnos",
+    "stars": 3,
+    "updated_at": "2026-09-28T18:36:02Z",
+    "url": "https://github.com/thameema/memnos"
+  },
+  {
+    "description": "Hexagonal RAG over your own codebase, with a deterministic, eval-first core.",
+    "id": "jordimarsal/codebaserag",
+    "language": "Python",
+    "name": "jordimarsal/codebaserag",
+    "stars": 0,
+    "updated_at": "2026-09-28T18:36:44Z",
+    "url": "https://github.com/jordimarsal/codebaserag"
+  },
+  {
+    "description": "Pinecone.io Golang Client",
+    "id": "pinecone-io/go-pinecone",
+    "language": "Go",
+    "name": "pinecone-io/go-pinecone",
+    "stars": 68,
+    "updated_at": "2026-09-28T18:35:50Z",
+    "url": "https://github.com/pinecone-io/go-pinecone"
+  },
+  {
+    "description": "Persistent memory MCP server for opencode \u2014 Redis facts, ChromaDB semantic search, document storage, power-law memory de",
+    "id": "enkinvsh/crystallized",
+    "language": "Python",
+    "name": "enkinvsh/crystallized",
+    "stars": 3,
+    "updated_at": "2026-09-28T18:32:57Z",
+    "url": "https://github.com/enkinvsh/crystallized"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T18:30:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66551,
+    "updated_at": "2026-09-28T18:30:26Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
     "id": "zaahist/design-to-ship-playbook",
     "language": "HTML",
@@ -9,12 +117,21 @@
     "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46274,
+    "updated_at": "2026-09-28T18:27:05Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31128,
-    "updated_at": "2026-09-28T18:24:59Z",
+    "updated_at": "2026-09-28T18:42:59Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -45,15 +162,6 @@
     "url": "https://github.com/BaluRaut/learn-vectordb-school"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-28T18:18:01Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
     "id": "kannaka-labs/kannaka-memory",
     "language": "Rust",
@@ -63,24 +171,6 @@
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T18:15:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T18:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -88,15 +178,6 @@
     "stars": 10,
     "updated_at": "2026-09-28T18:22:33Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-28T18:12:14Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
@@ -117,21 +198,12 @@
     "url": "https://github.com/RohannShetty/DocHarvest"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 66551,
-    "updated_at": "2026-09-28T18:04:13Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
     "id": "HelixDB/helix-db",
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 6102,
-    "updated_at": "2026-09-28T18:23:24Z",
+    "updated_at": "2026-09-28T18:44:58Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -151,15 +223,6 @@
     "stars": 9313,
     "updated_at": "2026-09-28T18:12:56Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46273,
-    "updated_at": "2026-09-28T18:27:05Z",
-    "url": "https://github.com/milvus-io/milvus"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -212,7 +275,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34866,
-    "updated_at": "2026-09-28T17:32:02Z",
+    "updated_at": "2026-09-28T18:35:10Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -239,7 +302,7 @@
     "language": "Python",
     "name": "erenyanic/sec-semanticsearch",
     "stars": 0,
-    "updated_at": "2026-09-28T18:23:35Z",
+    "updated_at": "2026-09-28T18:43:54Z",
     "url": "https://github.com/erenyanic/sec-semanticsearch"
   },
   {
@@ -248,7 +311,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8292,
-    "updated_at": "2026-09-28T18:28:49Z",
+    "updated_at": "2026-09-28T18:42:22Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -275,17 +338,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1166,
-    "updated_at": "2026-09-28T18:27:36Z",
+    "updated_at": "2026-09-28T18:40:37Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Persistent memory for AI coding agents \u2014 MCP server, REST API & Python SDK. Works with Claude Code, Cursor, Windsurf and",
-    "id": "thameema/memnos",
-    "language": "Python",
-    "name": "thameema/memnos",
-    "stars": 3,
-    "updated_at": "2026-09-28T18:20:56Z",
-    "url": "https://github.com/thameema/memnos"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -383,7 +437,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6456,
-    "updated_at": "2026-09-28T18:03:48Z",
+    "updated_at": "2026-09-28T18:33:33Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-28T15:58:59Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 352,
-    "updated_at": "2026-09-28T15:54:33Z",
-    "url": "https://github.com/schmitech/orbit"
-  },
-  {
-    "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
-    "id": "rao-studios/Sewn",
-    "language": "Swift",
-    "name": "rao-studios/Sewn",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:52:40Z",
-    "url": "https://github.com/rao-studios/Sewn"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-09-28T15:44:47Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11549,
-    "updated_at": "2026-09-28T15:44:34Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 34,
-    "updated_at": "2026-09-28T15:43:11Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 84,
-    "updated_at": "2026-09-28T15:41:47Z",
-    "url": "https://github.com/infino-ai/infino"
   }
 ]
