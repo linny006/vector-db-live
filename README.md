@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-09-28 01:00 UTC
+> ⏰ Last updated: 2026-09-28 01:03 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,12 +42,12 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-28 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 121 | MDX | 2026-09-28 | The documentation for SurrealDB, built with Vike, React, and Mantine |
-| 3 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 887 | Go | 2026-09-28 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 4 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2020 | Go | 2026-09-28 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 5 | [jameswniu/candidate-vector-search-rerank-semantics](https://github.com/jameswniu/candidate-vector-search-rerank-semantics) | 0 | Python | 2026-09-28 | Semantic candidate search and information retrieval over ~200K profiles: Voyage-3 embeddings, hard/soft relevance filter |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-28 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-09-28 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-09-28 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [surrealdb/docs.surrealdb.com](https://github.com/surrealdb/docs.surrealdb.com) | 121 | MDX | 2026-09-28 | The documentation for SurrealDB, built with Vike, React, and Mantine |
+| 4 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 887 | Go | 2026-09-28 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
+| 5 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2020 | Go | 2026-09-28 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 6 | [jameswniu/candidate-vector-search-rerank-semantics](https://github.com/jameswniu/candidate-vector-search-rerank-semantics) | 0 | Python | 2026-09-28 | Semantic candidate search and information retrieval over ~200K profiles: Voyage-3 embeddings, hard/soft relevance filter |
 | 7 | [djleamen/doc-reader](https://github.com/djleamen/doc-reader) | 3 | Python | 2026-09-28 | Large document Q&A agent using RAG |
 | 8 | [MakabeD/Obsidian_RAG](https://github.com/MakabeD/Obsidian_RAG) | 1 | C# | 2026-09-28 | RAG |
 | 9 | [ahb-sjsu/turboquant-pro](https://github.com/ahb-sjsu/turboquant-pro) | 25 | Python | 2026-09-28 | Consumer-aware compression for embedding indexes and LLM KV caches — compress by the metric the downstream consumer actu |
