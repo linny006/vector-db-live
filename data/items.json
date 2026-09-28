@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-28T17:45:22Z",
+    "updated_at": "2026-09-28T18:00:29Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6102,
+    "updated_at": "2026-09-28T17:59:44Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66551,
+    "updated_at": "2026-09-28T17:57:26Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Self-RAG microservice (FastAPI + LangGraph) with hybrid vector+graph retrieval, self-correction, human-in-the-loop revie",
+    "id": "kanderson-ai-dev/agentic-rag-system",
+    "language": "Python",
+    "name": "kanderson-ai-dev/agentic-rag-system",
+    "stars": 0,
+    "updated_at": "2026-09-28T17:56:53Z",
+    "url": "https://github.com/kanderson-ai-dev/agentic-rag-system"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9313,
+    "updated_at": "2026-09-28T17:53:28Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46273,
+    "updated_at": "2026-09-28T17:51:38Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-28T17:46:29Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T17:45:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
@@ -18,7 +81,7 @@
     "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
   },
   {
-    "description": "47 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor & Windsurf ",
+    "description": "59 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf a",
     "id": "ssrjkk/claude-skills",
     "language": "Python",
     "name": "ssrjkk/claude-skills",
@@ -49,7 +112,7 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 2019,
+    "stars": 2020,
     "updated_at": "2026-09-28T17:36:35Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -72,15 +135,6 @@
     "url": "https://github.com/sunormesky-max/epicode"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T17:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
     "id": "RohannShetty/DocHarvest",
     "language": "Python",
@@ -99,21 +153,12 @@
     "url": "https://github.com/ricmed/zettel_app"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46273,
-    "updated_at": "2026-09-28T17:15:22Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "Natural language search for SEC filings. Fetch 10-K/10-Q/8-K from EDGAR, parse into segments, chunk text, generate GPU-a",
     "id": "erenyanic/sec-semanticsearch",
     "language": "Python",
     "name": "erenyanic/sec-semanticsearch",
     "stars": 0,
-    "updated_at": "2026-09-28T17:13:07Z",
+    "updated_at": "2026-09-28T17:53:56Z",
     "url": "https://github.com/erenyanic/sec-semanticsearch"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1166,
-    "updated_at": "2026-09-28T17:43:55Z",
+    "updated_at": "2026-09-28T17:50:26Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -176,7 +221,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31126,
-    "updated_at": "2026-09-28T17:36:34Z",
+    "updated_at": "2026-09-28T17:57:25Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -185,7 +230,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-28T16:56:15Z",
+    "updated_at": "2026-09-28T17:56:26Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-09-28T16:42:24Z",
+    "updated_at": "2026-09-28T17:57:37Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -324,15 +369,6 @@
     "url": "https://github.com/schmitech/orbit"
   },
   {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-28T17:24:40Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
     "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
     "id": "rao-studios/Sewn",
     "language": "Swift",
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-28T15:18:03Z",
     "url": "https://github.com/N2FlowJS/nbase"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16857,
-    "updated_at": "2026-09-28T17:26:27Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Scala client for Pinecone vector database",
-    "id": "cequence-io/pinecone-scala",
-    "language": "Scala",
-    "name": "cequence-io/pinecone-scala",
-    "stars": 19,
-    "updated_at": "2026-09-28T15:06:33Z",
-    "url": "https://github.com/cequence-io/pinecone-scala"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-09-28T15:05:04Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59430,
-    "updated_at": "2026-09-28T15:03:59Z",
-    "url": "https://github.com/meilisearch/meilisearch"
   }
 ]
