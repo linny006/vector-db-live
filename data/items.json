@@ -1,12 +1,165 @@
 [
   {
+    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
+    "id": "Daubingweirdie414/multimodal-rag",
+    "language": "Python",
+    "name": "Daubingweirdie414/multimodal-rag",
+    "stars": 4,
+    "updated_at": "2026-09-28T11:30:06Z",
+    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
+  },
+  {
+    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
+    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "language": "Python",
+    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "stars": 1,
+    "updated_at": "2026-09-28T11:29:18Z",
+    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
+  },
+  {
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 1,
+    "updated_at": "2026-09-28T11:27:58Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
+  },
+  {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 4,
+    "updated_at": "2026-09-28T11:24:37Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-09-28T11:23:07Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-28T11:22:47Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Benchmarking Vector Quantization (VQ) Methods for Approximate Nearest Neighbor Search",
+    "id": "JingLiuchang/VQ-for-ANNS",
+    "language": "JavaScript",
+    "name": "JingLiuchang/VQ-for-ANNS",
+    "stars": 0,
+    "updated_at": "2026-09-28T11:30:22Z",
+    "url": "https://github.com/JingLiuchang/VQ-for-ANNS"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 2,
+    "updated_at": "2026-09-28T11:22:11Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-09-28T11:21:04Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7112,
+    "updated_at": "2026-09-28T11:25:10Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-09-28T11:20:02Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16857,
+    "updated_at": "2026-09-28T11:26:36Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-09-28T11:18:43Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "Kubernetes operator for Qdrant: Helm-managed clusters, multi-node S3 backups, scheduled backups and restores",
+    "id": "4thel00z/qdrant-operator",
+    "language": "Python",
+    "name": "4thel00z/qdrant-operator",
+    "stars": 1,
+    "updated_at": "2026-09-28T11:20:54Z",
+    "url": "https://github.com/4thel00z/qdrant-operator"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T11:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
+    "id": "humanhady/DocMine",
+    "language": "Python",
+    "name": "humanhady/DocMine",
+    "stars": 2,
+    "updated_at": "2026-09-28T11:15:22Z",
+    "url": "https://github.com/humanhady/DocMine"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-28T11:15:22Z",
+    "updated_at": "2026-09-28T11:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34860,
+    "updated_at": "2026-09-28T11:28:36Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
@@ -50,7 +203,7 @@
     "language": "Python",
     "name": "weaviate/docs",
     "stars": 20,
-    "updated_at": "2026-09-28T11:10:28Z",
+    "updated_at": "2026-09-28T11:16:03Z",
     "url": "https://github.com/weaviate/docs"
   },
   {
@@ -122,7 +275,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-28T11:13:14Z",
+    "updated_at": "2026-09-28T11:28:59Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -142,15 +295,6 @@
     "stars": 1,
     "updated_at": "2026-09-28T11:03:44Z",
     "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
-  },
-  {
-    "description": "Benchmarking Vector Quantization (VQ) Methods for Approximate Nearest Neighbor Search",
-    "id": "JingLiuchang/VQ-for-ANNS",
-    "language": "JavaScript",
-    "name": "JingLiuchang/VQ-for-ANNS",
-    "stars": 0,
-    "updated_at": "2026-09-28T11:02:06Z",
-    "url": "https://github.com/JingLiuchang/VQ-for-ANNS"
   },
   {
     "description": "Real-time CDC-to-embedding pipeline \u2014 streams Postgres changes into vector stores (pgvector/Qdrant) for RAG, with a Spar",
@@ -178,15 +322,6 @@
     "stars": 8,
     "updated_at": "2026-09-28T11:02:39Z",
     "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T11:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid sem",
@@ -243,15 +378,6 @@
     "url": "https://github.com/infino-ai/infino"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-09-28T10:47:55Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
     "description": "Bayesian MMM\uacfc \ucd5c\uc2e0 \uc2dc\uc7a5 \ud2b8\ub80c\ub4dc\ub97c \ud65c\uc6a9\ud574 \ub2e4\uc74c \ubd84\uae30 \ub9c8\ucf00\ud305 \uc608\uc0b0 \ubc30\ubd84\uc744 \ucd94\ucc9c\ud558\uace0, \uc608\uc0c1 \uc131\uacfc\uc640 \ubd88\ud655\uc2e4\uc131\uc744 \ube44\uad50\ud558\ub294 \uc2dc\ubbac\ub808\uc774\ud130",
     "id": "LEE-ok/trend-aware-mmm",
     "language": "Python",
@@ -284,7 +410,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 6102,
-    "updated_at": "2026-09-28T10:49:09Z",
+    "updated_at": "2026-09-28T11:17:06Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -295,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T10:34:33Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16857,
-    "updated_at": "2026-09-28T10:33:55Z",
-    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl",
@@ -331,122 +448,5 @@
     "stars": 6,
     "updated_at": "2026-09-28T10:30:05Z",
     "url": "https://github.com/leekkk2/transcendence-memory-server"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4441,
-    "updated_at": "2026-09-28T10:25:39Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Simple Rag Pipeline",
-    "id": "Prathamesh017/universal-vault",
-    "language": "Python",
-    "name": "Prathamesh017/universal-vault",
-    "stars": 0,
-    "updated_at": "2026-09-28T10:13:56Z",
-    "url": "https://github.com/Prathamesh017/universal-vault"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 5,
-    "updated_at": "2026-09-28T10:12:02Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
-  },
-  {
-    "description": "Persistent memory MCP server for opencode \u2014 Redis facts, ChromaDB semantic search, document storage, power-law memory de",
-    "id": "enkinvsh/crystallized",
-    "language": "Python",
-    "name": "enkinvsh/crystallized",
-    "stars": 3,
-    "updated_at": "2026-09-28T10:08:06Z",
-    "url": "https://github.com/enkinvsh/crystallized"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11547,
-    "updated_at": "2026-09-28T11:07:40Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "CiteRight: A full-stack AI app built with React, FastAPI, Groq, and Supabase that grounds LLM generation in your real do",
-    "id": "sadvik-asus/CiteRight",
-    "language": "Python",
-    "name": "sadvik-asus/CiteRight",
-    "stars": 0,
-    "updated_at": "2026-09-28T10:05:52Z",
-    "url": "https://github.com/sadvik-asus/CiteRight"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46270,
-    "updated_at": "2026-09-28T10:05:44Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
-    "id": "Amz34/awesome-agent-infrastructure",
-    "language": "Python",
-    "name": "Amz34/awesome-agent-infrastructure",
-    "stars": 0,
-    "updated_at": "2026-09-28T09:57:04Z",
-    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 0,
-    "updated_at": "2026-09-28T09:41:53Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
-    "id": "devharis99/vectra",
-    "language": "Python",
-    "name": "devharis99/vectra",
-    "stars": 1,
-    "updated_at": "2026-09-28T09:41:16Z",
-    "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2020,
-    "updated_at": "2026-09-28T10:21:56Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
-    "id": "Cognipeer/console",
-    "language": "TypeScript",
-    "name": "Cognipeer/console",
-    "stars": 26,
-    "updated_at": "2026-09-28T09:46:28Z",
-    "url": "https://github.com/Cognipeer/console"
-  },
-  {
-    "description": "  RAG system answering questions on Internal Combustion Engines using FAISS retrieval, cross-encoder reranking, and Groq",
-    "id": "manirht/rag-system",
-    "language": "Python",
-    "name": "manirht/rag-system",
-    "stars": 0,
-    "updated_at": "2026-09-28T09:38:04Z",
-    "url": "https://github.com/manirht/rag-system"
   }
 ]
