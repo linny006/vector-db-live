@@ -1,12 +1,66 @@
 [
   {
+    "description": "Ask out loud where you left something; hear the answer and see the frame the camera saw it in. Local ChromaDB memory, Ge",
+    "id": "zaidwhy/recall",
+    "language": "Python",
+    "name": "zaidwhy/recall",
+    "stars": 0,
+    "updated_at": "2026-09-28T02:44:35Z",
+    "url": "https://github.com/zaidwhy/recall"
+  },
+  {
     "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46262,
-    "updated_at": "2026-09-28T02:29:36Z",
+    "stars": 46263,
+    "updated_at": "2026-09-28T02:41:36Z",
     "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "DBX is an open-source, high-density in-memory database engine built in Go, engineered specifically to serve as the secur",
+    "id": "vanshjain-0702/DBX-Database-Extreme",
+    "language": "Go",
+    "name": "vanshjain-0702/DBX-Database-Extreme",
+    "stars": 3,
+    "updated_at": "2026-09-28T02:36:29Z",
+    "url": "https://github.com/vanshjain-0702/DBX-Database-Extreme"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 17,
+    "updated_at": "2026-09-28T02:33:51Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "A lightweight, lightning-fast, in-process vector database",
+    "id": "alibaba/zvec",
+    "language": "C++",
+    "name": "alibaba/zvec",
+    "stars": 16013,
+    "updated_at": "2026-09-28T02:32:43Z",
+    "url": "https://github.com/alibaba/zvec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T02:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-28T02:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Large document Q&A agent using RAG",
@@ -45,15 +99,6 @@
     "url": "https://github.com/rao-studios/Thread"
   },
   {
-    "description": "DBX is an open-source, high-density in-memory database engine built in Go, engineered specifically to serve as the secur",
-    "id": "vanshjain-0702/DBX-Database-Extreme",
-    "language": "Go",
-    "name": "vanshjain-0702/DBX-Database-Extreme",
-    "stars": 3,
-    "updated_at": "2026-09-28T02:22:38Z",
-    "url": "https://github.com/vanshjain-0702/DBX-Database-Extreme"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -68,7 +113,7 @@
     "language": "Rust",
     "name": "databendlabs/databend",
     "stars": 9453,
-    "updated_at": "2026-09-28T02:22:01Z",
+    "updated_at": "2026-09-28T02:43:47Z",
     "url": "https://github.com/databendlabs/databend"
   },
   {
@@ -79,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-09-28T02:21:39Z",
     "url": "https://github.com/zacharydenton/hrxdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T02:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T02:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Aturan.org is Indonesia\u2019s first public semantic search for laws and regulations, AI-ready with an MCP server, REST API, ",
@@ -167,7 +194,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 887,
-    "updated_at": "2026-09-28T02:19:10Z",
+    "updated_at": "2026-09-28T02:30:31Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -198,15 +225,6 @@
     "url": "https://github.com/Bekhbekh7821/CanopyOps"
   },
   {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 17,
-    "updated_at": "2026-09-28T02:02:35Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
     "description": "Orchestrate enterprise data ingestion from diverse repository connectors into vector search infrastructure using Java 25",
     "id": "doriapt53/spring-manifold-next-gen",
     "language": "TypeScript",
@@ -221,7 +239,7 @@
     "language": "Python",
     "name": "ahb-sjsu/turboquant-pro",
     "stars": 25,
-    "updated_at": "2026-09-28T02:01:44Z",
+    "updated_at": "2026-09-28T02:41:00Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
@@ -355,7 +373,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2514,
+    "stars": 2515,
     "updated_at": "2026-09-28T01:32:24Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-28T01:24:24Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-28T01:22:48Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-28T01:21:11Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
   }
 ]
