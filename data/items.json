@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-28T22:15:22Z",
+    "updated_at": "2026-09-28T22:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A Q&A system over the FastAPI codebase and docs, built around a rigorous evaluation harness: retrieval and generation me",
+    "id": "shaurmittal/rag-fastapi-eval",
+    "language": "Python",
+    "name": "shaurmittal/rag-fastapi-eval",
+    "stars": 0,
+    "updated_at": "2026-09-28T22:27:16Z",
+    "url": "https://github.com/shaurmittal/rag-fastapi-eval"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1166,
+    "updated_at": "2026-09-28T22:28:43Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31145,
+    "updated_at": "2026-09-28T22:16:04Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T22:15:29Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -25,15 +61,6 @@
     "stars": 7,
     "updated_at": "2026-09-28T22:12:29Z",
     "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "A Q&A system over the FastAPI codebase and docs, built around a rigorous evaluation harness: retrieval and generation me",
-    "id": "shaurmittal/rag-fastapi-eval",
-    "language": "Python",
-    "name": "shaurmittal/rag-fastapi-eval",
-    "stars": 0,
-    "updated_at": "2026-09-28T22:11:55Z",
-    "url": "https://github.com/shaurmittal/rag-fastapi-eval"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -58,7 +85,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66560,
+    "stars": 66562,
     "updated_at": "2026-09-28T22:05:18Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -72,31 +99,13 @@
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T22:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9313,
-    "updated_at": "2026-09-28T22:09:35Z",
+    "updated_at": "2026-09-28T22:28:13Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31143,
-    "updated_at": "2026-09-28T22:00:42Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -113,7 +122,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8292,
-    "updated_at": "2026-09-28T21:55:57Z",
+    "updated_at": "2026-09-28T22:21:42Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -124,15 +133,6 @@
     "stars": 7,
     "updated_at": "2026-09-28T21:41:58Z",
     "url": "https://github.com/cyborginc/cyborgdb-js"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1166,
-    "updated_at": "2026-09-28T22:11:30Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -180,11 +180,20 @@
     "url": "https://github.com/lyonzin/knowledge-rag"
   },
   {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34868,
+    "updated_at": "2026-09-28T21:28:39Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
     "description": "LlamaIndex is the document processing platform for AI",
     "id": "run-llama/llama_index",
     "language": "Python",
     "name": "run-llama/llama_index",
-    "stars": 52338,
+    "stars": 52339,
     "updated_at": "2026-09-28T21:24:18Z",
     "url": "https://github.com/run-llama/llama_index"
   },
@@ -365,7 +374,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6456,
-    "updated_at": "2026-09-28T22:12:44Z",
+    "updated_at": "2026-09-28T22:29:46Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-28T19:39:54Z",
     "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "Profile README",
-    "id": "rehan243/rehan243",
-    "language": "\u2014",
-    "name": "rehan243/rehan243",
-    "stars": 2,
-    "updated_at": "2026-09-28T19:36:37Z",
-    "url": "https://github.com/rehan243/rehan243"
   }
 ]
