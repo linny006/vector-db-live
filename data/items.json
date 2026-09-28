@@ -1,12 +1,21 @@
 [
   {
-    "description": "Large document Q&A agent using RAG",
-    "id": "djleamen/doc-reader",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "djleamen/doc-reader",
+    "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-28T00:42:54Z",
-    "url": "https://github.com/djleamen/doc-reader"
+    "updated_at": "2026-09-28T01:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-09-28T00:59:53Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -14,8 +23,44 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 887,
-    "updated_at": "2026-09-28T00:42:06Z",
+    "updated_at": "2026-09-28T00:54:54Z",
     "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2020,
+    "updated_at": "2026-09-28T00:50:30Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Semantic candidate search and information retrieval over ~200K profiles: Voyage-3 embeddings, hard/soft relevance filter",
+    "id": "jameswniu/candidate-vector-search-rerank-semantics",
+    "language": "Python",
+    "name": "jameswniu/candidate-vector-search-rerank-semantics",
+    "stars": 0,
+    "updated_at": "2026-09-28T00:46:10Z",
+    "url": "https://github.com/jameswniu/candidate-vector-search-rerank-semantics"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-28T00:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Large document Q&A agent using RAG",
+    "id": "djleamen/doc-reader",
+    "language": "Python",
+    "name": "djleamen/doc-reader",
+    "stars": 3,
+    "updated_at": "2026-09-28T00:42:54Z",
+    "url": "https://github.com/djleamen/doc-reader"
   },
   {
     "description": "RAG",
@@ -32,26 +77,8 @@
     "language": "Python",
     "name": "ahb-sjsu/turboquant-pro",
     "stars": 25,
-    "updated_at": "2026-09-28T00:32:47Z",
+    "updated_at": "2026-09-28T00:58:23Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-28T00:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-28T00:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -90,15 +117,6 @@
     "url": "https://github.com/vanedb/vanedb"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2020,
-    "updated_at": "2026-09-28T00:24:40Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Production-quality RAG system for document Q&A with source citations. FastAPI + ChromaDB + Groq LLM.",
     "id": "Shrey1002/RAG-Document-Q-A-System",
     "language": "Python",
@@ -113,7 +131,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2512,
-    "updated_at": "2026-09-28T00:35:45Z",
+    "updated_at": "2026-09-28T00:51:25Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-27T23:28:19Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-27T23:26:47Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-09-27T23:21:58Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
   }
 ]
