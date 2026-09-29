@@ -1,12 +1,75 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T21:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12987,
+    "updated_at": "2026-09-29T21:25:53Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1169,
+    "updated_at": "2026-09-29T21:26:33Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
     "id": "hbar-systems/brainfoundry-nous",
     "language": "Python",
     "name": "hbar-systems/brainfoundry-nous",
     "stars": 1,
-    "updated_at": "2026-09-29T21:13:26Z",
+    "updated_at": "2026-09-29T21:23:24Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
+    "id": "rao-studios/Sewn",
+    "language": "Swift",
+    "name": "rao-studios/Sewn",
+    "stars": 0,
+    "updated_at": "2026-09-29T21:22:04Z",
+    "url": "https://github.com/rao-studios/Sewn"
+  },
+  {
+    "description": "The LangChain wrapper of Milvus vector database for efficient vector search, full-text search, hybrid retrieval and RAG.",
+    "id": "langchain-ai/langchain-milvus",
+    "language": "Python",
+    "name": "langchain-ai/langchain-milvus",
+    "stars": 59,
+    "updated_at": "2026-09-29T21:17:07Z",
+    "url": "https://github.com/langchain-ai/langchain-milvus"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 3,
+    "updated_at": "2026-09-29T21:25:18Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T21:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Clinical Multi-Agent RAG Assistant powered by LangChain, Pinecone (23,000+ medical textbook passages), and a resilient 3",
@@ -36,15 +99,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 3,
-    "updated_at": "2026-09-29T21:08:10Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
     "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while ",
     "id": "StarTrail-org/LEANN",
     "language": "Python",
@@ -54,30 +108,12 @@
     "url": "https://github.com/StarTrail-org/LEANN"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T21:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T21:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
     "id": "ahb-sjsu/turboquant-pro",
     "language": "Python",
     "name": "ahb-sjsu/turboquant-pro",
     "stars": 25,
-    "updated_at": "2026-09-29T20:59:01Z",
+    "updated_at": "2026-09-29T21:27:40Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
@@ -88,6 +124,15 @@
     "stars": 8,
     "updated_at": "2026-09-29T20:57:28Z",
     "url": "https://github.com/cyborginc/cyborgdb-py"
+  },
+  {
+    "description": "Retrieval-augmented document Q&A with citations, abstention and calibrated confidence - FastAPI, pgvector and local embe",
+    "id": "nishanthsr7-eng/smart-document-assistant",
+    "language": "Python",
+    "name": "nishanthsr7-eng/smart-document-assistant",
+    "stars": 1,
+    "updated_at": "2026-09-29T20:56:11Z",
+    "url": "https://github.com/nishanthsr7-eng/smart-document-assistant"
   },
   {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
@@ -115,6 +160,15 @@
     "stars": 9453,
     "updated_at": "2026-09-29T20:47:43Z",
     "url": "https://github.com/databendlabs/databend"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6104,
+    "updated_at": "2026-09-29T20:46:29Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Runnable, minimal LLM examples for Java - Spring AI & LangChain4j. RAG, agents, MCP servers, tool calling, structured ou",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-29T20:27:12Z",
     "url": "https://github.com/srnux/proptech-inquiry-agent"
-  },
-  {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 4,
-    "updated_at": "2026-09-29T20:12:21Z",
-    "url": "https://github.com/d3uceY/vectile"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-09-29T20:11:05Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
-    "id": "leitoooatr/PythonVectorDB",
-    "language": "Python",
-    "name": "leitoooatr/PythonVectorDB",
-    "stars": 2,
-    "updated_at": "2026-09-29T20:10:33Z",
-    "url": "https://github.com/leitoooatr/PythonVectorDB"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
-    "id": "Jeroflo88/Self-Corrective-RAG",
-    "language": "Python",
-    "name": "Jeroflo88/Self-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-29T20:09:30Z",
-    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "Program that lets you ask questions about your documents and audio or video files.",
-    "id": "BBC-Esq/VectorDB-Plugin",
-    "language": "Python",
-    "name": "BBC-Esq/VectorDB-Plugin",
-    "stars": 370,
-    "updated_at": "2026-09-29T20:07:39Z",
-    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 890,
-    "updated_at": "2026-09-29T20:05:46Z",
-    "url": "https://github.com/orneryd/NornicDB"
   }
 ]
