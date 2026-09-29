@@ -5,17 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-29T17:00:23Z",
+    "updated_at": "2026-09-29T17:15:25Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 889,
-    "updated_at": "2026-09-29T16:58:49Z",
-    "url": "https://github.com/orneryd/NornicDB"
+    "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
+    "id": "boddetijayanth22/Enterprise-Knowledge-Assistant",
+    "language": "Python",
+    "name": "boddetijayanth22/Enterprise-Knowledge-Assistant",
+    "stars": 2,
+    "updated_at": "2026-09-29T17:15:11Z",
+    "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
+  },
+  {
+    "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-js",
+    "language": "TypeScript",
+    "name": "cyborginc/cyborgdb-js",
+    "stars": 7,
+    "updated_at": "2026-09-29T17:12:14Z",
+    "url": "https://github.com/cyborginc/cyborgdb-js"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66601,
+    "updated_at": "2026-09-29T17:11:33Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "RAG assistant that answers questions from company docs. Compares an LLM-chunking, query-rewrite and rerank pipeline agai",
+    "id": "anton-karlovskiy/rag-knowledge-worker",
+    "language": "Python",
+    "name": "anton-karlovskiy/rag-knowledge-worker",
+    "stars": 2,
+    "updated_at": "2026-09-29T17:08:25Z",
+    "url": "https://github.com/anton-karlovskiy/rag-knowledge-worker"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-29T17:07:56Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
+    "id": "2B-4G10/NoLockQS",
+    "language": "Kotlin",
+    "name": "2B-4G10/NoLockQS",
+    "stars": 0,
+    "updated_at": "2026-09-29T17:08:17Z",
+    "url": "https://github.com/2B-4G10/NoLockQS"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-29T17:07:11Z",
+    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
@@ -23,8 +77,44 @@
     "language": "Python",
     "name": "ahb-sjsu/turboquant-pro",
     "stars": 25,
-    "updated_at": "2026-09-29T16:58:04Z",
+    "updated_at": "2026-09-29T17:11:04Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-29T17:01:23Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11557,
+    "updated_at": "2026-09-29T17:00:54Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T17:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 889,
+    "updated_at": "2026-09-29T17:10:44Z",
+    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
@@ -76,7 +166,7 @@
     "id": "grsanudeep42-cmd/dealmind",
     "language": "TypeScript",
     "name": "grsanudeep42-cmd/dealmind",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-09-29T16:51:14Z",
     "url": "https://github.com/grsanudeep42-cmd/dealmind"
   },
@@ -113,17 +203,8 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31216,
-    "updated_at": "2026-09-29T17:00:14Z",
+    "updated_at": "2026-09-29T17:14:42Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T16:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -131,7 +212,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2021,
-    "updated_at": "2026-09-29T16:43:28Z",
+    "updated_at": "2026-09-29T17:14:33Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -144,15 +225,6 @@
     "url": "https://github.com/aihpi/workshop-rag-forum"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-29T16:40:21Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
     "id": "project-david-ai/projectdavid-platform",
     "language": "Python",
@@ -160,15 +232,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T16:39:45Z",
     "url": "https://github.com/project-david-ai/projectdavid-platform"
-  },
-  {
-    "description": "RAG assistant that answers questions from company docs. Compares an LLM-chunking, query-rewrite and rerank pipeline agai",
-    "id": "anton-karlovskiy/rag-knowledge-worker",
-    "language": "Python",
-    "name": "anton-karlovskiy/rag-knowledge-worker",
-    "stars": 2,
-    "updated_at": "2026-09-29T16:38:21Z",
-    "url": "https://github.com/anton-karlovskiy/rag-knowledge-worker"
   },
   {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
@@ -180,21 +243,12 @@
     "url": "https://github.com/fenecdb/fenec"
   },
   {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11557,
-    "updated_at": "2026-09-29T16:57:31Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9316,
-    "updated_at": "2026-09-29T16:58:29Z",
+    "updated_at": "2026-09-29T17:15:02Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -203,7 +257,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-09-29T16:55:12Z",
+    "updated_at": "2026-09-29T17:02:36Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -248,17 +302,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1168,
-    "updated_at": "2026-09-29T16:59:13Z",
+    "updated_at": "2026-09-29T17:11:48Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-29T16:24:45Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -284,7 +329,7 @@
     "language": "Python",
     "name": "cyborginc/cyborgdb-py",
     "stars": 8,
-    "updated_at": "2026-09-29T15:55:35Z",
+    "updated_at": "2026-09-29T17:12:33Z",
     "url": "https://github.com/cyborginc/cyborgdb-py"
   },
   {
@@ -301,7 +346,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 37049,
+    "stars": 37061,
     "updated_at": "2026-09-29T15:50:17Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -337,7 +382,7 @@
     "id": "chenkanglin198904/Personal_External_Brain",
     "language": "Python",
     "name": "chenkanglin198904/Personal_External_Brain",
-    "stars": 76,
+    "stars": 77,
     "updated_at": "2026-09-29T15:35:11Z",
     "url": "https://github.com/chenkanglin198904/Personal_External_Brain"
   },
@@ -349,15 +394,6 @@
     "stars": 3,
     "updated_at": "2026-09-29T15:26:11Z",
     "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
-    "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
-    "id": "boddetijayanth22/Enterprise-Knowledge-Assistant",
-    "language": "Python",
-    "name": "boddetijayanth22/Enterprise-Knowledge-Assistant",
-    "stars": 2,
-    "updated_at": "2026-09-29T15:25:57Z",
-    "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -412,41 +448,5 @@
     "stars": 2338,
     "updated_at": "2026-09-29T15:19:49Z",
     "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
-    "description": "Reduce LLM token usage and API costs using this local, privacy-first optimization tool for ChatGPT, Claude, and Gemini.",
-    "id": "Divine-vision-visiondivine21/less-tokens",
-    "language": "\u2014",
-    "name": "Divine-vision-visiondivine21/less-tokens",
-    "stars": 0,
-    "updated_at": "2026-09-29T15:19:25Z",
-    "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
-    "id": "Wry-letters233/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Wry-letters233/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-09-29T15:19:02Z",
-    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
-  },
-  {
-    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
-    "id": "retrograde-prosceniumwall239/ai-search-engine",
-    "language": "Python",
-    "name": "retrograde-prosceniumwall239/ai-search-engine",
-    "stars": 2,
-    "updated_at": "2026-09-29T15:18:48Z",
-    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-09-29T15:14:20Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
   }
 ]
