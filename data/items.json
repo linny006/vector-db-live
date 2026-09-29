@@ -1,12 +1,48 @@
 [
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-29T12:14:39Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T12:30:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-09-29T12:27:26Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 95,
+    "updated_at": "2026-09-29T12:26:47Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2337,
+    "updated_at": "2026-09-29T12:25:24Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-29T12:22:28Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "The AI search platform",
@@ -14,8 +50,35 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7112,
-    "updated_at": "2026-09-29T12:14:14Z",
+    "updated_at": "2026-09-29T12:17:13Z",
     "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on ",
+    "id": "zacharydenton/hrxdb",
+    "language": "Rust",
+    "name": "zacharydenton/hrxdb",
+    "stars": 0,
+    "updated_at": "2026-09-29T12:16:58Z",
+    "url": "https://github.com/zacharydenton/hrxdb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T12:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-29T12:14:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
@@ -32,7 +95,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31206,
-    "updated_at": "2026-09-29T12:07:28Z",
+    "updated_at": "2026-09-29T12:26:10Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -50,26 +113,8 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4441,
-    "updated_at": "2026-09-29T12:01:29Z",
+    "updated_at": "2026-09-29T12:29:22Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T12:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T12:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An Enterprise-Grade Advanced RAG Engine powered by FastAPI, LangChain, Qdrant, and React. Engineered with Hybrid Search ",
@@ -99,15 +144,6 @@
     "url": "https://github.com/ssrjkk/agent-skills"
   },
   {
-    "description": "A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on ",
-    "id": "zacharydenton/hrxdb",
-    "language": "Rust",
-    "name": "zacharydenton/hrxdb",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:50:03Z",
-    "url": "https://github.com/zacharydenton/hrxdb"
-  },
-  {
     "description": "The Kubernetes Operator of Milvus. ",
     "id": "zilliztech/milvus-operator",
     "language": "Go",
@@ -126,15 +162,6 @@
     "url": "https://github.com/milvus-io/milvus"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-29T11:45:17Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "Program that lets you ask questions about your documents and audio or video files.",
     "id": "BBC-Esq/VectorDB-Plugin",
     "language": "Python",
@@ -149,7 +176,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16859,
-    "updated_at": "2026-09-29T12:00:51Z",
+    "updated_at": "2026-09-29T12:30:07Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -158,7 +185,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 6103,
-    "updated_at": "2026-09-29T11:26:29Z",
+    "updated_at": "2026-09-29T12:19:15Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -203,7 +230,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-09-29T12:04:57Z",
+    "updated_at": "2026-09-29T12:27:51Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -261,15 +288,6 @@
     "url": "https://github.com/Hamza-Tahirr/Full-Stack-Chat-Application"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-09-29T12:12:26Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Semantic search app with Next.js, LangChain, Pinecone and OpenAI (work in progress)",
     "id": "Hamza-Tahirr/Full-AI-Semantic-Search",
     "language": "TypeScript",
@@ -302,7 +320,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2021,
-    "updated_at": "2026-09-29T11:05:22Z",
+    "updated_at": "2026-09-29T12:19:54Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -311,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8296,
-    "updated_at": "2026-09-29T12:04:35Z",
+    "updated_at": "2026-09-29T12:24:07Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34879,
-    "updated_at": "2026-09-29T10:42:09Z",
+    "updated_at": "2026-09-29T12:25:48Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -396,15 +414,6 @@
     "url": "https://github.com/Harsh-dev023/omnimemory"
   },
   {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2337,
-    "updated_at": "2026-09-29T10:00:23Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
-  },
-  {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
     "id": "hbar-systems/brainfoundry-nous",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-29T09:39:17Z",
     "url": "https://github.com/N2FlowJS/nbase"
-  },
-  {
-    "description": "",
-    "id": "threefigure-achromia682/ai-memory",
-    "language": "\u2014",
-    "name": "threefigure-achromia682/ai-memory",
-    "stars": 1,
-    "updated_at": "2026-09-29T09:38:30Z",
-    "url": "https://github.com/threefigure-achromia682/ai-memory"
   }
 ]
