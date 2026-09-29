@@ -1,12 +1,57 @@
 [
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16859,
-    "updated_at": "2026-09-29T11:30:07Z",
-    "url": "https://github.com/weaviate/weaviate"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T11:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-29T11:45:17Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents and audio or video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 370,
+    "updated_at": "2026-09-29T11:43:20Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Sacred digital devotional platform featuring digital Lekhana Seva, 42 Guru Parampara archives, and RAG-powered spiritual",
+    "id": "karthikvharihar-stack/Guru-Project",
+    "language": "HTML",
+    "name": "karthikvharihar-stack/Guru-Project",
+    "stars": 0,
+    "updated_at": "2026-09-29T11:42:41Z",
+    "url": "https://github.com/karthikvharihar-stack/Guru-Project"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31201,
+    "updated_at": "2026-09-29T11:42:26Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-29T11:37:49Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "59 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf a",
@@ -14,8 +59,26 @@
     "language": "Python",
     "name": "ssrjkk/agent-skills",
     "stars": 2,
-    "updated_at": "2026-09-29T11:28:22Z",
+    "updated_at": "2026-09-29T11:33:33Z",
     "url": "https://github.com/ssrjkk/agent-skills"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T11:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16859,
+    "updated_at": "2026-09-29T11:44:16Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
@@ -54,15 +117,6 @@
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-29T11:23:37Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "",
     "id": "Jaydeepkumar0p/RAG_AI_ASSISTANT",
     "language": "Python",
@@ -77,7 +131,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-09-29T11:16:58Z",
+    "updated_at": "2026-09-29T11:44:29Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -88,24 +142,6 @@
     "stars": 7,
     "updated_at": "2026-09-29T11:16:08Z",
     "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T11:15:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T11:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -151,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T11:09:27Z",
     "url": "https://github.com/Hamza-Tahirr/Full-Stack-Chat-Application"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-29T11:08:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -225,6 +252,15 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8296,
+    "updated_at": "2026-09-29T10:46:37Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "Modular ML pipeline designed to classify notarial documents into predefined categories using LLM-based Retrieval-Augment",
     "id": "nata-kostina/llm-classification-of-notarial-documents",
     "language": "Python",
@@ -261,15 +297,6 @@
     "url": "https://github.com/zilliztech/milvus-operator"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31199,
-    "updated_at": "2026-09-29T11:12:54Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Self-hosted, offline-first multi-agent meeting assistant for Agile teams with local LLMs, and real-time insights.",
     "id": "MeetingMind-AI/meetingmind-ai",
     "language": "Shell",
@@ -295,15 +322,6 @@
     "stars": 9,
     "updated_at": "2026-09-29T10:15:49Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8295,
-    "updated_at": "2026-09-29T10:46:37Z",
-    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "Pinecone BYOC",
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-29T10:47:12Z",
     "url": "https://github.com/desikai-lab/Marrow"
-  },
-  {
-    "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
-    "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "language": "Jupyter Notebook",
-    "name": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
-    "stars": 0,
-    "updated_at": "2026-09-29T09:32:26Z",
-    "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9314,
-    "updated_at": "2026-09-29T11:16:58Z",
-    "url": "https://github.com/paradedb/paradedb"
   }
 ]
