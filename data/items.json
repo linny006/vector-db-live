@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-29T11:45:23Z",
+    "updated_at": "2026-09-29T12:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "An Enterprise-Grade Advanced RAG Engine powered by FastAPI, LangChain, Qdrant, and React. Engineered with Hybrid Search ",
+    "id": "MeetRamani28/Nexus-RAG",
+    "language": "TypeScript",
+    "name": "MeetRamani28/Nexus-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-29T11:57:21Z",
+    "url": "https://github.com/MeetRamani28/Nexus-RAG"
+  },
+  {
+    "description": "Sacred digital devotional platform featuring digital Lekhana Seva, 42 Guru Parampara archives, and RAG-powered spiritual",
+    "id": "karthikvharihar-stack/Guru-Project",
+    "language": "HTML",
+    "name": "karthikvharihar-stack/Guru-Project",
+    "stars": 0,
+    "updated_at": "2026-09-29T11:56:59Z",
+    "url": "https://github.com/karthikvharihar-stack/Guru-Project"
+  },
+  {
+    "description": "59 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf a",
+    "id": "ssrjkk/agent-skills",
+    "language": "Python",
+    "name": "ssrjkk/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-09-29T11:53:22Z",
+    "url": "https://github.com/ssrjkk/agent-skills"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31204,
+    "updated_at": "2026-09-29T11:59:49Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "A GPU-powered vector database for unified-memory systems, built on HRX and Loom. Exact search and custom GPU scoring on ",
+    "id": "zacharydenton/hrxdb",
+    "language": "Rust",
+    "name": "zacharydenton/hrxdb",
+    "stars": 0,
+    "updated_at": "2026-09-29T11:50:03Z",
+    "url": "https://github.com/zacharydenton/hrxdb"
+  },
+  {
+    "description": "The Kubernetes Operator of Milvus. ",
+    "id": "zilliztech/milvus-operator",
+    "language": "Go",
+    "name": "zilliztech/milvus-operator",
+    "stars": 133,
+    "updated_at": "2026-09-29T11:48:37Z",
+    "url": "https://github.com/zilliztech/milvus-operator"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46282,
+    "updated_at": "2026-09-29T11:45:37Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T11:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -27,24 +99,6 @@
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
   },
   {
-    "description": "Sacred digital devotional platform featuring digital Lekhana Seva, 42 Guru Parampara archives, and RAG-powered spiritual",
-    "id": "karthikvharihar-stack/Guru-Project",
-    "language": "HTML",
-    "name": "karthikvharihar-stack/Guru-Project",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:42:41Z",
-    "url": "https://github.com/karthikvharihar-stack/Guru-Project"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31201,
-    "updated_at": "2026-09-29T11:42:26Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -54,30 +108,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "59 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf a",
-    "id": "ssrjkk/agent-skills",
-    "language": "Python",
-    "name": "ssrjkk/agent-skills",
-    "stars": 2,
-    "updated_at": "2026-09-29T11:33:33Z",
-    "url": "https://github.com/ssrjkk/agent-skills"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T11:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
     "id": "weaviate/weaviate",
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16859,
-    "updated_at": "2026-09-29T11:44:16Z",
+    "updated_at": "2026-09-29T12:00:22Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -131,7 +167,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-09-29T11:44:29Z",
+    "updated_at": "2026-09-29T11:51:47Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -257,7 +293,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8296,
-    "updated_at": "2026-09-29T10:46:37Z",
+    "updated_at": "2026-09-29T11:58:48Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 34879,
     "updated_at": "2026-09-29T10:42:09Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "The Kubernetes Operator of Milvus. ",
-    "id": "zilliztech/milvus-operator",
-    "language": "Go",
-    "name": "zilliztech/milvus-operator",
-    "stars": 133,
-    "updated_at": "2026-09-29T11:01:59Z",
-    "url": "https://github.com/zilliztech/milvus-operator"
   },
   {
     "description": "Self-hosted, offline-first multi-agent meeting assistant for Agile teams with local LLMs, and real-time insights.",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-29T09:36:21Z",
     "url": "https://github.com/Divine-vision-visiondivine21/less-tokens"
-  },
-  {
-    "description": "Convert PDF notes into cited answers, adaptive quizzes, and flashcards using local LLMs for private study.",
-    "id": "Wry-letters233/notes-quiz-agent",
-    "language": "JavaScript",
-    "name": "Wry-letters233/notes-quiz-agent",
-    "stars": 0,
-    "updated_at": "2026-09-29T09:35:48Z",
-    "url": "https://github.com/Wry-letters233/notes-quiz-agent"
-  },
-  {
-    "description": "Build a production-ready semantic search engine with FastAPI, vector databases, and LLM-powered citations for your docum",
-    "id": "retrograde-prosceniumwall239/ai-search-engine",
-    "language": "Python",
-    "name": "retrograde-prosceniumwall239/ai-search-engine",
-    "stars": 2,
-    "updated_at": "2026-09-29T09:35:39Z",
-    "url": "https://github.com/retrograde-prosceniumwall239/ai-search-engine"
-  },
-  {
-    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
-    "id": "desikai-lab/Marrow",
-    "language": "Python",
-    "name": "desikai-lab/Marrow",
-    "stars": 7,
-    "updated_at": "2026-09-29T10:47:12Z",
-    "url": "https://github.com/desikai-lab/Marrow"
   }
 ]
