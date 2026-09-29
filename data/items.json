@@ -1,5 +1,122 @@
 [
   {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-29T04:41:20Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
+    "id": "codecoradev/uteke",
+    "language": "Rust",
+    "name": "codecoradev/uteke",
+    "stars": 268,
+    "updated_at": "2026-09-29T04:40:44Z",
+    "url": "https://github.com/codecoradev/uteke"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:40:17Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9313,
+    "updated_at": "2026-09-29T04:43:58Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
+    "id": "devharis99/vectra",
+    "language": "Python",
+    "name": "devharis99/vectra",
+    "stars": 1,
+    "updated_at": "2026-09-29T04:38:55Z",
+    "url": "https://github.com/devharis99/vectra"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2021,
+    "updated_at": "2026-09-29T04:38:42Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:40:51Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1166,
+    "updated_at": "2026-09-29T04:43:50Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "\u667a\u591a\u661f \u00b7 \u4f01\u4e1a\u7ea7\u591a Agent \u5e73\u53f0 \u2014 \u81ea\u7136\u8bed\u8a00\u9a71\u52a8\u77e5\u8bc6\u95ee\u7b54\u3001\u6570\u636e\u5206\u6790\u4e0e\u4e1a\u52a1\u6267\u884c\uff0cRBAC + \u5ba1\u6279 + Saga \u62a4\u680f | Enterprise multi-agent platform: RAG, data analysis & b",
+    "id": "zhenkun26/BusinessAgent",
+    "language": "Python",
+    "name": "zhenkun26/BusinessAgent",
+    "stars": 3,
+    "updated_at": "2026-09-29T04:34:21Z",
+    "url": "https://github.com/zhenkun26/BusinessAgent"
+  },
+  {
+    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
+    "id": "Raynerhalfandhalf451/writeback",
+    "language": "JavaScript",
+    "name": "Raynerhalfandhalf451/writeback",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:34:15Z",
+    "url": "https://github.com/Raynerhalfandhalf451/writeback"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-09-29T04:30:35Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T04:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T04:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
     "id": "Surging-scotandlot818/product-dev-blueprint",
     "language": "TypeScript",
@@ -113,7 +230,7 @@
     "language": "Python",
     "name": "ahb-sjsu/turboquant-pro",
     "stars": 25,
-    "updated_at": "2026-09-29T04:19:13Z",
+    "updated_at": "2026-09-29T04:42:15Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
@@ -142,24 +259,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T04:15:26Z",
     "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T04:15:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T04:30:21Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
@@ -216,15 +315,6 @@
     "url": "https://github.com/eliasepro/groq-pdf-chat"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-29T04:11:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
     "id": "humanhady/DocMine",
     "language": "Python",
@@ -259,15 +349,6 @@
     "stars": 1,
     "updated_at": "2026-09-29T04:04:44Z",
     "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2021,
-    "updated_at": "2026-09-29T04:04:27Z",
-    "url": "https://github.com/matrixorigin/matrixone"
   },
   {
     "description": "Source repo for knowledge-vault: SQLite + BGE-Micro embeddings vector DB for RAG (Rust)",
@@ -367,86 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-29T03:49:43Z",
     "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
-    "id": "Siddhant-K-code/distill",
-    "language": "Go",
-    "name": "Siddhant-K-code/distill",
-    "stars": 182,
-    "updated_at": "2026-09-29T03:45:40Z",
-    "url": "https://github.com/Siddhant-K-code/distill"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-29T04:17:18Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Earnings call RAG pipeline: Hugging Face \u2192 chunk \u2192 pgvector + Chroma \u2192 FastAPI Q&A \u2192 92% retrieval hit rate",
-    "id": "Abhignachowdarykvl/sec-rag-knowledge-base",
-    "language": "Python",
-    "name": "Abhignachowdarykvl/sec-rag-knowledge-base",
-    "stars": 0,
-    "updated_at": "2026-09-29T03:39:19Z",
-    "url": "https://github.com/Abhignachowdarykvl/sec-rag-knowledge-base"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1628,
-    "updated_at": "2026-09-29T04:06:14Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "LiteGraph is a multi-modal AI data platform - a property graph with relational, vector, and MCP support, to power knowle",
-    "id": "litegraphdb/litegraph",
-    "language": "C#",
-    "name": "litegraphdb/litegraph",
-    "stars": 131,
-    "updated_at": "2026-09-29T03:29:10Z",
-    "url": "https://github.com/litegraphdb/litegraph"
-  },
-  {
-    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
-    "id": "PersonalClaw/PersonalClawApps",
-    "language": "Python",
-    "name": "PersonalClaw/PersonalClawApps",
-    "stars": 0,
-    "updated_at": "2026-09-29T03:25:05Z",
-    "url": "https://github.com/PersonalClaw/PersonalClawApps"
-  },
-  {
-    "description": "An AI-powered intent detection engine that analyses company signals across different field and engagement to predict whi",
-    "id": "Danish08654/B2B-Buying-Signal-Detector",
-    "language": "Python",
-    "name": "Danish08654/B2B-Buying-Signal-Detector",
-    "stars": 3,
-    "updated_at": "2026-09-29T03:22:13Z",
-    "url": "https://github.com/Danish08654/B2B-Buying-Signal-Detector"
-  },
-  {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 34,
-    "updated_at": "2026-09-29T03:21:57Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "A multi-user load benchmark for Long-Term Memory (LTM) systems",
-    "id": "skhynix/LTM100",
-    "language": "Python",
-    "name": "skhynix/LTM100",
-    "stars": 4,
-    "updated_at": "2026-09-29T03:19:10Z",
-    "url": "https://github.com/skhynix/LTM100"
   }
 ]
