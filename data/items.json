@@ -5,8 +5,26 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-29T16:45:22Z",
+    "updated_at": "2026-09-29T17:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 889,
+    "updated_at": "2026-09-29T16:58:49Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 25,
+    "updated_at": "2026-09-29T16:58:04Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
     "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
@@ -14,17 +32,98 @@
     "language": "Rust",
     "name": "hoffresearch/urna",
     "stars": 11,
-    "updated_at": "2026-09-29T16:44:26Z",
+    "updated_at": "2026-09-29T16:57:31Z",
     "url": "https://github.com/hoffresearch/urna"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-09-29T16:57:26Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-09-29T16:57:50Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-29T16:54:04Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
+    "id": "hseshadr/edgeproc-core",
+    "language": "Python",
+    "name": "hseshadr/edgeproc-core",
+    "stars": 0,
+    "updated_at": "2026-09-29T16:53:46Z",
+    "url": "https://github.com/hseshadr/edgeproc-core"
+  },
+  {
+    "description": "AI sales agent that remembers every objection, stakeholder concern & competitive mention across enterprise deals \u2014 power",
+    "id": "grsanudeep42-cmd/dealmind",
+    "language": "TypeScript",
+    "name": "grsanudeep42-cmd/dealmind",
+    "stars": 0,
+    "updated_at": "2026-09-29T16:51:14Z",
+    "url": "https://github.com/grsanudeep42-cmd/dealmind"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) system for querying code, documentation, and project structure from GitHub reposito",
+    "id": "davidfernxndez/github-repository-rag",
+    "language": "Python",
+    "name": "davidfernxndez/github-repository-rag",
+    "stars": 0,
+    "updated_at": "2026-09-29T16:49:40Z",
+    "url": "https://github.com/davidfernxndez/github-repository-rag"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-09-29T16:48:43Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "65 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf a",
+    "id": "ssrjkk/agent-skills",
+    "language": "Python",
+    "name": "ssrjkk/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-09-29T16:49:39Z",
+    "url": "https://github.com/ssrjkk/agent-skills"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31215,
-    "updated_at": "2026-09-29T16:43:57Z",
+    "stars": 31216,
+    "updated_at": "2026-09-29T17:00:14Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T16:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
@@ -81,31 +180,13 @@
     "url": "https://github.com/fenecdb/fenec"
   },
   {
-    "description": "AI sales agent that remembers every objection, stakeholder concern & competitive mention across enterprise deals \u2014 power",
-    "id": "grsanudeep42-cmd/dealmind",
-    "language": "TypeScript",
-    "name": "grsanudeep42-cmd/dealmind",
-    "stars": 0,
-    "updated_at": "2026-09-29T16:44:09Z",
-    "url": "https://github.com/grsanudeep42-cmd/dealmind"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11557,
-    "updated_at": "2026-09-29T16:32:30Z",
+    "updated_at": "2026-09-29T16:57:31Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T16:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -113,7 +194,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9316,
-    "updated_at": "2026-09-29T16:42:34Z",
+    "updated_at": "2026-09-29T16:58:29Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -122,17 +203,8 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-09-29T16:28:23Z",
+    "updated_at": "2026-09-29T16:55:12Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "65 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf a",
-    "id": "ssrjkk/agent-skills",
-    "language": "Python",
-    "name": "ssrjkk/agent-skills",
-    "stars": 2,
-    "updated_at": "2026-09-29T16:22:18Z",
-    "url": "https://github.com/ssrjkk/agent-skills"
   },
   {
     "description": "Version-aware RAG assistant for telecom NOC engineers: pick the equipment and software release, describe the outage, get",
@@ -151,15 +223,6 @@
     "stars": 13175,
     "updated_at": "2026-09-29T16:23:55Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-29T16:31:06Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "End-to-end sovereign personal AI OS (FastAPI + React 19 + Electron). Features local 14B LLMs, wake-word voice pipelines,",
@@ -185,17 +248,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1168,
-    "updated_at": "2026-09-29T16:44:41Z",
+    "updated_at": "2026-09-29T16:59:13Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 25,
-    "updated_at": "2026-09-29T16:27:52Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -247,7 +301,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 37035,
+    "stars": 37049,
     "updated_at": "2026-09-29T15:50:17Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-29T15:14:20Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-09-29T15:11:33Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-09-29T15:10:15Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-09-29T15:10:02Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 4,
-    "updated_at": "2026-09-29T15:09:21Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-09-29T15:08:07Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
-  },
-  {
-    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
-    "id": "Bielrezende/WMB-100K",
-    "language": "\u2014",
-    "name": "Bielrezende/WMB-100K",
-    "stars": 0,
-    "updated_at": "2026-09-29T15:07:22Z",
-    "url": "https://github.com/Bielrezende/WMB-100K"
   }
 ]
