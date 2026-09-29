@@ -1,5 +1,95 @@
 [
   {
+    "description": "Identity and Authorization Service with Vector and AI Integration",
+    "id": "StephenCote/AccountManager7",
+    "language": "Java",
+    "name": "StephenCote/AccountManager7",
+    "stars": 2,
+    "updated_at": "2026-09-29T19:42:04Z",
+    "url": "https://github.com/StephenCote/AccountManager7"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-29T19:36:55Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
+    "id": "rao-studios/Sewn",
+    "language": "Swift",
+    "name": "rao-studios/Sewn",
+    "stars": 0,
+    "updated_at": "2026-09-29T19:35:36Z",
+    "url": "https://github.com/rao-studios/Sewn"
+  },
+  {
+    "description": "Distributed vector search node and client for Sewn and MaryOS.",
+    "id": "rao-studios/Thread",
+    "language": "Swift",
+    "name": "rao-studios/Thread",
+    "stars": 0,
+    "updated_at": "2026-09-29T19:35:15Z",
+    "url": "https://github.com/rao-studios/Thread"
+  },
+  {
+    "description": "MCP server and agent that answer questions about property listings from the record and pass viewings, negotiation, legal",
+    "id": "srnux/proptech-inquiry-agent",
+    "language": "TypeScript",
+    "name": "srnux/proptech-inquiry-agent",
+    "stars": 0,
+    "updated_at": "2026-09-29T19:34:18Z",
+    "url": "https://github.com/srnux/proptech-inquiry-agent"
+  },
+  {
+    "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
+    "id": "Nazar-Plokhuta/docuquery-rag-agent",
+    "language": "Python",
+    "name": "Nazar-Plokhuta/docuquery-rag-agent",
+    "stars": 4,
+    "updated_at": "2026-09-29T19:34:10Z",
+    "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-29T19:33:41Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9317,
+    "updated_at": "2026-09-29T19:44:22Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T19:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T19:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A Retrieval-Augmented Generation system that searches, retrieves, and answers questions from academic paper abstracts on",
     "id": "BiswasNehaa/Astra",
     "language": "Python",
@@ -14,35 +104,8 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12988,
-    "updated_at": "2026-09-29T19:27:58Z",
+    "updated_at": "2026-09-29T19:35:06Z",
     "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "MCP server and agent that answer questions about property listings from the record and pass viewings, negotiation, legal",
-    "id": "srnux/proptech-inquiry-agent",
-    "language": "TypeScript",
-    "name": "srnux/proptech-inquiry-agent",
-    "stars": 0,
-    "updated_at": "2026-09-29T19:18:15Z",
-    "url": "https://github.com/srnux/proptech-inquiry-agent"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T19:15:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T19:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
@@ -61,15 +124,6 @@
     "stars": 34,
     "updated_at": "2026-09-29T19:08:51Z",
     "url": "https://github.com/monaccode/astromesh"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-29T19:07:49Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -95,17 +149,8 @@
     "language": "Python",
     "name": "ahb-sjsu/turboquant-pro",
     "stars": 25,
-    "updated_at": "2026-09-29T19:25:49Z",
+    "updated_at": "2026-09-29T19:42:43Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
-    "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
-    "id": "Nazar-Plokhuta/docuquery-rag-agent",
-    "language": "Python",
-    "name": "Nazar-Plokhuta/docuquery-rag-agent",
-    "stars": 4,
-    "updated_at": "2026-09-29T19:03:14Z",
-    "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -392,7 +437,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-29T19:08:55Z",
+    "updated_at": "2026-09-29T19:31:48Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 6457,
     "updated_at": "2026-09-29T19:20:02Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34882,
-    "updated_at": "2026-09-29T19:21:07Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Production-ready RAG document Q&A API with dense vector retrieval, FAISS indexing, and semantic search.",
-    "id": "mdashfaqq/RAG-Document-QA",
-    "language": "Python",
-    "name": "mdashfaqq/RAG-Document-QA",
-    "stars": 0,
-    "updated_at": "2026-09-29T18:14:44Z",
-    "url": "https://github.com/mdashfaqq/RAG-Document-QA"
-  },
-  {
-    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
-    "id": "ELSAKKK/mnemos-mcp",
-    "language": "Python",
-    "name": "ELSAKKK/mnemos-mcp",
-    "stars": 5,
-    "updated_at": "2026-09-29T18:14:36Z",
-    "url": "https://github.com/ELSAKKK/mnemos-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
-    "id": "BiggerCap/agentops-hub",
-    "language": "TypeScript",
-    "name": "BiggerCap/agentops-hub",
-    "stars": 2,
-    "updated_at": "2026-09-29T18:13:40Z",
-    "url": "https://github.com/BiggerCap/agentops-hub"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-29T18:12:47Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
   }
 ]
