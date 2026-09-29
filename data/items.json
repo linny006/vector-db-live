@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-29T21:30:23Z",
+    "updated_at": "2026-09-29T21:45:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-29T21:36:56Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 4,
+    "updated_at": "2026-09-29T21:36:23Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 3,
+    "updated_at": "2026-09-29T21:33:29Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T21:30:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -14,7 +50,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12987,
-    "updated_at": "2026-09-29T21:25:53Z",
+    "updated_at": "2026-09-29T21:31:42Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -23,7 +59,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1169,
-    "updated_at": "2026-09-29T21:26:33Z",
+    "updated_at": "2026-09-29T21:30:57Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -54,24 +90,6 @@
     "url": "https://github.com/langchain-ai/langchain-milvus"
   },
   {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 3,
-    "updated_at": "2026-09-29T21:25:18Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T21:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Clinical Multi-Agent RAG Assistant powered by LangChain, Pinecone (23,000+ medical textbook passages), and a resilient 3",
     "id": "mearslanahmed/medquery",
     "language": "Jupyter Notebook",
@@ -81,21 +99,12 @@
     "url": "https://github.com/mearslanahmed/medquery"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-29T21:08:43Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11558,
-    "updated_at": "2026-09-29T21:07:17Z",
+    "updated_at": "2026-09-29T21:31:36Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -113,7 +122,7 @@
     "language": "Python",
     "name": "ahb-sjsu/turboquant-pro",
     "stars": 25,
-    "updated_at": "2026-09-29T21:27:40Z",
+    "updated_at": "2026-09-29T21:45:22Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
@@ -178,6 +187,15 @@
     "stars": 2,
     "updated_at": "2026-09-29T20:46:19Z",
     "url": "https://github.com/alxkm/java-ai-cookbook"
+  },
+  {
+    "description": "AI support assistant for payment merchants, built with Spring AI and Amazon Bedrock (Claude): read-only tool calling on ",
+    "id": "amirizalrahmat0799/payment-assistant",
+    "language": "Java",
+    "name": "amirizalrahmat0799/payment-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-29T20:44:28Z",
+    "url": "https://github.com/amirizalrahmat0799/payment-assistant"
   },
   {
     "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
@@ -364,7 +382,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31222,
+    "stars": 31223,
     "updated_at": "2026-09-29T20:22:52Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -430,23 +448,5 @@
     "stars": 7,
     "updated_at": "2026-09-29T20:15:10Z",
     "url": "https://github.com/cyborginc/cyborgdb-js"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-09-29T20:14:56Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "MCP server and agent that answer questions about property listings from the record and pass viewings, negotiation, legal",
-    "id": "srnux/proptech-inquiry-agent",
-    "language": "TypeScript",
-    "name": "srnux/proptech-inquiry-agent",
-    "stars": 0,
-    "updated_at": "2026-09-29T20:27:12Z",
-    "url": "https://github.com/srnux/proptech-inquiry-agent"
   }
 ]
