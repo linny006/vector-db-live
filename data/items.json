@@ -1,21 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T11:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16859,
+    "updated_at": "2026-09-29T11:30:07Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "",
-    "id": "Jaydeepkumar0p/RAG_AI_ASSISTANT",
+    "description": "59 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf a",
+    "id": "ssrjkk/agent-skills",
     "language": "Python",
-    "name": "Jaydeepkumar0p/RAG_AI_ASSISTANT",
-    "stars": 1,
-    "updated_at": "2026-09-29T11:13:48Z",
-    "url": "https://github.com/Jaydeepkumar0p/RAG_AI_ASSISTANT"
+    "name": "ssrjkk/agent-skills",
+    "stars": 2,
+    "updated_at": "2026-09-29T11:28:22Z",
+    "url": "https://github.com/ssrjkk/agent-skills"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6103,
+    "updated_at": "2026-09-29T11:26:29Z",
+    "url": "https://github.com/HelixDB/helix-db"
   },
   {
     "description": "Heros is a production-grade, Django-powered assistant platform built for reliability, security, and extensibility. Bayma",
@@ -23,8 +32,80 @@
     "language": "JavaScript",
     "name": "Hudsonmathew1910/Hero-s-AI",
     "stars": 3,
-    "updated_at": "2026-09-29T11:12:50Z",
+    "updated_at": "2026-09-29T11:26:23Z",
     "url": "https://github.com/Hudsonmathew1910/Hero-s-AI"
+  },
+  {
+    "description": "\u7ed9\u5b83\u4e00\u4e2a\u5173\u4e8e A \u80a1\u516c\u53f8\u7684\u95ee\u9898\uff0c\u5b83\u81ea\u5df1\u89c4\u5212\u7814\u7a76\u6b65\u9aa4\u3001\u51b3\u5b9a\u8c03\u7528\u54ea\u4e9b\u6570\u636e\u5de5\u5177\u3001\u5ba1\u6838\u8bc1\u636e\u662f\u5426\u5145\u5206\uff0c\u6700\u540e\u4ea7\u51fa\u4e00\u4efd\u6bcf\u4e2a\u6570\u5b57\u90fd\u80fd\u8ffd\u6eaf\u56de\u6765\u6e90\uff08\u5e74\u62a5\u7b2c\u51e0\u9875 / \u54ea\u4e2a\u7f51\u5740\uff09\u7684\u7814\u7a76\u62a5\u544a\u3002LangGraph 8 \u8282\u70b9\u7f16\u6392 + 9 \u4e2a\u91d1\u878d\u6570\u636e\u5de5\u5177 + Chroma",
+    "id": "Wcrane-hhy/Finreserch_Ai_agent",
+    "language": "Python",
+    "name": "Wcrane-hhy/Finreserch_Ai_agent",
+    "stars": 0,
+    "updated_at": "2026-09-29T11:25:40Z",
+    "url": "https://github.com/Wcrane-hhy/Finreserch_Ai_agent"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-29T11:25:23Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 10,
+    "updated_at": "2026-09-29T11:23:37Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "",
+    "id": "Jaydeepkumar0p/RAG_AI_ASSISTANT",
+    "language": "Python",
+    "name": "Jaydeepkumar0p/RAG_AI_ASSISTANT",
+    "stars": 1,
+    "updated_at": "2026-09-29T11:20:20Z",
+    "url": "https://github.com/Jaydeepkumar0p/RAG_AI_ASSISTANT"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6242,
+    "updated_at": "2026-09-29T11:16:58Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "",
+    "id": "SuperInstance/SuperInstance",
+    "language": "HTML",
+    "name": "SuperInstance/SuperInstance",
+    "stars": 7,
+    "updated_at": "2026-09-29T11:16:08Z",
+    "url": "https://github.com/SuperInstance/SuperInstance"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T11:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T11:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
@@ -32,8 +113,17 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12986,
-    "updated_at": "2026-09-29T11:11:22Z",
+    "updated_at": "2026-09-29T11:18:14Z",
     "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1168,
+    "updated_at": "2026-09-29T11:10:57Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Streamlit chatbot that answers questions about any web page using LangChain, OpenAI embeddings and a Chroma vector store",
@@ -77,7 +167,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-09-29T11:08:30Z",
+    "updated_at": "2026-09-29T11:15:58Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -117,15 +207,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T11:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
     "id": "Daaboulex/openviking-nix",
     "language": "Shell",
@@ -135,21 +216,12 @@
     "url": "https://github.com/Daaboulex/openviking-nix"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1167,
-    "updated_at": "2026-09-29T11:10:57Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7112,
-    "updated_at": "2026-09-29T10:59:49Z",
+    "updated_at": "2026-09-29T11:24:17Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -196,15 +268,6 @@
     "stars": 31199,
     "updated_at": "2026-09-29T11:12:54Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:08:12Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Self-hosted, offline-first multi-agent meeting assistant for Agile teams with local LLMs, and real-time insights.",
@@ -383,70 +446,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9314,
-    "updated_at": "2026-09-29T11:12:56Z",
+    "updated_at": "2026-09-29T11:16:58Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
-    "id": "constancywoodsy286/agentic-rag-for-practice",
-    "language": "Python",
-    "name": "constancywoodsy286/agentic-rag-for-practice",
-    "stars": 1,
-    "updated_at": "2026-09-29T09:29:27Z",
-    "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 268,
-    "updated_at": "2026-09-29T09:28:39Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-09-29T09:28:12Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-09-29T09:28:06Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6103,
-    "updated_at": "2026-09-29T11:04:45Z",
-    "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-09-29T09:27:52Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-09-29T11:14:53Z",
-    "url": "https://github.com/fenecdb/fenec"
   }
 ]
