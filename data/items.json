@@ -5,8 +5,170 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-29T18:00:23Z",
+    "updated_at": "2026-09-29T18:15:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Production-ready RAG document Q&A API with dense vector retrieval, FAISS indexing, and semantic search.",
+    "id": "mdashfaqq/rag-document-qa",
+    "language": "Python",
+    "name": "mdashfaqq/rag-document-qa",
+    "stars": 0,
+    "updated_at": "2026-09-29T18:14:44Z",
+    "url": "https://github.com/mdashfaqq/rag-document-qa"
+  },
+  {
+    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
+    "id": "ELSAKKK/mnemos-mcp",
+    "language": "Python",
+    "name": "ELSAKKK/mnemos-mcp",
+    "stars": 5,
+    "updated_at": "2026-09-29T18:14:36Z",
+    "url": "https://github.com/ELSAKKK/mnemos-mcp"
+  },
+  {
+    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
+    "id": "BiggerCap/agentops-hub",
+    "language": "TypeScript",
+    "name": "BiggerCap/agentops-hub",
+    "stars": 2,
+    "updated_at": "2026-09-29T18:13:40Z",
+    "url": "https://github.com/BiggerCap/agentops-hub"
+  },
+  {
+    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
+    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "language": "Python",
+    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
+    "stars": 2,
+    "updated_at": "2026-09-29T18:12:47Z",
+    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31219,
+    "updated_at": "2026-09-29T18:12:21Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66602,
+    "updated_at": "2026-09-29T18:12:14Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-29T18:11:52Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI agent that represents me to recruiters over web chat and voice: RAG over my resume and GitHub READMEs, streaming answ",
+    "id": "siddham-jain/my-pa",
+    "language": "JavaScript",
+    "name": "siddham-jain/my-pa",
+    "stars": 0,
+    "updated_at": "2026-09-29T18:11:43Z",
+    "url": "https://github.com/siddham-jain/my-pa"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 25,
+    "updated_at": "2026-09-29T18:10:30Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+  },
+  {
+    "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
+    "id": "Nazar-Plokhuta/docuquery-rag-agent",
+    "language": "Python",
+    "name": "Nazar-Plokhuta/docuquery-rag-agent",
+    "stars": 4,
+    "updated_at": "2026-09-29T18:10:04Z",
+    "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
+    "id": "Edublackk/self-correcting-rag-chatbot",
+    "language": "\u2014",
+    "name": "Edublackk/self-correcting-rag-chatbot",
+    "stars": 3,
+    "updated_at": "2026-09-29T18:08:50Z",
+    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
+  },
+  {
+    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
+    "id": "piporyx/doc-qa-agent",
+    "language": "Python",
+    "name": "piporyx/doc-qa-agent",
+    "stars": 0,
+    "updated_at": "2026-09-29T18:08:26Z",
+    "url": "https://github.com/piporyx/doc-qa-agent"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
+    "id": "leitoooatr/PythonVectorDB",
+    "language": "Python",
+    "name": "leitoooatr/PythonVectorDB",
+    "stars": 2,
+    "updated_at": "2026-09-29T18:08:19Z",
+    "url": "https://github.com/leitoooatr/PythonVectorDB"
+  },
+  {
+    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
+    "id": "Jeroflo88/Self-Corrective-RAG",
+    "language": "Python",
+    "name": "Jeroflo88/Self-Corrective-RAG",
+    "stars": 0,
+    "updated_at": "2026-09-29T18:07:21Z",
+    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 2,
+    "updated_at": "2026-09-29T18:04:27Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "",
+    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "language": "\u2014",
+    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
+    "stars": 1,
+    "updated_at": "2026-09-29T18:04:24Z",
+    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9316,
+    "updated_at": "2026-09-29T18:15:04Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T18:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
@@ -25,15 +187,6 @@
     "stars": 6,
     "updated_at": "2026-09-29T17:58:30Z",
     "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31218,
-    "updated_at": "2026-09-29T17:56:58Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
@@ -81,31 +234,13 @@
     "url": "https://github.com/Brijesh-0106/Cerebro"
   },
   {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 25,
-    "updated_at": "2026-09-29T17:49:52Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1169,
-    "updated_at": "2026-09-29T17:48:35Z",
+    "updated_at": "2026-09-29T18:00:54Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T17:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "RAG assistant that answers questions from company docs. Compares an LLM-chunking, query-rewrite and rerank pipeline agai",
@@ -140,17 +275,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11558,
-    "updated_at": "2026-09-29T17:40:45Z",
+    "updated_at": "2026-09-29T18:09:01Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
-    "id": "Nazar-Plokhuta/docuquery-rag-agent",
-    "language": "Python",
-    "name": "Nazar-Plokhuta/docuquery-rag-agent",
-    "stars": 4,
-    "updated_at": "2026-09-29T17:40:36Z",
-    "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -171,15 +297,6 @@
     "url": "https://github.com/zilliztech/knowhere"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-29T17:38:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
     "id": "thekaveh/atlas",
     "language": "Python",
@@ -187,15 +304,6 @@
     "stars": 3,
     "updated_at": "2026-09-29T17:32:45Z",
     "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 66601,
-    "updated_at": "2026-09-29T17:28:08Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -257,7 +365,7 @@
     "language": "TypeScript",
     "name": "cyborginc/cyborgdb-js",
     "stars": 7,
-    "updated_at": "2026-09-29T17:45:08Z",
+    "updated_at": "2026-09-29T18:08:03Z",
     "url": "https://github.com/cyborginc/cyborgdb-js"
   },
   {
@@ -275,7 +383,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-09-29T17:30:18Z",
+    "updated_at": "2026-09-29T18:08:00Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-29T16:49:40Z",
     "url": "https://github.com/davidfernxndez/github-repository-rag"
-  },
-  {
-    "description": "65 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf a",
-    "id": "ssrjkk/agent-skills",
-    "language": "Python",
-    "name": "ssrjkk/agent-skills",
-    "stars": 2,
-    "updated_at": "2026-09-29T16:49:39Z",
-    "url": "https://github.com/ssrjkk/agent-skills"
-  },
-  {
-    "description": "Materials for RAG forum.",
-    "id": "aihpi/workshop-rag-forum",
-    "language": "Python",
-    "name": "aihpi/workshop-rag-forum",
-    "stars": 1,
-    "updated_at": "2026-09-29T16:42:20Z",
-    "url": "https://github.com/aihpi/workshop-rag-forum"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-09-29T16:37:22Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9316,
-    "updated_at": "2026-09-29T18:00:15Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6242,
-    "updated_at": "2026-09-29T17:59:57Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13176,
-    "updated_at": "2026-09-29T16:23:55Z",
-    "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Version-aware RAG assistant for telecom NOC engineers: pick the equipment and software release, describe the outage, get",
-    "id": "Naman1369/telecom-runbook-rag",
-    "language": "Python",
-    "name": "Naman1369/telecom-runbook-rag",
-    "stars": 0,
-    "updated_at": "2026-09-29T16:22:15Z",
-    "url": "https://github.com/Naman1369/telecom-runbook-rag"
-  },
-  {
-    "description": "End-to-end sovereign personal AI OS (FastAPI + React 19 + Electron). Features local 14B LLMs, wake-word voice pipelines,",
-    "id": "AkashKundu114/COPPER",
-    "language": "Python",
-    "name": "AkashKundu114/COPPER",
-    "stars": 2,
-    "updated_at": "2026-09-29T16:14:11Z",
-    "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
-    "id": "hbar-systems/brainfoundry-nous",
-    "language": "Python",
-    "name": "hbar-systems/brainfoundry-nous",
-    "stars": 1,
-    "updated_at": "2026-09-29T16:12:23Z",
-    "url": "https://github.com/hbar-systems/brainfoundry-nous"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59443,
-    "updated_at": "2026-09-29T15:57:13Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46281,
-    "updated_at": "2026-09-29T15:55:58Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
-    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-py",
-    "language": "Python",
-    "name": "cyborginc/cyborgdb-py",
-    "stars": 8,
-    "updated_at": "2026-09-29T17:29:42Z",
-    "url": "https://github.com/cyborginc/cyborgdb-py"
   }
 ]
