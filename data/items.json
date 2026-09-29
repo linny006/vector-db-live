@@ -1,11 +1,47 @@
 [
   {
+    "description": "A Retrieval-Augmented Generation system that searches, retrieves, and answers questions from academic paper abstracts on",
+    "id": "BiswasNehaa/Astra",
+    "language": "Python",
+    "name": "BiswasNehaa/Astra",
+    "stars": 1,
+    "updated_at": "2026-09-29T19:29:57Z",
+    "url": "https://github.com/BiswasNehaa/Astra"
+  },
+  {
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12988,
+    "updated_at": "2026-09-29T19:27:58Z",
+    "url": "https://github.com/neuml/txtai"
+  },
+  {
+    "description": "MCP server and agent that answer questions about property listings from the record and pass viewings, negotiation, legal",
+    "id": "srnux/proptech-inquiry-agent",
+    "language": "TypeScript",
+    "name": "srnux/proptech-inquiry-agent",
+    "stars": 0,
+    "updated_at": "2026-09-29T19:18:15Z",
+    "url": "https://github.com/srnux/proptech-inquiry-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T19:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-29T19:15:21Z",
+    "updated_at": "2026-09-29T19:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -59,7 +95,7 @@
     "language": "Python",
     "name": "ahb-sjsu/turboquant-pro",
     "stars": 25,
-    "updated_at": "2026-09-29T19:09:34Z",
+    "updated_at": "2026-09-29T19:25:49Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
@@ -77,17 +113,8 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11558,
-    "updated_at": "2026-09-29T19:01:17Z",
+    "updated_at": "2026-09-29T19:15:42Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T19:00:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Chat with any PDF: upload a document, index it into Qdrant, and get answers grounded in retrieved passages, with page re",
@@ -374,7 +401,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6457,
-    "updated_at": "2026-09-29T18:57:56Z",
+    "updated_at": "2026-09-29T19:20:02Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -383,7 +410,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34882,
-    "updated_at": "2026-09-29T19:09:03Z",
+    "updated_at": "2026-09-29T19:21:07Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-29T18:12:47Z",
     "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 66604,
-    "updated_at": "2026-09-29T18:12:14Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "AI agent that represents me to recruiters over web chat and voice: RAG over my resume and GitHub READMEs, streaming answ",
-    "id": "siddham-jain/my-pa",
-    "language": "JavaScript",
-    "name": "siddham-jain/my-pa",
-    "stars": 0,
-    "updated_at": "2026-09-29T18:11:43Z",
-    "url": "https://github.com/siddham-jain/my-pa"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-09-29T18:08:50Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
   }
 ]
