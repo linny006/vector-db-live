@@ -1,12 +1,39 @@
 [
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T19:00:29Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-09-29T18:58:00Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1169,
+    "updated_at": "2026-09-29T18:57:52Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-29T18:47:56Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-09-29T18:57:36Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,17 +41,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-09-29T18:45:30Z",
+    "updated_at": "2026-09-29T18:53:52Z",
     "url": "https://github.com/linny006/vector-db-live"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T18:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1973,
+    "updated_at": "2026-09-29T18:52:31Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-29T18:47:56Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
@@ -43,6 +79,15 @@
     "stars": 2,
     "updated_at": "2026-09-29T18:44:04Z",
     "url": "https://github.com/anton-karlovskiy/rag-knowledge-worker"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31222,
+    "updated_at": "2026-09-29T18:43:29Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI assistant strictly bounded to pre-1900 historical data. It answers questions using only verified historical sources, ",
@@ -171,15 +216,6 @@
     "url": "https://github.com/Bielrezende/WMB-100K"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31221,
-    "updated_at": "2026-09-29T18:43:29Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
     "id": "okeidontlike/Awareness-Local",
     "language": "JavaScript",
@@ -284,7 +320,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6457,
-    "updated_at": "2026-09-29T18:15:47Z",
+    "updated_at": "2026-09-29T18:57:56Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -356,7 +392,7 @@
     "language": "Python",
     "name": "ahb-sjsu/turboquant-pro",
     "stars": 25,
-    "updated_at": "2026-09-29T18:10:30Z",
+    "updated_at": "2026-09-29T18:58:45Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-29T18:04:24Z",
     "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9316,
-    "updated_at": "2026-09-29T18:28:49Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
-    "id": "project-david-ai/projectdavid-platform",
-    "language": "Python",
-    "name": "project-david-ai/projectdavid-platform",
-    "stars": 1,
-    "updated_at": "2026-09-29T17:58:56Z",
-    "url": "https://github.com/project-david-ai/projectdavid-platform"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-09-29T17:58:30Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-09-29T17:56:28Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
   }
 ]
