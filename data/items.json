@@ -1,5 +1,41 @@
 [
   {
+    "description": "Privacy-first, 100% offline ambient system context engine for developers",
+    "id": "Harsh-dev023/omnimemory",
+    "language": "TypeScript",
+    "name": "Harsh-dev023/omnimemory",
+    "stars": 0,
+    "updated_at": "2026-09-29T09:57:56Z",
+    "url": "https://github.com/Harsh-dev023/omnimemory"
+  },
+  {
+    "description": "AI sales agent that remembers every objection, stakeholder concern & competitive mention across enterprise deals \u2014 power",
+    "id": "grsanudeep42-cmd/dealmind",
+    "language": "TypeScript",
+    "name": "grsanudeep42-cmd/dealmind",
+    "stars": 0,
+    "updated_at": "2026-09-29T09:52:23Z",
+    "url": "https://github.com/grsanudeep42-cmd/dealmind"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T09:45:58Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T09:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
     "id": "hbar-systems/brainfoundry-nous",
     "language": "Python",
@@ -99,15 +135,6 @@
     "url": "https://github.com/desikai-lab/Marrow"
   },
   {
-    "description": "AI sales agent that remembers every objection, stakeholder concern & competitive mention across enterprise deals \u2014 power",
-    "id": "grsanudeep42-cmd/dealmind",
-    "language": "TypeScript",
-    "name": "grsanudeep42-cmd/dealmind",
-    "stars": 0,
-    "updated_at": "2026-09-29T09:34:27Z",
-    "url": "https://github.com/grsanudeep42-cmd/dealmind"
-  },
-  {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
     "id": "impressionable-pyrrhotite668/adaptive-multistage-rag-system",
     "language": "Jupyter Notebook",
@@ -115,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T09:32:26Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T09:31:00Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Open-source financial intelligence terminal for equities, Borsa \u0130stanbul and digital assets. Real-time market data, LLM ",
@@ -135,21 +153,12 @@
     "url": "https://github.com/Yigtwxx/OracleX"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T09:30:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9314,
-    "updated_at": "2026-09-29T09:30:15Z",
+    "updated_at": "2026-09-29T09:58:59Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -311,7 +320,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1167,
-    "updated_at": "2026-09-29T09:42:47Z",
+    "updated_at": "2026-09-29T09:59:03Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -356,7 +365,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34878,
-    "updated_at": "2026-09-29T09:45:05Z",
+    "updated_at": "2026-09-29T09:45:48Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 6242,
     "updated_at": "2026-09-29T09:23:21Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
-    "id": "VectorDB-NTU/RaBitQ-Library",
-    "language": "C++",
-    "name": "VectorDB-NTU/RaBitQ-Library",
-    "stars": 286,
-    "updated_at": "2026-09-29T09:17:25Z",
-    "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   }
 ]
