@@ -1,11 +1,83 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-29T16:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
+    "id": "hoffresearch/urna",
+    "language": "Rust",
+    "name": "hoffresearch/urna",
+    "stars": 11,
+    "updated_at": "2026-09-29T16:44:26Z",
+    "url": "https://github.com/hoffresearch/urna"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31215,
+    "updated_at": "2026-09-29T16:43:57Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2021,
+    "updated_at": "2026-09-29T16:43:28Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Materials for RAG forum.",
+    "id": "aihpi/workshop-rag-forum",
+    "language": "Python",
+    "name": "aihpi/workshop-rag-forum",
+    "stars": 1,
+    "updated_at": "2026-09-29T16:42:20Z",
+    "url": "https://github.com/aihpi/workshop-rag-forum"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-29T16:40:21Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
+    "id": "project-david-ai/projectdavid-platform",
+    "language": "Python",
+    "name": "project-david-ai/projectdavid-platform",
+    "stars": 1,
+    "updated_at": "2026-09-29T16:39:45Z",
+    "url": "https://github.com/project-david-ai/projectdavid-platform"
+  },
+  {
+    "description": "RAG assistant that answers questions from company docs. Compares an LLM-chunking, query-rewrite and rerank pipeline agai",
+    "id": "anton-karlovskiy/rag-knowledge-worker",
+    "language": "Python",
+    "name": "anton-karlovskiy/rag-knowledge-worker",
+    "stars": 2,
+    "updated_at": "2026-09-29T16:38:21Z",
+    "url": "https://github.com/anton-karlovskiy/rag-knowledge-worker"
+  },
+  {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
     "id": "fenecdb/fenec",
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-09-29T16:29:55Z",
+    "updated_at": "2026-09-29T16:37:22Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -14,8 +86,35 @@
     "language": "TypeScript",
     "name": "grsanudeep42-cmd/dealmind",
     "stars": 0,
-    "updated_at": "2026-09-29T16:28:46Z",
+    "updated_at": "2026-09-29T16:44:09Z",
     "url": "https://github.com/grsanudeep42-cmd/dealmind"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11557,
+    "updated_at": "2026-09-29T16:32:30Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T16:30:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9316,
+    "updated_at": "2026-09-29T16:42:34Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -54,49 +153,13 @@
     "url": "https://github.com/langchain4j/langchain4j"
   },
   {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/urna",
-    "language": "Rust",
-    "name": "hoffresearch/urna",
-    "stars": 11,
-    "updated_at": "2026-09-29T16:22:57Z",
-    "url": "https://github.com/hoffresearch/urna"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T16:16:03Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-29T16:30:25Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-29T16:27:48Z",
+    "updated_at": "2026-09-29T16:31:06Z",
     "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31213,
-    "updated_at": "2026-09-29T16:30:02Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "End-to-end sovereign personal AI OS (FastAPI + React 19 + Electron). Features local 14B LLMs, wake-word voice pipelines,",
@@ -117,21 +180,12 @@
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-29T16:10:29Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
     "id": "ArcadeData/arcadedb",
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1168,
-    "updated_at": "2026-09-29T16:23:19Z",
+    "updated_at": "2026-09-29T16:44:41Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -151,24 +205,6 @@
     "stars": 9,
     "updated_at": "2026-09-29T16:24:45Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11557,
-    "updated_at": "2026-09-29T16:13:36Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9316,
-    "updated_at": "2026-09-29T16:28:57Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -211,7 +247,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 37015,
+    "stars": 37035,
     "updated_at": "2026-09-29T15:50:17Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -247,7 +283,7 @@
     "id": "chenkanglin198904/Personal_External_Brain",
     "language": "Python",
     "name": "chenkanglin198904/Personal_External_Brain",
-    "stars": 75,
+    "stars": 76,
     "updated_at": "2026-09-29T15:35:11Z",
     "url": "https://github.com/chenkanglin198904/Personal_External_Brain"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-29T15:07:22Z",
     "url": "https://github.com/Bielrezende/WMB-100K"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-09-29T15:07:08Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-29T15:07:02Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "MCP server and agent that answer questions about property listings from the record and pass viewings, negotiation, legal",
-    "id": "srnux/proptech-inquiry-agent",
-    "language": "TypeScript",
-    "name": "srnux/proptech-inquiry-agent",
-    "stars": 0,
-    "updated_at": "2026-09-29T15:05:26Z",
-    "url": "https://github.com/srnux/proptech-inquiry-agent"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12987,
-    "updated_at": "2026-09-29T15:12:44Z",
-    "url": "https://github.com/neuml/txtai"
   }
 ]
