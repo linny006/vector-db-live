@@ -5,8 +5,179 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-29T07:15:23Z",
+    "updated_at": "2026-09-29T07:30:24Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46279,
+    "updated_at": "2026-09-29T07:29:35Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
+    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
+    "id": "Daubingweirdie414/multimodal-rag",
+    "language": "Python",
+    "name": "Daubingweirdie414/multimodal-rag",
+    "stars": 4,
+    "updated_at": "2026-09-29T07:29:26Z",
+    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
+  },
+  {
+    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
+    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "language": "Python",
+    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "stars": 1,
+    "updated_at": "2026-09-29T07:28:01Z",
+    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-29T07:26:57Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 1,
+    "updated_at": "2026-09-29T07:26:44Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1354,
+    "updated_at": "2026-09-29T07:26:33Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Production-grade Agentic RAG pipeline using LangChain, Pinecone serverless vector DB, Groq LPU inference, and Streamlit.",
+    "id": "Bindu0406/agentic-ai-rag-assistant",
+    "language": "Python",
+    "name": "Bindu0406/agentic-ai-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-29T07:23:54Z",
+    "url": "https://github.com/Bindu0406/agentic-ai-rag-assistant"
+  },
+  {
+    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
+    "id": "leo2007960216/deeprecall",
+    "language": "Python",
+    "name": "leo2007960216/deeprecall",
+    "stars": 4,
+    "updated_at": "2026-09-29T07:23:16Z",
+    "url": "https://github.com/leo2007960216/deeprecall"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 260,
+    "updated_at": "2026-09-29T07:23:22Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
+    "id": "gxc02529-jpg/KnowLoop",
+    "language": "Python",
+    "name": "gxc02529-jpg/KnowLoop",
+    "stars": 0,
+    "updated_at": "2026-09-29T07:22:04Z",
+    "url": "https://github.com/gxc02529-jpg/KnowLoop"
+  },
+  {
+    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
+    "id": "kirill2911/awesome-vector-search",
+    "language": "\u2014",
+    "name": "kirill2911/awesome-vector-search",
+    "stars": 1,
+    "updated_at": "2026-09-29T07:21:45Z",
+    "url": "https://github.com/kirill2911/awesome-vector-search"
+  },
+  {
+    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
+    "id": "buitoan112233/EleutherIA",
+    "language": "Shell",
+    "name": "buitoan112233/EleutherIA",
+    "stars": 2,
+    "updated_at": "2026-09-29T07:20:53Z",
+    "url": "https://github.com/buitoan112233/EleutherIA"
+  },
+  {
+    "description": "",
+    "id": "Dangamuwagedilshan/x0",
+    "language": "\u2014",
+    "name": "Dangamuwagedilshan/x0",
+    "stars": 1,
+    "updated_at": "2026-09-29T07:19:47Z",
+    "url": "https://github.com/Dangamuwagedilshan/x0"
+  },
+  {
+    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
+    "id": "Alexreye/advance-nlp-generative-ai",
+    "language": "\u2014",
+    "name": "Alexreye/advance-nlp-generative-ai",
+    "stars": 1,
+    "updated_at": "2026-09-29T07:18:43Z",
+    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
+  },
+  {
+    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
+    "id": "eliasepro/groq-pdf-chat",
+    "language": "Python",
+    "name": "eliasepro/groq-pdf-chat",
+    "stars": 0,
+    "updated_at": "2026-09-29T07:17:23Z",
+    "url": "https://github.com/eliasepro/groq-pdf-chat"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-29T07:16:46Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI sales agent that remembers every objection, stakeholder concern & competitive mention across enterprise deals \u2014 power",
+    "id": "grsanudeep42-cmd/dealmind",
+    "language": "TypeScript",
+    "name": "grsanudeep42-cmd/dealmind",
+    "stars": 0,
+    "updated_at": "2026-09-29T07:16:42Z",
+    "url": "https://github.com/grsanudeep42-cmd/dealmind"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-29T07:15:36Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T07:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
@@ -43,6 +214,15 @@
     "stars": 1,
     "updated_at": "2026-09-29T07:10:38Z",
     "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31186,
+    "updated_at": "2026-09-29T07:10:27Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
@@ -99,24 +279,6 @@
     "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
   },
   {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 260,
-    "updated_at": "2026-09-29T07:02:37Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T07:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
     "id": "SAHIXXX12/AI-Search-Engine",
     "language": "TypeScript",
@@ -131,7 +293,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-29T07:10:12Z",
+    "updated_at": "2026-09-29T07:20:07Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -171,15 +333,6 @@
     "url": "https://github.com/Maurellone/TySVA"
   },
   {
-    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-    "id": "milvus-io/milvus",
-    "language": "Go",
-    "name": "milvus-io/milvus",
-    "stars": 46278,
-    "updated_at": "2026-09-29T06:55:43Z",
-    "url": "https://github.com/milvus-io/milvus"
-  },
-  {
     "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
     "id": "clizardyy/unbody",
     "language": "TypeScript",
@@ -189,20 +342,11 @@
     "url": "https://github.com/clizardyy/unbody"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-29T06:54:34Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59437,
+    "stars": 59438,
     "updated_at": "2026-09-29T06:53:39Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -257,7 +401,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8292,
-    "updated_at": "2026-09-29T06:34:19Z",
+    "updated_at": "2026-09-29T07:26:11Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -266,7 +410,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-09-29T06:46:26Z",
+    "updated_at": "2026-09-29T07:26:16Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -277,15 +421,6 @@
     "stars": 0,
     "updated_at": "2026-09-29T06:31:33Z",
     "url": "https://github.com/neerazz/embedguard"
-  },
-  {
-    "description": "AI sales agent that remembers every objection, stakeholder concern & competitive mention across enterprise deals \u2014 power",
-    "id": "grsanudeep42-cmd/dealmind",
-    "language": "TypeScript",
-    "name": "grsanudeep42-cmd/dealmind",
-    "stars": 0,
-    "updated_at": "2026-09-29T06:30:37Z",
-    "url": "https://github.com/grsanudeep42-cmd/dealmind"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -302,7 +437,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 286,
-    "updated_at": "2026-09-29T06:56:17Z",
+    "updated_at": "2026-09-29T07:21:07Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -313,140 +448,5 @@
     "stars": 857,
     "updated_at": "2026-09-29T06:10:00Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
-    "description": "An agentic, plug-and-play RAG architecture utilizing Two-Stage Vector Retrieval, RAPTOR, and Neo4j Knowledge Graphs for ",
-    "id": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
-    "language": "JavaScript",
-    "name": "Saransh482003/RAGner-Tri-Modal-RAG-Framework",
-    "stars": 1,
-    "updated_at": "2026-09-29T06:08:00Z",
-    "url": "https://github.com/Saransh482003/RAGner-Tri-Modal-RAG-Framework"
-  },
-  {
-    "description": "Candidate search over a Turbopuffer database for ten hiring roles. Attribute-filtered scans, keyword prescreens and a GP",
-    "id": "jameswniu/candidate-vector-search-rerank-semantics",
-    "language": "Python",
-    "name": "jameswniu/candidate-vector-search-rerank-semantics",
-    "stars": 0,
-    "updated_at": "2026-09-29T06:05:50Z",
-    "url": "https://github.com/jameswniu/candidate-vector-search-rerank-semantics"
-  },
-  {
-    "description": "A lightweight, lightning-fast, in-process vector database",
-    "id": "alibaba/zvec",
-    "language": "C++",
-    "name": "alibaba/zvec",
-    "stars": 16027,
-    "updated_at": "2026-09-29T05:56:15Z",
-    "url": "https://github.com/alibaba/zvec"
-  },
-  {
-    "description": "A playground for LangChain.js, LangGraph, NewRelic GraphQL, Sentry, Slack, Model Context Protocol (MCP) and other LLM-re",
-    "id": "chrisleekr/langchain-playground",
-    "language": "TypeScript",
-    "name": "chrisleekr/langchain-playground",
-    "stars": 6,
-    "updated_at": "2026-09-29T05:53:22Z",
-    "url": "https://github.com/chrisleekr/langchain-playground"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 84,
-    "updated_at": "2026-09-29T05:36:23Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9452,
-    "updated_at": "2026-09-29T06:45:38Z",
-    "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "One-click installer for Dify Docker deployment | Dify \u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4f7f\u7528 Docker Compose \u90e8\u7f72",
-    "id": "caoergou/dify-installer",
-    "language": "Shell",
-    "name": "caoergou/dify-installer",
-    "stars": 2,
-    "updated_at": "2026-09-29T05:30:54Z",
-    "url": "https://github.com/caoergou/dify-installer"
-  },
-  {
-    "description": "The LLM API inference layer for MaryOS built on hummingbird. Can be used for independent clients or other solutions.",
-    "id": "rao-studios/Sewn",
-    "language": "Swift",
-    "name": "rao-studios/Sewn",
-    "stars": 0,
-    "updated_at": "2026-09-29T05:27:44Z",
-    "url": "https://github.com/rao-studios/Sewn"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11551,
-    "updated_at": "2026-09-29T06:03:14Z",
-    "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1629,
-    "updated_at": "2026-09-29T05:11:38Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "Pai Chat - A personal chat app",
-    "id": "sadanandpai/paichat",
-    "language": "TypeScript",
-    "name": "sadanandpai/paichat",
-    "stars": 2,
-    "updated_at": "2026-09-29T05:08:18Z",
-    "url": "https://github.com/sadanandpai/paichat"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-09-29T05:07:22Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "LiteGraph is a multi-modal AI data platform - a property graph with relational, vector, and MCP support, to power knowle",
-    "id": "litegraphdb/litegraph",
-    "language": "C#",
-    "name": "litegraphdb/litegraph",
-    "stars": 131,
-    "updated_at": "2026-09-29T05:00:32Z",
-    "url": "https://github.com/litegraphdb/litegraph"
-  },
-  {
-    "description": "Retrieval-Augmented Generation Driven by Offline Local LLMs",
-    "id": "r-xue/ragdoll",
-    "language": "Python",
-    "name": "r-xue/ragdoll",
-    "stars": 0,
-    "updated_at": "2026-09-29T04:54:25Z",
-    "url": "https://github.com/r-xue/ragdoll"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1167,
-    "updated_at": "2026-09-29T04:52:28Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   }
 ]
