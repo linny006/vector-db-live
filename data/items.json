@@ -1,12 +1,147 @@
 [
   {
+    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
+    "id": "aziz5971/TalentLens",
+    "language": "Python",
+    "name": "aziz5971/TalentLens",
+    "stars": 2,
+    "updated_at": "2026-09-29T18:29:46Z",
+    "url": "https://github.com/aziz5971/TalentLens"
+  },
+  {
+    "description": "Benchmark AI memory systems for situational retrieval with 4.3M tokens and 2,708 questions in real-world scenarios",
+    "id": "Bielrezende/WMB-100K",
+    "language": "\u2014",
+    "name": "Bielrezende/WMB-100K",
+    "stars": 0,
+    "updated_at": "2026-09-29T18:28:24Z",
+    "url": "https://github.com/Bielrezende/WMB-100K"
+  },
+  {
+    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
+    "id": "okeidontlike/Awareness-Local",
+    "language": "JavaScript",
+    "name": "okeidontlike/Awareness-Local",
+    "stars": 2,
+    "updated_at": "2026-09-29T18:28:08Z",
+    "url": "https://github.com/okeidontlike/Awareness-Local"
+  },
+  {
+    "description": "Build practical AI systems and agents in 90 days with a clear, project-based roadmap for developers seeking hands-on AI ",
+    "id": "decided-indication109/AI-Engineer-in-90-Days",
+    "language": "Mermaid",
+    "name": "decided-indication109/AI-Engineer-in-90-Days",
+    "stars": 2,
+    "updated_at": "2026-09-29T18:25:49Z",
+    "url": "https://github.com/decided-indication109/AI-Engineer-in-90-Days"
+  },
+  {
+    "description": "Go Client for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-go",
+    "language": "Go",
+    "name": "cyborginc/cyborgdb-go",
+    "stars": 9,
+    "updated_at": "2026-09-29T18:23:49Z",
+    "url": "https://github.com/cyborginc/cyborgdb-go"
+  },
+  {
+    "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-js",
+    "language": "TypeScript",
+    "name": "cyborginc/cyborgdb-js",
+    "stars": 7,
+    "updated_at": "2026-09-29T18:23:10Z",
+    "url": "https://github.com/cyborginc/cyborgdb-js"
+  },
+  {
+    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
+    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
+    "language": "JavaScript",
+    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
+    "stars": 2,
+    "updated_at": "2026-09-29T18:21:53Z",
+    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
+  },
+  {
+    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
+    "id": "a258huit58/claude-memory",
+    "language": "JavaScript",
+    "name": "a258huit58/claude-memory",
+    "stars": 1,
+    "updated_at": "2026-09-29T18:21:00Z",
+    "url": "https://github.com/a258huit58/claude-memory"
+  },
+  {
+    "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
+    "id": "Nazar-Plokhuta/docuquery-rag-agent",
+    "language": "Python",
+    "name": "Nazar-Plokhuta/docuquery-rag-agent",
+    "stars": 4,
+    "updated_at": "2026-09-29T18:20:58Z",
+    "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
+  },
+  {
+    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
+    "id": "Anonymousforareason111/hybrid-orchestrator",
+    "language": "Python",
+    "name": "Anonymousforareason111/hybrid-orchestrator",
+    "stars": 3,
+    "updated_at": "2026-09-29T18:19:44Z",
+    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
+  },
+  {
+    "description": "First-party app bundles for PersonalClaw \u2014 69 apps across model providers, search, speech (STT/TTS), local models, agent",
+    "id": "PersonalClaw/PersonalClawApps",
+    "language": "Python",
+    "name": "PersonalClaw/PersonalClawApps",
+    "stars": 0,
+    "updated_at": "2026-09-29T18:17:40Z",
+    "url": "https://github.com/PersonalClaw/PersonalClawApps"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-29T18:24:30Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6457,
+    "updated_at": "2026-09-29T18:15:47Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T18:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-29T18:15:22Z",
+    "updated_at": "2026-09-29T18:30:30Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34882,
+    "updated_at": "2026-09-29T18:15:12Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Production-ready RAG document Q&A API with dense vector retrieval, FAISS indexing, and semantic search.",
@@ -49,8 +184,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31219,
-    "updated_at": "2026-09-29T18:12:21Z",
+    "stars": 31220,
+    "updated_at": "2026-09-29T18:28:22Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -88,15 +223,6 @@
     "stars": 25,
     "updated_at": "2026-09-29T18:10:30Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
-    "description": "Enterprise-grade async RAG microservice (FastAPI + ChromaDB HNSW). Features zero-hallucination guardrails, token budget ",
-    "id": "Nazar-Plokhuta/docuquery-rag-agent",
-    "language": "Python",
-    "name": "Nazar-Plokhuta/docuquery-rag-agent",
-    "stars": 4,
-    "updated_at": "2026-09-29T18:10:04Z",
-    "url": "https://github.com/Nazar-Plokhuta/docuquery-rag-agent"
   },
   {
     "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
@@ -158,17 +284,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9316,
-    "updated_at": "2026-09-29T18:15:04Z",
+    "updated_at": "2026-09-29T18:28:49Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T18:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A single pip installed package will orchestrate a production ready instance of the AI stack in any environment",
@@ -239,7 +356,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1169,
-    "updated_at": "2026-09-29T18:00:54Z",
+    "updated_at": "2026-09-29T18:22:20Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -331,122 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-29T17:25:33Z",
     "url": "https://github.com/Yacine-ai-tech/IntelAI"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-09-29T17:27:21Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
-    "id": "boddetijayanth22/Enterprise-Knowledge-Assistant",
-    "language": "Python",
-    "name": "boddetijayanth22/Enterprise-Knowledge-Assistant",
-    "stars": 2,
-    "updated_at": "2026-09-29T17:16:54Z",
-    "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2022,
-    "updated_at": "2026-09-29T17:14:33Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "JS & TS Client SDK for CyborgDB: The Encrypted Vector Database",
-    "id": "cyborginc/cyborgdb-js",
-    "language": "TypeScript",
-    "name": "cyborginc/cyborgdb-js",
-    "stars": 7,
-    "updated_at": "2026-09-29T18:08:03Z",
-    "url": "https://github.com/cyborginc/cyborgdb-js"
-  },
-  {
-    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
-    "id": "2B-4G10/NoLockQS",
-    "language": "Kotlin",
-    "name": "2B-4G10/NoLockQS",
-    "stars": 0,
-    "updated_at": "2026-09-29T17:08:17Z",
-    "url": "https://github.com/2B-4G10/NoLockQS"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-29T18:08:00Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 889,
-    "updated_at": "2026-09-29T17:10:44Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "sovereign embedded vector database, single-file .nest container with content-addressable citations, reproducible builds,",
-    "id": "hoffresearch/urna",
-    "language": "Rust",
-    "name": "hoffresearch/urna",
-    "stars": 11,
-    "updated_at": "2026-09-29T16:57:31Z",
-    "url": "https://github.com/hoffresearch/urna"
-  },
-  {
-    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
-    "id": "Artemon-line/ai-memory-hub",
-    "language": "Python",
-    "name": "Artemon-line/ai-memory-hub",
-    "stars": 2,
-    "updated_at": "2026-09-29T16:57:26Z",
-    "url": "https://github.com/Artemon-line/ai-memory-hub"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-29T16:54:04Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
-    "id": "hseshadr/edgeproc-core",
-    "language": "Python",
-    "name": "hseshadr/edgeproc-core",
-    "stars": 0,
-    "updated_at": "2026-09-29T16:53:46Z",
-    "url": "https://github.com/hseshadr/edgeproc-core"
-  },
-  {
-    "description": "AI sales agent that remembers every objection, stakeholder concern & competitive mention across enterprise deals \u2014 power",
-    "id": "grsanudeep42-cmd/dealmind",
-    "language": "TypeScript",
-    "name": "grsanudeep42-cmd/dealmind",
-    "stars": 1,
-    "updated_at": "2026-09-29T16:51:14Z",
-    "url": "https://github.com/grsanudeep42-cmd/dealmind"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) system for querying code, documentation, and project structure from GitHub reposito",
-    "id": "davidfernxndez/github-repository-rag",
-    "language": "Python",
-    "name": "davidfernxndez/github-repository-rag",
-    "stars": 0,
-    "updated_at": "2026-09-29T16:49:40Z",
-    "url": "https://github.com/davidfernxndez/github-repository-rag"
   }
 ]
