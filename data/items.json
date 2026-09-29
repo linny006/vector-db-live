@@ -1,5 +1,95 @@
 [
   {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-29T14:15:25Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Open-source, self-hosted AI gateway for multi-tenant orgs: OpenAI-compatible LLM routing, RAG & vector stores, MCP hub, ",
+    "id": "Cognipeer/console",
+    "language": "TypeScript",
+    "name": "Cognipeer/console",
+    "stars": 26,
+    "updated_at": "2026-09-29T14:11:40Z",
+    "url": "https://github.com/Cognipeer/console"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-29T14:09:06Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Offline-first edge memory on Qdrant. Hybrid retrieval in one engine call, CRDT sync with signed operations, and a determ",
+    "id": "akshatinnovate-png/AegisEdge",
+    "language": "Python",
+    "name": "akshatinnovate-png/AegisEdge",
+    "stars": 1,
+    "updated_at": "2026-09-29T14:06:45Z",
+    "url": "https://github.com/akshatinnovate-png/AegisEdge"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9314,
+    "updated_at": "2026-09-29T14:14:19Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
+    "id": "sh1v-max/AI-Backend",
+    "language": "TypeScript",
+    "name": "sh1v-max/AI-Backend",
+    "stars": 0,
+    "updated_at": "2026-09-29T14:04:37Z",
+    "url": "https://github.com/sh1v-max/AI-Backend"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16859,
+    "updated_at": "2026-09-29T14:14:00Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 288,
+    "updated_at": "2026-09-29T14:12:18Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "Production-ready RAG Framework (Python/FastAPI). 1-line config swaps: 6 Vector DBs (Weaviate, Pinecone, Qdrant, ChromaDB",
+    "id": "notadev-iamaura/OneRAG",
+    "language": "Python",
+    "name": "notadev-iamaura/OneRAG",
+    "stars": 126,
+    "updated_at": "2026-09-29T14:02:14Z",
+    "url": "https://github.com/notadev-iamaura/OneRAG"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-29T14:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +104,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2021,
-    "updated_at": "2026-09-29T13:58:39Z",
+    "updated_at": "2026-09-29T14:14:20Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -45,15 +135,6 @@
     "url": "https://github.com/emVisible/Ametrine"
   },
   {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16860,
-    "updated_at": "2026-09-29T13:56:33Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
@@ -67,7 +148,7 @@
     "id": "qdrant/skills",
     "language": "Python",
     "name": "qdrant/skills",
-    "stars": 253,
+    "stars": 254,
     "updated_at": "2026-09-29T13:55:23Z",
     "url": "https://github.com/qdrant/skills"
   },
@@ -77,7 +158,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7112,
-    "updated_at": "2026-09-29T13:57:17Z",
+    "updated_at": "2026-09-29T14:09:54Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -108,12 +189,12 @@
     "url": "https://github.com/maximilien/weave-cli"
   },
   {
-    "description": "RAG application for pharmacovigilance: ingest adverse event report PDFs and get source-cited answers. Built with FastAPI",
+    "description": "Pharmacovigilance triage assistant: drafts seriousness (ICH E2A), expectedness and causality for an adverse event report",
     "id": "nabeofchanKo/pv-rag-assistant",
     "language": "Python",
     "name": "nabeofchanKo/pv-rag-assistant",
     "stars": 0,
-    "updated_at": "2026-09-29T13:52:00Z",
+    "updated_at": "2026-09-29T14:14:43Z",
     "url": "https://github.com/nabeofchanKo/pv-rag-assistant"
   },
   {
@@ -135,31 +216,13 @@
     "url": "https://github.com/Daaboulex/openviking-nix"
   },
   {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 288,
-    "updated_at": "2026-09-29T13:50:20Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31210,
-    "updated_at": "2026-09-29T13:46:36Z",
+    "stars": 31209,
+    "updated_at": "2026-09-29T14:15:16Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-29T13:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
@@ -171,31 +234,13 @@
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-29T13:41:06Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11556,
-    "updated_at": "2026-09-29T13:38:02Z",
+    "updated_at": "2026-09-29T14:13:45Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
-    "id": "sh1v-max/AI-Backend",
-    "language": "TypeScript",
-    "name": "sh1v-max/AI-Backend",
-    "stars": 0,
-    "updated_at": "2026-09-29T13:36:30Z",
-    "url": "https://github.com/sh1v-max/AI-Backend"
   },
   {
     "description": "Natural language search for SEC filings. Fetch 10-K/10-Q/8-K from EDGAR, parse into segments, chunk text, generate GPU-a",
@@ -221,17 +266,8 @@
     "language": "Python",
     "name": "ahb-sjsu/turboquant-pro",
     "stars": 25,
-    "updated_at": "2026-09-29T13:29:23Z",
+    "updated_at": "2026-09-29T14:14:34Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
-    "description": "Powered by Qdrant Edge, AegisEdge delivers local vector search and semantic memory for air-gapped and edge environments.",
-    "id": "akshatinnovate-png/AegisEdge",
-    "language": "Python",
-    "name": "akshatinnovate-png/AegisEdge",
-    "stars": 1,
-    "updated_at": "2026-09-29T13:28:01Z",
-    "url": "https://github.com/akshatinnovate-png/AegisEdge"
   },
   {
     "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
@@ -277,6 +313,15 @@
     "stars": 3,
     "updated_at": "2026-09-29T13:18:12Z",
     "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8297,
+    "updated_at": "2026-09-29T14:12:18Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-29T12:54:53Z",
     "url": "https://github.com/vaibhav-rj/RAG-pipeline"
-  },
-  {
-    "description": "Production-grade Zero-Trust AI RAG Security Audit, Multi-Tenant Vector Chunk RBAC Isolation (Qdrant Rust OSS), Prompt In",
-    "id": "Namanbhatt-01/zero-trust-ai-rag-security-lab",
-    "language": "Python",
-    "name": "Namanbhatt-01/zero-trust-ai-rag-security-lab",
-    "stars": 0,
-    "updated_at": "2026-09-29T12:54:27Z",
-    "url": "https://github.com/Namanbhatt-01/zero-trust-ai-rag-security-lab"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9315,
-    "updated_at": "2026-09-29T13:59:20Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-09-29T12:51:39Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-09-29T12:49:40Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
-  },
-  {
-    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
-    "id": "DanieldfMedina/GenAI-Course-Repo",
-    "language": "C++",
-    "name": "DanieldfMedina/GenAI-Course-Repo",
-    "stars": 0,
-    "updated_at": "2026-09-29T12:49:04Z",
-    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
   }
 ]
