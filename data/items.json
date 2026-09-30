@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-30T01:15:22Z",
+    "updated_at": "2026-09-30T01:30:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Head of Product & Experience at Distinct AI. Official n8n creator building production-grade agentic RAG, multi-agent sys",
+    "id": "nenedesign/nenedesign",
+    "language": "\u2014",
+    "name": "nenedesign/nenedesign",
+    "stars": 0,
+    "updated_at": "2026-09-30T01:28:50Z",
+    "url": "https://github.com/nenedesign/nenedesign"
+  },
+  {
+    "description": "RAG assistant for business Q&A over document corpora. Pinecone/OpenSearch retrieval, MLflow-monitored retrieval chain, S",
+    "id": "juandsep/document-rag-assistant",
+    "language": "Python",
+    "name": "juandsep/document-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-30T01:28:04Z",
+    "url": "https://github.com/juandsep/document-rag-assistant"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8299,
+    "updated_at": "2026-09-30T01:22:59Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "A multi-user load benchmark for Long-Term Memory (LTM) systems",
+    "id": "skhynix/LTM100",
+    "language": "Python",
+    "name": "skhynix/LTM100",
+    "stars": 4,
+    "updated_at": "2026-09-30T01:22:51Z",
+    "url": "https://github.com/skhynix/LTM100"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-30T01:16:02Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-30T01:15:35Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
+    "id": "databendlabs/databend",
+    "language": "Rust",
+    "name": "databendlabs/databend",
+    "stars": 9455,
+    "updated_at": "2026-09-30T01:15:00Z",
+    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
@@ -79,15 +142,6 @@
     "stars": 10295,
     "updated_at": "2026-09-30T01:01:15Z",
     "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-30T01:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Setup Leica Infinity on Windows 10/11 64-bit with admin installer, license key, and essential workflow tools.",
@@ -167,7 +221,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9317,
-    "updated_at": "2026-09-30T01:07:55Z",
+    "updated_at": "2026-09-30T01:28:25Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -239,7 +293,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6458,
-    "updated_at": "2026-09-30T00:48:22Z",
+    "updated_at": "2026-09-30T01:19:11Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -297,6 +351,15 @@
     "url": "https://github.com/hoffresearch/urna"
   },
   {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 892,
+    "updated_at": "2026-09-30T00:42:48Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
     "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
     "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
     "language": "JavaScript",
@@ -304,15 +367,6 @@
     "stars": 2,
     "updated_at": "2026-09-30T00:41:51Z",
     "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
-    "id": "databendlabs/databend",
-    "language": "Rust",
-    "name": "databendlabs/databend",
-    "stars": 9454,
-    "updated_at": "2026-09-30T01:15:00Z",
-    "url": "https://github.com/databendlabs/databend"
   },
   {
     "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
@@ -394,59 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-30T00:29:55Z",
     "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-09-30T00:29:39Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
-    "id": "Jeroflo88/Self-Corrective-RAG",
-    "language": "Python",
-    "name": "Jeroflo88/Self-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-09-30T00:28:26Z",
-    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-30T00:26:05Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-09-30T00:25:33Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 6,
-    "updated_at": "2026-09-30T00:19:52Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-09-30T00:17:52Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
   }
 ]
