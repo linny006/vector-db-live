@@ -1,12 +1,102 @@
 [
   {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-30T13:28:35Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Retrieval-Augmented Generation (RAG) system for querying code, documentation, and project structure from GitHub reposito",
+    "id": "davidfernxndez/github-repository-rag",
+    "language": "Python",
+    "name": "davidfernxndez/github-repository-rag",
+    "stars": 0,
+    "updated_at": "2026-09-30T13:30:03Z",
+    "url": "https://github.com/davidfernxndez/github-repository-rag"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2561,
+    "updated_at": "2026-09-30T13:27:28Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
     "description": "https://github.com/Jaydeepkumar0p/RAG_AI_ASSISTANT_frontend frontend path ",
     "id": "Jaydeepkumar0p/RAG_AI_ASSISTANT",
     "language": "Python",
     "name": "Jaydeepkumar0p/RAG_AI_ASSISTANT",
     "stars": 1,
-    "updated_at": "2026-09-30T13:15:06Z",
+    "updated_at": "2026-09-30T13:27:06Z",
     "url": "https://github.com/Jaydeepkumar0p/RAG_AI_ASSISTANT"
+  },
+  {
+    "description": "Vector DB in pure JS: HNSW + BM25 hybrid search, zero dependencies",
+    "id": "therealfullmetal55555/synapse",
+    "language": "JavaScript",
+    "name": "therealfullmetal55555/synapse",
+    "stars": 1,
+    "updated_at": "2026-09-30T13:25:20Z",
+    "url": "https://github.com/therealfullmetal55555/synapse"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-30T13:20:43Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Self-hosted RAG for physics papers: autonomous arXiv research loop, cited answers, works with any LLM provider (Groq, Op",
+    "id": "mohammadjafariph/physicsrag",
+    "language": "Python",
+    "name": "mohammadjafariph/physicsrag",
+    "stars": 0,
+    "updated_at": "2026-09-30T13:19:21Z",
+    "url": "https://github.com/mohammadjafariph/physicsrag"
+  },
+  {
+    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
+    "id": "crate/crate",
+    "language": "Java",
+    "name": "crate/crate",
+    "stars": 4441,
+    "updated_at": "2026-09-30T13:18:52Z",
+    "url": "https://github.com/crate/crate"
+  },
+  {
+    "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
+    "id": "infinispan/infinispan",
+    "language": "Java",
+    "name": "infinispan/infinispan",
+    "stars": 1354,
+    "updated_at": "2026-09-30T13:16:00Z",
+    "url": "https://github.com/infinispan/infinispan"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-30T13:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T13:30:25Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -18,13 +108,13 @@
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-30T13:13:06Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34887,
+    "updated_at": "2026-09-30T13:23:38Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -59,17 +149,8 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-09-30T13:08:47Z",
+    "updated_at": "2026-09-30T13:30:09Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-09-30T13:08:46Z",
-    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
@@ -77,7 +158,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-09-30T13:08:38Z",
+    "updated_at": "2026-09-30T13:21:03Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -86,7 +167,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1170,
-    "updated_at": "2026-09-30T13:14:27Z",
+    "updated_at": "2026-09-30T13:28:07Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -95,7 +176,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12989,
-    "updated_at": "2026-09-30T13:12:40Z",
+    "updated_at": "2026-09-30T13:30:15Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -115,33 +196,6 @@
     "stars": 2,
     "updated_at": "2026-09-30T13:02:51Z",
     "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
-  },
-  {
-    "description": "Sub-millisecond in-memory vector database, HNSW skip-graph indexer & hybrid BM25 lexical retriever for autonomous edge A",
-    "id": "therealfullmetal55555/synapse",
-    "language": "JavaScript",
-    "name": "therealfullmetal55555/synapse",
-    "stars": 1,
-    "updated_at": "2026-09-30T13:01:47Z",
-    "url": "https://github.com/therealfullmetal55555/synapse"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-30T13:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T13:15:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
@@ -167,7 +221,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7114,
-    "updated_at": "2026-09-30T13:11:24Z",
+    "updated_at": "2026-09-30T13:26:00Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -176,7 +230,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-09-30T13:12:12Z",
+    "updated_at": "2026-09-30T13:30:06Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -207,6 +261,15 @@
     "url": "https://github.com/andrestubbe/FastAIVectorDB"
   },
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13180,
+    "updated_at": "2026-09-30T12:39:22Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
     "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
     "id": "Amz34/awesome-agent-infrastructure",
     "language": "Python",
@@ -216,15 +279,6 @@
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
   },
   {
-    "description": "Self-hosted RAG for physics papers: autonomous arXiv research loop, cited answers, works with any LLM provider (Groq, Op",
-    "id": "mohammadjafariph/physicsrag",
-    "language": "Python",
-    "name": "mohammadjafariph/physicsrag",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:35:00Z",
-    "url": "https://github.com/mohammadjafariph/physicsrag"
-  },
-  {
     "description": "Answers METU  regulation questions using only the official text, always citing the article \u2014 RAG + agent loop on NVIDIA ",
     "id": "ygtbekar/campus-regulations-agent",
     "language": "Python",
@@ -232,15 +286,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T12:33:31Z",
     "url": "https://github.com/ygtbekar/campus-regulations-agent"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2561,
-    "updated_at": "2026-09-30T13:11:46Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
@@ -328,18 +373,9 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31233,
+    "stars": 31234,
     "updated_at": "2026-09-30T12:13:31Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34886,
-    "updated_at": "2026-09-30T13:13:33Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Enterprise SaaS platform for AI agent communication inspired by fungal mycelia. Agents exchange knowledge through semant",
@@ -400,7 +436,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46284,
+    "stars": 46285,
     "updated_at": "2026-09-30T11:37:37Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T11:27:05Z",
     "url": "https://github.com/abhisheklakhani-it/semantic-search-api"
-  },
-  {
-    "description": "Claude (Anthropic) API asosida qurilgan to'liq AI Engineering loyihasi \u2014 LLM fundamentals'dan production-ready RAG chatb",
-    "id": "mirzajalilovravshanbek/llm-project",
-    "language": "Python",
-    "name": "mirzajalilovravshanbek/llm-project",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:19:25Z",
-    "url": "https://github.com/mirzajalilovravshanbek/llm-project"
-  },
-  {
-    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
-    "id": "Shitless-jnr3697/rebasis",
-    "language": "Python",
-    "name": "Shitless-jnr3697/rebasis",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:14:13Z",
-    "url": "https://github.com/Shitless-jnr3697/rebasis"
-  },
-  {
-    "description": "Retrieval-Augmented Generation (RAG) system for querying code, documentation, and project structure from GitHub reposito",
-    "id": "davidfernxndez/github-repository-rag",
-    "language": "Python",
-    "name": "davidfernxndez/github-repository-rag",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:15:27Z",
-    "url": "https://github.com/davidfernxndez/github-repository-rag"
-  },
-  {
-    "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
-    "id": "boulif781/enterprise-knowledge-assistant",
-    "language": "\u2014",
-    "name": "boulif781/enterprise-knowledge-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:12:39Z",
-    "url": "https://github.com/boulif781/enterprise-knowledge-assistant"
   }
 ]
