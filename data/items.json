@@ -1,11 +1,110 @@
 [
   {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-09-30T20:12:50Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1975,
+    "updated_at": "2026-09-30T20:11:53Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "Hybrid-search RAG API for asking questions about Proust's Du c\u00f4t\u00e9 de chez Swann. Semantic + exact-term retrieval, answer",
+    "id": "anchsk/proust-rag",
+    "language": "Python",
+    "name": "anchsk/proust-rag",
+    "stars": 0,
+    "updated_at": "2026-09-30T20:11:31Z",
+    "url": "https://github.com/anchsk/proust-rag"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-30T20:10:46Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-30T20:07:27Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1171,
+    "updated_at": "2026-09-30T20:12:05Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-09-30T20:13:22Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
+    "id": "n9524726-star/chatpdf-rag",
+    "language": "Python",
+    "name": "n9524726-star/chatpdf-rag",
+    "stars": 0,
+    "updated_at": "2026-09-30T20:01:46Z",
+    "url": "https://github.com/n9524726-star/chatpdf-rag"
+  },
+  {
+    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
+    "id": "sarthaksinha2600/LLM-Contract",
+    "language": "\u2014",
+    "name": "sarthaksinha2600/LLM-Contract",
+    "stars": 0,
+    "updated_at": "2026-09-30T20:01:26Z",
+    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
+  },
+  {
+    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
+    "id": "Shitless-jnr3697/rebasis",
+    "language": "Python",
+    "name": "Shitless-jnr3697/rebasis",
+    "stars": 0,
+    "updated_at": "2026-09-30T20:00:32Z",
+    "url": "https://github.com/Shitless-jnr3697/rebasis"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-30T20:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-30T20:00:22Z",
+    "updated_at": "2026-09-30T20:15:26Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -54,15 +153,6 @@
     "url": "https://github.com/jourdaninorder609/mind-query"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-30T19:50:57Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Sync persistent memory across your AI tools and agents using a unified MCP server.",
     "id": "jefffergunson118-beep/smara",
     "language": "\u2014",
@@ -106,24 +196,6 @@
     "stars": 11,
     "updated_at": "2026-09-30T19:53:06Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1171,
-    "updated_at": "2026-09-30T19:58:07Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-09-30T19:47:18Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   },
   {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
@@ -198,6 +270,15 @@
     "url": "https://github.com/FIRE-hub911/citation-assistant"
   },
   {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13184,
+    "updated_at": "2026-09-30T19:38:46Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
     "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
     "id": "K3Tamaa/Vector-Forge",
     "language": "\u2014",
@@ -232,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T19:35:59Z",
     "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-30T19:35:49Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
@@ -338,17 +410,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9317,
-    "updated_at": "2026-09-30T19:53:43Z",
+    "updated_at": "2026-09-30T20:09:52Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Hybrid-search RAG API for asking questions about Proust's Du c\u00f4t\u00e9 de chez Swann. Semantic + exact-term retrieval, answer",
-    "id": "anchsk/proust-rag",
-    "language": "Python",
-    "name": "anchsk/proust-rag",
-    "stars": 0,
-    "updated_at": "2026-09-30T19:13:30Z",
-    "url": "https://github.com/anchsk/proust-rag"
   },
   {
     "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
@@ -385,68 +448,5 @@
     "stars": 2025,
     "updated_at": "2026-09-30T19:09:24Z",
     "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "A collection of small C++ projects to practice loops, functions, and core programming concepts.",
-    "id": "Codewithagares/cpp-projects",
-    "language": "C++",
-    "name": "Codewithagares/cpp-projects",
-    "stars": 0,
-    "updated_at": "2026-09-30T19:05:53Z",
-    "url": "https://github.com/Codewithagares/cpp-projects"
-  },
-  {
-    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
-    "id": "thekaveh/atlas",
-    "language": "Python",
-    "name": "thekaveh/atlas",
-    "stars": 3,
-    "updated_at": "2026-09-30T19:06:49Z",
-    "url": "https://github.com/thekaveh/atlas"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6461,
-    "updated_at": "2026-09-30T19:59:24Z",
-    "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31244,
-    "updated_at": "2026-09-30T19:02:30Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "High-performance, SIMD-accelerated vector search engine and MCP server for .NET 10. Optimized for LLM embeddings and sem",
-    "id": "ian-cowley/Glacier.Vector",
-    "language": "C#",
-    "name": "ian-cowley/Glacier.Vector",
-    "stars": 6,
-    "updated_at": "2026-09-30T18:59:32Z",
-    "url": "https://github.com/ian-cowley/Glacier.Vector"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-30T19:42:40Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 352,
-    "updated_at": "2026-09-30T18:54:11Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
