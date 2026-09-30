@@ -5,8 +5,80 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-30T18:15:24Z",
+    "updated_at": "2026-09-30T18:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
+    "id": "cyborginc/cyborgdb-py",
+    "language": "Python",
+    "name": "cyborginc/cyborgdb-py",
+    "stars": 8,
+    "updated_at": "2026-09-30T18:25:52Z",
+    "url": "https://github.com/cyborginc/cyborgdb-py"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-30T18:25:03Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 7,
+    "updated_at": "2026-09-30T18:25:16Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "Self-hosted RAG for physics papers: autonomous arXiv research loop, cited answers, works with any LLM provider (Groq, Op",
+    "id": "mohammadjafariph/physicsrag",
+    "language": "Python",
+    "name": "mohammadjafariph/physicsrag",
+    "stars": 1,
+    "updated_at": "2026-09-30T18:23:09Z",
+    "url": "https://github.com/mohammadjafariph/physicsrag"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-09-30T18:22:04Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-30T18:21:14Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "A Retrieval-Augmented Generation system that searches, retrieves, and answers questions from academic paper abstracts on",
+    "id": "BiswasNehaa/Astra",
+    "language": "Python",
+    "name": "BiswasNehaa/Astra",
+    "stars": 1,
+    "updated_at": "2026-09-30T18:17:23Z",
+    "url": "https://github.com/BiswasNehaa/Astra"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-30T18:15:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "An embedded Rust database with PostgreSQL and Redis protocols, native search, vectors and offline sync\u2014from browser to c",
@@ -36,21 +108,12 @@
     "url": "https://github.com/asimansari-git/teaching-loop"
   },
   {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-09-30T18:12:50Z",
-    "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-09-30T18:09:49Z",
+    "updated_at": "2026-09-30T18:30:15Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -72,24 +135,6 @@
     "url": "https://github.com/VarunRathore137/ZENO-Agent"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-30T18:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 7,
-    "updated_at": "2026-09-30T18:12:34Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
     "description": "Profile README",
     "id": "rehan243/rehan243",
     "language": "\u2014",
@@ -104,17 +149,8 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-09-30T17:57:33Z",
+    "updated_at": "2026-09-30T18:24:04Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-30T18:10:53Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
@@ -149,17 +185,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1171,
-    "updated_at": "2026-09-30T18:09:57Z",
+    "updated_at": "2026-09-30T18:22:47Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Self-hosted RAG for physics papers: autonomous arXiv research loop, cited answers, works with any LLM provider (Groq, Op",
-    "id": "mohammadjafariph/physicsrag",
-    "language": "Python",
-    "name": "mohammadjafariph/physicsrag",
-    "stars": 1,
-    "updated_at": "2026-09-30T17:45:46Z",
-    "url": "https://github.com/mohammadjafariph/physicsrag"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -167,7 +194,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2563,
-    "updated_at": "2026-09-30T17:42:15Z",
+    "updated_at": "2026-09-30T18:27:27Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -178,15 +205,6 @@
     "stars": 24,
     "updated_at": "2026-09-30T17:42:39Z",
     "url": "https://github.com/rhenus-Q/Enterprise-Agentic-RAG"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-30T17:38:41Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
@@ -203,7 +221,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8305,
-    "updated_at": "2026-09-30T18:07:54Z",
+    "updated_at": "2026-09-30T18:17:40Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -212,7 +230,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9317,
-    "updated_at": "2026-09-30T18:05:57Z",
+    "updated_at": "2026-09-30T18:30:25Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -230,7 +248,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6460,
-    "updated_at": "2026-09-30T18:09:43Z",
+    "updated_at": "2026-09-30T18:21:14Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -283,7 +301,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66628,
+    "stars": 66629,
     "updated_at": "2026-09-30T16:59:54Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -302,7 +320,7 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2025,
-    "updated_at": "2026-09-30T16:50:50Z",
+    "updated_at": "2026-09-30T18:24:47Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
@@ -338,7 +356,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31240,
-    "updated_at": "2026-09-30T16:36:54Z",
+    "updated_at": "2026-09-30T18:20:43Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T16:17:12Z",
     "url": "https://github.com/Mahee-Jain123/Ai-study-assistant"
-  },
-  {
-    "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
-    "id": "jourdaninorder609/mind-query",
-    "language": "TypeScript",
-    "name": "jourdaninorder609/mind-query",
-    "stars": 0,
-    "updated_at": "2026-09-30T16:16:59Z",
-    "url": "https://github.com/jourdaninorder609/mind-query"
-  },
-  {
-    "description": "Legal AI platform with RAG over client documents, ground-truth evals for legal answer quality, structured document analy",
-    "id": "yagosamu/juri_ai",
-    "language": "Python",
-    "name": "yagosamu/juri_ai",
-    "stars": 0,
-    "updated_at": "2026-09-30T16:16:03Z",
-    "url": "https://github.com/yagosamu/juri_ai"
   }
 ]
