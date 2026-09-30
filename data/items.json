@@ -1,11 +1,74 @@
 [
   {
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1629,
+    "updated_at": "2026-09-30T07:27:41Z",
+    "url": "https://github.com/pixeltable/pixeltable"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-09-30T07:26:59Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7114,
+    "updated_at": "2026-09-30T07:25:51Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-09-30T07:20:31Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-30T07:18:04Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-30T07:16:42Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-30T07:15:32Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-30T07:15:24Z",
+    "updated_at": "2026-09-30T07:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +86,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1170,
-    "updated_at": "2026-09-30T07:11:28Z",
+    "updated_at": "2026-09-30T07:24:28Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -36,21 +99,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-30T07:00:29Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
     "id": "iberi22/xavier",
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-30T06:58:36Z",
+    "updated_at": "2026-09-30T07:18:54Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -67,18 +121,9 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 3572,
+    "stars": 3571,
     "updated_at": "2026-09-30T06:56:51Z",
     "url": "https://github.com/Ontos-AI/knowhere"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-30T06:54:31Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A facade over vector databases \u2014 one interface, ~15 backends",
@@ -104,7 +149,7 @@
     "language": "Go",
     "name": "milvus-io/milvus",
     "stars": 46284,
-    "updated_at": "2026-09-30T06:39:36Z",
+    "updated_at": "2026-09-30T07:19:38Z",
     "url": "https://github.com/milvus-io/milvus"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9316,
-    "updated_at": "2026-09-30T06:57:42Z",
+    "updated_at": "2026-09-30T07:24:38Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -223,15 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T06:24:34Z",
     "url": "https://github.com/impressionable-pyrrhotite668/adaptive-multistage-rag-system"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-09-30T06:21:26Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
   },
   {
     "description": "Build an agentic RAG document QA system with multi-user support, hybrid retrieval, reranking, and LangGraph workflows fo",
@@ -396,15 +432,6 @@
     "url": "https://github.com/23skdu/longbow"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-09-30T07:12:01Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
     "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
     "id": "surajkumarnavodya/text-to-sql-agent-langgraph",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-30T06:09:48Z",
     "url": "https://github.com/Nikhil-creat/llmops-nexus"
-  },
-  {
-    "description": "",
-    "id": "AymanAbusura/Construct_QABot_that_Leverages_LangChain_and_LLMs_to_Answer_Questions_from_Loaded_Documents",
-    "language": "Python",
-    "name": "AymanAbusura/Construct_QABot_that_Leverages_LangChain_and_LLMs_to_Answer_Questions_from_Loaded_Documents",
-    "stars": 0,
-    "updated_at": "2026-09-30T06:08:45Z",
-    "url": "https://github.com/AymanAbusura/Construct_QABot_that_Leverages_LangChain_and_LLMs_to_Answer_Questions_from_Loaded_Documents"
-  },
-  {
-    "description": "Chat with your PDFs and get answers grounded strictly in the document \u2014 MMR retrieval over Chroma + Qwen 2.5 7B, FastAPI",
-    "id": "daivraval/neura-rag-chat",
-    "language": "Python",
-    "name": "daivraval/neura-rag-chat",
-    "stars": 0,
-    "updated_at": "2026-09-30T06:08:25Z",
-    "url": "https://github.com/daivraval/neura-rag-chat"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-09-30T06:06:56Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
   }
 ]
