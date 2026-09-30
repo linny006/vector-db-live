@@ -1,5 +1,104 @@
 [
   {
+    "description": "Self-hosted RAG for physics papers: autonomous arXiv research loop, cited answers, works with any LLM provider (Groq, Op",
+    "id": "mohammadjafariph/physicsrag",
+    "language": "Python",
+    "name": "mohammadjafariph/physicsrag",
+    "stars": 1,
+    "updated_at": "2026-09-30T17:45:46Z",
+    "url": "https://github.com/mohammadjafariph/physicsrag"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T17:45:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2563,
+    "updated_at": "2026-09-30T17:42:15Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Self-correcting Agentic RAG for enterprise document Q&A, built with LangGraph, Chroma, OpenAI/Ollama, Tavily, FastAPI, a",
+    "id": "rhenus-Q/Enterprise-Agentic-RAG",
+    "language": "Python",
+    "name": "rhenus-Q/Enterprise-Agentic-RAG",
+    "stars": 24,
+    "updated_at": "2026-09-30T17:42:39Z",
+    "url": "https://github.com/rhenus-Q/Enterprise-Agentic-RAG"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-09-30T17:43:22Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-09-30T17:38:41Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-09-30T17:38:20Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-30T17:37:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9317,
+    "updated_at": "2026-09-30T17:43:01Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-30T17:35:26Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-30T17:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Beyond Dumb Retrieval: A hybrid Graph-Vector AI engine that runs 100% locally on Apple Silicon, combining Knowledge Grap",
     "id": "RishabhMathur06/CASO-RAG",
     "language": "Python",
@@ -14,7 +113,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6460,
-    "updated_at": "2026-09-30T17:24:46Z",
+    "updated_at": "2026-09-30T17:45:35Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -32,17 +131,8 @@
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 8,
-    "updated_at": "2026-09-30T17:22:46Z",
+    "updated_at": "2026-09-30T17:41:00Z",
     "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-09-30T17:22:08Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -54,24 +144,6 @@
     "url": "https://github.com/structured-world/coordinode"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-30T17:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T17:30:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Minimal RAG pipeline for a support knowledge base using TypeScript, LangChain, Groq, Ollama, and Pinecone.",
     "id": "nikitabathla/support-rag",
     "language": "TypeScript",
@@ -79,33 +151,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T17:15:05Z",
     "url": "https://github.com/nikitabathla/support-rag"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-09-30T17:13:55Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-09-30T17:15:19Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-30T17:08:19Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "The Oracle LangChain integration provides official LangChain support for Oracle\u2019s Generative AI and AI Platform services",
@@ -135,15 +180,6 @@
     "url": "https://github.com/neuml/txtai"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9317,
-    "updated_at": "2026-09-30T17:27:32Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
     "id": "Yacine-ai-tech/IntelAI",
     "language": "Python",
@@ -157,18 +193,18 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66626,
+    "stars": 66627,
     "updated_at": "2026-09-30T16:59:54Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2563,
-    "updated_at": "2026-09-30T16:57:37Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
+    "id": "pixeltable/pixeltable",
+    "language": "Python",
+    "name": "pixeltable/pixeltable",
+    "stars": 1631,
+    "updated_at": "2026-09-30T16:58:23Z",
+    "url": "https://github.com/pixeltable/pixeltable"
   },
   {
     "description": "Realtime multimodal AI agent with voice streaming, RAG memory, and autonomous workflows",
@@ -185,7 +221,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1171,
-    "updated_at": "2026-09-30T17:29:12Z",
+    "updated_at": "2026-09-30T17:41:16Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -241,15 +277,6 @@
     "stars": 4,
     "updated_at": "2026-09-30T16:44:53Z",
     "url": "https://github.com/araray/llmcore"
-  },
-  {
-    "description": "Self-hosted RAG for physics papers: autonomous arXiv research loop, cited answers, works with any LLM provider (Groq, Op",
-    "id": "mohammadjafariph/physicsrag",
-    "language": "Python",
-    "name": "mohammadjafariph/physicsrag",
-    "stars": 1,
-    "updated_at": "2026-09-30T16:34:34Z",
-    "url": "https://github.com/mohammadjafariph/physicsrag"
   },
   {
     "description": "RAG",
@@ -410,7 +437,7 @@
     "language": "Python",
     "name": "AgentToolkit/altk-evolve",
     "stars": 118,
-    "updated_at": "2026-09-30T17:25:30Z",
+    "updated_at": "2026-09-30T17:44:58Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T16:07:04Z",
     "url": "https://github.com/Boney-massiveness357/ragscope"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-09-30T16:06:52Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
-    "id": "meilisearch/meilisearch",
-    "language": "Rust",
-    "name": "meilisearch/meilisearch",
-    "stars": 59446,
-    "updated_at": "2026-09-30T16:04:47Z",
-    "url": "https://github.com/meilisearch/meilisearch"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-09-30T16:03:49Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
   }
 ]
