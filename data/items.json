@@ -1,12 +1,39 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T23:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-30T23:36:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1172,
+    "updated_at": "2026-09-30T23:42:31Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9317,
+    "updated_at": "2026-09-30T23:45:21Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 7,
+    "updated_at": "2026-09-30T23:33:08Z",
+    "url": "https://github.com/FraiseHQ/fraise"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -14,8 +41,17 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-09-30T23:29:30Z",
+    "updated_at": "2026-09-30T23:30:25Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T23:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++",
@@ -45,15 +81,6 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 7,
-    "updated_at": "2026-09-30T23:21:09Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
     "id": "fenecdb/fenec",
     "language": "Rust",
@@ -61,15 +88,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T23:14:57Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-30T23:08:24Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -86,7 +104,7 @@
     "language": "Python",
     "name": "imagodata/filter_mate",
     "stars": 5,
-    "updated_at": "2026-09-30T23:06:07Z",
+    "updated_at": "2026-09-30T23:44:03Z",
     "url": "https://github.com/imagodata/filter_mate"
   },
   {
@@ -104,7 +122,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31246,
-    "updated_at": "2026-09-30T23:07:01Z",
+    "updated_at": "2026-09-30T23:35:48Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -167,7 +185,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-09-30T23:16:46Z",
+    "updated_at": "2026-09-30T23:37:42Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -176,7 +194,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2569,
-    "updated_at": "2026-09-30T23:04:48Z",
+    "updated_at": "2026-09-30T23:41:51Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -230,7 +248,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8306,
-    "updated_at": "2026-09-30T21:53:11Z",
+    "updated_at": "2026-09-30T23:31:34Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -259,15 +277,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T21:47:56Z",
     "url": "https://github.com/doriapt53/spring-manifold-next-gen"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1172,
-    "updated_at": "2026-09-30T23:26:50Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Convert natural language into SQL and MQL queries for PostgreSQL, MySQL, SQL Server, and MongoDB using an MCP-enabled ag",
@@ -358,15 +367,6 @@
     "stars": 62,
     "updated_at": "2026-09-30T21:34:01Z",
     "url": "https://github.com/oracle/langchain-oracle"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9317,
-    "updated_at": "2026-09-30T23:28:03Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
