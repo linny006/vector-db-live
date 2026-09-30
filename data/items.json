@@ -1,5 +1,95 @@
 [
   {
+    "description": "Version-aware RAG assistant for telecom NOC engineers: pick the equipment and software release, describe the outage, get",
+    "id": "Naman1369/telecom-runbook-rag",
+    "language": "Python",
+    "name": "Naman1369/telecom-runbook-rag",
+    "stars": 0,
+    "updated_at": "2026-09-30T09:28:21Z",
+    "url": "https://github.com/Naman1369/telecom-runbook-rag"
+  },
+  {
+    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
+    "id": "HelixDB/helix-db",
+    "language": "Rust",
+    "name": "HelixDB/helix-db",
+    "stars": 6105,
+    "updated_at": "2026-09-30T09:27:52Z",
+    "url": "https://github.com/HelixDB/helix-db"
+  },
+  {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-09-30T09:25:13Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "AI intelligent customer service built with SpringBoot, supports RAG knowledge base and LLM dialogue for enterprise priva",
+    "id": "HuangRenhui/ai-cs-parent",
+    "language": "Java",
+    "name": "HuangRenhui/ai-cs-parent",
+    "stars": 1,
+    "updated_at": "2026-09-30T09:23:37Z",
+    "url": "https://github.com/HuangRenhui/ai-cs-parent"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13180,
+    "updated_at": "2026-09-30T09:18:00Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
+    "id": "sarthaksinha2600/LLM-Contract",
+    "language": "\u2014",
+    "name": "sarthaksinha2600/LLM-Contract",
+    "stars": 0,
+    "updated_at": "2026-09-30T09:17:40Z",
+    "url": "https://github.com/sarthaksinha2600/LLM-Contract"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1170,
+    "updated_at": "2026-09-30T09:16:56Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Measure, bridge, and migrate embedding upgrades safely without reindexing\u2014know when it's worth it and do it without down",
+    "id": "Shitless-jnr3697/rebasis",
+    "language": "Python",
+    "name": "Shitless-jnr3697/rebasis",
+    "stars": 0,
+    "updated_at": "2026-09-30T09:16:49Z",
+    "url": "https://github.com/Shitless-jnr3697/rebasis"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-30T09:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T09:30:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
     "id": "boulif781/enterprise-knowledge-assistant",
     "language": "\u2014",
@@ -25,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T09:14:28Z",
     "url": "https://github.com/YunanJeong/rag-git-docs"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1170,
-    "updated_at": "2026-09-30T09:14:13Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "A minimal RAG (Retrieval-Augmented Generation) pipeline built from scratch in Python, without LangChain. Uses sentence-t",
@@ -104,7 +185,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-30T09:06:55Z",
+    "updated_at": "2026-09-30T09:22:02Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -169,24 +250,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T09:00:34Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-30T09:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T09:15:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
@@ -302,7 +365,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16859,
-    "updated_at": "2026-09-30T09:14:41Z",
+    "updated_at": "2026-09-30T09:29:38Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -338,7 +401,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34885,
-    "updated_at": "2026-09-30T09:12:44Z",
+    "updated_at": "2026-09-30T09:26:26Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -385,68 +448,5 @@
     "stars": 2,
     "updated_at": "2026-09-30T08:41:41Z",
     "url": "https://github.com/AkashKundu114/COPPER"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-09-30T08:39:04Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2108,
-    "updated_at": "2026-09-30T08:37:43Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "The documentation repo for Weaviate Database, Cloud, Agents and much more!",
-    "id": "weaviate/docs",
-    "language": "Python",
-    "name": "weaviate/docs",
-    "stars": 20,
-    "updated_at": "2026-09-30T08:55:36Z",
-    "url": "https://github.com/weaviate/docs"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-09-30T08:33:54Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Awesome list of retrieval-augmented generation (RAG) resources: frameworks, vector databases, embeddings, chunking, rera",
-    "id": "Awesome-llms-labs/awesome-rag",
-    "language": "\u2014",
-    "name": "Awesome-llms-labs/awesome-rag",
-    "stars": 0,
-    "updated_at": "2026-09-30T08:33:21Z",
-    "url": "https://github.com/Awesome-llms-labs/awesome-rag"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 10,
-    "updated_at": "2026-09-30T08:33:16Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
-    "id": "Mehdi138534/ai-news-scraper",
-    "language": "HTML",
-    "name": "Mehdi138534/ai-news-scraper",
-    "stars": 0,
-    "updated_at": "2026-09-30T08:31:29Z",
-    "url": "https://github.com/Mehdi138534/ai-news-scraper"
   }
 ]
