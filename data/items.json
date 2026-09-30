@@ -1,5 +1,86 @@
 [
   {
+    "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-09-30T14:44:31Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6460,
+    "updated_at": "2026-09-30T14:41:53Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-30T14:40:58Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2562,
+    "updated_at": "2026-09-30T14:40:44Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Clinical Multi-Agent RAG Assistant powered by LangChain, Pinecone (23,000+ medical textbook passages), and a resilient 3",
+    "id": "mearslanahmed/medquery",
+    "language": "Jupyter Notebook",
+    "name": "mearslanahmed/medquery",
+    "stars": 0,
+    "updated_at": "2026-09-30T14:36:58Z",
+    "url": "https://github.com/mearslanahmed/medquery"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16859,
+    "updated_at": "2026-09-30T14:42:26Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 352,
+    "updated_at": "2026-09-30T14:34:04Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-30T14:30:38Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
+    "id": "n9524726-star/chatpdf-rag",
+    "language": "Python",
+    "name": "n9524726-star/chatpdf-rag",
+    "stars": 0,
+    "updated_at": "2026-09-30T14:30:30Z",
+    "url": "https://github.com/n9524726-star/chatpdf-rag"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -34,6 +115,15 @@
     "stars": 0,
     "updated_at": "2026-09-30T14:29:19Z",
     "url": "https://github.com/Shitless-jnr3697/rebasis"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31236,
+    "updated_at": "2026-09-30T14:28:38Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
@@ -140,7 +230,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-09-30T14:26:28Z",
+    "updated_at": "2026-09-30T14:42:45Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -151,15 +241,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T14:15:46Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-30T14:15:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Python Client SDK for CyborgDB: The Encrypted Vector Database",
@@ -194,7 +275,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1171,
-    "updated_at": "2026-09-30T14:29:23Z",
+    "updated_at": "2026-09-30T14:34:44Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -223,15 +304,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T14:11:45Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-30T14:10:18Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Lightweight locally run system to improve agentic AI information retrieval . Multilingual and supports images, graphs, s",
@@ -275,7 +347,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 892,
-    "updated_at": "2026-09-30T14:07:00Z",
+    "updated_at": "2026-09-30T14:39:36Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -369,15 +441,6 @@
     "url": "https://github.com/Tribrix23/CleaveDB"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31237,
-    "updated_at": "2026-09-30T14:28:38Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
     "id": "regabbb22/Flipkart-Product-Recommender-RAG",
     "language": "Python",
@@ -385,68 +448,5 @@
     "stars": 3,
     "updated_at": "2026-09-30T13:58:49Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "Asistente de IA conversacional desarrollado en Spring Boot 3.3 (Java 21) y LangChain4j. Integra modelos LLM de Groq, cap",
-    "id": "cris959/langchain4j-hacka-team9",
-    "language": "Java",
-    "name": "cris959/langchain4j-hacka-team9",
-    "stars": 0,
-    "updated_at": "2026-09-30T13:58:45Z",
-    "url": "https://github.com/cris959/langchain4j-hacka-team9"
-  },
-  {
-    "description": "CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, ",
-    "id": "crate/crate",
-    "language": "Java",
-    "name": "crate/crate",
-    "stars": 4441,
-    "updated_at": "2026-09-30T13:59:47Z",
-    "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-09-30T13:57:20Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "Website for the Weaviate vector database",
-    "id": "weaviate/weaviate-io",
-    "language": "MDX",
-    "name": "weaviate/weaviate-io",
-    "stars": 89,
-    "updated_at": "2026-09-30T14:27:40Z",
-    "url": "https://github.com/weaviate/weaviate-io"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-09-30T13:55:33Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2562,
-    "updated_at": "2026-09-30T13:53:43Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
-    "id": "arpan10000/simple-rag-pipeline-demo",
-    "language": "Jupyter Notebook",
-    "name": "arpan10000/simple-rag-pipeline-demo",
-    "stars": 2,
-    "updated_at": "2026-09-30T13:50:42Z",
-    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
   }
 ]
