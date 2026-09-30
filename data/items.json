@@ -1,21 +1,57 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "Self-hosted RAG for physics papers: autonomous arXiv research loop, cited answers, works with any LLM provider (Groq, Op",
+    "id": "mohammadjafariph/physicsrag",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T11:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "mohammadjafariph/physicsrag",
+    "stars": 0,
+    "updated_at": "2026-09-30T11:59:41Z",
+    "url": "https://github.com/mohammadjafariph/physicsrag"
   },
   {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
     "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6242,
-    "updated_at": "2026-09-30T11:45:05Z",
-    "url": "https://github.com/RediSearch/RediSearch"
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-30T11:59:27Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-09-30T11:59:18Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Answers METU NCC regulation questions using only the official text, always citing the article \u2014 RAG + agent loop on NVID",
+    "id": "ygtbekar/campus-regulations-agent",
+    "language": "Python",
+    "name": "ygtbekar/campus-regulations-agent",
+    "stars": 0,
+    "updated_at": "2026-09-30T11:54:25Z",
+    "url": "https://github.com/ygtbekar/campus-regulations-agent"
+  },
+  {
+    "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
+    "id": "boddetijayanth22/Enterprise-Knowledge-Assistant",
+    "language": "Python",
+    "name": "boddetijayanth22/Enterprise-Knowledge-Assistant",
+    "stars": 2,
+    "updated_at": "2026-09-30T11:52:49Z",
+    "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
+  },
+  {
+    "description": "Persistent Memory Architecture in Agents Using DBMS \u2014 a review paper measuring ten agent-memory architectures against Po",
+    "id": "HKTITAN/dbms-agent-memory",
+    "language": "TypeScript",
+    "name": "HKTITAN/dbms-agent-memory",
+    "stars": 0,
+    "updated_at": "2026-09-30T11:48:57Z",
+    "url": "https://github.com/HKTITAN/dbms-agent-memory"
   },
   {
     "description": "",
@@ -23,8 +59,53 @@
     "language": "Python",
     "name": "Jaydeepkumar0p/RAG_AI_ASSISTANT",
     "stars": 1,
-    "updated_at": "2026-09-30T11:44:24Z",
+    "updated_at": "2026-09-30T11:46:57Z",
     "url": "https://github.com/Jaydeepkumar0p/RAG_AI_ASSISTANT"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 84,
+    "updated_at": "2026-09-30T11:46:43Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6242,
+    "updated_at": "2026-09-30T11:53:44Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-30T11:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "",
+    "id": "roshnn-sahu/Documate-AI",
+    "language": "TypeScript",
+    "name": "roshnn-sahu/Documate-AI",
+    "stars": 1,
+    "updated_at": "2026-09-30T11:45:22Z",
+    "url": "https://github.com/roshnn-sahu/Documate-AI"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T12:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Context intelligence layer for LLM agents: persistent memory with write-time dedup, sensitivity tagging, conflict detect",
@@ -41,7 +122,7 @@
     "language": "Python",
     "name": "neuml/txtai",
     "stars": 12990,
-    "updated_at": "2026-09-30T11:41:03Z",
+    "updated_at": "2026-09-30T11:47:51Z",
     "url": "https://github.com/neuml/txtai"
   },
   {
@@ -54,6 +135,15 @@
     "url": "https://github.com/saasmodularframework/ai-application-layer"
   },
   {
+    "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+    "id": "milvus-io/milvus",
+    "language": "Go",
+    "name": "milvus-io/milvus",
+    "stars": 46285,
+    "updated_at": "2026-09-30T11:37:37Z",
+    "url": "https://github.com/milvus-io/milvus"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -61,15 +151,6 @@
     "stars": 4,
     "updated_at": "2026-09-30T11:37:12Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Self-hosted RAG for physics papers: autonomous arXiv research loop, cited answers, works with any LLM provider (Groq, Op",
-    "id": "mohammadjafariph/physicsrag",
-    "language": "Python",
-    "name": "mohammadjafariph/physicsrag",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:34:52Z",
-    "url": "https://github.com/mohammadjafariph/physicsrag"
   },
   {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
@@ -81,15 +162,6 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-30T11:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
@@ -97,15 +169,6 @@
     "stars": 11,
     "updated_at": "2026-09-30T11:29:34Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Persistent Memory Architecture in Agents Using DBMS \u2014 a review paper measuring ten agent-memory architectures against Po",
-    "id": "HKTITAN/dbms-agent-memory",
-    "language": "TypeScript",
-    "name": "HKTITAN/dbms-agent-memory",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:27:41Z",
-    "url": "https://github.com/HKTITAN/dbms-agent-memory"
   },
   {
     "description": "Production-style semantic search API: FastAPI + Qdrant, hybrid dense + BM25 retrieval, optional cross-encoder reranking,",
@@ -122,7 +185,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7114,
-    "updated_at": "2026-09-30T11:25:48Z",
+    "updated_at": "2026-09-30T11:53:31Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -131,17 +194,8 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-09-30T11:31:24Z",
+    "updated_at": "2026-09-30T11:52:30Z",
     "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:24:21Z",
-    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -360,15 +414,6 @@
     "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
   },
   {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-09-30T10:32:50Z",
-    "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
     "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
     "id": "hesamaria/rag-chatbot",
     "language": "Python",
@@ -403,50 +448,5 @@
     "stars": 1,
     "updated_at": "2026-09-30T10:25:22Z",
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
-  },
-  {
-    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
-    "id": "YunanJeong/rag-git-docs",
-    "language": "Python",
-    "name": "YunanJeong/rag-git-docs",
-    "stars": 0,
-    "updated_at": "2026-09-30T10:14:12Z",
-    "url": "https://github.com/YunanJeong/rag-git-docs"
-  },
-  {
-    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
-    "id": "doobidoo/mcp-memory-service",
-    "language": "Python",
-    "name": "doobidoo/mcp-memory-service",
-    "stars": 1974,
-    "updated_at": "2026-09-30T10:15:18Z",
-    "url": "https://github.com/doobidoo/mcp-memory-service"
-  },
-  {
-    "description": "Self-hosted semantic code search. Index repos and knowledge sources into a local vector DB, then search by natural langu",
-    "id": "siaarzh/scrybe",
-    "language": "TypeScript",
-    "name": "siaarzh/scrybe",
-    "stars": 3,
-    "updated_at": "2026-09-30T09:57:35Z",
-    "url": "https://github.com/siaarzh/scrybe"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2025,
-    "updated_at": "2026-09-30T10:59:42Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage.",
-    "id": "HelixDB/helix-db",
-    "language": "Rust",
-    "name": "HelixDB/helix-db",
-    "stars": 6105,
-    "updated_at": "2026-09-30T09:54:12Z",
-    "url": "https://github.com/HelixDB/helix-db"
   }
 ]
