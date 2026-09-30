@@ -1,5 +1,122 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T12:45:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Single-node HNSW vector search engine in Rust with pluggable storage, reproducible benchmarks, tombstone compaction, and",
+    "id": "src6/vector-db",
+    "language": "Rust",
+    "name": "src6/vector-db",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:42:42Z",
+    "url": "https://github.com/src6/vector-db"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-09-30T12:45:11Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-09-30T12:44:43Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "\ud83d\uddc4\ufe0f Ultrafast native C++ JNI in-memory vector database for the FastJava AI ecosystem",
+    "id": "andrestubbe/FastAIVectorDB",
+    "language": "Java",
+    "name": "andrestubbe/FastAIVectorDB",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:39:53Z",
+    "url": "https://github.com/andrestubbe/FastAIVectorDB"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:37:34Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-09-30T12:37:16Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:36:35Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "Self-hosted RAG for physics papers: autonomous arXiv research loop, cited answers, works with any LLM provider (Groq, Op",
+    "id": "mohammadjafariph/physicsrag",
+    "language": "Python",
+    "name": "mohammadjafariph/physicsrag",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:35:00Z",
+    "url": "https://github.com/mohammadjafariph/physicsrag"
+  },
+  {
+    "description": "Answers METU  regulation questions using only the official text, always citing the article \u2014 RAG + agent loop on NVIDIA ",
+    "id": "ygtbekar/campus-regulations-agent",
+    "language": "Python",
+    "name": "ygtbekar/campus-regulations-agent",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:33:31Z",
+    "url": "https://github.com/ygtbekar/campus-regulations-agent"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2561,
+    "updated_at": "2026-09-30T12:32:11Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
+    "id": "sh1v-max/AI-Backend",
+    "language": "TypeScript",
+    "name": "sh1v-max/AI-Backend",
+    "stars": 0,
+    "updated_at": "2026-09-30T12:32:02Z",
+    "url": "https://github.com/sh1v-max/AI-Backend"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-30T12:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "",
     "id": "Jaydeepkumar0p/RAG_AI_ASSISTANT",
     "language": "Python",
@@ -9,13 +126,13 @@
     "url": "https://github.com/Jaydeepkumar0p/RAG_AI_ASSISTANT"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:27:28Z",
-    "url": "https://github.com/fenecdb/fenec"
+    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+    "id": "neuml/txtai",
+    "language": "Python",
+    "name": "neuml/txtai",
+    "stars": 12989,
+    "updated_at": "2026-09-30T12:26:56Z",
+    "url": "https://github.com/neuml/txtai"
   },
   {
     "description": "A guarded, fail-closed n8n workflow that turns an incoming Gmail support email into either a grounded, threaded reply or",
@@ -54,15 +171,6 @@
     "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-09-30T12:22:22Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
     "id": "DevAnimecx/free-ai-agent-stack",
     "language": "TypeScript",
@@ -77,7 +185,7 @@
     "language": "C++",
     "name": "VectorDB-NTU/RaBitQ-Library",
     "stars": 286,
-    "updated_at": "2026-09-30T12:22:48Z",
+    "updated_at": "2026-09-30T12:34:14Z",
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
@@ -99,24 +207,6 @@
     "url": "https://github.com/vijayolety/cust-support-workflow-n8n"
   },
   {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12990,
-    "updated_at": "2026-09-30T12:26:56Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-09-30T12:18:54Z",
-    "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
     "description": "Private Research Copilot is a fully local Retrieval-Augmented Generation platform for private document research.",
     "id": "dns-king/private_research_copilot",
     "language": "Python",
@@ -124,24 +214,6 @@
     "stars": 2,
     "updated_at": "2026-09-30T12:17:00Z",
     "url": "https://github.com/dns-king/private_research_copilot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-30T12:15:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T12:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -153,22 +225,31 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2562,
-    "updated_at": "2026-09-30T12:22:57Z",
-    "url": "https://github.com/xerj-org/xerj"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16858,
+    "updated_at": "2026-09-30T12:37:49Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
-    "description": "Answers METU NCC regulation questions using only the official text, always citing the article \u2014 RAG + agent loop on NVID",
-    "id": "ygtbekar/campus-regulations-agent",
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
     "language": "Python",
-    "name": "ygtbekar/campus-regulations-agent",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:03:22Z",
-    "url": "https://github.com/ygtbekar/campus-regulations-agent"
+    "name": "topoteretes/cognee",
+    "stars": 31231,
+    "updated_at": "2026-09-30T12:13:31Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34886,
+    "updated_at": "2026-09-30T12:39:42Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Enterprise SaaS platform for AI agent communication inspired by fungal mycelia. Agents exchange knowledge through semant",
@@ -176,7 +257,7 @@
     "language": "Python",
     "name": "aicubetechnology/qilbee-mycelial-network",
     "stars": 1,
-    "updated_at": "2026-09-30T12:02:28Z",
+    "updated_at": "2026-09-30T12:35:54Z",
     "url": "https://github.com/aicubetechnology/qilbee-mycelial-network"
   },
   {
@@ -187,33 +268,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T12:02:07Z",
     "url": "https://github.com/HKTITAN/dbms-agent-memory"
-  },
-  {
-    "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
-    "id": "sh1v-max/AI-Backend",
-    "language": "TypeScript",
-    "name": "sh1v-max/AI-Backend",
-    "stars": 0,
-    "updated_at": "2026-09-30T12:01:34Z",
-    "url": "https://github.com/sh1v-max/AI-Backend"
-  },
-  {
-    "description": "Self-hosted RAG for physics papers: autonomous arXiv research loop, cited answers, works with any LLM provider (Groq, Op",
-    "id": "mohammadjafariph/physicsrag",
-    "language": "Python",
-    "name": "mohammadjafariph/physicsrag",
-    "stars": 0,
-    "updated_at": "2026-09-30T11:59:41Z",
-    "url": "https://github.com/mohammadjafariph/physicsrag"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34887,
-    "updated_at": "2026-09-30T12:11:45Z",
-    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -230,7 +284,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-09-30T12:29:08Z",
+    "updated_at": "2026-09-30T12:33:02Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -265,7 +319,7 @@
     "id": "milvus-io/milvus",
     "language": "Go",
     "name": "milvus-io/milvus",
-    "stars": 46285,
+    "stars": 46284,
     "updated_at": "2026-09-30T11:37:37Z",
     "url": "https://github.com/milvus-io/milvus"
   },
@@ -293,7 +347,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1170,
-    "updated_at": "2026-09-30T12:29:18Z",
+    "updated_at": "2026-09-30T12:45:02Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-09-30T11:03:24Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "",
-    "id": "SuperInstance/SuperInstance",
-    "language": "HTML",
-    "name": "SuperInstance/SuperInstance",
-    "stars": 7,
-    "updated_at": "2026-09-30T11:01:32Z",
-    "url": "https://github.com/SuperInstance/SuperInstance"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 6,
-    "updated_at": "2026-09-30T11:00:25Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-09-30T10:58:33Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Manage Meilisearch instances across platforms with a desktop app built using Tauri 2 and React for efficient, cross-plat",
-    "id": "conceited-watergillyflower311/meilisearch-desktop",
-    "language": "TypeScript",
-    "name": "conceited-watergillyflower311/meilisearch-desktop",
-    "stars": 1,
-    "updated_at": "2026-09-30T10:58:03Z",
-    "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-09-30T10:56:44Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
-    "id": "FIRE-hub911/citation-assistant",
-    "language": "Shell",
-    "name": "FIRE-hub911/citation-assistant",
-    "stars": 3,
-    "updated_at": "2026-09-30T10:55:13Z",
-    "url": "https://github.com/FIRE-hub911/citation-assistant"
   }
 ]
