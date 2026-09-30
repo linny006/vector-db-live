@@ -1,12 +1,30 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1171,
+    "updated_at": "2026-09-30T20:56:27Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
     "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-09-30T20:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 118,
+    "updated_at": "2026-09-30T20:54:14Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "ARTEA: Theory-Guided Hierarchical Graph Index for High-Performance ANN Search",
+    "id": "NTU-Siqiang-Group/Artea",
+    "language": "C++",
+    "name": "NTU-Siqiang-Group/Artea",
+    "stars": 4,
+    "updated_at": "2026-09-30T20:51:37Z",
+    "url": "https://github.com/NTU-Siqiang-Group/Artea"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -14,8 +32,26 @@
     "language": "Java",
     "name": "langchain4j/langchain4j",
     "stars": 13184,
-    "updated_at": "2026-09-30T20:45:07Z",
+    "updated_at": "2026-09-30T20:49:55Z",
     "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-30T20:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-09-30T20:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A simple, fast and versatile Datalog database",
@@ -34,15 +70,6 @@
     "stars": 0,
     "updated_at": "2026-09-30T20:39:08Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1171,
-    "updated_at": "2026-09-30T20:43:30Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -70,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T20:32:49Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-30T20:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "SQLiteData support for SQLite Vec.",
@@ -239,7 +257,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2566,
-    "updated_at": "2026-09-30T20:30:31Z",
+    "updated_at": "2026-09-30T20:58:51Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -295,15 +313,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T19:41:39Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "Self improving agents through iterations",
-    "id": "AgentToolkit/altk-evolve",
-    "language": "Python",
-    "name": "AgentToolkit/altk-evolve",
-    "stars": 118,
-    "updated_at": "2026-09-30T20:29:31Z",
-    "url": "https://github.com/AgentToolkit/altk-evolve"
   },
   {
     "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-09-30T19:18:58Z",
     "url": "https://github.com/hesamaria/rag-chatbot"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9317,
-    "updated_at": "2026-09-30T20:42:29Z",
-    "url": "https://github.com/paradedb/paradedb"
   }
 ]
