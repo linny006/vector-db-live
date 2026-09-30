@@ -5,8 +5,53 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-09-30T03:00:23Z",
+    "updated_at": "2026-09-30T03:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-09-30T03:12:24Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "RAG assistant for business Q&A over document corpora. Pinecone/OpenSearch retrieval, MLflow-monitored retrieval chain, S",
+    "id": "juandsep/document-rag-assistant",
+    "language": "Python",
+    "name": "juandsep/document-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-09-30T03:09:42Z",
+    "url": "https://github.com/juandsep/document-rag-assistant"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-09-30T03:01:33Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "- ",
+    "id": "Chief-Strategist-J/llm-observability-platform",
+    "language": "Python",
+    "name": "Chief-Strategist-J/llm-observability-platform",
+    "stars": 6,
+    "updated_at": "2026-09-30T03:01:10Z",
+    "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-09-30T03:00:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
@@ -31,18 +76,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2541,
-    "updated_at": "2026-09-30T02:52:44Z",
+    "stars": 2542,
+    "updated_at": "2026-09-30T03:06:47Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-09-30T02:48:26Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -61,15 +97,6 @@
     "stars": 1,
     "updated_at": "2026-09-30T02:46:22Z",
     "url": "https://github.com/Brijesh-0106/Cerebro"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-09-30T02:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -117,15 +144,6 @@
     "url": "https://github.com/LuisinTheLegend/ConciergeGraph"
   },
   {
-    "description": "RAG assistant for business Q&A over document corpora. Pinecone/OpenSearch retrieval, MLflow-monitored retrieval chain, S",
-    "id": "juandsep/document-rag-assistant",
-    "language": "Python",
-    "name": "juandsep/document-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-30T01:48:52Z",
-    "url": "https://github.com/juandsep/document-rag-assistant"
-  },
-  {
     "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -167,7 +185,7 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-09-30T02:50:26Z",
+    "updated_at": "2026-09-30T03:04:56Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 6458,
     "updated_at": "2026-09-30T01:19:11Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Add local persistent memory to AI coding agents with Markdown storage, hybrid search, and MCP support, all offline.",
-    "id": "okeidontlike/Awareness-Local",
-    "language": "JavaScript",
-    "name": "okeidontlike/Awareness-Local",
-    "stars": 2,
-    "updated_at": "2026-09-30T00:48:11Z",
-    "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-09-30T00:48:03Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
   }
 ]
