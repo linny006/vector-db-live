@@ -1,21 +1,93 @@
 [
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-01T09:15:34Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-01T09:15:23Z",
+    "updated_at": "2026-10-01T09:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Python",
+    "name": "pavelhorak/pion",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:29:51Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "An AI powered RAG developer assistant that matches open source contributors to issues matching their tech stack, crawls ",
+    "id": "Rutujaa-04/ContribAI",
+    "language": "TypeScript",
+    "name": "Rutujaa-04/ContribAI",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:28:12Z",
+    "url": "https://github.com/Rutujaa-04/ContribAI"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2027,
+    "updated_at": "2026-10-01T09:25:00Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13186,
+    "updated_at": "2026-10-01T09:23:21Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-01T09:20:28Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Self-hosted RAG workspace: your documents, your models, your database. Milvus + PostgreSQL + Xinference on your machine,",
+    "id": "emVisible/Ametrine",
+    "language": "Python",
+    "name": "emVisible/Ametrine",
+    "stars": 1,
+    "updated_at": "2026-10-01T09:19:50Z",
+    "url": "https://github.com/emVisible/Ametrine"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-01T09:29:59Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34895,
+    "updated_at": "2026-10-01T09:26:41Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T09:16:00Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -27,15 +99,6 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-01T09:11:27Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
     "id": "opencrawling/opencrawling",
     "language": "Java",
@@ -45,13 +108,13 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-01T09:09:45Z",
-    "url": "https://github.com/sunormesky-max/epicode"
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-01T09:11:27Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI Powered assistant desgined for a Saving and Credit cooperative (SACCO) .  The agent aims to read the official SACCO R",
@@ -86,7 +149,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8308,
-    "updated_at": "2026-10-01T09:00:39Z",
+    "updated_at": "2026-10-01T09:24:27Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -108,15 +171,6 @@
     "url": "https://github.com/ShafqaatMalik/n8n-cx-agent"
   },
   {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34894,
-    "updated_at": "2026-10-01T08:48:58Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
     "description": "Retrieval-Augmented Generation (RAG) system for querying code, documentation, and project structure from GitHub reposito",
     "id": "davidfernxndez/github-repository-rag",
     "language": "Jupyter Notebook",
@@ -131,7 +185,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-10-01T09:12:50Z",
+    "updated_at": "2026-10-01T09:28:38Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -180,15 +234,6 @@
     "url": "https://github.com/bmihalik/ragdbman"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-01T08:58:14Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
     "id": "Yigtwxx/awesome-rag-production",
     "language": "Python",
@@ -196,15 +241,6 @@
     "stars": 273,
     "updated_at": "2026-10-01T08:12:49Z",
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13186,
-    "updated_at": "2026-10-01T08:16:12Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -221,7 +257,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2587,
-    "updated_at": "2026-10-01T08:06:01Z",
+    "updated_at": "2026-10-01T09:22:23Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-01T07:35:46Z",
     "url": "https://github.com/Shiv7019/research-paper-rag"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-10-01T07:34:51Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "",
-    "id": "moyunzero/personal-gpt",
-    "language": "TypeScript",
-    "name": "moyunzero/personal-gpt",
-    "stars": 3,
-    "updated_at": "2026-10-01T09:10:23Z",
-    "url": "https://github.com/moyunzero/personal-gpt"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 2,
-    "updated_at": "2026-10-01T07:33:57Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-10-01T07:32:47Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
   }
 ]
