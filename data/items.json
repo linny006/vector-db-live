@@ -5,7 +5,7 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-01T06:30:22Z",
+    "updated_at": "2026-10-01T06:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,8 +14,26 @@
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
     "stars": 66645,
-    "updated_at": "2026-10-01T06:30:15Z",
+    "updated_at": "2026-10-01T06:41:28Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Pharmacovigilance triage assistant: drafts seriousness (ICH E2A), expectedness and causality for an adverse event report",
+    "id": "nabeofchanKo/pv-rag-assistant",
+    "language": "Python",
+    "name": "nabeofchanKo/pv-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-01T06:38:05Z",
+    "url": "https://github.com/nabeofchanKo/pv-rag-assistant"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 25,
+    "updated_at": "2026-10-01T06:35:53Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
   },
   {
     "description": "Production multimodal retrieval-augmented generation engine parsing structured tables, diagrams, and unstructured PDFs u",
@@ -23,7 +41,7 @@
     "language": "Python",
     "name": "asad-mj/multimodal-doc-rag",
     "stars": 0,
-    "updated_at": "2026-10-01T06:28:57Z",
+    "updated_at": "2026-10-01T06:32:25Z",
     "url": "https://github.com/asad-mj/multimodal-doc-rag"
   },
   {
@@ -32,17 +50,26 @@
     "language": "Python",
     "name": "YunanJeong/rag-git-docs",
     "stars": 0,
-    "updated_at": "2026-10-01T06:27:14Z",
+    "updated_at": "2026-10-01T06:31:46Z",
     "url": "https://github.com/YunanJeong/rag-git-docs"
   },
   {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
+    "description": "Production-grade AI customer support system \u2014 agentic RAG, multi-channel intake, Shopify/Stripe actions, self-healing KB",
+    "id": "ShafqaatMalik/n8n-cx-agent",
+    "language": "HTML",
+    "name": "ShafqaatMalik/n8n-cx-agent",
+    "stars": 0,
+    "updated_at": "2026-10-01T06:31:17Z",
+    "url": "https://github.com/ShafqaatMalik/n8n-cx-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
     "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 25,
-    "updated_at": "2026-10-01T06:29:21Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T06:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -50,7 +77,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-01T06:25:13Z",
+    "updated_at": "2026-10-01T06:40:34Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -70,15 +97,6 @@
     "stars": 2,
     "updated_at": "2026-10-01T06:16:23Z",
     "url": "https://github.com/alxkm/java-ai-cookbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-01T06:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -387,6 +405,15 @@
     "url": "https://github.com/hesamaria/rag-chatbot"
   },
   {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8307,
+    "updated_at": "2026-10-01T05:22:43Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
     "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
     "id": "Mehdi138534/ai-news-scraper",
     "language": "HTML",
@@ -421,32 +448,5 @@
     "stars": 2582,
     "updated_at": "2026-10-01T06:12:53Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2027,
-    "updated_at": "2026-10-01T05:12:51Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "DANA: Decoupled Attribute Navigation and Predicate Admission for Dynamic Multi-Attribute Range-Filtered ANN Search",
-    "id": "Guo-dp/DANA",
-    "language": "C++",
-    "name": "Guo-dp/DANA",
-    "stars": 0,
-    "updated_at": "2026-10-01T04:51:49Z",
-    "url": "https://github.com/Guo-dp/DANA"
-  },
-  {
-    "description": "A multi-user load benchmark for Long-Term Memory (LTM) systems",
-    "id": "skhynix/LTM100",
-    "language": "Python",
-    "name": "skhynix/LTM100",
-    "stars": 4,
-    "updated_at": "2026-10-01T04:29:53Z",
-    "url": "https://github.com/skhynix/LTM100"
   }
 ]
