@@ -1,12 +1,30 @@
 [
   {
+    "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
+    "id": "hbar-systems/brainfoundry-nous",
+    "language": "Python",
+    "name": "hbar-systems/brainfoundry-nous",
+    "stars": 1,
+    "updated_at": "2026-10-01T09:59:45Z",
+    "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
     "description": "Autonomous Multi-Agent RAG workflow engine with LangGraph, Qdrant vector search, and FastAPI. Implements self-correcting",
     "id": "rahul-1909/NexusAI",
     "language": "Python",
     "name": "rahul-1909/NexusAI",
     "stars": 0,
-    "updated_at": "2026-10-01T09:45:02Z",
+    "updated_at": "2026-10-01T09:56:24Z",
     "url": "https://github.com/rahul-1909/NexusAI"
+  },
+  {
+    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
+    "id": "redrob-labs/redrob-recall",
+    "language": "Rust",
+    "name": "redrob-labs/redrob-recall",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:56:08Z",
+    "url": "https://github.com/redrob-labs/redrob-recall"
   },
   {
     "description": "AI Powered assistant desgined for a Saving and Credit cooperative (SACCO) .  The agent aims to read the official SACCO R",
@@ -14,8 +32,53 @@
     "language": "Python",
     "name": "toxidity-18/SMARTSACCO-AI-Agent-",
     "stars": 0,
-    "updated_at": "2026-10-01T09:42:31Z",
+    "updated_at": "2026-10-01T09:54:41Z",
     "url": "https://github.com/toxidity-18/SMARTSACCO-AI-Agent-"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6242,
+    "updated_at": "2026-10-01T09:58:05Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "High-quality search for AI-native applications.",
+    "id": "topk-io/topk",
+    "language": "Rust",
+    "name": "topk-io/topk",
+    "stars": 95,
+    "updated_at": "2026-10-01T09:52:59Z",
+    "url": "https://github.com/topk-io/topk"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13186,
+    "updated_at": "2026-10-01T09:52:28Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "",
+    "id": "moyunzero/personal-gpt",
+    "language": "TypeScript",
+    "name": "moyunzero/personal-gpt",
+    "stars": 3,
+    "updated_at": "2026-10-01T09:52:16Z",
+    "url": "https://github.com/moyunzero/personal-gpt"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8308,
+    "updated_at": "2026-10-01T09:50:45Z",
+    "url": "https://github.com/MariaDB/server"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -23,8 +86,35 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1173,
-    "updated_at": "2026-10-01T09:41:19Z",
+    "updated_at": "2026-10-01T09:46:11Z",
     "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T09:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T09:45:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 84,
+    "updated_at": "2026-10-01T09:45:21Z",
+    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -36,15 +126,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
-    "id": "redrob-labs/redrob-recall",
-    "language": "Rust",
-    "name": "redrob-labs/redrob-recall",
-    "stars": 0,
-    "updated_at": "2026-10-01T09:43:56Z",
-    "url": "https://github.com/redrob-labs/redrob-recall"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -54,30 +135,12 @@
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-01T09:30:41Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T09:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Pion \u2014 the memory engine for AI inference",
     "id": "pavelhorak/pion",
     "language": "Python",
     "name": "pavelhorak/pion",
     "stars": 0,
-    "updated_at": "2026-10-01T09:31:01Z",
+    "updated_at": "2026-10-01T09:54:08Z",
     "url": "https://github.com/pavelhorak/pion"
   },
   {
@@ -103,18 +166,9 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2588,
+    "stars": 2583,
     "updated_at": "2026-10-01T09:22:23Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
-    "id": "langchain4j/langchain4j",
-    "language": "Java",
-    "name": "langchain4j/langchain4j",
-    "stars": 13186,
-    "updated_at": "2026-10-01T09:23:21Z",
-    "url": "https://github.com/langchain4j/langchain4j"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -122,7 +176,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-01T09:43:15Z",
+    "updated_at": "2026-10-01T09:49:09Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -140,7 +194,7 @@
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 8,
-    "updated_at": "2026-10-01T09:43:38Z",
+    "updated_at": "2026-10-01T09:58:39Z",
     "url": "https://github.com/sunormesky-max/epicode"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34895,
-    "updated_at": "2026-10-01T09:45:17Z",
+    "updated_at": "2026-10-01T09:59:23Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -162,12 +216,21 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31253,
+    "updated_at": "2026-10-01T09:09:40Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-01T09:37:38Z",
+    "updated_at": "2026-10-01T09:52:25Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -176,26 +239,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16861,
-    "updated_at": "2026-10-01T09:41:49Z",
+    "updated_at": "2026-10-01T09:58:43Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8308,
-    "updated_at": "2026-10-01T09:33:51Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31252,
-    "updated_at": "2026-10-01T09:09:40Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Production-grade AI customer support system \u2014 agentic RAG, multi-channel intake, Shopify/Stripe actions, self-healing KB",
@@ -214,15 +259,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T08:46:39Z",
     "url": "https://github.com/davidfernxndez/github-repository-rag"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6242,
-    "updated_at": "2026-10-01T09:38:01Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "In-memory knowledge store for AI agents",
@@ -277,15 +313,6 @@
     "stars": 273,
     "updated_at": "2026-10-01T08:12:49Z",
     "url": "https://github.com/Yigtwxx/awesome-rag-production"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 84,
-    "updated_at": "2026-10-01T09:45:21Z",
-    "url": "https://github.com/infino-ai/infino"
   },
   {
     "description": "DANA: Decoupled Attribute Navigation and Predicate Admission for Dynamic Multi-Attribute Range-Filtered ANN Search",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-01T07:41:59Z",
     "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-10-01T07:41:15Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
-    "id": "younismahmoud1234/gitsage",
-    "language": "Java",
-    "name": "younismahmoud1234/gitsage",
-    "stars": 1,
-    "updated_at": "2026-10-01T07:39:48Z",
-    "url": "https://github.com/younismahmoud1234/gitsage"
-  },
-  {
-    "description": "Logistics after-sales RAG reference implementation: FAQ direct answer, dense + BM25 hybrid retrieval with reranking and ",
-    "id": "gxc02529-jpg/KnowLoop",
-    "language": "Python",
-    "name": "gxc02529-jpg/KnowLoop",
-    "stars": 0,
-    "updated_at": "2026-10-01T07:36:33Z",
-    "url": "https://github.com/gxc02529-jpg/KnowLoop"
   }
 ]
