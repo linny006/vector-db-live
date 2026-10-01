@@ -1,5 +1,68 @@
 [
   {
+    "description": "Autonomous Multi-Agent RAG workflow engine with LangGraph, Qdrant vector search, and FastAPI. Implements self-correcting",
+    "id": "rahul-1909/NexusAI",
+    "language": "Python",
+    "name": "rahul-1909/NexusAI",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:45:02Z",
+    "url": "https://github.com/rahul-1909/NexusAI"
+  },
+  {
+    "description": "AI Powered assistant desgined for a Saving and Credit cooperative (SACCO) .  The agent aims to read the official SACCO R",
+    "id": "toxidity-18/SMARTSACCO-AI-Agent-",
+    "language": "Python",
+    "name": "toxidity-18/SMARTSACCO-AI-Agent-",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:42:31Z",
+    "url": "https://github.com/toxidity-18/SMARTSACCO-AI-Agent-"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1173,
+    "updated_at": "2026-10-01T09:41:19Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-01T09:41:04Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
+    "id": "redrob-labs/redrob-recall",
+    "language": "Rust",
+    "name": "redrob-labs/redrob-recall",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:43:56Z",
+    "url": "https://github.com/redrob-labs/redrob-recall"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-01T09:32:02Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T09:30:41Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Python",
     "name": "pavelhorak/pion",
     "stars": 0,
-    "updated_at": "2026-10-01T09:29:51Z",
+    "updated_at": "2026-10-01T09:31:01Z",
     "url": "https://github.com/pavelhorak/pion"
   },
   {
@@ -32,8 +95,17 @@
     "language": "Go",
     "name": "matrixorigin/matrixone",
     "stars": 2027,
-    "updated_at": "2026-10-01T09:25:00Z",
+    "updated_at": "2026-10-01T09:44:08Z",
     "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2588,
+    "updated_at": "2026-10-01T09:22:23Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
@@ -50,7 +122,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-01T09:20:28Z",
+    "updated_at": "2026-10-01T09:43:15Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -68,7 +140,7 @@
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 8,
-    "updated_at": "2026-10-01T09:29:59Z",
+    "updated_at": "2026-10-01T09:43:38Z",
     "url": "https://github.com/sunormesky-max/epicode"
   },
   {
@@ -77,26 +149,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34895,
-    "updated_at": "2026-10-01T09:26:41Z",
+    "updated_at": "2026-10-01T09:45:17Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-01T09:16:00Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1173,
-    "updated_at": "2026-10-01T09:14:49Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
@@ -108,30 +162,12 @@
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-01T09:11:27Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "AI Powered assistant desgined for a Saving and Credit cooperative (SACCO) .  The agent aims to read the official SACCO R",
-    "id": "toxidity-18/SMARTSACCO-AI-Agent-",
-    "language": "Python",
-    "name": "toxidity-18/SMARTSACCO-AI-Agent-",
-    "stars": 0,
-    "updated_at": "2026-10-01T09:09:30Z",
-    "url": "https://github.com/toxidity-18/SMARTSACCO-AI-Agent-"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-01T09:07:33Z",
+    "updated_at": "2026-10-01T09:37:38Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -140,7 +176,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16861,
-    "updated_at": "2026-10-01T09:06:21Z",
+    "updated_at": "2026-10-01T09:41:49Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -149,7 +185,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8308,
-    "updated_at": "2026-10-01T09:24:27Z",
+    "updated_at": "2026-10-01T09:33:51Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-10-01T09:28:38Z",
+    "updated_at": "2026-10-01T09:38:01Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -248,26 +284,8 @@
     "language": "Rust",
     "name": "infino-ai/infino",
     "stars": 84,
-    "updated_at": "2026-10-01T08:07:40Z",
+    "updated_at": "2026-10-01T09:45:21Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2587,
-    "updated_at": "2026-10-01T09:22:23Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Autonomous Multi-Agent RAG workflow engine with LangGraph, Qdrant vector search, and FastAPI. Implements self-correcting",
-    "id": "rahul-1909/NexusAI",
-    "language": "Python",
-    "name": "rahul-1909/NexusAI",
-    "stars": 0,
-    "updated_at": "2026-10-01T08:02:47Z",
-    "url": "https://github.com/rahul-1909/NexusAI"
   },
   {
     "description": "DANA: Decoupled Attribute Navigation and Predicate Admission for Dynamic Multi-Attribute Range-Filtered ANN Search",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T07:36:33Z",
     "url": "https://github.com/gxc02529-jpg/KnowLoop"
-  },
-  {
-    "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
-    "id": "leo2007960216/deeprecall",
-    "language": "Python",
-    "name": "leo2007960216/deeprecall",
-    "stars": 4,
-    "updated_at": "2026-10-01T07:36:19Z",
-    "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "A beginner-friendly RAG pipeline that answers questions from PDF research papers using LangChain, Sentence-Transformers,",
-    "id": "Shiv7019/research-paper-rag",
-    "language": "Jupyter Notebook",
-    "name": "Shiv7019/research-paper-rag",
-    "stars": 1,
-    "updated_at": "2026-10-01T07:35:46Z",
-    "url": "https://github.com/Shiv7019/research-paper-rag"
   }
 ]
