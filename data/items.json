@@ -5,8 +5,44 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-01T03:45:21Z",
+    "updated_at": "2026-10-01T04:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9317,
+    "updated_at": "2026-10-01T04:00:19Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Large document Q&A agent using RAG",
+    "id": "djleamen/doc-reader",
+    "language": "Python",
+    "name": "djleamen/doc-reader",
+    "stars": 3,
+    "updated_at": "2026-10-01T03:52:19Z",
+    "url": "https://github.com/djleamen/doc-reader"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-01T03:46:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T03:45:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A unified, async Python framework for LLM applications\u2014chat, autonomous agents, RAG, and sandboxed code execution. Suppo",
@@ -23,7 +59,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2577,
-    "updated_at": "2026-10-01T03:39:50Z",
+    "updated_at": "2026-10-01T03:47:52Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -32,26 +68,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1172,
-    "updated_at": "2026-10-01T03:39:46Z",
+    "updated_at": "2026-10-01T03:57:09Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-01T03:31:02Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9317,
-    "updated_at": "2026-10-01T03:43:43Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
@@ -77,7 +95,7 @@
     "language": "Rust",
     "name": "redrob-labs/redrob-recall",
     "stars": 0,
-    "updated_at": "2026-10-01T03:34:40Z",
+    "updated_at": "2026-10-01T03:49:29Z",
     "url": "https://github.com/redrob-labs/redrob-recall"
   },
   {
@@ -88,15 +106,6 @@
     "stars": 3,
     "updated_at": "2026-10-01T03:16:09Z",
     "url": "https://github.com/moyunzero/personal-gpt"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-01T03:15:21Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T02:09:47Z",
     "url": "https://github.com/dakotac1994/Awesome-db"
-  },
-  {
-    "description": "University LMS with a course-scoped RAG study assistant. .NET 10, Angular 22 and FastAPI, Docker Compose, YARP gateway, ",
-    "id": "Marcoh05P/EdOU",
-    "language": "C#",
-    "name": "Marcoh05P/EdOU",
-    "stars": 1,
-    "updated_at": "2026-10-01T02:03:08Z",
-    "url": "https://github.com/Marcoh05P/EdOU"
   }
 ]
