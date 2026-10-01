@@ -1,11 +1,47 @@
 [
   {
+    "description": "Production-grade AI customer support system \u2014 agentic RAG, multi-channel intake, Shopify/Stripe actions, self-healing KB",
+    "id": "ShafqaatMalik/n8n-cx-agent",
+    "language": "HTML",
+    "name": "ShafqaatMalik/n8n-cx-agent",
+    "stars": 0,
+    "updated_at": "2026-10-01T08:55:59Z",
+    "url": "https://github.com/ShafqaatMalik/n8n-cx-agent"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34893,
+    "updated_at": "2026-10-01T08:48:58Z",
+    "url": "https://github.com/qdrant/qdrant"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-01T08:47:29Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T08:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-01T08:45:23Z",
+    "updated_at": "2026-10-01T09:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +50,7 @@
     "language": "Jupyter Notebook",
     "name": "davidfernxndez/github-repository-rag",
     "stars": 0,
-    "updated_at": "2026-10-01T08:44:32Z",
+    "updated_at": "2026-10-01T08:46:39Z",
     "url": "https://github.com/davidfernxndez/github-repository-rag"
   },
   {
@@ -23,7 +59,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-10-01T08:45:16Z",
+    "updated_at": "2026-10-01T08:56:15Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -32,17 +68,8 @@
     "language": "Go",
     "name": "FraiseHQ/fraise",
     "stars": 7,
-    "updated_at": "2026-10-01T08:41:50Z",
+    "updated_at": "2026-10-01T08:46:36Z",
     "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-01T08:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -86,7 +113,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-01T08:19:41Z",
+    "updated_at": "2026-10-01T08:58:14Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -97,15 +124,6 @@
     "stars": 1173,
     "updated_at": "2026-10-01T08:18:45Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-01T08:13:10Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-",
@@ -139,7 +157,7 @@
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2586,
+    "stars": 2587,
     "updated_at": "2026-10-01T08:06:01Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -257,7 +275,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-01T08:26:10Z",
+    "updated_at": "2026-10-01T09:00:07Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -347,7 +365,7 @@
     "language": "Rust",
     "name": "sunormesky-max/epicode",
     "stars": 8,
-    "updated_at": "2026-10-01T08:38:33Z",
+    "updated_at": "2026-10-01T08:59:12Z",
     "url": "https://github.com/sunormesky-max/epicode"
   },
   {
@@ -430,23 +448,5 @@
     "stars": 25,
     "updated_at": "2026-10-01T07:27:07Z",
     "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-10-01T07:27:04Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8307,
-    "updated_at": "2026-10-01T08:06:32Z",
-    "url": "https://github.com/MariaDB/server"
   }
 ]
