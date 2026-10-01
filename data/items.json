@@ -1,10 +1,91 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T05:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-01T05:27:04Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "\ud83c\udf0c Build a simple RAG pipeline to generate AI-driven answers using Chroma DB for storage and Grok LLM for context-aware r",
+    "id": "arpan10000/simple-rag-pipeline-demo",
+    "language": "Jupyter Notebook",
+    "name": "arpan10000/simple-rag-pipeline-demo",
+    "stars": 2,
+    "updated_at": "2026-10-01T05:27:03Z",
+    "url": "https://github.com/arpan10000/simple-rag-pipeline-demo"
+  },
+  {
+    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
+    "id": "hesamaria/rag-chatbot",
+    "language": "Python",
+    "name": "hesamaria/rag-chatbot",
+    "stars": 4,
+    "updated_at": "2026-10-01T05:25:49Z",
+    "url": "https://github.com/hesamaria/rag-chatbot"
+  },
+  {
+    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
+    "id": "YunanJeong/rag-git-docs",
+    "language": "Python",
+    "name": "YunanJeong/rag-git-docs",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:25:42Z",
+    "url": "https://github.com/YunanJeong/rag-git-docs"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:19:44Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "\ud83e\udd16 Develop cutting-edge AI applications with the \"yu-ai-agent\" project, enhancing your skills and boosting your job prosp",
+    "id": "zubairporag/yu-ai-agent",
+    "language": "Java",
+    "name": "zubairporag/yu-ai-agent",
+    "stars": 0,
+    "updated_at": "2026-10-01T05:19:38Z",
+    "url": "https://github.com/zubairporag/yu-ai-agent"
+  },
+  {
+    "description": "\ud83e\udde0 Manage AI context seamlessly with the MCP server for storing and retrieving semantic memory across sessions. Enhance y",
+    "id": "ermermermermidk/mcp-ai-memory",
+    "language": "TypeScript",
+    "name": "ermermermermidk/mcp-ai-memory",
+    "stars": 1,
+    "updated_at": "2026-10-01T05:19:04Z",
+    "url": "https://github.com/ermermermermidk/mcp-ai-memory"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T05:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
     "name": "xerj-org/xerj",
-    "stars": 2580,
+    "stars": 2581,
     "updated_at": "2026-10-01T05:14:59Z",
     "url": "https://github.com/xerj-org/xerj"
   },
@@ -36,24 +117,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-01T05:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T05:00:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "DANA: Decoupled Attribute Navigation and Predicate Admission for Dynamic Multi-Attribute Range-Filtered ANN Search",
     "id": "Guo-dp/DANA",
     "language": "C++",
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T04:51:49Z",
     "url": "https://github.com/Guo-dp/DANA"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-01T05:10:57Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
@@ -95,7 +149,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1172,
-    "updated_at": "2026-10-01T04:32:03Z",
+    "updated_at": "2026-10-01T05:18:42Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -149,7 +203,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9317,
-    "updated_at": "2026-10-01T04:49:05Z",
+    "updated_at": "2026-10-01T05:24:25Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -205,15 +259,6 @@
     "stars": 6,
     "updated_at": "2026-10-01T03:07:39Z",
     "url": "https://github.com/Chief-Strategist-J/llm-observability-platform"
-  },
-  {
-    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
-    "id": "YunanJeong/rag-git-docs",
-    "language": "Python",
-    "name": "YunanJeong/rag-git-docs",
-    "stars": 0,
-    "updated_at": "2026-10-01T03:03:09Z",
-    "url": "https://github.com/YunanJeong/rag-git-docs"
   },
   {
     "description": "Define, validate, and contract-test LLM outputs in TypeScript to ship reliable AI features with confidence.",
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-01T02:34:58Z",
     "url": "https://github.com/sshisto/mnemo-mcp"
-  },
-  {
-    "description": "\ud83e\udd16 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch",
-    "id": "sen-igga/IndexGPT",
-    "language": "JavaScript",
-    "name": "sen-igga/IndexGPT",
-    "stars": 3,
-    "updated_at": "2026-10-01T02:34:53Z",
-    "url": "https://github.com/sen-igga/IndexGPT"
-  },
-  {
-    "description": "\ud83e\udd16 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect",
-    "id": "Zopze/TV-Show-Recommender-AI",
-    "language": "Python",
-    "name": "Zopze/TV-Show-Recommender-AI",
-    "stars": 1,
-    "updated_at": "2026-10-01T02:34:24Z",
-    "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-01T02:30:09Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-10-01T02:29:07Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-10-01T02:27:23Z",
-    "url": "https://github.com/23skdu/longbow"
   }
 ]
