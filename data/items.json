@@ -1,5 +1,158 @@
 [
   {
+    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
+    "id": "shoaibraza123/promptbook-mcp",
+    "language": "HTML",
+    "name": "shoaibraza123/promptbook-mcp",
+    "stars": 2,
+    "updated_at": "2026-10-01T15:59:50Z",
+    "url": "https://github.com/shoaibraza123/promptbook-mcp"
+  },
+  {
+    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
+    "id": "rein98/PsyChat",
+    "language": "Python",
+    "name": "rein98/PsyChat",
+    "stars": 3,
+    "updated_at": "2026-10-01T15:59:20Z",
+    "url": "https://github.com/rein98/PsyChat"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-01T15:59:52Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
+    "id": "ribagolx10/crossvector",
+    "language": "Python",
+    "name": "ribagolx10/crossvector",
+    "stars": 1,
+    "updated_at": "2026-10-01T15:58:04Z",
+    "url": "https://github.com/ribagolx10/crossvector"
+  },
+  {
+    "description": "Agent Memory Health Monitor \u2014 scan AI agent memory stores for rot, contradictions, and duplicates",
+    "id": "yunaremaia/memwatch",
+    "language": "Python",
+    "name": "yunaremaia/memwatch",
+    "stars": 1,
+    "updated_at": "2026-10-01T15:57:00Z",
+    "url": "https://github.com/yunaremaia/memwatch"
+  },
+  {
+    "description": "Python SDK for vector search, semantic search, RAG, embeddings, and AI agents on Oracle AI Database",
+    "id": "oracle/vecdb-python-sdk",
+    "language": "Python",
+    "name": "oracle/vecdb-python-sdk",
+    "stars": 70,
+    "updated_at": "2026-10-01T15:56:43Z",
+    "url": "https://github.com/oracle/vecdb-python-sdk"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 352,
+    "updated_at": "2026-10-01T15:52:45Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
+    "id": "ssrjkk/agent-skills",
+    "language": "Python",
+    "name": "ssrjkk/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-01T15:51:47Z",
+    "url": "https://github.com/ssrjkk/agent-skills"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-01T15:50:49Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "FanVault AI is a RAG chatbot works as an intelligent sports knowledge assistant that helps fans instantly discover playe",
+    "id": "t0rresmarcus/FanVault-AI",
+    "language": "TypeScript",
+    "name": "t0rresmarcus/FanVault-AI",
+    "stars": 0,
+    "updated_at": "2026-10-01T15:50:49Z",
+    "url": "https://github.com/t0rresmarcus/FanVault-AI"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31271,
+    "updated_at": "2026-10-01T15:57:56Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
+    "id": "Separative-involucre520/SearchPaperByEmbedding",
+    "language": "Python",
+    "name": "Separative-involucre520/SearchPaperByEmbedding",
+    "stars": 1,
+    "updated_at": "2026-10-01T15:50:10Z",
+    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
+  },
+  {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-10-01T15:47:40Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Python",
+    "name": "pavelhorak/pion",
+    "stars": 0,
+    "updated_at": "2026-10-01T15:47:28Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 2,
+    "updated_at": "2026-10-01T15:46:26Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-10-01T15:46:17Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T15:45:34Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -25,15 +178,6 @@
     "stars": 12,
     "updated_at": "2026-10-01T15:40:11Z",
     "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "Agent Memory Health Monitor \u2014 scan AI agent memory stores for rot, contradictions, and duplicates",
-    "id": "yunaremaia/memwatch",
-    "language": "Python",
-    "name": "yunaremaia/memwatch",
-    "stars": 1,
-    "updated_at": "2026-10-01T15:39:54Z",
-    "url": "https://github.com/yunaremaia/memwatch"
   },
   {
     "description": "AI agent code examples",
@@ -72,15 +216,6 @@
     "url": "https://github.com/clizardyy/unbody"
   },
   {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31271,
-    "updated_at": "2026-10-01T15:37:30Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
     "description": "Personal RAG over your AI chat history \u2014 import, categorize, search and query all conversations in one local knowledge b",
     "id": "chalpanov1/gufo-rag",
     "language": "Python",
@@ -95,17 +230,8 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-01T15:44:31Z",
+    "updated_at": "2026-10-01T15:49:54Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-01T15:37:59Z",
-    "url": "https://github.com/sunormesky-max/epicode"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -115,15 +241,6 @@
     "stars": 84,
     "updated_at": "2026-10-01T15:39:37Z",
     "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
-    "id": "ssrjkk/agent-skills",
-    "language": "Python",
-    "name": "ssrjkk/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-01T15:35:17Z",
-    "url": "https://github.com/ssrjkk/agent-skills"
   },
   {
     "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
@@ -142,15 +259,6 @@
     "stars": 4442,
     "updated_at": "2026-10-01T15:32:11Z",
     "url": "https://github.com/crate/crate"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-01T15:30:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -184,7 +292,7 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 38369,
+    "stars": 38374,
     "updated_at": "2026-10-01T15:24:06Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -221,7 +329,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1176,
-    "updated_at": "2026-10-01T15:44:26Z",
+    "updated_at": "2026-10-01T15:59:07Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -257,7 +365,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-01T15:25:38Z",
+    "updated_at": "2026-10-01T15:52:46Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -302,7 +410,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-01T15:41:56Z",
+    "updated_at": "2026-10-01T15:51:47Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -311,7 +419,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34895,
-    "updated_at": "2026-10-01T15:32:29Z",
+    "updated_at": "2026-10-01T15:56:20Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -340,113 +448,5 @@
     "stars": 6109,
     "updated_at": "2026-10-01T15:27:31Z",
     "url": "https://github.com/HelixDB/helix-db"
-  },
-  {
-    "description": "An AI assistant that answers employees' questions from their company's own documents, with citations, and escalates to a",
-    "id": "awoladhossain/OpsPilot",
-    "language": "\u2014",
-    "name": "awoladhossain/OpsPilot",
-    "stars": 0,
-    "updated_at": "2026-10-01T14:40:18Z",
-    "url": "https://github.com/awoladhossain/OpsPilot"
-  },
-  {
-    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
-    "id": "MariaDB/server",
-    "language": "C++",
-    "name": "MariaDB/server",
-    "stars": 8307,
-    "updated_at": "2026-10-01T15:31:09Z",
-    "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
-    "id": "redrob-labs/redrob-recall",
-    "language": "Rust",
-    "name": "redrob-labs/redrob-recall",
-    "stars": 0,
-    "updated_at": "2026-10-01T14:37:08Z",
-    "url": "https://github.com/redrob-labs/redrob-recall"
-  },
-  {
-    "description": "DocMind AI is a RAG-based PDF assistant powered by FAISS, open-source embeddings, Groq GPT-OSS, and Streamlit.",
-    "id": "sabirprogrammer/knowledge_based-RAG",
-    "language": "Python",
-    "name": "sabirprogrammer/knowledge_based-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-01T14:36:43Z",
-    "url": "https://github.com/sabirprogrammer/knowledge_based-RAG"
-  },
-  {
-    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
-    "id": "weaviate/weaviate",
-    "language": "Go",
-    "name": "weaviate/weaviate",
-    "stars": 16860,
-    "updated_at": "2026-10-01T15:38:05Z",
-    "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "An AI agent that answers property-listing questions from the record and hands everything else to a human. MCP server, hy",
-    "id": "srnux/proptech-inquiry-agent",
-    "language": "TypeScript",
-    "name": "srnux/proptech-inquiry-agent",
-    "stars": 0,
-    "updated_at": "2026-10-01T14:30:07Z",
-    "url": "https://github.com/srnux/proptech-inquiry-agent"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-01T15:45:26Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "The AI search platform",
-    "id": "vespa-engine/vespa",
-    "language": "Java",
-    "name": "vespa-engine/vespa",
-    "stars": 7115,
-    "updated_at": "2026-10-01T15:40:06Z",
-    "url": "https://github.com/vespa-engine/vespa"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-01T14:10:58Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
-    "id": "rmednitzer/core-graph",
-    "language": "Python",
-    "name": "rmednitzer/core-graph",
-    "stars": 1,
-    "updated_at": "2026-10-01T14:08:03Z",
-    "url": "https://github.com/rmednitzer/core-graph"
-  },
-  {
-    "description": "Experienced 4+ Yrs across the full AI/ML lifecycle, from DE , DS and model development to API driven deployment, cloud i",
-    "id": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "language": "\u2014",
-    "name": "Ratnesh-181998/Resume-and-Social-Profiles",
-    "stars": 3,
-    "updated_at": "2026-10-01T14:07:24Z",
-    "url": "https://github.com/Ratnesh-181998/Resume-and-Social-Profiles"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-10-01T14:03:12Z",
-    "url": "https://github.com/23skdu/longbow"
   }
 ]
