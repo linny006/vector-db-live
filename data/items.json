@@ -1,5 +1,68 @@
 [
   {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-01T11:22:56Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
+    "id": "redrob-labs/redrob-recall",
+    "language": "Rust",
+    "name": "redrob-labs/redrob-recall",
+    "stars": 0,
+    "updated_at": "2026-10-01T11:20:17Z",
+    "url": "https://github.com/redrob-labs/redrob-recall"
+  },
+  {
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16859,
+    "updated_at": "2026-10-01T11:27:16Z",
+    "url": "https://github.com/weaviate/weaviate"
+  },
+  {
+    "description": "Production-grade AI customer support system \u2014 agentic RAG, multi-channel intake, Shopify/Stripe actions, self-healing KB",
+    "id": "ShafqaatMalik/n8n-cx-agent",
+    "language": "HTML",
+    "name": "ShafqaatMalik/n8n-cx-agent",
+    "stars": 0,
+    "updated_at": "2026-10-01T11:18:31Z",
+    "url": "https://github.com/ShafqaatMalik/n8n-cx-agent"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-01T11:18:31Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T11:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T11:15:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -43,24 +106,6 @@
     "stars": 4,
     "updated_at": "2026-10-01T11:08:34Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Production-grade AI customer support system \u2014 agentic RAG, multi-channel intake, Shopify/Stripe actions, self-healing KB",
-    "id": "ShafqaatMalik/n8n-cx-agent",
-    "language": "HTML",
-    "name": "ShafqaatMalik/n8n-cx-agent",
-    "stars": 0,
-    "updated_at": "2026-10-01T11:07:27Z",
-    "url": "https://github.com/ShafqaatMalik/n8n-cx-agent"
-  },
-  {
-    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
-    "id": "redrob-labs/redrob-recall",
-    "language": "Rust",
-    "name": "redrob-labs/redrob-recall",
-    "stars": 0,
-    "updated_at": "2026-10-01T11:07:23Z",
-    "url": "https://github.com/redrob-labs/redrob-recall"
   },
   {
     "description": "MCP server and agent that answer questions about property listings from the record and pass viewings, negotiation, legal",
@@ -135,24 +180,6 @@
     "url": "https://github.com/Accessible-sloughing768/docustra"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-01T11:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T11:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
     "id": "Surging-scotandlot818/product-dev-blueprint",
     "language": "TypeScript",
@@ -176,7 +203,7 @@
     "language": "Rust",
     "name": "HelixDB/helix-db",
     "stars": 6109,
-    "updated_at": "2026-10-01T10:59:04Z",
+    "updated_at": "2026-10-01T11:18:20Z",
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
@@ -283,7 +310,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31257,
+    "stars": 31258,
     "updated_at": "2026-10-01T10:51:15Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T10:32:58Z",
     "url": "https://github.com/Tribrix23/CleaveDB"
-  },
-  {
-    "description": "LawMate is an AI Digital Legal Assistant",
-    "id": "ruthwikr17/lawmate-legal-assistant",
-    "language": "JavaScript",
-    "name": "ruthwikr17/lawmate-legal-assistant",
-    "stars": 1,
-    "updated_at": "2026-10-01T10:31:00Z",
-    "url": "https://github.com/ruthwikr17/lawmate-legal-assistant"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-10-01T10:30:25Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-01T11:11:43Z",
-    "url": "https://github.com/GiulioDER/RE-call"
   }
 ]
