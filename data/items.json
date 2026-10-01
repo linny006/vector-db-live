@@ -1,12 +1,93 @@
 [
   {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-01T13:15:17Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Production-grade AI customer support system \u2014 agentic RAG, multi-channel intake, Shopify/Stripe actions, self-healing KB",
+    "id": "ShafqaatMalik/n8n-cx-agent",
+    "language": "HTML",
+    "name": "ShafqaatMalik/n8n-cx-agent",
+    "stars": 0,
+    "updated_at": "2026-10-01T13:13:16Z",
+    "url": "https://github.com/ShafqaatMalik/n8n-cx-agent"
+  },
+  {
+    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
+    "id": "redrob-labs/redrob-recall",
+    "language": "Rust",
+    "name": "redrob-labs/redrob-recall",
+    "stars": 0,
+    "updated_at": "2026-10-01T13:13:11Z",
+    "url": "https://github.com/redrob-labs/redrob-recall"
+  },
+  {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
     "id": "fenecdb/fenec",
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-01T12:59:50Z",
+    "updated_at": "2026-10-01T13:12:43Z",
     "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-01T13:11:59Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
+    "id": "RediSearch/RediSearch",
+    "language": "Rust",
+    "name": "RediSearch/RediSearch",
+    "stars": 6243,
+    "updated_at": "2026-10-01T13:10:19Z",
+    "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2577,
+    "updated_at": "2026-10-01T13:08:11Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Architected a C++ vector database implementing HNSW, KD-Tree, and Brute-Force search algorithms across distance metrics ",
+    "id": "Shashank17singh/Your-Own-AI",
+    "language": "C",
+    "name": "Shashank17singh/Your-Own-AI",
+    "stars": 0,
+    "updated_at": "2026-10-01T13:02:40Z",
+    "url": "https://github.com/Shashank17singh/Your-Own-AI"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T13:01:01Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T13:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
@@ -34,24 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T12:55:42Z",
     "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-01T12:58:41Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6243,
-    "updated_at": "2026-10-01T12:59:06Z",
-    "url": "https://github.com/RediSearch/RediSearch"
   },
   {
     "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
@@ -126,15 +189,6 @@
     "url": "https://github.com/maximilien/weave-cli"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2577,
-    "updated_at": "2026-10-01T12:50:56Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
     "id": "Synchronic-leafbud824/skill-vault",
     "language": "\u2014",
@@ -153,6 +207,15 @@
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31262,
+    "updated_at": "2026-10-01T13:08:51Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
     "id": "roberthalfway204/Document-Intelligent-Assistant",
     "language": "Python",
@@ -160,15 +223,6 @@
     "stars": 3,
     "updated_at": "2026-10-01T12:49:53Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-01T12:49:49Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "AI-powered support ticket system: inbound emails become tickets, auto-classified and resolved via a RAG pipeline grounde",
@@ -193,8 +247,8 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 38331,
-    "updated_at": "2026-10-01T12:47:11Z",
+    "stars": 38333,
+    "updated_at": "2026-10-01T13:12:55Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
@@ -212,7 +266,7 @@
     "language": "JavaScript",
     "name": "AkshatKumar10/chatdoc-ai",
     "stars": 0,
-    "updated_at": "2026-10-01T12:46:06Z",
+    "updated_at": "2026-10-01T13:13:18Z",
     "url": "https://github.com/AkshatKumar10/chatdoc-ai"
   },
   {
@@ -223,24 +277,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T12:46:04Z",
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-01T12:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T12:45:25Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
@@ -342,15 +378,6 @@
     "url": "https://github.com/eliasepro/groq-pdf-chat"
   },
   {
-    "description": "Production-grade AI customer support system \u2014 agentic RAG, multi-channel intake, Shopify/Stripe actions, self-healing KB",
-    "id": "ShafqaatMalik/n8n-cx-agent",
-    "language": "HTML",
-    "name": "ShafqaatMalik/n8n-cx-agent",
-    "stars": 0,
-    "updated_at": "2026-10-01T12:33:41Z",
-    "url": "https://github.com/ShafqaatMalik/n8n-cx-agent"
-  },
-  {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
@@ -414,24 +441,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Architected a C++ vector database implementing HNSW, KD-Tree, and Brute-Force search algorithms across distance metrics ",
-    "id": "Shashank17singh/Your-Own-AI",
-    "language": "C",
-    "name": "Shashank17singh/Your-Own-AI",
-    "stars": 0,
-    "updated_at": "2026-10-01T12:26:26Z",
-    "url": "https://github.com/Shashank17singh/Your-Own-AI"
-  },
-  {
-    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
-    "id": "redrob-labs/redrob-recall",
-    "language": "Rust",
-    "name": "redrob-labs/redrob-recall",
-    "stars": 0,
-    "updated_at": "2026-10-01T12:26:01Z",
-    "url": "https://github.com/redrob-labs/redrob-recall"
-  },
-  {
     "description": "22 lessons building generative AI apps with the Google Gemini API \u2014 quizzes, graded exercises, and every API claim verif",
     "id": "Himanshu-paghadar/ai-engineering-with-gemini",
     "language": "Python",
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T12:25:57Z",
     "url": "https://github.com/Himanshu-paghadar/ai-engineering-with-gemini"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-10-01T12:23:53Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
   }
 ]
