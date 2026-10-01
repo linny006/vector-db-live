@@ -1,5 +1,95 @@
 [
   {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-01T17:13:11Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
+    "id": "surajkumarnavodya/text-to-sql-agent-langgraph",
+    "language": "Python",
+    "name": "surajkumarnavodya/text-to-sql-agent-langgraph",
+    "stars": 4,
+    "updated_at": "2026-10-01T17:13:05Z",
+    "url": "https://github.com/surajkumarnavodya/text-to-sql-agent-langgraph"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-01T17:08:33Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-01T17:07:05Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31277,
+    "updated_at": "2026-10-01T17:04:27Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2572,
+    "updated_at": "2026-10-01T17:04:18Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-01T17:15:23Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "End-to-end sovereign personal AI OS (FastAPI + React 19 + Electron). Features local 14B LLMs, wake-word voice pipelines,",
+    "id": "AkashKundu114/COPPER",
+    "language": "Python",
+    "name": "AkashKundu114/COPPER",
+    "stars": 2,
+    "updated_at": "2026-10-01T17:02:40Z",
+    "url": "https://github.com/AkashKundu114/COPPER"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T17:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T17:15:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
     "id": "23skdu/longbow",
     "language": "Go",
@@ -13,27 +103,9 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66649,
+    "stars": 66650,
     "updated_at": "2026-10-01T16:56:53Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
-    "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
-    "id": "surajkumarnavodya/text-to-sql-agent-langgraph",
-    "language": "Python",
-    "name": "surajkumarnavodya/text-to-sql-agent-langgraph",
-    "stars": 4,
-    "updated_at": "2026-10-01T16:47:49Z",
-    "url": "https://github.com/surajkumarnavodya/text-to-sql-agent-langgraph"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-01T16:45:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -43,15 +115,6 @@
     "stars": 2,
     "updated_at": "2026-10-01T16:45:25Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T17:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Rust SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. HTTP/gRPC, vectors, hybrid search, knowledge graphs, se",
@@ -81,15 +144,6 @@
     "url": "https://github.com/hhblaze/DBreeze"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-01T16:48:45Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
     "id": "ssrjkk/agent-skills",
     "language": "Python",
@@ -97,15 +151,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T16:38:44Z",
     "url": "https://github.com/ssrjkk/agent-skills"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-01T16:38:15Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Go SDK for Dakera AI agent memory \u2014 self-hosted, 88.2% LoCoMo. Vectors, hybrid search, knowledge graphs, sessions.",
@@ -270,15 +315,6 @@
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2579,
-    "updated_at": "2026-10-01T16:19:46Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
     "id": "roberthalfway204/Document-Intelligent-Assistant",
     "language": "Python",
@@ -286,15 +322,6 @@
     "stars": 3,
     "updated_at": "2026-10-01T16:19:03Z",
     "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-01T16:54:55Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -421,32 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T16:04:55Z",
     "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-01T16:03:51Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-01T16:03:37Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-10-01T16:01:37Z",
-    "url": "https://github.com/humanhady/DocMine"
   }
 ]
