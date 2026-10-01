@@ -1,5 +1,86 @@
 [
   {
+    "description": "C# .NET NOSQL ( key value, object store embedded TextSearch SemanticSearch Vector layer ) ACID multi-paradigm database m",
+    "id": "hhblaze/DBreeze",
+    "language": "C#",
+    "name": "hhblaze/DBreeze",
+    "stars": 582,
+    "updated_at": "2026-10-01T19:00:06Z",
+    "url": "https://github.com/hhblaze/DBreeze"
+  },
+  {
+    "description": "Self improving agents through iterations",
+    "id": "AgentToolkit/altk-evolve",
+    "language": "Python",
+    "name": "AgentToolkit/altk-evolve",
+    "stars": 118,
+    "updated_at": "2026-10-01T18:59:18Z",
+    "url": "https://github.com/AgentToolkit/altk-evolve"
+  },
+  {
+    "description": "Architected a C++ vector database implementing HNSW, KD-Tree, and Brute-Force search algorithms across distance metrics ",
+    "id": "Shashank17singh/Your-Own-AI",
+    "language": "C",
+    "name": "Shashank17singh/Your-Own-AI",
+    "stars": 0,
+    "updated_at": "2026-10-01T18:54:51Z",
+    "url": "https://github.com/Shashank17singh/Your-Own-AI"
+  },
+  {
+    "description": "Agent Memory Health Monitor \u2014 scan AI agent memory stores for rot, contradictions, and duplicates",
+    "id": "yunaremaia/memwatch",
+    "language": "Python",
+    "name": "yunaremaia/memwatch",
+    "stars": 1,
+    "updated_at": "2026-10-01T18:52:12Z",
+    "url": "https://github.com/yunaremaia/memwatch"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9323,
+    "updated_at": "2026-10-01T18:59:34Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
+    "id": "imagodata/filter_mate",
+    "language": "Python",
+    "name": "imagodata/filter_mate",
+    "stars": 5,
+    "updated_at": "2026-10-01T18:48:45Z",
+    "url": "https://github.com/imagodata/filter_mate"
+  },
+  {
+    "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif",
+    "id": "langchain4j/langchain4j",
+    "language": "Java",
+    "name": "langchain4j/langchain4j",
+    "stars": 13190,
+    "updated_at": "2026-10-01T18:45:51Z",
+    "url": "https://github.com/langchain4j/langchain4j"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T18:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T18:45:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
     "id": "fenecdb/fenec",
     "language": "Rust",
@@ -32,7 +113,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1176,
-    "updated_at": "2026-10-01T18:42:36Z",
+    "updated_at": "2026-10-01T18:54:50Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -68,7 +149,7 @@
     "language": "Python",
     "name": "chalpanov1/gufo-rag",
     "stars": 1,
-    "updated_at": "2026-10-01T18:33:00Z",
+    "updated_at": "2026-10-01T18:54:43Z",
     "url": "https://github.com/chalpanov1/gufo-rag"
   },
   {
@@ -99,24 +180,6 @@
     "url": "https://github.com/Dakera-AI/dakera-cli"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-01T18:30:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T18:45:26Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
     "id": "devharis99/vectra",
     "language": "Python",
@@ -131,7 +194,7 @@
     "language": "TypeScript",
     "name": "genkit-ai/genkit",
     "stars": 6464,
-    "updated_at": "2026-10-01T18:36:53Z",
+    "updated_at": "2026-10-01T18:49:38Z",
     "url": "https://github.com/genkit-ai/genkit"
   },
   {
@@ -151,15 +214,6 @@
     "stars": 1,
     "updated_at": "2026-10-01T18:24:27Z",
     "url": "https://github.com/rehan243/rehan243"
-  },
-  {
-    "description": "FilterMate is a Qgis plugin, an everyday companion that allows you to easily filter your vector layers",
-    "id": "imagodata/filter_mate",
-    "language": "Python",
-    "name": "imagodata/filter_mate",
-    "stars": 5,
-    "updated_at": "2026-10-01T18:23:12Z",
-    "url": "https://github.com/imagodata/filter_mate"
   },
   {
     "description": "Chat with your documents \u2014 RAG app with FastAPI, ChromaDB and a web UI. Upload PDF/TXT, get grounded answers with source",
@@ -293,7 +347,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-01T18:40:40Z",
+    "updated_at": "2026-10-01T18:59:41Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -338,7 +392,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31282,
-    "updated_at": "2026-10-01T18:09:50Z",
+    "updated_at": "2026-10-01T18:49:32Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-01T18:02:08Z",
     "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-10-01T18:01:01Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
-  },
-  {
-    "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
-    "id": "RediSearch/RediSearch",
-    "language": "Rust",
-    "name": "RediSearch/RediSearch",
-    "stars": 6243,
-    "updated_at": "2026-10-01T18:45:06Z",
-    "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "\ud83e\udd16 Explore advanced NLP techniques and generative AI tools for real-world applications, enhancing language understanding ",
-    "id": "Alexreye/advance-nlp-generative-ai",
-    "language": "\u2014",
-    "name": "Alexreye/advance-nlp-generative-ai",
-    "stars": 1,
-    "updated_at": "2026-10-01T18:00:00Z",
-    "url": "https://github.com/Alexreye/advance-nlp-generative-ai"
-  },
-  {
-    "description": "\ud83d\udcc4 Chat with PDF files effortlessly using Groq PDF Chat; harness cloud speed and local processing for quick, cost-effecti",
-    "id": "eliasepro/groq-pdf-chat",
-    "language": "Python",
-    "name": "eliasepro/groq-pdf-chat",
-    "stars": 0,
-    "updated_at": "2026-10-01T17:58:39Z",
-    "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-10-01T17:55:18Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-10-01T17:53:30Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
   }
 ]
