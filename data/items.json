@@ -1,5 +1,113 @@
 [
   {
+    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
+    "id": "redrob-labs/redrob-recall",
+    "language": "Rust",
+    "name": "redrob-labs/redrob-recall",
+    "stars": 0,
+    "updated_at": "2026-10-01T10:15:09Z",
+    "url": "https://github.com/redrob-labs/redrob-recall"
+  },
+  {
+    "description": "PostgreSQL 18 Docker images built on postgres:18-bookworm, published to GitHub Container Registry under a single package",
+    "id": "zhyporium/postgres",
+    "language": "Shell",
+    "name": "zhyporium/postgres",
+    "stars": 1,
+    "updated_at": "2026-10-01T10:14:00Z",
+    "url": "https://github.com/zhyporium/postgres"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-10-01T10:13:00Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++",
+    "id": "Tribrix23/CleaveDB",
+    "language": "Python",
+    "name": "Tribrix23/CleaveDB",
+    "stars": 0,
+    "updated_at": "2026-10-01T10:12:23Z",
+    "url": "https://github.com/Tribrix23/CleaveDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-01T10:09:45Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI Powered assistant desgined for a Saving and Credit cooperative (SACCO) .  The agent aims to read the official SACCO R",
+    "id": "toxidity-18/SMARTSACCO-AI-Agent-",
+    "language": "Python",
+    "name": "toxidity-18/SMARTSACCO-AI-Agent-",
+    "stars": 0,
+    "updated_at": "2026-10-01T10:09:12Z",
+    "url": "https://github.com/toxidity-18/SMARTSACCO-AI-Agent-"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-01T10:08:25Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 84,
+    "updated_at": "2026-10-01T10:05:46Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2583,
+    "updated_at": "2026-10-01T10:02:18Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
+    "id": "gonicolas12/My_AI",
+    "language": "Python",
+    "name": "gonicolas12/My_AI",
+    "stars": 11,
+    "updated_at": "2026-10-01T10:00:59Z",
+    "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T10:00:41Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T10:00:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Self-hosted sovereign AI brain \u2014 persistent memory, RAG, governance kernel, federation. Docker Compose, AGPL",
     "id": "hbar-systems/brainfoundry-nous",
     "language": "Python",
@@ -7,6 +115,15 @@
     "stars": 1,
     "updated_at": "2026-10-01T09:59:45Z",
     "url": "https://github.com/hbar-systems/brainfoundry-nous"
+  },
+  {
+    "description": "Multilingual RAG app that retrieves and narrates 213 real Indian folk tales (8 public-domain sources) in English, Hindi,",
+    "id": "chHarshi/folk_tales_agent",
+    "language": "Python",
+    "name": "chHarshi/folk_tales_agent",
+    "stars": 0,
+    "updated_at": "2026-10-01T09:57:24Z",
+    "url": "https://github.com/chHarshi/folk_tales_agent"
   },
   {
     "description": "Autonomous Multi-Agent RAG workflow engine with LangGraph, Qdrant vector search, and FastAPI. Implements self-correcting",
@@ -18,30 +135,12 @@
     "url": "https://github.com/rahul-1909/NexusAI"
   },
   {
-    "description": "Redrob Recall is a local-first desktop app for searching your files and asking grounded questions about them.",
-    "id": "redrob-labs/redrob-recall",
-    "language": "Rust",
-    "name": "redrob-labs/redrob-recall",
-    "stars": 0,
-    "updated_at": "2026-10-01T09:56:08Z",
-    "url": "https://github.com/redrob-labs/redrob-recall"
-  },
-  {
-    "description": "AI Powered assistant desgined for a Saving and Credit cooperative (SACCO) .  The agent aims to read the official SACCO R",
-    "id": "toxidity-18/SMARTSACCO-AI-Agent-",
-    "language": "Python",
-    "name": "toxidity-18/SMARTSACCO-AI-Agent-",
-    "stars": 0,
-    "updated_at": "2026-10-01T09:54:41Z",
-    "url": "https://github.com/toxidity-18/SMARTSACCO-AI-Agent-"
-  },
-  {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
     "id": "RediSearch/RediSearch",
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6242,
-    "updated_at": "2026-10-01T09:58:05Z",
+    "updated_at": "2026-10-01T10:10:47Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -77,7 +176,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8308,
-    "updated_at": "2026-10-01T09:50:45Z",
+    "updated_at": "2026-10-01T10:14:49Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -86,44 +185,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1173,
-    "updated_at": "2026-10-01T09:46:11Z",
+    "updated_at": "2026-10-01T10:08:19Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-01T09:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T09:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
-    "id": "infino-ai/infino",
-    "language": "Rust",
-    "name": "infino-ai/infino",
-    "stars": 84,
-    "updated_at": "2026-10-01T09:45:21Z",
-    "url": "https://github.com/infino-ai/infino"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-01T09:41:04Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -162,21 +225,12 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2583,
-    "updated_at": "2026-10-01T09:22:23Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
     "id": "neomjs/neo-agent-brain",
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-01T09:49:09Z",
+    "updated_at": "2026-10-01T10:09:03Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -189,21 +243,12 @@
     "url": "https://github.com/emVisible/Ametrine"
   },
   {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-01T09:58:39Z",
-    "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34895,
-    "updated_at": "2026-10-01T09:59:23Z",
+    "updated_at": "2026-10-01T10:01:42Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -221,7 +266,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31253,
-    "updated_at": "2026-10-01T09:09:40Z",
+    "updated_at": "2026-10-01T10:02:42Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -230,7 +275,7 @@
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-01T09:52:25Z",
+    "updated_at": "2026-10-01T10:14:39Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -239,7 +284,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16861,
-    "updated_at": "2026-10-01T09:58:43Z",
+    "updated_at": "2026-10-01T10:06:32Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T07:47:02Z",
     "url": "https://github.com/viviannenitrogenous100/mentedb"
-  },
-  {
-    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
-    "id": "Synchronic-leafbud824/skill-vault",
-    "language": "\u2014",
-    "name": "Synchronic-leafbud824/skill-vault",
-    "stars": 2,
-    "updated_at": "2026-10-01T07:45:39Z",
-    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
-  },
-  {
-    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
-    "id": "Genusophiophagussqueezeplay359/ragpipe",
-    "language": "Python",
-    "name": "Genusophiophagussqueezeplay359/ragpipe",
-    "stars": 0,
-    "updated_at": "2026-10-01T07:45:33Z",
-    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "Chat with your documents \u2014 RAG app with FastAPI, ChromaDB and a web UI. Upload PDF/TXT, get grounded answers with source",
-    "id": "nisarahmad78/rag-document-qa",
-    "language": "Python",
-    "name": "nisarahmad78/rag-document-qa",
-    "stars": 0,
-    "updated_at": "2026-10-01T07:44:53Z",
-    "url": "https://github.com/nisarahmad78/rag-document-qa"
-  },
-  {
-    "description": "Hybrid retrieval API for LLM agents: multi-query fusion, dense + sparse search over LlamaCloud vector indexes, Cohere re",
-    "id": "sepehr071/rag-service",
-    "language": "Python",
-    "name": "sepehr071/rag-service",
-    "stars": 0,
-    "updated_at": "2026-10-01T07:43:04Z",
-    "url": "https://github.com/sepehr071/rag-service"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 4,
-    "updated_at": "2026-10-01T07:41:59Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
   }
 ]
