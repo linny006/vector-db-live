@@ -1,5 +1,104 @@
 [
   {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2572,
+    "updated_at": "2026-10-01T02:14:38Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-10-01T02:14:05Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "\ud83d\udcf0 Scrape and analyze AI news articles efficiently while powering semantic search capabilities for better insights and un",
+    "id": "Mehdi138534/ai-news-scraper",
+    "language": "HTML",
+    "name": "Mehdi138534/ai-news-scraper",
+    "stars": 0,
+    "updated_at": "2026-10-01T02:12:54Z",
+    "url": "https://github.com/Mehdi138534/ai-news-scraper"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6462,
+    "updated_at": "2026-10-01T02:10:31Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-01T02:10:26Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Awesome list of databases: relational, distributed SQL, document, key-value, graph, time-series, vector, search and OLAP",
+    "id": "dakotac1994/Awesome-db",
+    "language": "\u2014",
+    "name": "dakotac1994/Awesome-db",
+    "stars": 0,
+    "updated_at": "2026-10-01T02:09:47Z",
+    "url": "https://github.com/dakotac1994/Awesome-db"
+  },
+  {
+    "description": "A unified, async Python framework for LLM applications\u2014chat, autonomous agents, RAG, and sandboxed code execution. Suppo",
+    "id": "araray/llmcore",
+    "language": "Python",
+    "name": "araray/llmcore",
+    "stars": 4,
+    "updated_at": "2026-10-01T02:14:33Z",
+    "url": "https://github.com/araray/llmcore"
+  },
+  {
+    "description": "University LMS with a course-scoped RAG study assistant. .NET 10, Angular 22 and FastAPI, Docker Compose, YARP gateway, ",
+    "id": "Marcoh05P/EdOU",
+    "language": "C#",
+    "name": "Marcoh05P/EdOU",
+    "stars": 1,
+    "updated_at": "2026-10-01T02:03:08Z",
+    "url": "https://github.com/Marcoh05P/EdOU"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1172,
+    "updated_at": "2026-10-01T02:01:01Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T02:00:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T02:00:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
     "id": "pixeltable/pixeltable",
     "language": "Python",
@@ -18,15 +117,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2571,
-    "updated_at": "2026-10-01T01:56:54Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "Self improving agents through iterations",
     "id": "AgentToolkit/altk-evolve",
     "language": "Python",
@@ -34,42 +124,6 @@
     "stars": 118,
     "updated_at": "2026-10-01T01:53:49Z",
     "url": "https://github.com/AgentToolkit/altk-evolve"
-  },
-  {
-    "description": "A unified, async Python framework for LLM applications\u2014chat, autonomous agents, RAG, and sandboxed code execution. Suppo",
-    "id": "araray/llmcore",
-    "language": "Python",
-    "name": "araray/llmcore",
-    "stars": 4,
-    "updated_at": "2026-10-01T01:48:27Z",
-    "url": "https://github.com/araray/llmcore"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1172,
-    "updated_at": "2026-10-01T01:46:59Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-01T01:45:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T01:45:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A fast vector database",
@@ -95,7 +149,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9317,
-    "updated_at": "2026-10-01T01:52:54Z",
+    "updated_at": "2026-10-01T02:05:17Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -133,15 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-01T01:24:15Z",
     "url": "https://github.com/kzxl/ZeroVector"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-01T01:23:29Z",
-    "url": "https://github.com/sunormesky-max/epicode"
   },
   {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
@@ -214,15 +259,6 @@
     "stars": 10295,
     "updated_at": "2026-10-01T01:00:47Z",
     "url": "https://github.com/oceanbase/oceanbase"
-  },
-  {
-    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
-    "id": "genkit-ai/genkit",
-    "language": "TypeScript",
-    "name": "genkit-ai/genkit",
-    "stars": 6461,
-    "updated_at": "2026-10-01T01:16:47Z",
-    "url": "https://github.com/genkit-ai/genkit"
   },
   {
     "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T00:32:31Z",
     "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31245,
-    "updated_at": "2026-10-01T00:30:34Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 268,
-    "updated_at": "2026-10-01T00:28:47Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-10-01T00:26:36Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "\ud83e\udde0 Build a RAG-driven chatbot to answer user questions using real-world knowledge from documents, focused on mental healt",
-    "id": "hesamaria/rag-chatbot",
-    "language": "Python",
-    "name": "hesamaria/rag-chatbot",
-    "stars": 4,
-    "updated_at": "2026-10-01T00:26:29Z",
-    "url": "https://github.com/hesamaria/rag-chatbot"
   }
 ]
