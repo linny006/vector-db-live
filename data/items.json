@@ -1,12 +1,93 @@
 [
   {
-    "description": "An Agentic AI teaching platform featuring a human-in-the-loop architecture where teachers can dynamically guide AI tutor",
-    "id": "asimansari-git/teaching-loop",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "asimansari-git/teaching-loop",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-01T15:15:26Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Personal RAG over your AI chat history \u2014 import, categorize, search and query all conversations in one local knowledge b",
+    "id": "chalpanov1/gufo-rag",
+    "language": "Python",
+    "name": "chalpanov1/gufo-rag",
+    "stars": 1,
+    "updated_at": "2026-10-01T15:14:58Z",
+    "url": "https://github.com/chalpanov1/gufo-rag"
+  },
+  {
+    "description": "A full-stack conversational PDF question-answering app built with FastAPI, LangChain, Google Gemini, and React.",
+    "id": "AkshatKumar10/chatdoc-ai",
+    "language": "JavaScript",
+    "name": "AkshatKumar10/chatdoc-ai",
     "stars": 0,
-    "updated_at": "2026-10-01T14:57:00Z",
-    "url": "https://github.com/asimansari-git/teaching-loop"
+    "updated_at": "2026-10-01T15:13:14Z",
+    "url": "https://github.com/AkshatKumar10/chatdoc-ai"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31270,
+    "updated_at": "2026-10-01T15:14:36Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-01T15:12:28Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Redis Vector Library. The AI-native Python client for Redis.",
+    "id": "redis/redis-vl-python",
+    "language": "Python",
+    "name": "redis/redis-vl-python",
+    "stars": 431,
+    "updated_at": "2026-10-01T15:11:02Z",
+    "url": "https://github.com/redis/redis-vl-python"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-01T15:14:47Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
+    "id": "ssrjkk/agent-skills",
+    "language": "Python",
+    "name": "ssrjkk/agent-skills",
+    "stars": 1,
+    "updated_at": "2026-10-01T15:09:41Z",
+    "url": "https://github.com/ssrjkk/agent-skills"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-01T15:09:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "AI agent code examples",
+    "id": "nekozzz94/NekoAI-agents",
+    "language": "Python",
+    "name": "nekozzz94/NekoAI-agents",
+    "stars": 18,
+    "updated_at": "2026-10-01T15:03:35Z",
+    "url": "https://github.com/nekozzz94/NekoAI-agents"
   },
   {
     "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
@@ -14,8 +95,44 @@
     "language": "Python",
     "name": "boddetijayanth22/Enterprise-Knowledge-Assistant",
     "stars": 2,
-    "updated_at": "2026-10-01T14:55:24Z",
+    "updated_at": "2026-10-01T15:02:56Z",
     "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-01T15:06:17Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "",
+    "id": "moyunzero/personal-gpt",
+    "language": "TypeScript",
+    "name": "moyunzero/personal-gpt",
+    "stars": 3,
+    "updated_at": "2026-10-01T15:01:05Z",
+    "url": "https://github.com/moyunzero/personal-gpt"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-01T15:00:33Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "An Agentic AI teaching platform featuring a human-in-the-loop architecture where teachers can dynamically guide AI tutor",
+    "id": "asimansari-git/teaching-loop",
+    "language": "Python",
+    "name": "asimansari-git/teaching-loop",
+    "stars": 0,
+    "updated_at": "2026-10-01T14:57:00Z",
+    "url": "https://github.com/asimansari-git/teaching-loop"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -27,29 +144,11 @@
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
-    "description": "Personal RAG over your AI chat history \u2014 import, categorize, search and query all conversations in one local knowledge b",
-    "id": "chalpanov1/gufo-rag",
-    "language": "Python",
-    "name": "chalpanov1/gufo-rag",
-    "stars": 1,
-    "updated_at": "2026-10-01T14:53:15Z",
-    "url": "https://github.com/chalpanov1/gufo-rag"
-  },
-  {
-    "description": "AI agent code examples",
-    "id": "nekozzz94/NekoAI-agents",
-    "language": "Python",
-    "name": "nekozzz94/NekoAI-agents",
-    "stars": 18,
-    "updated_at": "2026-10-01T14:53:09Z",
-    "url": "https://github.com/nekozzz94/NekoAI-agents"
-  },
-  {
     "description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 38362,
+    "stars": 38364,
     "updated_at": "2026-10-01T14:52:23Z",
     "url": "https://github.com/VectifyAI/PageIndex"
   },
@@ -61,15 +160,6 @@
     "stars": 1354,
     "updated_at": "2026-10-01T14:51:56Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31270,
-    "updated_at": "2026-10-01T14:58:37Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "End-to-end sovereign personal AI OS (FastAPI + React 19 + Electron). Features local 14B LLMs, wake-word voice pipelines,",
@@ -90,30 +180,12 @@
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-01T14:45:33Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-01T15:00:30Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
     "id": "qdrant/qdrant",
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34895,
-    "updated_at": "2026-10-01T14:43:30Z",
+    "updated_at": "2026-10-01T15:13:42Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -144,15 +216,6 @@
     "url": "https://github.com/HelixDB/helix-db"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-01T14:40:25Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "An AI assistant that answers employees' questions from their company's own documents, with citations, and escalates to a",
     "id": "awoladhossain/OpsPilot",
     "language": "\u2014",
@@ -167,7 +230,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8307,
-    "updated_at": "2026-10-01T14:40:10Z",
+    "updated_at": "2026-10-01T15:02:23Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -194,17 +257,8 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16860,
-    "updated_at": "2026-10-01T14:59:19Z",
+    "updated_at": "2026-10-01T15:01:37Z",
     "url": "https://github.com/weaviate/weaviate"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-01T14:57:46Z",
-    "url": "https://github.com/sunormesky-max/epicode"
   },
   {
     "description": "Agent Memory Health Monitor \u2014 scan AI agent memory stores for rot, contradictions, and duplicates",
@@ -243,40 +297,13 @@
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-01T14:58:45Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11572,
+    "stars": 11573,
     "updated_at": "2026-10-01T14:24:30Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "100 curated bilingual (EN + RU) skills in the universal Agent Skills format for Claude Code, OpenCode, Cursor, Windsurf ",
-    "id": "ssrjkk/agent-skills",
-    "language": "Python",
-    "name": "ssrjkk/agent-skills",
-    "stars": 1,
-    "updated_at": "2026-10-01T14:19:09Z",
-    "url": "https://github.com/ssrjkk/agent-skills"
-  },
-  {
-    "description": "Redis Vector Library. The AI-native Python client for Redis.",
-    "id": "redis/redis-vl-python",
-    "language": "Python",
-    "name": "redis/redis-vl-python",
-    "stars": 431,
-    "updated_at": "2026-10-01T14:26:15Z",
-    "url": "https://github.com/redis/redis-vl-python"
   },
   {
     "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
@@ -378,6 +405,15 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2113,
+    "updated_at": "2026-10-01T13:24:42Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
     "description": "An official lightweight library for the RaBitQ algorithm and its applications in vector search.",
     "id": "VectorDB-NTU/RaBitQ-Library",
     "language": "C++",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-01T13:17:26Z",
     "url": "https://github.com/Amz34/awesome-agent-infrastructure"
-  },
-  {
-    "description": "Built a private AI knowledge assistant using RAG, LangChain, ChromaDB, vector embeddings, and Python. Enables semantic s",
-    "id": "krishiv-3/Sovereign-AI-Workbench-Private-RAG-AI-Knowledge-Assistant",
-    "language": "Python",
-    "name": "krishiv-3/Sovereign-AI-Workbench-Private-RAG-AI-Knowledge-Assistant",
-    "stars": 0,
-    "updated_at": "2026-10-01T13:16:00Z",
-    "url": "https://github.com/krishiv-3/Sovereign-AI-Workbench-Private-RAG-AI-Knowledge-Assistant"
-  },
-  {
-    "description": "A local vector database accessible via MCP. Standalone vector representations, storage in sqlite-vec format, splitting i",
-    "id": "QkartBismuth/Bismut_MCP_Vector",
-    "language": "TypeScript",
-    "name": "QkartBismuth/Bismut_MCP_Vector",
-    "stars": 0,
-    "updated_at": "2026-10-01T13:15:50Z",
-    "url": "https://github.com/QkartBismuth/Bismut_MCP_Vector"
-  },
-  {
-    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
-    "id": "neuron-core/neuron-ai",
-    "language": "PHP",
-    "name": "neuron-core/neuron-ai",
-    "stars": 2112,
-    "updated_at": "2026-10-01T13:24:42Z",
-    "url": "https://github.com/neuron-core/neuron-ai"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2577,
-    "updated_at": "2026-10-01T13:08:11Z",
-    "url": "https://github.com/xerj-org/xerj"
   }
 ]
