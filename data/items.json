@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-02T20:45:24Z",
+    "updated_at": "2026-10-02T21:00:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "autonomous web developer orchestration with python. now has hierarchical RAG using vector databases",
+    "id": "samettemizer/nesti",
+    "language": "Python",
+    "name": "samettemizer/nesti",
+    "stars": 0,
+    "updated_at": "2026-10-02T21:00:05Z",
+    "url": "https://github.com/samettemizer/nesti"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1176,
+    "updated_at": "2026-10-02T20:57:09Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11585,
+    "updated_at": "2026-10-02T20:56:49Z",
+    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
@@ -14,8 +41,71 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-02T20:44:18Z",
+    "updated_at": "2026-10-02T20:56:18Z",
     "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-02T20:56:14Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31305,
+    "updated_at": "2026-10-02T20:55:58Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 17,
+    "updated_at": "2026-10-02T20:55:29Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9337,
+    "updated_at": "2026-10-02T21:00:03Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 352,
+    "updated_at": "2026-10-02T20:49:29Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "A lightweight, local document assistant that uses Retrieval-Augmented Generation (RAG) to chat with your PDFs, DOCX, TXT",
+    "id": "shibiliCM/Clario",
+    "language": "JavaScript",
+    "name": "shibiliCM/Clario",
+    "stars": 0,
+    "updated_at": "2026-10-02T20:50:00Z",
+    "url": "https://github.com/shibiliCM/Clario"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-02T20:45:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -41,7 +131,7 @@
     "language": "Python",
     "name": "pavelhorak/pion",
     "stars": 0,
-    "updated_at": "2026-10-02T20:38:54Z",
+    "updated_at": "2026-10-02T20:50:54Z",
     "url": "https://github.com/pavelhorak/pion"
   },
   {
@@ -54,31 +144,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Nongor - High Accuracy Local First RAG Chat",
+    "description": "Local-first RAG chat that answers questions about your documents with citations. BGE-M3 embeddings, hybrid dense + BM25 ",
     "id": "riverbornai/nongor",
     "language": "Python",
     "name": "riverbornai/nongor",
     "stars": 2,
     "updated_at": "2026-10-02T20:36:56Z",
     "url": "https://github.com/riverbornai/nongor"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1176,
-    "updated_at": "2026-10-02T20:39:54Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-02T20:30:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -94,7 +166,7 @@
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
     "name": "Mintplex-Labs/anything-llm",
-    "stars": 66668,
+    "stars": 66667,
     "updated_at": "2026-10-02T20:24:29Z",
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
@@ -117,15 +189,6 @@
     "url": "https://github.com/desikai-lab/Marrow"
   },
   {
-    "description": "A lightweight, local document assistant that uses Retrieval-Augmented Generation (RAG) to chat with your PDFs, DOCX, TXT",
-    "id": "shibiliCM/Clario",
-    "language": "JavaScript",
-    "name": "shibiliCM/Clario",
-    "stars": 0,
-    "updated_at": "2026-10-02T20:24:31Z",
-    "url": "https://github.com/shibiliCM/Clario"
-  },
-  {
     "description": "A vector database in a single .urna file, with SHA-256-verifiable citations, hybrid search and an offline runtime in Rus",
     "id": "hoffresearch/urna",
     "language": "Rust",
@@ -133,15 +196,6 @@
     "stars": 11,
     "updated_at": "2026-10-02T20:25:40Z",
     "url": "https://github.com/hoffresearch/urna"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 352,
-    "updated_at": "2026-10-02T20:18:43Z",
-    "url": "https://github.com/schmitech/orbit"
   },
   {
     "description": "Curated, graph-aware retrieval substrate for human-AI teams \u2014 RAG + reranker + curation surface. The casebook to kos's p",
@@ -189,15 +243,6 @@
     "url": "https://github.com/SynapseKit/SynapseKit"
   },
   {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 17,
-    "updated_at": "2026-10-02T20:35:31Z",
-    "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
     "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
     "id": "xerj-org/xerj",
     "language": "Rust",
@@ -232,24 +277,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T19:49:06Z",
     "url": "https://github.com/darylalim/rag-pipeline"
-  },
-  {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-02T20:40:59Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9337,
-    "updated_at": "2026-10-02T20:23:06Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -421,32 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-02T19:08:27Z",
     "url": "https://github.com/okeidontlike/Awareness-Local"
-  },
-  {
-    "description": "Build PDF Q&A with RAG, OpenAI, and ChromaDB for fast, local answers from policies, contracts, and resumes",
-    "id": "ahmahmahm/pdf-rag-assistant",
-    "language": "\u2014",
-    "name": "ahmahmahm/pdf-rag-assistant",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:08:21Z",
-    "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-02T19:08:19Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-10-02T19:06:42Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   }
 ]
