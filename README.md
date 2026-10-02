@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-02 05:15 UTC
+> ⏰ Last updated: 2026-10-02 05:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,15 +42,15 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [ahb-sjsu/turboquant-pro](https://github.com/ahb-sjsu/turboquant-pro) | 26 | Python | 2026-10-02 | Consumer-aware compression for embedding indexes and LLM KV caches — compress by the metric the downstream consumer actu |
-| 3 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-02 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 4 | [sunormesky-max/epicode](https://github.com/sunormesky-max/epicode) | 8 | Rust | 2026-10-02 | Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense. |
-| 5 | [Tribrix23/CleaveDB](https://github.com/Tribrix23/CleaveDB) | 0 | Python | 2026-10-02 | Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++ |
-| 6 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 4 | HTML | 2026-10-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 7 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-10-02 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
-| 8 | [ShafqaatMalik/n8n-cx-agent](https://github.com/ShafqaatMalik/n8n-cx-agent) | 0 | HTML | 2026-10-02 | Production-grade AI customer support agent on n8n: agentic RAG (Gemini + Qdrant) with a self-healing knowledge base, cha |
-| 9 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [ShafqaatMalik/n8n-cx-agent](https://github.com/ShafqaatMalik/n8n-cx-agent) | 0 | HTML | 2026-10-02 | Production-grade AI customer support agent on n8n: agentic RAG (Gemini + Qdrant) with a self-healing knowledge base, cha |
+| 2 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-02 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 3 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-10-02 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
+| 4 | [Tribrix23/CleaveDB](https://github.com/Tribrix23/CleaveDB) | 0 | Python | 2026-10-02 | Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++ |
+| 5 | [ahb-sjsu/turboquant-pro](https://github.com/ahb-sjsu/turboquant-pro) | 26 | Python | 2026-10-02 | Consumer-aware compression for embedding indexes and LLM KV caches — compress by the metric the downstream consumer actu |
+| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 8 | [sunormesky-max/epicode](https://github.com/sunormesky-max/epicode) | 8 | Rust | 2026-10-02 | Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense. |
+| 9 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 4 | HTML | 2026-10-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
 | 10 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1176 | Java | 2026-10-02 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
 | 11 | [pesu-dev/ask-pesu](https://github.com/pesu-dev/ask-pesu) | 10 | TypeScript | 2026-10-02 | A RAG pipeline for question answering about PES University |
 | 12 | [PersonalClaw/PersonalClawApps](https://github.com/PersonalClaw/PersonalClawApps) | 0 | Python | 2026-10-02 | First-party app bundles for PersonalClaw — 69 apps across model providers, search, speech (STT/TTS), local models, agent |
