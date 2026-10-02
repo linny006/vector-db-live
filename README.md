@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-02 06:00 UTC
+> ⏰ Last updated: 2026-10-02 06:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [Tribrix23/CleaveDB](https://github.com/Tribrix23/CleaveDB) | 0 | Python | 2026-10-02 | Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++ |
-| 2 | [vanshjain-0702/DBX-Database-Extreme](https://github.com/vanshjain-0702/DBX-Database-Extreme) | 3 | Go | 2026-10-02 | DBX is an open-source, high-density in-memory database engine built in Go, engineered specifically to serve as the secur |
-| 3 | [boddetijayanth22/Enterprise-Knowledge-Assistant](https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant) | 2 | Python | 2026-10-02 | Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre |
-| 4 | [tala-io/taladb](https://github.com/tala-io/taladb) | 4 | Rust | 2026-10-02 | TalaDB - An open-source embedded vector and document database for building local-first AI applications. |
-| 5 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-02 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
-| 6 | [surajkumarnavodya/text-to-sql-agent-langgraph](https://github.com/surajkumarnavodya/text-to-sql-agent-langgraph) | 3 | Python | 2026-10-02 | Self-correcting text-to-SQL agent — LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid |
-| 7 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 1978 | Python | 2026-10-02 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
-| 8 | [qdrant/java-client](https://github.com/qdrant/java-client) | 99 | Java | 2026-10-02 | Official Java client for Qdrant  |
-| 9 | [infino-ai/infino](https://github.com/infino-ai/infino) | 84 | Rust | 2026-10-02 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
-| 10 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 11 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 12 | [awoladhossain/OpsPilot](https://github.com/awoladhossain/OpsPilot) | 0 | TypeScript | 2026-10-02 | An AI assistant that answers employees' questions from their company's own documents, with citations, and escalates to a |
-| 13 | [mask-software/kitedb](https://github.com/mask-software/kitedb) | 4 | Rust | 2026-10-02 | High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding. |
-| 14 | [asad-mj/multimodal-doc-rag](https://github.com/asad-mj/multimodal-doc-rag) | 0 | Python | 2026-10-02 | Production multimodal retrieval-augmented generation engine parsing structured tables, diagrams, and unstructured PDFs u |
-| 15 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 4 | HTML | 2026-10-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 16 | [amankarki151/lattice](https://github.com/amankarki151/lattice) | 1 | C++ | 2026-10-02 | An embedded vector database written from scratch in C++ — HNSW index, WAL-backed storage, benchmarked against Qdrant and |
-| 17 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-10-02 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
+| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 2 | [makr-code/ThemisDB](https://github.com/makr-code/ThemisDB) | 9 | C++ | 2026-10-02 | Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC.  |
+| 3 | [fenecdb/fenec](https://github.com/fenecdb/fenec) | 0 | Rust | 2026-10-02 | Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [Tribrix23/CleaveDB](https://github.com/Tribrix23/CleaveDB) | 0 | Python | 2026-10-02 | Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++ |
+| 6 | [vanshjain-0702/DBX-Database-Extreme](https://github.com/vanshjain-0702/DBX-Database-Extreme) | 3 | Go | 2026-10-02 | DBX is an open-source, high-density in-memory database engine built in Go, engineered specifically to serve as the secur |
+| 7 | [boddetijayanth22/Enterprise-Knowledge-Assistant](https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant) | 2 | Python | 2026-10-02 | Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre |
+| 8 | [tala-io/taladb](https://github.com/tala-io/taladb) | 4 | Rust | 2026-10-02 | TalaDB - An open-source embedded vector and document database for building local-first AI applications. |
+| 9 | [surajkumarnavodya/text-to-sql-agent-langgraph](https://github.com/surajkumarnavodya/text-to-sql-agent-langgraph) | 3 | Python | 2026-10-02 | Self-correcting text-to-SQL agent — LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid |
+| 10 | [doobidoo/mcp-memory-service](https://github.com/doobidoo/mcp-memory-service) | 1978 | Python | 2026-10-02 | Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph |
+| 11 | [qdrant/java-client](https://github.com/qdrant/java-client) | 99 | Java | 2026-10-02 | Official Java client for Qdrant  |
+| 12 | [infino-ai/infino](https://github.com/infino-ai/infino) | 84 | Rust | 2026-10-02 | Embedded retrieval library built on Parquet. Fast, efficient, and scalable. |
+| 13 | [awoladhossain/OpsPilot](https://github.com/awoladhossain/OpsPilot) | 0 | TypeScript | 2026-10-02 | An AI assistant that answers employees' questions from their company's own documents, with citations, and escalates to a |
+| 14 | [mask-software/kitedb](https://github.com/mask-software/kitedb) | 4 | Rust | 2026-10-02 | High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding. |
+| 15 | [asad-mj/multimodal-doc-rag](https://github.com/asad-mj/multimodal-doc-rag) | 0 | Python | 2026-10-02 | Production multimodal retrieval-augmented generation engine parsing structured tables, diagrams, and unstructured PDFs u |
+| 16 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 4 | HTML | 2026-10-02 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 17 | [amankarki151/lattice](https://github.com/amankarki151/lattice) | 1 | C++ | 2026-10-02 | An embedded vector database written from scratch in C++ — HNSW index, WAL-backed storage, benchmarked against Qdrant and |
 | 18 | [ShafqaatMalik/n8n-cx-agent](https://github.com/ShafqaatMalik/n8n-cx-agent) | 0 | HTML | 2026-10-02 | Production-grade AI customer support agent on n8n: agentic RAG (Gemini + Qdrant) with a self-healing knowledge base, cha |
 | 19 | [ahb-sjsu/turboquant-pro](https://github.com/ahb-sjsu/turboquant-pro) | 26 | Python | 2026-10-02 | Consumer-aware compression for embedding indexes and LLM KV caches — compress by the metric the downstream consumer actu |
 | 20 | [sunormesky-max/epicode](https://github.com/sunormesky-max/epicode) | 8 | Rust | 2026-10-02 | Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense. |
