@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-02 00:00 UTC
+> ⏰ Last updated: 2026-10-02 00:15 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,13 +42,13 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [desikai-lab/Marrow](https://github.com/desikai-lab/Marrow) | 7 | Python | 2026-10-01 | Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac |
-| 2 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9329 | Rust | 2026-10-01 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 3 | [devharis99/vectra](https://github.com/devharis99/vectra) | 1 | Python | 2026-10-01 | Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite |
-| 4 | [Piyush-Sambyall/rag-patterns-and-pitfalls](https://github.com/Piyush-Sambyall/rag-patterns-and-pitfalls) | 0 | Python | 2026-10-01 | A developer toolkit for analyzing RAG pipelines. Includes implementations of advanced retrieval strategies and diagnosti |
-| 5 | [schmitech/orbit](https://github.com/schmitech/orbit) | 352 | Python | 2026-10-01 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
-| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-01 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 1 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9330 | Rust | 2026-10-02 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-02 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-02 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [desikai-lab/Marrow](https://github.com/desikai-lab/Marrow) | 7 | Python | 2026-10-01 | Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac |
+| 5 | [devharis99/vectra](https://github.com/devharis99/vectra) | 1 | Python | 2026-10-01 | Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite |
+| 6 | [Piyush-Sambyall/rag-patterns-and-pitfalls](https://github.com/Piyush-Sambyall/rag-patterns-and-pitfalls) | 0 | Python | 2026-10-01 | A developer toolkit for analyzing RAG pipelines. Includes implementations of advanced retrieval strategies and diagnosti |
+| 7 | [schmitech/orbit](https://github.com/schmitech/orbit) | 352 | Python | 2026-10-01 | Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents. |
 | 8 | [KalsoumDS/RAG-Document-Intelligence](https://github.com/KalsoumDS/RAG-Document-Intelligence) | 0 | Python | 2026-10-01 | 📄 Structured RAG Document Intelligence Pipeline — Semantic chunking, FAISS vector search, MMR re-ranking & 100% sourced  |
 | 9 | [Raynerhalfandhalf451/writeback](https://github.com/Raynerhalfandhalf451/writeback) | 0 | JavaScript | 2026-10-01 | Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with |
 | 10 | [Accessible-sloughing768/docustra](https://github.com/Accessible-sloughing768/docustra) | 0 | Python | 2026-10-01 | Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen |
