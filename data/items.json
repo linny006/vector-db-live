@@ -1,5 +1,59 @@
 [
   {
+    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
+    "id": "2B-4G10/NoLockQS",
+    "language": "Kotlin",
+    "name": "2B-4G10/NoLockQS",
+    "stars": 0,
+    "updated_at": "2026-10-02T23:29:49Z",
+    "url": "https://github.com/2B-4G10/NoLockQS"
+  },
+  {
+    "description": "Spring Data Reindexer",
+    "id": "evgeniycheban/spring-data-reindexer",
+    "language": "Java",
+    "name": "evgeniycheban/spring-data-reindexer",
+    "stars": 24,
+    "updated_at": "2026-10-02T23:24:58Z",
+    "url": "https://github.com/evgeniycheban/spring-data-reindexer"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9339,
+    "updated_at": "2026-10-02T23:26:06Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-02T23:22:31Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T23:15:55Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-02T23:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
     "id": "Benorina1/llm-vector-retrieval-playbook",
     "language": "HTML",
@@ -27,31 +81,13 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-02T23:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T23:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
     "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9339,
-    "updated_at": "2026-10-02T23:11:10Z",
-    "url": "https://github.com/paradedb/paradedb"
+    "name": "xerj-org/xerj",
+    "stars": 2586,
+    "updated_at": "2026-10-02T23:26:58Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -320,7 +356,7 @@
     "language": "Python",
     "name": "brennercruvinel/mtg-urna-benchmark",
     "stars": 0,
-    "updated_at": "2026-10-02T23:01:48Z",
+    "updated_at": "2026-10-02T23:18:38Z",
     "url": "https://github.com/brennercruvinel/mtg-urna-benchmark"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-02T22:24:50Z",
     "url": "https://github.com/leitoooatr/PythonVectorDB"
-  },
-  {
-    "description": "\ud83d\udd0d Enhance your searches with Self-Corrective RAG, a system that optimizes queries and evaluates document relevance using",
-    "id": "Jeroflo88/Self-Corrective-RAG",
-    "language": "Python",
-    "name": "Jeroflo88/Self-Corrective-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-02T22:23:56Z",
-    "url": "https://github.com/Jeroflo88/Self-Corrective-RAG"
-  },
-  {
-    "description": "",
-    "id": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "language": "\u2014",
-    "name": "juliusadroit905/RAG-vs-Fine-Tuning",
-    "stars": 1,
-    "updated_at": "2026-10-02T22:21:14Z",
-    "url": "https://github.com/juliusadroit905/RAG-vs-Fine-Tuning"
-  },
-  {
-    "description": "\ud83e\udd16 Build a smart AI assistant that learns from any website using a Retrieval-Augmented Generation framework with local mo",
-    "id": "roberto729a/OllamaRAG",
-    "language": "Python",
-    "name": "roberto729a/OllamaRAG",
-    "stars": 7,
-    "updated_at": "2026-10-02T22:16:00Z",
-    "url": "https://github.com/roberto729a/OllamaRAG"
-  },
-  {
-    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
-    "id": "Shajo777/SupaAI-Framework-Template",
-    "language": "\u2014",
-    "name": "Shajo777/SupaAI-Framework-Template",
-    "stars": 0,
-    "updated_at": "2026-10-02T22:14:05Z",
-    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
   }
 ]
