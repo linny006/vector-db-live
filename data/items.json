@@ -1,12 +1,102 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T15:45:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "TalaDB for Android",
+    "id": "tala-io/taladb-kotlin",
+    "language": "Kotlin",
+    "name": "tala-io/taladb-kotlin",
+    "stars": 0,
+    "updated_at": "2026-10-02T15:44:13Z",
+    "url": "https://github.com/tala-io/taladb-kotlin"
+  },
+  {
+    "description": "Open-source framework for building agentic apps in JavaScript, Go, Dart, and Python, built and used in production by Goo",
+    "id": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "name": "genkit-ai/genkit",
+    "stars": 6466,
+    "updated_at": "2026-10-02T15:41:17Z",
+    "url": "https://github.com/genkit-ai/genkit"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-10-02T15:40:48Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-02T15:39:05Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 261,
+    "updated_at": "2026-10-02T15:36:50Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-02T15:36:42Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31299,
-    "updated_at": "2026-10-02T15:28:22Z",
+    "updated_at": "2026-10-02T15:36:17Z",
     "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding.",
+    "id": "mask-software/kitedb",
+    "language": "Rust",
+    "name": "mask-software/kitedb",
+    "stars": 4,
+    "updated_at": "2026-10-02T15:33:20Z",
+    "url": "https://github.com/mask-software/kitedb"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-02T15:34:18Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-02T15:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -27,31 +117,22 @@
     "url": "https://github.com/al7o/DocuMind-AI-Engine"
   },
   {
+    "description": "AI-powered grounded study assistant for DSA with timestamp-precise YouTube lecture retrieval, page-level PDF search, and",
+    "id": "shubhhamydv/unstuck",
+    "language": "TypeScript",
+    "name": "shubhhamydv/unstuck",
+    "stars": 0,
+    "updated_at": "2026-10-02T15:26:25Z",
+    "url": "https://github.com/shubhhamydv/unstuck"
+  },
+  {
     "description": "Infinispan is an open source data grid platform and highly scalable NoSQL cloud data store.",
     "id": "infinispan/infinispan",
     "language": "Java",
     "name": "infinispan/infinispan",
     "stars": 1354,
-    "updated_at": "2026-10-02T15:25:21Z",
+    "updated_at": "2026-10-02T15:41:54Z",
     "url": "https://github.com/infinispan/infinispan"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-10-02T15:21:54Z",
-    "url": "https://github.com/iberi22/xavier"
-  },
-  {
-    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
-    "id": "liliang-cn/cortexdb",
-    "language": "Go",
-    "name": "liliang-cn/cortexdb",
-    "stars": 261,
-    "updated_at": "2026-10-02T15:20:42Z",
-    "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
     "description": "Local-first hybrid RAG for scientific PDFs: bilingual (EL/EN) Q&A with page-level citations, an anti-hallucination relev",
@@ -61,24 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T15:20:04Z",
     "url": "https://github.com/kostas221/local-rag-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-02T15:15:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T15:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Knowledge Manager LLM",
@@ -99,15 +162,6 @@
     "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-02T15:09:16Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
     "id": "IronCoreLabs/ironcore-alloy",
     "language": "Rust",
@@ -115,6 +169,15 @@
     "stars": 30,
     "updated_at": "2026-10-02T15:10:38Z",
     "url": "https://github.com/IronCoreLabs/ironcore-alloy"
+  },
+  {
+    "description": "Java RAG knowledge base Q&A \u00b7 Spring Boot + Vue 3 \u00b7 Ollama / DashScope",
+    "id": "beiluoL/rag-knowledge-qa-system",
+    "language": "Java",
+    "name": "beiluoL/rag-knowledge-qa-system",
+    "stars": 0,
+    "updated_at": "2026-10-02T15:06:59Z",
+    "url": "https://github.com/beiluoL/rag-knowledge-qa-system"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -149,7 +212,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1176,
-    "updated_at": "2026-10-02T15:30:08Z",
+    "updated_at": "2026-10-02T15:44:09Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -216,15 +279,6 @@
     "url": "https://github.com/weaviate/docs"
   },
   {
-    "description": "High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding.",
-    "id": "mask-software/kitedb",
-    "language": "Rust",
-    "name": "mask-software/kitedb",
-    "stars": 4,
-    "updated_at": "2026-10-02T14:47:53Z",
-    "url": "https://github.com/mask-software/kitedb"
-  },
-  {
     "description": "Pion \u2014 the memory engine for AI inference",
     "id": "pavelhorak/pion",
     "language": "Python",
@@ -238,7 +292,7 @@
     "id": "meilisearch/meilisearch",
     "language": "Rust",
     "name": "meilisearch/meilisearch",
-    "stars": 59464,
+    "stars": 59465,
     "updated_at": "2026-10-02T14:42:55Z",
     "url": "https://github.com/meilisearch/meilisearch"
   },
@@ -248,7 +302,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11585,
-    "updated_at": "2026-10-02T15:28:57Z",
+    "updated_at": "2026-10-02T15:41:03Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T14:14:46Z",
     "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-10-02T14:14:36Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-10-02T14:14:23Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 4,
-    "updated_at": "2026-10-02T14:13:19Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-10-02T14:12:24Z",
-    "url": "https://github.com/aziz5971/TalentLens"
-  },
-  {
-    "description": "Agentic Optimizer and Toolkit for experimentation using the Oracle AI Database",
-    "id": "oracle/ai-optimizer",
-    "language": "Python",
-    "name": "oracle/ai-optimizer",
-    "stars": 101,
-    "updated_at": "2026-10-02T14:12:17Z",
-    "url": "https://github.com/oracle/ai-optimizer"
-  },
-  {
-    "description": "Build FastAPI AI agents with a clear blueprint for reliable, maintainable app architecture",
-    "id": "lannyfervent952/fastapi-agent-blueprint",
-    "language": "Python",
-    "name": "lannyfervent952/fastapi-agent-blueprint",
-    "stars": 1,
-    "updated_at": "2026-10-02T14:11:38Z",
-    "url": "https://github.com/lannyfervent952/fastapi-agent-blueprint"
   }
 ]
