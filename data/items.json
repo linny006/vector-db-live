@@ -1,12 +1,84 @@
 [
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-02T13:09:53Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T13:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "\ud83e\udd16 Build enterprise-grade AI assistants with the SupaAI Framework, designed for seamless Supabase integration and scalabl",
+    "id": "Shajo777/SupaAI-Framework-Template",
+    "language": "\u2014",
+    "name": "Shajo777/SupaAI-Framework-Template",
+    "stars": 0,
+    "updated_at": "2026-10-02T13:29:28Z",
+    "url": "https://github.com/Shajo777/SupaAI-Framework-Template"
+  },
+  {
+    "description": "\ud83d\ude80 Explore hands-on examples and tutorials on Generative AI using Langchain and Huggingface, enhancing your skills from b",
+    "id": "DanieldfMedina/GenAI-Course-Repo",
+    "language": "C++",
+    "name": "DanieldfMedina/GenAI-Course-Repo",
+    "stars": 0,
+    "updated_at": "2026-10-02T13:28:47Z",
+    "url": "https://github.com/DanieldfMedina/GenAI-Course-Repo"
+  },
+  {
+    "description": "A pure-Go, single-file AI memory and knowledge graph library and plugin.",
+    "id": "liliang-cn/cortexdb",
+    "language": "Go",
+    "name": "liliang-cn/cortexdb",
+    "stars": 261,
+    "updated_at": "2026-10-02T13:24:30Z",
+    "url": "https://github.com/liliang-cn/cortexdb"
+  },
+  {
+    "description": "Local-first hybrid RAG for scientific PDFs: bilingual (EL/EN) Q&A with page-level citations, an anti-hallucination relev",
+    "id": "kostas221/local-rag-assistant",
+    "language": "Python",
+    "name": "kostas221/local-rag-assistant",
+    "stars": 0,
+    "updated_at": "2026-10-02T13:24:18Z",
+    "url": "https://github.com/kostas221/local-rag-assistant"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 95,
+    "updated_at": "2026-10-02T13:23:58Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-10-02T13:23:35Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 893,
+    "updated_at": "2026-10-02T13:26:29Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
+    "id": "lioensky/VCPToolBox",
+    "language": "JavaScript",
+    "name": "lioensky/VCPToolBox",
+    "stars": 2345,
+    "updated_at": "2026-10-02T13:21:51Z",
+    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "Embeddable vector database for edge AI",
@@ -14,8 +86,26 @@
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-10-02T13:07:37Z",
+    "updated_at": "2026-10-02T13:21:04Z",
     "url": "https://github.com/vanedb/vanedb"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-02T13:18:31Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-02T13:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding.",
@@ -32,7 +122,7 @@
     "language": "Java",
     "name": "opencrawling/opencrawling",
     "stars": 20,
-    "updated_at": "2026-10-02T13:04:46Z",
+    "updated_at": "2026-10-02T13:29:42Z",
     "url": "https://github.com/opencrawling/opencrawling"
   },
   {
@@ -43,24 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T13:01:24Z",
     "url": "https://github.com/VarunBhasin-05/contextual-rag-assistant"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-02T13:00:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T13:00:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "The AI search platform",
@@ -88,15 +160,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T12:58:37Z",
     "url": "https://github.com/nikoma/bicdb"
-  },
-  {
-    "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
-    "id": "lioensky/VCPToolBox",
-    "language": "JavaScript",
-    "name": "lioensky/VCPToolBox",
-    "stars": 2345,
-    "updated_at": "2026-10-02T12:58:06Z",
-    "url": "https://github.com/lioensky/VCPToolBox"
   },
   {
     "description": "Redis Vector Library. The AI-native Python client for Redis.",
@@ -133,15 +196,6 @@
     "stars": 13194,
     "updated_at": "2026-10-02T12:48:47Z",
     "url": "https://github.com/langchain4j/langchain4j"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 893,
-    "updated_at": "2026-10-02T13:01:56Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Identity and Authorization Service with Vector and AI Integration",
@@ -185,7 +239,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-02T12:44:07Z",
+    "updated_at": "2026-10-02T13:27:00Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -266,7 +320,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8309,
-    "updated_at": "2026-10-02T13:04:47Z",
+    "updated_at": "2026-10-02T13:28:57Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -284,7 +338,7 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34903,
-    "updated_at": "2026-10-02T12:22:53Z",
+    "updated_at": "2026-10-02T13:24:32Z",
     "url": "https://github.com/qdrant/qdrant"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-02T12:02:54Z",
     "url": "https://github.com/constancywoodsy286/agentic-rag-for-practice"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2031,
-    "updated_at": "2026-10-02T12:35:04Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-10-02T11:59:50Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-10-02T11:59:49Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-10-02T11:59:36Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
-  },
-  {
-    "description": "Compress embeddings, retrieval vectors, and KV-cache with TurboQuant codecs for 10x smaller storage and NumPy-first AI w",
-    "id": "Ac3v3d0/semafold",
-    "language": "Python",
-    "name": "Ac3v3d0/semafold",
-    "stars": 4,
-    "updated_at": "2026-10-02T11:58:51Z",
-    "url": "https://github.com/Ac3v3d0/semafold"
-  },
-  {
-    "description": "Analyze candidates with a multi-agent AI screening pipeline that matches skills, verifies background, and prepares inter",
-    "id": "aziz5971/TalentLens",
-    "language": "Python",
-    "name": "aziz5971/TalentLens",
-    "stars": 2,
-    "updated_at": "2026-10-02T11:58:15Z",
-    "url": "https://github.com/aziz5971/TalentLens"
   }
 ]
