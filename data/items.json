@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-02T05:00:21Z",
+    "updated_at": "2026-10-02T05:15:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
+    "id": "ahb-sjsu/turboquant-pro",
+    "language": "Python",
+    "name": "ahb-sjsu/turboquant-pro",
+    "stars": 26,
+    "updated_at": "2026-10-02T05:14:58Z",
+    "url": "https://github.com/ahb-sjsu/turboquant-pro"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-02T05:14:31Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
+    "id": "sunormesky-max/epicode",
+    "language": "Rust",
+    "name": "sunormesky-max/epicode",
+    "stars": 8,
+    "updated_at": "2026-10-02T05:13:04Z",
+    "url": "https://github.com/sunormesky-max/epicode"
+  },
+  {
+    "description": "Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++",
+    "id": "Tribrix23/CleaveDB",
+    "language": "Python",
+    "name": "Tribrix23/CleaveDB",
+    "stars": 0,
+    "updated_at": "2026-10-02T05:09:36Z",
+    "url": "https://github.com/Tribrix23/CleaveDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-02T05:09:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-02T05:07:51Z",
+    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "Production-grade AI customer support agent on n8n: agentic RAG (Gemini + Qdrant) with a self-healing knowledge base, cha",
@@ -14,8 +68,17 @@
     "language": "HTML",
     "name": "ShafqaatMalik/n8n-cx-agent",
     "stars": 0,
-    "updated_at": "2026-10-02T04:58:19Z",
+    "updated_at": "2026-10-02T05:01:10Z",
     "url": "https://github.com/ShafqaatMalik/n8n-cx-agent"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-02T05:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -25,24 +88,6 @@
     "stars": 1176,
     "updated_at": "2026-10-02T04:58:03Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense.",
-    "id": "sunormesky-max/epicode",
-    "language": "Rust",
-    "name": "sunormesky-max/epicode",
-    "stars": 8,
-    "updated_at": "2026-10-02T04:57:10Z",
-    "url": "https://github.com/sunormesky-max/epicode"
-  },
-  {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-02T04:59:52Z",
-    "url": "https://github.com/makr-code/ThemisDB"
   },
   {
     "description": "A RAG pipeline for question answering about PES University",
@@ -63,24 +108,6 @@
     "url": "https://github.com/PersonalClaw/PersonalClawApps"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-02T05:00:13Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "Consumer-aware compression for embedding indexes and LLM KV caches \u2014 compress by the metric the downstream consumer actu",
-    "id": "ahb-sjsu/turboquant-pro",
-    "language": "Python",
-    "name": "ahb-sjsu/turboquant-pro",
-    "stars": 26,
-    "updated_at": "2026-10-02T04:49:08Z",
-    "url": "https://github.com/ahb-sjsu/turboquant-pro"
-  },
-  {
     "description": "An AI assistant that answers employees' questions from their company's own documents, with citations, and escalates to a",
     "id": "awoladhossain/OpsPilot",
     "language": "\u2014",
@@ -95,17 +122,8 @@
     "language": "Rust",
     "name": "tala-io/taladb",
     "stars": 4,
-    "updated_at": "2026-10-02T04:46:45Z",
+    "updated_at": "2026-10-02T05:12:56Z",
     "url": "https://github.com/tala-io/taladb"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-02T04:45:30Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
@@ -115,15 +133,6 @@
     "stars": 4,
     "updated_at": "2026-10-02T04:59:58Z",
     "url": "https://github.com/surajkumarnavodya/text-to-sql-agent-langgraph"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-02T04:41:47Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
@@ -328,7 +337,7 @@
     "id": "lancedb/lancedb",
     "language": "Rust",
     "name": "lancedb/lancedb",
-    "stars": 11582,
+    "stars": 11583,
     "updated_at": "2026-10-02T04:11:46Z",
     "url": "https://github.com/lancedb/lancedb"
   },
@@ -439,14 +448,5 @@
     "stars": 12,
     "updated_at": "2026-10-02T03:53:39Z",
     "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-10-02T03:52:35Z",
-    "url": "https://github.com/Maurellone/TySVA"
   }
 ]
