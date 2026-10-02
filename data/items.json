@@ -5,17 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-02T18:00:22Z",
+    "updated_at": "2026-10-02T18:15:26Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
+    "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
+    "id": "2B-4G10/NoLockQS",
+    "language": "Kotlin",
+    "name": "2B-4G10/NoLockQS",
     "stars": 0,
-    "updated_at": "2026-10-02T17:59:12Z",
-    "url": "https://github.com/fenecdb/fenec"
+    "updated_at": "2026-10-02T18:13:37Z",
+    "url": "https://github.com/2B-4G10/NoLockQS"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-02T18:12:21Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 18,
+    "updated_at": "2026-10-02T18:06:27Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
+    "id": "ness-e/Vantadb",
+    "language": "Rust",
+    "name": "ness-e/Vantadb",
+    "stars": 2,
+    "updated_at": "2026-10-02T18:12:59Z",
+    "url": "https://github.com/ness-e/Vantadb"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 352,
+    "updated_at": "2026-10-02T18:04:35Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34907,
+    "updated_at": "2026-10-02T18:03:18Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Tutorial: AWS Bedrock and SQLite-backed RAG agent running in Lambda whose snapshot is a single S3 object.",
@@ -23,8 +68,26 @@
     "language": "TypeScript",
     "name": "equationalapplications/sqlite-s3-agent-tutorial",
     "stars": 0,
-    "updated_at": "2026-10-02T18:00:08Z",
+    "updated_at": "2026-10-02T18:03:58Z",
     "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-02T18:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-02T18:08:23Z",
+    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -32,7 +95,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-02T17:57:13Z",
+    "updated_at": "2026-10-02T18:15:27Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -41,7 +104,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1176,
-    "updated_at": "2026-10-02T17:59:46Z",
+    "updated_at": "2026-10-02T18:15:29Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -54,21 +117,12 @@
     "url": "https://github.com/eizadhamdan/ScholarGraph"
   },
   {
-    "description": "AI-powered semantic product search using Sentence Transformers and ChromaDB.",
-    "id": "anvesh1307/semantic-product-search",
-    "language": "Jupyter Notebook",
-    "name": "anvesh1307/semantic-product-search",
-    "stars": 0,
-    "updated_at": "2026-10-02T17:54:35Z",
-    "url": "https://github.com/anvesh1307/semantic-product-search"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9336,
-    "updated_at": "2026-10-02T17:58:04Z",
+    "updated_at": "2026-10-02T18:13:48Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -79,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T17:47:29Z",
     "url": "https://github.com/awoladhossain/OpsPilot"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-02T17:45:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Telegram assistant with per-user vector memory and source-cited document RAG using Haystack, Pinecone and Docling.",
@@ -115,15 +160,6 @@
     "stars": 4,
     "updated_at": "2026-10-02T17:39:17Z",
     "url": "https://github.com/mask-software/kitedb"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-02T17:37:36Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Embeddable vector database for edge AI",
@@ -405,15 +441,6 @@
     "url": "https://github.com/a258huit58/claude-memory"
   },
   {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 18,
-    "updated_at": "2026-10-02T17:54:48Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
     "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
     "id": "Anonymousforareason111/hybrid-orchestrator",
     "language": "Python",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-02T17:08:19Z",
     "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-  },
-  {
-    "description": "TalaDB for Android",
-    "id": "tala-io/taladb-kotlin",
-    "language": "Kotlin",
-    "name": "tala-io/taladb-kotlin",
-    "stars": 0,
-    "updated_at": "2026-10-02T17:06:44Z",
-    "url": "https://github.com/tala-io/taladb-kotlin"
-  },
-  {
-    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
-    "id": "tradik/mddb",
-    "language": "Go",
-    "name": "tradik/mddb",
-    "stars": 4,
-    "updated_at": "2026-10-02T17:07:01Z",
-    "url": "https://github.com/tradik/mddb"
-  },
-  {
-    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
-    "id": "ELSAKKK/mnemos-mcp",
-    "language": "Python",
-    "name": "ELSAKKK/mnemos-mcp",
-    "stars": 5,
-    "updated_at": "2026-10-02T17:04:13Z",
-    "url": "https://github.com/ELSAKKK/mnemos-mcp"
   }
 ]
