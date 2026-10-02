@@ -1,11 +1,74 @@
 [
   {
+    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
+    "id": "monaccode/astromesh",
+    "language": "Python",
+    "name": "monaccode/astromesh",
+    "stars": 34,
+    "updated_at": "2026-10-02T21:30:04Z",
+    "url": "https://github.com/monaccode/astromesh"
+  },
+  {
+    "description": "High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding.",
+    "id": "mask-software/kitedb",
+    "language": "Rust",
+    "name": "mask-software/kitedb",
+    "stars": 4,
+    "updated_at": "2026-10-02T21:26:29Z",
+    "url": "https://github.com/mask-software/kitedb"
+  },
+  {
+    "description": "A lightweight, local document assistant that uses Retrieval-Augmented Generation (RAG) to chat with your PDFs, DOCX, TXT",
+    "id": "shibiliCM/Clario",
+    "language": "JavaScript",
+    "name": "shibiliCM/Clario",
+    "stars": 0,
+    "updated_at": "2026-10-02T21:24:29Z",
+    "url": "https://github.com/shibiliCM/Clario"
+  },
+  {
+    "description": "Retrieval-augmented generation, hands on: a local RAG Explorer app and a test-case RAG chatbot in n8n + Pinecone",
+    "id": "jayamvishnudeep/RAG",
+    "language": "JavaScript",
+    "name": "jayamvishnudeep/RAG",
+    "stars": 0,
+    "updated_at": "2026-10-02T21:19:49Z",
+    "url": "https://github.com/jayamvishnudeep/RAG"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9337,
+    "updated_at": "2026-10-02T21:27:22Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1176,
+    "updated_at": "2026-10-02T21:28:18Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-02T21:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-02T21:15:23Z",
+    "updated_at": "2026-10-02T21:30:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,7 +86,7 @@
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-10-02T21:09:49Z",
+    "updated_at": "2026-10-02T21:26:35Z",
     "url": "https://github.com/ness-e/Vantadb"
   },
   {
@@ -45,15 +108,6 @@
     "url": "https://github.com/StephenCote/AccountManager7"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-02T21:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
     "id": "Artemon-line/ai-memory-hub",
     "language": "Python",
@@ -70,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T21:00:05Z",
     "url": "https://github.com/samettemizer/nesti"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1176,
-    "updated_at": "2026-10-02T21:14:09Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
@@ -126,15 +171,6 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9337,
-    "updated_at": "2026-10-02T21:13:48Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
     "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
     "id": "schmitech/orbit",
     "language": "Python",
@@ -149,17 +185,8 @@
     "language": "Java",
     "name": "opencrawling/opencrawling",
     "stars": 21,
-    "updated_at": "2026-10-02T20:47:22Z",
+    "updated_at": "2026-10-02T21:18:23Z",
     "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
-    "description": "A lightweight, local document assistant that uses Retrieval-Augmented Generation (RAG) to chat with your PDFs, DOCX, TXT",
-    "id": "shibiliCM/Clario",
-    "language": "JavaScript",
-    "name": "shibiliCM/Clario",
-    "stars": 0,
-    "updated_at": "2026-10-02T21:14:01Z",
-    "url": "https://github.com/shibiliCM/Clario"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -185,7 +212,7 @@
     "language": "Python",
     "name": "pavelhorak/pion",
     "stars": 0,
-    "updated_at": "2026-10-02T20:50:54Z",
+    "updated_at": "2026-10-02T21:16:49Z",
     "url": "https://github.com/pavelhorak/pion"
   },
   {
@@ -306,15 +333,6 @@
     "url": "https://github.com/RasmusBerg2713/fintech-document-vector-ingest-vector-ingest-fintech-typescr"
   },
   {
-    "description": "Multi-model AI agent runtime. Define agents in YAML, route each role to a model, orchestrate with 7 patterns (ReAct, Pla",
-    "id": "monaccode/astromesh",
-    "language": "Python",
-    "name": "monaccode/astromesh",
-    "stars": 34,
-    "updated_at": "2026-10-02T19:49:13Z",
-    "url": "https://github.com/monaccode/astromesh"
-  },
-  {
     "description": "CLI and Streamlit application for a Retrieval Augmented Generation (RAG) pipeline.",
     "id": "darylalim/rag-pipeline",
     "language": "Python",
@@ -430,23 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-02T19:11:33Z",
     "url": "https://github.com/sarcosomebankcheck694/coordinode"
-  },
-  {
-    "description": "Parse PDFs, DOCX, PPTX, XLSX, and CSV into validated, AI-ready chunks for privacy-first RAG pipelines with HITL review",
-    "id": "Rippledirham767/LongParser",
-    "language": "Python",
-    "name": "Rippledirham767/LongParser",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:11:31Z",
-    "url": "https://github.com/Rippledirham767/LongParser"
-  },
-  {
-    "description": "Browse and index 1,071 database systems from DBDB.io for fast discovery, comparison, and research",
-    "id": "cornelablastular720/dbdb-index",
-    "language": "Go",
-    "name": "cornelablastular720/dbdb-index",
-    "stars": 1,
-    "updated_at": "2026-10-02T19:11:17Z",
-    "url": "https://github.com/cornelablastular720/dbdb-index"
   }
 ]
