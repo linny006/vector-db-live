@@ -1,12 +1,48 @@
 [
   {
-    "description": "Hallucination-aware RAG assistant for Indian government schemes. Every answer is verified claim-by-claim against retriev",
-    "id": "aakashc23/schemesure",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
     "language": "Python",
-    "name": "aakashc23/schemesure",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-02T09:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++",
+    "id": "Tribrix23/CleaveDB",
+    "language": "Python",
+    "name": "Tribrix23/CleaveDB",
     "stars": 0,
-    "updated_at": "2026-10-02T09:14:21Z",
-    "url": "https://github.com/aakashc23/schemesure"
+    "updated_at": "2026-10-02T09:27:43Z",
+    "url": "https://github.com/Tribrix23/CleaveDB"
+  },
+  {
+    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
+    "id": "GiulioDER/RE-call",
+    "language": "Python",
+    "name": "GiulioDER/RE-call",
+    "stars": 6,
+    "updated_at": "2026-10-02T09:27:38Z",
+    "url": "https://github.com/GiulioDER/RE-call"
+  },
+  {
+    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
+    "id": "YunanJeong/rag-git-docs",
+    "language": "Python",
+    "name": "YunanJeong/rag-git-docs",
+    "stars": 0,
+    "updated_at": "2026-10-02T09:27:06Z",
+    "url": "https://github.com/YunanJeong/rag-git-docs"
+  },
+  {
+    "description": "Personal RAG over your AI chat history \u2014 import, categorize, search and query all conversations in one local knowledge b",
+    "id": "chalpanov1/gufo-rag",
+    "language": "Python",
+    "name": "chalpanov1/gufo-rag",
+    "stars": 1,
+    "updated_at": "2026-10-02T09:26:21Z",
+    "url": "https://github.com/chalpanov1/gufo-rag"
   },
   {
     "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
@@ -14,8 +50,44 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-02T09:13:50Z",
+    "updated_at": "2026-10-02T09:24:17Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "Hallucination-aware RAG assistant for Indian government schemes. Every answer is verified claim-by-claim against retriev",
+    "id": "aakashc23/schemesure",
+    "language": "Python",
+    "name": "aakashc23/schemesure",
+    "stars": 0,
+    "updated_at": "2026-10-02T09:23:22Z",
+    "url": "https://github.com/aakashc23/schemesure"
+  },
+  {
+    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
+    "id": "desikai-lab/Marrow",
+    "language": "Python",
+    "name": "desikai-lab/Marrow",
+    "stars": 7,
+    "updated_at": "2026-10-02T09:30:22Z",
+    "url": "https://github.com/desikai-lab/Marrow"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1176,
+    "updated_at": "2026-10-02T09:16:27Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-02T09:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Agentic Optimizer and Toolkit for experimentation using the Oracle AI Database",
@@ -72,15 +144,6 @@
     "url": "https://github.com/VectorDB-NTU/RaBitQ-Library"
   },
   {
-    "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
-    "id": "GiulioDER/RE-call",
-    "language": "Python",
-    "name": "GiulioDER/RE-call",
-    "stars": 6,
-    "updated_at": "2026-10-02T09:09:38Z",
-    "url": "https://github.com/GiulioDER/RE-call"
-  },
-  {
     "description": "Retrieval-Augmented Generation (RAG) system for querying code, documentation, and project structure from GitHub reposito",
     "id": "davidfernxndez/github-repository-rag",
     "language": "Jupyter Notebook",
@@ -88,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-02T09:05:29Z",
     "url": "https://github.com/davidfernxndez/github-repository-rag"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-02T09:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-02T09:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "An AI agent that answers property-listing questions from the record and hands everything else to a human. MCP server, hy",
@@ -144,15 +189,6 @@
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
-    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
-    "id": "desikai-lab/Marrow",
-    "language": "Python",
-    "name": "desikai-lab/Marrow",
-    "stars": 7,
-    "updated_at": "2026-10-02T08:46:53Z",
-    "url": "https://github.com/desikai-lab/Marrow"
-  },
-  {
     "description": "Lightweight Nearest Neighbors with Flexible Backends",
     "id": "MinishLab/vicinity",
     "language": "Python",
@@ -162,15 +198,6 @@
     "url": "https://github.com/MinishLab/vicinity"
   },
   {
-    "description": "Beyond NoSQL. A hyper-fast graph and vector database you query in plain English. Built on a unique Python, Rust, and C++",
-    "id": "Tribrix23/CleaveDB",
-    "language": "Python",
-    "name": "Tribrix23/CleaveDB",
-    "stars": 0,
-    "updated_at": "2026-10-02T08:28:58Z",
-    "url": "https://github.com/Tribrix23/CleaveDB"
-  },
-  {
     "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
     "id": "ness-e/Vantadb",
     "language": "Rust",
@@ -178,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-10-02T08:24:36Z",
     "url": "https://github.com/ness-e/Vantadb"
-  },
-  {
-    "description": "Collects markdown scattered across GitLab/GitHub repos and makes it searchable via vector DB.",
-    "id": "YunanJeong/rag-git-docs",
-    "language": "Python",
-    "name": "YunanJeong/rag-git-docs",
-    "stars": 0,
-    "updated_at": "2026-10-02T08:16:22Z",
-    "url": "https://github.com/YunanJeong/rag-git-docs"
   },
   {
     "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
@@ -277,6 +295,15 @@
     "stars": 0,
     "updated_at": "2026-10-02T07:48:27Z",
     "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "",
+    "id": "elastic/mcp-server-elasticsearch",
+    "language": "Rust",
+    "name": "elastic/mcp-server-elasticsearch",
+    "stars": 719,
+    "updated_at": "2026-10-02T07:47:40Z",
+    "url": "https://github.com/elastic/mcp-server-elasticsearch"
   },
   {
     "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
@@ -421,32 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-02T07:34:04Z",
     "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-10-02T07:32:27Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
-  },
-  {
-    "description": "\ud83e\udde0 Explore a FAIR-compliant knowledge graph that analyzes ancient debates on free will, fate, and moral responsibility fr",
-    "id": "buitoan112233/EleutherIA",
-    "language": "Shell",
-    "name": "buitoan112233/EleutherIA",
-    "stars": 2,
-    "updated_at": "2026-10-02T07:31:04Z",
-    "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "",
-    "id": "Dangamuwagedilshan/x0",
-    "language": "\u2014",
-    "name": "Dangamuwagedilshan/x0",
-    "stars": 1,
-    "updated_at": "2026-10-02T07:29:38Z",
-    "url": "https://github.com/Dangamuwagedilshan/x0"
   }
 ]
