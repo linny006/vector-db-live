@@ -1,11 +1,74 @@
 [
   {
+    "description": "Architected a C++ vector database implementing HNSW, KD-Tree, and Brute-Force search algorithms across distance metrics ",
+    "id": "Shashank17singh/Your-Own-AI",
+    "language": "C",
+    "name": "Shashank17singh/Your-Own-AI",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:23:55Z",
+    "url": "https://github.com/Shashank17singh/Your-Own-AI"
+  },
+  {
+    "description": "Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data",
+    "id": "NGT-labs/NGT",
+    "language": "C++",
+    "name": "NGT-labs/NGT",
+    "stars": 1374,
+    "updated_at": "2026-10-02T01:20:26Z",
+    "url": "https://github.com/NGT-labs/NGT"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-02T01:20:22Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Vector database in Rust: from-scratch HNSW with hand-written NEON/AVX2 kernels, int8 and PQ quantization, WAL + mmap seg",
+    "id": "useless-husband/quiver",
+    "language": "Rust",
+    "name": "useless-husband/quiver",
+    "stars": 0,
+    "updated_at": "2026-10-02T01:19:43Z",
+    "url": "https://github.com/useless-husband/quiver"
+  },
+  {
+    "description": "AI agent code examples",
+    "id": "nekozzz94/NekoAI-agents",
+    "language": "Python",
+    "name": "nekozzz94/NekoAI-agents",
+    "stars": 18,
+    "updated_at": "2026-10-02T01:18:46Z",
+    "url": "https://github.com/nekozzz94/NekoAI-agents"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
+    "language": "JavaScript",
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-02T01:18:00Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-02T01:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-02T01:15:20Z",
+    "updated_at": "2026-10-02T01:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -18,15 +81,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "AI agent code examples",
-    "id": "nekozzz94/NekoAI-agents",
-    "language": "Python",
-    "name": "nekozzz94/NekoAI-agents",
-    "stars": 18,
-    "updated_at": "2026-10-02T01:10:23Z",
-    "url": "https://github.com/nekozzz94/NekoAI-agents"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -34,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-10-02T01:09:52Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-02T01:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A unified, async Python framework for LLM applications\u2014chat, autonomous agents, RAG, and sandboxed code execution. Suppo",
@@ -59,7 +104,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31293,
-    "updated_at": "2026-10-02T01:06:23Z",
+    "updated_at": "2026-10-02T01:22:33Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -122,7 +167,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2569,
-    "updated_at": "2026-10-02T01:08:04Z",
+    "updated_at": "2026-10-02T01:21:15Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -131,7 +176,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9330,
-    "updated_at": "2026-10-02T01:04:56Z",
+    "updated_at": "2026-10-02T01:22:03Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -311,7 +356,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8308,
-    "updated_at": "2026-10-01T23:25:58Z",
+    "updated_at": "2026-10-02T01:24:45Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -403,50 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-01T23:15:21Z",
     "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-10-01T23:14:51Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "Enterprise RAG Platform API \u2014 Production-grade document intelligence backend in Python/FastAPI with JWT auth, async Post",
-    "id": "jwteeba/rag-platform",
-    "language": "Python",
-    "name": "jwteeba/rag-platform",
-    "stars": 0,
-    "updated_at": "2026-10-01T23:13:52Z",
-    "url": "https://github.com/jwteeba/rag-platform"
-  },
-  {
-    "description": "\ud83d\udd17 Simplify vector database operations with CrossVector, a unified Python library for seamless integration and flexible b",
-    "id": "ribagolx10/crossvector",
-    "language": "Python",
-    "name": "ribagolx10/crossvector",
-    "stars": 1,
-    "updated_at": "2026-10-01T23:13:41Z",
-    "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "Persistent, token-efficient memory for Claude Code \u2014 5 memory layers (vector store, file facts, Obsidian vault, code gra",
-    "id": "jushayden/claude-code-memory-cache",
-    "language": "Python",
-    "name": "jushayden/claude-code-memory-cache",
-    "stars": 6,
-    "updated_at": "2026-10-01T23:13:05Z",
-    "url": "https://github.com/jushayden/claude-code-memory-cache"
-  },
-  {
-    "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
-    "id": "Separative-involucre520/SearchPaperByEmbedding",
-    "language": "Python",
-    "name": "Separative-involucre520/SearchPaperByEmbedding",
-    "stars": 1,
-    "updated_at": "2026-10-01T23:09:52Z",
-    "url": "https://github.com/Separative-involucre520/SearchPaperByEmbedding"
   }
 ]
