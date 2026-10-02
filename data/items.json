@@ -1,11 +1,47 @@
 [
   {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-10-02T15:59:20Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
+    "id": "IronCoreLabs/ironcore-alloy",
+    "language": "Rust",
+    "name": "IronCoreLabs/ironcore-alloy",
+    "stars": 30,
+    "updated_at": "2026-10-02T15:51:54Z",
+    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
+  },
+  {
+    "description": "A minimal, lightweight structured data store designed for small applications, scripts and automation workflows. Built fo",
+    "id": "tradik/mddb",
+    "language": "Go",
+    "name": "tradik/mddb",
+    "stars": 4,
+    "updated_at": "2026-10-02T15:51:20Z",
+    "url": "https://github.com/tradik/mddb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-02T15:45:31Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-02T15:45:24Z",
+    "updated_at": "2026-10-02T16:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -25,15 +61,6 @@
     "stars": 6466,
     "updated_at": "2026-10-02T15:41:17Z",
     "url": "https://github.com/genkit-ai/genkit"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-10-02T15:40:48Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -67,8 +94,8 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31299,
-    "updated_at": "2026-10-02T15:36:17Z",
+    "stars": 31300,
+    "updated_at": "2026-10-02T15:59:42Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -88,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-10-02T15:34:18Z",
     "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-02T15:30:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -162,15 +180,6 @@
     "url": "https://github.com/equationalapplications/sqlite-s3-agent-tutorial"
   },
   {
-    "description": "A unified SDK for IronCore encryption operations including vector encryption for AI data",
-    "id": "IronCoreLabs/ironcore-alloy",
-    "language": "Rust",
-    "name": "IronCoreLabs/ironcore-alloy",
-    "stars": 30,
-    "updated_at": "2026-10-02T15:10:38Z",
-    "url": "https://github.com/IronCoreLabs/ironcore-alloy"
-  },
-  {
     "description": "Java RAG knowledge base Q&A \u00b7 Spring Boot + Vue 3 \u00b7 Ollama / DashScope",
     "id": "beiluoL/rag-knowledge-qa-system",
     "language": "Java",
@@ -212,7 +221,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1176,
-    "updated_at": "2026-10-02T15:44:09Z",
+    "updated_at": "2026-10-02T15:56:52Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -229,7 +238,7 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 2032,
+    "stars": 2033,
     "updated_at": "2026-10-02T15:02:44Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -302,7 +311,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11585,
-    "updated_at": "2026-10-02T15:41:03Z",
+    "updated_at": "2026-10-02T15:54:40Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 2,
     "updated_at": "2026-10-02T14:15:05Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Unify graph, vector, and full-text search in one Rust engine for GraphRAG and AI retrieval with OpenCypher and MVCC",
-    "id": "sarcosomebankcheck694/coordinode",
-    "language": "Rust",
-    "name": "sarcosomebankcheck694/coordinode",
-    "stars": 0,
-    "updated_at": "2026-10-02T14:14:46Z",
-    "url": "https://github.com/sarcosomebankcheck694/coordinode"
   }
 ]
