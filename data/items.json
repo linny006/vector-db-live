@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-02T02:30:21Z",
+    "updated_at": "2026-10-02T02:45:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
+    "id": "Raynerhalfandhalf451/writeback",
+    "language": "JavaScript",
+    "name": "Raynerhalfandhalf451/writeback",
+    "stars": 0,
+    "updated_at": "2026-10-02T02:45:02Z",
+    "url": "https://github.com/Raynerhalfandhalf451/writeback"
+  },
+  {
+    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
+    "id": "surrealdb/docs.surrealdb.com",
+    "language": "MDX",
+    "name": "surrealdb/docs.surrealdb.com",
+    "stars": 121,
+    "updated_at": "2026-10-02T02:44:08Z",
+    "url": "https://github.com/surrealdb/docs.surrealdb.com"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-10-02T02:41:26Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
+    "id": "Surging-scotandlot818/product-dev-blueprint",
+    "language": "TypeScript",
+    "name": "Surging-scotandlot818/product-dev-blueprint",
+    "stars": 0,
+    "updated_at": "2026-10-02T02:39:38Z",
+    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-10-02T02:39:28Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
+    "id": "Tobiaszn8972/turboquant-gpu",
+    "language": "Python",
+    "name": "Tobiaszn8972/turboquant-gpu",
+    "stars": 3,
+    "updated_at": "2026-10-02T02:38:14Z",
+    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
+  },
+  {
+    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
+    "id": "viviannenitrogenous100/mentedb",
+    "language": "\u2014",
+    "name": "viviannenitrogenous100/mentedb",
+    "stars": 0,
+    "updated_at": "2026-10-02T02:38:01Z",
+    "url": "https://github.com/viviannenitrogenous100/mentedb"
   },
   {
     "description": "High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding.",
@@ -14,8 +77,89 @@
     "language": "Rust",
     "name": "mask-software/kitedb",
     "stars": 4,
-    "updated_at": "2026-10-02T02:29:53Z",
+    "updated_at": "2026-10-02T02:37:54Z",
     "url": "https://github.com/mask-software/kitedb"
+  },
+  {
+    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
+    "id": "raymondmdzz123/agent-memory",
+    "language": "TypeScript",
+    "name": "raymondmdzz123/agent-memory",
+    "stars": 1,
+    "updated_at": "2026-10-02T02:37:36Z",
+    "url": "https://github.com/raymondmdzz123/agent-memory"
+  },
+  {
+    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
+    "id": "Synchronic-leafbud824/skill-vault",
+    "language": "\u2014",
+    "name": "Synchronic-leafbud824/skill-vault",
+    "stars": 2,
+    "updated_at": "2026-10-02T02:36:45Z",
+    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
+  },
+  {
+    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
+    "id": "Genusophiophagussqueezeplay359/ragpipe",
+    "language": "Python",
+    "name": "Genusophiophagussqueezeplay359/ragpipe",
+    "stars": 0,
+    "updated_at": "2026-10-02T02:36:40Z",
+    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
+  },
+  {
+    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
+    "id": "roberthalfway204/Document-Intelligent-Assistant",
+    "language": "Python",
+    "name": "roberthalfway204/Document-Intelligent-Assistant",
+    "stars": 3,
+    "updated_at": "2026-10-02T02:35:51Z",
+    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
+  },
+  {
+    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
+    "id": "Daubingweirdie414/multimodal-rag",
+    "language": "Python",
+    "name": "Daubingweirdie414/multimodal-rag",
+    "stars": 4,
+    "updated_at": "2026-10-02T02:33:22Z",
+    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
+  },
+  {
+    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
+    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "language": "Python",
+    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "stars": 1,
+    "updated_at": "2026-10-02T02:32:34Z",
+    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
+  },
+  {
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 1,
+    "updated_at": "2026-10-02T02:31:15Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-02T02:30:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Source-grounded financial intelligence with provenance, PostgreSQL, Qdrant, evidence storage, verification and fail-clos",
+    "id": "Tirthanand17/financial-intelligence-agent",
+    "language": "Python",
+    "name": "Tirthanand17/financial-intelligence-agent",
+    "stars": 1,
+    "updated_at": "2026-10-02T02:30:08Z",
+    "url": "https://github.com/Tirthanand17/financial-intelligence-agent"
   },
   {
     "description": "\ud83d\udd0d Enable recursive data reasoning with DeepRecall by integrating vector databases and LLMs for accurate, iterative infor",
@@ -86,7 +230,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8308,
-    "updated_at": "2026-10-02T02:18:55Z",
+    "updated_at": "2026-10-02T02:43:46Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -124,15 +268,6 @@
     "stars": 1,
     "updated_at": "2026-10-02T02:15:55Z",
     "url": "https://github.com/ribagolx10/crossvector"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-02T02:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
@@ -243,6 +378,15 @@
     "url": "https://github.com/emVisible/Ametrine"
   },
   {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66662,
+    "updated_at": "2026-10-02T01:52:53Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
@@ -302,151 +446,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2571,
-    "updated_at": "2026-10-02T01:21:15Z",
+    "updated_at": "2026-10-02T02:44:34Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data",
-    "id": "NGT-labs/NGT",
-    "language": "C++",
-    "name": "NGT-labs/NGT",
-    "stars": 1374,
-    "updated_at": "2026-10-02T01:20:26Z",
-    "url": "https://github.com/NGT-labs/NGT"
-  },
-  {
-    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
-    "id": "al7o/DocuMind-AI-Engine",
-    "language": "HTML",
-    "name": "al7o/DocuMind-AI-Engine",
-    "stars": 1,
-    "updated_at": "2026-10-02T01:20:22Z",
-    "url": "https://github.com/al7o/DocuMind-AI-Engine"
-  },
-  {
-    "description": "Vector database in Rust: from-scratch HNSW with hand-written NEON/AVX2 kernels, int8 and PQ quantization, WAL + mmap seg",
-    "id": "useless-husband/quiver",
-    "language": "Rust",
-    "name": "useless-husband/quiver",
-    "stars": 0,
-    "updated_at": "2026-10-02T01:19:43Z",
-    "url": "https://github.com/useless-husband/quiver"
-  },
-  {
-    "description": "AI agent code examples",
-    "id": "nekozzz94/NekoAI-agents",
-    "language": "Python",
-    "name": "nekozzz94/NekoAI-agents",
-    "stars": 18,
-    "updated_at": "2026-10-02T01:18:46Z",
-    "url": "https://github.com/nekozzz94/NekoAI-agents"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-02T01:18:00Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
-    "id": "nguyenquoaca-hash/agentic-mesh",
-    "language": "HTML",
-    "name": "nguyenquoaca-hash/agentic-mesh",
-    "stars": 2,
-    "updated_at": "2026-10-02T01:09:52Z",
-    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2030,
-    "updated_at": "2026-10-02T00:46:04Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-10-02T00:43:49Z",
-    "url": "https://github.com/23skdu/longbow"
-  },
-  {
-    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
-    "id": "Benorina1/llm-vector-retrieval-playbook",
-    "language": "HTML",
-    "name": "Benorina1/llm-vector-retrieval-playbook",
-    "stars": 0,
-    "updated_at": "2026-10-02T00:34:51Z",
-    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1634,
-    "updated_at": "2026-10-02T00:32:40Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
-    "id": "zaahist/design-to-ship-playbook",
-    "language": "HTML",
-    "name": "zaahist/design-to-ship-playbook",
-    "stars": 1,
-    "updated_at": "2026-10-02T00:31:00Z",
-    "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "The documentation for SurrealDB, built with Vike, React, and Mantine",
-    "id": "surrealdb/docs.surrealdb.com",
-    "language": "MDX",
-    "name": "surrealdb/docs.surrealdb.com",
-    "stars": 121,
-    "updated_at": "2026-10-02T01:02:04Z",
-    "url": "https://github.com/surrealdb/docs.surrealdb.com"
-  },
-  {
-    "description": "Give your AI coding agents memory that survives between sessions. Marrow is an MCP server providing persistent task trac",
-    "id": "desikai-lab/Marrow",
-    "language": "Python",
-    "name": "desikai-lab/Marrow",
-    "stars": 7,
-    "updated_at": "2026-10-01T23:54:18Z",
-    "url": "https://github.com/desikai-lab/Marrow"
-  },
-  {
-    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
-    "id": "devharis99/vectra",
-    "language": "Python",
-    "name": "devharis99/vectra",
-    "stars": 1,
-    "updated_at": "2026-10-01T23:47:26Z",
-    "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "A developer toolkit for analyzing RAG pipelines. Includes implementations of advanced retrieval strategies and diagnosti",
-    "id": "Piyush-Sambyall/rag-patterns-and-pitfalls",
-    "language": "Python",
-    "name": "Piyush-Sambyall/rag-patterns-and-pitfalls",
-    "stars": 0,
-    "updated_at": "2026-10-01T23:45:43Z",
-    "url": "https://github.com/Piyush-Sambyall/rag-patterns-and-pitfalls"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 352,
-    "updated_at": "2026-10-01T23:45:33Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
