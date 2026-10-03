@@ -1,11 +1,65 @@
 [
   {
+    "description": "Enterprise RAG Platform API \u2014 Production-grade document intelligence backend in Python/FastAPI with JWT auth, async Post",
+    "id": "jwteeba/rag-platform",
+    "language": "Python",
+    "name": "jwteeba/rag-platform",
+    "stars": 0,
+    "updated_at": "2026-10-02T23:58:45Z",
+    "url": "https://github.com/jwteeba/rag-platform"
+  },
+  {
+    "description": "Decides which partition a vector belongs in when a vector index is split across tenants, users, or time windows: three r",
+    "id": "hseshadr/edgeproc-core",
+    "language": "Python",
+    "name": "hseshadr/edgeproc-core",
+    "stars": 0,
+    "updated_at": "2026-10-02T23:57:47Z",
+    "url": "https://github.com/hseshadr/edgeproc-core"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9339,
+    "updated_at": "2026-10-02T23:56:12Z",
+    "url": "https://github.com/paradedb/paradedb"
+  },
+  {
+    "description": "A vector database in a single .urna file, with SHA-256-verifiable citations, hybrid search and an offline runtime in Rus",
+    "id": "hoffresearch/urna",
+    "language": "Rust",
+    "name": "hoffresearch/urna",
+    "stars": 11,
+    "updated_at": "2026-10-02T23:57:22Z",
+    "url": "https://github.com/hoffresearch/urna"
+  },
+  {
+    "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaD",
+    "id": "MariaDB/server",
+    "language": "C++",
+    "name": "MariaDB/server",
+    "stars": 8310,
+    "updated_at": "2026-10-02T23:46:55Z",
+    "url": "https://github.com/MariaDB/server"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-02T23:45:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-02T23:45:20Z",
+    "updated_at": "2026-10-03T00:00:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -27,15 +81,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-02T23:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Prevents Access to QuickSettings on a Locked Screen. Pixels Only.",
     "id": "2B-4G10/NoLockQS",
     "language": "Kotlin",
@@ -52,15 +97,6 @@
     "stars": 24,
     "updated_at": "2026-10-02T23:24:58Z",
     "url": "https://github.com/evgeniycheban/spring-data-reindexer"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9339,
-    "updated_at": "2026-10-02T23:40:14Z",
-    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -329,7 +365,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-02T22:39:03Z",
+    "updated_at": "2026-10-02T23:57:56Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -365,17 +401,8 @@
     "language": "Python",
     "name": "brennercruvinel/mtg-urna-benchmark",
     "stars": 0,
-    "updated_at": "2026-10-02T23:18:38Z",
+    "updated_at": "2026-10-02T23:51:14Z",
     "url": "https://github.com/brennercruvinel/mtg-urna-benchmark"
-  },
-  {
-    "description": "Enterprise RAG Platform API \u2014 Production-grade document intelligence backend in Python/FastAPI with JWT auth, async Post",
-    "id": "jwteeba/rag-platform",
-    "language": "Python",
-    "name": "jwteeba/rag-platform",
-    "stars": 0,
-    "updated_at": "2026-10-02T22:32:47Z",
-    "url": "https://github.com/jwteeba/rag-platform"
   },
   {
     "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
@@ -421,32 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-02T22:25:19Z",
     "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
-  },
-  {
-    "description": "The backend agents build with - Multimodal database, orchestration, and serving in one file",
-    "id": "pixeltable/pixeltable",
-    "language": "Python",
-    "name": "pixeltable/pixeltable",
-    "stars": 1634,
-    "updated_at": "2026-10-02T22:40:42Z",
-    "url": "https://github.com/pixeltable/pixeltable"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive chatbot that answers questions from documents using OpenAI and Ollama, with a user-friendly Grad",
-    "id": "piporyx/doc-qa-agent",
-    "language": "Python",
-    "name": "piporyx/doc-qa-agent",
-    "stars": 0,
-    "updated_at": "2026-10-02T22:24:52Z",
-    "url": "https://github.com/piporyx/doc-qa-agent"
-  },
-  {
-    "description": "\ud83d\uddc4\ufe0f Manage and search large vector datasets efficiently with this pure Python vector database featuring Int8 quantization",
-    "id": "leitoooatr/PythonVectorDB",
-    "language": "Python",
-    "name": "leitoooatr/PythonVectorDB",
-    "stars": 2,
-    "updated_at": "2026-10-02T22:24:50Z",
-    "url": "https://github.com/leitoooatr/PythonVectorDB"
   }
 ]
