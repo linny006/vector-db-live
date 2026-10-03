@@ -1,5 +1,32 @@
 [
   {
+    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
+    "id": "datris/datris-platform-oss",
+    "language": "Scala",
+    "name": "datris/datris-platform-oss",
+    "stars": 12,
+    "updated_at": "2026-10-03T21:28:53Z",
+    "url": "https://github.com/datris/datris-platform-oss"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1178,
+    "updated_at": "2026-10-03T21:24:17Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-03T21:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -32,7 +59,7 @@
     "language": "Rust",
     "name": "omerfeyzioglu/glider",
     "stars": 0,
-    "updated_at": "2026-10-03T21:03:54Z",
+    "updated_at": "2026-10-03T21:28:53Z",
     "url": "https://github.com/omerfeyzioglu/glider"
   },
   {
@@ -41,7 +68,7 @@
     "language": "Python",
     "name": "nadeem4/nl2sql",
     "stars": 4,
-    "updated_at": "2026-10-03T21:05:23Z",
+    "updated_at": "2026-10-03T21:17:27Z",
     "url": "https://github.com/nadeem4/nl2sql"
   },
   {
@@ -61,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-10-03T21:00:46Z",
     "url": "https://github.com/agent-ix/ecaz"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-03T21:00:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -189,15 +207,6 @@
     "url": "https://github.com/kantord/SeaGOAT"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1178,
-    "updated_at": "2026-10-03T21:08:56Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
@@ -266,7 +275,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-03T20:54:47Z",
+    "updated_at": "2026-10-03T21:29:01Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -302,7 +311,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9344,
-    "updated_at": "2026-10-03T20:23:28Z",
+    "updated_at": "2026-10-03T21:28:53Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T18:03:07Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
-    "id": "Deafened-vascularstructure846/pageindex-rag",
-    "language": "Python",
-    "name": "Deafened-vascularstructure846/pageindex-rag",
-    "stars": 1,
-    "updated_at": "2026-10-03T18:01:22Z",
-    "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   }
 ]
