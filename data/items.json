@@ -5,17 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-03T19:45:23Z",
+    "updated_at": "2026-10-03T20:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
-    "description": "A vector database in a single .urna file, with SHA-256-verifiable citations, hybrid search and an offline runtime in Rus",
-    "id": "hoffresearch/urna",
-    "language": "Rust",
-    "name": "hoffresearch/urna",
-    "stars": 11,
-    "updated_at": "2026-10-03T19:40:06Z",
-    "url": "https://github.com/hoffresearch/urna"
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-03T19:52:25Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "local-first semantic code search engine",
+    "id": "kantord/SeaGOAT",
+    "language": "Python",
+    "name": "kantord/SeaGOAT",
+    "stars": 1311,
+    "updated_at": "2026-10-03T19:52:57Z",
+    "url": "https://github.com/kantord/SeaGOAT"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1178,
+    "updated_at": "2026-10-03T19:57:07Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Embeddable vector database for edge AI",
@@ -23,17 +41,8 @@
     "language": "Rust",
     "name": "vanedb/vanedb",
     "stars": 0,
-    "updated_at": "2026-10-03T19:35:50Z",
+    "updated_at": "2026-10-03T19:49:35Z",
     "url": "https://github.com/vanedb/vanedb"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 894,
-    "updated_at": "2026-10-03T19:32:55Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
@@ -41,8 +50,26 @@
     "language": "Python",
     "name": "linny006/vector-db-live",
     "stars": 3,
-    "updated_at": "2026-10-03T19:30:24Z",
+    "updated_at": "2026-10-03T19:45:30Z",
     "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "A vector database in a single .urna file, with SHA-256-verifiable citations, hybrid search and an offline runtime in Rus",
+    "id": "hoffresearch/urna",
+    "language": "Rust",
+    "name": "hoffresearch/urna",
+    "stars": 11,
+    "updated_at": "2026-10-03T19:59:16Z",
+    "url": "https://github.com/hoffresearch/urna"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 894,
+    "updated_at": "2026-10-03T19:56:01Z",
+    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -94,7 +121,7 @@
     "id": "matrixorigin/matrixone",
     "language": "Go",
     "name": "matrixorigin/matrixone",
-    "stars": 2035,
+    "stars": 2036,
     "updated_at": "2026-10-03T18:58:23Z",
     "url": "https://github.com/matrixorigin/matrixone"
   },
@@ -113,7 +140,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-03T19:44:12Z",
+    "updated_at": "2026-10-03T19:55:53Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -144,15 +171,6 @@
     "url": "https://github.com/lancedb/lancedb"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-03T18:38:58Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
     "id": "mmnto-ai/totem",
     "language": "TypeScript",
@@ -167,7 +185,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9344,
-    "updated_at": "2026-10-03T19:36:46Z",
+    "updated_at": "2026-10-03T19:55:20Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -178,15 +196,6 @@
     "stars": 2,
     "updated_at": "2026-10-03T18:23:59Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1178,
-    "updated_at": "2026-10-03T19:44:53Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "angChain is a framework for building agents and LLM-powered applications. It helps you chain together interoperable comp",
@@ -367,15 +376,6 @@
     "stars": 1,
     "updated_at": "2026-10-03T17:57:26Z",
     "url": "https://github.com/conceited-watergillyflower311/meilisearch-desktop"
-  },
-  {
-    "description": "local-first semantic code search engine",
-    "id": "kantord/SeaGOAT",
-    "language": "Python",
-    "name": "kantord/SeaGOAT",
-    "stars": 1311,
-    "updated_at": "2026-10-03T18:56:40Z",
-    "url": "https://github.com/kantord/SeaGOAT"
   },
   {
     "description": "Enable accurate academic citation by searching, evaluating, and generating BibTeX entries with quality metrics using Sem",
