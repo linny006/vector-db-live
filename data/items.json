@@ -1,12 +1,12 @@
 [
   {
-    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
-    "id": "DevAnimecx/free-ai-agent-stack",
-    "language": "TypeScript",
-    "name": "DevAnimecx/free-ai-agent-stack",
-    "stars": 1,
-    "updated_at": "2026-10-03T11:29:59Z",
-    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T11:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Single-node vector database with S3 as durable storage: crash-safe writes, clustered ANN search, SSD cache, HTTP API. Ru",
@@ -14,8 +14,80 @@
     "language": "Rust",
     "name": "omerfeyzioglu/glider",
     "stars": 0,
-    "updated_at": "2026-10-03T11:30:13Z",
+    "updated_at": "2026-10-03T11:45:03Z",
     "url": "https://github.com/omerfeyzioglu/glider"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-03T11:43:27Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-03T11:43:26Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "A live-checked index of production-grade, self-hostable building blocks for AI agents and LLM workloads.",
+    "id": "Amz34/awesome-agent-infrastructure",
+    "language": "Python",
+    "name": "Amz34/awesome-agent-infrastructure",
+    "stars": 0,
+    "updated_at": "2026-10-03T11:40:52Z",
+    "url": "https://github.com/Amz34/awesome-agent-infrastructure"
+  },
+  {
+    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
+    "id": "Intrect-io/OpenSwarm",
+    "language": "TypeScript",
+    "name": "Intrect-io/OpenSwarm",
+    "stars": 857,
+    "updated_at": "2026-10-03T11:38:52Z",
+    "url": "https://github.com/Intrect-io/OpenSwarm"
+  },
+  {
+    "description": "Sovereign enterprise RAG & analytics platform \u2014 role-scoped persona intelligence, hybrid retrieval (Dense BGE-M3 + BM25 ",
+    "id": "Yacine-ai-tech/IntelAI",
+    "language": "Python",
+    "name": "Yacine-ai-tech/IntelAI",
+    "stars": 0,
+    "updated_at": "2026-10-03T11:38:00Z",
+    "url": "https://github.com/Yacine-ai-tech/IntelAI"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2599,
+    "updated_at": "2026-10-03T11:35:38Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-03T11:30:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Every free LLM API, MCP server, agent framework and free-tier service you need to build an AI agent in 2026. 384 resourc",
+    "id": "DevAnimecx/free-ai-agent-stack",
+    "language": "TypeScript",
+    "name": "DevAnimecx/free-ai-agent-stack",
+    "stars": 1,
+    "updated_at": "2026-10-03T11:29:59Z",
+    "url": "https://github.com/DevAnimecx/free-ai-agent-stack"
   },
   {
     "description": "Custom end-to-end pipeline to find, organize, and reason over ML papers & GitHub repos \u2014 with an experimental NVIDIA UDR",
@@ -32,8 +104,17 @@
     "language": "Python",
     "name": "eizadhamdan/ScholarGraph",
     "stars": 0,
-    "updated_at": "2026-10-03T11:21:16Z",
+    "updated_at": "2026-10-03T11:38:37Z",
     "url": "https://github.com/eizadhamdan/ScholarGraph"
+  },
+  {
+    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
+    "id": "qdrant/qdrant",
+    "language": "Rust",
+    "name": "qdrant/qdrant",
+    "stars": 34909,
+    "updated_at": "2026-10-03T11:42:20Z",
+    "url": "https://github.com/qdrant/qdrant"
   },
   {
     "description": "Model Context Protocol server for Qdrant - Part of Infrastructure as a Fabric ecosystem. Provides 30+ tools for vector d",
@@ -81,30 +162,12 @@
     "url": "https://github.com/surajkumarnavodya/text-to-sql-agent-langgraph"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-03T11:15:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T11:30:20Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on",
     "id": "GiulioDER/RE-call",
     "language": "Python",
     "name": "GiulioDER/RE-call",
     "stars": 6,
-    "updated_at": "2026-10-03T11:13:32Z",
+    "updated_at": "2026-10-03T11:38:13Z",
     "url": "https://github.com/GiulioDER/RE-call"
   },
   {
@@ -113,7 +176,7 @@
     "language": "Rust",
     "name": "hoffresearch/urna",
     "stars": 11,
-    "updated_at": "2026-10-03T11:29:27Z",
+    "updated_at": "2026-10-03T11:38:10Z",
     "url": "https://github.com/hoffresearch/urna"
   },
   {
@@ -167,17 +230,8 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-03T11:12:25Z",
+    "updated_at": "2026-10-03T11:37:29Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-03T10:54:44Z",
-    "url": "https://github.com/structured-world/coordinode"
   },
   {
     "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
@@ -306,15 +360,6 @@
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
   },
   {
-    "description": "OpenSwarm \u2014 Autonomous AI dev team orchestrator powered by Claude Code CLI. Discord control, Linear integration, cogniti",
-    "id": "Intrect-io/OpenSwarm",
-    "language": "TypeScript",
-    "name": "Intrect-io/OpenSwarm",
-    "stars": 857,
-    "updated_at": "2026-10-03T11:27:46Z",
-    "url": "https://github.com/Intrect-io/OpenSwarm"
-  },
-  {
     "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
     "id": "Uncomfortable-filagree112/OpenViking",
     "language": "\u2014",
@@ -403,50 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-03T10:25:07Z",
     "url": "https://github.com/mask-software/kitedb"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-03T10:23:36Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2035,
-    "updated_at": "2026-10-03T10:59:56Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-03T10:21:43Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "\ud83e\udde0 The Brain for Your AI \u2014 Local-first memory engine for AI agents. Store, recall, and search memories with semantic embe",
-    "id": "codecoradev/uteke",
-    "language": "Rust",
-    "name": "codecoradev/uteke",
-    "stars": 268,
-    "updated_at": "2026-10-03T10:22:47Z",
-    "url": "https://github.com/codecoradev/uteke"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-10-03T10:20:36Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
   }
 ]
