@@ -1,12 +1,102 @@
 [
   {
+    "description": "Local-first shared memory for AI agents, with MCP and HTTP APIs.",
+    "id": "Artemon-line/ai-memory-hub",
+    "language": "Python",
+    "name": "Artemon-line/ai-memory-hub",
+    "stars": 2,
+    "updated_at": "2026-10-03T13:29:29Z",
+    "url": "https://github.com/Artemon-line/ai-memory-hub"
+  },
+  {
+    "description": "Self-hosted RAG for technical documentation with hybrid search, enforced citations, and an eval harness to catch answer-",
+    "id": "jpcunhadias/citerag",
+    "language": "Python",
+    "name": "jpcunhadias/citerag",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:28:45Z",
+    "url": "https://github.com/jpcunhadias/citerag"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 4,
+    "updated_at": "2026-10-03T13:28:25Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents and audio or video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 370,
+    "updated_at": "2026-10-03T13:28:22Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "A unified vector store SDK for TypeScript. One filter language across Qdrant, pgvector, and Pinecone, so you can switch ",
+    "id": "PunGrumpy/vecstore-sdk",
+    "language": "TypeScript",
+    "name": "PunGrumpy/vecstore-sdk",
+    "stars": 2,
+    "updated_at": "2026-10-03T13:27:50Z",
+    "url": "https://github.com/PunGrumpy/vecstore-sdk"
+  },
+  {
+    "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
+    "id": "ompatel3158/ULTSQL",
+    "language": "Dart",
+    "name": "ompatel3158/ULTSQL",
+    "stars": 1,
+    "updated_at": "2026-10-03T13:26:19Z",
+    "url": "https://github.com/ompatel3158/ULTSQL"
+  },
+  {
+    "description": "Single-node vector database with S3 as durable storage: crash-safe writes, clustered ANN search, SSD cache, HTTP API. Ru",
+    "id": "omerfeyzioglu/glider",
+    "language": "Rust",
+    "name": "omerfeyzioglu/glider",
+    "stars": 0,
+    "updated_at": "2026-10-03T13:23:30Z",
+    "url": "https://github.com/omerfeyzioglu/glider"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 22,
+    "updated_at": "2026-10-03T13:22:42Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-03T13:15:22Z",
+    "updated_at": "2026-10-03T13:22:09Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI-Resume is a containerized web application that acts as your digital professional proxy. Transform your CV into a conv",
+    "id": "schwichtgit/ai-resume",
+    "language": "Python",
+    "name": "schwichtgit/ai-resume",
+    "stars": 7,
+    "updated_at": "2026-10-03T13:27:36Z",
+    "url": "https://github.com/schwichtgit/ai-resume"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-03T13:15:30Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
@@ -41,7 +131,7 @@
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
     "stars": 857,
-    "updated_at": "2026-10-03T13:14:20Z",
+    "updated_at": "2026-10-03T13:27:54Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
   {
@@ -97,24 +187,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T13:00:59Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-03T13:00:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Single-node vector database with S3 as durable storage: crash-safe writes, clustered ANN search, SSD cache, HTTP API. Ru",
-    "id": "omerfeyzioglu/glider",
-    "language": "Rust",
-    "name": "omerfeyzioglu/glider",
-    "stars": 0,
-    "updated_at": "2026-10-03T13:00:19Z",
-    "url": "https://github.com/omerfeyzioglu/glider"
   },
   {
     "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
@@ -207,15 +279,6 @@
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
   },
   {
-    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
-    "id": "opencrawling/opencrawling",
-    "language": "Java",
-    "name": "opencrawling/opencrawling",
-    "stars": 22,
-    "updated_at": "2026-10-03T12:36:30Z",
-    "url": "https://github.com/opencrawling/opencrawling"
-  },
-  {
     "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
     "id": "Bekhbekh7821/CanopyOps",
     "language": "\u2014",
@@ -268,15 +331,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T12:29:09Z",
     "url": "https://github.com/Twentyeight-lawnchair711/AlayaRenderer"
-  },
-  {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 4,
-    "updated_at": "2026-10-03T12:28:51Z",
-    "url": "https://github.com/d3uceY/vectile"
   },
   {
     "description": "Build vectorless RAG for reasoning-based retrieval and answer generation with no embeddings or vector store",
@@ -394,59 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T12:16:02Z",
     "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "\ud83d\udcca Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d",
-    "id": "persona-net/rag-pipeline-dashboard",
-    "language": "TypeScript",
-    "name": "persona-net/rag-pipeline-dashboard",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:14:07Z",
-    "url": "https://github.com/persona-net/rag-pipeline-dashboard"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-10-03T12:13:14Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "An agentic hybrid-retrieval system performing multi-hop reasoning across relational knowledge graphs and dense vector sp",
-    "id": "eizadhamdan/ScholarGraph",
-    "language": "Python",
-    "name": "eizadhamdan/ScholarGraph",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:12:04Z",
-    "url": "https://github.com/eizadhamdan/ScholarGraph"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-10-03T12:11:46Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "TalaDB for Android - Kotlin bindings for TalaDB, an embedded document and vector database, for native Android apps.",
-    "id": "taladb/taladb-kotlin",
-    "language": "Kotlin",
-    "name": "taladb/taladb-kotlin",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:10:35Z",
-    "url": "https://github.com/taladb/taladb-kotlin"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-10-03T12:10:16Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
