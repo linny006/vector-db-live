@@ -1,12 +1,21 @@
 [
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T18:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2035,
+    "updated_at": "2026-10-03T18:58:23Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 894,
+    "updated_at": "2026-10-03T18:55:06Z",
+    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
@@ -14,8 +23,17 @@
     "language": "PHP",
     "name": "neuron-core/neuron-ai",
     "stars": 2123,
-    "updated_at": "2026-10-03T18:43:00Z",
+    "updated_at": "2026-10-03T18:54:44Z",
     "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-03T18:55:14Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
     "description": "VCP \u90e8\u7f72\u5728 AI \u6a21\u578b API \u4e0e\u524d\u7aef\u5e94\u7528\u4e4b\u95f4\uff0c\u662f\u9762\u5411AGI OS\u5f00\u53d1\u548c\u63a2\u7d22\u7684\u5de5\u4e1a\u7ea7\u57fa\u5efa\u793a\u8303\u9879\u76ee\u3002\u901a\u8fc7\u7edf\u4e00\u6307\u4ee4\u534f\u8bae\u3001\u591a\u5c42\u7ea7\u6301\u4e45\u5316\u8bb0\u5fc6\u3001\u5206\u5e03\u5f0f\u63d2\u4ef6\u5f15\u64ce\u53ca\u591a Agent \u534f\u4f5c\u6846\u67b6\uff0c\u5c06\u539f\u672c\u201c\u65e0\u72b6\u6001\u3001\u65e0\u8bb0\u5fc6\u3001\u65e0\u5de5\u5177\u8c03\u7528\u80fd\u529b\u201d\u7684\u5927\u8bed\u8a00\u6a21\u578b\uff0c\u5f7b\u5e95\u6539",
@@ -23,8 +41,44 @@
     "language": "JavaScript",
     "name": "lioensky/VCPToolBox",
     "stars": 2345,
-    "updated_at": "2026-10-03T18:42:22Z",
+    "updated_at": "2026-10-03T18:49:48Z",
     "url": "https://github.com/lioensky/VCPToolBox"
+  },
+  {
+    "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
+    "id": "infino-ai/infino",
+    "language": "Rust",
+    "name": "infino-ai/infino",
+    "stars": 86,
+    "updated_at": "2026-10-03T18:47:57Z",
+    "url": "https://github.com/infino-ai/infino"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2606,
+    "updated_at": "2026-10-03T18:47:20Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-03T18:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T19:00:21Z",
+    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -45,21 +99,12 @@
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-03T18:30:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
     "id": "paradedb/paradedb",
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9344,
-    "updated_at": "2026-10-03T18:42:58Z",
+    "updated_at": "2026-10-03T18:46:35Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -77,7 +122,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1178,
-    "updated_at": "2026-10-03T18:43:31Z",
+    "updated_at": "2026-10-03T18:59:48Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -88,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T18:18:09Z",
     "url": "https://github.com/faizanjutt473/Langchain"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 894,
-    "updated_at": "2026-10-03T18:29:56Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -275,7 +311,7 @@
     "language": "Python",
     "name": "kantord/SeaGOAT",
     "stars": 1311,
-    "updated_at": "2026-10-03T18:39:30Z",
+    "updated_at": "2026-10-03T18:56:40Z",
     "url": "https://github.com/kantord/SeaGOAT"
   },
   {
@@ -286,15 +322,6 @@
     "stars": 3,
     "updated_at": "2026-10-03T17:54:35Z",
     "url": "https://github.com/FIRE-hub911/citation-assistant"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2606,
-    "updated_at": "2026-10-03T17:54:16Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Deliver intelligent document understanding and explainable semantic search with a modular, locally hosted Retrieval-Augm",
@@ -421,32 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-03T17:41:23Z",
     "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
-  },
-  {
-    "description": "\ud83e\udd16 Create an interactive AI chatbot using pre-trained Hugging Face models with a simple Gradio web interface for learning",
-    "id": "ibrahima0101/python-ai-chatbot-huggingface",
-    "language": "Python",
-    "name": "ibrahima0101/python-ai-chatbot-huggingface",
-    "stars": 0,
-    "updated_at": "2026-10-03T17:39:51Z",
-    "url": "https://github.com/ibrahima0101/python-ai-chatbot-huggingface"
-  },
-  {
-    "description": "Single-node vector database with S3 as durable storage: crash-safe writes, clustered ANN search, SSD cache, HTTP API. Ru",
-    "id": "omerfeyzioglu/glider",
-    "language": "Rust",
-    "name": "omerfeyzioglu/glider",
-    "stars": 0,
-    "updated_at": "2026-10-03T18:23:56Z",
-    "url": "https://github.com/omerfeyzioglu/glider"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31334,
-    "updated_at": "2026-10-03T17:38:14Z",
-    "url": "https://github.com/topoteretes/cognee"
   }
 ]
