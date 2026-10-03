@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-03T21:00:22Z",
+    "updated_at": "2026-10-03T21:15:19Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+    "id": "Mintplex-Labs/anything-llm",
+    "language": "JavaScript",
+    "name": "Mintplex-Labs/anything-llm",
+    "stars": 66693,
+    "updated_at": "2026-10-03T21:12:01Z",
+    "url": "https://github.com/Mintplex-Labs/anything-llm"
+  },
+  {
+    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
+    "id": "mmnto-ai/totem",
+    "language": "TypeScript",
+    "name": "mmnto-ai/totem",
+    "stars": 17,
+    "updated_at": "2026-10-03T21:10:45Z",
+    "url": "https://github.com/mmnto-ai/totem"
+  },
+  {
+    "description": "Single-node vector database with S3 as durable storage: crash-safe writes, clustered ANN search, SSD cache, HTTP API. Ru",
+    "id": "omerfeyzioglu/glider",
+    "language": "Rust",
+    "name": "omerfeyzioglu/glider",
+    "stars": 0,
+    "updated_at": "2026-10-03T21:03:54Z",
+    "url": "https://github.com/omerfeyzioglu/glider"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-03T21:05:23Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Architected and deployed a Retrieval-Augmented Generation (RAG) system",
+    "id": "Li-Zou/Retrieval-Augmented-Generation",
+    "language": "Jupyter Notebook",
+    "name": "Li-Zou/Retrieval-Augmented-Generation",
+    "stars": 0,
+    "updated_at": "2026-10-03T21:02:21Z",
+    "url": "https://github.com/Li-Zou/Retrieval-Augmented-Generation"
+  },
+  {
+    "description": "Rust PostgreSQL extension for high-performance vector storage with broad quantization and index support.",
+    "id": "agent-ix/ecaz",
+    "language": "Rust",
+    "name": "agent-ix/ecaz",
+    "stars": 2,
+    "updated_at": "2026-10-03T21:00:46Z",
+    "url": "https://github.com/agent-ix/ecaz"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-03T21:00:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -18,15 +81,6 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
-    "id": "Mintplex-Labs/anything-llm",
-    "language": "JavaScript",
-    "name": "Mintplex-Labs/anything-llm",
-    "stars": 66693,
-    "updated_at": "2026-10-03T20:59:26Z",
-    "url": "https://github.com/Mintplex-Labs/anything-llm"
-  },
-  {
     "description": "The Ultimate Vectors Library for Java",
     "id": "integrallis/vectors",
     "language": "Java",
@@ -34,15 +88,6 @@
     "stars": 18,
     "updated_at": "2026-10-03T20:49:21Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-03T20:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Agentic AI-powered game intelligence platform using RAG, LangGraph, NLP, semantic search, and LLM workflows to analyze S",
@@ -149,7 +194,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1178,
-    "updated_at": "2026-10-03T20:56:33Z",
+    "updated_at": "2026-10-03T21:08:56Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -158,7 +203,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 894,
-    "updated_at": "2026-10-03T20:58:13Z",
+    "updated_at": "2026-10-03T21:04:37Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -250,15 +295,6 @@
     "stars": 11593,
     "updated_at": "2026-10-03T18:45:27Z",
     "url": "https://github.com/lancedb/lancedb"
-  },
-  {
-    "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
-    "id": "mmnto-ai/totem",
-    "language": "TypeScript",
-    "name": "mmnto-ai/totem",
-    "stars": 17,
-    "updated_at": "2026-10-03T20:29:06Z",
-    "url": "https://github.com/mmnto-ai/totem"
   },
   {
     "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
@@ -364,7 +400,7 @@
     "id": "doobidoo/mcp-memory-service",
     "language": "Python",
     "name": "doobidoo/mcp-memory-service",
-    "stars": 1981,
+    "stars": 1982,
     "updated_at": "2026-10-03T18:09:53Z",
     "url": "https://github.com/doobidoo/mcp-memory-service"
   },
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-03T18:01:22Z",
     "url": "https://github.com/Deafened-vascularstructure846/pageindex-rag"
-  },
-  {
-    "description": "Turn any documentation portal (GitBook, Mintlify, Docusaurus, ReadTheDocs) into LLM-ready Markdown, vector RAG JSONL, ll",
-    "id": "RohannShetty/DocHarvest",
-    "language": "Python",
-    "name": "RohannShetty/DocHarvest",
-    "stars": 2,
-    "updated_at": "2026-10-03T17:58:27Z",
-    "url": "https://github.com/RohannShetty/DocHarvest"
-  },
-  {
-    "description": "Provide a scalable context database designed to improve memory and data handling for AI agents in complex tasks.",
-    "id": "Uncomfortable-filagree112/OpenViking",
-    "language": "\u2014",
-    "name": "Uncomfortable-filagree112/OpenViking",
-    "stars": 0,
-    "updated_at": "2026-10-03T17:58:24Z",
-    "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-10-03T17:57:55Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
-  },
-  {
-    "description": "Build a Q&A API that indexes PDFs and text using RAG, logging queries with MLflow for offline document search and evalua",
-    "id": "Boney-massiveness357/ragscope",
-    "language": "Python",
-    "name": "Boney-massiveness357/ragscope",
-    "stars": 0,
-    "updated_at": "2026-10-03T17:57:39Z",
-    "url": "https://github.com/Boney-massiveness357/ragscope"
   }
 ]
