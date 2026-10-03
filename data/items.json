@@ -1,12 +1,48 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T14:30:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Program that lets you ask questions about your documents and audio or video files.",
     "id": "BBC-Esq/VectorDB-Plugin",
     "language": "Python",
     "name": "BBC-Esq/VectorDB-Plugin",
     "stars": 370,
-    "updated_at": "2026-10-03T14:14:23Z",
+    "updated_at": "2026-10-03T14:23:25Z",
     "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Transform your documents into interactive knowledge bases with AI-powered chat, notes, and multimedia content generation",
+    "id": "ichshakib/infera-notebook",
+    "language": "TypeScript",
+    "name": "ichshakib/infera-notebook",
+    "stars": 0,
+    "updated_at": "2026-10-03T14:22:12Z",
+    "url": "https://github.com/ichshakib/infera-notebook"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2035,
+    "updated_at": "2026-10-03T14:18:24Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-03T14:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
@@ -54,15 +90,6 @@
     "url": "https://github.com/Artemon-line/ai-memory-hub"
   },
   {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2035,
-    "updated_at": "2026-10-03T14:02:31Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
     "id": "nguyenquoaca-hash/agentic-mesh",
     "language": "HTML",
@@ -70,24 +97,6 @@
     "stars": 2,
     "updated_at": "2026-10-03T14:01:40Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-03T14:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T14:15:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
@@ -194,7 +203,7 @@
     "language": "Rust",
     "name": "omerfeyzioglu/glider",
     "stars": 0,
-    "updated_at": "2026-10-03T14:14:19Z",
+    "updated_at": "2026-10-03T14:26:35Z",
     "url": "https://github.com/omerfeyzioglu/glider"
   },
   {
@@ -401,7 +410,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-03T13:55:43Z",
+    "updated_at": "2026-10-03T14:17:12Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T12:24:42Z",
     "url": "https://github.com/Uncomfortable-filagree112/OpenViking"
-  },
-  {
-    "description": "Search and retrieve information from text, images, and video using unified Gemini Embedding 2 vectors with Supabase and ",
-    "id": "cornellebivalved856/example-multimodal-rag",
-    "language": "Python",
-    "name": "cornellebivalved856/example-multimodal-rag",
-    "stars": 0,
-    "updated_at": "2026-10-03T12:24:17Z",
-    "url": "https://github.com/cornellebivalved856/example-multimodal-rag"
   }
 ]
