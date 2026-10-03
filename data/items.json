@@ -1,5 +1,41 @@
 [
   {
+    "description": "Compression and retrieval benchmark of 38,627 Magic card scans in single-file Urna containers",
+    "id": "brennercruvinel/mtg-urna-benchmark",
+    "language": "Python",
+    "name": "brennercruvinel/mtg-urna-benchmark",
+    "stars": 0,
+    "updated_at": "2026-10-03T04:24:47Z",
+    "url": "https://github.com/brennercruvinel/mtg-urna-benchmark"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-03T04:16:26Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-03T04:30:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-03T04:15:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
     "id": "MrPeppersDev/agent-infrastructure-landscape",
     "language": "HTML",
@@ -9,21 +45,12 @@
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
-    "description": "Compression and retrieval benchmark of 38,627 Magic card scans in single-file Urna containers",
-    "id": "brennercruvinel/mtg-urna-benchmark",
-    "language": "Python",
-    "name": "brennercruvinel/mtg-urna-benchmark",
-    "stars": 0,
-    "updated_at": "2026-10-03T04:12:05Z",
-    "url": "https://github.com/brennercruvinel/mtg-urna-benchmark"
-  },
-  {
     "description": "A vector database in a single .urna file, with SHA-256-verifiable citations, hybrid search and an offline runtime in Rus",
     "id": "hoffresearch/urna",
     "language": "Rust",
     "name": "hoffresearch/urna",
     "stars": 11,
-    "updated_at": "2026-10-03T04:08:00Z",
+    "updated_at": "2026-10-03T04:21:35Z",
     "url": "https://github.com/hoffresearch/urna"
   },
   {
@@ -45,24 +72,6 @@
     "url": "https://github.com/Tribrix23/CleaveDB"
   },
   {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-03T04:00:57Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-03T04:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding.",
     "id": "mask-software/kitedb",
     "language": "Rust",
@@ -77,7 +86,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1176,
-    "updated_at": "2026-10-03T04:14:12Z",
+    "updated_at": "2026-10-03T04:29:26Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -95,7 +104,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9339,
-    "updated_at": "2026-10-03T04:00:06Z",
+    "updated_at": "2026-10-03T04:27:48Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -194,7 +203,7 @@
     "language": "Rust",
     "name": "lancedb/lancedb",
     "stars": 11585,
-    "updated_at": "2026-10-03T03:25:32Z",
+    "updated_at": "2026-10-03T04:23:20Z",
     "url": "https://github.com/lancedb/lancedb"
   },
   {
@@ -293,7 +302,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-10-03T03:56:08Z",
+    "updated_at": "2026-10-03T04:23:24Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T02:15:45Z",
     "url": "https://github.com/ahmahmahm/pdf-rag-assistant"
-  },
-  {
-    "description": "Provide Claude Code with expert guidance to install, configure, and optimize memory-lancedb-pro for long-term AI memory ",
-    "id": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "language": "\u2014",
-    "name": "Ekaterinaacid284/memory-lancedb-pro-skill",
-    "stars": 0,
-    "updated_at": "2026-10-03T02:12:09Z",
-    "url": "https://github.com/Ekaterinaacid284/memory-lancedb-pro-skill"
   }
 ]
