@@ -5,8 +5,98 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-03T03:15:20Z",
+    "updated_at": "2026-10-03T03:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "A multi-user load benchmark for Long-Term Memory (LTM) systems",
+    "id": "skhynix/LTM100",
+    "language": "Python",
+    "name": "skhynix/LTM100",
+    "stars": 4,
+    "updated_at": "2026-10-03T03:26:47Z",
+    "url": "https://github.com/skhynix/LTM100"
+  },
+  {
+    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
+    "id": "cyberlife-coder/VelesDB",
+    "language": "Rust",
+    "name": "cyberlife-coder/VelesDB",
+    "stars": 97,
+    "updated_at": "2026-10-03T03:23:36Z",
+    "url": "https://github.com/cyberlife-coder/VelesDB"
+  },
+  {
+    "description": "Nomic AI \u2014 independent third-party profile of a public API surface, by API Evangelist. Nomic AI builds open and accessib",
+    "id": "api-evangelist/nomic-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/nomic-ai",
+    "stars": 0,
+    "updated_at": "2026-10-03T03:21:44Z",
+    "url": "https://github.com/api-evangelist/nomic-ai"
+  },
+  {
+    "description": "Mixedbread \u2014 independent third-party profile of a public API surface, by API Evangelist. Mixedbread is a Berlin-based AI",
+    "id": "api-evangelist/mixedbread-ai",
+    "language": "\u2014",
+    "name": "api-evangelist/mixedbread-ai",
+    "stars": 1,
+    "updated_at": "2026-10-03T03:20:49Z",
+    "url": "https://github.com/api-evangelist/mixedbread-ai"
+  },
+  {
+    "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
+    "id": "api-evangelist/marqo",
+    "language": "\u2014",
+    "name": "api-evangelist/marqo",
+    "stars": 0,
+    "updated_at": "2026-10-03T03:19:56Z",
+    "url": "https://github.com/api-evangelist/marqo"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-03T03:19:53Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11585,
+    "updated_at": "2026-10-03T03:25:32Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
+    "description": "LanceDB \u2014 independent third-party profile of a public API surface, by API Evangelist. LanceDB is the AI-Native multimoda",
+    "id": "api-evangelist/lancedb",
+    "language": "\u2014",
+    "name": "api-evangelist/lancedb",
+    "stars": 0,
+    "updated_at": "2026-10-03T03:18:49Z",
+    "url": "https://github.com/api-evangelist/lancedb"
+  },
+  {
+    "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
+    "id": "api-evangelist/ironcore-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ironcore-labs",
+    "stars": 0,
+    "updated_at": "2026-10-03T03:17:57Z",
+    "url": "https://github.com/api-evangelist/ironcore-labs"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-03T03:15:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
@@ -45,15 +135,6 @@
     "url": "https://github.com/0xLazAI/alith"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-03T03:00:32Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
     "id": "pwolfey09-sketch/embedflow",
     "language": "Python",
@@ -61,15 +142,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T02:52:01Z",
     "url": "https://github.com/pwolfey09-sketch/embedflow"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-03T02:51:44Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
@@ -151,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-10-03T02:39:05Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "The explainable, local-first memory engine for AI agents. One ~9 MB binary fuses vector + graph + columnar under VelesQL",
-    "id": "cyberlife-coder/VelesDB",
-    "language": "Rust",
-    "name": "cyberlife-coder/VelesDB",
-    "stars": 97,
-    "updated_at": "2026-10-03T02:37:02Z",
-    "url": "https://github.com/cyberlife-coder/VelesDB"
   },
   {
     "description": "Optimize long-document question answering with a multi-stage RAG pipeline featuring query-aware routing, cross-encoder r",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-03T01:43:17Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "\ud83e\udd16 Orchestrate AI agents with ease using this production-ready platform, featuring real-time streaming and multi-tool exe",
-    "id": "BiggerCap/agentops-hub",
-    "language": "TypeScript",
-    "name": "BiggerCap/agentops-hub",
-    "stars": 2,
-    "updated_at": "2026-10-03T01:43:00Z",
-    "url": "https://github.com/BiggerCap/agentops-hub"
-  },
-  {
-    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
-    "id": "hankamarvanova/unified-db",
-    "language": "Swift",
-    "name": "hankamarvanova/unified-db",
-    "stars": 2,
-    "updated_at": "2026-10-03T01:42:47Z",
-    "url": "https://github.com/hankamarvanova/unified-db"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34906,
-    "updated_at": "2026-10-03T01:41:25Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "\ud83c\udfac Discover your next favorite anime with this advanced Retrieval-Augmented Generation system, offering precise recommend",
-    "id": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "language": "Python",
-    "name": "drae1712/Agentic-RAG-Anime-Recommender-System",
-    "stars": 2,
-    "updated_at": "2026-10-03T01:40:36Z",
-    "url": "https://github.com/drae1712/Agentic-RAG-Anime-Recommender-System"
-  },
-  {
-    "description": "Official Terraform provider for Pinecone ",
-    "id": "pinecone-io/terraform-provider-pinecone",
-    "language": "Go",
-    "name": "pinecone-io/terraform-provider-pinecone",
-    "stars": 32,
-    "updated_at": "2026-10-03T02:29:27Z",
-    "url": "https://github.com/pinecone-io/terraform-provider-pinecone"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1176,
-    "updated_at": "2026-10-03T03:04:04Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "\ud83e\udd16 Enhance chatbot accuracy with a self-correcting RAG system that ingests documents, retrieves data, and evaluates respo",
-    "id": "Edublackk/self-correcting-rag-chatbot",
-    "language": "\u2014",
-    "name": "Edublackk/self-correcting-rag-chatbot",
-    "stars": 3,
-    "updated_at": "2026-10-03T01:29:11Z",
-    "url": "https://github.com/Edublackk/self-correcting-rag-chatbot"
   }
 ]
