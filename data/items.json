@@ -1,11 +1,74 @@
 [
   {
+    "description": "Headless Skill Hub and GitOps for Agentic Memory. Turn complex codebases and documents into version-controlled, immutabl",
+    "id": "Shuuida/Vex-Skillgit",
+    "language": "Python",
+    "name": "Shuuida/Vex-Skillgit",
+    "stars": 4,
+    "updated_at": "2026-10-03T00:45:05Z",
+    "url": "https://github.com/Shuuida/Vex-Skillgit"
+  },
+  {
+    "description": "\u7f16\u7a0b\u5bfc\u822a 2025 \u5e74 AI \u5f00\u53d1\u5b9e\u6218\u65b0\u9879\u76ee\uff0c\u57fa\u4e8e Spring Boot 3 + Java 21 + Spring AI \u6784\u5efa AI \u604b\u7231\u5927\u5e08\u5e94\u7528\u548c ReAct \u6a21\u5f0f\u81ea\u4e3b\u89c4\u5212\u667a\u80fd\u4f53YuManus\uff0c\u8986\u76d6 AI \u5927\u6a21\u578b\u63a5\u5165\u3001Spring AI",
+    "id": "hfgwygey/yu-ai-agent",
+    "language": "Java",
+    "name": "hfgwygey/yu-ai-agent",
+    "stars": 95,
+    "updated_at": "2026-10-03T00:41:53Z",
+    "url": "https://github.com/hfgwygey/yu-ai-agent"
+  },
+  {
+    "description": "Demo RAG API (FastAPI, OpenAI, ChromaDB, Docker) automatically generated using the OpenAI Codex CLI tool. Highlights Cod",
+    "id": "zmwzmo11130/neuraldocs",
+    "language": "Python",
+    "name": "zmwzmo11130/neuraldocs",
+    "stars": 2,
+    "updated_at": "2026-10-03T00:41:01Z",
+    "url": "https://github.com/zmwzmo11130/neuraldocs"
+  },
+  {
+    "description": "A vector database in a single .urna file, with SHA-256-verifiable citations, hybrid search and an offline runtime in Rus",
+    "id": "hoffresearch/urna",
+    "language": "Rust",
+    "name": "hoffresearch/urna",
+    "stars": 11,
+    "updated_at": "2026-10-03T00:38:13Z",
+    "url": "https://github.com/hoffresearch/urna"
+  },
+  {
+    "description": "Single-node vector database with S3 as durable storage: crash-safe writes, clustered ANN search, SSD cache, HTTP API. Ru",
+    "id": "omerfeyzioglu/glider",
+    "language": "Rust",
+    "name": "omerfeyzioglu/glider",
+    "stars": 0,
+    "updated_at": "2026-10-03T00:39:04Z",
+    "url": "https://github.com/omerfeyzioglu/glider"
+  },
+  {
+    "description": "High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding.",
+    "id": "mask-software/kitedb",
+    "language": "Rust",
+    "name": "mask-software/kitedb",
+    "stars": 4,
+    "updated_at": "2026-10-03T00:32:14Z",
+    "url": "https://github.com/mask-software/kitedb"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-03T00:30:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-03T00:30:24Z",
+    "updated_at": "2026-10-03T00:45:20Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -23,17 +86,8 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-03T00:26:57Z",
+    "updated_at": "2026-10-03T00:40:04Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "A vector database in a single .urna file, with SHA-256-verifiable citations, hybrid search and an offline runtime in Rus",
-    "id": "hoffresearch/urna",
-    "language": "Rust",
-    "name": "hoffresearch/urna",
-    "stars": 11,
-    "updated_at": "2026-10-03T00:26:32Z",
-    "url": "https://github.com/hoffresearch/urna"
   },
   {
     "description": "Embedded persistent memory and vector retrieval engine for local-first AI apps, with HNSW, BM25, and RRF hybrid retrieva",
@@ -41,17 +95,8 @@
     "language": "Rust",
     "name": "ness-e/Vantadb",
     "stars": 2,
-    "updated_at": "2026-10-03T00:25:58Z",
+    "updated_at": "2026-10-03T00:43:49Z",
     "url": "https://github.com/ness-e/Vantadb"
-  },
-  {
-    "description": "Single-node vector database with S3 as durable storage: crash-safe writes, clustered ANN search, SSD cache, HTTP API. Ru",
-    "id": "omerfeyzioglu/glider",
-    "language": "Rust",
-    "name": "omerfeyzioglu/glider",
-    "stars": 0,
-    "updated_at": "2026-10-03T00:28:33Z",
-    "url": "https://github.com/omerfeyzioglu/glider"
   },
   {
     "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
@@ -61,15 +106,6 @@
     "stars": 4,
     "updated_at": "2026-10-03T00:23:26Z",
     "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-03T00:15:35Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -113,7 +149,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9339,
-    "updated_at": "2026-10-03T00:21:39Z",
+    "updated_at": "2026-10-03T00:32:50Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -142,6 +178,15 @@
     "stars": 0,
     "updated_at": "2026-10-02T23:29:49Z",
     "url": "https://github.com/2B-4G10/NoLockQS"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2587,
+    "updated_at": "2026-10-02T23:26:58Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Spring Data Reindexer",
@@ -178,15 +223,6 @@
     "stars": 2,
     "updated_at": "2026-10-02T23:08:36Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2586,
-    "updated_at": "2026-10-02T23:26:58Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -412,41 +448,5 @@
     "stars": 17,
     "updated_at": "2026-10-02T22:41:04Z",
     "url": "https://github.com/mmnto-ai/totem"
-  },
-  {
-    "description": "Provide context-based, accurate answers to syllabus questions using AI powered by Retrieval-Augmented Generation for eff",
-    "id": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "language": "JavaScript",
-    "name": "iqiipo-dev/PS-HK19_MindForge_MindForge",
-    "stars": 2,
-    "updated_at": "2026-10-02T22:36:29Z",
-    "url": "https://github.com/iqiipo-dev/PS-HK19_MindForge_MindForge"
-  },
-  {
-    "description": "Enable persistent memory for Claude that works across crashes and restarts in both Claude Code and Claude Cowork environ",
-    "id": "a258huit58/claude-memory",
-    "language": "JavaScript",
-    "name": "a258huit58/claude-memory",
-    "stars": 1,
-    "updated_at": "2026-10-02T22:35:44Z",
-    "url": "https://github.com/a258huit58/claude-memory"
-  },
-  {
-    "description": "\ud83e\udd16 Implement hybrid human-AI orchestration patterns in Python to coordinate agents, manage sessions, and enable smooth AI",
-    "id": "Anonymousforareason111/hybrid-orchestrator",
-    "language": "Python",
-    "name": "Anonymousforareason111/hybrid-orchestrator",
-    "stars": 3,
-    "updated_at": "2026-10-02T22:34:34Z",
-    "url": "https://github.com/Anonymousforareason111/hybrid-orchestrator"
-  },
-  {
-    "description": "Compression and retrieval benchmark of 38,627 Magic card scans in single-file Urna containers",
-    "id": "brennercruvinel/mtg-urna-benchmark",
-    "language": "Python",
-    "name": "brennercruvinel/mtg-urna-benchmark",
-    "stars": 0,
-    "updated_at": "2026-10-02T23:51:14Z",
-    "url": "https://github.com/brennercruvinel/mtg-urna-benchmark"
   }
 ]
