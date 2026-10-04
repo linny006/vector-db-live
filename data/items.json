@@ -1,5 +1,104 @@
 [
   {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-04T19:15:08Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-04T19:11:38Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
+    "id": "Yasou13/MESA",
+    "language": "Python",
+    "name": "Yasou13/MESA",
+    "stars": 6,
+    "updated_at": "2026-10-04T19:10:36Z",
+    "url": "https://github.com/Yasou13/MESA"
+  },
+  {
+    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
+    "id": "datris/datris-platform-oss",
+    "language": "Scala",
+    "name": "datris/datris-platform-oss",
+    "stars": 12,
+    "updated_at": "2026-10-04T19:07:44Z",
+    "url": "https://github.com/datris/datris-platform-oss"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-04T19:07:17Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Microsoft.Extensions.VectorData provider for Chroma, built on ChromaDB.Client. Community project, not affiliated with Ch",
+    "id": "ChromaDotNet/ChromaDB.VectorData",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.VectorData",
+    "stars": 0,
+    "updated_at": "2026-10-04T19:11:38Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
+  },
+  {
+    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
+    "id": "schmitech/orbit",
+    "language": "Python",
+    "name": "schmitech/orbit",
+    "stars": 352,
+    "updated_at": "2026-10-04T19:02:10Z",
+    "url": "https://github.com/schmitech/orbit"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-04T19:01:11Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "The Agentic Framework of the PHP ecosystem to build production-ready AI driven applications. Connect components (LLMs, T",
+    "id": "neuron-core/neuron-ai",
+    "language": "PHP",
+    "name": "neuron-core/neuron-ai",
+    "stars": 2124,
+    "updated_at": "2026-10-04T19:00:50Z",
+    "url": "https://github.com/neuron-core/neuron-ai"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T19:00:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T19:00:22Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "Spring Data Reindexer",
     "id": "evgeniycheban/spring-data-reindexer",
     "language": "Java",
@@ -16,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-10-04T18:56:26Z",
     "url": "https://github.com/JakubDras/vechealth"
-  },
-  {
-    "description": "The Data Control Plane for AI Agents \u2014 acquire, validate, and land data over MCP with scoped keys, approval gates, and a",
-    "id": "datris/datris-platform-oss",
-    "language": "Scala",
-    "name": "datris/datris-platform-oss",
-    "stars": 12,
-    "updated_at": "2026-10-04T18:55:29Z",
-    "url": "https://github.com/datris/datris-platform-oss"
   },
   {
     "description": "\u26a1 In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scalar quantizat",
@@ -52,24 +142,6 @@
     "stars": 3,
     "updated_at": "2026-10-04T18:47:38Z",
     "url": "https://github.com/splinesreticulating/eggdrop-ai"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T18:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T19:00:22Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
@@ -261,15 +333,6 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "Microsoft.Extensions.VectorData provider for Chroma, built on ChromaDB.Client. Community project, not affiliated with Ch",
-    "id": "ChromaDotNet/ChromaDB.VectorData",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.VectorData",
-    "stars": 0,
-    "updated_at": "2026-10-04T18:22:23Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
-  },
-  {
     "description": "Single-node vector database with S3 as durable storage: crash-safe writes, clustered ANN search, SSD cache, HTTP API. Ru",
     "id": "omerfeyzioglu/glider",
     "language": "Rust",
@@ -385,68 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-04T18:10:56Z",
     "url": "https://github.com/api-evangelist/mixedbread-ai"
-  },
-  {
-    "description": "Milvus \u2014 independent third-party profile of a public API surface, by API Evangelist. Milvus is an Apache 2.0 open-source",
-    "id": "api-evangelist/milvus",
-    "language": "\u2014",
-    "name": "api-evangelist/milvus",
-    "stars": 0,
-    "updated_at": "2026-10-04T18:10:27Z",
-    "url": "https://github.com/api-evangelist/milvus"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-10-04T18:09:23Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
-    "id": "paradedb/paradedb",
-    "language": "Rust",
-    "name": "paradedb/paradedb",
-    "stars": 9346,
-    "updated_at": "2026-10-04T18:07:50Z",
-    "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1179,
-    "updated_at": "2026-10-04T18:18:27Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-10-04T18:07:38Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-10-04T18:07:23Z",
-    "url": "https://github.com/rein98/PsyChat"
-  },
-  {
-    "description": "Marqo \u2014 independent third-party profile of a public API surface, by API Evangelist. Marqo is an open-source, multimodal ",
-    "id": "api-evangelist/marqo",
-    "language": "\u2014",
-    "name": "api-evangelist/marqo",
-    "stars": 0,
-    "updated_at": "2026-10-04T18:07:21Z",
-    "url": "https://github.com/api-evangelist/marqo"
   }
 ]
