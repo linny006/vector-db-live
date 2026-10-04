@@ -1,5 +1,77 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T17:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C ",
+    "id": "ompatel3158/ULTSQL",
+    "language": "Dart",
+    "name": "ompatel3158/ULTSQL",
+    "stars": 1,
+    "updated_at": "2026-10-04T17:40:00Z",
+    "url": "https://github.com/ompatel3158/ULTSQL"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-04T17:39:10Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
+    "id": "api-evangelist/datastax",
+    "language": "\u2014",
+    "name": "api-evangelist/datastax",
+    "stars": 0,
+    "updated_at": "2026-10-04T17:36:44Z",
+    "url": "https://github.com/api-evangelist/datastax"
+  },
+  {
+    "description": "API platform info for database",
+    "id": "api-evangelist/database",
+    "language": "HTML",
+    "name": "api-evangelist/database",
+    "stars": 0,
+    "updated_at": "2026-10-04T17:36:32Z",
+    "url": "https://github.com/api-evangelist/database"
+  },
+  {
+    "description": "Crate Io \u2014 independent third-party profile of a public API surface, by API Evangelist. Crate.io is the company behind Cr",
+    "id": "api-evangelist/crate-io",
+    "language": "\u2014",
+    "name": "api-evangelist/crate-io",
+    "stars": 0,
+    "updated_at": "2026-10-04T17:34:33Z",
+    "url": "https://github.com/api-evangelist/crate-io"
+  },
+  {
+    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-10-04T17:33:27Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T17:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
     "id": "api-evangelist/chroma",
     "language": "\u2014",
@@ -23,7 +95,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 894,
-    "updated_at": "2026-10-04T17:26:14Z",
+    "updated_at": "2026-10-04T17:44:17Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -81,24 +153,6 @@
     "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T17:15:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T17:15:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri",
     "id": "Tamilmani027/Context-IQ",
     "language": "JavaScript",
@@ -135,15 +189,6 @@
     "url": "https://github.com/api-evangelist/aerospike"
   },
   {
-    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
-    "id": "makr-code/ThemisDB",
-    "language": "C++",
-    "name": "makr-code/ThemisDB",
-    "stars": 9,
-    "updated_at": "2026-10-04T17:07:25Z",
-    "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
     "description": "High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding.",
     "id": "mask-software/kitedb",
     "language": "Rust",
@@ -151,6 +196,15 @@
     "stars": 4,
     "updated_at": "2026-10-04T17:05:09Z",
     "url": "https://github.com/mask-software/kitedb"
+  },
+  {
+    "description": "One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte",
+    "id": "paradedb/paradedb",
+    "language": "Rust",
+    "name": "paradedb/paradedb",
+    "stars": 9345,
+    "updated_at": "2026-10-04T17:04:23Z",
+    "url": "https://github.com/paradedb/paradedb"
   },
   {
     "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
@@ -185,7 +239,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1179,
-    "updated_at": "2026-10-04T17:28:01Z",
+    "updated_at": "2026-10-04T17:36:43Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -239,7 +293,7 @@
     "language": "Rust",
     "name": "omerfeyzioglu/glider",
     "stars": 1,
-    "updated_at": "2026-10-04T17:03:47Z",
+    "updated_at": "2026-10-04T17:38:13Z",
     "url": "https://github.com/omerfeyzioglu/glider"
   },
   {
@@ -266,7 +320,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16865,
-    "updated_at": "2026-10-04T16:28:15Z",
+    "updated_at": "2026-10-04T17:37:02Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -275,7 +329,7 @@
     "language": "C++",
     "name": "MariaDB/server",
     "stars": 8312,
-    "updated_at": "2026-10-04T16:28:04Z",
+    "updated_at": "2026-10-04T17:38:55Z",
     "url": "https://github.com/MariaDB/server"
   },
   {
@@ -293,7 +347,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2633,
-    "updated_at": "2026-10-04T17:28:45Z",
+    "updated_at": "2026-10-04T17:33:02Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -394,59 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-04T15:39:16Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-04T15:38:06Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Pion \u2014 the memory engine for AI inference",
-    "id": "pavelhorak/pion",
-    "language": "Python",
-    "name": "pavelhorak/pion",
-    "stars": 0,
-    "updated_at": "2026-10-04T15:32:18Z",
-    "url": "https://github.com/pavelhorak/pion"
-  },
-  {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 7,
-    "updated_at": "2026-10-04T15:29:57Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
-    "description": "AI-powered support ticket system: inbound emails become tickets, auto-classified and resolved via a RAG pipeline grounde",
-    "id": "Shaz-gill/deskwise-app",
-    "language": "TypeScript",
-    "name": "Shaz-gill/deskwise-app",
-    "stars": 0,
-    "updated_at": "2026-10-04T15:25:32Z",
-    "url": "https://github.com/Shaz-gill/deskwise-app"
-  },
-  {
-    "description": "Series of blog posts and supporting code for D.E. for AI",
-    "id": "madhav692/data-engineering-for-ai",
-    "language": "Python",
-    "name": "madhav692/data-engineering-for-ai",
-    "stars": 0,
-    "updated_at": "2026-10-04T15:24:10Z",
-    "url": "https://github.com/madhav692/data-engineering-for-ai"
-  },
-  {
-    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
-    "id": "Ontos-AI/knowhere",
-    "language": "Python",
-    "name": "Ontos-AI/knowhere",
-    "stars": 3658,
-    "updated_at": "2026-10-04T15:22:20Z",
-    "url": "https://github.com/Ontos-AI/knowhere"
   }
 ]
