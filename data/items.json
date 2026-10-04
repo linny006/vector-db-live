@@ -1,11 +1,182 @@
 [
   {
+    "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
+    "id": "api-evangelist/ironcore-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ironcore-labs",
+    "stars": 0,
+    "updated_at": "2026-10-04T23:29:33Z",
+    "url": "https://github.com/api-evangelist/ironcore-labs"
+  },
+  {
+    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
+    "id": "Accessible-sloughing768/docustra",
+    "language": "Python",
+    "name": "Accessible-sloughing768/docustra",
+    "stars": 0,
+    "updated_at": "2026-10-04T23:27:45Z",
+    "url": "https://github.com/Accessible-sloughing768/docustra"
+  },
+  {
+    "description": "Model Context Protocol server for Qdrant - Part of Infrastructure as a Fabric ecosystem. Provides 30+ tools for vector d",
+    "id": "ry-ops/qdrant-fabric",
+    "language": "Python",
+    "name": "ry-ops/qdrant-fabric",
+    "stars": 2,
+    "updated_at": "2026-10-04T23:27:44Z",
+    "url": "https://github.com/ry-ops/qdrant-fabric"
+  },
+  {
+    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
+    "id": "Surging-scotandlot818/product-dev-blueprint",
+    "language": "TypeScript",
+    "name": "Surging-scotandlot818/product-dev-blueprint",
+    "stars": 0,
+    "updated_at": "2026-10-04T23:26:07Z",
+    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
+  },
+  {
+    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
+    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "language": "Dockerfile",
+    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
+    "stars": 0,
+    "updated_at": "2026-10-04T23:25:54Z",
+    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
+  },
+  {
+    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
+    "id": "Tobiaszn8972/turboquant-gpu",
+    "language": "Python",
+    "name": "Tobiaszn8972/turboquant-gpu",
+    "stars": 3,
+    "updated_at": "2026-10-04T23:24:43Z",
+    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
+  },
+  {
+    "description": "Build an AI memory database for agents with a Rust storage engine designed for LLM data and fast retrieval",
+    "id": "viviannenitrogenous100/mentedb",
+    "language": "\u2014",
+    "name": "viviannenitrogenous100/mentedb",
+    "stars": 0,
+    "updated_at": "2026-10-04T23:24:25Z",
+    "url": "https://github.com/viviannenitrogenous100/mentedb"
+  },
+  {
+    "description": "DataStax \u2014 independent third-party profile of a public API surface, by API Evangelist. DataStax is the company behind As",
+    "id": "api-evangelist/datastax",
+    "language": "\u2014",
+    "name": "api-evangelist/datastax",
+    "stars": 0,
+    "updated_at": "2026-10-04T23:24:23Z",
+    "url": "https://github.com/api-evangelist/datastax"
+  },
+  {
+    "description": "Store persistent AI agent memory with conversation history, vector search, knowledge base, and fact extraction in TypeSc",
+    "id": "raymondmdzz123/agent-memory",
+    "language": "TypeScript",
+    "name": "raymondmdzz123/agent-memory",
+    "stars": 1,
+    "updated_at": "2026-10-04T23:24:03Z",
+    "url": "https://github.com/raymondmdzz123/agent-memory"
+  },
+  {
+    "description": "contentstack \u2014 independent third-party profile of a public API surface, by API Evangelist. This document is a detailed r",
+    "id": "api-evangelist/contentstack",
+    "language": "\u2014",
+    "name": "api-evangelist/contentstack",
+    "stars": 0,
+    "updated_at": "2026-10-04T23:23:39Z",
+    "url": "https://github.com/api-evangelist/contentstack"
+  },
+  {
+    "description": "Organize, secure, and find Claude Code skills in one vault for easy reuse",
+    "id": "Synchronic-leafbud824/skill-vault",
+    "language": "\u2014",
+    "name": "Synchronic-leafbud824/skill-vault",
+    "stars": 2,
+    "updated_at": "2026-10-04T23:23:15Z",
+    "url": "https://github.com/Synchronic-leafbud824/skill-vault"
+  },
+  {
+    "description": "Build RAG pipelines in 3 functions for vector databases with zero config and support for Ollama, OpenAI, Qdrant, Pinecon",
+    "id": "Genusophiophagussqueezeplay359/ragpipe",
+    "language": "Python",
+    "name": "Genusophiophagussqueezeplay359/ragpipe",
+    "stars": 0,
+    "updated_at": "2026-10-04T23:23:07Z",
+    "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
+  },
+  {
+    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
+    "id": "kylebrodeur/modal-embedding-server",
+    "language": "Python",
+    "name": "kylebrodeur/modal-embedding-server",
+    "stars": 0,
+    "updated_at": "2026-10-04T23:24:15Z",
+    "url": "https://github.com/kylebrodeur/modal-embedding-server"
+  },
+  {
+    "description": "Chroma \u2014 independent third-party profile of a public API surface, by API Evangelist. Chroma (Chroma DB) is an open-sourc",
+    "id": "api-evangelist/chroma",
+    "language": "\u2014",
+    "name": "api-evangelist/chroma",
+    "stars": 0,
+    "updated_at": "2026-10-04T23:22:46Z",
+    "url": "https://github.com/api-evangelist/chroma"
+  },
+  {
+    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
+    "id": "roberthalfway204/Document-Intelligent-Assistant",
+    "language": "Python",
+    "name": "roberthalfway204/Document-Intelligent-Assistant",
+    "stars": 3,
+    "updated_at": "2026-10-04T23:22:18Z",
+    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
+  },
+  {
+    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
+    "id": "Daubingweirdie414/multimodal-rag",
+    "language": "Python",
+    "name": "Daubingweirdie414/multimodal-rag",
+    "stars": 4,
+    "updated_at": "2026-10-04T23:19:48Z",
+    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
+  },
+  {
+    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
+    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "language": "Python",
+    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
+    "stars": 1,
+    "updated_at": "2026-10-04T23:19:06Z",
+    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
+  },
+  {
+    "description": "Index GitHub repositories to enable AI-driven code queries with precise answers and source references for faster codebas",
+    "id": "younismahmoud1234/gitsage",
+    "language": "Java",
+    "name": "younismahmoud1234/gitsage",
+    "stars": 1,
+    "updated_at": "2026-10-04T23:17:52Z",
+    "url": "https://github.com/younismahmoud1234/gitsage"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T23:15:22Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-04T23:15:17Z",
+    "updated_at": "2026-10-04T23:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -14,7 +185,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-04T23:15:10Z",
+    "updated_at": "2026-10-04T23:16:50Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -43,15 +214,6 @@
     "stars": 2,
     "updated_at": "2026-10-04T23:12:26Z",
     "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
-    "id": "kylebrodeur/modal-embedding-server",
-    "language": "Python",
-    "name": "kylebrodeur/modal-embedding-server",
-    "stars": 0,
-    "updated_at": "2026-10-04T23:11:59Z",
-    "url": "https://github.com/kylebrodeur/modal-embedding-server"
   },
   {
     "description": "",
@@ -142,15 +304,6 @@
     "stars": 2638,
     "updated_at": "2026-10-04T23:05:24Z",
     "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T23:00:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "\ud83d\udd0d Search for similar academic papers using semantic search. Utilize local models or OpenAI API for high-quality results.",
@@ -295,158 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T22:39:36Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "A complete collection of RAG interview questions, answers (1297 questions & 52 RAG types), system design scenarios, arch",
-    "id": "ather-techie/rag-interview-system",
-    "language": "Jupyter Notebook",
-    "name": "ather-techie/rag-interview-system",
-    "stars": 163,
-    "updated_at": "2026-10-04T22:32:00Z",
-    "url": "https://github.com/ather-techie/rag-interview-system"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2037,
-    "updated_at": "2026-10-04T22:23:51Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
-    "id": "wickra-lib/wickra-genome",
-    "language": "Rust",
-    "name": "wickra-lib/wickra-genome",
-    "stars": 1,
-    "updated_at": "2026-10-04T22:18:53Z",
-    "url": "https://github.com/wickra-lib/wickra-genome"
-  },
-  {
-    "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
-    "id": "rmednitzer/core-graph",
-    "language": "Python",
-    "name": "rmednitzer/core-graph",
-    "stars": 1,
-    "updated_at": "2026-10-04T22:18:20Z",
-    "url": "https://github.com/rmednitzer/core-graph"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31359,
-    "updated_at": "2026-10-04T22:01:54Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-04T21:45:37Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Shared, persistent memory for AI agents. Self-hosted MCP server with semantic search, vector RAG, and live updates. Work",
-    "id": "MontyGovernance/montycat-mcp",
-    "language": "Python",
-    "name": "MontyGovernance/montycat-mcp",
-    "stars": 68,
-    "updated_at": "2026-10-04T21:34:29Z",
-    "url": "https://github.com/MontyGovernance/montycat-mcp"
-  },
-  {
-    "description": "Aspire integrations for Chroma and Chroma Cloud, built on ChromaDB.Client. Community project, not affiliated with Chroma",
-    "id": "ChromaDotNet/ChromaDB.Aspire",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Aspire",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:23:15Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Aspire"
-  },
-  {
-    "description": "SQL-first vector database written in Rust: relational filters and similarity search in one query.",
-    "id": "kamilsj/vectors",
-    "language": "Rust",
-    "name": "kamilsj/vectors",
-    "stars": 4,
-    "updated_at": "2026-10-04T21:28:14Z",
-    "url": "https://github.com/kamilsj/vectors"
-  },
-  {
-    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG & AI agents \u2014 the Dart & Flutter client. Self-ho",
-    "id": "MontyGovernance/montycat_dart",
-    "language": "Dart",
-    "name": "MontyGovernance/montycat_dart",
-    "stars": 5,
-    "updated_at": "2026-10-04T21:20:27Z",
-    "url": "https://github.com/MontyGovernance/montycat_dart"
-  },
-  {
-    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the Node.js & TypeScri",
-    "id": "MontyGovernance/montycat_node",
-    "language": "TypeScript",
-    "name": "MontyGovernance/montycat_node",
-    "stars": 3,
-    "updated_at": "2026-10-04T21:23:00Z",
-    "url": "https://github.com/MontyGovernance/montycat_node"
-  },
-  {
-    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Python clien",
-    "id": "MontyGovernance/montycat_python",
-    "language": "Python",
-    "name": "MontyGovernance/montycat_python",
-    "stars": 13,
-    "updated_at": "2026-10-04T21:24:12Z",
-    "url": "https://github.com/MontyGovernance/montycat_python"
-  },
-  {
-    "description": "Single-node vector database with S3 as durable storage: crash-safe writes, clustered ANN search, SSD cache, HTTP API. Ru",
-    "id": "omerfeyzioglu/glider",
-    "language": "Rust",
-    "name": "omerfeyzioglu/glider",
-    "stars": 1,
-    "updated_at": "2026-10-04T21:13:19Z",
-    "url": "https://github.com/omerfeyzioglu/glider"
-  },
-  {
-    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
-    "id": "structured-world/coordinode",
-    "language": "Rust",
-    "name": "structured-world/coordinode",
-    "stars": 6,
-    "updated_at": "2026-10-04T21:15:07Z",
-    "url": "https://github.com/structured-world/coordinode"
-  },
-  {
-    "description": "AI-native NoSQL + vector database with built-in semantic search for RAG, AI agents & LLM memory \u2014 the async Rust client.",
-    "id": "MontyGovernance/montycat_rust",
-    "language": "Rust",
-    "name": "MontyGovernance/montycat_rust",
-    "stars": 3,
-    "updated_at": "2026-10-04T21:18:01Z",
-    "url": "https://github.com/MontyGovernance/montycat_rust"
-  },
-  {
-    "description": "An AI-powered resume analysis and candidate-ranking platform using Streamlit, Gemini embeddings, ChromaDB vector retriev",
-    "id": "shathahsaleem/resume-rag-system",
-    "language": "Python",
-    "name": "shathahsaleem/resume-rag-system",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:09:07Z",
-    "url": "https://github.com/shathahsaleem/resume-rag-system"
-  },
-  {
-    "description": "Self-hosted AI gateway for private RAG, natural-language data access, and tool-calling agents.",
-    "id": "schmitech/orbit",
-    "language": "Python",
-    "name": "schmitech/orbit",
-    "stars": 352,
-    "updated_at": "2026-10-04T21:07:02Z",
-    "url": "https://github.com/schmitech/orbit"
   }
 ]
