@@ -1,11 +1,74 @@
 [
   {
+    "description": "Python client for GoVec, a compact vector search engine: one typed API over REST or gRPC, for semantic search and RAG.",
+    "id": "Pradyothsp/govec-python",
+    "language": "Python",
+    "name": "Pradyothsp/govec-python",
+    "stars": 0,
+    "updated_at": "2026-10-04T00:28:09Z",
+    "url": "https://github.com/Pradyothsp/govec-python"
+  },
+  {
+    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
+    "id": "nadeem4/nl2sql",
+    "language": "Python",
+    "name": "nadeem4/nl2sql",
+    "stars": 4,
+    "updated_at": "2026-10-04T00:26:25Z",
+    "url": "https://github.com/nadeem4/nl2sql"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 894,
+    "updated_at": "2026-10-04T00:28:09Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
+    "id": "structured-world/coordinode",
+    "language": "Rust",
+    "name": "structured-world/coordinode",
+    "stars": 6,
+    "updated_at": "2026-10-04T00:21:27Z",
+    "url": "https://github.com/structured-world/coordinode"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-04T00:18:36Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Atlas \u2014 self-hosted, source-configurable, multi-disciplinary engineering platform for gen-AI, ML, and data work. 30+ OSS",
+    "id": "thekaveh/atlas",
+    "language": "Python",
+    "name": "thekaveh/atlas",
+    "stars": 3,
+    "updated_at": "2026-10-04T00:18:27Z",
+    "url": "https://github.com/thekaveh/atlas"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T00:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-04T00:15:20Z",
+    "updated_at": "2026-10-04T00:30:21Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -25,15 +88,6 @@
     "stars": 2,
     "updated_at": "2026-10-04T00:11:24Z",
     "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 894,
-    "updated_at": "2026-10-04T00:12:48Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "The Ultimate Vectors Library for Java",
@@ -61,15 +115,6 @@
     "stars": 6,
     "updated_at": "2026-10-04T00:01:29Z",
     "url": "https://github.com/arvindand/spring-ai-rag-demo"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T00:00:28Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
@@ -106,24 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-03T23:50:31Z",
     "url": "https://github.com/omerfeyzioglu/glider"
-  },
-  {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-03T23:50:17Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Python client for GoVec, a compact vector search engine: one typed API over REST or gRPC, for semantic search and RAG.",
-    "id": "Pradyothsp/govec-python",
-    "language": "Python",
-    "name": "Pradyothsp/govec-python",
-    "stars": 0,
-    "updated_at": "2026-10-03T23:43:04Z",
-    "url": "https://github.com/Pradyothsp/govec-python"
   },
   {
     "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
@@ -194,7 +221,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1178,
-    "updated_at": "2026-10-04T00:12:49Z",
+    "updated_at": "2026-10-04T00:29:19Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -221,17 +248,8 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9344,
-    "updated_at": "2026-10-04T00:08:01Z",
+    "updated_at": "2026-10-04T00:19:48Z",
     "url": "https://github.com/paradedb/paradedb"
-  },
-  {
-    "description": "Ask your database questions in English. The model emits a typed query plan, never SQL text - validated against the real ",
-    "id": "nadeem4/nl2sql",
-    "language": "Python",
-    "name": "nadeem4/nl2sql",
-    "stars": 4,
-    "updated_at": "2026-10-03T23:18:44Z",
-    "url": "https://github.com/nadeem4/nl2sql"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -430,23 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-03T22:15:01Z",
     "url": "https://github.com/Zopze/TV-Show-Recommender-AI"
-  },
-  {
-    "description": "\ud83e\ude7a Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati",
-    "id": "Ojcalzada/pulsepoint-RAG",
-    "language": "Python",
-    "name": "Ojcalzada/pulsepoint-RAG",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:12:46Z",
-    "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
-  },
-  {
-    "description": "My AI engineering journey through hands-on projects, experiments, and documentation.",
-    "id": "ihrimon/ai-engineering-journey",
-    "language": "HTML",
-    "name": "ihrimon/ai-engineering-journey",
-    "stars": 0,
-    "updated_at": "2026-10-03T22:10:56Z",
-    "url": "https://github.com/ihrimon/ai-engineering-journey"
   }
 ]
