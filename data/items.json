@@ -1,10 +1,46 @@
 [
   {
+    "description": "A vector database in a single .urna file, with SHA-256-verifiable citations, hybrid search and an offline runtime in Rus",
+    "id": "hoffresearch/urna",
+    "language": "Rust",
+    "name": "hoffresearch/urna",
+    "stars": 11,
+    "updated_at": "2026-10-04T05:59:02Z",
+    "url": "https://github.com/hoffresearch/urna"
+  },
+  {
+    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 2,
+    "updated_at": "2026-10-04T05:55:43Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T06:00:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T05:45:23Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "\u57fa\u4e8e LangGraph \u7684 Graph RAG \u77e5\u8bc6\u5e93\u95ee\u7b54\u7cfb\u7edf\uff1aMinerU \u6587\u6863\u5bfc\u5165 + Neo4j \u77e5\u8bc6\u56fe\u8c31 + Milvus \u6df7\u5408\u68c0\u7d22 + BGE \u91cd\u6392 + DeepSeek \u6d41\u5f0f\u95ee\u7b54\uff08FastAPI \u524d\u540e\u7aef\uff09",
     "id": "jinbinyou8-lab/graph-rag-knowledge-base",
     "language": "Python",
     "name": "jinbinyou8-lab/graph-rag-knowledge-base",
-    "stars": 0,
+    "stars": 1,
     "updated_at": "2026-10-04T05:43:23Z",
     "url": "https://github.com/jinbinyou8-lab/graph-rag-knowledge-base"
   },
@@ -34,24 +70,6 @@
     "stars": 9,
     "updated_at": "2026-10-04T05:30:41Z",
     "url": "https://github.com/makr-code/ThemisDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T05:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T05:30:24Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "A from-scratch vector database: HNSW ANN index, crash-safe WAL, deterministic replay, zero runtime dependencies, and a l",
@@ -126,6 +144,15 @@
     "url": "https://github.com/fenecdb/fenec"
   },
   {
+    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
+    "id": "lancedb/lancedb",
+    "language": "Rust",
+    "name": "lancedb/lancedb",
+    "stars": 11596,
+    "updated_at": "2026-10-04T05:06:33Z",
+    "url": "https://github.com/lancedb/lancedb"
+  },
+  {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
     "id": "23skdu/longbow",
     "language": "Go",
@@ -158,7 +185,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1178,
-    "updated_at": "2026-10-04T05:43:26Z",
+    "updated_at": "2026-10-04T05:57:19Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -167,17 +194,8 @@
     "language": "Go",
     "name": "liliang-cn/cortexdb",
     "stars": 263,
-    "updated_at": "2026-10-04T04:30:25Z",
+    "updated_at": "2026-10-04T05:55:00Z",
     "url": "https://github.com/liliang-cn/cortexdb"
-  },
-  {
-    "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
-    "id": "lancedb/lancedb",
-    "language": "Rust",
-    "name": "lancedb/lancedb",
-    "stars": 11595,
-    "updated_at": "2026-10-04T05:06:33Z",
-    "url": "https://github.com/lancedb/lancedb"
   },
   {
     "description": "Chat, analyze, and explore PDFs locally with AI-powered RAG conversations and adaptive dashboards\u2014100% private, no cloud",
@@ -430,23 +448,5 @@
     "stars": 3,
     "updated_at": "2026-10-04T03:56:48Z",
     "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
-    "id": "felixzhu97/explore-ai",
-    "language": "Java",
-    "name": "felixzhu97/explore-ai",
-    "stars": 2,
-    "updated_at": "2026-10-04T05:44:23Z",
-    "url": "https://github.com/felixzhu97/explore-ai"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 18,
-    "updated_at": "2026-10-04T03:56:29Z",
-    "url": "https://github.com/integrallis/vectors"
   }
 ]
