@@ -1,21 +1,111 @@
 [
   {
-    "description": "High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding.",
-    "id": "mask-software/kitedb",
-    "language": "Rust",
-    "name": "mask-software/kitedb",
-    "stars": 4,
-    "updated_at": "2026-10-04T17:00:53Z",
-    "url": "https://github.com/mask-software/kitedb"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-04T17:00:25Z",
+    "updated_at": "2026-10-04T17:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Embedded vector database + living context engine  Part of Hawky.ai \u2014 AI-Native Digital Marketing OS",
+    "id": "feather-store/feather",
+    "language": "Python",
+    "name": "feather-store/feather",
+    "stars": 7,
+    "updated_at": "2026-10-04T17:13:07Z",
+    "url": "https://github.com/feather-store/feather"
+  },
+  {
+    "description": "An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri",
+    "id": "Tamilmani027/Context-IQ",
+    "language": "JavaScript",
+    "name": "Tamilmani027/Context-IQ",
+    "stars": 0,
+    "updated_at": "2026-10-04T17:11:14Z",
+    "url": "https://github.com/Tamilmani027/Context-IQ"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-04T17:10:27Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "The AI search platform",
+    "id": "vespa-engine/vespa",
+    "language": "Java",
+    "name": "vespa-engine/vespa",
+    "stars": 7118,
+    "updated_at": "2026-10-04T17:10:25Z",
+    "url": "https://github.com/vespa-engine/vespa"
+  },
+  {
+    "description": "Aerospike \u2014 independent third-party profile of a public API surface, by API Evangelist. Aerospike is a real-time, high-t",
+    "id": "api-evangelist/aerospike",
+    "language": "\u2014",
+    "name": "api-evangelist/aerospike",
+    "stars": 0,
+    "updated_at": "2026-10-04T17:08:09Z",
+    "url": "https://github.com/api-evangelist/aerospike"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-04T17:07:25Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 3,
+    "updated_at": "2026-10-04T17:06:50Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
+  },
+  {
+    "description": "High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding.",
+    "id": "mask-software/kitedb",
+    "language": "Rust",
+    "name": "mask-software/kitedb",
+    "stars": 4,
+    "updated_at": "2026-10-04T17:05:09Z",
+    "url": "https://github.com/mask-software/kitedb"
+  },
+  {
+    "description": "Multi-repo AI intelligence hub for OmniBioAI \u2014 hybrid retrieval system combining vector search, knowledge graph traversa",
+    "id": "OmniBioAI/omnibioai-dev-hub",
+    "language": "Python",
+    "name": "OmniBioAI/omnibioai-dev-hub",
+    "stars": 1,
+    "updated_at": "2026-10-04T17:03:56Z",
+    "url": "https://github.com/OmniBioAI/omnibioai-dev-hub"
+  },
+  {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2036,
+    "updated_at": "2026-10-04T17:03:10Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T17:01:01Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
@@ -32,7 +122,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-04T16:55:44Z",
+    "updated_at": "2026-10-04T17:14:39Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -41,17 +131,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1179,
-    "updated_at": "2026-10-04T16:57:22Z",
+    "updated_at": "2026-10-04T17:08:20Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
-    "id": "kannaka-labs/kannaka-memory",
-    "language": "Rust",
-    "name": "kannaka-labs/kannaka-memory",
-    "stars": 3,
-    "updated_at": "2026-10-04T16:53:31Z",
-    "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -59,7 +140,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-04T16:52:32Z",
+    "updated_at": "2026-10-04T17:02:25Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -86,7 +167,7 @@
     "language": "Java",
     "name": "felixzhu97/explore-ai",
     "stars": 2,
-    "updated_at": "2026-10-04T16:49:34Z",
+    "updated_at": "2026-10-04T17:11:59Z",
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
@@ -113,17 +194,8 @@
     "language": "Go",
     "name": "d3uceY/vectile",
     "stars": 4,
-    "updated_at": "2026-10-04T16:46:30Z",
+    "updated_at": "2026-10-04T17:10:45Z",
     "url": "https://github.com/d3uceY/vectile"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T16:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Single-node vector database with S3 as durable storage: crash-safe writes, clustered ANN search, SSD cache, HTTP API. Ru",
@@ -131,7 +203,7 @@
     "language": "Rust",
     "name": "omerfeyzioglu/glider",
     "stars": 1,
-    "updated_at": "2026-10-04T16:36:53Z",
+    "updated_at": "2026-10-04T17:03:47Z",
     "url": "https://github.com/omerfeyzioglu/glider"
   },
   {
@@ -167,17 +239,17 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31352,
-    "updated_at": "2026-10-04T16:59:50Z",
+    "updated_at": "2026-10-04T17:01:14Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
-    "description": "An end-to-end document intelligence system for books. The platform scrapes book data, stores it in MySQL, indexes descri",
-    "id": "Tamilmani027/Context-IQ",
-    "language": "JavaScript",
-    "name": "Tamilmani027/Context-IQ",
-    "stars": 0,
-    "updated_at": "2026-10-04T16:22:34Z",
-    "url": "https://github.com/Tamilmani027/Context-IQ"
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2632,
+    "updated_at": "2026-10-04T16:23:10Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl",
@@ -203,7 +275,7 @@
     "language": "Python",
     "name": "JakubDras/vechealth",
     "stars": 4,
-    "updated_at": "2026-10-04T16:16:45Z",
+    "updated_at": "2026-10-04T17:03:23Z",
     "url": "https://github.com/JakubDras/vechealth"
   },
   {
@@ -376,77 +448,5 @@
     "stars": 9456,
     "updated_at": "2026-10-04T16:33:53Z",
     "url": "https://github.com/databendlabs/databend"
-  },
-  {
-    "description": "\ud83d\udcda RAG assistant for Indian income tax: answers questions from the Income-tax Act, Rules and CBDT circulars with page-lev",
-    "id": "NitinReddy-A/IncomeTAXGPT",
-    "language": "Python",
-    "name": "NitinReddy-A/IncomeTAXGPT",
-    "stars": 10,
-    "updated_at": "2026-10-04T15:09:02Z",
-    "url": "https://github.com/NitinReddy-A/IncomeTAXGPT"
-  },
-  {
-    "description": "\ud83d\udca1 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
-    "id": "neuml/txtai",
-    "language": "Python",
-    "name": "neuml/txtai",
-    "stars": 12991,
-    "updated_at": "2026-10-04T15:15:36Z",
-    "url": "https://github.com/neuml/txtai"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2631,
-    "updated_at": "2026-10-04T16:23:10Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
-    "id": "boddetijayanth22/Enterprise-Knowledge-Assistant",
-    "language": "Python",
-    "name": "boddetijayanth22/Enterprise-Knowledge-Assistant",
-    "stars": 2,
-    "updated_at": "2026-10-04T15:02:41Z",
-    "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
-  },
-  {
-    "description": "\u53ef\u8fd0\u884c\u7684 RAG \u540e\u7aef\uff1a\u7ed3\u6784\u611f\u77e5\u5207\u5206 + \u5411\u91cf/BM25 \u6df7\u5408\u68c0\u7d22 + RRF \u878d\u5408 + \u56db\u4fe1\u53f7\u91cd\u6392\uff0c\u670d\u52a1\u7aef\u6821\u9a8c\u5f15\u7528\u8d8a\u754c\uff0c\u68c0\u7d22\u4e3a\u7a7a\u65f6\u4e0d\u8c03\u7528\u5927\u6a21\u578b\u3002FastAPI \u00b7 Chroma \u00b7 BGE \u00b7 Docker \u00b7 30 \u9879\u6d4b\u8bd5\u3002",
-    "id": "zyx4303/autorag",
-    "language": "Python",
-    "name": "zyx4303/autorag",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:54:40Z",
-    "url": "https://github.com/zyx4303/autorag"
-  },
-  {
-    "description": "The Ultimate Vectors Library for Java",
-    "id": "integrallis/vectors",
-    "language": "Java",
-    "name": "integrallis/vectors",
-    "stars": 17,
-    "updated_at": "2026-10-04T14:48:01Z",
-    "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-04T14:38:15Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
-    "id": "lyonzin/knowledge-rag",
-    "language": "Python",
-    "name": "lyonzin/knowledge-rag",
-    "stars": 290,
-    "updated_at": "2026-10-04T14:37:29Z",
-    "url": "https://github.com/lyonzin/knowledge-rag"
   }
 ]
