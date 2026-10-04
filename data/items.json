@@ -1,11 +1,92 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T22:45:20Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-04T22:45:14Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-04T22:45:09Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2637,
+    "updated_at": "2026-10-04T22:41:58Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
+    "id": "kylebrodeur/modal-embedding-server",
+    "language": "Python",
+    "name": "kylebrodeur/modal-embedding-server",
+    "stars": 0,
+    "updated_at": "2026-10-04T22:43:47Z",
+    "url": "https://github.com/kylebrodeur/modal-embedding-server"
+  },
+  {
+    "description": "Master LLM Search in 2026: The Complete Semantic AI Handbook",
+    "id": "Benorina1/llm-vector-retrieval-playbook",
+    "language": "HTML",
+    "name": "Benorina1/llm-vector-retrieval-playbook",
+    "stars": 0,
+    "updated_at": "2026-10-04T22:39:36Z",
+    "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-04T22:36:34Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A complete collection of RAG interview questions, answers (1297 questions & 52 RAG types), system design scenarios, arch",
+    "id": "ather-techie/rag-interview-system",
+    "language": "Jupyter Notebook",
+    "name": "ather-techie/rag-interview-system",
+    "stars": 163,
+    "updated_at": "2026-10-04T22:32:00Z",
+    "url": "https://github.com/ather-techie/rag-interview-system"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T22:30:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 894,
-    "updated_at": "2026-10-04T22:26:24Z",
+    "updated_at": "2026-10-04T22:33:15Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -36,42 +117,6 @@
     "url": "https://github.com/rmednitzer/core-graph"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T22:15:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T22:30:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-04T22:08:02Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-04T22:21:33Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -79,15 +124,6 @@
     "stars": 31359,
     "updated_at": "2026-10-04T22:01:54Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2637,
-    "updated_at": "2026-10-04T22:25:16Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T20:20:09Z",
     "url": "https://github.com/Genusophiophagussqueezeplay359/ragpipe"
-  },
-  {
-    "description": "SequoiaDB \u2014 independent third-party profile of a public API surface, by API Evangelist. SequoiaDB (\u5de8\u6749\u6570\u636e\u5e93) is a distribut",
-    "id": "api-evangelist/sequoiadb",
-    "language": "\u2014",
-    "name": "api-evangelist/sequoiadb",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:19:37Z",
-    "url": "https://github.com/api-evangelist/sequoiadb"
-  },
-  {
-    "description": "Transform scanned documents into searchable, structured data with OCR, AI extraction, and Python automation",
-    "id": "roberthalfway204/Document-Intelligent-Assistant",
-    "language": "Python",
-    "name": "roberthalfway204/Document-Intelligent-Assistant",
-    "stars": 3,
-    "updated_at": "2026-10-04T20:19:21Z",
-    "url": "https://github.com/roberthalfway204/Document-Intelligent-Assistant"
-  },
-  {
-    "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
-    "id": "Daubingweirdie414/multimodal-rag",
-    "language": "Python",
-    "name": "Daubingweirdie414/multimodal-rag",
-    "stars": 4,
-    "updated_at": "2026-10-04T20:16:47Z",
-    "url": "https://github.com/Daubingweirdie414/multimodal-rag"
-  },
-  {
-    "description": "Benchmark RAG pipeline configurations by testing chunking, embedding, and retrieval methods to identify the best setup f",
-    "id": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "language": "Python",
-    "name": "Arthrocentesisgenusphylloxera328/rag-forge",
-    "stars": 1,
-    "updated_at": "2026-10-04T20:16:03Z",
-    "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
   }
 ]
