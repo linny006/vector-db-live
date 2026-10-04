@@ -1,5 +1,59 @@
 [
   {
+    "description": "\u57fa\u4e8e LangGraph \u7684 Graph RAG \u77e5\u8bc6\u5e93\u95ee\u7b54\u7cfb\u7edf\uff1aMinerU \u6587\u6863\u5bfc\u5165 + Neo4j \u77e5\u8bc6\u56fe\u8c31 + Milvus \u6df7\u5408\u68c0\u7d22 + BGE \u91cd\u6392 + DeepSeek \u6d41\u5f0f\u95ee\u7b54\uff08FastAPI \u524d\u540e\u7aef\uff09",
+    "id": "jinbinyou8-lab/graph-rag-knowledge-base",
+    "language": "Python",
+    "name": "jinbinyou8-lab/graph-rag-knowledge-base",
+    "stars": 0,
+    "updated_at": "2026-10-04T05:43:23Z",
+    "url": "https://github.com/jinbinyou8-lab/graph-rag-knowledge-base"
+  },
+  {
+    "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
+    "id": "surajkumarnavodya/text-to-sql-agent-langgraph",
+    "language": "Python",
+    "name": "surajkumarnavodya/text-to-sql-agent-langgraph",
+    "stars": 3,
+    "updated_at": "2026-10-04T05:34:09Z",
+    "url": "https://github.com/surajkumarnavodya/text-to-sql-agent-langgraph"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-04T05:31:40Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
+    "id": "makr-code/ThemisDB",
+    "language": "C++",
+    "name": "makr-code/ThemisDB",
+    "stars": 9,
+    "updated_at": "2026-10-04T05:30:41Z",
+    "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T05:30:24Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T05:30:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A from-scratch vector database: HNSW ANN index, crash-safe WAL, deterministic replay, zero runtime dependencies, and a l",
     "id": "qiyuhuating/skipverse",
     "language": "TypeScript",
@@ -45,15 +99,6 @@
     "url": "https://github.com/Bhukya-jashwanthi/lecturelens"
   },
   {
-    "description": "\u638c\u67dc\u667a\u5e93 \u00b7 \u57fa\u4e8e LangGraph \u7684\u667a\u80fd\u77e5\u8bc6\u5e93\u95ee\u7b54\u7cfb\u7edf\uff1aMinerU \u6587\u6863\u5bfc\u5165 + Neo4j \u77e5\u8bc6\u56fe\u8c31 + Milvus \u6df7\u5408\u68c0\u7d22 + BGE \u91cd\u6392 + DeepSeek SSE \u6d41\u5f0f\u95ee\u7b54\uff08FastAPI \u524d\u540e\u7aef\uff09",
-    "id": "jinbinyou8-lab/shopkeeper-brain",
-    "language": "\u2014",
-    "name": "jinbinyou8-lab/shopkeeper-brain",
-    "stars": 0,
-    "updated_at": "2026-10-04T05:21:39Z",
-    "url": "https://github.com/jinbinyou8-lab/shopkeeper-brain"
-  },
-  {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
     "id": "orneryd/NornicDB",
     "language": "Go",
@@ -61,24 +106,6 @@
     "stars": 894,
     "updated_at": "2026-10-04T05:28:23Z",
     "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T05:15:21Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T05:15:17Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
@@ -108,15 +135,6 @@
     "url": "https://github.com/23skdu/longbow"
   },
   {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-04T04:58:43Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
     "description": "Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  \u2014 rebuilt from scratch. Unified architectu",
     "id": "databendlabs/databend",
     "language": "Rust",
@@ -140,17 +158,8 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1178,
-    "updated_at": "2026-10-04T05:23:53Z",
+    "updated_at": "2026-10-04T05:43:26Z",
     "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
-    "description": "Self-correcting text-to-SQL agent \u2014 LangGraph + Ollama + ChromaDB, with schema-aware retrieval and a read-only SQL valid",
-    "id": "surajkumarnavodya/text-to-sql-agent-langgraph",
-    "language": "Python",
-    "name": "surajkumarnavodya/text-to-sql-agent-langgraph",
-    "stars": 3,
-    "updated_at": "2026-10-04T04:44:04Z",
-    "url": "https://github.com/surajkumarnavodya/text-to-sql-agent-langgraph"
   },
   {
     "description": "AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too",
@@ -428,7 +437,7 @@
     "language": "Java",
     "name": "felixzhu97/explore-ai",
     "stars": 2,
-    "updated_at": "2026-10-04T05:09:51Z",
+    "updated_at": "2026-10-04T05:44:23Z",
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 18,
     "updated_at": "2026-10-04T03:56:29Z",
     "url": "https://github.com/integrallis/vectors"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-10-04T03:55:22Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
