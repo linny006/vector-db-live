@@ -1,12 +1,66 @@
 [
   {
+    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
+    "id": "matrixorigin/matrixone",
+    "language": "Go",
+    "name": "matrixorigin/matrixone",
+    "stars": 2037,
+    "updated_at": "2026-10-04T22:12:53Z",
+    "url": "https://github.com/matrixorigin/matrixone"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-04T22:08:02Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-04T22:09:55Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31357,
+    "updated_at": "2026-10-04T22:01:54Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T22:00:27Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-04T22:00:20Z",
+    "updated_at": "2026-10-04T22:15:21Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2637,
+    "updated_at": "2026-10-04T22:14:09Z",
+    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -18,15 +72,6 @@
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T21:45:58Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -36,29 +81,11 @@
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-04T21:42:49Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-04T21:53:48Z",
-    "url": "https://github.com/fenecdb/fenec"
-  },
-  {
     "description": "Shared, persistent memory for AI agents. Self-hosted MCP server with semantic search, vector RAG, and live updates. Work",
     "id": "MontyGovernance/montycat-mcp",
     "language": "Python",
     "name": "MontyGovernance/montycat-mcp",
-    "stars": 67,
+    "stars": 68,
     "updated_at": "2026-10-04T21:34:29Z",
     "url": "https://github.com/MontyGovernance/montycat-mcp"
   },
@@ -88,15 +115,6 @@
     "stars": 4,
     "updated_at": "2026-10-04T21:28:14Z",
     "url": "https://github.com/kamilsj/vectors"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2635,
-    "updated_at": "2026-10-04T21:55:40Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "AI-native NoSQL + vector database with built-in semantic search for RAG & AI agents \u2014 the Dart & Flutter client. Self-ho",
@@ -187,15 +205,6 @@
     "stars": 2,
     "updated_at": "2026-10-04T21:00:43Z",
     "url": "https://github.com/ry-ops/commit-relay"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31356,
-    "updated_at": "2026-10-04T20:59:22Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age",
@@ -428,7 +437,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1179,
-    "updated_at": "2026-10-04T22:00:10Z",
+    "updated_at": "2026-10-04T22:04:00Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -439,14 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-04T20:11:38Z",
     "url": "https://github.com/leo2007960216/deeprecall"
-  },
-  {
-    "description": "\ud83d\udd0d Explore a curated list of open-source vector-native databases and libraries for efficient vector search, indexing, and",
-    "id": "kirill2911/awesome-vector-search",
-    "language": "\u2014",
-    "name": "kirill2911/awesome-vector-search",
-    "stars": 1,
-    "updated_at": "2026-10-04T20:10:21Z",
-    "url": "https://github.com/kirill2911/awesome-vector-search"
   }
 ]
