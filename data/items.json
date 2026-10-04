@@ -1,5 +1,23 @@
 [
   {
+    "description": "Microsoft.Extensions.VectorData provider for Chroma, built on ChromaDB.Client. Community project, not affiliated with Ch",
+    "id": "ChromaDotNet/ChromaDB.VectorData",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.VectorData",
+    "stars": 0,
+    "updated_at": "2026-10-04T20:53:30Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T20:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -50,7 +68,7 @@
     "language": "Rust",
     "name": "xerj-org/xerj",
     "stars": 2635,
-    "updated_at": "2026-10-04T20:42:54Z",
+    "updated_at": "2026-10-04T20:52:07Z",
     "url": "https://github.com/xerj-org/xerj"
   },
   {
@@ -97,24 +115,6 @@
     "stars": 1,
     "updated_at": "2026-10-04T20:33:12Z",
     "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "Microsoft.Extensions.VectorData provider for Chroma, built on ChromaDB.Client. Community project, not affiliated with Ch",
-    "id": "ChromaDotNet/ChromaDB.VectorData",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.VectorData",
-    "stars": 0,
-    "updated_at": "2026-10-04T20:33:12Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T20:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
