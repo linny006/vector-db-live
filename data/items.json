@@ -1,5 +1,113 @@
 [
   {
+    "description": "\ud83d\ude80 Build and explore multi-agent AI workflows with ready-to-use projects for document serving, Q/A bots, and orchestratio",
+    "id": "fub05/MCP---Agent-Starter-Kit",
+    "language": "Python",
+    "name": "fub05/MCP---Agent-Starter-Kit",
+    "stars": 6,
+    "updated_at": "2026-10-04T17:59:40Z",
+    "url": "https://github.com/fub05/MCP---Agent-Starter-Kit"
+  },
+  {
+    "description": "IronCore Labs \u2014 independent third-party profile of a public API surface, by API Evangelist. IronCore Labs builds applica",
+    "id": "api-evangelist/ironcore-labs",
+    "language": "\u2014",
+    "name": "api-evangelist/ironcore-labs",
+    "stars": 0,
+    "updated_at": "2026-10-04T17:59:16Z",
+    "url": "https://github.com/api-evangelist/ironcore-labs"
+  },
+  {
+    "description": "My AI engineering journey through hands-on projects, experiments, and documentation.",
+    "id": "ihrimon/ai-engineering-journey",
+    "language": "HTML",
+    "name": "ihrimon/ai-engineering-journey",
+    "stars": 0,
+    "updated_at": "2026-10-04T17:58:34Z",
+    "url": "https://github.com/ihrimon/ai-engineering-journey"
+  },
+  {
+    "description": "\ud83c\udf00 Create a fast, generic, leak-safe dynamic array in C with ergonomic API and safety features for efficient memory manag",
+    "id": "SKeditz42/Vec",
+    "language": "C",
+    "name": "SKeditz42/Vec",
+    "stars": 2,
+    "updated_at": "2026-10-04T17:58:27Z",
+    "url": "https://github.com/SKeditz42/Vec"
+  },
+  {
+    "description": "\ud83d\udcda Automate knowledge transfer with Mind Vault, an AI-driven system that converts unstructured data into searchable insig",
+    "id": "zoepranataksm/Mind_Vault_AI",
+    "language": "JavaScript",
+    "name": "zoepranataksm/Mind_Vault_AI",
+    "stars": 1,
+    "updated_at": "2026-10-04T17:58:13Z",
+    "url": "https://github.com/zoepranataksm/Mind_Vault_AI"
+  },
+  {
+    "description": "An AI assistant that answers employees' questions from their company's own documents, with citations, and escalates to a",
+    "id": "awoladhossain/OpsPilot",
+    "language": "Python",
+    "name": "awoladhossain/OpsPilot",
+    "stars": 0,
+    "updated_at": "2026-10-04T17:56:19Z",
+    "url": "https://github.com/awoladhossain/OpsPilot"
+  },
+  {
+    "description": "\ud83d\udd0d Build an AI-powered search engine with React, TypeScript, and Vite for fast, responsive querying and efficient develop",
+    "id": "SAHIXXX12/AI-Search-Engine",
+    "language": "TypeScript",
+    "name": "SAHIXXX12/AI-Search-Engine",
+    "stars": 0,
+    "updated_at": "2026-10-04T17:55:42Z",
+    "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
+  },
+  {
+    "description": "Ultra-Fast In-Memory Vector Search Engine & HNSW Approximate Nearest Neighbor Index (Java 21 Loom, Scalar Quantization &",
+    "id": "ronitgupta138/vectra-core",
+    "language": "Java",
+    "name": "ronitgupta138/vectra-core",
+    "stars": 1,
+    "updated_at": "2026-10-04T17:54:47Z",
+    "url": "https://github.com/ronitgupta138/vectra-core"
+  },
+  {
+    "description": "Single-node vector database with S3 as durable storage: crash-safe writes, clustered ANN search, SSD cache, HTTP API. Ru",
+    "id": "omerfeyzioglu/glider",
+    "language": "Rust",
+    "name": "omerfeyzioglu/glider",
+    "stars": 1,
+    "updated_at": "2026-10-04T17:53:38Z",
+    "url": "https://github.com/omerfeyzioglu/glider"
+  },
+  {
+    "description": "AI News Scraper & Semantic Search: A Python application that scrapes news articles, uses GenAI to generate summaries and",
+    "id": "techdomegh/ai-news-scraper",
+    "language": "Python",
+    "name": "techdomegh/ai-news-scraper",
+    "stars": 12,
+    "updated_at": "2026-10-04T17:52:27Z",
+    "url": "https://github.com/techdomegh/ai-news-scraper"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-04T17:51:38Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T17:51:21Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Learn TypeScript chatting effortlessly with AI",
     "id": "Maurellone/TySVA",
     "language": "Python",
@@ -27,30 +135,12 @@
     "url": "https://github.com/api-evangelist/gel-data"
   },
   {
-    "description": "Single-node vector database with S3 as durable storage: crash-safe writes, clustered ANN search, SSD cache, HTTP API. Ru",
-    "id": "omerfeyzioglu/glider",
-    "language": "Rust",
-    "name": "omerfeyzioglu/glider",
-    "stars": 1,
-    "updated_at": "2026-10-04T17:47:20Z",
-    "url": "https://github.com/omerfeyzioglu/glider"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T17:45:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-04T17:45:21Z",
+    "updated_at": "2026-10-04T18:00:24Z",
     "url": "https://github.com/linny006/rag-radar"
   },
   {
@@ -239,7 +329,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9345,
-    "updated_at": "2026-10-04T17:04:23Z",
+    "updated_at": "2026-10-04T17:55:08Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -266,7 +356,7 @@
     "language": "JavaScript",
     "name": "neomjs/neo-agent-brain",
     "stars": 11,
-    "updated_at": "2026-10-04T17:14:39Z",
+    "updated_at": "2026-10-04T17:51:49Z",
     "url": "https://github.com/neomjs/neo-agent-brain"
   },
   {
@@ -275,7 +365,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1179,
-    "updated_at": "2026-10-04T17:49:53Z",
+    "updated_at": "2026-10-04T17:56:04Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -284,7 +374,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-04T17:26:27Z",
+    "updated_at": "2026-10-04T17:59:49Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -358,95 +448,5 @@
     "stars": 8312,
     "updated_at": "2026-10-04T17:46:43Z",
     "url": "https://github.com/MariaDB/server"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31352,
-    "updated_at": "2026-10-04T17:26:45Z",
-    "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2633,
-    "updated_at": "2026-10-04T17:33:02Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
-    "description": "The Salon Management Frontend is designed to provide an intuitive, responsive, and seamless experience for both salon cl",
-    "id": "ashraful2871/Salon-Management-Frontend",
-    "language": "TypeScript",
-    "name": "ashraful2871/Salon-Management-Frontend",
-    "stars": 0,
-    "updated_at": "2026-10-04T16:20:58Z",
-    "url": "https://github.com/ashraful2871/Salon-Management-Frontend"
-  },
-  {
-    "description": "An Amazon S3 service implementation based on Netty.",
-    "id": "Robothy/local-s3",
-    "language": "Java",
-    "name": "Robothy/local-s3",
-    "stars": 75,
-    "updated_at": "2026-10-04T16:20:28Z",
-    "url": "https://github.com/Robothy/local-s3"
-  },
-  {
-    "description": "Observability and diagnostic framework for embedding spaces and vector stores",
-    "id": "JakubDras/vechealth",
-    "language": "Python",
-    "name": "JakubDras/vechealth",
-    "stars": 4,
-    "updated_at": "2026-10-04T17:03:23Z",
-    "url": "https://github.com/JakubDras/vechealth"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-04T16:13:59Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
-    "description": "An asynchronous memory engine for enterprise AI agents, statistically minimizing hallucinations via dual-LLM consensus",
-    "id": "Yasou13/MESA",
-    "language": "Python",
-    "name": "Yasou13/MESA",
-    "stars": 6,
-    "updated_at": "2026-10-04T16:04:14Z",
-    "url": "https://github.com/Yasou13/MESA"
-  },
-  {
-    "description": "AI-powered RAG chatbot built with LangChain, FastAPI, ChromaDB, and Next.js for semantic PDF question answering with sou",
-    "id": "Rishabh150102/DocMind-AI",
-    "language": "TypeScript",
-    "name": "Rishabh150102/DocMind-AI",
-    "stars": 0,
-    "updated_at": "2026-10-04T16:02:25Z",
-    "url": "https://github.com/Rishabh150102/DocMind-AI"
-  },
-  {
-    "description": "Retrieval-Augmented Generation backend with FastAPI, PostgreSQL + pgvector, and Groq LLM. Full RAG pipeline: document up",
-    "id": "MZohaibBaig/rag-search-api",
-    "language": "Python",
-    "name": "MZohaibBaig/rag-search-api",
-    "stars": 0,
-    "updated_at": "2026-10-04T16:01:16Z",
-    "url": "https://github.com/MZohaibBaig/rag-search-api"
-  },
-  {
-    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
-    "id": "Open-Source-Legal/OpenContracts",
-    "language": "Python",
-    "name": "Open-Source-Legal/OpenContracts",
-    "stars": 1495,
-    "updated_at": "2026-10-04T15:47:21Z",
-    "url": "https://github.com/Open-Source-Legal/OpenContracts"
   }
 ]
