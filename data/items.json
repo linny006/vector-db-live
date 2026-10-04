@@ -1,12 +1,30 @@
 [
   {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T14:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
+    "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:29:29Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
+    "name": "4nur4gmishr4/4nur4gmishr4",
+    "stars": 2,
+    "updated_at": "2026-10-04T14:38:15Z",
+    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1179,
+    "updated_at": "2026-10-04T14:37:14Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -14,8 +32,53 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 894,
-    "updated_at": "2026-10-04T14:29:18Z",
+    "updated_at": "2026-10-04T14:43:57Z",
     "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-04T14:36:49Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Local RAG MCP server for Claude Code \u2014 hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format",
+    "id": "lyonzin/knowledge-rag",
+    "language": "Python",
+    "name": "lyonzin/knowledge-rag",
+    "stars": 290,
+    "updated_at": "2026-10-04T14:37:29Z",
+    "url": "https://github.com/lyonzin/knowledge-rag"
+  },
+  {
+    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
+    "id": "devharis99/vectra",
+    "language": "Python",
+    "name": "devharis99/vectra",
+    "stars": 1,
+    "updated_at": "2026-10-04T14:35:33Z",
+    "url": "https://github.com/devharis99/vectra"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T14:30:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
+    "id": "Raynerhalfandhalf451/writeback",
+    "language": "JavaScript",
+    "name": "Raynerhalfandhalf451/writeback",
+    "stars": 0,
+    "updated_at": "2026-10-04T14:29:29Z",
+    "url": "https://github.com/Raynerhalfandhalf451/writeback"
   },
   {
     "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
@@ -36,21 +99,12 @@
     "url": "https://github.com/Accessible-sloughing768/docustra"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1179,
-    "updated_at": "2026-10-04T14:25:30Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "Give Claude Code, Codex and opencode a 32M-token memory that never leaves your machine. Local LLM server (MCP + OpenAI A",
     "id": "Veloresearch/VLS-32M-Context-Local-LLM",
     "language": "\u2014",
     "name": "Veloresearch/VLS-32M-Context-Local-LLM",
     "stars": 5,
-    "updated_at": "2026-10-04T14:24:12Z",
+    "updated_at": "2026-10-04T14:41:38Z",
     "url": "https://github.com/Veloresearch/VLS-32M-Context-Local-LLM"
   },
   {
@@ -171,24 +225,6 @@
     "url": "https://github.com/Arthrocentesisgenusphylloxera328/rag-forge"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T14:15:23Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T14:15:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "\ud83d\udcda RAG assistant for Indian income tax: answers questions from the Income-tax Act, Rules and CBDT circulars with page-lev",
     "id": "NitinReddy-A/IncomeTAXGPT",
     "language": "Python",
@@ -203,7 +239,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-04T14:23:38Z",
+    "updated_at": "2026-10-04T14:41:44Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 1,
     "updated_at": "2026-10-04T13:43:03Z",
     "url": "https://github.com/Maurellone/TySVA"
-  },
-  {
-    "description": "The modular, open-source backend for building AI-native software \u2014 powered by knowledge, not static data.",
-    "id": "clizardyy/unbody",
-    "language": "TypeScript",
-    "name": "clizardyy/unbody",
-    "stars": 5,
-    "updated_at": "2026-10-04T13:42:59Z",
-    "url": "https://github.com/clizardyy/unbody"
-  },
-  {
-    "description": "Pion \u2014 the memory engine for AI inference",
-    "id": "pavelhorak/pion",
-    "language": "Python",
-    "name": "pavelhorak/pion",
-    "stars": 0,
-    "updated_at": "2026-10-04T13:32:21Z",
-    "url": "https://github.com/pavelhorak/pion"
-  },
-  {
-    "description": "Local MCP server for authenticated documentation sites, using Playwright for login and crawling, SQLite full-text and ve",
-    "id": "veep2012/doc_mcp",
-    "language": "Python",
-    "name": "veep2012/doc_mcp",
-    "stars": 0,
-    "updated_at": "2026-10-04T13:22:58Z",
-    "url": "https://github.com/veep2012/doc_mcp"
-  },
-  {
-    "description": "Check and repair AI agent long-term memory stores \u2014 find orphaned vectors, degenerate embeddings and index divergence be",
-    "id": "npoitevin-max/memdoctor",
-    "language": "Python",
-    "name": "npoitevin-max/memdoctor",
-    "stars": 0,
-    "updated_at": "2026-10-04T13:18:54Z",
-    "url": "https://github.com/npoitevin-max/memdoctor"
   }
 ]
