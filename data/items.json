@@ -1,5 +1,59 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T03:00:24Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Program that lets you ask questions about your documents and audio or video files.",
+    "id": "BBC-Esq/VectorDB-Plugin",
+    "language": "Python",
+    "name": "BBC-Esq/VectorDB-Plugin",
+    "stars": 370,
+    "updated_at": "2026-10-04T03:00:22Z",
+    "url": "https://github.com/BBC-Esq/VectorDB-Plugin"
+  },
+  {
+    "description": "Reproducible benchmarks of GoVec against Chroma and Qdrant: latency, recall, memory and cold start, on pinned Docker ima",
+    "id": "Pradyothsp/govec-bench",
+    "language": "Python",
+    "name": "Pradyothsp/govec-bench",
+    "stars": 0,
+    "updated_at": "2026-10-04T02:56:25Z",
+    "url": "https://github.com/Pradyothsp/govec-bench"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 894,
+    "updated_at": "2026-10-04T02:49:42Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-04T02:46:01Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T02:45:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
     "id": "4nur4gmishr4/4nur4gmishr4",
     "language": "JavaScript",
@@ -7,15 +61,6 @@
     "stars": 2,
     "updated_at": "2026-10-04T02:39:19Z",
     "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T02:45:26Z",
-    "url": "https://github.com/linny006/rag-radar"
   },
   {
     "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
@@ -63,15 +108,6 @@
     "url": "https://github.com/Shitless-jnr3697/rebasis"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 894,
-    "updated_at": "2026-10-04T02:32:21Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
     "description": "Retrieve answers from enterprise documents with AI-powered RAG, grounded in cited sources.",
     "id": "boulif781/enterprise-knowledge-assistant",
     "language": "\u2014",
@@ -90,15 +126,6 @@
     "url": "https://github.com/Pradyothsp/govec"
   },
   {
-    "description": "Reproducible benchmarks of GoVec against Chroma and Qdrant: latency, recall, memory and cold start, on pinned Docker ima",
-    "id": "Pradyothsp/govec-bench",
-    "language": "Python",
-    "name": "Pradyothsp/govec-bench",
-    "stars": 0,
-    "updated_at": "2026-10-04T02:31:28Z",
-    "url": "https://github.com/Pradyothsp/govec-bench"
-  },
-  {
     "description": "Learn agentic AI concepts through hands-on Jupyter notebooks featuring LangGraph, CrewAI, and OpenAI Agents workflows.",
     "id": "Alkaloiddolichocephaly898/agentic-ai-tutorial",
     "language": "Jupyter Notebook",
@@ -106,15 +133,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T02:30:24Z",
     "url": "https://github.com/Alkaloiddolichocephaly898/agentic-ai-tutorial"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T02:30:22Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Manage cannabis cultivation data to generate crop plans, compliance records, and operational workups.",
@@ -288,6 +306,15 @@
     "url": "https://github.com/Ojcalzada/pulsepoint-RAG"
   },
   {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31336,
+    "updated_at": "2026-10-04T02:09:16Z",
+    "url": "https://github.com/topoteretes/cognee"
+  },
+  {
     "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
     "id": "matrixorigin/matrixone",
     "language": "Go",
@@ -405,15 +432,6 @@
     "url": "https://github.com/ermermermermidk/mcp-ai-memory"
   },
   {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-04T01:40:33Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
-  },
-  {
     "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
     "id": "Mintplex-Labs/anything-llm",
     "language": "JavaScript",
@@ -430,23 +448,5 @@
     "stars": 4,
     "updated_at": "2026-10-04T01:23:47Z",
     "url": "https://github.com/JakubDras/vechealth"
-  },
-  {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-04T01:05:01Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Uni is a modern, embedded database that combines property graph (OpenCypher), vector search, and columnar storage (Lance",
-    "id": "rustic-ai/uni-db",
-    "language": "Rust",
-    "name": "rustic-ai/uni-db",
-    "stars": 55,
-    "updated_at": "2026-10-04T00:55:52Z",
-    "url": "https://github.com/rustic-ai/uni-db"
   }
 ]
