@@ -1,12 +1,57 @@
 [
   {
-    "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
-    "id": "wickra-lib/wickra-genome",
+    "description": "High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding.",
+    "id": "mask-software/kitedb",
     "language": "Rust",
-    "name": "wickra-lib/wickra-genome",
-    "stars": 1,
-    "updated_at": "2026-10-04T16:44:52Z",
-    "url": "https://github.com/wickra-lib/wickra-genome"
+    "name": "mask-software/kitedb",
+    "stars": 4,
+    "updated_at": "2026-10-04T17:00:53Z",
+    "url": "https://github.com/mask-software/kitedb"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T17:00:25Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 22,
+    "updated_at": "2026-10-04T16:55:22Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-04T16:55:44Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1179,
+    "updated_at": "2026-10-04T16:57:22Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "The Holographic Resonance Medium \u2014 wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b",
+    "id": "kannaka-labs/kannaka-memory",
+    "language": "Rust",
+    "name": "kannaka-labs/kannaka-memory",
+    "stars": 3,
+    "updated_at": "2026-10-04T16:53:31Z",
+    "url": "https://github.com/kannaka-labs/kannaka-memory"
   },
   {
     "description": "A query and indexing engine for Redis, providing secondary indexing, full-text search, vector similarity search and aggr",
@@ -14,8 +59,17 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-04T16:38:38Z",
+    "updated_at": "2026-10-04T16:52:32Z",
     "url": "https://github.com/RediSearch/RediSearch"
+  },
+  {
+    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
+    "id": "kwhorne/ElyraSQL",
+    "language": "Rust",
+    "name": "kwhorne/ElyraSQL",
+    "stars": 5,
+    "updated_at": "2026-10-04T16:51:55Z",
+    "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -23,8 +77,53 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 894,
-    "updated_at": "2026-10-04T16:41:27Z",
+    "updated_at": "2026-10-04T16:49:36Z",
     "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "A platform for conversational AI with chat, RAG, tool calling, and quality evaluation. It is written in Java with Spring",
+    "id": "felixzhu97/explore-ai",
+    "language": "Java",
+    "name": "felixzhu97/explore-ai",
+    "stars": 2,
+    "updated_at": "2026-10-04T16:49:34Z",
+    "url": "https://github.com/felixzhu97/explore-ai"
+  },
+  {
+    "description": "Profile README",
+    "id": "rehan243/rehan243",
+    "language": "\u2014",
+    "name": "rehan243/rehan243",
+    "stars": 1,
+    "updated_at": "2026-10-04T16:48:38Z",
+    "url": "https://github.com/rehan243/rehan243"
+  },
+  {
+    "description": "A vector database of the whole market: every asset as a live vector over the 497 O(1) streaming indicators the registry ",
+    "id": "wickra-lib/wickra-genome",
+    "language": "Rust",
+    "name": "wickra-lib/wickra-genome",
+    "stars": 1,
+    "updated_at": "2026-10-04T16:47:11Z",
+    "url": "https://github.com/wickra-lib/wickra-genome"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 4,
+    "updated_at": "2026-10-04T16:46:30Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T16:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Single-node vector database with S3 as durable storage: crash-safe writes, clustered ANN search, SSD cache, HTTP API. Ru",
@@ -50,35 +149,17 @@
     "language": "Rust",
     "name": "iberi22/xavier",
     "stars": 0,
-    "updated_at": "2026-10-04T16:30:52Z",
+    "updated_at": "2026-10-04T16:46:30Z",
     "url": "https://github.com/iberi22/xavier"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T16:30:26Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T16:45:22Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "A robust, MySQL-compatible SQL server in Rust \u2014 single ACID file, vector search (HNSW), and parallel OLAP.",
-    "id": "kwhorne/ElyraSQL",
-    "language": "Rust",
-    "name": "kwhorne/ElyraSQL",
-    "stars": 5,
-    "updated_at": "2026-10-04T16:45:14Z",
-    "url": "https://github.com/kwhorne/ElyraSQL"
+    "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector ",
+    "id": "weaviate/weaviate",
+    "language": "Go",
+    "name": "weaviate/weaviate",
+    "stars": 16865,
+    "updated_at": "2026-10-04T16:28:15Z",
+    "url": "https://github.com/weaviate/weaviate"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
@@ -86,7 +167,7 @@
     "language": "Python",
     "name": "topoteretes/cognee",
     "stars": 31352,
-    "updated_at": "2026-10-04T16:26:01Z",
+    "updated_at": "2026-10-04T16:59:50Z",
     "url": "https://github.com/topoteretes/cognee"
   },
   {
@@ -162,6 +243,15 @@
     "url": "https://github.com/MZohaibBaig/rag-search-api"
   },
   {
+    "description": "The open document intelligence platform for builders and hackers - DMS for the agentic world",
+    "id": "Open-Source-Legal/OpenContracts",
+    "language": "Python",
+    "name": "Open-Source-Legal/OpenContracts",
+    "stars": 1495,
+    "updated_at": "2026-10-04T15:47:21Z",
+    "url": "https://github.com/Open-Source-Legal/OpenContracts"
+  },
+  {
     "description": "A portfolio-ready AI assistant built with LangChain, LangGraph, RAG, tools, authentication, persistent multi-chat, and S",
     "id": "visheshbpatel/synapse-ai",
     "language": "Python",
@@ -234,15 +324,6 @@
     "url": "https://github.com/madhav692/data-engineering-for-ai"
   },
   {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1179,
-    "updated_at": "2026-10-04T16:33:51Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
-  },
-  {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
     "id": "structured-world/coordinode",
     "language": "Rust",
@@ -256,7 +337,7 @@
     "id": "Ontos-AI/knowhere",
     "language": "Python",
     "name": "Ontos-AI/knowhere",
-    "stars": 3657,
+    "stars": 3658,
     "updated_at": "2026-10-04T15:22:20Z",
     "url": "https://github.com/Ontos-AI/knowhere"
   },
@@ -324,15 +405,6 @@
     "url": "https://github.com/xerj-org/xerj"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-04T16:34:08Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
     "description": "Production-inspired Retrieval-Augmented Generation (RAG) application for intelligent document search using FastAPI, Stre",
     "id": "boddetijayanth22/Enterprise-Knowledge-Assistant",
     "language": "Python",
@@ -376,77 +448,5 @@
     "stars": 290,
     "updated_at": "2026-10-04T14:37:29Z",
     "url": "https://github.com/lyonzin/knowledge-rag"
-  },
-  {
-    "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
-    "id": "devharis99/vectra",
-    "language": "Python",
-    "name": "devharis99/vectra",
-    "stars": 1,
-    "updated_at": "2026-10-04T14:35:33Z",
-    "url": "https://github.com/devharis99/vectra"
-  },
-  {
-    "description": "Add AI capabilities to your tldraw offline canvas to solve math problems, draw diagrams, and generate text directly with",
-    "id": "Raynerhalfandhalf451/writeback",
-    "language": "JavaScript",
-    "name": "Raynerhalfandhalf451/writeback",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:29:29Z",
-    "url": "https://github.com/Raynerhalfandhalf451/writeback"
-  },
-  {
-    "description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also av",
-    "id": "qdrant/qdrant",
-    "language": "Rust",
-    "name": "qdrant/qdrant",
-    "stars": 34930,
-    "updated_at": "2026-10-04T14:27:33Z",
-    "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Compare RAG architectures, chunking strategies, and reliability features using this production-grade document intelligen",
-    "id": "Accessible-sloughing768/docustra",
-    "language": "Python",
-    "name": "Accessible-sloughing768/docustra",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:25:46Z",
-    "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Give Claude Code, Codex and opencode a 32M-token memory that never leaves your machine. Local LLM server (MCP + OpenAI A",
-    "id": "Veloresearch/VLS-32M-Context-Local-LLM",
-    "language": "\u2014",
-    "name": "Veloresearch/VLS-32M-Context-Local-LLM",
-    "stars": 5,
-    "updated_at": "2026-10-04T14:41:38Z",
-    "url": "https://github.com/Veloresearch/VLS-32M-Context-Local-LLM"
-  },
-  {
-    "description": "Transform software concepts into structured build plans with this schema-first product planning tool for engineering tea",
-    "id": "Surging-scotandlot818/product-dev-blueprint",
-    "language": "TypeScript",
-    "name": "Surging-scotandlot818/product-dev-blueprint",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:22:57Z",
-    "url": "https://github.com/Surging-scotandlot818/product-dev-blueprint"
-  },
-  {
-    "description": "Build a multi-collection RAG system using LlamaIndex and Qdrant in a Docker environment.",
-    "id": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "language": "Dockerfile",
-    "name": "Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker",
-    "stars": 0,
-    "updated_at": "2026-10-04T14:22:45Z",
-    "url": "https://github.com/Roseapplemutualopposition5427/rag-llamaindex-qdrant-docker"
-  },
-  {
-    "description": "Compress KV cache for LLM inference with 5.02x efficiency on NVIDIA GPUs using cuTile kernels.",
-    "id": "Tobiaszn8972/turboquant-gpu",
-    "language": "Python",
-    "name": "Tobiaszn8972/turboquant-gpu",
-    "stars": 3,
-    "updated_at": "2026-10-04T14:21:32Z",
-    "url": "https://github.com/Tobiaszn8972/turboquant-gpu"
   }
 ]
