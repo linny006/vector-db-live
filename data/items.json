@@ -5,8 +5,35 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-04T03:15:20Z",
+    "updated_at": "2026-10-04T03:30:22Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
+    "id": "dennysjmarquez/MemoryBioRAG",
+    "language": "Python",
+    "name": "dennysjmarquez/MemoryBioRAG",
+    "stars": 8,
+    "updated_at": "2026-10-04T03:28:18Z",
+    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
+  },
+  {
+    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
+    "id": "23skdu/longbow",
+    "language": "Go",
+    "name": "23skdu/longbow",
+    "stars": 13,
+    "updated_at": "2026-10-04T03:16:23Z",
+    "url": "https://github.com/23skdu/longbow"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T03:15:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
@@ -14,7 +41,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1178,
-    "updated_at": "2026-10-04T03:15:19Z",
+    "updated_at": "2026-10-04T03:29:59Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -27,24 +54,6 @@
     "url": "https://github.com/liliang-cn/cortexdb"
   },
   {
-    "description": "Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v",
-    "id": "dennysjmarquez/MemoryBioRAG",
-    "language": "Python",
-    "name": "dennysjmarquez/MemoryBioRAG",
-    "stars": 8,
-    "updated_at": "2026-10-04T03:09:24Z",
-    "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
-  },
-  {
-    "description": "Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing ",
-    "id": "23skdu/longbow",
-    "language": "Go",
-    "name": "23skdu/longbow",
-    "stars": 13,
-    "updated_at": "2026-10-04T03:06:10Z",
-    "url": "https://github.com/23skdu/longbow"
-  },
-  {
     "description": "A developer toolkit for analyzing RAG pipelines. Includes implementations of advanced retrieval strategies and diagnosti",
     "id": "Piyush-Sambyall/rag-patterns-and-pitfalls",
     "language": "Python",
@@ -52,15 +61,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T03:04:07Z",
     "url": "https://github.com/Piyush-Sambyall/rag-patterns-and-pitfalls"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T03:00:31Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Program that lets you ask questions about your documents and audio or video files.",
@@ -337,7 +337,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31336,
+    "stars": 31337,
     "updated_at": "2026-10-04T02:09:16Z",
     "url": "https://github.com/topoteretes/cognee"
   },

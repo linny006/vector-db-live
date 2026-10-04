@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-04 03:15 UTC
+> ⏰ Last updated: 2026-10-04 03:30 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -43,12 +43,12 @@ expired items removed — so you can rely on what you see being current.
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
 | 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1178 | Java | 2026-10-04 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 3 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | 263 | Go | 2026-10-04 | AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too |
-| 4 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-10-04 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
-| 5 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-10-04 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
-| 6 | [Piyush-Sambyall/rag-patterns-and-pitfalls](https://github.com/Piyush-Sambyall/rag-patterns-and-pitfalls) | 0 | Python | 2026-10-04 | A developer toolkit for analyzing RAG pipelines. Includes implementations of advanced retrieval strategies and diagnosti |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 2 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-10-04 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
+| 3 | [23skdu/longbow](https://github.com/23skdu/longbow) | 13 | Go | 2026-10-04 | Apache Arrow Flight clustered vector engine for high throughput Agent memory sharing  |
+| 4 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 5 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1178 | Java | 2026-10-04 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 6 | [liliang-cn/cortexdb](https://github.com/liliang-cn/cortexdb) | 263 | Go | 2026-10-04 | AI memory and a knowledge graph in one SQLite file. Pure Go: vectors, RAG, agent memory, RDF/SPARQL, Cypher, 80+ MCP too |
+| 7 | [Piyush-Sambyall/rag-patterns-and-pitfalls](https://github.com/Piyush-Sambyall/rag-patterns-and-pitfalls) | 0 | Python | 2026-10-04 | A developer toolkit for analyzing RAG pipelines. Includes implementations of advanced retrieval strategies and diagnosti |
 | 8 | [BBC-Esq/VectorDB-Plugin](https://github.com/BBC-Esq/VectorDB-Plugin) | 370 | Python | 2026-10-04 | Program that lets you ask questions about your documents and audio or video files. |
 | 9 | [Pradyothsp/govec-bench](https://github.com/Pradyothsp/govec-bench) | 0 | Python | 2026-10-04 | Reproducible benchmarks of GoVec against Chroma and Qdrant: latency, recall, memory and cold start, on pinned Docker ima |
 | 10 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 894 | Go | 2026-10-04 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
@@ -79,7 +79,7 @@ expired items removed — so you can rely on what you see being current.
 | 35 | [sen-igga/IndexGPT](https://github.com/sen-igga/IndexGPT) | 3 | JavaScript | 2026-10-04 | 🤖 Build a local AI assistant for research using RAG, SFT, and LoRA to ingest papers, generate data, train models, and ch |
 | 36 | [Zopze/TV-Show-Recommender-AI](https://github.com/Zopze/TV-Show-Recommender-AI) | 1 | Python | 2026-10-04 | 🤖 Recommend TV shows by matching favorites, averaging embeddings, and finding similar titles using fuzzy search and vect |
 | 37 | [Ojcalzada/pulsepoint-RAG](https://github.com/Ojcalzada/pulsepoint-RAG) | 0 | Python | 2026-10-04 | 🩺 Synthesize reliable health insights from community experiences with PulsePoint's advanced retrieval-augmented generati |
-| 38 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31336 | Python | 2026-10-04 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
+| 38 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31337 | Python | 2026-10-04 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
 | 39 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2036 | Go | 2026-10-04 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
 | 40 | [persona-net/rag-pipeline-dashboard](https://github.com/persona-net/rag-pipeline-dashboard) | 0 | TypeScript | 2026-10-04 | 📊 Manage Retrieval-Augmented Generation pipelines with real-time monitoring and document processing in a user-friendly d |
 | 41 | [Atumkezie/Kharagpur-Data-Science-Hackathon](https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon) | 2 | Python | 2026-10-04 | 🔍 Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt |
