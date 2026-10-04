@@ -5,8 +5,62 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-04T10:45:23Z",
+    "updated_at": "2026-10-04T11:00:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 7,
+    "updated_at": "2026-10-04T10:59:36Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "AI Document Analyzer 2026 \ud83d\udcc4\u2728 - Smart OCR & Data Extraction Tool",
+    "id": "al7o/DocuMind-AI-Engine",
+    "language": "HTML",
+    "name": "al7o/DocuMind-AI-Engine",
+    "stars": 1,
+    "updated_at": "2026-10-04T10:57:39Z",
+    "url": "https://github.com/al7o/DocuMind-AI-Engine"
+  },
+  {
+    "description": "Open-source persistent memory for AI agent pipelines (LangGraph, CrewAI, AutoGen) and Claude. REST API + knowledge graph",
+    "id": "doobidoo/mcp-memory-service",
+    "language": "Python",
+    "name": "doobidoo/mcp-memory-service",
+    "stars": 1982,
+    "updated_at": "2026-10-04T10:55:33Z",
+    "url": "https://github.com/doobidoo/mcp-memory-service"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-04T10:54:39Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
+    "id": "d3uceY/vectile",
+    "language": "Go",
+    "name": "d3uceY/vectile",
+    "stars": 4,
+    "updated_at": "2026-10-04T10:54:02Z",
+    "url": "https://github.com/d3uceY/vectile"
+  },
+  {
+    "description": "AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click",
+    "id": "zaahist/design-to-ship-playbook",
+    "language": "HTML",
+    "name": "zaahist/design-to-ship-playbook",
+    "stars": 1,
+    "updated_at": "2026-10-04T10:53:48Z",
+    "url": "https://github.com/zaahist/design-to-ship-playbook"
   },
   {
     "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
@@ -14,8 +68,26 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 894,
-    "updated_at": "2026-10-04T10:44:36Z",
+    "updated_at": "2026-10-04T10:52:18Z",
     "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Vietnamese FAQ chatbot for HCM-UTE students: fine-tuned PhoBERT semantic retrieval (96.1% P@1 vs 71.8% TF-IDF) with Chro",
+    "id": "Ticasslo/vietnamese-faq-chatbot",
+    "language": "Jupyter Notebook",
+    "name": "Ticasslo/vietnamese-faq-chatbot",
+    "stars": 0,
+    "updated_at": "2026-10-04T10:52:05Z",
+    "url": "https://github.com/Ticasslo/vietnamese-faq-chatbot"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T10:45:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "OpenViking packaged for NixOS - agent-native context database for AI agents, with server, CLI, and NixOS module",
@@ -36,15 +108,6 @@
     "url": "https://github.com/davidfernxndez/github-repository-rag"
   },
   {
-    "description": "In-memory knowledge store for AI agents",
-    "id": "FraiseHQ/fraise",
-    "language": "Go",
-    "name": "FraiseHQ/fraise",
-    "stars": 7,
-    "updated_at": "2026-10-04T10:41:27Z",
-    "url": "https://github.com/FraiseHQ/fraise"
-  },
-  {
     "description": "Every AI API with a permanent free tier: checked against official docs, re-checked daily, with the data-policy fine prin",
     "id": "IdoY12/awesome-free-ai-apis",
     "language": "JavaScript",
@@ -61,24 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T10:36:51Z",
     "url": "https://github.com/fenecdb/fenec"
-  },
-  {
-    "description": "A desktop search engine for everything you write, read, and keep. Connect your Obsidian vault, projects, Calibre library",
-    "id": "d3uceY/vectile",
-    "language": "Go",
-    "name": "d3uceY/vectile",
-    "stars": 4,
-    "updated_at": "2026-10-04T10:35:32Z",
-    "url": "https://github.com/d3uceY/vectile"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T10:30:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back",
@@ -122,7 +167,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-04T10:43:37Z",
+    "updated_at": "2026-10-04T10:56:50Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -139,18 +184,9 @@
     "id": "VectifyAI/PageIndex",
     "language": "Python",
     "name": "VectifyAI/PageIndex",
-    "stars": 38604,
+    "stars": 38605,
     "updated_at": "2026-10-04T10:21:05Z",
     "url": "https://github.com/VectifyAI/PageIndex"
-  },
-  {
-    "description": "Vietnamese FAQ chatbot for HCM-UTE students: fine-tuned PhoBERT semantic retrieval (96.1% P@1 vs 71.8% TF-IDF) with Chro",
-    "id": "Ticasslo/vietnamese-faq-chatbot",
-    "language": "Jupyter Notebook",
-    "name": "Ticasslo/vietnamese-faq-chatbot",
-    "stars": 0,
-    "updated_at": "2026-10-04T10:19:58Z",
-    "url": "https://github.com/Ticasslo/vietnamese-faq-chatbot"
   },
   {
     "description": "OAuth2 Authorization Server with MariaDB, Docker OpenTelemetry LGTM, and Redis Integrations with Spring Boot 4, Java 25 ",
@@ -158,7 +194,7 @@
     "language": "Java",
     "name": "musabbozkurt/oauth2-authorization-server",
     "stars": 6,
-    "updated_at": "2026-10-04T10:03:49Z",
+    "updated_at": "2026-10-04T10:58:59Z",
     "url": "https://github.com/musabbozkurt/oauth2-authorization-server"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-04T08:50:50Z",
     "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "Backend-focused fullstack & applied ai dev. Building cool stuff with LLMs & agents. Obsessed with clean architecture & s",
-    "id": "4nur4gmishr4/4nur4gmishr4",
-    "language": "JavaScript",
-    "name": "4nur4gmishr4/4nur4gmishr4",
-    "stars": 2,
-    "updated_at": "2026-10-04T08:48:43Z",
-    "url": "https://github.com/4nur4gmishr4/4nur4gmishr4"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-10-04T08:47:34Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-10-04T08:45:55Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-10-04T08:45:22Z",
-    "url": "https://github.com/rein98/PsyChat"
   }
 ]
