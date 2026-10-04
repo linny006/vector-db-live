@@ -1,5 +1,32 @@
 [
   {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 894,
+    "updated_at": "2026-10-04T15:59:45Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T15:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-04T15:45:21Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
     "description": "A portfolio-ready AI assistant built with LangChain, LangGraph, RAG, tools, authentication, persistent multi-chat, and S",
     "id": "visheshbpatel/synapse-ai",
     "language": "Python",
@@ -45,33 +72,6 @@
     "url": "https://github.com/pavelhorak/pion"
   },
   {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 894,
-    "updated_at": "2026-10-04T15:42:20Z",
-    "url": "https://github.com/orneryd/NornicDB"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-04T15:45:21Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-04T15:30:25Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "In-memory knowledge store for AI agents",
     "id": "FraiseHQ/fraise",
     "language": "Go",
@@ -79,6 +79,15 @@
     "stars": 7,
     "updated_at": "2026-10-04T15:29:57Z",
     "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
+    "id": "topoteretes/cognee",
+    "language": "Python",
+    "name": "topoteretes/cognee",
+    "stars": 31352,
+    "updated_at": "2026-10-04T15:54:26Z",
+    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "AI-powered support ticket system: inbound emails become tickets, auto-classified and resolved via a RAG pipeline grounde",
@@ -104,7 +113,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1179,
-    "updated_at": "2026-10-04T15:45:00Z",
+    "updated_at": "2026-10-04T15:57:49Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -142,15 +151,6 @@
     "stars": 0,
     "updated_at": "2026-10-04T15:15:03Z",
     "url": "https://github.com/Benorina1/llm-vector-retrieval-playbook"
-  },
-  {
-    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
-    "id": "topoteretes/cognee",
-    "language": "Python",
-    "name": "topoteretes/cognee",
-    "stars": 31351,
-    "updated_at": "2026-10-04T15:25:56Z",
-    "url": "https://github.com/topoteretes/cognee"
   },
   {
     "description": "\ud83d\udcda RAG assistant for Indian income tax: answers questions from the Income-tax Act, Rules and CBDT circulars with page-lev",
@@ -203,7 +203,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-04T15:40:42Z",
+    "updated_at": "2026-10-04T15:56:49Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -284,7 +284,7 @@
     "language": "Rust",
     "name": "kwhorne/ElyraSQL",
     "stars": 5,
-    "updated_at": "2026-10-04T14:27:15Z",
+    "updated_at": "2026-10-04T15:58:55Z",
     "url": "https://github.com/kwhorne/ElyraSQL"
   },
   {

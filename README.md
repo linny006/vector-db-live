@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-04 15:45 UTC
+> ⏰ Last updated: 2026-10-04 16:00 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,23 +42,23 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [visheshbpatel/synapse-ai](https://github.com/visheshbpatel/synapse-ai) | 2 | Python | 2026-10-04 | A portfolio-ready AI assistant built with LangChain, LangGraph, RAG, tools, authentication, persistent multi-chat, and S |
-| 2 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-10-04 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
-| 3 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-10-04 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
-| 4 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-10-04 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
-| 5 | [pavelhorak/pion](https://github.com/pavelhorak/pion) | 0 | Python | 2026-10-04 | Pion — the memory engine for AI inference |
-| 6 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 894 | Go | 2026-10-04 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 7 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 8 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 1 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 894 | Go | 2026-10-04 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
+| 2 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-04 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 3 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-04 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 4 | [visheshbpatel/synapse-ai](https://github.com/visheshbpatel/synapse-ai) | 2 | Python | 2026-10-04 | A portfolio-ready AI assistant built with LangChain, LangGraph, RAG, tools, authentication, persistent multi-chat, and S |
+| 5 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-10-04 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
+| 6 | [zaahist/design-to-ship-playbook](https://github.com/zaahist/design-to-ship-playbook) | 1 | HTML | 2026-10-04 | AI Blueprint Generator 2026: PRDs to Agent Prompts in One Click |
+| 7 | [dennysjmarquez/MemoryBioRAG](https://github.com/dennysjmarquez/MemoryBioRAG) | 8 | Python | 2026-10-04 | Biomimetic cognitive memory system for AI agents, brain-inspired persistence with synaptic plasticity, hybrid PPMI+SVD v |
+| 8 | [pavelhorak/pion](https://github.com/pavelhorak/pion) | 0 | Python | 2026-10-04 | Pion — the memory engine for AI inference |
 | 9 | [FraiseHQ/fraise](https://github.com/FraiseHQ/fraise) | 7 | Go | 2026-10-04 | In-memory knowledge store for AI agents |
-| 10 | [Shaz-gill/deskwise-app](https://github.com/Shaz-gill/deskwise-app) | 0 | TypeScript | 2026-10-04 | AI-powered support ticket system: inbound emails become tickets, auto-classified and resolved via a RAG pipeline grounde |
-| 11 | [madhav692/data-engineering-for-ai](https://github.com/madhav692/data-engineering-for-ai) | 0 | Python | 2026-10-04 | Series of blog posts and supporting code for D.E. for AI |
-| 12 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1179 | Java | 2026-10-04 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 13 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-04 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 14 | [sh1v-max/AI-Backend](https://github.com/sh1v-max/AI-Backend) | 0 | HTML | 2026-10-04 | A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back |
-| 15 | [ankush-poonia007/STARTUP-AI-AGENT](https://github.com/ankush-poonia007/STARTUP-AI-AGENT) | 5 | Python | 2026-10-04 | AI-powered startup intelligence agent — hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde |
-| 16 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-10-04 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
-| 17 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31351 | Python | 2026-10-04 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
+| 10 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31352 | Python | 2026-10-04 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
+| 11 | [Shaz-gill/deskwise-app](https://github.com/Shaz-gill/deskwise-app) | 0 | TypeScript | 2026-10-04 | AI-powered support ticket system: inbound emails become tickets, auto-classified and resolved via a RAG pipeline grounde |
+| 12 | [madhav692/data-engineering-for-ai](https://github.com/madhav692/data-engineering-for-ai) | 0 | Python | 2026-10-04 | Series of blog posts and supporting code for D.E. for AI |
+| 13 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1179 | Java | 2026-10-04 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 14 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-04 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 15 | [sh1v-max/AI-Backend](https://github.com/sh1v-max/AI-Backend) | 0 | HTML | 2026-10-04 | A beginner-friendly, hands-on learning path for AI backend development, covering the fundamentals of TypeScript and back |
+| 16 | [ankush-poonia007/STARTUP-AI-AGENT](https://github.com/ankush-poonia007/STARTUP-AI-AGENT) | 5 | Python | 2026-10-04 | AI-powered startup intelligence agent — hand-built ReAct loop, parallel tool execution, live web search, and RAG-grounde |
+| 17 | [Benorina1/llm-vector-retrieval-playbook](https://github.com/Benorina1/llm-vector-retrieval-playbook) | 0 | HTML | 2026-10-04 | Master LLM Search in 2026: The Complete Semantic AI Handbook |
 | 18 | [NitinReddy-A/IncomeTAXGPT](https://github.com/NitinReddy-A/IncomeTAXGPT) | 10 | Python | 2026-10-04 | 📚 RAG assistant for Indian income tax: answers questions from the Income-tax Act, Rules and CBDT circulars with page-lev |
 | 19 | [neuml/txtai](https://github.com/neuml/txtai) | 12991 | Python | 2026-10-04 | 💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows |
 | 20 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 2631 | Rust | 2026-10-04 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
