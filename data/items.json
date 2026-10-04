@@ -5,8 +5,71 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-04T00:00:22Z",
+    "updated_at": "2026-10-04T00:15:20Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 4,
+    "updated_at": "2026-10-04T00:12:32Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
+    "id": "nguyenquoaca-hash/agentic-mesh",
+    "language": "HTML",
+    "name": "nguyenquoaca-hash/agentic-mesh",
+    "stars": 2,
+    "updated_at": "2026-10-04T00:11:24Z",
+    "url": "https://github.com/nguyenquoaca-hash/agentic-mesh"
+  },
+  {
+    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
+    "id": "orneryd/NornicDB",
+    "language": "Go",
+    "name": "orneryd/NornicDB",
+    "stars": 894,
+    "updated_at": "2026-10-04T00:12:48Z",
+    "url": "https://github.com/orneryd/NornicDB"
+  },
+  {
+    "description": "The Ultimate Vectors Library for Java",
+    "id": "integrallis/vectors",
+    "language": "Java",
+    "name": "integrallis/vectors",
+    "stars": 18,
+    "updated_at": "2026-10-04T00:08:32Z",
+    "url": "https://github.com/integrallis/vectors"
+  },
+  {
+    "description": "A local, open source reference for conversational analytics over an Iceberg lakehouse: a Strands agent talks to a WrenAI",
+    "id": "jaehyeon-kim/agentic-analytics-system",
+    "language": "Python",
+    "name": "jaehyeon-kim/agentic-analytics-system",
+    "stars": 4,
+    "updated_at": "2026-10-04T00:06:37Z",
+    "url": "https://github.com/jaehyeon-kim/agentic-analytics-system"
+  },
+  {
+    "description": "Spring AI RAG demo with PGVector, conversation memory, tool calling, and Open WebUI integration",
+    "id": "arvindand/spring-ai-rag-demo",
+    "language": "Java",
+    "name": "arvindand/spring-ai-rag-demo",
+    "stars": 6,
+    "updated_at": "2026-10-04T00:01:29Z",
+    "url": "https://github.com/arvindand/spring-ai-rag-demo"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-04T00:00:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "A high-performance, generic GPU embedding stack on Modal with synthetic query generation, retrieval evaluation, and a mo",
@@ -23,17 +86,8 @@
     "language": "Python",
     "name": "jgoy-labs/server-nexe",
     "stars": 10,
-    "updated_at": "2026-10-03T23:59:05Z",
+    "updated_at": "2026-10-04T00:03:06Z",
     "url": "https://github.com/jgoy-labs/server-nexe"
-  },
-  {
-    "description": "Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri",
-    "id": "orneryd/NornicDB",
-    "language": "Go",
-    "name": "orneryd/NornicDB",
-    "stars": 894,
-    "updated_at": "2026-10-03T23:59:43Z",
-    "url": "https://github.com/orneryd/NornicDB"
   },
   {
     "description": "A high performance Vector Database leveraging parallel graph computing",
@@ -63,15 +117,6 @@
     "url": "https://github.com/dennysjmarquez/MemoryBioRAG"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-03T23:45:24Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Python client for GoVec, a compact vector search engine: one typed API over REST or gRPC, for semantic search and RAG.",
     "id": "Pradyothsp/govec-python",
     "language": "Python",
@@ -97,15 +142,6 @@
     "stars": 1,
     "updated_at": "2026-10-03T23:30:57Z",
     "url": "https://github.com/zaahist/design-to-ship-playbook"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 4,
-    "updated_at": "2026-10-03T23:21:11Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Local-first MCP server for persistent semantic memory, backed by an HNSW vector index and an on-device ONNX embedder",
@@ -158,7 +194,7 @@
     "language": "Java",
     "name": "ArcadeData/arcadedb",
     "stars": 1178,
-    "updated_at": "2026-10-03T23:52:48Z",
+    "updated_at": "2026-10-04T00:12:49Z",
     "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
@@ -185,7 +221,7 @@
     "language": "Rust",
     "name": "paradedb/paradedb",
     "stars": 9344,
-    "updated_at": "2026-10-03T23:56:51Z",
+    "updated_at": "2026-10-04T00:08:01Z",
     "url": "https://github.com/paradedb/paradedb"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-03T22:10:56Z",
     "url": "https://github.com/ihrimon/ai-engineering-journey"
-  },
-  {
-    "description": "\ud83d\udd0d Build an AI reasoning system that processes long text data and provides grounded answers using NLP and the Pathway Pyt",
-    "id": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "language": "Python",
-    "name": "Atumkezie/Kharagpur-Data-Science-Hackathon",
-    "stars": 2,
-    "updated_at": "2026-10-03T22:07:56Z",
-    "url": "https://github.com/Atumkezie/Kharagpur-Data-Science-Hackathon"
-  },
-  {
-    "description": "AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell",
-    "id": "matrixorigin/matrixone",
-    "language": "Go",
-    "name": "matrixorigin/matrixone",
-    "stars": 2036,
-    "updated_at": "2026-10-03T22:07:28Z",
-    "url": "https://github.com/matrixorigin/matrixone"
-  },
-  {
-    "description": "\ud83d\uded2 Build a leading-edge e-commerce recommendation system using RAG architecture, Groq Llama 3, LangChain, and AstraDB, de",
-    "id": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "language": "Python",
-    "name": "regabbb22/Flipkart-Product-Recommender-RAG",
-    "stars": 3,
-    "updated_at": "2026-10-03T22:05:22Z",
-    "url": "https://github.com/regabbb22/Flipkart-Product-Recommender-RAG"
-  },
-  {
-    "description": "\ud83e\udde0 Build a cognitive architecture for AI that mimics human memory, separating episodic and semantic memory while ensuring",
-    "id": "shiro1707778/episodic-memory-pipeline",
-    "language": "Python",
-    "name": "shiro1707778/episodic-memory-pipeline",
-    "stars": 1,
-    "updated_at": "2026-10-03T22:03:04Z",
-    "url": "https://github.com/shiro1707778/episodic-memory-pipeline"
   }
 ]
