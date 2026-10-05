@@ -1,12 +1,66 @@
 [
   {
+    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
+    "id": "linny006/rag-radar",
+    "language": "Python",
+    "name": "linny006/rag-radar",
+    "stars": 3,
+    "updated_at": "2026-10-05T06:30:23Z",
+    "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
+    "id": "fenecdb/fenec",
+    "language": "Rust",
+    "name": "fenecdb/fenec",
+    "stars": 0,
+    "updated_at": "2026-10-05T06:27:01Z",
+    "url": "https://github.com/fenecdb/fenec"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-05T06:25:00Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2642,
+    "updated_at": "2026-10-05T06:20:48Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Converged graph + vector knowledge platform on PostgreSQL (Apache AGE + pgvector) for security, threat intel, and AI mem",
+    "id": "rmednitzer/core-graph",
+    "language": "Python",
+    "name": "rmednitzer/core-graph",
+    "stars": 1,
+    "updated_at": "2026-10-05T06:23:26Z",
+    "url": "https://github.com/rmednitzer/core-graph"
+  },
+  {
     "description": "Themis Database System - High-performance C++ hybrid-database (graph-vector-relational-file) with AQL support and MVCC. ",
     "id": "makr-code/ThemisDB",
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-05T06:15:14Z",
+    "updated_at": "2026-10-05T06:18:08Z",
     "url": "https://github.com/makr-code/ThemisDB"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-05T06:15:26Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Discover, analyze, and exploit 25,000+ CVEs and 3,600+ GTFOBins payloads instantly via a high-performance offline SQLite",
@@ -32,7 +86,7 @@
     "language": "Go",
     "name": "orneryd/NornicDB",
     "stars": 894,
-    "updated_at": "2026-10-05T06:12:27Z",
+    "updated_at": "2026-10-05T06:24:02Z",
     "url": "https://github.com/orneryd/NornicDB"
   },
   {
@@ -41,7 +95,7 @@
     "language": "TypeScript",
     "name": "mmnto-ai/totem",
     "stars": 17,
-    "updated_at": "2026-10-05T06:12:15Z",
+    "updated_at": "2026-10-05T06:22:36Z",
     "url": "https://github.com/mmnto-ai/totem"
   },
   {
@@ -61,15 +115,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T06:06:50Z",
     "url": "https://github.com/Accessible-sloughing768/docustra"
-  },
-  {
-    "description": "Minimal, vector-native embedded database in Rust. Compiles to WebAssembly, has its own query language (FenecQL) and spea",
-    "id": "fenecdb/fenec",
-    "language": "Rust",
-    "name": "fenecdb/fenec",
-    "stars": 0,
-    "updated_at": "2026-10-05T06:09:54Z",
-    "url": "https://github.com/fenecdb/fenec"
   },
   {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
@@ -171,24 +216,6 @@
     "url": "https://github.com/matrixorigin/matrixone"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-05T06:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
-    "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
-    "id": "linny006/rag-radar",
-    "language": "Python",
-    "name": "linny006/rag-radar",
-    "stars": 3,
-    "updated_at": "2026-10-05T06:00:23Z",
-    "url": "https://github.com/linny006/rag-radar"
-  },
-  {
     "description": "Enable unified search and AI answers across text, images, audio, and video using multimodal retrieval-augmented generati",
     "id": "Daubingweirdie414/multimodal-rag",
     "language": "Python",
@@ -241,15 +268,6 @@
     "stars": 2,
     "updated_at": "2026-10-05T05:51:22Z",
     "url": "https://github.com/buitoan112233/EleutherIA"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-05T05:50:26Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "",
@@ -356,7 +374,7 @@
     "language": "Java",
     "name": "felixzhu97/explore-ai",
     "stars": 2,
-    "updated_at": "2026-10-05T05:53:11Z",
+    "updated_at": "2026-10-05T06:24:27Z",
     "url": "https://github.com/felixzhu97/explore-ai"
   },
   {
@@ -414,15 +432,6 @@
     "url": "https://github.com/SAHIXXX12/AI-Search-Engine"
   },
   {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2642,
-    "updated_at": "2026-10-05T06:12:46Z",
-    "url": "https://github.com/xerj-org/xerj"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -439,14 +448,5 @@
     "stars": 12,
     "updated_at": "2026-10-05T05:28:24Z",
     "url": "https://github.com/techdomegh/ai-news-scraper"
-  },
-  {
-    "description": "Learn TypeScript chatting effortlessly with AI",
-    "id": "Maurellone/TySVA",
-    "language": "Python",
-    "name": "Maurellone/TySVA",
-    "stars": 1,
-    "updated_at": "2026-10-05T05:27:25Z",
-    "url": "https://github.com/Maurellone/TySVA"
   }
 ]
