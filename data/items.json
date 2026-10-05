@@ -1,5 +1,68 @@
 [
   {
+    "description": "\ud83c\udfe0 An AI real estate app featuring secure auth, conversation management, & personalized property recommendations. Powered",
+    "id": "thinkingdev923/EstateWise-Chapel-Hill-Chatbot",
+    "language": "TypeScript",
+    "name": "thinkingdev923/EstateWise-Chapel-Hill-Chatbot",
+    "stars": 2,
+    "updated_at": "2026-10-05T07:25:20Z",
+    "url": "https://github.com/thinkingdev923/EstateWise-Chapel-Hill-Chatbot"
+  },
+  {
+    "description": "Pion \u2014 the memory engine for AI inference",
+    "id": "pavelhorak/pion",
+    "language": "Python",
+    "name": "pavelhorak/pion",
+    "stars": 1,
+    "updated_at": "2026-10-05T07:25:08Z",
+    "url": "https://github.com/pavelhorak/pion"
+  },
+  {
+    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
+    "id": "iberi22/xavier",
+    "language": "Rust",
+    "name": "iberi22/xavier",
+    "stars": 0,
+    "updated_at": "2026-10-05T07:24:44Z",
+    "url": "https://github.com/iberi22/xavier"
+  },
+  {
+    "description": "In-memory knowledge store for AI agents",
+    "id": "FraiseHQ/fraise",
+    "language": "Go",
+    "name": "FraiseHQ/fraise",
+    "stars": 7,
+    "updated_at": "2026-10-05T07:24:04Z",
+    "url": "https://github.com/FraiseHQ/fraise"
+  },
+  {
+    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
+    "id": "xerj-org/xerj",
+    "language": "Rust",
+    "name": "xerj-org/xerj",
+    "stars": 2646,
+    "updated_at": "2026-10-05T07:17:46Z",
+    "url": "https://github.com/xerj-org/xerj"
+  },
+  {
+    "description": "Local-first AI assistant \u2014 9 specialized agents (code, web, debug, security\u2026), 10M-token vector memory, multimodal (visi",
+    "id": "gonicolas12/My_AI",
+    "language": "Python",
+    "name": "gonicolas12/My_AI",
+    "stars": 11,
+    "updated_at": "2026-10-05T07:16:48Z",
+    "url": "https://github.com/gonicolas12/My_AI"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-05T07:15:28Z",
+    "url": "https://github.com/linny006/vector-db-live"
+  },
+  {
     "description": "Live tracker of new RAG implementations, tools, and patterns \u2014 updated every 15 minutes",
     "id": "linny006/rag-radar",
     "language": "Python",
@@ -14,7 +77,7 @@
     "language": "Java",
     "name": "vespa-engine/vespa",
     "stars": 7118,
-    "updated_at": "2026-10-05T07:15:07Z",
+    "updated_at": "2026-10-05T07:21:14Z",
     "url": "https://github.com/vespa-engine/vespa"
   },
   {
@@ -22,7 +85,7 @@
     "id": "Intrect-io/OpenSwarm",
     "language": "TypeScript",
     "name": "Intrect-io/OpenSwarm",
-    "stars": 858,
+    "stars": 859,
     "updated_at": "2026-10-05T07:14:39Z",
     "url": "https://github.com/Intrect-io/OpenSwarm"
   },
@@ -50,7 +113,7 @@
     "language": "Go",
     "name": "weaviate/weaviate",
     "stars": 16865,
-    "updated_at": "2026-10-05T07:12:42Z",
+    "updated_at": "2026-10-05T07:25:21Z",
     "url": "https://github.com/weaviate/weaviate"
   },
   {
@@ -61,15 +124,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T07:11:16Z",
     "url": "https://github.com/luigigargioni/KnowledgeManagerLLM"
-  },
-  {
-    "description": "Xavier \u2014 Rust vector memory & knowledge graph for AI agents (HTTP/CLI/MCP). Powers SWAL communal context",
-    "id": "iberi22/xavier",
-    "language": "Rust",
-    "name": "iberi22/xavier",
-    "stars": 0,
-    "updated_at": "2026-10-05T07:10:24Z",
-    "url": "https://github.com/iberi22/xavier"
   },
   {
     "description": "The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin",
@@ -86,7 +140,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6244,
-    "updated_at": "2026-10-05T07:11:58Z",
+    "updated_at": "2026-10-05T07:30:04Z",
     "url": "https://github.com/RediSearch/RediSearch"
   },
   {
@@ -117,15 +171,6 @@
     "url": "https://github.com/boddetijayanth22/Enterprise-Knowledge-Assistant"
   },
   {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-05T07:00:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode",
     "id": "topoteretes/cognee",
     "language": "Python",
@@ -133,15 +178,6 @@
     "stars": 31364,
     "updated_at": "2026-10-05T06:56:35Z",
     "url": "https://github.com/topoteretes/cognee"
-  },
-  {
-    "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token",
-    "id": "xerj-org/xerj",
-    "language": "Rust",
-    "name": "xerj-org/xerj",
-    "stars": 2646,
-    "updated_at": "2026-10-05T06:46:50Z",
-    "url": "https://github.com/xerj-org/xerj"
   },
   {
     "description": "Embedded retrieval library built on Parquet. Fast, efficient, and scalable.",
@@ -185,7 +221,7 @@
     "language": "Rust",
     "name": "fenecdb/fenec",
     "stars": 0,
-    "updated_at": "2026-10-05T06:27:01Z",
+    "updated_at": "2026-10-05T07:23:57Z",
     "url": "https://github.com/fenecdb/fenec"
   },
   {
@@ -412,41 +448,5 @@
     "stars": 0,
     "updated_at": "2026-10-05T05:48:00Z",
     "url": "https://github.com/eliasepro/groq-pdf-chat"
-  },
-  {
-    "description": "\ud83d\udcc4 Transform documents into queryable knowledge with exact recall and entity extraction for research insights.",
-    "id": "humanhady/DocMine",
-    "language": "Python",
-    "name": "humanhady/DocMine",
-    "stars": 2,
-    "updated_at": "2026-10-05T05:44:51Z",
-    "url": "https://github.com/humanhady/DocMine"
-  },
-  {
-    "description": "A production-grade RAG system and neural voice assistant for low-resource Kannada literature ('Heli Hogu Kaarana'). It f",
-    "id": "Amruth011/kannada-rag-agent",
-    "language": "Python",
-    "name": "Amruth011/kannada-rag-agent",
-    "stars": 3,
-    "updated_at": "2026-10-05T05:44:10Z",
-    "url": "https://github.com/Amruth011/kannada-rag-agent"
-  },
-  {
-    "description": "\ud83e\udd16 Store, search, and organize your AI prompts easily with RAG-powered semantic search in this plug-and-play server for d",
-    "id": "shoaibraza123/promptbook-mcp",
-    "language": "HTML",
-    "name": "shoaibraza123/promptbook-mcp",
-    "stars": 2,
-    "updated_at": "2026-10-05T05:43:10Z",
-    "url": "https://github.com/shoaibraza123/promptbook-mcp"
-  },
-  {
-    "description": "\ud83e\udde0 Enhance your mental health with PsyChat, an AI-powered therapy assistant using REBT principles for personalized suppor",
-    "id": "rein98/PsyChat",
-    "language": "Python",
-    "name": "rein98/PsyChat",
-    "stars": 3,
-    "updated_at": "2026-10-05T05:42:40Z",
-    "url": "https://github.com/rein98/PsyChat"
   }
 ]
