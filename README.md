@@ -33,7 +33,7 @@ expired items removed — so you can rely on what you see being current.
 
 ## 📋 Current Items
 
-> ⏰ Last updated: 2026-10-05 19:00 UTC
+> ⏰ Last updated: 2026-10-05 19:20 UTC
 >
 > Data source: `GitHub Search API`
 >
@@ -42,26 +42,26 @@ expired items removed — so you can rely on what you see being current.
 <!-- TRACKER_TABLE_START -->
 | # | Name | ⭐ | Lang | Updated | Description |
 |---|------|---|------|---------|-------------|
-| 1 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
-| 2 | [Toqeer-Ahmad-ops/dubai-real-estate-whatsapp-bot](https://github.com/Toqeer-Ahmad-ops/dubai-real-estate-whatsapp-bot) | 1 | — | 2026-10-05 | Production WhatsApp RAG Bot for Dubai Real Estate - Voice (Groq Whisper) + Text (Whapi) + RAG (Qdrant) + Enterprise Obse |
-| 3 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-05 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
-| 4 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 6 | Python | 2026-10-05 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
-| 5 | [sunormesky-max/epicode](https://github.com/sunormesky-max/epicode) | 8 | Rust | 2026-10-05 | Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense. |
-| 6 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | Java | 2026-10-05 | Identity and Authorization Service with Vector and AI Integration |
-| 7 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
-| 8 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
-| 9 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31395 | Python | 2026-10-05 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
-| 10 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1180 | Java | 2026-10-05 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
-| 11 | [kannaka-labs/kannaka-memory](https://github.com/kannaka-labs/kannaka-memory) | 3 | Rust | 2026-10-05 | The Holographic Resonance Medium — wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b |
-| 12 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9353 | Rust | 2026-10-05 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
-| 13 | [AyaanHussain1/CodeSage_Agent](https://github.com/AyaanHussain1/CodeSage_Agent) | 1 | JavaScript | 2026-10-05 | AI agent that answers questions about YouTube tutorials and your own codebase — available as a Chrome extension, desktop |
-| 14 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-05 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
-| 15 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 894 | Go | 2026-10-05 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
-| 16 | [mask-software/kitedb](https://github.com/mask-software/kitedb) | 4 | Rust | 2026-10-05 | High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding. |
-| 17 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2037 | Go | 2026-10-05 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
-| 18 | [KalsoumDS/RAG-Document-Intelligence](https://github.com/KalsoumDS/RAG-Document-Intelligence) | 0 | Python | 2026-10-05 | 📄 Structured RAG Document Intelligence Pipeline — Semantic chunking, FAISS vector search, MMR re-ranking & 100% sourced  |
-| 19 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11602 | Rust | 2026-10-05 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
-| 20 | [HelixDB/helix-db](https://github.com/HelixDB/helix-db) | 6113 | Rust | 2026-10-05 | HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage. |
+| 1 | [HelixDB/helix-db](https://github.com/HelixDB/helix-db) | 6114 | Rust | 2026-10-05 | HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage. |
+| 2 | [linny006/rag-radar](https://github.com/linny006/rag-radar) | 3 | Python | 2026-10-05 | Live tracker of new RAG implementations, tools, and patterns — updated every 15 minutes |
+| 3 | [MrPeppersDev/agent-infrastructure-landscape](https://github.com/MrPeppersDev/agent-infrastructure-landscape) | 5 | HTML | 2026-10-05 | AI agent memory & infrastructure landscape — comparative catalog of 912 systems × 68 columns covering memory layers, age |
+| 4 | [orneryd/NornicDB](https://github.com/orneryd/NornicDB) | 894 | Go | 2026-10-05 | Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and wri |
+| 5 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 31397 | Python | 2026-10-05 | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small mode |
+| 6 | [linny006/vector-db-live](https://github.com/linny006/vector-db-live) | 3 | Python | 2026-10-05 | Live-updating landscape of vector database projects, integrations, and benchmarks — refreshed every  |
+| 7 | [Toqeer-Ahmad-ops/dubai-real-estate-whatsapp-bot](https://github.com/Toqeer-Ahmad-ops/dubai-real-estate-whatsapp-bot) | 1 | — | 2026-10-05 | Production WhatsApp RAG Bot for Dubai Real Estate - Voice (Groq Whisper) + Text (Whapi) + RAG (Qdrant) + Enterprise Obse |
+| 8 | [nguyenquoaca-hash/agentic-mesh](https://github.com/nguyenquoaca-hash/agentic-mesh) | 2 | HTML | 2026-10-05 | Multi-Agent AI Orchestrator 2026 🚀 \| YAML, 6+ LLM Providers, ReAct & Swarm |
+| 9 | [GiulioDER/RE-call](https://github.com/GiulioDER/RE-call) | 6 | Python | 2026-10-05 | Memory that abstains instead of guessing: agent memory on your own Postgres with a verdict, confidence and provenance on |
+| 10 | [sunormesky-max/epicode](https://github.com/sunormesky-max/epicode) | 8 | Rust | 2026-10-05 | Epicode - AI Memory Operating System. Spatial AI memory with knowledge graph, MCP integration, and auto-defense. |
+| 11 | [StephenCote/AccountManager7](https://github.com/StephenCote/AccountManager7) | 2 | Java | 2026-10-05 | Identity and Authorization Service with Vector and AI Integration |
+| 12 | [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb) | 1180 | Java | 2026-10-05 | ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a  |
+| 13 | [kannaka-labs/kannaka-memory](https://github.com/kannaka-labs/kannaka-memory) | 3 | Rust | 2026-10-05 | The Holographic Resonance Medium — wave-interference memory for AI agents. Bilateral hemispheres, dream consolidation, b |
+| 14 | [paradedb/paradedb](https://github.com/paradedb/paradedb) | 9353 | Rust | 2026-10-05 | One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search exte |
+| 15 | [AyaanHussain1/CodeSage_Agent](https://github.com/AyaanHussain1/CodeSage_Agent) | 1 | JavaScript | 2026-10-05 | AI agent that answers questions about YouTube tutorials and your own codebase — available as a Chrome extension, desktop |
+| 16 | [structured-world/coordinode](https://github.com/structured-world/coordinode) | 6 | Rust | 2026-10-05 | The graph-native hybrid retrieval engine for AI and GraphRAG. Graph + Vector + Full-Text in a single transactional engin |
+| 17 | [mask-software/kitedb](https://github.com/mask-software/kitedb) | 4 | Rust | 2026-10-05 | High-performance embedded graph database for Bun/TypeScript with WAL, MVCC, mmap CSR snapshots, and pathfinding. |
+| 18 | [matrixorigin/matrixone](https://github.com/matrixorigin/matrixone) | 2037 | Go | 2026-10-05 | AI-native HTAP database with Git-for-Data and built-in vector search, serving as the data and memory backbone for intell |
+| 19 | [KalsoumDS/RAG-Document-Intelligence](https://github.com/KalsoumDS/RAG-Document-Intelligence) | 0 | Python | 2026-10-05 | 📄 Structured RAG Document Intelligence Pipeline — Semantic chunking, FAISS vector search, MMR re-ranking & 100% sourced  |
+| 20 | [lancedb/lancedb](https://github.com/lancedb/lancedb) | 11602 | Rust | 2026-10-05 | Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less. |
 | 21 | [mmnto-ai/totem](https://github.com/mmnto-ai/totem) | 17 | TypeScript | 2026-10-05 | Rules you can enforce, state you can derive, context you can query: plain files in your repo, under whichever coding age |
 | 22 | [AkashKundu114/COPPER](https://github.com/AkashKundu114/COPPER) | 2 | Python | 2026-10-05 | End-to-end sovereign personal AI OS (FastAPI + React 19 + Electron). Features local 14B LLMs, wake-word voice pipelines, |
 | 23 | [al7o/DocuMind-AI-Engine](https://github.com/al7o/DocuMind-AI-Engine) | 1 | HTML | 2026-10-05 | AI Document Analyzer 2026 📄✨ - Smart OCR & Data Extraction Tool |
@@ -79,7 +79,7 @@ expired items removed — so you can rely on what you see being current.
 | 35 | [Harsha2620/gitcontext](https://github.com/Harsha2620/gitcontext) | 0 | Python | 2026-10-05 |  |
 | 36 | [ompatel3158/ULTSQL](https://github.com/ompatel3158/ULTSQL) | 1 | Dart | 2026-10-05 | UltSQL is a 100% Pure-Dart converged database engine combining SQL, NoSQL JSON, HNSW Vector RAG, and PL/SQL with zero C  |
 | 37 | [adamksn/aturanorg](https://github.com/adamksn/aturanorg) | 0 | — | 2026-10-05 | Aturan.org is Indonesia’s first public semantic search for laws and regulations, AI-ready with an MCP server, REST API,  |
-| 38 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 2661 | Rust | 2026-10-05 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
+| 38 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 2662 | Rust | 2026-10-05 | XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token |
 | 39 | [writerslogic/holographic-memory](https://github.com/writerslogic/holographic-memory) | 20 | Rust | 2026-10-05 | High-performance Holographic Memory System (HMS) for Node.js, powered by Rust. This library implements Vector Symbolic A |
 | 40 | [AgentToolkit/altk-evolve](https://github.com/AgentToolkit/altk-evolve) | 122 | Python | 2026-10-05 | Self improving agents through iterations |
 | 41 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 13204 | Java | 2026-10-05 | LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unif |
