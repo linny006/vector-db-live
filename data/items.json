@@ -5,8 +5,89 @@
     "language": "Python",
     "name": "linny006/rag-radar",
     "stars": 3,
-    "updated_at": "2026-10-05T09:45:19Z",
+    "updated_at": "2026-10-05T10:00:23Z",
     "url": "https://github.com/linny006/rag-radar"
+  },
+  {
+    "description": "Bayesian MMM\uacfc \ucd5c\uc2e0 \uc2dc\uc7a5 \ud2b8\ub80c\ub4dc\ub97c \ud65c\uc6a9\ud574 \ub2e4\uc74c \ubd84\uae30 \ub9c8\ucf00\ud305 \uc608\uc0b0 \ubc30\ubd84\uc744 \ucd94\ucc9c\ud558\uace0, \uc608\uc0c1 \uc131\uacfc\uc640 \ubd88\ud655\uc2e4\uc131\uc744 \ube44\uad50\ud558\ub294 \uc2dc\ubbac\ub808\uc774\ud130",
+    "id": "LEE-ok/trend-aware-mmm",
+    "language": "Python",
+    "name": "LEE-ok/trend-aware-mmm",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:59:55Z",
+    "url": "https://github.com/LEE-ok/trend-aware-mmm"
+  },
+  {
+    "description": "Microsoft.Extensions.VectorData provider for Chroma and Chroma Cloud, built on ChromaDB.Client.",
+    "id": "ChromaDotNet/ChromaDB.VectorData",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.VectorData",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:59:04Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.VectorData"
+  },
+  {
+    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
+    "id": "neomjs/neo-agent-brain",
+    "language": "JavaScript",
+    "name": "neomjs/neo-agent-brain",
+    "stars": 11,
+    "updated_at": "2026-10-05T09:58:01Z",
+    "url": "https://github.com/neomjs/neo-agent-brain"
+  },
+  {
+    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
+    "id": "ArcadeData/arcadedb",
+    "language": "Java",
+    "name": "ArcadeData/arcadedb",
+    "stars": 1180,
+    "updated_at": "2026-10-05T09:55:24Z",
+    "url": "https://github.com/ArcadeData/arcadedb"
+  },
+  {
+    "description": "Aspire integrations for Chroma and Chroma Cloud, built on ChromaDB.Client.",
+    "id": "ChromaDotNet/ChromaDB.Aspire",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Aspire",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:54:39Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Aspire"
+  },
+  {
+    "description": "Testcontainers for .NET module for Chroma.",
+    "id": "ChromaDotNet/ChromaDB.Testcontainers",
+    "language": "C#",
+    "name": "ChromaDotNet/ChromaDB.Testcontainers",
+    "stars": 0,
+    "updated_at": "2026-10-05T09:54:34Z",
+    "url": "https://github.com/ChromaDotNet/ChromaDB.Testcontainers"
+  },
+  {
+    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
+    "id": "MrPeppersDev/agent-infrastructure-landscape",
+    "language": "HTML",
+    "name": "MrPeppersDev/agent-infrastructure-landscape",
+    "stars": 5,
+    "updated_at": "2026-10-05T09:50:52Z",
+    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
+  },
+  {
+    "description": "Reference Java & Spring implementation of the Open Ingestion Standard (OIS). It provides a secure, decoupled, and vendor",
+    "id": "opencrawling/opencrawling",
+    "language": "Java",
+    "name": "opencrawling/opencrawling",
+    "stars": 22,
+    "updated_at": "2026-10-05T09:46:51Z",
+    "url": "https://github.com/opencrawling/opencrawling"
+  },
+  {
+    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
+    "id": "linny006/vector-db-live",
+    "language": "Python",
+    "name": "linny006/vector-db-live",
+    "stars": 3,
+    "updated_at": "2026-10-05T09:45:25Z",
+    "url": "https://github.com/linny006/vector-db-live"
   },
   {
     "description": "Multi-Agent AI Orchestrator 2026 \ud83d\ude80 | YAML, 6+ LLM Providers, ReAct & Swarm",
@@ -50,7 +131,7 @@
     "language": "C++",
     "name": "makr-code/ThemisDB",
     "stars": 9,
-    "updated_at": "2026-10-05T09:40:05Z",
+    "updated_at": "2026-10-05T09:51:39Z",
     "url": "https://github.com/makr-code/ThemisDB"
   },
   {
@@ -72,24 +153,6 @@
     "url": "https://github.com/ChromaDotNet/ChromaDB.AgentFramework.Sample"
   },
   {
-    "description": "Point a cross-model AI engineering team at your own codebases. The Agent OS keeps named AI maintainers' identity, memory",
-    "id": "neomjs/neo-agent-brain",
-    "language": "JavaScript",
-    "name": "neomjs/neo-agent-brain",
-    "stars": 11,
-    "updated_at": "2026-10-05T09:43:44Z",
-    "url": "https://github.com/neomjs/neo-agent-brain"
-  },
-  {
-    "description": "Live-updating landscape of vector database projects, integrations, and benchmarks \u2014 refreshed every ",
-    "id": "linny006/vector-db-live",
-    "language": "Python",
-    "name": "linny006/vector-db-live",
-    "stars": 3,
-    "updated_at": "2026-10-05T09:30:27Z",
-    "url": "https://github.com/linny006/vector-db-live"
-  },
-  {
     "description": "The AI search platform",
     "id": "vespa-engine/vespa",
     "language": "Java",
@@ -104,35 +167,8 @@
     "language": "Rust",
     "name": "qdrant/qdrant",
     "stars": 34932,
-    "updated_at": "2026-10-05T09:41:16Z",
+    "updated_at": "2026-10-05T09:57:35Z",
     "url": "https://github.com/qdrant/qdrant"
-  },
-  {
-    "description": "Aspire integrations for Chroma and Chroma Cloud, built on ChromaDB.Client.",
-    "id": "ChromaDotNet/ChromaDB.Aspire",
-    "language": "C#",
-    "name": "ChromaDotNet/ChromaDB.Aspire",
-    "stars": 0,
-    "updated_at": "2026-10-05T09:28:55Z",
-    "url": "https://github.com/ChromaDotNet/ChromaDB.Aspire"
-  },
-  {
-    "description": "Bayesian MMM\uacfc \ucd5c\uc2e0 \uc2dc\uc7a5 \ud2b8\ub80c\ub4dc\ub97c \ud65c\uc6a9\ud574 \ub2e4\uc74c \ubd84\uae30 \ub9c8\ucf00\ud305 \uc608\uc0b0 \ubc30\ubd84\uc744 \ucd94\ucc9c\ud558\uace0, \uc608\uc0c1 \uc131\uacfc\uc640 \ubd88\ud655\uc2e4\uc131\uc744 \ube44\uad50\ud558\ub294 \uc2dc\ubbac\ub808\uc774\ud130",
-    "id": "LEE-ok/trend-aware-mmm",
-    "language": "Python",
-    "name": "LEE-ok/trend-aware-mmm",
-    "stars": 0,
-    "updated_at": "2026-10-05T09:19:05Z",
-    "url": "https://github.com/LEE-ok/trend-aware-mmm"
-  },
-  {
-    "description": "AI agent memory & infrastructure landscape \u2014 comparative catalog of 912 systems \u00d7 68 columns covering memory layers, age",
-    "id": "MrPeppersDev/agent-infrastructure-landscape",
-    "language": "HTML",
-    "name": "MrPeppersDev/agent-infrastructure-landscape",
-    "stars": 5,
-    "updated_at": "2026-10-05T09:18:00Z",
-    "url": "https://github.com/MrPeppersDev/agent-infrastructure-landscape"
   },
   {
     "description": "Migrate embedding models progressively over existing vector indexes without full re-embedding, enabling seamless upgrade",
@@ -142,15 +178,6 @@
     "stars": 0,
     "updated_at": "2026-10-05T09:17:09Z",
     "url": "https://github.com/pwolfey09-sketch/embedflow"
-  },
-  {
-    "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a ",
-    "id": "ArcadeData/arcadedb",
-    "language": "Java",
-    "name": "ArcadeData/arcadedb",
-    "stars": 1180,
-    "updated_at": "2026-10-05T09:16:24Z",
-    "url": "https://github.com/ArcadeData/arcadedb"
   },
   {
     "description": "Explore GitHub repositories privately with local AI assistance for code, architecture, PRs, issues, and commits\u2014no cloud",
@@ -185,7 +212,7 @@
     "language": "Java",
     "name": "crate/crate",
     "stars": 4443,
-    "updated_at": "2026-10-05T09:32:43Z",
+    "updated_at": "2026-10-05T09:54:06Z",
     "url": "https://github.com/crate/crate"
   },
   {
@@ -346,7 +373,7 @@
     "id": "topoteretes/cognee",
     "language": "Python",
     "name": "topoteretes/cognee",
-    "stars": 31370,
+    "stars": 31371,
     "updated_at": "2026-10-05T09:00:12Z",
     "url": "https://github.com/topoteretes/cognee"
   },
@@ -419,34 +446,7 @@
     "language": "Rust",
     "name": "RediSearch/RediSearch",
     "stars": 6243,
-    "updated_at": "2026-10-05T09:38:36Z",
+    "updated_at": "2026-10-05T09:47:39Z",
     "url": "https://github.com/RediSearch/RediSearch"
-  },
-  {
-    "description": "A persistent context and memory layer that gives agents short-term conversation context, long-term knowledge, episodic e",
-    "id": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "language": "HTML",
-    "name": "CogKnowEdge-Solutions/Context-Memory-Layer",
-    "stars": 0,
-    "updated_at": "2026-10-05T08:50:26Z",
-    "url": "https://github.com/CogKnowEdge-Solutions/Context-Memory-Layer"
-  },
-  {
-    "description": "\ud83e\udde0 Transform documentation chaos into a structured memory system with Mnemos, your self-hosted, multi-context knowledge s",
-    "id": "ELSAKKK/mnemos-mcp",
-    "language": "Python",
-    "name": "ELSAKKK/mnemos-mcp",
-    "stars": 5,
-    "updated_at": "2026-10-05T08:50:02Z",
-    "url": "https://github.com/ELSAKKK/mnemos-mcp"
-  },
-  {
-    "description": "\ud83c\udf1f Accelerate SQLite database operations on Apple Silicon with GPU power for faster analytics and efficient data manageme",
-    "id": "hankamarvanova/unified-db",
-    "language": "Swift",
-    "name": "hankamarvanova/unified-db",
-    "stars": 2,
-    "updated_at": "2026-10-05T08:49:04Z",
-    "url": "https://github.com/hankamarvanova/unified-db"
   }
 ]
